@@ -1,0 +1,10 @@
+{
+  "name": "MPSC Smart Study Hub V4",
+  "short_name": "MPSC Study Hub",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#173ea5",
+  "description": "MPSC preparation app for Meghalaya competitive examinations.",
+  "icons": []
+}
