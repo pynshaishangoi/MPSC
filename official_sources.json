@@ -1,0 +1,15 @@
+{
+  "primary_official_source": "https://mpsc.meghalaya.gov.in/",
+  "answer_keys": "https://mpsc.meghalaya.gov.in/anskey.html",
+  "answer_key_notices": "https://mpsc.meghalaya.gov.in/notifications-ak.html",
+  "final_answer_keys": {
+    "LDA Secretariat May 2025": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf",
+    "LDA Various Heads Nov 2024": "https://mpsc.meghalaya.gov.in/finalanswerkey/LDA%20Heads%20nov%2024.pdf"
+  },
+  "checked_on": "2026-10-07",
+  "policy": [
+    "Official PYQ only when supported by an MPSC source",
+    "Prefer final official answer keys",
+    "Clearly distinguish exact repeats, concept repeats and original practice"
+  ]
+}

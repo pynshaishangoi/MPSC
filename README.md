@@ -1,19 +1,12 @@
-# MPSC Smart Study Hub V4
+# MPSC Smart Study Hub V5
 
-GitHub-ready Meghalaya MPSC study website based on the user's uploaded-paper analysis.
+GitHub-ready Meghalaya MPSC study website focused on LDA and officer-post preparation.
 
-## Included
-- 275-question curated bank from V3
-- Verified-PYQ-labelled revision records from the analysed source material
-- Topic practice, mock tests, wrong-question review, bookmarks and analytics
-- LDA and officer-post exam targets
-- Official MPSC source directory
-- PWA manifest and service worker
-- Local progress export/import
+## V5 update
+- 322 total questions (275 existing + 47 newly added verified LDA Secretariat May 2025 PYQs).
+- New PYQs are explicitly labelled and sourced to the uploaded MPSC paper.
+- Answers for the new Secretariat PYQs were checked against the official MPSC final answer key dated 17-12-2025.
+- Existing LDA/officer analysis, exam simulator, PYQ revision, practice filters, wrong-question review, bookmarks, analytics, study plan and notes are retained.
 
-## Source integrity
-Official MPSC material is treated as the primary source. Genuine PYQs and original practice questions are explicitly distinguished.
-
-## Next expansion
-The architecture is ready for a larger master question database and additional verified MPSC papers.
-Updated for GitHub Pages deployment.
+## Source policy
+Official MPSC material is the primary source. Genuine PYQs and original practice questions are kept clearly distinct.
