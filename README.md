@@ -16,3 +16,4 @@ Official MPSC material is treated as the primary source. Genuine PYQs and origin
 
 ## Next expansion
 The architecture is ready for a larger master question database and additional verified MPSC papers.
+Updated for GitHub Pages deployment.
