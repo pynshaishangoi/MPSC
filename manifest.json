@@ -1,10 +1,10 @@
 {
-  "name": "MPSC Smart Study Hub V5",
+  "name": "MPSC Smart Study Hub V5.1",
   "short_name": "MPSC Study Hub",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f3f6fb",
   "theme_color": "#173ea5",
-  "description": "MPSC preparation app for Meghalaya competitive examinations, including LDA and Inspector of Taxes preparation.",
+  "description": "MPSC Meghalaya exam preparation with current affairs, difficulty-based mock tests, detailed explanations, and study analytics.",
   "icons": []
 }
