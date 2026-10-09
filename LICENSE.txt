@@ -1,5 +1,6 @@
-MPSC Smart Study Hub V4
+MPSC Smart Study Hub V5
 
 This project package is prepared for the user's personal study website.
 Official Meghalaya Public Service Commission content remains the property of its respective owner.
 Do not represent newly written practice questions as official MPSC questions.
+Check and respect source terms before redistributing official examination materials.
