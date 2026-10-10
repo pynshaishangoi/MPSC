@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "inventoryDate": "2026-10-10",
+  "totalDistinctPapers": 19,
+  "inventoryScope": "19 distinct exam papers identified among the user's uploaded PDFs; duplicate copies and a solved presentation of the May 2025 LDA paper are not counted separately.",
+  "readinessRule": "A paper may be exposed as an exact-paper timed test only after every question is transcribed and numbered in source order, every option is preserved, the official answer key is checked and cited, every explanation is complete, and the question count and sequence pass validation.",
+  "papers": [
+    {
+      "id": "lda-2016",
+      "title": "Lower Division Assistant (LDA) 2016",
+      "sourceFilename": "LDA(16).PDF",
+      "expectedQuestionCount": 225,
+      "inventoryReviewStatus": "identified_from_filename_and_existing_analysis",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "lda-msec-2020",
+      "title": "Lower Division Assistant (MSEC) 2020",
+      "sourceFilename": "31012020LDA(MSEC)20.PDF",
+      "expectedQuestionCount": 175,
+      "inventoryReviewStatus": "identified_from_filename_and_existing_analysis",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "lda-mpsc-2019",
+      "title": "Lower Division Assistant (MPSC) 2019",
+      "sourceFilename": "14092019LDA(MPSC)19.PDF",
+      "expectedQuestionCount": 175,
+      "inventoryReviewStatus": "identified_from_filename_and_existing_analysis",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "lda-hod1-2023",
+      "title": "Lower Division Assistant, Heads of Department I (HOD-I), 2023 sitting",
+      "sourceFilename": "13052023LDA(HOD-I)23.pdf",
+      "expectedQuestionCount": 150,
+      "inventoryReviewStatus": "identified_from_filename_and_existing_analysis",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "lda-mpsc-2023",
+      "title": "Lower Division Assistant (MPSC), May 2023",
+      "sourceFilename": "20052023LDA(MPSC)23.PDF",
+      "expectedQuestionCount": 150,
+      "inventoryReviewStatus": "identified_from_filename_and_existing_analysis",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "typist-hod-2023",
+      "title": "Typist, Heads of Department, 2023",
+      "sourceFilename": "15042023TY(HOD)23.pdf",
+      "expectedQuestionCount": 50,
+      "inventoryReviewStatus": "identified_from_filename_and_existing_analysis",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "lda-hod2-2023",
+      "title": "Lower Division Assistant, Heads of Department II (HOD-II), 2023",
+      "sourceFilename": "27052023LDA(HOD-II)23.PDF",
+      "expectedQuestionCount": 150,
+      "inventoryReviewStatus": "identified_from_filename_and_existing_analysis",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "lda-feb-2024",
+      "title": "Lower Division Assistant, February 2024",
+      "sourceFilename": "03022024LDA23.PDF",
+      "expectedQuestionCount": 150,
+      "inventoryReviewStatus": "identified_from_filename_and_existing_analysis",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "lda-oct-2023-sitting-dec-2024",
+      "title": "Lower Division Assistant, October 2023 advertisement / 14 December 2024 sitting",
+      "sourceFilename": "14122024[LDA(OCT-2023].PDF",
+      "expectedQuestionCount": null,
+      "inventoryReviewStatus": "identified_from_filename_and_existing_analysis",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "lda-nov-2024",
+      "title": "Lower Division Assistant, November 2024 advertisement; exam 22 March 2025",
+      "sourceFilename": "LDA(NOV 2024)22032025.PDF",
+      "expectedQuestionCount": 150,
+      "inventoryReviewStatus": "identified_from_filename_and_existing_analysis",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "lda-secretariat-may-2025",
+      "title": "Lower Division Assistant, Secretariat, May 2025",
+      "sourceFilename": "13092025[LDA {SECTT} MAY 2025].PDF",
+      "expectedQuestionCount": 150,
+      "inventoryReviewStatus": "identified_from_filename_and_existing_analysis",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "iot-2021",
+      "title": "Inspector of Taxes (IOT), 2021",
+      "sourceFilename": "27022021IOT21.PDF",
+      "expectedQuestionCount": null,
+      "inventoryReviewStatus": "identified_from_filename",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "assistant-inspector-excise-2024",
+      "title": "Assistant Inspector of Excise, 2024",
+      "sourceFilename": "Assistant Inspector of Excise under the Commissioner of Excise 2024.PDF",
+      "expectedQuestionCount": null,
+      "inventoryReviewStatus": "identified_from_filename",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "inspector-excise-dec-2024",
+      "title": "Inspector of Excise, December 2024 advertisement",
+      "sourceFilename": "28062025[INSP.EX(DEC-2024)].PDF",
+      "expectedQuestionCount": null,
+      "inventoryReviewStatus": "identified_from_filename",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "mvi-apr-2025",
+      "title": "Motor Vehicle Inspector, April 2025 advertisement",
+      "sourceFilename": "26072025[MVI(APR 2025].PDF",
+      "expectedQuestionCount": null,
+      "inventoryReviewStatus": "identified_from_filename",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "inspector-legal-metrology-apr-2025",
+      "title": "Inspector of Legal Metrology, April 2025 advertisement",
+      "sourceFilename": "19072025[INSP LEG-M (APR 2025].PDF",
+      "expectedQuestionCount": null,
+      "inventoryReviewStatus": "identified_from_filename",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "inspector-housing-apr-2025",
+      "title": "Inspector of Housing, April 2025 advertisement",
+      "sourceFilename": "15112025[inspt. Housing (Apr-2025].PDF",
+      "expectedQuestionCount": null,
+      "inventoryReviewStatus": "identified_from_filename",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "inspector-statistics-apr-2025",
+      "title": "Inspector of Statistics (Economics & Statistics), April 2025 advertisement",
+      "sourceFilename": "23082025INSPT OF STAT (ECO & STAT) APR 2025.PDF",
+      "expectedQuestionCount": null,
+      "inventoryReviewStatus": "identified_from_filename",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    },
+    {
+      "id": "si-statistics-dtc-economics-apr-2025",
+      "title": "Sub-Inspector of Statistics / DTC Economics & Statistics, April 2025 advertisement",
+      "sourceFilename": "20092025[SI STAT, DTC ECO & STA (APR,25].PDF",
+      "expectedQuestionCount": null,
+      "inventoryReviewStatus": "identified_from_filename",
+      "transcriptionStatus": "not_started",
+      "answerKeyStatus": "not_verified",
+      "explanationsStatus": "not_started",
+      "exactTimedTestStatus": "blocked"
+    }
+  ]
+}
