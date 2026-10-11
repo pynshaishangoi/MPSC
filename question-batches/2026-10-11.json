@@ -1,0 +1,658 @@
+{
+  "date": "2026-10-11",
+  "questionCount": 33,
+  "description": "Multi-subject daily batch; original practice plus dated current affairs",
+  "sourcePolicy": "Original practice is not official PYQ. Current-affairs items carry dates and linked reporting.",
+  "subjects": {
+    "Meghalaya GK": 3,
+    "Polity": 3,
+    "History": 2,
+    "Geography": 2,
+    "Economy": 2,
+    "English": 2,
+    "Arithmetic": 6,
+    "Reasoning": 2,
+    "Science": 3,
+    "Environment": 1,
+    "Computer": 1,
+    "GST / Inspector of Taxes": 2,
+    "Current Affairs": 4
+  },
+  "questionIdRange": [
+    6101,
+    6133
+  ],
+  "questions": [
+    {
+      "id": 6101,
+      "cat": "Meghalaya GK",
+      "topic": "Culture",
+      "q": "Wangala is traditionally associated with which community?",
+      "o": [
+        "Khasi",
+        "Garo",
+        "Jaintia",
+        "Biate"
+      ],
+      "a": 1,
+      "e": "Correct answer: Garo\nKey points: Wangala is a Garo post-harvest thanksgiving festival associated with Saljong.\nWhy the other options are incorrect: The other communities have distinct traditions; they are not the community traditionally associated with Wangala.\nExam takeaway: Pair the festival with Garo culture and harvest thanksgiving.\nSource: https://www.meghalaya.gov.in/index.php/wangala",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.meghalaya.gov.in/index.php/wangala",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6102,
+      "cat": "Meghalaya GK",
+      "topic": "Statehood",
+      "q": "Meghalaya attained full statehood on which date?",
+      "o": [
+        "21 January 1972",
+        "2 April 1970",
+        "15 August 1947",
+        "26 January 1950"
+      ],
+      "a": 0,
+      "e": "Correct answer: 21 January 1972\nKey points: Meghalaya became a full-fledged state on 21 January 1972 under the North-Eastern Areas (Reorganisation) Act, 1971.\nWhy the other options are incorrect: 2 April 1970 is the earlier autonomous-state phase; 1947 and 1950 mark India's independence and Constitution dates.\nExam takeaway: Remember 21 January as Statehood Day.\nSource: https://meghalaya.gov.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://meghalaya.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6103,
+      "cat": "Meghalaya GK",
+      "topic": "Living root bridges",
+      "q": "Living root bridges are traditionally grown from aerial roots of which tree?",
+      "o": [
+        "Sal",
+        "Rubber fig (Ficus elastica)",
+        "Teak",
+        "Deodar"
+      ],
+      "a": 1,
+      "e": "Correct answer: Rubber fig (Ficus elastica)\nKey points: Aerial roots of the rubber fig are guided across streams and strengthened over time to form living bridges.\nWhy the other options are incorrect: The other trees are not the traditional species used for these famous bridges.\nExam takeaway: This is indigenous living architecture and ecological knowledge.\nSource: https://www.meghalaya.gov.in/index.php/wangala",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.meghalaya.gov.in/index.php/wangala",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6104,
+      "cat": "Polity",
+      "topic": "Constitution",
+      "q": "Which Article provides for the Comptroller and Auditor General of India?",
+      "o": [
+        "148",
+        "280",
+        "324",
+        "315"
+      ],
+      "a": 0,
+      "e": "Correct answer: 148\nKey points: Article 148 provides for the CAG, whose audit function supports legislative scrutiny of public expenditure.\nWhy the other options are incorrect: Article 280 is the Finance Commission; 324 concerns elections; 315 concerns Public Service Commissions.\nExam takeaway: CAG = Article 148 and public audit.\nSource: https://legislative.gov.in/constitution-of-india/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://legislative.gov.in/constitution-of-india/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6105,
+      "cat": "Polity",
+      "topic": "Local government",
+      "q": "The 73rd Constitutional Amendment primarily constitutionalised which institutions?",
+      "o": [
+        "Municipalities",
+        "Panchayati Raj institutions",
+        "High Courts",
+        "Finance Commission"
+      ],
+      "a": 1,
+      "e": "Correct answer: Panchayati Raj institutions\nKey points: The 73rd Amendment added Part IX and the Eleventh Schedule for Panchayati Raj institutions.\nWhy the other options are incorrect: Municipalities are associated with the 74th Amendment; the other bodies arise under different provisions.\nExam takeaway: 73rd = rural; 74th = urban local government.\nSource: https://panchayat.gov.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://panchayat.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6106,
+      "cat": "Polity",
+      "topic": "Directive Principles",
+      "q": "Directive Principles of State Policy are best described as:",
+      "o": [
+        "Directly enforceable like every Fundamental Right",
+        "Governance principles not directly enforceable by courts",
+        "Applicable only during Emergency",
+        "Amendable by state governments alone"
+      ],
+      "a": 1,
+      "e": "Correct answer: Governance principles not directly enforceable by courts\nKey points: Article 37 says DPSPs are not enforceable by courts, but are fundamental in governance and should guide law-making.\nWhy the other options are incorrect: Fundamental Rights are judicially enforceable subject to limits; DPSPs are not emergency-only and cannot be amended by a state alone.\nExam takeaway: Distinguish justiciable Fundamental Rights from non-justiciable DPSPs.\nSource: https://legislative.gov.in/constitution-of-india/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://legislative.gov.in/constitution-of-india/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6107,
+      "cat": "History",
+      "topic": "Colonial policy",
+      "q": "The Permanent Settlement of Bengal was introduced in 1793 under:",
+      "o": [
+        "Warren Hastings",
+        "Lord Cornwallis",
+        "Lord Wellesley",
+        "Lord Dalhousie"
+      ],
+      "a": 1,
+      "e": "Correct answer: Lord Cornwallis\nKey points: Cornwallis introduced the Permanent Settlement in Bengal in 1793, fixing the revenue demand on zamindars under the settlement.\nWhy the other options are incorrect: Wellesley is linked with Subsidiary Alliance; Dalhousie with annexation policies; Hastings preceded Cornwallis.\nExam takeaway: Permanent Settlement—1793—Cornwallis.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6108,
+      "cat": "History",
+      "topic": "Freedom movement",
+      "q": "The Champaran Satyagraha of 1917 addressed exploitation of:",
+      "o": [
+        "Indigo cultivators",
+        "Railway workers",
+        "Tea managers",
+        "Textile mill owners"
+      ],
+      "a": 0,
+      "e": "Correct answer: Indigo cultivators\nKey points: Gandhi's Champaran intervention addressed exploitation of indigo cultivators in Bihar and became an early major satyagraha.\nWhy the other options are incorrect: The other groups were not the primary focus of the Champaran movement.\nExam takeaway: Champaran = 1917 = indigo cultivators.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6109,
+      "cat": "Geography",
+      "topic": "Climate",
+      "q": "The Coriolis effect deflects moving air to which side in the Northern Hemisphere?",
+      "o": [
+        "Left",
+        "Right",
+        "Straight upward",
+        "No deflection"
+      ],
+      "a": 1,
+      "e": "Correct answer: Right\nKey points: Earth's rotation produces an apparent deflection to the right in the Northern Hemisphere and left in the Southern Hemisphere.\nWhy the other options are incorrect: Left is the Southern Hemisphere rule; vertical motion is not the defining horizontal deflection.\nExam takeaway: Northern Hemisphere right; Southern Hemisphere left.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6110,
+      "cat": "Geography",
+      "topic": "Soils",
+      "q": "Which soil type is especially associated with cotton because it retains moisture well?",
+      "o": [
+        "Laterite",
+        "Black soil",
+        "Desert soil",
+        "Mountain soil"
+      ],
+      "a": 1,
+      "e": "Correct answer: Black soil\nKey points: Black soil (regur) is clay-rich, retains moisture and is associated with cotton-growing regions of the Deccan.\nWhy the other options are incorrect: Laterite, desert and mountain soils have different properties and regional distributions.\nExam takeaway: Black soil—Deccan—cotton, with local variation.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6111,
+      "cat": "Economy",
+      "topic": "Fiscal policy",
+      "q": "Fiscal deficit is broadly total expenditure minus:",
+      "o": [
+        "Total receipts including borrowings",
+        "Total receipts excluding borrowings",
+        "Only tax revenue",
+        "Only interest payments"
+      ],
+      "a": 1,
+      "e": "Correct answer: Total receipts excluding borrowings\nKey points: Fiscal deficit is the gap between total expenditure and total receipts excluding borrowings; it indicates the government's borrowing requirement.\nWhy the other options are incorrect: Including borrowings hides the gap; tax revenue alone omits other receipts; interest payments alone are not the definition.\nExam takeaway: Do not confuse fiscal deficit with revenue deficit.\nSource: https://www.indiabudget.gov.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.indiabudget.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6112,
+      "cat": "Economy",
+      "topic": "Banking",
+      "q": "Which institution's Monetary Policy Committee determines India's policy repo rate?",
+      "o": [
+        "SEBI",
+        "Reserve Bank of India",
+        "NABARD alone",
+        "Competition Commission"
+      ],
+      "a": 1,
+      "e": "Correct answer: Reserve Bank of India\nKey points: The RBI's Monetary Policy Committee determines the policy rate under India's inflation-targeting framework.\nWhy the other options are incorrect: SEBI regulates securities; NABARD focuses on rural/agricultural finance; the Competition Commission enforces competition law.\nExam takeaway: RBI monetary policy is distinct from government fiscal policy.\nSource: https://www.rbi.org.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.rbi.org.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6113,
+      "cat": "English",
+      "topic": "Vocabulary",
+      "q": "'Meticulous' most nearly means:",
+      "o": [
+        "Careless",
+        "Very careful and attentive to detail",
+        "Impatient",
+        "Unwilling to work"
+      ],
+      "a": 1,
+      "e": "Correct answer: Very careful and attentive to detail\nKey points: Meticulous describes work done with great care and attention to small details.\nWhy the other options are incorrect: Careless is nearly opposite; impatient concerns delay; unwillingness concerns motivation, not precision.\nExam takeaway: Meticulous = painstakingly precise.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6114,
+      "cat": "English",
+      "topic": "Conditionals",
+      "q": "Complete: 'If she had left earlier, she ___ the train.'",
+      "o": [
+        "will catch",
+        "would catch",
+        "would have caught",
+        "had caught"
+      ],
+      "a": 2,
+      "e": "Correct answer: would have caught\nKey points: The third conditional uses if + past perfect and a result clause with would have + past participle.\nWhy the other options are incorrect: Will catch is future; would catch is commonly second conditional; had caught does not complete the required result clause.\nExam takeaway: If + had + past participle → would have + past participle.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6115,
+      "cat": "Arithmetic",
+      "topic": "Percentage",
+      "q": "A candidate scores 168 out of 240. What percentage is this?",
+      "o": [
+        "60%",
+        "65%",
+        "70%",
+        "75%"
+      ],
+      "a": 2,
+      "e": "Correct answer: 70%\nKey points: Percentage = 168 ÷ 240 × 100 = 0.7 × 100 = 70%. Simplifying 168/240 gives 7/10.\nWhy the other options are incorrect: 60% of 240 is 144; 65% is 156; 75% is 180.\nExam takeaway: Simplify the fraction before converting to percent.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6116,
+      "cat": "Arithmetic",
+      "topic": "Ratio",
+      "q": "The ratio of clerks to officers is 3:5. If there are 64 people, how many are clerks?",
+      "o": [
+        "24",
+        "32",
+        "40",
+        "16"
+      ],
+      "a": 0,
+      "e": "Correct answer: 24\nKey points: Total parts = 3 + 5 = 8. One part = 64 ÷ 8 = 8. Clerks = 3 × 8 = 24.\nWhy the other options are incorrect: 32 is half the total; 40 represents five parts; 16 represents two parts.\nExam takeaway: Required share = total × required parts ÷ total parts.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6117,
+      "cat": "Arithmetic",
+      "topic": "Profit and loss",
+      "q": "An item costs ₹800 and sells for ₹920. What is profit percentage on cost price?",
+      "o": [
+        "12%",
+        "15%",
+        "20%",
+        "25%"
+      ],
+      "a": 1,
+      "e": "Correct answer: 15%\nKey points: Profit = 920 − 800 = ₹120. Profit % = 120 ÷ 800 × 100 = 15%.\nWhy the other options are incorrect: 12% is ₹96; 20% is ₹160; 25% is ₹200 profit.\nExam takeaway: Profit percentage normally uses cost price as denominator.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6118,
+      "cat": "Arithmetic",
+      "topic": "Simple interest",
+      "q": "Find simple interest on ₹5,000 at 8% per annum for 2 years.",
+      "o": [
+        "₹400",
+        "₹600",
+        "₹800",
+        "₹1,000"
+      ],
+      "a": 2,
+      "e": "Correct answer: ₹800\nKey points: SI = P × R × T ÷ 100 = 5,000 × 8 × 2 ÷ 100 = ₹800.\nWhy the other options are incorrect: ₹400 is one year's interest; the other figures do not match the formula and values.\nExam takeaway: Simple interest increases linearly with time at a fixed rate.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6119,
+      "cat": "Arithmetic",
+      "topic": "Time and work",
+      "q": "A completes a job in 10 days and B in 15 days. How long together?",
+      "o": [
+        "5 days",
+        "6 days",
+        "8 days",
+        "12 days"
+      ],
+      "a": 1,
+      "e": "Correct answer: 6 days\nKey points: Rates are 1/10 and 1/15 job/day. Combined rate = 1/10 + 1/15 = 5/30 = 1/6, so time is 6 days.\nWhy the other options are incorrect: Adding 10 and 15 is wrong because rates are added, not completion times.\nExam takeaway: Add daily work fractions, then invert the combined rate.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6120,
+      "cat": "Arithmetic",
+      "topic": "Average",
+      "q": "What is the average of 12, 18, 25 and 35?",
+      "o": [
+        "20",
+        "21.5",
+        "22.5",
+        "23.5"
+      ],
+      "a": 2,
+      "e": "Correct answer: 22.5\nKey points: Sum = 12 + 18 + 25 + 35 = 90. Average = 90 ÷ 4 = 22.5.\nWhy the other options are incorrect: 20 implies a total of 80; 21.5 implies 86; 23.5 implies 94.\nExam takeaway: Add first, then divide by the number of observations.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6121,
+      "cat": "Reasoning",
+      "topic": "Series",
+      "q": "Find the next term: 2, 6, 12, 20, 30, __.",
+      "o": [
+        "36",
+        "40",
+        "42",
+        "44"
+      ],
+      "a": 2,
+      "e": "Correct answer: 42\nKey points: Terms follow n(n+1): 1×2, 2×3, 3×4, 4×5, 5×6; next is 6×7 = 42. Differences also increase by 2.\nWhy the other options are incorrect: 36, 40 and 44 do not fit the product pattern or next difference of 12.\nExam takeaway: Check differences and multiplication patterns.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6122,
+      "cat": "Reasoning",
+      "topic": "Direction",
+      "q": "A person walks 4 km north then 3 km east. Straight-line distance from start?",
+      "o": [
+        "5 km",
+        "6 km",
+        "7 km",
+        "1 km"
+      ],
+      "a": 0,
+      "e": "Correct answer: 5 km\nKey points: The legs form a right triangle: √(4² + 3²) = √25 = 5 km.\nWhy the other options are incorrect: Adding 4 + 3 gives path length, not displacement; 6 and 1 do not satisfy Pythagoras.\nExam takeaway: Use the 3–4–5 right-triangle shortcut.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6123,
+      "cat": "Science",
+      "topic": "Electricity",
+      "q": "A 12 V source is connected to a 3 Ω resistor. What current flows?",
+      "o": [
+        "3 A",
+        "4 A",
+        "9 A",
+        "36 A"
+      ],
+      "a": 1,
+      "e": "Correct answer: 4 A\nKey points: Ohm's law: I = V/R = 12/3 = 4 A.\nWhy the other options are incorrect: 3 A would require 4 Ω; multiplying voltage by resistance is the wrong relationship and units.\nExam takeaway: Volts divided by ohms gives amperes.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6124,
+      "cat": "Science",
+      "topic": "Acids and bases",
+      "q": "At about 25°C, a solution with pH 3 is:",
+      "o": [
+        "Acidic",
+        "Neutral",
+        "Basic",
+        "Always pure water"
+      ],
+      "a": 0,
+      "e": "Correct answer: Acidic\nKey points: At about 25°C, pH 7 is neutral; values below 7 are acidic, so pH 3 is acidic.\nWhy the other options are incorrect: Basic solutions generally have pH above 7; pH 3 is not neutral or pure water.\nExam takeaway: Lower pH means greater acidity on the usual aqueous scale.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6125,
+      "cat": "Science",
+      "topic": "Units",
+      "q": "Which is the SI unit of force?",
+      "o": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "a": 1,
+      "e": "Correct answer: Newton\nKey points: The newton is the SI derived unit of force, equal to kg·m/s².\nWhy the other options are incorrect: Joule measures energy/work, watt power and pascal pressure.\nExam takeaway: Keep N, J, W and Pa distinct.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6126,
+      "cat": "Environment",
+      "topic": "Conservation",
+      "q": "The Ramsar Convention focuses on conservation and wise use of:",
+      "o": [
+        "Wetlands",
+        "Deserts only",
+        "Outer space",
+        "Historic monuments only"
+      ],
+      "a": 0,
+      "e": "Correct answer: Wetlands\nKey points: The Ramsar Convention is an international treaty focused on wetlands and their conservation and wise use.\nWhy the other options are incorrect: The other choices are not the convention's central subject.\nExam takeaway: Ramsar = wetlands and international conservation.\nSource: https://www.ramsar.org/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.ramsar.org/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6127,
+      "cat": "Computer",
+      "topic": "Cybersecurity",
+      "q": "What is the main benefit of correctly configured HTTPS over plain HTTP?",
+      "o": [
+        "Guarantees the site is honest",
+        "Encrypts data in transit and helps authenticate the server",
+        "Makes passwords unnecessary",
+        "Prevents all malware"
+      ],
+      "a": 1,
+      "e": "Correct answer: Encrypts data in transit and helps authenticate the server\nKey points: HTTPS uses TLS to encrypt data in transit and authenticate the server endpoint, reducing interception and tampering risks.\nWhy the other options are incorrect: It does not certify the site's honesty, replace authentication or block all malware.\nExam takeaway: Check the domain too; HTTPS protects the connection, not every site action.\nSource: https://www.cert-in.org.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.cert-in.org.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6128,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "GST registration",
+      "q": "How many characters are in a standard Indian GSTIN?",
+      "o": [
+        "10",
+        "12",
+        "15",
+        "16"
+      ],
+      "a": 2,
+      "e": "Correct answer: 15\nKey points: A GSTIN is a 15-character alphanumeric identification number, including a two-digit state code and PAN-based portion.\nWhy the other options are incorrect: PAN itself has 10 characters; 12 and 16 are not the standard GSTIN length.\nExam takeaway: GSTIN = 15 characters; PAN = 10.\nSource: https://www.gst.gov.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.gst.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "Inspector of Taxes / MPSC Practice"
+    },
+    {
+      "id": 6129,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "GST returns",
+      "q": "Which return generally reports outward supplies made by a regular taxpayer?",
+      "o": [
+        "GSTR-1",
+        "GSTR-2B",
+        "GSTR-6",
+        "GSTR-9C"
+      ],
+      "a": 0,
+      "e": "Correct answer: GSTR-1\nKey points: GSTR-1 is the statement of outward supplies and contains sales/supply details.\nWhy the other options are incorrect: GSTR-2B is an auto-drafted ITC statement; GSTR-6 is for Input Service Distributors; GSTR-9C is a reconciliation statement where applicable.\nExam takeaway: GSTR-1 = outward supplies; GSTR-3B = summary return and tax payment.\nSource: https://cbic-gst.gov.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://cbic-gst.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "Inspector of Taxes / MPSC Practice"
+    },
+    {
+      "id": 6130,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya culture",
+      "q": "A Meghalaya Government release dated 8 October 2026 says the special Golden Jubilee Wangala presentation plans how many drums?",
+      "o": [
+        "100",
+        "250",
+        "500",
+        "1,000"
+      ],
+      "a": 3,
+      "e": "Correct answer: 1,000\nKey points: The official state release says the 50th organised festival celebration plans a special 1,000-drums presentation, replacing the customary 100-drums presentation this year.\nWhy the other options are incorrect: 100 is the traditional festival name; 1,000 is the special 2026 Golden Jubilee plan.\nExam takeaway: Keep the date attached; this is a one-off reported arrangement.\nSource: https://meghalaya.gov.in/index.php/press/content/52012",
+      "source": "Dated current-affairs practice; 2026-10-11",
+      "sourceURL": "https://meghalaya.gov.in/index.php/press/content/52012",
+      "verificationStatus": "dated-report-reviewed",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice",
+      "currentAffairsDate": "2026-10-11"
+    },
+    {
+      "id": 6131,
+      "cat": "Current Affairs",
+      "topic": "World climate",
+      "q": "A Reuters report on 8 October 2026 said the current El Niño may persist until at least:",
+      "o": [
+        "February 2027",
+        "February 2026",
+        "December 2025",
+        "Only the next week"
+      ],
+      "a": 0,
+      "e": "Correct answer: February 2027\nKey points: The report, citing WMO, said the event was expected to persist until February 2027 and may intensify; this is a forecast rather than certainty about local weather.\nWhy the other options are incorrect: The other options conflict with the dated forecast horizon.\nExam takeaway: Distinguish seasonal forecast from a guaranteed local weather outcome.\nSource: https://www.reuters.com/business/environment/un-weather-body-says-el-nio-set-intensify-last-until-february-2027-2026-10-08/",
+      "source": "Dated current-affairs practice; 2026-10-11",
+      "sourceURL": "https://www.reuters.com/business/environment/un-weather-body-says-el-nio-set-intensify-last-until-february-2027-2026-10-08/",
+      "verificationStatus": "dated-report-reviewed",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice",
+      "currentAffairsDate": "2026-10-11"
+    },
+    {
+      "id": 6132,
+      "cat": "Current Affairs",
+      "topic": "Economy",
+      "q": "A report dated 6 October 2026 said the Union Cabinet approved a ₹10,000-crore commitment to which fund?",
+      "o": [
+        "SME Growth Fund",
+        "National Space Fund",
+        "Universal School Meals Fund",
+        "Rural Postal Fund"
+      ],
+      "a": 0,
+      "e": "Correct answer: SME Growth Fund\nKey points: Business Standard reported that the government commitment was for an SME Growth Fund intended to provide growth-stage capital to small and medium enterprises.\nWhy the other options are incorrect: The other fund names do not match the dated report.\nExam takeaway: Learn fund name, amount, target group and date together.\nSource: https://www.business-standard.com/economy/news/union-cabinet-approves-10-000-crore-commitment-to-sme-growth-fund-126100600817_1.html",
+      "source": "Dated current-affairs practice; 2026-10-11",
+      "sourceURL": "https://www.business-standard.com/economy/news/union-cabinet-approves-10-000-crore-commitment-to-sme-growth-fund-126100600817_1.html",
+      "verificationStatus": "dated-report-reviewed",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice",
+      "currentAffairsDate": "2026-10-11"
+    },
+    {
+      "id": 6133,
+      "cat": "Current Affairs",
+      "topic": "Sports",
+      "q": "Who was named captain of New Zealand's first three ODIs against India in a report dated 11 October 2026?",
+      "o": [
+        "Kane Williamson",
+        "Mitchell Santner",
+        "Tom Latham",
+        "Trent Boult"
+      ],
+      "a": 1,
+      "e": "Correct answer: Mitchell Santner\nKey points: The Indian Express report on 11 October identifies Mitchell Santner as captain for the first three ODIs of the home series against India.\nWhy the other options are incorrect: The other names are not the captain identified in the dated report; selections may change.\nExam takeaway: Record the date and series with the captain's name.\nSource: https://indianexpress.com/article/sports/cricket/new-zealand-odi-squad-india-series-2026-schedule-dates-venues-10916254/",
+      "source": "Dated current-affairs practice; 2026-10-11",
+      "sourceURL": "https://indianexpress.com/article/sports/cricket/new-zealand-odi-squad-india-series-2026-schedule-dates-venues-10916254/",
+      "verificationStatus": "dated-report-reviewed",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice",
+      "currentAffairsDate": "2026-10-11"
+    }
+  ]
+}
