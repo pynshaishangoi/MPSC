@@ -121,4 +121,4 @@ notesBox.value=S.notes||'';noteTime.textContent=S.noteTime||'Not yet';
 document.getElementById('installBtn').onclick=function(){if(window.deferredPrompt){window.deferredPrompt.prompt()}else{alert('Use browser menu -> Add to Home screen to install this app.')}};
 window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();window.deferredPrompt=e;});
 if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js');
-</script></body></html>
+fetch('./question-batches/2026-10-11.json').then(function(r){return r.json()}).then(function(b){b.questions.forEach(function(x){if(!Q.some(function(y){return String(y.id)===String(x.id)}))Q.push(x)});renderBank();renderPyq();updateAll()}).catch(function(){})</script></body></html>
