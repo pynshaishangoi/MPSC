@@ -1,0 +1,567 @@
+{
+  "date": "2026-10-12",
+  "questionCount": 30,
+  "description": "Multi-subject daily practice batch covering language, quantitative aptitude, Meghalaya GK, general studies, computer basics and GST",
+  "sourcePolicy": "All items are original exam-style practice, not official PYQs. Each item includes answer and explanation.",
+  "subjects": {
+    "English": 3,
+    "Arithmetic": 3,
+    "Reasoning": 2,
+    "Polity": 3,
+    "Meghalaya GK": 3,
+    "History": 2,
+    "Geography": 2,
+    "Science": 3,
+    "Economy": 2,
+    "Environment": 2,
+    "Computer": 2,
+    "GST / Inspector of Taxes": 2,
+    "Aptitude": 1
+  },
+  "questionIdRange": [
+    6134,
+    6163
+  ],
+  "questions": [
+    {
+      "id": 6134,
+      "cat": "English",
+      "topic": "Subject-verb agreement",
+      "q": "Neither of the answers ___ correct.",
+      "o": [
+        "are",
+        "were",
+        "is",
+        "have been"
+      ],
+      "a": 2,
+      "e": "Correct answer: is\nExplanation: With “neither of,” the verb is generally singular in formal exam grammar: “Neither ... is correct.”\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6135,
+      "cat": "English",
+      "topic": "Active and passive voice",
+      "q": "Choose the correct passive form: “The clerk prepared the report.”",
+      "o": [
+        "The report prepared by the clerk.",
+        "The report was prepared by the clerk.",
+        "The report is prepared by the clerk yesterday.",
+        "The clerk was prepared the report."
+      ],
+      "a": 1,
+      "e": "Correct answer: The report was prepared by the clerk.\nExplanation: The simple past active changes to “was/were + past participle”; report is singular, so “was prepared.”\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6136,
+      "cat": "Arithmetic",
+      "topic": "Percentage",
+      "q": "A value of ₹800 is increased by 15%. What is the new value?",
+      "o": [
+        "₹880",
+        "₹900",
+        "₹920",
+        "₹940"
+      ],
+      "a": 2,
+      "e": "Correct answer: ₹920\nExplanation: 15% of 800 = 120; new value = 800 + 120 = ₹920.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6137,
+      "cat": "Arithmetic",
+      "topic": "Ratio",
+      "q": "The ratio of two numbers is 3:5 and their sum is 64. What is the smaller number?",
+      "o": [
+        "18",
+        "24",
+        "32",
+        "40"
+      ],
+      "a": 1,
+      "e": "Correct answer: 24\nExplanation: Total parts = 3 + 5 = 8; each part = 64 ÷ 8 = 8; smaller number = 3 × 8 = 24.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6138,
+      "cat": "Reasoning",
+      "topic": "Number series",
+      "q": "Find the next number: 2, 6, 12, 20, 30, __.",
+      "o": [
+        "36",
+        "40",
+        "42",
+        "44"
+      ],
+      "a": 2,
+      "e": "Correct answer: 42\nExplanation: The differences are +4, +6, +8, +10; the next difference is +12, giving 42.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6139,
+      "cat": "Reasoning",
+      "topic": "Analogy",
+      "q": "Book is to read as food is to __.",
+      "o": [
+        "cook",
+        "eat",
+        "buy",
+        "serve"
+      ],
+      "a": 1,
+      "e": "Correct answer: eat\nExplanation: A book is read; food is eaten. The analogy matches the usual action performed with each.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6140,
+      "cat": "Polity",
+      "topic": "Fundamental Rights",
+      "q": "Which Article of the Indian Constitution guarantees equality before the law?",
+      "o": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ],
+      "a": 0,
+      "e": "Correct answer: Article 14\nExplanation: Article 14 guarantees equality before the law and equal protection of the laws within India.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6141,
+      "cat": "Polity",
+      "topic": "Parliament",
+      "q": "A Money Bill can be introduced only in which House of Parliament?",
+      "o": [
+        "Rajya Sabha",
+        "Lok Sabha",
+        "Either House",
+        "Joint sitting only"
+      ],
+      "a": 1,
+      "e": "Correct answer: Lok Sabha\nExplanation: A Money Bill can be introduced only in the Lok Sabha, subject to the constitutional procedure in Article 110.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6142,
+      "cat": "Meghalaya GK",
+      "topic": "State formation",
+      "q": "Meghalaya became an autonomous state within Assam in which year?",
+      "o": [
+        "1965",
+        "1970",
+        "1972",
+        "1987"
+      ],
+      "a": 1,
+      "e": "Correct answer: 1970\nExplanation: Meghalaya became an autonomous state on 2 April 1970 and attained full statehood on 21 January 1972.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6143,
+      "cat": "Meghalaya GK",
+      "topic": "Geography",
+      "q": "Which is the capital of Meghalaya?",
+      "o": [
+        "Tura",
+        "Jowai",
+        "Shillong",
+        "Nongpoh"
+      ],
+      "a": 2,
+      "e": "Correct answer: Shillong\nExplanation: Shillong is the capital of Meghalaya and is located in the East Khasi Hills district.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6144,
+      "cat": "History",
+      "topic": "Indian National Movement",
+      "q": "The Dandi March of 1930 was associated with protest against which tax?",
+      "o": [
+        "Land revenue",
+        "Salt tax",
+        "Income tax",
+        "Forest tax"
+      ],
+      "a": 1,
+      "e": "Correct answer: Salt tax\nExplanation: Gandhi's Salt March challenged the British salt laws and tax; it began in March 1930 and culminated at Dandi.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6145,
+      "cat": "History",
+      "topic": "Ancient India",
+      "q": "The Great Bath is a well-known structure at which Indus Valley site?",
+      "o": [
+        "Harappa",
+        "Lothal",
+        "Mohenjo-daro",
+        "Kalibangan"
+      ],
+      "a": 2,
+      "e": "Correct answer: Mohenjo-daro\nExplanation: The Great Bath at Mohenjo-daro is one of the best-known structures of the Indus Valley Civilisation.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6146,
+      "cat": "Geography",
+      "topic": "Earth science",
+      "q": "Lines of latitude measure distance north or south of the __.",
+      "o": [
+        "Prime Meridian",
+        "Equator",
+        "Tropic of Cancer",
+        "International Date Line"
+      ],
+      "a": 1,
+      "e": "Correct answer: Equator\nExplanation: Latitude measures angular distance north or south of the Equator; longitude measures east or west of the Prime Meridian.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6147,
+      "cat": "Geography",
+      "topic": "Indian rivers",
+      "q": "Which river flows through the rift valley between the Vindhya and Satpura ranges?",
+      "o": [
+        "Ganga",
+        "Narmada",
+        "Godavari",
+        "Yamuna"
+      ],
+      "a": 1,
+      "e": "Correct answer: Narmada\nExplanation: The Narmada flows westward through a rift valley between the Vindhya range to the north and Satpura range to the south.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6148,
+      "cat": "Science",
+      "topic": "Human physiology",
+      "q": "Which blood component primarily helps in clotting?",
+      "o": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma proteins only"
+      ],
+      "a": 2,
+      "e": "Correct answer: Platelets\nExplanation: Platelets help form a platelet plug and support the clotting process that limits bleeding.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6149,
+      "cat": "Science",
+      "topic": "Electricity",
+      "q": "What is the SI unit of electrical resistance?",
+      "o": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "a": 2,
+      "e": "Correct answer: Ohm\nExplanation: Electrical resistance is measured in ohms (Ω); voltage is measured in volts and current in amperes.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6150,
+      "cat": "Economy",
+      "topic": "Inflation",
+      "q": "Inflation generally refers to:",
+      "o": [
+        "A fall in all prices",
+        "A sustained rise in the general price level",
+        "A rise in one product only",
+        "A fall in money supply only"
+      ],
+      "a": 1,
+      "e": "Correct answer: A sustained rise in the general price level\nExplanation: Inflation is a sustained increase in the general price level, which reduces the purchasing power of money.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6151,
+      "cat": "Economy",
+      "topic": "Banking",
+      "q": "Which institution is India's central bank?",
+      "o": [
+        "State Bank of India",
+        "NABARD",
+        "Reserve Bank of India",
+        "SEBI"
+      ],
+      "a": 2,
+      "e": "Correct answer: Reserve Bank of India\nExplanation: The Reserve Bank of India is the country's central bank and is responsible for monetary policy and key banking functions.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6152,
+      "cat": "Environment",
+      "topic": "Biodiversity",
+      "q": "A species found naturally only in a particular geographic area is called:",
+      "o": [
+        "Invasive",
+        "Endemic",
+        "Migratory",
+        "Domestic"
+      ],
+      "a": 1,
+      "e": "Correct answer: Endemic\nExplanation: An endemic species is native to and restricted to a defined geographic region; it may be especially vulnerable to habitat loss.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6153,
+      "cat": "Environment",
+      "topic": "Climate change",
+      "q": "Which gas is the largest contributor to human-caused long-term global warming among these options?",
+      "o": [
+        "Carbon dioxide",
+        "Helium",
+        "Neon",
+        "Hydrogen"
+      ],
+      "a": 0,
+      "e": "Correct answer: Carbon dioxide\nExplanation: Carbon dioxide is the largest contributor to human-caused long-term warming among these options, largely from fossil-fuel use and land-use change.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6154,
+      "cat": "Computer",
+      "topic": "Cyber safety",
+      "q": "Which is the strongest password practice?",
+      "o": [
+        "Reuse one password everywhere",
+        "Use a long unique password for each account",
+        "Share passwords with colleagues",
+        "Use your date of birth"
+      ],
+      "a": 1,
+      "e": "Correct answer: Use a long unique password for each account\nExplanation: Long, unique passwords reduce credential-reuse risk; a reputable password manager can help manage them.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6155,
+      "cat": "Computer",
+      "topic": "Spreadsheets",
+      "q": "In a spreadsheet, which symbol typically begins a formula?",
+      "o": [
+        "#",
+        "=",
+        "@",
+        "&"
+      ],
+      "a": 1,
+      "e": "Correct answer: =\nExplanation: In common spreadsheet software such as Excel, formulas begin with an equals sign (=).\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6156,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "GST basics",
+      "q": "Which tax is generally levied on an intra-State taxable supply under GST?",
+      "o": [
+        "IGST only",
+        "CGST and SGST/UTGST",
+        "Customs duty only",
+        "Income tax and cess"
+      ],
+      "a": 1,
+      "e": "Correct answer: CGST and SGST/UTGST\nExplanation: For an intra-State taxable supply, CGST and the applicable SGST or UTGST are generally levied together; inter-State supplies generally attract IGST. Check statutory exceptions where relevant.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6157,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Input tax credit",
+      "q": "Input Tax Credit under GST is generally claimed for eligible tax paid on:",
+      "o": [
+        "Personal household expenses",
+        "Business inputs used or intended for business, subject to conditions",
+        "Any purchase without an invoice",
+        "Every blocked credit without exception"
+      ],
+      "a": 1,
+      "e": "Correct answer: Business inputs used or intended for business, subject to conditions\nExplanation: Eligible ITC may be claimed for business inputs subject to the CGST Act and Rules, documentation, receipt and other conditions; Section 17(5) blocks specified credits.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6158,
+      "cat": "Aptitude",
+      "topic": "Time and work",
+      "q": "A can finish a job in 10 days and B in 15 days. Working together at constant rates, how many days will they take?",
+      "o": [
+        "5 days",
+        "6 days",
+        "8 days",
+        "12 days"
+      ],
+      "a": 1,
+      "e": "Correct answer: 6 days\nExplanation: A's rate is 1/10 and B's is 1/15; combined rate = 1/10 + 1/15 = 1/6 job per day, so they need 6 days.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6159,
+      "cat": "Arithmetic",
+      "topic": "Simple interest",
+      "q": "Find the simple interest on ₹5,000 at 8% per annum for 2 years.",
+      "o": [
+        "₹400",
+        "₹600",
+        "₹800",
+        "₹1,000"
+      ],
+      "a": 2,
+      "e": "Correct answer: ₹800\nExplanation: Simple interest = P × R × T / 100 = 5,000 × 8 × 2 / 100 = ₹800.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6160,
+      "cat": "English",
+      "topic": "Vocabulary",
+      "q": "Choose the closest meaning of “diligent.”",
+      "o": [
+        "Careless",
+        "Hard-working and careful",
+        "Uncertain",
+        "Talkative"
+      ],
+      "a": 1,
+      "e": "Correct answer: Hard-working and careful\nExplanation: Diligent means showing steady, careful effort in one's work; “hard-working and careful” is the closest option.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6161,
+      "cat": "Polity",
+      "topic": "Constitutional bodies",
+      "q": "The Election Commission of India is provided for under which Article?",
+      "o": [
+        "Article 280",
+        "Article 324",
+        "Article 356",
+        "Article 368"
+      ],
+      "a": 1,
+      "e": "Correct answer: Article 324\nExplanation: Article 324 vests the superintendence, direction and control of elections in the Election Commission, subject to the Constitution.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6162,
+      "cat": "Meghalaya GK",
+      "topic": "Protected areas",
+      "q": "Nokrek Biosphere Reserve is located in which part of Meghalaya?",
+      "o": [
+        "Garo Hills",
+        "Khasi Hills",
+        "Jaintia Hills",
+        "Ri-Bhoi only"
+      ],
+      "a": 0,
+      "e": "Correct answer: Garo Hills\nExplanation: Nokrek Biosphere Reserve is in the Garo Hills region of Meghalaya and is known for its rich biodiversity.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6163,
+      "cat": "Science",
+      "topic": "Plants",
+      "q": "Which tissue transports water and minerals from roots to other parts of a plant?",
+      "o": [
+        "Phloem",
+        "Xylem",
+        "Epidermis",
+        "Stomata"
+      ],
+      "a": 1,
+      "e": "Correct answer: Xylem\nExplanation: Xylem conducts water and dissolved minerals mainly upward from roots; phloem transports sugars and other organic nutrients.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    }
+  ]
+}
