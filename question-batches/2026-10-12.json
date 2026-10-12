@@ -1,0 +1,982 @@
+{
+  "date": "2026-10-12",
+  "questionCount": 50,
+  "description": "Daily original practice batch plus dated current affairs; not official PYQ",
+  "sourcePolicy": "All items are labelled original practice; current-affairs items link to dated reporting or the official Meghalaya press-release register.",
+  "subjects": {
+    "Current Affairs": 5,
+    "Meghalaya GK": 5,
+    "Polity": 5,
+    "History": 4,
+    "Geography": 4,
+    "Economy": 3,
+    "English": 4,
+    "Arithmetic": 6,
+    "Reasoning": 3,
+    "Science": 4,
+    "Environment": 2,
+    "Computer": 2,
+    "GST / Inspector of Taxes": 3
+  },
+  "questionIdRange": [
+    6201,
+    6250
+  ],
+  "questions": [
+    {
+      "id": 6201,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya food logistics",
+      "q": "According to the Meghalaya Government press-release listing dated 8 October 2026, the command centre inaugurated in Shillong is intended to track which vehicles?",
+      "o": [
+        "School buses",
+        "Foodgrain vehicles",
+        "Tourist taxis",
+        "Ambulances"
+      ],
+      "a": 1,
+      "e": "Correct answer: Foodgrain vehicles. Key points: The state press-release listing names a command centre to track foodgrain vehicles, linking the update to public distribution and logistics monitoring. The other options are not the stated focus of this facility. Exam takeaway: connect the dated release with foodgrain movement and monitoring. Source: https://meghalaya.gov.in/index.php/whats-new/press-releases",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://meghalaya.gov.in/index.php/whats-new/press-releases",
+      "verificationStatus": "dated-report-reviewed; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Current Affairs",
+      "currentAffairsDate": "2026-10-12"
+    },
+    {
+      "id": 6202,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya public services",
+      "q": "A Meghalaya Government release dated 8 October 2026 reports an awareness programme about which law in North Garo Hills?",
+      "o": [
+        "Right to Public Services Act, 2020",
+        "Right to Education Act, 2009",
+        "Forest Rights Act, 2006",
+        "Right to Information Act, 2005"
+      ],
+      "a": 0,
+      "e": "Correct answer: Meghalaya Right to Public Services Act, 2020. Key points: The state release records an awareness programme about the Act across North Garo Hills. The other Acts cover education, forest rights and information access, not the named programme. Exam takeaway: distinguish time-bound delivery of notified public services from RTI, which provides access to information. Source: https://meghalaya.gov.in/index.php/whats-new/press-releases",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://meghalaya.gov.in/index.php/whats-new/press-releases",
+      "verificationStatus": "dated-report-reviewed; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC Current Affairs",
+      "currentAffairsDate": "2026-10-12"
+    },
+    {
+      "id": 6203,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya education",
+      "q": "A Meghalaya Government notice listed on 7 October 2026 scheduled the Eklavya Model Residential School Selection Test for which date?",
+      "o": [
+        "12 October 2026",
+        "14 October 2026",
+        "21 October 2026",
+        "31 October 2026"
+      ],
+      "a": 1,
+      "e": "Correct answer: 14 October 2026. Key points: The date comes from the state's dated notice listing; candidates should check the issuing notice for venue, reporting time and any later revision. The other dates are not the date given in that listing. Exam takeaway: treat exam dates as time-sensitive and verify the latest official notice before travel. Source: https://meghalaya.gov.in/index.php/whats-new/press-releases",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://meghalaya.gov.in/index.php/whats-new/press-releases",
+      "verificationStatus": "dated-report-reviewed; original practice",
+      "difficulty": "Easy",
+      "exam": "DSC / MPSC Current Affairs",
+      "currentAffairsDate": "2026-10-12"
+    },
+    {
+      "id": 6204,
+      "cat": "Current Affairs",
+      "topic": "RBI and currency market",
+      "q": "Reuters reported on 12 October 2026 that one RBI measure to support the rupee was to redirect oil companies' dollar purchases away from which market?",
+      "o": [
+        "Spot market",
+        "Primary agricultural market",
+        "Commodity futures exchange only",
+        "Government bond auction"
+      ],
+      "a": 0,
+      "e": "Correct answer: Spot market. Key points: Reuters reported that the RBI's measures included redirecting oil companies' dollar purchases away from the spot market and tightening hedging rules. The report described an effort to reduce immediate spot-dollar demand and currency volatility; it did not say the RBI fixed the rupee at a particular rate. Exam takeaway: distinguish a market-stabilisation measure from a fixed exchange-rate policy. Source: https://www.reuters.com/world/india/indian-shares-set-open-higher-as-oil-eases-rbi-moves-support-rupee-2026-10-12/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.reuters.com/world/india/indian-shares-set-open-higher-as-oil-eases-rbi-moves-support-rupee-2026-10-12/",
+      "verificationStatus": "dated-report-reviewed; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / Inspector of Taxes Current Affairs",
+      "currentAffairsDate": "2026-10-12"
+    },
+    {
+      "id": 6205,
+      "cat": "Current Affairs",
+      "topic": "Semiconductors and AI",
+      "q": "A Reuters report dated 12 October 2026 linked TSMC's expected record quarterly earnings chiefly to strong demand for which technology-related capacity?",
+      "o": [
+        "AI chips and advanced chip packaging",
+        "Printed newspapers",
+        "Solar water pumps only",
+        "Mechanical typewriters"
+      ],
+      "a": 0,
+      "e": "Correct answer: AI chips and advanced chip packaging. Key points: Reuters said analysts expected another record quarter amid strong demand for TSMC's AI-chip manufacturing capacity and its CoWoS advanced packaging technology. The article described an earnings forecast, not a final result on 12 October. Exam takeaway: distinguish an analyst forecast from a confirmed quarterly result. Source: https://www.reuters.com/world/china/tsmc-expected-report-sixth-straight-quarter-record-profit-thanks-ai-boom-2026-10-12/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.reuters.com/world/china/tsmc-expected-report-sixth-straight-quarter-record-profit-thanks-ai-boom-2026-10-12/",
+      "verificationStatus": "dated-report-reviewed; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / SSC Current Affairs",
+      "currentAffairsDate": "2026-10-12"
+    },
+    {
+      "id": 6206,
+      "cat": "Meghalaya GK",
+      "topic": "State formation",
+      "q": "Meghalaya became a separate full-fledged state after being carved out of which state?",
+      "o": [
+        "Assam",
+        "Nagaland",
+        "Manipur",
+        "Tripura"
+      ],
+      "a": 0,
+      "e": "Correct answer: Assam. Key points: Meghalaya was formed as a full-fledged state on 21 January 1972 after the earlier autonomous-state phase within Assam. The other options are separate northeastern states and were not the parent state from which Meghalaya was formed. Exam takeaway: Meghalaya statehood date = 21 January 1972. Source: https://www.megipr.gov.in/about-meghalaya.html",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.megipr.gov.in/about-meghalaya.html",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6207,
+      "cat": "Meghalaya GK",
+      "topic": "Traditional festivals",
+      "q": "The Nongkrem Dance Festival is traditionally associated mainly with which community?",
+      "o": [
+        "Khasi",
+        "Garo",
+        "Bodo",
+        "Mizo"
+      ],
+      "a": 0,
+      "e": "Correct answer: Khasi. Key points: Nongkrem is a Khasi religious and cultural festival associated with thanksgiving and traditional dance. Wangala is associated with the Garo community, while Bodo and Mizo communities are primarily associated with other northeastern states. Exam takeaway: Nongkrem–Khasi; Wangala–Garo. Source: https://www.megipr.gov.in/about-meghalaya.html",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.megipr.gov.in/about-meghalaya.html",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6208,
+      "cat": "Meghalaya GK",
+      "topic": "Traditional festivals",
+      "q": "Behdienkhlam is a major festival associated with which community of Meghalaya?",
+      "o": [
+        "Pnar/Jaintia",
+        "Garo",
+        "Khasi only",
+        "Lepcha"
+      ],
+      "a": 0,
+      "e": "Correct answer: Pnar/Jaintia. Key points: Behdienkhlam is a major traditional festival of the Pnar/Jaintia people, especially associated with Jowai and nearby areas. It should not be confused with the Garo Wangala or Khasi Nongkrem festival. Exam takeaway: Behdienkhlam–Jaintia/Pnar. Source: https://www.megipr.gov.in/about-meghalaya.html",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.megipr.gov.in/about-meghalaya.html",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6209,
+      "cat": "Meghalaya GK",
+      "topic": "Rivers and tourism",
+      "q": "The Umngot River, famous for clear water near Dawki, is associated with which hill region?",
+      "o": [
+        "Jaintia Hills",
+        "Garo Hills",
+        "West Khasi Hills only",
+        "Ri-Bhoi plains"
+      ],
+      "a": 0,
+      "e": "Correct answer: Jaintia Hills. Key points: Dawki and the Umngot River are in the Jaintia Hills region near the Bangladesh border. The other options refer to separate regions of Meghalaya. Exam takeaway: Dawki–Umngot–Jaintia Hills. Source: https://www.megipr.gov.in/about-meghalaya.html",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.megipr.gov.in/about-meghalaya.html",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6210,
+      "cat": "Meghalaya GK",
+      "topic": "State geography",
+      "q": "Meghalaya shares its international border to the south and west with which country?",
+      "o": [
+        "Bangladesh",
+        "Nepal",
+        "Bhutan",
+        "Myanmar"
+      ],
+      "a": 0,
+      "e": "Correct answer: Bangladesh. Key points: Meghalaya is bounded by Assam to the north and east and by Bangladesh to the south and west. Nepal, Bhutan and Myanmar do not share a border with Meghalaya. Exam takeaway: remember Meghalaya's position along Bangladesh and Assam. Source: https://www.megipr.gov.in/about-meghalaya.html",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.megipr.gov.in/about-meghalaya.html",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6211,
+      "cat": "Polity",
+      "topic": "Constitutional authorities",
+      "q": "Which Article of the Indian Constitution provides for the Comptroller and Auditor General of India?",
+      "o": [
+        "Article 76",
+        "Article 148",
+        "Article 280",
+        "Article 324"
+      ],
+      "a": 1,
+      "e": "Correct answer: Article 148. Key points: Article 148 provides for the CAG, an independent constitutional authority concerned with public audit. Article 76 concerns the Attorney-General for India, Article 280 the Finance Commission, and Article 324 the Election Commission's electoral powers. Exam takeaway: CAG–148; Finance Commission–280; ECI–324. Source: https://legislative.gov.in/constitution-of-india/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://legislative.gov.in/constitution-of-india/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6212,
+      "cat": "Polity",
+      "topic": "Parliament",
+      "q": "Which statement about the Rajya Sabha is correct?",
+      "o": [
+        "It is dissolved every five years",
+        "It is a permanent House, with one-third of members retiring every two years",
+        "It alone can introduce a Money Bill",
+        "It elects all State Governors"
+      ],
+      "a": 1,
+      "e": "Correct answer: It is a permanent House, with one-third of members retiring every two years. Key points: The Rajya Sabha is not subject to dissolution; members have staggered terms. Money Bills can be introduced only in the Lok Sabha, and Governors are appointed by the President. Exam takeaway: Lok Sabha may be dissolved; Rajya Sabha continues. Source: https://rajyasabha.nic.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://rajyasabha.nic.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6213,
+      "cat": "Polity",
+      "topic": "Money Bill",
+      "q": "Under Article 110, a Money Bill can be introduced in which House of Parliament?",
+      "o": [
+        "Lok Sabha only",
+        "Rajya Sabha only",
+        "Either House without restriction",
+        "A joint sitting only"
+      ],
+      "a": 0,
+      "e": "Correct answer: Lok Sabha only. Key points: Article 110 defines a Money Bill, and such a Bill is introduced only in the Lok Sabha on the President's recommendation. The Rajya Sabha may make recommendations within the constitutional time limit but cannot amend it in the same way as an ordinary Bill. Exam takeaway: Money Bill starts in Lok Sabha. Source: https://legislative.gov.in/constitution-of-india/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://legislative.gov.in/constitution-of-india/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6214,
+      "cat": "Polity",
+      "topic": "Local government",
+      "q": "Which constitutional amendment gave constitutional status to Panchayati Raj institutions?",
+      "o": [
+        "42nd Amendment",
+        "52nd Amendment",
+        "73rd Amendment",
+        "86th Amendment"
+      ],
+      "a": 2,
+      "e": "Correct answer: 73rd Amendment. Key points: The 73rd Constitutional Amendment added Part IX and the Eleventh Schedule concerning Panchayats. The 74th Amendment addresses urban local bodies; the 42nd made broad constitutional changes and the 86th concerns the right to education. Exam takeaway: 73rd = Panchayats; 74th = municipalities. Source: https://legislative.gov.in/constitution-of-india/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://legislative.gov.in/constitution-of-india/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6215,
+      "cat": "Polity",
+      "topic": "Fundamental Rights",
+      "q": "Which writ is commonly used to require a public authority to perform a public duty?",
+      "o": [
+        "Mandamus",
+        "Habeas corpus",
+        "Quo warranto",
+        "Certiorari only"
+      ],
+      "a": 0,
+      "e": "Correct answer: Mandamus. Key points: Mandamus directs a public authority or body to perform a duty it is legally bound to perform, subject to the limits of writ jurisdiction. Habeas corpus protects against unlawful detention; quo warranto challenges unlawful occupation of public office; certiorari is used to quash certain unlawful decisions of lower bodies. Exam takeaway: mandamus = command to perform a duty. Source: https://legislative.gov.in/constitution-of-india/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://legislative.gov.in/constitution-of-india/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Hard",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6216,
+      "cat": "History",
+      "topic": "Indus Valley Civilisation",
+      "q": "Which Harappan site is especially associated with evidence of a dockyard?",
+      "o": [
+        "Lothal",
+        "Mohenjo-daro",
+        "Ropar",
+        "Banawali"
+      ],
+      "a": 0,
+      "e": "Correct answer: Lothal. Key points: Lothal in present-day Gujarat is widely associated in school history with a dockyard-like basin and maritime trade. Mohenjo-daro is famous for the Great Bath; the other sites have different archaeological features. Exam takeaway: Lothal–dockyard/trade; Mohenjo-daro–Great Bath. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6217,
+      "cat": "History",
+      "topic": "Mauryan Empire",
+      "q": "Which event is traditionally described as a major turning point in Emperor Ashoka's life?",
+      "o": [
+        "Battle of Plassey",
+        "Kalinga War",
+        "Battle of Panipat in 1761",
+        "Dandi March"
+      ],
+      "a": 1,
+      "e": "Correct answer: Kalinga War. Key points: Accounts of the Kalinga War and its suffering are associated with Ashoka's subsequent emphasis on dhamma and moral governance. Plassey and Panipat belong to much later periods, while the Dandi March was part of the twentieth-century freedom movement. Exam takeaway: Ashoka's post-Kalinga policy is linked with dhamma. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6218,
+      "cat": "History",
+      "topic": "Revolt of 1857",
+      "q": "The Revolt of 1857 is commonly said to have begun among sepoys at which place?",
+      "o": [
+        "Meerut",
+        "Calcutta",
+        "Madras",
+        "Surat"
+      ],
+      "a": 0,
+      "e": "Correct answer: Meerut. Key points: The major uprising began at Meerut in May 1857 and spread to other centres, including Delhi. Calcutta, Madras and Surat were not the place where the initial sepoy uprising began. Exam takeaway: Meerut, 10 May 1857, is a key date-place association. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6219,
+      "cat": "History",
+      "topic": "Indian National Congress",
+      "q": "In which year was the Indian National Congress founded?",
+      "o": [
+        "1857",
+        "1885",
+        "1905",
+        "1919"
+      ],
+      "a": 1,
+      "e": "Correct answer: 1885. Key points: The Indian National Congress was founded in 1885; A.O. Hume played a major role in its formation and W.C. Bonnerjee presided over its first session in Bombay. 1857 marks the major uprising, 1905 the Bengal partition, and 1919 the Rowlatt Act/Jallianwala Bagh period. Exam takeaway: INC foundation–1885. Source: https://amritmahotsav.nic.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://amritmahotsav.nic.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6220,
+      "cat": "Geography",
+      "topic": "Latitude and longitude",
+      "q": "The Equator is located at which latitude?",
+      "o": [
+        "0°",
+        "23.5° north",
+        "66.5° north",
+        "90° south"
+      ],
+      "a": 0,
+      "e": "Correct answer: 0°. Key points: The Equator is the imaginary great circle at 0° latitude and divides Earth into Northern and Southern Hemispheres. 23.5° north is approximately the Tropic of Cancer, 66.5° north the Arctic Circle, and 90° south the South Pole. Exam takeaway: Equator = 0° latitude. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6221,
+      "cat": "Geography",
+      "topic": "Indian rivers",
+      "q": "Which major Peninsular river flows westward into the Arabian Sea through a rift valley?",
+      "o": [
+        "Narmada",
+        "Godavari",
+        "Krishna",
+        "Mahanadi"
+      ],
+      "a": 0,
+      "e": "Correct answer: Narmada. Key points: The Narmada flows generally westward through a rift valley between the Vindhya and Satpura ranges and enters the Arabian Sea. Godavari, Krishna and Mahanadi flow eastward toward the Bay of Bengal. Exam takeaway: Narmada and Tapi are notable west-flowing Peninsular rivers. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6222,
+      "cat": "Geography",
+      "topic": "Indian soils",
+      "q": "Black soil is especially suitable for which crop because it retains moisture well?",
+      "o": [
+        "Cotton",
+        "Tea",
+        "Jute",
+        "Coconut"
+      ],
+      "a": 0,
+      "e": "Correct answer: Cotton. Key points: Black soil, also called regur soil, has high clay content and good moisture retention, making it suitable for cotton in many regions. Tea prefers suitable humid hill conditions and acidic soils; jute and coconut have different soil and climate requirements. Exam takeaway: black soil–cotton. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6223,
+      "cat": "Geography",
+      "topic": "Indian standard time",
+      "q": "Indian Standard Time is based on which longitude?",
+      "o": [
+        "82°30′ east",
+        "75° east",
+        "90° east",
+        "68°7′ east"
+      ],
+      "a": 0,
+      "e": "Correct answer: 82°30′ east. Key points: India's standard meridian is 82°30′ E, passing near Mirzapur in Uttar Pradesh; the time based on it is used across the country. The other longitudes are not India's standard meridian. Exam takeaway: IST = UTC+5:30 and standard meridian 82°30′ E. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6224,
+      "cat": "Economy",
+      "topic": "Monetary policy",
+      "q": "In Indian monetary policy, the repo rate is the rate at which which institution lends short-term funds to eligible banks against securities?",
+      "o": [
+        "Reserve Bank of India",
+        "SEBI",
+        "NITI Aayog",
+        "CAG"
+      ],
+      "a": 0,
+      "e": "Correct answer: Reserve Bank of India. Key points: The repo rate is a policy rate used by the RBI in liquidity and monetary-policy operations. SEBI regulates securities markets, NITI Aayog is a policy institution, and CAG audits public accounts. Exam takeaway: repo rate–RBI monetary policy; changes can influence borrowing costs and demand. Source: https://www.rbi.org.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.rbi.org.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6225,
+      "cat": "Economy",
+      "topic": "National income",
+      "q": "Gross Domestic Product (GDP) measures the value of which output?",
+      "o": [
+        "Final goods and services produced within a country's domestic territory during a period",
+        "Only exports produced by citizens abroad",
+        "Only government tax receipts",
+        "Only intermediate goods counted repeatedly"
+      ],
+      "a": 0,
+      "e": "Correct answer: Final goods and services produced within domestic territory during a period. Key points: GDP measures domestic production and avoids double counting by focusing on value added/final output. Exports alone and tax receipts are not GDP; counting intermediate goods repeatedly would overstate production. Exam takeaway: GDP is about domestic production, not citizens' income worldwide. Source: https://mospi.gov.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://mospi.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6226,
+      "cat": "Economy",
+      "topic": "Inflation",
+      "q": "Inflation generally refers to a sustained increase in which measure?",
+      "o": [
+        "Overall price level of goods and services",
+        "Only the price of one product",
+        "The number of currency notes printed in one day",
+        "The population growth rate"
+      ],
+      "a": 0,
+      "e": "Correct answer: Overall price level of goods and services. Key points: Inflation is a sustained rise in the general price level, reducing the purchasing power of money when income does not keep pace. A single product-price increase alone is not necessarily inflation; note printing and population growth are not the definition. Exam takeaway: distinguish a general price-level rise from a relative price change. Source: https://www.rbi.org.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.rbi.org.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6227,
+      "cat": "English",
+      "topic": "Vocabulary",
+      "q": "Choose the antonym of 'generous'.",
+      "o": [
+        "Benevolent",
+        "Kind",
+        "Stingy",
+        "Charitable"
+      ],
+      "a": 2,
+      "e": "Correct answer: Stingy. Key points: Generous means willing to give or share; stingy means unwilling to spend or give. Benevolent, kind and charitable are close in meaning to generous, so they are not antonyms. Exam takeaway: identify the central meaning before eliminating similar words. Source: https://dictionary.cambridge.org/dictionary/english/generous",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/generous",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6228,
+      "cat": "English",
+      "topic": "Vocabulary",
+      "q": "What is the correct plural form of 'criterion'?",
+      "o": [
+        "Criterions",
+        "Criteria",
+        "Criterias",
+        "Criterionies"
+      ],
+      "a": 1,
+      "e": "Correct answer: Criteria. Key points: 'Criterion' is singular and its standard plural is 'criteria', from Greek-derived academic vocabulary. 'Criterions' is not the expected standard form in formal exam English; 'criterias' and 'criterionies' are incorrect. Exam takeaway: criterion (singular) → criteria (plural). Source: https://dictionary.cambridge.org/dictionary/english/criterion",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/criterion",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6229,
+      "cat": "English",
+      "topic": "Prepositions",
+      "q": "Choose the correct preposition: The officer is responsible ___ maintaining the register.",
+      "o": [
+        "for",
+        "at",
+        "by",
+        "with"
+      ],
+      "a": 0,
+      "e": "Correct answer: for. Key points: The standard collocation is 'responsible for' a task or outcome. 'At', 'by' and 'with' do not form the intended adjective-preposition combination in this sentence. Exam takeaway: memorise collocations such as responsible for, interested in and capable of. Source: https://dictionary.cambridge.org/grammar/british-grammar/adjectives-and-prepositions",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/adjectives-and-prepositions",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6230,
+      "cat": "English",
+      "topic": "Reported speech",
+      "q": "Choose the correct reported form: She said, “I have finished the work.”",
+      "o": [
+        "She said that I have finished the work.",
+        "She said that she had finished the work.",
+        "She says that she had finished the work.",
+        "She said that she has finish the work."
+      ],
+      "a": 1,
+      "e": "Correct answer: She said that she had finished the work. Key points: With a past reporting verb, the present perfect 'have finished' commonly backshifts to past perfect 'had finished'; the pronoun 'I' changes to 'she' to match the speaker. The other options keep the wrong pronoun, change the reporting tense or use an incorrect verb form. Exam takeaway: said + present perfect often becomes said + past perfect in reported speech. Source: https://dictionary.cambridge.org/grammar/british-grammar/reported-speech",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/reported-speech",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6231,
+      "cat": "Arithmetic",
+      "topic": "Percentages",
+      "q": "What is 35% of 480?",
+      "o": [
+        "148",
+        "158",
+        "168",
+        "178"
+      ],
+      "a": 2,
+      "e": "Correct answer: 168. Step 1: 35% = 35/100. Step 2: (35/100) × 480 = 35 × 4.8 = 168. Check: 30% of 480 is 144 and 5% is 24; 144 + 24 = 168. Why others are wrong: 148, 158 and 178 do not equal 35% of 480. Exam tip: split percentages into easy parts such as 30% + 5%. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC Practice"
+    },
+    {
+      "id": 6232,
+      "cat": "Arithmetic",
+      "topic": "Ratio and proportion",
+      "q": "The ratio of two numbers is 3:5 and their sum is 64. What is the smaller number?",
+      "o": [
+        "18",
+        "24",
+        "32",
+        "40"
+      ],
+      "a": 1,
+      "e": "Correct answer: 24. Step 1: Total ratio parts = 3 + 5 = 8. Step 2: One part = 64 ÷ 8 = 8. Step 3: Smaller number = 3 × 8 = 24; larger number = 5 × 8 = 40. Check: 24 + 40 = 64 and 24:40 simplifies to 3:5. Exam tip: divide the total by the sum of ratio parts first. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC Practice"
+    },
+    {
+      "id": 6233,
+      "cat": "Arithmetic",
+      "topic": "Profit and loss",
+      "q": "An item costs ₹800 and is sold for ₹920. What is the profit percentage on cost price?",
+      "o": [
+        "12%",
+        "15%",
+        "18%",
+        "20%"
+      ],
+      "a": 1,
+      "e": "Correct answer: 15%. Step 1: Profit = SP − CP = ₹920 − ₹800 = ₹120. Step 2: Profit % = (Profit ÷ CP) × 100 = (120 ÷ 800) × 100 = 15%. Why others are wrong: the denominator must be cost price, not selling price. Exam tip: profit percentage is normally calculated on CP unless stated otherwise. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC Practice"
+    },
+    {
+      "id": 6234,
+      "cat": "Arithmetic",
+      "topic": "Simple interest",
+      "q": "Find the simple interest on ₹5,000 at 8% per annum for 2 years.",
+      "o": [
+        "₹600",
+        "₹700",
+        "₹800",
+        "₹900"
+      ],
+      "a": 2,
+      "e": "Correct answer: ₹800. Formula: SI = (P × R × T)/100. Substitute P = ₹5,000, R = 8 and T = 2: SI = (5,000 × 8 × 2)/100 = ₹800. Total amount = ₹5,000 + ₹800 = ₹5,800. The other options do not match the formula. Exam tip: keep rate per annum and time in years consistent. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC Practice"
+    },
+    {
+      "id": 6235,
+      "cat": "Arithmetic",
+      "topic": "Averages",
+      "q": "Find the average of 12, 15, 18 and 25.",
+      "o": [
+        "16",
+        "17",
+        "17.5",
+        "18"
+      ],
+      "a": 2,
+      "e": "Correct answer: 17.5. Step 1: Sum = 12 + 15 + 18 + 25 = 70. Step 2: There are 4 numbers, so average = 70 ÷ 4 = 17.5. Why others are wrong: the average must equal the sum divided by the number of observations. Exam tip: verify the count before dividing. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC Practice"
+    },
+    {
+      "id": 6236,
+      "cat": "Arithmetic",
+      "topic": "Speed distance time",
+      "q": "A 150-metre train passes a stationary pole in 10 seconds. What is its speed in km/h?",
+      "o": [
+        "36 km/h",
+        "45 km/h",
+        "54 km/h",
+        "60 km/h"
+      ],
+      "a": 2,
+      "e": "Correct answer: 54 km/h. Step 1: Passing a pole means the train covers its own length: distance = 150 m. Step 2: Speed = distance/time = 150/10 = 15 m/s. Step 3: Convert to km/h: 15 × 18/5 = 54 km/h. Why others are wrong: they do not equal 15 m/s after conversion. Exam tip: multiply m/s by 18/5 to convert to km/h. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "DSC LDA / SSC / MPSC Practice"
+    },
+    {
+      "id": 6237,
+      "cat": "Reasoning",
+      "topic": "Number series",
+      "q": "Find the next number: 4, 9, 19, 39, __.",
+      "o": [
+        "59",
+        "69",
+        "79",
+        "89"
+      ],
+      "a": 2,
+      "e": "Correct answer: 79. Key points: Each term is multiplied by 2 and then 1 is added: 4×2+1=9, 9×2+1=19, 19×2+1=39. Therefore 39×2+1=79. The other choices do not follow this consistent rule. Exam tip: test ×2, then a fixed addition when differences double. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6238,
+      "cat": "Reasoning",
+      "topic": "Analogy",
+      "q": "Thermometer is to temperature as barometer is to:",
+      "o": [
+        "Humidity",
+        "Atmospheric pressure",
+        "Wind direction",
+        "Rainfall"
+      ],
+      "a": 1,
+      "e": "Correct answer: Atmospheric pressure. Key points: A thermometer measures temperature, while a barometer measures atmospheric pressure. A hygrometer measures humidity; a wind vane shows wind direction; a rain gauge measures rainfall. Exam tip: identify the instrument-to-measurement relationship. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6239,
+      "cat": "Reasoning",
+      "topic": "Odd one out",
+      "q": "Which item is the odd one out?",
+      "o": [
+        "Triangle",
+        "Square",
+        "Circle",
+        "Cube"
+      ],
+      "a": 3,
+      "e": "Correct answer: Cube. Key points: Triangle, square and circle are two-dimensional plane figures; a cube is a three-dimensional solid. The distinction is based on dimensionality, not the number of sides. Exam tip: look for a common classification shared by three options. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6240,
+      "cat": "Science",
+      "topic": "Electricity",
+      "q": "What is the SI unit of electrical resistance?",
+      "o": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "a": 2,
+      "e": "Correct answer: Ohm (Ω). Key points: Electrical resistance is measured in ohms; under Ohm's law, R = V/I for a conductor under constant physical conditions. Volt measures potential difference, ampere measures current and watt measures power. Exam takeaway: resistance–ohm; voltage–volt; current–ampere; power–watt. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6241,
+      "cat": "Science",
+      "topic": "Chemistry",
+      "q": "At approximately room temperature, a neutral aqueous solution has a pH close to:",
+      "o": [
+        "2",
+        "5",
+        "7",
+        "12"
+      ],
+      "a": 2,
+      "e": "Correct answer: 7. Key points: At about 25°C, a neutral aqueous solution has equal hydrogen-ion and hydroxide-ion activities and pH approximately 7. Values below 7 are acidic and values above 7 are alkaline under the usual school-level convention. Exam tip: remember pH 7 as neutral at room temperature; neutrality varies with temperature. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6242,
+      "cat": "Science",
+      "topic": "Biology",
+      "q": "Deficiency of which vitamin causes scurvy?",
+      "o": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "a": 2,
+      "e": "Correct answer: Vitamin C. Key points: Vitamin C is required for normal collagen formation; prolonged deficiency can cause scurvy, including bleeding gums and poor wound healing. Vitamin A deficiency is associated with vision problems, B12 with certain anaemias and nerve problems, and vitamin D with bone disorders. Exam takeaway: scurvy–vitamin C. Source: https://www.nin.res.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.nin.res.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6243,
+      "cat": "Science",
+      "topic": "Electricity",
+      "q": "Which instrument is used to measure electric current in a circuit?",
+      "o": [
+        "Voltmeter",
+        "Ammeter",
+        "Barometer",
+        "Hygrometer"
+      ],
+      "a": 1,
+      "e": "Correct answer: Ammeter. Key points: An ammeter measures electric current and is connected in series in a simple circuit so the circuit current passes through it. A voltmeter measures potential difference, a barometer measures atmospheric pressure, and a hygrometer measures humidity. Exam takeaway: current–ammeter; voltage–voltmeter. Source: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6244,
+      "cat": "Environment",
+      "topic": "Atmosphere",
+      "q": "The ozone layer that absorbs much of the Sun's harmful ultraviolet radiation is mainly located in which atmospheric layer?",
+      "o": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Exosphere"
+      ],
+      "a": 1,
+      "e": "Correct answer: Stratosphere. Key points: Most atmospheric ozone is concentrated in the stratosphere, where it absorbs much harmful UV-B and UV-C radiation. Weather occurs mainly in the troposphere; the mesosphere lies above the stratosphere, and the exosphere is the outermost layer. Exam takeaway: ozone layer–stratosphere; ozone-depleting substances are addressed by the Montreal Protocol. Source: https://ozone.unep.org/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ozone.unep.org/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6245,
+      "cat": "Environment",
+      "topic": "Biodiversity",
+      "q": "Biodiversity refers most directly to the variety of:",
+      "o": [
+        "Living organisms and their genes and ecosystems",
+        "Only large mammals",
+        "Only forests planted by humans",
+        "Only non-living rocks"
+      ],
+      "a": 0,
+      "e": "Correct answer: Living organisms and their genes and ecosystems. Key points: Biodiversity includes variation within species, between species and among ecosystems. It is not limited to mammals or forests, and rocks are non-living components rather than biodiversity itself. Exam takeaway: biodiversity spans genetic, species and ecosystem levels. Source: https://www.cbd.int/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.cbd.int/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6246,
+      "cat": "Computer",
+      "topic": "Computer fundamentals",
+      "q": "What does CPU stand for in computer terminology?",
+      "o": [
+        "Central Processing Unit",
+        "Computer Power Utility",
+        "Central Program Upload",
+        "Control Printing Unit"
+      ],
+      "a": 0,
+      "e": "Correct answer: Central Processing Unit. Key points: The CPU executes instructions and performs core processing operations, working with memory and input/output components. The other options are not expansions of the standard abbreviation. Exam takeaway: CPU is the computer's main processor. Source: https://www.nielit.gov.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.nielit.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6247,
+      "cat": "Computer",
+      "topic": "Memory",
+      "q": "Which type of computer memory is generally volatile, losing its contents when power is switched off?",
+      "o": [
+        "ROM",
+        "RAM",
+        "DVD",
+        "Flash drive"
+      ],
+      "a": 1,
+      "e": "Correct answer: RAM. Key points: Random Access Memory stores data and instructions temporarily while programs run and is normally volatile. ROM and flash storage are non-volatile in ordinary use; a DVD is an optical storage medium. Exam takeaway: RAM = working, volatile memory; storage devices preserve data without power. Source: https://www.nielit.gov.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.nielit.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 6248,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "GST returns",
+      "q": "Which GST return primarily reports details of outward supplies made by a registered taxpayer?",
+      "o": [
+        "GSTR-1",
+        "GSTR-2B",
+        "GSTR-6",
+        "GSTR-9C"
+      ],
+      "a": 0,
+      "e": "Correct answer: GSTR-1. Key points: GSTR-1 reports outward-supply details. GSTR-2B is an auto-drafted ITC statement; GSTR-6 is associated with Input Service Distributors; GSTR-9C is a reconciliation statement where applicable. Exam takeaway: GSTR-1 = outward supplies; confirm current filing rules on the GST portal. Source: https://www.gst.gov.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.gst.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "Inspector of Taxes / MPSC Practice"
+    },
+    {
+      "id": 6249,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "GST returns",
+      "q": "Which statement best describes GSTR-3B?",
+      "o": [
+        "A summary return used to declare liability and discharge tax",
+        "The annual return of every unregistered consumer",
+        "The return only for Input Service Distributors",
+        "A certificate issued by the CAG"
+      ],
+      "a": 0,
+      "e": "Correct answer: A summary return used to declare liability and discharge tax. Key points: GSTR-3B is a summary self-assessment return in which eligible taxpayers report summary supplies, ITC and tax payable. It is not a consumer's annual return, not the ISD return (GSTR-6), and not a CAG certificate. Exam takeaway: verify current forms and deadlines on the official GST portal. Source: https://www.gst.gov.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.gst.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "Inspector of Taxes / MPSC Practice"
+    },
+    {
+      "id": 6250,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Input Tax Credit",
+      "q": "Input Tax Credit under GST generally allows an eligible registered person to set off eligible input tax against tax on outward supplies, subject to statutory conditions. Which statement is correct?",
+      "o": [
+        "ITC is automatic for every purchase without conditions",
+        "ITC is available only if statutory conditions and restrictions are met",
+        "ITC applies to personal purchases in every case",
+        "ITC removes the need to file GST returns"
+      ],
+      "a": 1,
+      "e": "Correct answer: ITC is available only when statutory conditions and restrictions are met. Key points: Eligibility depends on provisions such as prescribed documents, receipt of supplies, tax-payment/reporting conditions and blocked-credit rules. It is not unconditional, does not generally convert personal consumption into business credit, and does not remove return obligations. Exam takeaway: check the CGST Act and current rules before allowing ITC. Source: https://cbic-gst.gov.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://cbic-gst.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Hard",
+      "exam": "Inspector of Taxes / MPSC Practice"
+    }
+  ]
+}
