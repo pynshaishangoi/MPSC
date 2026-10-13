@@ -1,0 +1,544 @@
+{
+  "date": "2026-10-13",
+  "questionCount": 27,
+  "description": "Dated current affairs and multi-subject original exam-style practice for MPSC Meghalaya, DSC LDA, SSC and UPSC foundations",
+  "sourcePolicy": "Original practice is not official PYQ. Dated current-affairs items identify their report date and source. Answers are concept-checked; verify fast-changing items against linked reports.",
+  "subjects": {
+    "Current Affairs": 4,
+    "Meghalaya GK": 3,
+    "Polity": 3,
+    "History": 2,
+    "Geography": 2,
+    "Economy": 2,
+    "English": 2,
+    "Arithmetic": 4,
+    "Reasoning": 1,
+    "Science": 1,
+    "Environment": 1,
+    "Computer": 1,
+    "GST / Inspector of Taxes": 1
+  },
+  "questionIdRange": [
+    6164,
+    6190
+  ],
+  "questions": [
+    {
+      "id": 6164,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya mining policy",
+      "q": "A report published on 11 October 2026 says officials assessed whether small-scale coal mining in Meghalaya could resume. Which approach was being examined?",
+      "o": [
+        "Unregulated rat-hole mining",
+        "Safe, scientific and environmentally sustainable methods",
+        "Mining without inspections",
+        "A permanent ban on all geological surveys"
+      ],
+      "a": 1,
+      "e": "Correct answer: Safe, scientific and environmentally sustainable methods.\nKey points: The 11 October report described a technical team visiting coal-bearing areas in East Jaintia Hills and Khasi Hills to examine feasibility within legal and regulatory requirements. It reports an assessment, not final approval to restart mining.\nWhy the other options are incorrect: The report does not endorse unregulated rat-hole mining, bypassing inspections or a blanket ban on surveys; it highlights safety, environmental protection and legal compliance.\nExam takeaway: Distinguish a feasibility assessment from a formal policy decision; connect mining policy with environmental and occupational safety regulation.\nSource: https://timesofindia.indiatimes.com/city/guwahati/centre-meghalaya-assess-revival-of-small-scale-coal-mining/articleshow/134869738.cms",
+      "source": "Dated current-affairs practice; media report, not official PYQ",
+      "sourceURL": "https://timesofindia.indiatimes.com/city/guwahati/centre-meghalaya-assess-revival-of-small-scale-coal-mining/articleshow/134869738.cms",
+      "verificationStatus": "dated-report-reviewed",
+      "difficulty": "Medium",
+      "exam": "MPSC Meghalaya / State GK",
+      "currentAffairsDate": "2026-10-13"
+    },
+    {
+      "id": 6165,
+      "cat": "Current Affairs",
+      "topic": "RBI and foreign exchange",
+      "q": "According to a Reuters report dated 13 October 2026, certain non-deliverable rupee derivatives offered to non-residents by specified institutions were restricted to which purpose?",
+      "o": [
+        "Unrestricted speculation",
+        "Hedging",
+        "Financing household consumption",
+        "Paying customs duty directly"
+      ],
+      "a": 1,
+      "e": "Correct answer: Hedging.\nKey points: Reuters reported that the RBI tightened rules so specified institutions could offer non-deliverable rupee derivatives to non-residents only for hedging. Hedging is intended to reduce exposure to exchange-rate or price risk; it does not guarantee profit.\nWhy the other options are incorrect: The reported restriction constrains use beyond hedging; it does not facilitate unrestricted speculation, consumer lending or direct customs payments.\nExam takeaway: Distinguish foreign-exchange market rules from policy interest rates and reserve requirements; regulatory details may change.\nSource: https://www.reuters.com/world/india/rupee-extend-recovery-rbi-takes-more-steps-to-ease-pressure-2026-10-13/",
+      "source": "Dated current-affairs practice; Reuters report, not official PYQ",
+      "sourceURL": "https://www.reuters.com/world/india/rupee-extend-recovery-rbi-takes-more-steps-to-ease-pressure-2026-10-13/",
+      "verificationStatus": "dated-report-reviewed",
+      "difficulty": "Medium",
+      "exam": "MPSC / SSC / Banking awareness",
+      "currentAffairsDate": "2026-10-13"
+    },
+    {
+      "id": 6166,
+      "cat": "Current Affairs",
+      "topic": "Global financial stability",
+      "q": "In a report discussed by Reuters on 13 October 2026, which organisation warned that an AI-investment slowdown, sharp sovereign bond-yield increases and major cyber incidents could threaten global financial stability?",
+      "o": [
+        "World Health Organization",
+        "International Monetary Fund",
+        "International Labour Organization",
+        "World Meteorological Organization"
+      ],
+      "a": 1,
+      "e": "Correct answer: International Monetary Fund (IMF).\nKey points: Reuters reported that the IMF's Global Financial Stability Report identified plausible catalysts that could amplify market vulnerabilities. It discussed AI-related investment and leverage, sovereign borrowing costs and cybersecurity risk.\nWhy the other options are incorrect: WHO focuses on public health, ILO on labour standards and employment, and WMO on weather and climate services; they are not the institution identified in this financial-stability report.\nExam takeaway: Link the IMF with international monetary cooperation, surveillance and financial-stability analysis; the report identifies risks to monitor, not a guaranteed crisis.\nSource: https://www.reuters.com/business/finance/imf-cites-ai-slowdown-spiking-yields-looming-global-market-risks-2026-10-13/",
+      "source": "Dated current-affairs practice; Reuters report, not official PYQ",
+      "sourceURL": "https://www.reuters.com/business/finance/imf-cites-ai-slowdown-spiking-yields-looming-global-market-risks-2026-10-13/",
+      "verificationStatus": "dated-report-reviewed",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / SSC current affairs",
+      "currentAffairsDate": "2026-10-13"
+    },
+    {
+      "id": 6167,
+      "cat": "Current Affairs",
+      "topic": "India growth forecast",
+      "q": "The Economic Times reported on 13 October 2026 that the IMF revised its 2026 growth forecast for India from 6.4% to which figure?",
+      "o": [
+        "5.4%",
+        "6.0%",
+        "7.0%",
+        "8.4%"
+      ],
+      "a": 2,
+      "e": "Correct answer: 7.0%.\nKey points: The dated report says the IMF raised its 2026 forecast by 0.6 percentage points, from 6.4% to 7.0%, citing stronger-than-expected momentum, resilient domestic demand and services activity. A forecast is an estimate and may change as data arrive.\nWhy the other options are incorrect: 5.4%, 6.0% and 8.4% do not match the revised forecast in the cited report.\nExam takeaway: Record the institution, reference year, old forecast, revised forecast and reasons together; do not confuse calendar-year forecasts with financial-year GDP estimates.\nSource: https://economictimes.indiatimes.com/news/economy/indicators/imf-raises-indias-2026-growth-forecast-to-7-says-india-stands-out-even-as-global-growth-slows/articleshow/134905823.cms",
+      "source": "Dated current-affairs practice; secondary report of IMF outlook, not official PYQ",
+      "sourceURL": "https://economictimes.indiatimes.com/news/economy/indicators/imf-raises-indias-2026-growth-forecast-to-7-says-india-stands-out-even-as-global-growth-slows/articleshow/134905823.cms",
+      "verificationStatus": "dated-report-reviewed",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / SSC current affairs",
+      "currentAffairsDate": "2026-10-13"
+    },
+    {
+      "id": 6168,
+      "cat": "Meghalaya GK",
+      "topic": "National parks",
+      "q": "Balpakram National Park is located primarily in which district/region of Meghalaya?",
+      "o": [
+        "South Garo Hills",
+        "East Khasi Hills",
+        "West Jaintia Hills",
+        "Ri-Bhoi"
+      ],
+      "a": 0,
+      "e": "Correct answer: South Garo Hills.\nKey points: Balpakram National Park lies in the Garo Hills region of southern Meghalaya and is known for biodiversity, forested landscapes and distinctive plateau-and-gorge terrain.\nWhy the other options are incorrect: East Khasi Hills, West Jaintia Hills and Ri-Bhoi are different districts/regions and are not the location asked for.\nExam takeaway: Revise protected areas alongside their districts and broad hill regions; administrative boundaries and protected-area names are not interchangeable.\nSource: https://www.meghalayatourism.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.meghalayatourism.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC Meghalaya / DSC"
+    },
+    {
+      "id": 6169,
+      "cat": "Meghalaya GK",
+      "topic": "Languages",
+      "q": "The Khasi language belongs to which language family?",
+      "o": [
+        "Dravidian",
+        "Austroasiatic",
+        "Indo-European",
+        "Sino-Tibetan"
+      ],
+      "a": 1,
+      "e": "Correct answer: Austroasiatic.\nKey points: Khasi is an Austroasiatic language spoken mainly in Meghalaya. Language-family classification reflects historical relationships among languages, not merely the state where a language is spoken.\nWhy the other options are incorrect: Dravidian includes languages such as Tamil and Telugu; Indo-European includes Indo-Aryan languages such as Assamese and Bengali; Sino-Tibetan includes many Himalayan and northeastern languages but is not the family assigned to Khasi.\nExam takeaway: Distinguish a language, its script, its speech community and its language family.\nSource: https://www.britannica.com/topic/Khasi-language",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.britannica.com/topic/Khasi-language",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC Meghalaya / State GK"
+    },
+    {
+      "id": 6170,
+      "cat": "Meghalaya GK",
+      "topic": "Heritage",
+      "q": "The Nartiang Monoliths, a well-known heritage site in Meghalaya, are located in which district?",
+      "o": [
+        "West Jaintia Hills",
+        "East Garo Hills",
+        "South West Khasi Hills",
+        "East Khasi Hills"
+      ],
+      "a": 0,
+      "e": "Correct answer: West Jaintia Hills.\nKey points: Nartiang is associated with the Jaintia Hills and is known for monoliths linked to the area's cultural and historical heritage.\nWhy the other options are incorrect: The other listed districts are separate administrative areas and do not contain the Nartiang Monoliths site.\nExam takeaway: Pair Meghalaya heritage sites with their district or hill region, and distinguish Khasi, Jaintia and Garo cultural geography.\nSource: https://www.meghalayatourism.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.meghalayatourism.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC Meghalaya / DSC"
+    },
+    {
+      "id": 6171,
+      "cat": "Polity",
+      "topic": "Constitutional amendments",
+      "q": "Which Constitutional Amendment Act added “Socialist” and “Secular” to the Preamble and inserted “integrity” in the expression describing the unity of the Nation?",
+      "o": [
+        "24th Amendment",
+        "42nd Amendment",
+        "44th Amendment",
+        "52nd Amendment"
+      ],
+      "a": 1,
+      "e": "Correct answer: 42nd Amendment Act, 1976.\nKey points: The 42nd Amendment made wide-ranging constitutional changes during 1976, including changes to the Preamble. Its wording became “Sovereign Socialist Secular Democratic Republic” and “unity and integrity of the Nation.”\nWhy the other options are incorrect: The 24th Amendment concerned Parliament's amending power; the 44th modified several Emergency-era changes; the 52nd is associated with anti-defection provisions.\nExam takeaway: Memorise major amendments by year and their best-known provisions; do not assume each amendment changed only one article.\nSource: https://legislative.gov.in/constitution-of-india/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://legislative.gov.in/constitution-of-india/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / SSC"
+    },
+    {
+      "id": 6172,
+      "cat": "Polity",
+      "topic": "Rajya Sabha",
+      "q": "Which statement about the Rajya Sabha is correct?",
+      "o": [
+        "It is dissolved every five years",
+        "It is a permanent House, with approximately one-third of members retiring every two years",
+        "All members are directly elected by citizens",
+        "It can never hold a joint sitting with the Lok Sabha for any purpose"
+      ],
+      "a": 1,
+      "e": "Correct answer: It is a permanent House, with approximately one-third of members retiring every two years.\nKey points: The Rajya Sabha is not subject to dissolution. Members normally serve six-year terms, and staggered retirement means the entire House does not leave office at once.\nWhy the other options are incorrect: Five-year dissolution describes the usual Lok Sabha term. Most Rajya Sabha members are indirectly elected by elected members of State Legislative Assemblies; some are nominated. Joint sittings exist for specified circumstances, though not for Money Bills or Constitutional Amendment Bills.\nExam takeaway: Distinguish the composition, term and special powers of the two Houses.\nSource: https://sansad.in/rs/about/rajya-sabha",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://sansad.in/rs/about/rajya-sabha",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / DSC"
+    },
+    {
+      "id": 6173,
+      "cat": "Polity",
+      "topic": "Constitutional amendment procedure",
+      "q": "Which Article sets out the principal procedure for amending the Constitution of India?",
+      "o": [
+        "Article 110",
+        "Article 148",
+        "Article 280",
+        "Article 368"
+      ],
+      "a": 3,
+      "e": "Correct answer: Article 368.\nKey points: Article 368 describes Parliament's constituent power and the procedure for constitutional amendments. Depending on the subject, an amendment requires the prescribed parliamentary special majority and, for specified federal provisions, ratification by at least half of the State Legislatures.\nWhy the other options are incorrect: Article 110 defines a Money Bill; Article 148 provides for the Comptroller and Auditor General; Article 280 provides for the Finance Commission.\nExam takeaway: Learn article numbers with their subjects. Some constitutional changes follow procedures outside Article 368's special amendment process.\nSource: https://legislative.gov.in/constitution-of-india/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://legislative.gov.in/constitution-of-india/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / SSC"
+    },
+    {
+      "id": 6174,
+      "cat": "History",
+      "topic": "Buddhist councils",
+      "q": "According to the traditional account, where was the First Buddhist Council held after the Buddha's death?",
+      "o": [
+        "Vaishali",
+        "Rajagriha (Rajgir)",
+        "Pataliputra",
+        "Kashmir"
+      ],
+      "a": 1,
+      "e": "Correct answer: Rajagriha (Rajgir).\nKey points: Buddhist tradition places the First Council at Rajagriha, under the patronage of King Ajatashatru, with Mahakassapa associated with presiding. The council is traditionally linked to recitation and preservation of the Buddha's teachings.\nWhy the other options are incorrect: Vaishali is associated with the Second Council in traditional accounts; Pataliputra with the Third Council under Ashoka; Kashmir with a later council tradition under Kanishka.\nExam takeaway: Pair each council number with location, ruler and major association; recognise that details come from religious-historical traditions.\nSource: https://www.britannica.com/topic/Buddhism/The-first-council",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.britannica.com/topic/Buddhism/The-first-council",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / SSC"
+    },
+    {
+      "id": 6175,
+      "cat": "History",
+      "topic": "Colonial land revenue",
+      "q": "The Permanent Settlement of Bengal was introduced in 1793 under which Governor-General?",
+      "o": [
+        "Warren Hastings",
+        "Lord Cornwallis",
+        "Lord Wellesley",
+        "Lord Dalhousie"
+      ],
+      "a": 1,
+      "e": "Correct answer: Lord Cornwallis.\nKey points: The Permanent Settlement, introduced in 1793, fixed the land-revenue demand payable by zamindars to the East India Company in Bengal and areas covered by the settlement. It reshaped agrarian relations and incentives around land revenue.\nWhy the other options are incorrect: Warren Hastings preceded Cornwallis; Wellesley is associated with subsidiary alliances; Dalhousie is associated with later annexation and administrative policies.\nExam takeaway: Link the Permanent Settlement with 1793, Cornwallis, Bengal and the zamindari land-revenue arrangement.\nSource: https://www.britannica.com/event/Permanent-Settlement",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.britannica.com/event/Permanent-Settlement",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / SSC"
+    },
+    {
+      "id": 6176,
+      "cat": "Geography",
+      "topic": "Indian standard time",
+      "q": "India's Standard Time is based on a standard meridian close to which longitude?",
+      "o": [
+        "68°7′ E",
+        "75° E",
+        "82°30′ E",
+        "97°25′ E"
+      ],
+      "a": 2,
+      "e": "Correct answer: 82°30′ E.\nKey points: Indian Standard Time is based on the 82°30′ east longitude meridian, giving one standard time across the country despite its wide east-west extent. Earth rotates 15 degrees of longitude per hour, or about four minutes per degree.\nWhy the other options are incorrect: The other longitudes do not define India's standard meridian.\nExam takeaway: Remember 82°30′ E and UTC+5:30; do not confuse the standard meridian with India's easternmost or westernmost longitude.\nSource: https://surveyofindia.gov.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://surveyofindia.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / UPSC / SSC"
+    },
+    {
+      "id": 6177,
+      "cat": "Geography",
+      "topic": "Indian coastline",
+      "q": "Which Indian state has the longest coastline among the following options?",
+      "o": [
+        "Odisha",
+        "Gujarat",
+        "Kerala",
+        "Goa"
+      ],
+      "a": 1,
+      "e": "Correct answer: Gujarat.\nKey points: Gujarat has India's longest state coastline under commonly used official geographical measurements. Coastline rankings can depend on measurement methods and administrative definitions, so use the standard exam reference when answering.\nWhy the other options are incorrect: Odisha, Kerala and Goa have coastlines, but each is shorter than Gujarat's in standard Indian geography references.\nExam takeaway: Pair major coastal states with their coastal geography and ports; distinguish a state's coastline from India's total coastline.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / SSC"
+    },
+    {
+      "id": 6178,
+      "cat": "Economy",
+      "topic": "Cash Reserve Ratio",
+      "q": "Under India's banking framework, the Cash Reserve Ratio requires banks to maintain a prescribed share of relevant net demand and time liabilities as cash balance with which institution?",
+      "o": [
+        "SEBI",
+        "Reserve Bank of India",
+        "NITI Aayog",
+        "National Stock Exchange"
+      ],
+      "a": 1,
+      "e": "Correct answer: Reserve Bank of India (RBI).\nKey points: CRR is a monetary-policy and liquidity tool. Banks maintain the prescribed cash balance with the RBI against their net demand and time liabilities, as defined by applicable rules. A CRR change can affect funds banks have available for lending.\nWhy the other options are incorrect: SEBI regulates securities markets, NITI Aayog is a policy think tank, and the NSE is a stock exchange; none is the institution with which CRR balances are maintained.\nExam takeaway: Distinguish CRR (cash balance with RBI) from SLR (specified liquid assets maintained by banks under the applicable framework).\nSource: https://www.rbi.org.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.rbi.org.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / SSC"
+    },
+    {
+      "id": 6179,
+      "cat": "Economy",
+      "topic": "Real and nominal GDP",
+      "q": "Why is real GDP commonly measured at constant prices?",
+      "o": [
+        "To include price rises as extra real output",
+        "To reduce the effect of price changes and compare output over time",
+        "To count only exports",
+        "To measure only government spending"
+      ],
+      "a": 1,
+      "e": "Correct answer: To reduce the effect of price changes and compare output over time.\nKey points: Real GDP values output using a reference set of prices, helping separate changes in quantities of goods and services from changes in prices. Nominal GDP uses current prices and can rise because of inflation even when real output changes less.\nWhy the other options are incorrect: Constant-price measurement does not automatically add inflation, restrict GDP to exports or count only public expenditure.\nExam takeaway: Nominal GDP uses current prices; real GDP uses constant/reference prices. Follow the price basis specified in the question.\nSource: https://www.mospi.gov.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.mospi.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / SSC"
+    },
+    {
+      "id": 6180,
+      "cat": "English",
+      "topic": "Vocabulary",
+      "q": "Choose the closest meaning of “candid.”",
+      "o": [
+        "Frank and honest",
+        "Secretive and evasive",
+        "Careless with time",
+        "Unusually slow"
+      ],
+      "a": 0,
+      "e": "Correct answer: Frank and honest.\nKey points: “Candid” describes speech or behaviour that is open, direct and honest. The best option captures openness and truthfulness rather than a person's speed or carelessness.\nWhy the other options are incorrect: Secretive and evasive is nearly the opposite of candid; being careless with time and being slow are unrelated meanings.\nExam takeaway: Use context and contrast to distinguish vocabulary distractors; candid is similar to frank and straightforward.\nSource: https://dictionary.cambridge.org/dictionary/english/candid",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/candid",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC"
+    },
+    {
+      "id": 6181,
+      "cat": "English",
+      "topic": "Reported speech",
+      "q": "Choose the correct reported form of: He said, “I am tired.”",
+      "o": [
+        "He said that I am tired.",
+        "He said that he was tired.",
+        "He says that he was tired yesterday.",
+        "He told that he is tired."
+      ],
+      "a": 1,
+      "e": "Correct answer: He said that he was tired.\nKey points: With a past reporting verb (“said”), “am” normally changes to “was,” and “I” changes to “he” to match the original speaker. Backshift can vary for universally true statements, but this is the standard exam transformation.\nWhy the other options are incorrect: Option 1 keeps the original first-person pronoun; option 3 changes the reporting tense and adds “yesterday” without support; option 4 uses “told” without an object and does not follow the standard structure.\nExam takeaway: Check pronoun, tense and reporting verb together.\nSource: https://dictionary.cambridge.org/grammar/british-grammar/reported-speech",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/reported-speech",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "DSC LDA / SSC / MPSC"
+    },
+    {
+      "id": 6182,
+      "cat": "Arithmetic",
+      "topic": "Discount",
+      "q": "A shop marks a bag at ₹2,000 and offers a 15% discount. What is the selling price before any tax or additional charge?",
+      "o": [
+        "₹1,600",
+        "₹1,650",
+        "₹1,700",
+        "₹1,850"
+      ],
+      "a": 2,
+      "e": "Correct answer: ₹1,700.\nKey points: Discount = 15% of ₹2,000 = 0.15 × 2,000 = ₹300. Selling price = marked price − discount = ₹2,000 − ₹300 = ₹1,700.\nWhy the other options are incorrect: ₹1,600 is a 20% discount; ₹1,650 is a 17.5% discount; ₹1,850 is only a 7.5% discount.\nExam takeaway: Quick method: Pay 85% of the marked price: 0.85 × ₹2,000 = ₹1,700. The question excludes tax and other charges.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC"
+    },
+    {
+      "id": 6183,
+      "cat": "Arithmetic",
+      "topic": "Compound interest",
+      "q": "What is the compound interest on ₹10,000 for 2 years at 10% per annum, compounded annually?",
+      "o": [
+        "₹1,000",
+        "₹2,000",
+        "₹2,100",
+        "₹12,100"
+      ],
+      "a": 2,
+      "e": "Correct answer: ₹2,100.\nKey points: Amount A = P(1 + R/100)^T = 10,000(1.10)^2 = 10,000 × 1.21 = ₹12,100. Compound interest = A − P = ₹12,100 − ₹10,000 = ₹2,100.\nWhy the other options are incorrect: ₹1,000 is one year's interest; ₹2,000 incorrectly applies simple interest for two years; ₹12,100 is the final amount, not the interest.\nExam takeaway: Check by years: Year 1 interest = ₹1,000, balance ₹11,000; Year 2 interest = ₹1,100. Total interest = ₹2,100.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "DSC LDA / SSC / MPSC"
+    },
+    {
+      "id": 6184,
+      "cat": "Arithmetic",
+      "topic": "Speed, time and distance",
+      "q": "A vehicle travels 180 km in 3 hours 20 minutes at constant speed. What is its average speed?",
+      "o": [
+        "48 km/h",
+        "52 km/h",
+        "54 km/h",
+        "60 km/h"
+      ],
+      "a": 2,
+      "e": "Correct answer: 54 km/h.\nKey points: Speed = distance ÷ time. Convert 3 hours 20 minutes: 3 + 20/60 = 3⅓ = 10/3 hours. Speed = 180 ÷ (10/3) = 180 × 3/10 = 54 km/h.\nWhy the other options are incorrect: The other options result from incorrect time conversion or division. Treating 20 minutes as 0.20 hour is wrong; 20 minutes is one-third of an hour.\nExam takeaway: Convert minutes to a fraction of 60 before dividing. Units check: kilometres divided by hours gives km/h.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "DSC LDA / SSC / MPSC"
+    },
+    {
+      "id": 6185,
+      "cat": "Arithmetic",
+      "topic": "Mensuration: rectangle",
+      "q": "A rectangular office room is 18 m long and 12 m wide. What is its floor area?",
+      "o": [
+        "30 m²",
+        "60 m²",
+        "180 m²",
+        "216 m²"
+      ],
+      "a": 3,
+      "e": "Correct answer: 216 m².\nKey points: Area of a rectangle = length × breadth = 18 m × 12 m = 216 m². The unit is square metres because both dimensions are measured in metres.\nWhy the other options are incorrect: 30 m is the sum of the dimensions, not area; 60 m is the perimeter 2(18 + 12); 180 m² does not equal 18 × 12.\nExam takeaway: Multiply length by breadth for area; add the sides and double for perimeter. Keep linear and square units distinct.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC"
+    },
+    {
+      "id": 6186,
+      "cat": "Reasoning",
+      "topic": "Letter analogy",
+      "q": "Complete the analogy: ACE : BDF :: MOQ : __.",
+      "o": [
+        "NPR",
+        "NQS",
+        "MNP",
+        "OPQ"
+      ],
+      "a": 0,
+      "e": "Correct answer: NPR.\nKey points: Each letter in ACE advances by one place to produce BDF: A→B, C→D and E→F. Apply the same rule to MOQ: M→N, O→P and Q→R, giving NPR.\nWhy the other options are incorrect: NQS changes the second and third letters by a different amount; MNP and OPQ do not apply the same one-step shift to every position.\nExam takeaway: Identify the transformation at each position and apply it consistently. The options have been checked to be distinct.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original reasoning practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "original practice; pattern checked",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC"
+    },
+    {
+      "id": 6187,
+      "cat": "Science",
+      "topic": "Waves and frequency",
+      "q": "What is the SI unit of frequency?",
+      "o": [
+        "Newton",
+        "Hertz",
+        "Joule",
+        "Pascal"
+      ],
+      "a": 1,
+      "e": "Correct answer: Hertz (Hz).\nKey points: Frequency is the number of complete cycles or oscillations per second. One hertz equals one cycle per second, or 1 s⁻¹.\nWhy the other options are incorrect: Newton measures force, joule measures energy or work, and pascal measures pressure. They are SI units for different physical quantities.\nExam takeaway: Match quantity to unit: frequency—hertz; force—newton; energy—joule; pressure—pascal.\nSource: https://www.nist.gov/pml/special-publication-330",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.nist.gov/pml/special-publication-330",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / SSC / DSC"
+    },
+    {
+      "id": 6188,
+      "cat": "Environment",
+      "topic": "Food chains and pollution",
+      "q": "What is biomagnification?",
+      "o": [
+        "A decrease in organism size at each trophic level",
+        "An increase in the concentration of certain persistent pollutants at higher trophic levels",
+        "The conversion of sunlight into chemical energy by plants",
+        "The breakdown of all pollutants immediately in water"
+      ],
+      "a": 1,
+      "e": "Correct answer: An increase in the concentration of certain persistent pollutants at higher trophic levels.\nKey points: Biomagnification occurs when a persistent substance passes through a food chain so organisms at higher trophic levels can have greater concentrations. The pattern depends on the chemical and ecosystem.\nWhy the other options are incorrect: Organism size is not the definition; sunlight conversion is photosynthesis; pollutants do not all break down immediately in water.\nExam takeaway: Distinguish bioaccumulation within an organism from biomagnification across trophic levels.\nSource: https://www.epa.gov/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.epa.gov/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / SSC"
+    },
+    {
+      "id": 6189,
+      "cat": "Computer",
+      "topic": "Keyboard shortcuts",
+      "q": "In most desktop applications, what does the keyboard shortcut Ctrl+S normally do?",
+      "o": [
+        "Closes the application",
+        "Saves the current document or file",
+        "Selects all content",
+        "Opens the print dialog"
+      ],
+      "a": 1,
+      "e": "Correct answer: Saves the current document or file.\nKey points: Ctrl+S is a common save shortcut in many desktop applications. If the file has not been saved before, the application may ask the user to choose a file name and location.\nWhy the other options are incorrect: Ctrl+W commonly closes a document or tab; Ctrl+A selects all; Ctrl+P usually opens printing options. Shortcuts can vary by application and operating system.\nExam takeaway: Learn common shortcuts but remember that application-specific behaviour may differ; save important work before closing.\nSource: https://support.microsoft.com/en-us/excel",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://support.microsoft.com/en-us/excel",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC"
+    },
+    {
+      "id": 6190,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Reverse charge mechanism",
+      "q": "Under the GST reverse charge mechanism, who is liable to pay tax for a supply notified to be covered by reverse charge, subject to applicable law and conditions?",
+      "o": [
+        "Always the supplier",
+        "The recipient of the supply",
+        "The transport authority in every case",
+        "The bank that processes payment"
+      ],
+      "a": 1,
+      "e": "Correct answer: The recipient of the supply.\nKey points: Under reverse charge, liability to pay GST shifts to the recipient for notified categories of supplies or notified classes of suppliers, subject to the CGST Act and related rules. Whether a transaction is covered must be checked against current notifications and statutory conditions.\nWhy the other options are incorrect: The supplier is generally liable under forward charge; a transport authority or payment-processing bank does not automatically become liable merely because it is involved in a transaction.\nExam takeaway: Verify the exact supply category, notification, registration and time-of-supply rules before concluding that reverse charge applies.\nSource: https://cbic-gst.gov.in/",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://cbic-gst.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / GST staff"
+    }
+  ]
+}
