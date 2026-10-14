@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-14",
+  "questionCount": 5,
+  "description": "Dated Meghalaya, India, global economy and sports current affairs for MPSC/DSC/SSC/UPSC practice",
+  "sourcePolicy": "Current-affairs questions link to dated reports or official releases. These are original practice questions, not official PYQs.",
+  "subjects": {
+    "Current Affairs": 5
+  },
+  "questionIdRange": [
+    6191,
+    6195
+  ],
+  "questions": [
+    {
+      "id": 6191,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya electoral rolls",
+      "q": "According to the Meghalaya Chief Electoral Officer's release dated 12 October 2026, when was final publication of the electoral roll scheduled?",
+      "o": [
+        "19 October 2026",
+        "26 October 2026",
+        "1 November 2026",
+        "26 December 2026"
+      ],
+      "a": 1,
+      "e": "Correct answer: 26 October 2026.\nKey points: The Meghalaya Elections Department release EL.63/2026/96, dated 12 October 2026, said more than 95% of notice hearings had been completed and preparations were under way for final publication on 26 October. This is a published schedule; check the official portal for revisions.\nWhy the other options are incorrect: 19 October, 1 November and 26 December do not match the release.\nExam takeaway: Electoral rolls are administered through the election machinery, including the Chief Electoral Officer and Booth Level Officers.\nSource: https://www.meghalaya.gov.in/press/content/52055",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice",
+      "source": "Dated current-affairs practice; 2026-10-12",
+      "sourceURL": "https://www.meghalaya.gov.in/press/content/52055",
+      "verificationStatus": "dated-official-release-reviewed",
+      "currentAffairsDate": "2026-10-12"
+    },
+    {
+      "id": 6192,
+      "cat": "Current Affairs",
+      "topic": "Power sector and AI",
+      "q": "A report dated 13 October 2026 said the Central Electricity Authority's two-day AI conclave was due to begin on 14 October in which city?",
+      "o": [
+        "Mumbai",
+        "Shillong",
+        "New Delhi",
+        "Bengaluru"
+      ],
+      "a": 2,
+      "e": "Correct answer: New Delhi.\nKey points: The report says the Central Electricity Authority was organising a two-day conclave on making India's power sector AI-enabled at the Manekshaw Centre, beginning 14 October. Topics include smart grids, renewable-energy integration and cybersecurity.\nWhy the other options are incorrect: Mumbai, Shillong and Bengaluru are not the venue named in the dated report.\nExam takeaway: CEA is associated with technical planning and development of the electricity sector; CERC is a separate regulatory body.\nSource: https://www.freepressjournal.in/business/indias-power-sector-set-for-ai-push-as-cea-hosts-two-day-international-conclave-in-new-delhi",
+      "difficulty": "Medium",
+      "exam": "MPSC / SSC / UPSC Practice",
+      "source": "Dated current-affairs practice; 2026-10-13",
+      "sourceURL": "https://www.freepressjournal.in/business/indias-power-sector-set-for-ai-push-as-cea-hosts-two-day-international-conclave-in-new-delhi",
+      "verificationStatus": "dated-report-reviewed",
+      "currentAffairsDate": "2026-10-13"
+    },
+    {
+      "id": 6193,
+      "cat": "Current Affairs",
+      "topic": "IMF World Economic Outlook",
+      "q": "In a Reuters report dated 13 October 2026, what global growth rate did the IMF forecast for 2026?",
+      "o": [
+        "2.1%",
+        "3.1%",
+        "4.1%",
+        "5.1%"
+      ],
+      "a": 1,
+      "e": "Correct answer: 3.1%.\nKey points: Reuters reported that the IMF's World Economic Outlook projected global growth at 3.1% for 2026 and 3.4% for 2027. It noted support from AI infrastructure investment but warned about debt, conflict-related energy prices and a possible AI-investment correction. These are forecasts, not final measured growth.\nWhy the other options are incorrect: 2.1%, 4.1% and 5.1% are not the 2026 global forecast reported in the article.\nExam takeaway: Distinguish forecasts from actual outcomes and retain the report date.\nSource: https://www.reuters.com/business/finance/imf-flags-risks-global-economy-ai-market-correction-war-debt-2026-10-13/",
+      "difficulty": "Medium",
+      "exam": "MPSC / SSC / UPSC Practice",
+      "source": "Dated current-affairs practice; 2026-10-13",
+      "sourceURL": "https://www.reuters.com/business/finance/imf-flags-risks-global-economy-ai-market-correction-war-debt-2026-10-13/",
+      "verificationStatus": "dated-report-reviewed",
+      "currentAffairsDate": "2026-10-13"
+    },
+    {
+      "id": 6194,
+      "cat": "Current Affairs",
+      "topic": "MSME quality scheme",
+      "q": "A report dated 13 October 2026 discussed the Zero Defect, Zero Effect (ZED) scheme. What is its broad purpose?",
+      "o": [
+        "Promote quality manufacturing while reducing harmful environmental effects",
+        "Insure all bank deposits",
+        "Provide free electricity to every household",
+        "Replace GST returns with a single form"
+      ],
+      "a": 0,
+      "e": "Correct answer: Promote quality manufacturing while reducing harmful environmental effects.\nKey points: ZED encourages enterprises, particularly MSMEs, to improve product quality and manufacturing processes while limiting environmental impact. A 13 October report discussed quality, technology, skills and competitiveness as priorities for Indian MSMEs.\nWhy the other options are incorrect: Deposit insurance is a banking function; household electricity support is unrelated; ZED does not replace GST compliance.\nExam takeaway: ZED means Zero Defect, Zero Effect—product quality plus environmental responsibility.\nSource: https://www.financialexpress.com/business/industry-msmes-need-to-focus-on-quality-competitiveness-msme-secy-4360502/",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / Inspector of Taxes Practice",
+      "source": "Dated current-affairs practice; 2026-10-13",
+      "sourceURL": "https://www.financialexpress.com/business/industry-msmes-need-to-focus-on-quality-competitiveness-msme-secy-4360502/",
+      "verificationStatus": "dated-report-reviewed",
+      "currentAffairsDate": "2026-10-13"
+    },
+    {
+      "id": 6195,
+      "cat": "Current Affairs",
+      "topic": "Cricket fixtures",
+      "q": "According to the published schedule, where was the India–West Indies fourth T20 International scheduled for 14 October 2026?",
+      "o": [
+        "Eden Gardens, Kolkata",
+        "Rajiv Gandhi International Stadium, Hyderabad",
+        "Wankhede Stadium, Mumbai",
+        "Barsapara Cricket Stadium, Guwahati"
+      ],
+      "a": 1,
+      "e": "Correct answer: Rajiv Gandhi International Stadium, Hyderabad.\nKey points: The published 2026 fixture list scheduled the fourth T20I for 14 October in Hyderabad. This question records the announced fixture, not the match result; schedules can change.\nWhy the other options are incorrect: Kolkata, Mumbai and Guwahati are not the venue listed for this fourth T20I in the cited schedule.\nExam takeaway: Record match number, date and venue, and distinguish a scheduled fixture from a completed result.\nSource: https://sports-pp.ndtv.com/india-vs-west-indies-2026/schedules-fixtures",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC Practice",
+      "source": "Dated current-affairs practice; 2026-10-14",
+      "sourceURL": "https://sports-pp.ndtv.com/india-vs-west-indies-2026/schedules-fixtures",
+      "verificationStatus": "dated-fixture-reviewed",
+      "currentAffairsDate": "2026-10-14"
+    }
+  ]
+}
