@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-15",
+  "questionCount": 5,
+  "description": "Dated current-affairs practice based on reports published 14 October 2026. These are original practice questions, not official PYQs.",
+  "subjects": {
+    "Current Affairs": 5
+  },
+  "questionIdRange": [
+    6164,
+    6168
+  ],
+  "questions": [
+    {
+      "id": 6164,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya DMF",
+      "q": "According to the Meghalaya Government release dated 14 October 2026, how many projects had been taken up under the District Mineral Foundation?",
+      "o": [
+        "723",
+        "823",
+        "923",
+        "1,023"
+      ],
+      "a": 2,
+      "e": "Correct answer: 923 projects. The official release says 923 projects worth ₹181.38 crore were taken up over the DMF's first decade, including education, healthcare, sanitation and water supply for mining-affected communities. The other counts do not match the release. Exam takeaway: DMF links mining revenues to development in affected areas.\nSource: https://www.meghalaya.gov.in/press/content/52082",
+      "source": "Official Meghalaya Government release, 14 October 2026",
+      "sourceURL": "https://www.meghalaya.gov.in/press/content/52082",
+      "verificationStatus": "official-release-reviewed",
+      "difficulty": "Easy",
+      "exam": "MPSC / Meghalaya GK",
+      "currentAffairsDate": "2026-10-14"
+    },
+    {
+      "id": 6165,
+      "cat": "Current Affairs",
+      "topic": "Maternal health",
+      "q": "A Meghalaya Government initiative dated 14 October 2026 engaged faith leaders to support which area?",
+      "o": [
+        "Maternal, newborn and child health",
+        "Mining royalty collection only",
+        "Traffic enforcement",
+        "University entrance testing"
+      ],
+      "a": 0,
+      "e": "Correct answer: Maternal, newborn and child health. The state release describes trusted faith networks promoting antenatal care, institutional delivery, breastfeeding, nutrition and routine immunisation. The other options are unrelated to the initiative. Exam takeaway: Community trust can support evidence-based public-health behaviour alongside formal health services.\nSource: https://www.meghalaya.gov.in/press/content/52075",
+      "source": "Official Meghalaya Government release, 14 October 2026",
+      "sourceURL": "https://www.meghalaya.gov.in/press/content/52075",
+      "verificationStatus": "official-release-reviewed",
+      "difficulty": "Medium",
+      "exam": "MPSC / Meghalaya GK",
+      "currentAffairsDate": "2026-10-14"
+    },
+    {
+      "id": 6166,
+      "cat": "Current Affairs",
+      "topic": "Wholesale inflation",
+      "q": "A report dated 14 October 2026 put India's September WPI inflation at:",
+      "o": [
+        "7.39%",
+        "9.92%",
+        "11.39%",
+        "14.11%"
+      ],
+      "a": 2,
+      "e": "Correct answer: 11.39%. The dated report says September WPI inflation rose from 9.92% in August. WPI tracks wholesale prices; it is not the same as retail CPI. The 9.92% option is the reported August figure, while the other figures do not match September. Exam takeaway: Distinguish WPI from CPI and record the reference month.\nSource: https://timesofindia.indiatimes.com/business/india-business/indias-wpi-inflation-surges-to-record-high-of-11-39-in-september-on-higher-food-fuel-prices/articleshow/134945901.cms",
+      "source": "Times of India report citing government data, 14 October 2026",
+      "sourceURL": "https://timesofindia.indiatimes.com/business/india-business/indias-wpi-inflation-surges-to-record-high-of-11-39-in-september-on-higher-food-fuel-prices/articleshow/134945901.cms",
+      "verificationStatus": "dated-report-reviewed; secondary source",
+      "difficulty": "Medium",
+      "exam": "MPSC / SSC Economy",
+      "currentAffairsDate": "2026-10-14"
+    },
+    {
+      "id": 6167,
+      "cat": "Current Affairs",
+      "topic": "Treasury bills",
+      "q": "Reuters reported India's 182-day Treasury-bill cut-off yield on 14 October 2026 as:",
+      "o": [
+        "6.29%",
+        "6.49%",
+        "5.50%",
+        "7.19%"
+      ],
+      "a": 0,
+      "e": "Correct answer: 6.29%. Reuters reported 6.29% for 182-day and 6.49% for 364-day bills. A Treasury bill is a short-term government security; its yield differs from the RBI repo rate. The 6.49% figure belongs to the longer maturity and 5.50% was the repo rate cited. Exam takeaway: Match yields to maturity.\nSource: https://www.reuters.com/world/india/indias-ultra-short-term-borrowing-costs-spike-premium-over-policy-rate-hits-4-2026-10-14/",
+      "source": "Reuters, 14 October 2026",
+      "sourceURL": "https://www.reuters.com/world/india/indias-ultra-short-term-borrowing-costs-spike-premium-over-policy-rate-hits-4-2026-10-14/",
+      "verificationStatus": "dated-report-reviewed",
+      "difficulty": "Medium",
+      "exam": "MPSC / SSC Economy",
+      "currentAffairsDate": "2026-10-14"
+    },
+    {
+      "id": 6168,
+      "cat": "Current Affairs",
+      "topic": "Amazon fires",
+      "q": "Reuters reported how many fires in Brazil's Amazonas state in the first two weeks of October 2026?",
+      "o": [
+        "679",
+        "1,679",
+        "2,679",
+        "3,679"
+      ],
+      "a": 1,
+      "e": "Correct answer: 1,679 fires. Reuters reported this count was 253% above the same period a year earlier. The article discusses delayed rainfall, El Niño, climate change and human activity as contributing factors; suspected deliberate burning was under investigation. The other numbers are not the reported count. Exam takeaway: Separate reported data from proposed causes.\nSource: https://www.reuters.com/business/environment/fires-surge-brazils-amazon-fueled-by-el-nio-climate-change-2026-10-14/",
+      "source": "Reuters, 14 October 2026",
+      "sourceURL": "https://www.reuters.com/business/environment/fires-surge-brazils-amazon-fueled-by-el-nio-climate-change-2026-10-14/",
+      "verificationStatus": "dated-report-reviewed",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC Environment",
+      "currentAffairsDate": "2026-10-14"
+    }
+  ]
+}
