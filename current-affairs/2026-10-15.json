@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-15",
+  "items": [
+    {
+      "region": "MEGHALAYA",
+      "date": "14 OCT 2026",
+      "title": "District Mineral Foundation marks 10 years",
+      "summary": "The Meghalaya Government reported 923 projects worth ₹181.38 crore under the District Mineral Foundation, covering education, healthcare, sanitation, water supply and other needs of communities affected by mining.",
+      "exam": "Mining-affected communities, development finance and local welfare.",
+      "source": "Meghalaya Government press release, 14 October 2026",
+      "sourceURL": "https://www.meghalaya.gov.in/press/content/52082"
+    },
+    {
+      "region": "MEGHALAYA",
+      "date": "14 OCT 2026",
+      "title": "Faith leaders engaged to support maternal and child health",
+      "summary": "A state initiative uses trusted faith networks and a Mind-Heart Dialogue approach to encourage antenatal care, institutional delivery, postnatal care, breastfeeding, nutrition and routine immunisation.",
+      "exam": "Public health, behaviour change and community engagement.",
+      "source": "Meghalaya Government press release, 14 October 2026",
+      "sourceURL": "https://www.meghalaya.gov.in/press/content/52075"
+    },
+    {
+      "region": "INDIA",
+      "date": "14 OCT 2026",
+      "title": "Wholesale inflation rises in September",
+      "summary": "A report citing government data put September 2026 WPI inflation at 11.39%, up from 9.92% in August. WPI measures wholesale prices and is distinct from retail CPI inflation.",
+      "exam": "Inflation indices, food and fuel prices, monetary policy.",
+      "source": "The Times of India, 14 October 2026",
+      "sourceURL": "https://timesofindia.indiatimes.com/business/india-business/indias-wpi-inflation-surges-to-record-high-of-11-39-in-september-on-higher-food-fuel-prices/articleshow/134945901.cms"
+    },
+    {
+      "region": "INDIA",
+      "date": "14 OCT 2026",
+      "title": "Treasury-bill yields climb",
+      "summary": "Reuters reported 182-day and 364-day Treasury-bill cut-off yields of 6.29% and 6.49%, respectively, as investors priced in the possibility of tighter monetary policy. These yields are distinct from the RBI repo rate.",
+      "exam": "Government borrowing, Treasury bills and monetary policy.",
+      "source": "Reuters, 14 October 2026",
+      "sourceURL": "https://www.reuters.com/world/india/indias-ultra-short-term-borrowing-costs-spike-premium-over-policy-rate-hits-4-2026-10-14/"
+    },
+    {
+      "region": "WORLD",
+      "date": "14 OCT 2026",
+      "title": "Amazon fires intensify in Brazil",
+      "summary": "Reuters reported 1,679 fires in Brazil's Amazonas state during the first two weeks of October, 253% more than the same period a year earlier. The report discussed delayed rainfall, El Niño, climate change and human activity as contributing factors; suspected deliberate burning was under investigation.",
+      "exam": "Biodiversity, deforestation, air pollution and climate risk.",
+      "source": "Reuters, 14 October 2026",
+      "sourceURL": "https://www.reuters.com/business/environment/fires-surge-brazils-amazon-fueled-by-el-nio-climate-change-2026-10-14/"
+    }
+  ]
+}
