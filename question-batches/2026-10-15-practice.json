@@ -1,0 +1,270 @@
+{
+  "date": "2026-10-15",
+  "questionCount": 13,
+  "description": "Original cross-exam practice covering Meghalaya GK, polity, history, geography, economy, English, arithmetic, reasoning, science and GST.",
+  "subjects": {
+    "Meghalaya GK": 2,
+    "Polity": 2,
+    "History": 1,
+    "Geography": 1,
+    "Economy": 1,
+    "English": 1,
+    "Arithmetic": 2,
+    "Reasoning": 1,
+    "Science": 1,
+    "GST / Inspector of Taxes": 1
+  },
+  "questionIdRange": [
+    6169,
+    6181
+  ],
+  "questions": [
+    {
+      "id": 6169,
+      "cat": "Meghalaya GK",
+      "topic": "District headquarters",
+      "q": "What is the headquarters of South West Khasi Hills district?",
+      "o": [
+        "Mawkyrwat",
+        "Nongpoh",
+        "Khliehriat",
+        "Williamnagar"
+      ],
+      "a": 0,
+      "e": "Correct answer: Mawkyrwat. It is the district headquarters of South West Khasi Hills. Nongpoh is associated with Ri-Bhoi, Khliehriat with East Jaintia Hills and Williamnagar with East Garo Hills. Exam takeaway: Learn district–headquarters pairs separately from major towns.\nSource: https://southwestkhasihills.gov.in/",
+      "source": "Official district administration site; original practice",
+      "sourceURL": "https://southwestkhasihills.gov.in/",
+      "verificationStatus": "official-site-concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC Meghalaya GK"
+    },
+    {
+      "id": 6170,
+      "cat": "Meghalaya GK",
+      "topic": "District headquarters",
+      "q": "Khliehriat is the headquarters of which Meghalaya district?",
+      "o": [
+        "West Jaintia Hills",
+        "East Jaintia Hills",
+        "East Khasi Hills",
+        "South West Khasi Hills"
+      ],
+      "a": 1,
+      "e": "Correct answer: East Jaintia Hills. Khliehriat is the district headquarters; West Jaintia Hills is headquartered at Jowai, East Khasi Hills at Shillong and South West Khasi Hills at Mawkyrwat. Exam takeaway: Do not confuse East and West Jaintia Hills.\nSource: https://eastjaintiahills.gov.in/",
+      "source": "Official district administration site; original practice",
+      "sourceURL": "https://eastjaintiahills.gov.in/",
+      "verificationStatus": "official-site-concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC Meghalaya GK"
+    },
+    {
+      "id": 6171,
+      "cat": "Polity",
+      "topic": "Ordinances",
+      "q": "Under which Article may the President promulgate an ordinance when Parliament is not in session, subject to constitutional conditions?",
+      "o": [
+        "Article 72",
+        "Article 123",
+        "Article 143",
+        "Article 356"
+      ],
+      "a": 1,
+      "e": "Correct answer: Article 123. It allows an ordinance when both Houses are not simultaneously in session and immediate action is considered necessary; the ordinance is temporary and subject to constitutional limits. Article 72 concerns pardons, 143 advisory opinions and 356 President's Rule. Exam takeaway: President—123; Governor—213.\nSource: https://legislative.gov.in/constitution-of-india/",
+      "source": "Constitution of India; original practice",
+      "sourceURL": "https://legislative.gov.in/constitution-of-india/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Polity"
+    },
+    {
+      "id": 6172,
+      "cat": "Polity",
+      "topic": "Money Bills",
+      "q": "In which House of Parliament can a Money Bill be introduced?",
+      "o": [
+        "Rajya Sabha only",
+        "Lok Sabha only",
+        "Either House",
+        "Only at a joint sitting"
+      ],
+      "a": 1,
+      "e": "Correct answer: Lok Sabha only. Articles 109–110 provide the special procedure: the Speaker certifies a Money Bill and the Rajya Sabha may make recommendations within 14 days. The Rajya Sabha cannot introduce it; ordinary Bills may be introduced in either House, and a joint sitting is not the Money Bill procedure. Exam takeaway: Money Bill—Lok Sabha introduction.\nSource: https://legislative.gov.in/constitution-of-india/",
+      "source": "Constitution of India; original practice",
+      "sourceURL": "https://legislative.gov.in/constitution-of-india/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Polity"
+    },
+    {
+      "id": 6173,
+      "cat": "History",
+      "topic": "Permanent Settlement",
+      "q": "Who introduced the Permanent Settlement in Bengal in 1793?",
+      "o": [
+        "Lord Wellesley",
+        "Lord Cornwallis",
+        "Lord Dalhousie",
+        "Warren Hastings"
+      ],
+      "a": 1,
+      "e": "Correct answer: Lord Cornwallis. The 1793 settlement fixed the land-revenue demand payable by zamindars to the East India Company in Bengal. Wellesley is associated with the Subsidiary Alliance; Dalhousie with annexation policies; Hastings was not the introducer of this settlement. Exam takeaway: Permanent Settlement—1793—Bengal—Cornwallis.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "NCERT history reference; original practice",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / SSC / UPSC History"
+    },
+    {
+      "id": 6174,
+      "cat": "Geography",
+      "topic": "Asian rivers",
+      "q": "What is the name of the Brahmaputra before it enters India from Tibet?",
+      "o": [
+        "Yarlung Tsangpo",
+        "Irrawaddy",
+        "Salween",
+        "Mekong"
+      ],
+      "a": 0,
+      "e": "Correct answer: Yarlung Tsangpo. The river enters India in Arunachal Pradesh as the Siang or Dihang and later is known as the Brahmaputra in Assam. Irrawaddy, Salween and Mekong are separate Asian river systems. Exam takeaway: Transboundary rivers may have different names along their course.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "NCERT geography reference; original practice",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / SSC / UPSC Geography"
+    },
+    {
+      "id": 6175,
+      "cat": "Economy",
+      "topic": "WPI",
+      "q": "Which office compiles India's Wholesale Price Index (WPI)?",
+      "o": [
+        "Office of the Economic Adviser, DPIIT",
+        "Election Commission of India",
+        "NITI Aayog",
+        "CAG"
+      ],
+      "a": 0,
+      "e": "Correct answer: Office of the Economic Adviser under DPIIT. It releases WPI data measuring wholesale price movements for a basket of goods. The Election Commission administers elections, NITI Aayog is a policy think tank and the CAG audits public accounts. Exam takeaway: WPI—Office of the Economic Adviser, DPIIT.\nSource: https://eaindustry.nic.in/",
+      "source": "Office of the Economic Adviser; original practice",
+      "sourceURL": "https://eaindustry.nic.in/",
+      "verificationStatus": "official-source-concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / SSC Economy"
+    },
+    {
+      "id": 6176,
+      "cat": "English",
+      "topic": "Subject-verb agreement",
+      "q": "Choose the correct verb: Each of the candidates ___ received an admit card.",
+      "o": [
+        "have",
+        "has",
+        "are",
+        "were"
+      ],
+      "a": 1,
+      "e": "Correct answer: has. 'Each' is singular here, so the sentence is 'Each of the candidates has received an admit card.' The plural noun 'candidates' is in a prepositional phrase and does not control the verb. 'Have' is plural; 'are' and 'were' do not fit the present-perfect construction. Exam takeaway: Identify the grammatical subject, not the nearest noun.\nSource: https://www.mpsc.meghalaya.gov.in/",
+      "source": "Original grammar practice; exam reference",
+      "sourceURL": "https://www.mpsc.meghalaya.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC / SSC English"
+    },
+    {
+      "id": 6177,
+      "cat": "Arithmetic",
+      "topic": "Percentage",
+      "q": "What is 18% of ₹750?",
+      "o": [
+        "₹115",
+        "₹125",
+        "₹135",
+        "₹145"
+      ],
+      "a": 2,
+      "e": "Correct answer: ₹135. Step-by-step: 18% = 18/100 = 0.18; ₹750 × 0.18 = ₹135. Quick method: 10% of ₹750 is ₹75 and 8% is ₹60; ₹75 + ₹60 = ₹135. The other options do not equal 0.18 × 750. Exam takeaway: Percentage amount = base × rate ÷ 100.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original quantitative practice; calculation independently checked",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "calculation-independently-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "DSC / LDA / SSC / MPSC"
+    },
+    {
+      "id": 6178,
+      "cat": "Arithmetic",
+      "topic": "Ratio and proportion",
+      "q": "Two numbers are in the ratio 4:7 and their sum is 99. What is the smaller number?",
+      "o": [
+        "27",
+        "36",
+        "45",
+        "63"
+      ],
+      "a": 1,
+      "e": "Correct answer: 36. Step-by-step: total parts = 4 + 7 = 11; one part = 99 ÷ 11 = 9; smaller number = 4 × 9 = 36; larger = 7 × 9 = 63. Check: 36 + 63 = 99 and 36:63 simplifies to 4:7. The other options fail the ratio-and-sum check. Quick method: divide the total by total parts, then multiply by the smaller part.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "Original quantitative practice; calculation independently checked",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "calculation-independently-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "DSC / LDA / SSC / MPSC"
+    },
+    {
+      "id": 6179,
+      "cat": "Reasoning",
+      "topic": "Number series",
+      "q": "Find the next number: 3, 8, 15, 24, 35, __.",
+      "o": [
+        "42",
+        "46",
+        "48",
+        "50"
+      ],
+      "a": 2,
+      "e": "Correct answer: 48. Differences are +5, +7, +9 and +11, so the next difference is +13; 35 + 13 = 48. Another pattern is n²−1 for n = 2, 3, 4, 5, 6, so the next term is 7²−1 = 48. The other options do not continue either pattern. Exam takeaway: Check differences and square-number patterns.\nSource: https://www.mpsc.meghalaya.gov.in/",
+      "source": "Original reasoning practice; pattern independently checked",
+      "sourceURL": "https://www.mpsc.meghalaya.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "DSC / LDA / SSC / MPSC"
+    },
+    {
+      "id": 6180,
+      "cat": "Science",
+      "topic": "Newton's second law",
+      "q": "A net force of 1 N acts on a 1 kg mass. What acceleration results?",
+      "o": [
+        "0.5 m/s²",
+        "1 m/s²",
+        "2 m/s²",
+        "9.8 m/s²"
+      ],
+      "a": 1,
+      "e": "Correct answer: 1 m/s². Formula: F = m × a, so a = F ÷ m. Substitution: a = 1 N ÷ 1 kg = 1 kg·m/s² ÷ 1 kg = 1 m/s². The other values do not satisfy the stated force and mass. Exam takeaway: 1 newton = 1 kg·m/s²; keep units in mechanics calculations.\nSource: https://ncert.nic.in/textbook.php",
+      "source": "NCERT science reference; original practice",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "calculation-independently-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "DSC / LDA / SSC Science"
+    },
+    {
+      "id": 6181,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "GST Council",
+      "q": "Which Article of the Constitution provides for the GST Council?",
+      "o": [
+        "Article 246A",
+        "Article 269A",
+        "Article 279A",
+        "Article 280"
+      ],
+      "a": 2,
+      "e": "Correct answer: Article 279A. It provides for the GST Council, which recommends key GST policy matters. Article 246A concerns legislative power for GST; Article 269A concerns inter-State GST; Article 280 provides for the Finance Commission. Exam takeaway: GST Council—279A; GST legislative power—246A; inter-State GST—269A; Finance Commission—280.\nSource: https://legislative.gov.in/constitution-of-india/",
+      "source": "Constitution of India and CBIC; original practice",
+      "sourceURL": "https://cbic-gst.gov.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Medium",
+      "exam": "Inspector of Taxes / MPSC GST"
+    }
+  ]
+}
