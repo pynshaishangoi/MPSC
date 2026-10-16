@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-16",
+  "items": [
+    {
+      "region": "MEGHALAYA",
+      "date": "15 OCT 2026",
+      "title": "Special voter-enrolment drives planned",
+      "summary": "A report dated 15 October said Meghalaya and other election authorities were arranging enrolment drives for eligible people whose names were missing from electoral rolls, with Meghalaya camps planned after 26 October. Check the latest official election notice for any schedule changes.",
+      "exam": "Electoral rolls, voter registration and election administration.",
+      "source": "The Economic Times, 15 October 2026",
+      "sourceURL": "https://m.economictimes.com/news/india/boost-your-voting-rights-sikkim-meghalaya-and-ladakh-launch-major-voter-enrollment-campaigns/articleshow/134970107.cms",
+      "verificationStatus": "dated-report-reviewed; confirm schedule against official notice"
+    },
+    {
+      "region": "INDIA · ECONOMY",
+      "date": "15 OCT 2026",
+      "title": "Direct-tax collections rise year on year",
+      "summary": "Financial Express reported net direct-tax collections of ₹13.38 lakh crore after refunds as of 14 October 2026, up 13.2% year on year. The same report distinguished this from ₹16.03 lakh crore collected before refunds.",
+      "exam": "Direct and indirect taxes, gross versus net collections, tax administration.",
+      "source": "Financial Express, 15 October 2026",
+      "sourceURL": "https://www.financialexpress.com/money/income-tax-direct-tax-mop-up-rises-13-stt-revenues-surge-52-4362271/",
+      "verificationStatus": "dated-report-reviewed; secondary reporting"
+    },
+    {
+      "region": "WORLD · SCIENCE & TECHNOLOGY",
+      "date": "15 OCT 2026",
+      "title": "CERN and Mistral AI announce physics-focused model partnership",
+      "summary": "Reuters reported that CERN and Mistral AI plan to develop an AI foundation model for scientific discovery, initially focused on collider physics and trained using simulated particle-collision data. No launch date or budget was specified in the report.",
+      "exam": "AI for science, particle physics, CERN and international research partnerships.",
+      "source": "Reuters, 15 October 2026",
+      "sourceURL": "https://www.reuters.com/science/cern-mistral-partner-build-ai-foundation-models-physics-2026-10-15/",
+      "verificationStatus": "dated-report-reviewed"
+    },
+    {
+      "region": "SPORTS",
+      "date": "15 OCT 2026",
+      "title": "Shai Hope scores an unbeaten century against India",
+      "summary": "Reuters reported that West Indies captain Shai Hope scored 102 not out in the fourth T20 International in Hyderabad, helping West Indies level the series. Match and series facts can change as later fixtures are played.",
+      "exam": "Cricket current affairs, match formats and individual performance.",
+      "source": "Reuters, 15 October 2026",
+      "sourceURL": "https://www.reuters.com/sports/cricket/windies-hope-worried-about-excess-baggage-after-landing-another-player-match-2026-10-15/",
+      "verificationStatus": "dated-report-reviewed"
+    }
+  ],
+  "note": "Dated current-affairs briefing for exam revision. News summaries are paraphrased; verify changing schedules and statistics at the linked source before memorising."
+}
