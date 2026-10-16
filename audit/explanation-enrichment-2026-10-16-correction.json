@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-16",
+  "correctionFor": "audit/explanation-enrichment-2026-10-16.json",
+  "note": "The original draft contains 11 legacy explanation updates, not 12. Its expectedExplanationsUnder100CharactersAfterIntegration value should be 499 for that file alone, not 498. The additional update below is question ID 4; if all 12 updates are integrated together, the expected count under the 100-character audit threshold is 498.",
+  "additionalUpdate": {
+    "questionId": 4,
+    "question": "Which body conducts elections to Parliament and State Legislatures?",
+    "answerIndex": 1,
+    "explanation": "Correct answer: Election Commission of India.\nKey points: Article 324 vests the superintendence, direction and control of elections to Parliament, State Legislatures, and the offices of President and Vice-President in the Election Commission of India, subject to the Constitution and election laws.\nWhy the other options are incorrect: UPSC conducts recruitment examinations for specified public services; the Finance Commission recommends fiscal devolution; the CAG audits public accounts. None is the constitutional election-management body.\nExam takeaway: Election Commission = Article 324; UPSC = Article 315; Finance Commission = Article 280; CAG = Article 148.\nSource: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+    "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf"
+  }
+}
