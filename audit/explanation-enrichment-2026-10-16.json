@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-16",
+  "status": "draft for integration; not applied to index.html",
+  "baselineEmbeddedQuestionCount": 592,
+  "baselineExplanationsUnder100Characters": 510,
+  "updatesCount": 11,
+  "expectedExplanationsUnder100CharactersAfterIntegration": 498,
+  "policy": "Updates change only explanation text. Preserve each existing question ID, wording, options, option order and answer index exactly.",
+  "updates": [
+    {
+      "questionId": 1,
+      "question": "Which Article of the Constitution guarantees equality before law?",
+      "answerIndex": 1,
+      "explanation": "Correct answer: Article 14.\nKey points: Article 14 guarantees equality before the law and equal protection of the laws to every person within India's territory. Equality before law expresses the rule that no person is above the law; equal protection requires like cases to be treated alike, subject to constitutionally valid distinctions.\nWhy the other options are incorrect: Article 12 defines 'the State' for Part III; Article 19 protects specified freedoms of citizens; Article 21 protects life and personal liberty.\nExam takeaway: Article 14 = equality; Article 19 = specified freedoms; Article 21 = life and personal liberty.\nSource: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf"
+    },
+    {
+      "questionId": 2,
+      "question": "Article 21A deals with which right?",
+      "answerIndex": 1,
+      "explanation": "Correct answer: Right to Education.\nKey points: Article 21A requires the State to provide free and compulsory education to children aged six to fourteen years in the manner determined by law. The Right of Children to Free and Compulsory Education Act, 2009 provides a major statutory framework for implementing this guarantee.\nWhy the other options are incorrect: The right to property is no longer a Fundamental Right under Part III; freedom of religion is principally covered by Articles 25–28; the Right to Information is established by statute, not Article 21A.\nExam takeaway: Article 21A = education for ages 6–14; connect it with the RTE Act, 2009.\nSource: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf"
+    },
+    {
+      "questionId": 3,
+      "question": "Who is the constitutional head of a State in India?",
+      "answerIndex": 1,
+      "explanation": "Correct answer: Governor.\nKey points: The Governor is the constitutional head of a State and is appointed by the President. The Governor normally acts on the aid and advice of the State Council of Ministers, except where the Constitution recognises a discretionary role.\nWhy the other options are incorrect: The Chief Minister heads the elected State government; the Chief Secretary is a senior civil servant; the Speaker presides over the Legislative Assembly.\nExam takeaway: Governor = constitutional head of State; Chief Minister = head of the elected State government.\nSource: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf"
+    },
+    {
+      "questionId": 5,
+      "question": "Fundamental Duties are contained in which Article?",
+      "answerIndex": 2,
+      "explanation": "Correct answer: Article 51A.\nKey points: Article 51A, in Part IVA, lists the Fundamental Duties of citizens. They were added by the 42nd Constitutional Amendment in 1976; the duty relating to education for children was later added by the 86th Amendment.\nWhy the other options are incorrect: Article 32 concerns constitutional remedies; Article 44 is a Directive Principle concerning a Uniform Civil Code; Article 368 sets out the constitutional amendment procedure.\nExam takeaway: Fundamental Duties = Article 51A; Directive Principles = Part IV; amendment procedure = Article 368.\nSource: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf"
+    },
+    {
+      "questionId": 6,
+      "question": "Who appoints the Governor of a State?",
+      "answerIndex": 1,
+      "explanation": "Correct answer: President of India.\nKey points: Article 155 states that the Governor of a State is appointed by the President by warrant under the President's hand and seal. The Governor is not directly elected by the State's voters.\nWhy the other options are incorrect: The Chief Minister may advise in political processes but does not formally appoint the Governor; the Prime Minister does not appoint the Governor directly; the Chief Justice of India has no such appointment power.\nExam takeaway: Governor is appointed by the President under Article 155; the term and office are governed by Article 156.\nSource: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf"
+    },
+    {
+      "questionId": 7,
+      "question": "Which institution audits the accounts of the Union and States?",
+      "answerIndex": 1,
+      "explanation": "Correct answer: Comptroller and Auditor General of India (CAG).\nKey points: The CAG is a constitutional authority under Article 148. Its audit work helps legislatures scrutinise government receipts and expenditure and supports public accountability.\nWhy the other options are incorrect: RBI is India's central bank; NITI Aayog is a policy think tank; SEBI regulates the securities market. None replaces the CAG's constitutional public-audit role.\nExam takeaway: CAG = public audit; RBI = monetary and banking functions; SEBI = securities-market regulation.\nSource: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf"
+    },
+    {
+      "questionId": 8,
+      "question": "The Council of Ministers at the Union level is collectively responsible to which House?",
+      "answerIndex": 1,
+      "explanation": "Correct answer: Lok Sabha.\nKey points: Article 75(3) makes the Union Council of Ministers collectively responsible to the House of the People, which is the Lok Sabha. In parliamentary government, the ministry must retain the confidence of the elected lower House.\nWhy the other options are incorrect: The Rajya Sabha is the Council of States and does not determine collective confidence in the same way; the President is the constitutional head, not a House of Parliament; responsibility is not described as equal to both Houses.\nExam takeaway: Union Council of Ministers → collective responsibility to Lok Sabha; State Council of Ministers → Legislative Assembly.\nSource: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf"
+    },
+    {
+      "questionId": 9,
+      "question": "Which Article provides the Right to Constitutional Remedies?",
+      "answerIndex": 2,
+      "explanation": "Correct answer: Article 32.\nKey points: Article 32 allows a person to move the Supreme Court for enforcement of Fundamental Rights and empowers the Court to issue appropriate writs. Dr B. R. Ambedkar famously described it as the Constitution's 'heart and soul' during the Constituent Assembly debates.\nWhy the other options are incorrect: Article 19 protects specified freedoms; Article 21 protects life and personal liberty; Article 40 directs the State to organise village panchayats.\nExam takeaway: Article 32 is the Supreme Court remedy for Fundamental Rights; High Courts have writ jurisdiction under Article 226, which is broader in scope.\nSource: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf"
+    },
+    {
+      "questionId": 10,
+      "question": "The Finance Commission is constituted under which Article?",
+      "answerIndex": 0,
+      "explanation": "Correct answer: Article 280.\nKey points: Article 280 provides for the President to constitute a Finance Commission, ordinarily every five years or earlier if considered necessary. It recommends how certain tax revenues should be distributed between the Union and States and addresses grants-in-aid and related fiscal matters.\nWhy the other options are incorrect: Article 324 concerns election administration; Article 315 provides for Union and State Public Service Commissions; Article 356 concerns President's Rule in a State.\nExam takeaway: Finance Commission = Article 280; Election Commission = Article 324; Public Service Commissions = Article 315.\nSource: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf"
+    },
+    {
+      "questionId": 11,
+      "question": "What is the capital of Meghalaya?",
+      "answerIndex": 1,
+      "explanation": "Correct answer: Shillong.\nKey points: Shillong is the capital of Meghalaya and an important administrative and educational centre in the Khasi Hills. Tura is a major centre in the Garo Hills, Jowai is in the Jaintia Hills, and Nongpoh is the headquarters of Ri-Bhoi district.\nWhy the other options are incorrect: Tura, Jowai and Nongpoh are important towns but are not the State capital.\nExam takeaway: Pair Meghalaya's major towns with their regions and administrative roles rather than memorising names in isolation.\nSource: https://www.meghalaya.gov.in/",
+      "sourceURL": "https://www.meghalaya.gov.in/"
+    },
+    {
+      "questionId": 12,
+      "question": "Meghalaya became a full-fledged State in which year?",
+      "answerIndex": 2,
+      "explanation": "Correct answer: 1972.\nKey points: Meghalaya attained full statehood on 21 January 1972 under the North-Eastern Areas (Reorganisation) Act, 1971. Before full statehood, it became an autonomous State within Assam in 1970.\nWhy the other options are incorrect: 1970 refers to the earlier autonomous-State status; 1969 and 1975 are not the year Meghalaya attained full statehood.\nExam takeaway: Remember the sequence: autonomous State in 1970; full statehood on 21 January 1972.\nSource: https://www.meghalaya.gov.in/",
+      "sourceURL": "https://www.meghalaya.gov.in/"
+    }
+  ]
+}
