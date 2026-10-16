@@ -1,0 +1,352 @@
+{
+  "date": "2026-10-16",
+  "questionCount": 17,
+  "description": "Dated daily batch with four current-affairs questions and original cross-exam practice. Original practice is not official PYQ.",
+  "sourcePolicy": "Current affairs cite dated reports; factual practice cites official or reputable reference sources. No item is labelled an official PYQ.",
+  "subjects": {
+    "Current Affairs": 4,
+    "Meghalaya GK": 2,
+    "Polity": 2,
+    "History": 1,
+    "Geography": 1,
+    "Economy": 1,
+    "English": 1,
+    "Arithmetic": 2,
+    "Reasoning": 1,
+    "Science": 1,
+    "GST / Inspector of Taxes": 1
+  },
+  "questionIdRange": [
+    6182,
+    6198
+  ],
+  "questions": [
+    {
+      "id": 6182,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya electoral rolls",
+      "q": "According to a report published on 15 October 2026, what is the purpose of the special voter-enrolment drives planned in Meghalaya after 26 October?",
+      "o": [
+        "To issue new driving licences",
+        "To help eligible voters missing from electoral rolls enrol",
+        "To conduct municipal tax surveys",
+        "To verify school examination results"
+      ],
+      "a": 1,
+      "e": "Correct answer: To help eligible voters missing from electoral rolls enrol.\nKey points: The 15 October report says election authorities in Meghalaya and other regions are organising enrolment drives for eligible people whose names are absent from the electoral roll. The date matters because the report places the camps after the scheduled final-roll publication on 26 October; confirm later official notices before acting on the schedule.\nWhy the other options are incorrect: The report concerns voter registration, not driving licences, municipal tax collection or school examinations.\nExam takeaway: Electoral rolls are prepared under election law; eligible citizens should check their enrolment status and use the prescribed application process.\nSource: https://m.economictimes.com/news/india/boost-your-voting-rights-sikkim-meghalaya-and-ladakh-launch-major-voter-enrollment-campaigns/articleshow/134970107.cms",
+      "source": "Economics Times report, 15 October 2026",
+      "sourceURL": "https://m.economictimes.com/news/india/boost-your-voting-rights-sikkim-meghalaya-and-ladakh-launch-major-voter-enrollment-campaigns/articleshow/134970107.cms",
+      "verificationStatus": "dated-report-reviewed",
+      "difficulty": "Easy",
+      "exam": "MPSC / Meghalaya GK / DSC",
+      "currentAffairsDate": "2026-10-15"
+    },
+    {
+      "id": 6183,
+      "cat": "Current Affairs",
+      "topic": "Direct tax collections",
+      "q": "A report published on 15 October 2026 stated that India's direct-tax collections after refunds, as of 14 October, had reached approximately:",
+      "o": [
+        "₹13.38 lakh crore",
+        "₹16.03 lakh crore",
+        "₹6.92 lakh crore",
+        "₹46,840 crore"
+      ],
+      "a": 0,
+      "e": "Correct answer: ₹13.38 lakh crore.\nKey points: Financial Express reported net direct-tax collections of ₹13.38 lakh crore after refunds as of 14 October 2026, up 13.2% year on year. The same report gave ₹16.03 lakh crore before refunds; that is a different measure. It also reported securities transaction tax separately.\nWhy the other options are incorrect: ₹16.03 lakh crore was the pre-refund figure, ₹6.92 lakh crore referred to non-corporate tax after refunds, and ₹46,840 crore was the reported securities transaction tax amount.\nExam takeaway: Always distinguish gross collections from collections after refunds and distinguish direct tax from securities transaction tax.\nSource: https://www.financialexpress.com/money/income-tax-direct-tax-mop-up-rises-13-stt-revenues-surge-52-4362271/",
+      "source": "Financial Express, 15 October 2026",
+      "sourceURL": "https://www.financialexpress.com/money/income-tax-direct-tax-mop-up-rises-13-stt-revenues-surge-52-4362271/",
+      "verificationStatus": "dated-report-reviewed",
+      "difficulty": "Medium",
+      "exam": "MPSC / Inspector of Taxes / SSC",
+      "currentAffairsDate": "2026-10-15"
+    },
+    {
+      "id": 6184,
+      "cat": "Current Affairs",
+      "topic": "Science and technology",
+      "q": "What name was given to the planned AI foundation model for physics announced by CERN and Mistral AI on 15 October 2026?",
+      "o": [
+        "Atlas",
+        "Hadron",
+        "Flare",
+        "QuarkNet"
+      ],
+      "a": 2,
+      "e": "Correct answer: Flare.\nKey points: Reuters reported that CERN and Mistral AI announced a long-term partnership to develop an AI foundation model for scientific discovery, initially focused on collider physics. The planned system is to be trained on simulated particle-collision data rather than ordinary text alone.\nWhy the other options are incorrect: Atlas and Hadron are associated with particle-physics terminology and experiments, but they are not the name reported for this planned model; QuarkNet is not the announced model name.\nExam takeaway: Connect the organisation (CERN), partner (Mistral AI), model name (Flare) and intended field (physics research).\nSource: https://www.reuters.com/science/cern-mistral-partner-build-ai-foundation-models-physics-2026-10-15/",
+      "source": "Reuters, 15 October 2026",
+      "sourceURL": "https://www.reuters.com/science/cern-mistral-partner-build-ai-foundation-models-physics-2026-10-15/",
+      "verificationStatus": "dated-report-reviewed",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / Science and Technology",
+      "currentAffairsDate": "2026-10-15"
+    },
+    {
+      "id": 6185,
+      "cat": "Current Affairs",
+      "topic": "Sports",
+      "q": "According to Reuters on 15 October 2026, how many runs did West Indies captain Shai Hope score not out in the fourth T20 International against India?",
+      "o": [
+        "102",
+        "88",
+        "76",
+        "121"
+      ],
+      "a": 0,
+      "e": "Correct answer: 102 not out.\nKey points: Reuters reported that Shai Hope made an unbeaten 102 in the fourth T20 International in Hyderabad, helping West Indies level the series. A score described as 'not out' means the batter was still at the crease when the innings ended.\nWhy the other options are incorrect: The figures 88, 76 and 121 do not match the innings reported in that match report.\nExam takeaway: For sports current affairs, retain the player, opponent, format, venue/date and key performance together; verify subsequent match results separately.\nSource: https://www.reuters.com/sports/cricket/windies-hope-worried-about-excess-baggage-after-landing-another-player-match-2026-10-15/",
+      "source": "Reuters, 15 October 2026",
+      "sourceURL": "https://www.reuters.com/sports/cricket/windies-hope-worried-about-excess-baggage-after-landing-another-player-match-2026-10-15/",
+      "verificationStatus": "dated-report-reviewed",
+      "difficulty": "Easy",
+      "exam": "MPSC / SSC / Sports GK",
+      "currentAffairsDate": "2026-10-15"
+    },
+    {
+      "id": 6186,
+      "cat": "Meghalaya GK",
+      "topic": "Sacred groves",
+      "q": "According to Meghalaya Tourism, which traditional rule is associated with the Mawphlang Sacred Grove?",
+      "o": [
+        "Visitors may collect medicinal plants freely",
+        "Only stones may be removed",
+        "Nothing should be taken from the grove, not even a twig",
+        "Trees may be cut with a visitor permit"
+      ],
+      "a": 2,
+      "e": "Correct answer: Nothing should be taken from the grove, not even a twig.\nKey points: Meghalaya Tourism describes Mawphlang as a sacred grove protected through Khasi customs and traditions. The prohibition on removing natural objects reflects the community's cultural and ecological stewardship of the forest.\nWhy the other options are incorrect: Free collection, removal of stones or routine tree-cutting contradict the stated customary restriction.\nExam takeaway: Sacred groves are examples of community-based biodiversity conservation and the relationship between cultural traditions and forest protection.\nSource: https://www.meghalayatourism.in/explore/destinations/by-interest/sacred-groves-%26-forest-sanctuaries/mawphlang/",
+      "source": "Meghalaya Tourism, official destination guide",
+      "sourceURL": "https://www.meghalayatourism.in/explore/destinations/by-interest/sacred-groves-%26-forest-sanctuaries/mawphlang/",
+      "verificationStatus": "official-source-reviewed; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / Meghalaya GK / DSC"
+    },
+    {
+      "id": 6187,
+      "cat": "Meghalaya GK",
+      "topic": "David Scott Trail",
+      "q": "Meghalaya Tourism describes the David Scott Trail as a route of approximately 16 km between which places?",
+      "o": [
+        "Shillong and Cherrapunji",
+        "Mawphlang and Lad Mawphlang",
+        "Tura and Baghmara",
+        "Jowai and Dawki"
+      ],
+      "a": 1,
+      "e": "Correct answer: Mawphlang and Lad Mawphlang.\nKey points: Meghalaya Tourism describes the trail as an old route of about 16 km between Mawphlang and Lad Mawphlang in the Khasi Hills. It is associated with colonial-era travel routes as well as local landscapes and heritage.\nWhy the other options are incorrect: The other pairs are different places in Meghalaya and are not the endpoints given in the official tourism description.\nExam takeaway: Learn major Meghalaya destinations with their region, nearby town and distinctive cultural or geographical feature.\nSource: https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/david-scott-trail/",
+      "source": "Meghalaya Tourism, official destination guide",
+      "sourceURL": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/david-scott-trail/",
+      "verificationStatus": "official-source-reviewed; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / Meghalaya GK / DSC"
+    },
+    {
+      "id": 6188,
+      "cat": "Polity",
+      "topic": "Comptroller and Auditor General",
+      "q": "Which Article of the Constitution of India provides for the Comptroller and Auditor General of India?",
+      "o": [
+        "Article 148",
+        "Article 280",
+        "Article 324",
+        "Article 356"
+      ],
+      "a": 0,
+      "e": "Correct answer: Article 148.\nKey points: Article 148 provides for the office of the Comptroller and Auditor General (CAG) of India. The CAG is a constitutional authority whose audit role supports legislative oversight of public finances.\nWhy the other options are incorrect: Article 280 concerns the Finance Commission; Article 324 concerns the Election Commission's election-related powers; Article 356 concerns failure of constitutional machinery in a State.\nExam takeaway: Memorise constitutional bodies alongside their establishing Articles and primary functions.\nSource: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "source": "Constitution of India, Legislative Department",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "verificationStatus": "official-source-reviewed; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / UPSC / SSC"
+    },
+    {
+      "id": 6189,
+      "cat": "Polity",
+      "topic": "President's ordinance power",
+      "q": "Article 123 of the Constitution empowers the President to promulgate an ordinance when:",
+      "o": [
+        "Parliament is permanently dissolved",
+        "Circumstances require immediate action while both Houses are not simultaneously in session, subject to constitutional limits",
+        "The Supreme Court requests it",
+        "A State Governor resigns"
+      ],
+      "a": 1,
+      "e": "Correct answer: Immediate action is required while both Houses are not simultaneously in session, subject to constitutional limits.\nKey points: Article 123 provides the President's ordinance-making power when the constitutional conditions are met and immediate action is considered necessary. An ordinance has temporary legislative force and must be laid before Parliament when it reassembles; it is not an unlimited substitute for legislation.\nWhy the other options are incorrect: Permanent dissolution alone is not the full constitutional test; the Supreme Court does not trigger the power by request; a Governor's resignation is unrelated.\nExam takeaway: Learn Article 123 for the President and Article 213 for a Governor's ordinance power, noting their distinct constitutional settings.\nSource: https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "source": "Constitution of India, Legislative Department",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "verificationStatus": "official-source-reviewed; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / SSC"
+    },
+    {
+      "id": 6190,
+      "cat": "History",
+      "topic": "Permanent Settlement",
+      "q": "The Permanent Settlement of Bengal, introduced in 1793, is most closely associated with which Governor-General?",
+      "o": [
+        "Warren Hastings",
+        "Lord Cornwallis",
+        "Lord Wellesley",
+        "Lord Dalhousie"
+      ],
+      "a": 1,
+      "e": "Correct answer: Lord Cornwallis.\nKey points: The Permanent Settlement was introduced in Bengal in 1793 under Lord Cornwallis. It fixed the land-revenue demand payable by zamindars to the East India Company, while its social and economic effects on cultivators and intermediaries remain important themes in colonial history.\nWhy the other options are incorrect: Warren Hastings preceded Cornwallis in the relevant period; Wellesley and Dalhousie served later and are associated with other colonial policies.\nExam takeaway: Link the Permanent Settlement with 1793, Cornwallis, Bengal and the zamindari revenue arrangement.\nSource: https://www.britannica.com/topic/Permanent-Settlement",
+      "source": "Encyclopaedia Britannica, Permanent Settlement",
+      "sourceURL": "https://www.britannica.com/topic/Permanent-Settlement",
+      "verificationStatus": "reference-source-reviewed; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / SSC"
+    },
+    {
+      "id": 6191,
+      "cat": "Geography",
+      "topic": "Standard meridian of India",
+      "q": "Which longitude is used as India's Standard Meridian for Indian Standard Time?",
+      "o": [
+        "68°7′ E",
+        "82°30′ E",
+        "97°25′ E",
+        "23°30′ N"
+      ],
+      "a": 1,
+      "e": "Correct answer: 82°30′ E.\nKey points: Indian Standard Time is based on the 82°30′ east longitude, which is taken as the Standard Meridian of India. Longitude is measured east or west of the Prime Meridian; degrees north or south describe latitude.\nWhy the other options are incorrect: 68°7′ E and 97°25′ E are longitudes but are not the designated Standard Meridian; 23°30′ N is a latitude, not a longitude.\nExam takeaway: Do not confuse the Standard Meridian (82°30′ E) with the Tropic of Cancer (about 23°30′ N).\nSource: https://ncert.nic.in/textbook/pdf/iess101.pdf",
+      "source": "NCERT, Contemporary India-I, India: Size and Location",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/iess101.pdf",
+      "verificationStatus": "reference-source-reviewed; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / UPSC / SSC"
+    },
+    {
+      "id": 6192,
+      "cat": "Economy",
+      "topic": "Monetary policy",
+      "q": "The policy repo rate is best described as the rate at which:",
+      "o": [
+        "The RBI pays interest on all household savings accounts",
+        "The RBI provides short-term liquidity to eligible participants against approved collateral under repo operations",
+        "Commercial banks lend directly to the Union Government",
+        "The government collects income tax"
+      ],
+      "a": 1,
+      "e": "Correct answer: The RBI provides liquidity to eligible participants against approved collateral under repo operations.\nKey points: The repo rate is a key monetary-policy rate associated with RBI liquidity operations. Changes can influence money-market rates and, through transmission, borrowing and deposit rates in the wider economy.\nWhy the other options are incorrect: The repo rate is not a universal household savings-deposit rate, is not the rate for commercial-bank lending to the Union Government, and has no direct connection to tax collection.\nExam takeaway: Distinguish the repo rate from the reverse repo rate, standing deposit facility rate, bank rate and retail deposit rates.\nSource: https://systemhealth.rbi.org.in/Scripts/FS_Overview2752.aspx.html",
+      "source": "Reserve Bank of India, monetary-policy instruments",
+      "sourceURL": "https://systemhealth.rbi.org.in/Scripts/FS_Overview2752.aspx.html",
+      "verificationStatus": "official-source-reviewed; original practice",
+      "difficulty": "Medium",
+      "exam": "MPSC / Inspector of Taxes / UPSC"
+    },
+    {
+      "id": 6193,
+      "cat": "English",
+      "topic": "Vocabulary",
+      "q": "Choose the closest meaning of “meticulous.”",
+      "o": [
+        "Careless and hurried",
+        "Very careful and precise",
+        "Unwilling to work",
+        "Loud and argumentative"
+      ],
+      "a": 1,
+      "e": "Correct answer: Very careful and precise.\nKey points: “Meticulous” describes close attention to detail and careful accuracy. In an exam sentence, a meticulous clerk checks entries, figures and supporting documents thoroughly.\nWhy the other options are incorrect: Carelessness and haste are opposites; unwillingness to work describes a different trait; being loud or argumentative is unrelated to precision.\nExam takeaway: Learn a word with its meaning and a short context sentence; this improves vocabulary and reading comprehension.\nSource: https://www.oxfordlearnersdictionaries.com/definition/english/meticulous",
+      "source": "Oxford Learner's Dictionaries",
+      "sourceURL": "https://www.oxfordlearnersdictionaries.com/definition/english/meticulous",
+      "verificationStatus": "dictionary-verified; original practice",
+      "difficulty": "Easy",
+      "exam": "DSC / LDA / SSC / MPSC"
+    },
+    {
+      "id": 6194,
+      "cat": "Arithmetic",
+      "topic": "Percentages",
+      "q": "Calculate 20% of 750 plus 15% of 400.",
+      "o": [
+        "190",
+        "200",
+        "210",
+        "220"
+      ],
+      "a": 2,
+      "e": "Correct answer: 210.\nStep-by-step solution:\n1. Convert each percentage to a fraction or decimal: 20% = 20/100 = 0.20 and 15% = 15/100 = 0.15.\n2. Calculate 20% of 750: (20/100) × 750 = 150.\n3. Calculate 15% of 400: (15/100) × 400 = 60.\n4. Add the results: 150 + 60 = 210.\nWhy the other options are incorrect: 190, 200 and 220 do not equal the sum of the two correctly calculated percentages.\nExam takeaway: For a sum of percentages of different numbers, calculate each part separately and add only at the end. Shortcut: 20% is one-fifth; 15% is 10% + 5%.",
+      "source": "Original exam-style arithmetic practice",
+      "sourceURL": "https://ncert.nic.in/",
+      "verificationStatus": "concept-checked; original practice; arithmetic independently checked",
+      "difficulty": "Easy",
+      "exam": "DSC / LDA / SSC / MPSC"
+    },
+    {
+      "id": 6195,
+      "cat": "Arithmetic",
+      "topic": "Ratio and proportion",
+      "q": "Two numbers are in the ratio 4:7 and their sum is 99. What is the smaller number?",
+      "o": [
+        "27",
+        "32",
+        "36",
+        "63"
+      ],
+      "a": 2,
+      "e": "Correct answer: 36.\nStep-by-step solution:\n1. Let the numbers be 4x and 7x.\n2. Their sum is 4x + 7x = 99, so 11x = 99.\n3. Divide both sides by 11: x = 99 ÷ 11 = 9.\n4. The smaller number is 4x = 4 × 9 = 36; the larger is 7 × 9 = 63. Check: 36 + 63 = 99 and 36:63 simplifies to 4:7.\nWhy the other options are incorrect: 27 and 32 do not produce the required 4:7 ratio with a partner summing to 99; 63 is the larger number, not the smaller one.\nExam takeaway: Add ratio parts first, divide the total by that sum, then multiply by the part for the requested quantity.",
+      "source": "Original exam-style arithmetic practice",
+      "sourceURL": "https://ncert.nic.in/",
+      "verificationStatus": "concept-checked; original practice; arithmetic independently checked",
+      "difficulty": "Easy",
+      "exam": "DSC / LDA / SSC / MPSC"
+    },
+    {
+      "id": 6196,
+      "cat": "Reasoning",
+      "topic": "Number series",
+      "q": "Find the next number: 3, 8, 15, 24, 35, __.",
+      "o": [
+        "46",
+        "48",
+        "50",
+        "52"
+      ],
+      "a": 1,
+      "e": "Correct answer: 48.\nKey points: Examine the successive differences: 8 − 3 = 5; 15 − 8 = 7; 24 − 15 = 9; 35 − 24 = 11. The differences are consecutive odd numbers increasing by 2, so the next difference is 13.\nCalculation: 35 + 13 = 48.\nWhy the other options are incorrect: 46 would add 11, repeating the previous difference; 50 and 52 would require differences of 15 and 17, skipping the expected 13.\nExam takeaway: For number-series questions, first compare differences, then second differences or multiplication patterns before selecting an answer.",
+      "source": "Original exam-style reasoning practice",
+      "sourceURL": "https://ncert.nic.in/",
+      "verificationStatus": "concept-checked; original practice",
+      "difficulty": "Easy",
+      "exam": "DSC / LDA / SSC / MPSC"
+    },
+    {
+      "id": 6197,
+      "cat": "Science",
+      "topic": "Atmosphere",
+      "q": "In which atmospheric layer is most of the ozone layer concentrated?",
+      "o": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "a": 1,
+      "e": "Correct answer: Stratosphere.\nKey points: Most atmospheric ozone is concentrated in the stratosphere, where it absorbs much of the Sun's harmful ultraviolet radiation. Ozone also occurs near the ground in the troposphere, where it is a pollutant, so location matters.\nWhy the other options are incorrect: The troposphere is the lowest weather layer; the mesosphere lies above the stratosphere; the thermosphere is much higher and is not where most atmospheric ozone resides.\nExam takeaway: Distinguish protective stratospheric ozone from ground-level ozone pollution.\nSource: https://scied.ucar.edu/learning-zone/atmosphere/ozone-layer",
+      "source": "UCAR Center for Science Education",
+      "sourceURL": "https://scied.ucar.edu/learning-zone/atmosphere/ozone-layer",
+      "verificationStatus": "science-reference-reviewed; original practice",
+      "difficulty": "Easy",
+      "exam": "MPSC / SSC / UPSC"
+    },
+    {
+      "id": 6198,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "E-way bill",
+      "q": "Rule 138 of the Central Goods and Services Tax Rules primarily deals with:",
+      "o": [
+        "Eligibility for input tax credit",
+        "Information to be furnished before movement of goods and generation of an e-way bill",
+        "Refund of accumulated input tax credit only",
+        "Composition-scheme turnover limits"
+      ],
+      "a": 1,
+      "e": "Correct answer: Information before movement of goods and generation of an e-way bill.\nKey points: Rule 138 of the CGST Rules sets out the information and procedure for generating an e-way bill before the movement of covered goods. The rule contains conditions, exceptions and later amendments, so officers should consult the current text for a specific case.\nWhy the other options are incorrect: Input-tax-credit eligibility is governed mainly by the CGST Act and related rules; refund procedures and composition-scheme eligibility are addressed elsewhere.\nExam takeaway: For GST administration, identify the correct Act section or rule and always check the latest amended text before applying a threshold or exception.\nSource: https://cbic-gst.gov.in/pdf/10112020_CGST-Rules-2017_Part-A_Rules.pdf",
+      "source": "CBIC, CGST Rules 2017, Rule 138",
+      "sourceURL": "https://cbic-gst.gov.in/pdf/10112020_CGST-Rules-2017_Part-A_Rules.pdf",
+      "verificationStatus": "official-source-reviewed; original practice",
+      "difficulty": "Medium",
+      "exam": "Inspector of Taxes / MPSC"
+    }
+  ]
+}
