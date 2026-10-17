@@ -1,0 +1,507 @@
+{
+  "date": "2026-10-17",
+  "questionCount": 25,
+  "description": "Daily validated batch with five dated current-affairs questions and original cross-exam practice across core subjects.",
+  "sourcePolicy": "Current-affairs questions cite dated official releases or credible dated reporting. Original practice questions are not official PYQs.",
+  "subjects": {
+    "Arithmetic": 4,
+    "Computer": 1,
+    "Current Affairs": 5,
+    "Economy": 1,
+    "English": 2,
+    "Environment": 1,
+    "Geography": 1,
+    "GST / Inspector of Taxes": 1,
+    "History": 1,
+    "Meghalaya GK": 2,
+    "Polity": 2,
+    "Reasoning": 2,
+    "Science": 2
+  },
+  "questionIdRange": [
+    6199,
+    6223
+  ],
+  "questions": [
+    {
+      "id": 6199,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya science education",
+      "q": "What was the theme of the District-Level Children’s Science Congress held at Khliehriat on 16 October 2026?",
+      "o": [
+        "Science and Innovation for Sustainability",
+        "Digital India for Every Village",
+        "Water for All by 2030",
+        "One Nation, One Textbook"
+      ],
+      "a": 0,
+      "e": "Correct answer: Science and Innovation for Sustainability.\nKey points: The Meghalaya Government’s release dated 16 October 2026 gives the theme as “Science and Innovation for Sustainability.” The other options are not the theme named in that release. Retain the publication date when revising this state-current-affairs fact.\nWhy the other options are incorrect: “Digital India for Every Village” is incorrect because it does not fit the stated fact, definition or calculation; “Water for All by 2030” is incorrect because it does not fit the stated fact, definition or calculation; “One Nation, One Textbook” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Government of Meghalaya press release, 16 October 2026 — https://meghalaya.gov.in/press/content/52106",
+      "source": "Government of Meghalaya press release, 16 October 2026",
+      "sourceURL": "https://meghalaya.gov.in/press/content/52106",
+      "verificationStatus": "official-state-release-reviewed",
+      "difficulty": "Easy",
+      "exam": "MPSC / Meghalaya GK / DSC",
+      "currentAffairsDate": "2026-10-16"
+    },
+    {
+      "id": 6200,
+      "cat": "Current Affairs",
+      "topic": "PM-SETU",
+      "q": "On 16 October 2026, the PM-SETU National Steering Committee approved five Strategic Investment Plans worth how much for ITI clusters?",
+      "o": [
+        "₹119.492 crore",
+        "₹1,194.92 crore",
+        "₹3,687 crore",
+        "₹60,000 crore"
+      ],
+      "a": 1,
+      "e": "Correct answer: ₹1,194.92 crore.\nKey points: The official PIB release says five plans worth ₹1,194.92 crore were approved. ₹3,687 crore is the cumulative approved amount reported after these approvals, while ₹60,000 crore is the scheme’s overall outlay; neither is the value of these five plans alone.\nWhy the other options are incorrect: “₹119.492 crore” is incorrect because it does not fit the stated fact, definition or calculation; “₹3,687 crore” is incorrect because it does not fit the stated fact, definition or calculation; “₹60,000 crore” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Press Information Bureau, 16 October 2026 — https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2324330&lang=1&reg=3",
+      "source": "Press Information Bureau, 16 October 2026",
+      "sourceURL": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2324330&lang=1&reg=3",
+      "verificationStatus": "official-PIB-release-reviewed",
+      "difficulty": "Medium",
+      "exam": "MPSC / SSC / UPSC GS",
+      "currentAffairsDate": "2026-10-16"
+    },
+    {
+      "id": 6201,
+      "cat": "Current Affairs",
+      "topic": "Foreign-exchange reserves",
+      "q": "According to a report citing RBI data, India’s foreign-exchange reserves stood at approximately what amount for the week ended 9 October 2026?",
+      "o": [
+        "US$626.03 billion",
+        "US$716.03 billion",
+        "US$726.03 billion",
+        "US$785.70 billion"
+      ],
+      "a": 2,
+      "e": "Correct answer: US$726.03 billion.\nKey points: The Economic Times report dated 16 October cited RBI data of US$726.03 billion for the week ended 9 October. The article reported a decline during that week; the higher US$785.706 billion figure refers to an earlier record level, not the reported week’s value.\nWhy the other options are incorrect: “US$626.03 billion” is incorrect because it does not fit the stated fact, definition or calculation; “US$716.03 billion” is incorrect because it does not fit the stated fact, definition or calculation; “US$785.70 billion” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: The Economic Times, 16 October 2026, citing RBI data — https://m.economictimes.com/news/economy/indicators/indias-forex-reserves-fall-by-usd-8-58-billion-to-usd-726-03-billion-in-week-ended-october-9-rbi/articleshow/134993652.cms",
+      "source": "The Economic Times, 16 October 2026, citing RBI data",
+      "sourceURL": "https://m.economictimes.com/news/economy/indicators/indias-forex-reserves-fall-by-usd-8-58-billion-to-usd-726-03-billion-in-week-ended-october-9-rbi/articleshow/134993652.cms",
+      "verificationStatus": "dated-secondary-report-reviewed; RBI data cited",
+      "difficulty": "Medium",
+      "exam": "MPSC / Inspector of Taxes / SSC",
+      "currentAffairsDate": "2026-10-16"
+    },
+    {
+      "id": 6202,
+      "cat": "Current Affairs",
+      "topic": "Astronomy",
+      "q": "The unusual green-coloured object WD J1330+6435 reported on 16 October 2026 is classified as which type of star?",
+      "o": [
+        "Red giant",
+        "White dwarf",
+        "Neutron star",
+        "Main-sequence star like the Sun"
+      ],
+      "a": 1,
+      "e": "Correct answer: White dwarf.\nKey points: Reuters described WD J1330+6435 as a white dwarf, a dense remnant left after a low- or medium-mass star sheds its outer layers. The report placed it about 280 light-years away in Draco and linked its colour to atmospheric chemistry and extreme density; the other choices describe different stellar classes.\nWhy the other options are incorrect: “Red giant” is incorrect because it does not fit the stated fact, definition or calculation; “Neutron star” is incorrect because it does not fit the stated fact, definition or calculation; “Main-sequence star like the Sun” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Reuters, 16 October 2026 — https://www.reuters.com/science/newly-identified-green-star-leaves-astronomers-amazed-2026-10-16/",
+      "source": "Reuters, 16 October 2026",
+      "sourceURL": "https://www.reuters.com/science/newly-identified-green-star-leaves-astronomers-amazed-2026-10-16/",
+      "verificationStatus": "dated-science-report-reviewed",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC General Science",
+      "currentAffairsDate": "2026-10-16"
+    },
+    {
+      "id": 6203,
+      "cat": "Current Affairs",
+      "topic": "Cricket squad announcement",
+      "q": "Which bowler did the BCCI add to India’s squad for the fifth T20I against West Indies after Arshdeep Singh sustained a shoulder blow?",
+      "o": [
+        "Bhuvneshwar Kumar",
+        "Mohammed Shami",
+        "Jasprit Bumrah",
+        "Kuldeep Yadav"
+      ],
+      "a": 0,
+      "e": "Correct answer: Bhuvneshwar Kumar.\nKey points: The BCCI media advisory dated 16 October 2026 names Bhuvneshwar Kumar as the addition after Arshdeep Singh’s shoulder injury. The advisory said a decision on participation would depend on recovery, so squad inclusion should not be confused with confirmation that he played.\nWhy the other options are incorrect: “Mohammed Shami” is incorrect because it does not fit the stated fact, definition or calculation; “Jasprit Bumrah” is incorrect because it does not fit the stated fact, definition or calculation; “Kuldeep Yadav” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: BCCI media advisory, 16 October 2026 — https://www.bcci.tv/news/article/arshdeep-singh-sustains-blow-to-bowling-shoulder-bhuvneshwar-kumar-added-to-the-squad-for-the-bengaluru-t20i",
+      "source": "BCCI media advisory, 16 October 2026",
+      "sourceURL": "https://www.bcci.tv/news/article/arshdeep-singh-sustains-blow-to-bowling-shoulder-bhuvneshwar-kumar-added-to-the-squad-for-the-bengaluru-t20i",
+      "verificationStatus": "official-BCCI-release-reviewed",
+      "difficulty": "Easy",
+      "exam": "MPSC / SSC General Awareness",
+      "currentAffairsDate": "2026-10-16"
+    },
+    {
+      "id": 6204,
+      "cat": "Meghalaya GK",
+      "topic": "Protected areas",
+      "q": "Balpakram National Park is located in which district of Meghalaya?",
+      "o": [
+        "South Garo Hills",
+        "West Khasi Hills",
+        "Ri-Bhoi",
+        "East Jaintia Hills"
+      ],
+      "a": 0,
+      "e": "Correct answer: South Garo Hills.\nKey points: Meghalaya Tourism places Balpakram National Park in South Garo Hills, near Baghmara. The other districts are different administrative areas of the state. Exam tip: connect the park with the Garo Hills region and its distinctive landscape and biodiversity.\nWhy the other options are incorrect: “West Khasi Hills” is incorrect because it does not fit the stated fact, definition or calculation; “Ri-Bhoi” is incorrect because it does not fit the stated fact, definition or calculation; “East Jaintia Hills” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Meghalaya Tourism — Balpakram National Park — https://www.meghalayatourism.in/experiences/nature-%26-wildlife/biodiversity-%26-nature-trails/balpakram-national-park/",
+      "source": "Meghalaya Tourism — Balpakram National Park",
+      "sourceURL": "https://www.meghalayatourism.in/experiences/nature-%26-wildlife/biodiversity-%26-nature-trails/balpakram-national-park/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Easy",
+      "exam": "MPSC / Meghalaya GK"
+    },
+    {
+      "id": 6205,
+      "cat": "Meghalaya GK",
+      "topic": "Geography and tourism",
+      "q": "According to Meghalaya Tourism, Umiam Lake lies in which district?",
+      "o": [
+        "East Khasi Hills",
+        "Ri-Bhoi",
+        "West Garo Hills",
+        "South West Khasi Hills"
+      ],
+      "a": 1,
+      "e": "Correct answer: Ri-Bhoi.\nKey points: Meghalaya Tourism identifies Umiam Lake as being in Ri-Bhoi district, roughly 15 km from Shillong on the Guwahati–Shillong route. Shillong is the nearest major city mentioned by the tourism site, but the district answer is Ri-Bhoi.\nWhy the other options are incorrect: “East Khasi Hills” is incorrect because it does not fit the stated fact, definition or calculation; “West Garo Hills” is incorrect because it does not fit the stated fact, definition or calculation; “South West Khasi Hills” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Meghalaya Tourism — Umiam Lake — https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/umiam-lake/",
+      "source": "Meghalaya Tourism — Umiam Lake",
+      "sourceURL": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/umiam-lake/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Easy",
+      "exam": "MPSC / Meghalaya GK / DSC"
+    },
+    {
+      "id": 6206,
+      "cat": "Polity",
+      "topic": "Tenth Schedule",
+      "q": "The Tenth Schedule of the Constitution of India primarily deals with:",
+      "o": [
+        "Official languages",
+        "Disqualification on grounds of defection",
+        "Panchayati Raj institutions",
+        "Municipalities"
+      ],
+      "a": 1,
+      "e": "Correct answer: Disqualification on grounds of defection.\nKey points: The Tenth Schedule contains the anti-defection provisions, which address disqualification of legislators in specified circumstances involving party membership or voting. The Eighth Schedule lists recognised languages, while the Eleventh and Twelfth Schedules concern Panchayats and Municipalities respectively.\nWhy the other options are incorrect: “Official languages” is incorrect because it does not fit the stated fact, definition or calculation; “Panchayati Raj institutions” is incorrect because it does not fit the stated fact, definition or calculation; “Municipalities” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Constitution of India, Legislative Department — https://legislative.gov.in/constitution-of-india/",
+      "source": "Constitution of India, Legislative Department",
+      "sourceURL": "https://legislative.gov.in/constitution-of-india/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC / UPSC"
+    },
+    {
+      "id": 6207,
+      "cat": "Polity",
+      "topic": "Finance Commission",
+      "q": "Which constitutional body recommends the distribution of the net proceeds of certain taxes between the Union and the States?",
+      "o": [
+        "Finance Commission",
+        "Union Public Service Commission",
+        "Election Commission of India",
+        "Goods and Services Tax Council"
+      ],
+      "a": 0,
+      "e": "Correct answer: Finance Commission.\nKey points: Article 280 provides for the Finance Commission, whose recommendations include the distribution of tax proceeds between the Union and States and grants-in-aid principles. UPSC recruits for civil services, the Election Commission administers elections, and the GST Council makes recommendations on GST matters.\nWhy the other options are incorrect: “Union Public Service Commission” is incorrect because it does not fit the stated fact, definition or calculation; “Election Commission of India” is incorrect because it does not fit the stated fact, definition or calculation; “Goods and Services Tax Council” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Constitution of India, Article 280 — https://legislative.gov.in/constitution-of-india/",
+      "source": "Constitution of India, Article 280",
+      "sourceURL": "https://legislative.gov.in/constitution-of-india/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / SSC"
+    },
+    {
+      "id": 6208,
+      "cat": "History",
+      "topic": "Economic critique of colonial rule",
+      "q": "Who authored the book “Poverty and Un-British Rule in India”?",
+      "o": [
+        "Dadabhai Naoroji",
+        "R. C. Dutt",
+        "Gopal Krishna Gokhale",
+        "M. G. Ranade"
+      ],
+      "a": 0,
+      "e": "Correct answer: Dadabhai Naoroji.\nKey points: Dadabhai Naoroji used the book to develop his critique of colonial economic exploitation, including the drain of wealth from India. R. C. Dutt also wrote on the economic history of British India, but the title named in the question is associated with Naoroji.\nWhy the other options are incorrect: “R. C. Dutt” is incorrect because it does not fit the stated fact, definition or calculation; “Gopal Krishna Gokhale” is incorrect because it does not fit the stated fact, definition or calculation; “M. G. Ranade” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: NCERT textbook portal — modern Indian history references — https://ncert.nic.in/textbook.php",
+      "source": "NCERT textbook portal — modern Indian history references",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / SSC"
+    },
+    {
+      "id": 6209,
+      "cat": "Geography",
+      "topic": "Rainfall types",
+      "q": "When moist air is forced to rise over a mountain barrier, cools and condenses, the resulting rainfall is called:",
+      "o": [
+        "Convectional rainfall",
+        "Cyclonic rainfall",
+        "Orographic or relief rainfall",
+        "Frontal rainfall"
+      ],
+      "a": 2,
+      "e": "Correct answer: Orographic or relief rainfall.\nKey points: Orographic (relief) rainfall occurs when moist air is lifted over high ground, expands and cools, causing condensation and precipitation. Convectional rainfall is driven by surface heating; cyclonic rainfall is linked to low-pressure systems; frontal rainfall forms where air masses meet.\nWhy the other options are incorrect: “Convectional rainfall” is incorrect because it does not fit the stated fact, definition or calculation; “Cyclonic rainfall” is incorrect because it does not fit the stated fact, definition or calculation; “Frontal rainfall” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: NCERT textbook portal — physical geography — https://ncert.nic.in/textbook.php",
+      "source": "NCERT textbook portal — physical geography",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Medium",
+      "exam": "MPSC / SSC / UPSC"
+    },
+    {
+      "id": 6210,
+      "cat": "Economy",
+      "topic": "Taxation principles",
+      "q": "A tax is described as progressive when:",
+      "o": [
+        "The average tax rate falls as taxable income rises",
+        "Everyone pays the same total amount",
+        "The average tax rate rises as taxable income rises",
+        "The tax rate is always zero below every income level"
+      ],
+      "a": 2,
+      "e": "Correct answer: The average tax rate rises as taxable income rises.\nKey points: Under a progressive tax structure, the average tax rate increases as taxable income rises. A proportional tax keeps the rate constant, while a regressive structure can make the average burden fall as income rises. Do not confuse a higher marginal rate on an income band with the average rate on all income.\nWhy the other options are incorrect: “The average tax rate falls as taxable income rises” is incorrect because it does not fit the stated fact, definition or calculation; “Everyone pays the same total amount” is incorrect because it does not fit the stated fact, definition or calculation; “The tax rate is always zero below every income level” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: NCERT textbook portal — introductory economics — https://ncert.nic.in/textbook.php",
+      "source": "NCERT textbook portal — introductory economics",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Medium",
+      "exam": "MPSC / Inspector of Taxes / SSC"
+    },
+    {
+      "id": 6211,
+      "cat": "English",
+      "topic": "Phrasal verbs",
+      "q": "Complete the sentence: “The meeting was called ___ because of the heavy rain.”",
+      "o": [
+        "off",
+        "out",
+        "up",
+        "over"
+      ],
+      "a": 0,
+      "e": "Correct answer: off.\nKey points: “Call off” means cancel, so “called off” fits the sentence. “Call out” means summon or publicly challenge; “call up” can mean telephone or summon; “call over” is not the standard phrasal verb for cancelling a meeting.\nWhy the other options are incorrect: “out” is incorrect because it does not fit the stated fact, definition or calculation; “up” is incorrect because it does not fit the stated fact, definition or calculation; “over” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Cambridge Dictionary — English grammar and usage — https://dictionary.cambridge.org/grammar/british-grammar/",
+      "source": "Cambridge Dictionary — English grammar and usage",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC"
+    },
+    {
+      "id": 6212,
+      "cat": "English",
+      "topic": "Vocabulary in context",
+      "q": "Choose the correct word: “The new policy had a positive ___ on attendance.”",
+      "o": [
+        "effect",
+        "affect",
+        "effects",
+        "effected"
+      ],
+      "a": 0,
+      "e": "Correct answer: effect.\nKey points: “Effect” is a noun meaning a result or consequence, so “a positive effect” is correct. “Affect” is usually a verb meaning to influence; “effects” is plural and does not fit the singular construction after “a”; “effected” is a verb form.\nWhy the other options are incorrect: “affect” is incorrect because it does not fit the stated fact, definition or calculation; “effects” is incorrect because it does not fit the stated fact, definition or calculation; “effected” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Cambridge Dictionary — English grammar and usage — https://dictionary.cambridge.org/grammar/british-grammar/",
+      "source": "Cambridge Dictionary — English grammar and usage",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC"
+    },
+    {
+      "id": 6213,
+      "cat": "Arithmetic",
+      "topic": "Discount",
+      "q": "A shop marks an item at ₹2,400 and gives a 15% discount. What is the selling price?",
+      "o": [
+        "₹2,040",
+        "₹2,060",
+        "₹2,160",
+        "₹2,280"
+      ],
+      "a": 0,
+      "e": "Correct answer: ₹2,040.\nKey points: Formula: Discount = Marked Price × Discount rate ÷ 100. Substitution: ₹2,400 × 15 ÷ 100 = ₹360. Selling price = ₹2,400 − ₹360 = ₹2,040. Shortcut: after a 15% discount, pay 85% of the marked price: 0.85 × ₹2,400 = ₹2,040. The other options do not equal the marked price minus ₹360.\nWhy the other options are incorrect: “₹2,060” is incorrect because it does not fit the stated fact, definition or calculation; “₹2,160” is incorrect because it does not fit the stated fact, definition or calculation; “₹2,280” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Original quantitative-aptitude practice; arithmetic independently checked — https://ssc.gov.in/",
+      "source": "Original quantitative-aptitude practice; arithmetic independently checked",
+      "sourceURL": "https://ssc.gov.in/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC"
+    },
+    {
+      "id": 6214,
+      "cat": "Arithmetic",
+      "topic": "Compound interest",
+      "q": "What is the compound interest on ₹10,000 at 10% per annum for 2 years, compounded annually?",
+      "o": [
+        "₹2,000",
+        "₹2,100",
+        "₹2,200",
+        "₹1,000"
+      ],
+      "a": 1,
+      "e": "Correct answer: ₹2,100.\nKey points: Formula: Amount A = P(1 + r/100)^t. Substitution: A = ₹10,000(1.10)^2 = ₹10,000 × 1.21 = ₹12,100. Compound interest = A − P = ₹12,100 − ₹10,000 = ₹2,100. Quick check: first-year interest is ₹1,000; second-year interest is 10% of ₹11,000 = ₹1,100; total = ₹2,100.\nWhy the other options are incorrect: “₹2,000” is incorrect because it does not fit the stated fact, definition or calculation; “₹2,200” is incorrect because it does not fit the stated fact, definition or calculation; “₹1,000” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Original quantitative-aptitude practice; arithmetic independently checked — https://ssc.gov.in/",
+      "source": "Original quantitative-aptitude practice; arithmetic independently checked",
+      "sourceURL": "https://ssc.gov.in/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Medium",
+      "exam": "SSC / Inspector of Taxes / MPSC"
+    },
+    {
+      "id": 6215,
+      "cat": "Arithmetic",
+      "topic": "Average",
+      "q": "The average of 8 numbers is 17. What is their total sum?",
+      "o": [
+        "126",
+        "136",
+        "142",
+        "156"
+      ],
+      "a": 1,
+      "e": "Correct answer: 136.\nKey points: Formula: Average = Sum ÷ Number of values, so Sum = Average × Number of values. Substitution: 17 × 8 = 136. Therefore the total is 136. The other options would give averages other than 17 when divided by 8.\nWhy the other options are incorrect: “126” is incorrect because it does not fit the stated fact, definition or calculation; “142” is incorrect because it does not fit the stated fact, definition or calculation; “156” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Original quantitative-aptitude practice; arithmetic independently checked — https://ssc.gov.in/",
+      "source": "Original quantitative-aptitude practice; arithmetic independently checked",
+      "sourceURL": "https://ssc.gov.in/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC"
+    },
+    {
+      "id": 6216,
+      "cat": "Arithmetic",
+      "topic": "Speed distance time",
+      "q": "A vehicle travels 180 km in 3 hours at a constant average speed. What is its average speed?",
+      "o": [
+        "45 km/h",
+        "50 km/h",
+        "60 km/h",
+        "90 km/h"
+      ],
+      "a": 2,
+      "e": "Correct answer: 60 km/h.\nKey points: Formula: Speed = Distance ÷ Time. Substitution: 180 km ÷ 3 h = 60 km/h. Units are km/h because distance is in kilometres and time in hours. The other options would imply a different distance in three hours.\nWhy the other options are incorrect: “45 km/h” is incorrect because it does not fit the stated fact, definition or calculation; “50 km/h” is incorrect because it does not fit the stated fact, definition or calculation; “90 km/h” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Original quantitative-aptitude practice; arithmetic independently checked — https://ssc.gov.in/",
+      "source": "Original quantitative-aptitude practice; arithmetic independently checked",
+      "sourceURL": "https://ssc.gov.in/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC"
+    },
+    {
+      "id": 6217,
+      "cat": "Reasoning",
+      "topic": "Ranking",
+      "q": "A person is 7th from the left and 12th from the right in the same row. How many people are in the row?",
+      "o": [
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "a": 1,
+      "e": "Correct answer: 18.\nKey points: When a person’s position is counted from both ends, total people = left position + right position − 1 because the person is counted twice. Calculation: 7 + 12 − 1 = 18. Do not simply add 7 and 12; subtract one to avoid double-counting the person.\nWhy the other options are incorrect: “17” is incorrect because it does not fit the stated fact, definition or calculation; “19” is incorrect because it does not fit the stated fact, definition or calculation; “20” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Original reasoning practice; calculation independently checked — https://ssc.gov.in/",
+      "source": "Original reasoning practice; calculation independently checked",
+      "sourceURL": "https://ssc.gov.in/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC"
+    },
+    {
+      "id": 6218,
+      "cat": "Reasoning",
+      "topic": "Direction sense",
+      "q": "A person walks 5 km north, then 3 km east, and then 5 km south. Where is the person relative to the starting point?",
+      "o": [
+        "3 km east",
+        "3 km west",
+        "5 km north",
+        "8 km east"
+      ],
+      "a": 0,
+      "e": "Correct answer: 3 km east.\nKey points: The 5 km northward and 5 km southward movements cancel each other. Only the 3 km eastward movement remains, so the final position is 3 km east of the start. A simple sketch of the three legs makes the cancellation clear.\nWhy the other options are incorrect: “3 km west” is incorrect because it does not fit the stated fact, definition or calculation; “5 km north” is incorrect because it does not fit the stated fact, definition or calculation; “8 km east” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Original reasoning practice; route independently checked — https://ssc.gov.in/",
+      "source": "Original reasoning practice; route independently checked",
+      "sourceURL": "https://ssc.gov.in/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC"
+    },
+    {
+      "id": 6219,
+      "cat": "Science",
+      "topic": "Ohm's law",
+      "q": "A 12 V potential difference is applied across a 3 Ω resistor. What current flows through it, assuming an ideal resistor?",
+      "o": [
+        "3 A",
+        "4 A",
+        "9 A",
+        "36 A"
+      ],
+      "a": 1,
+      "e": "Correct answer: 4 A.\nKey points: Ohm’s law: V = IR, therefore I = V/R. Substitute V = 12 V and R = 3 Ω: I = 12 ÷ 3 = 4 A. Unit check: volt per ohm equals ampere. The other options do not satisfy V = IR for these values.\nWhy the other options are incorrect: “3 A” is incorrect because it does not fit the stated fact, definition or calculation; “9 A” is incorrect because it does not fit the stated fact, definition or calculation; “36 A” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: NCERT textbook portal — electricity — https://ncert.nic.in/textbook.php",
+      "source": "NCERT textbook portal — electricity",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Medium",
+      "exam": "MPSC / SSC / DSC technical"
+    },
+    {
+      "id": 6220,
+      "cat": "Science",
+      "topic": "Photosynthesis",
+      "q": "The oxygen released by green plants during photosynthesis comes mainly from the splitting of:",
+      "o": [
+        "Carbon dioxide",
+        "Water",
+        "Glucose",
+        "Chlorophyll"
+      ],
+      "a": 1,
+      "e": "Correct answer: Water.\nKey points: During the light-dependent reactions, water molecules are split, releasing oxygen, electrons and protons. Carbon dioxide supplies carbon for carbohydrate synthesis; glucose is a product, and chlorophyll absorbs light rather than serving as the oxygen source.\nWhy the other options are incorrect: “Carbon dioxide” is incorrect because it does not fit the stated fact, definition or calculation; “Glucose” is incorrect because it does not fit the stated fact, definition or calculation; “Chlorophyll” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: NCERT textbook portal — biology — https://ncert.nic.in/textbook.php",
+      "source": "NCERT textbook portal — biology",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Medium",
+      "exam": "MPSC / SSC / DSC"
+    },
+    {
+      "id": 6221,
+      "cat": "Environment",
+      "topic": "International environmental agreements",
+      "q": "The Convention on Biological Diversity was opened for signature at which major 1992 event?",
+      "o": [
+        "United Nations Conference on Environment and Development (Rio Earth Summit)",
+        "Ramsar Convention meeting of 1971",
+        "Montreal Protocol meeting of 1987",
+        "Kyoto Protocol conference of 1997"
+      ],
+      "a": 0,
+      "e": "Correct answer: United Nations Conference on Environment and Development (Rio Earth Summit).\nKey points: The Convention on Biological Diversity was opened for signature at the 1992 Rio Earth Summit. The Ramsar Convention dates to 1971, the Montreal Protocol to 1987, and the Kyoto Protocol was adopted in 1997. The key exam distinction is the treaty name and year.\nWhy the other options are incorrect: “Ramsar Convention meeting of 1971” is incorrect because it does not fit the stated fact, definition or calculation; “Montreal Protocol meeting of 1987” is incorrect because it does not fit the stated fact, definition or calculation; “Kyoto Protocol conference of 1997” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Convention on Biological Diversity — Convention text and history — https://www.cbd.int/convention/text/",
+      "source": "Convention on Biological Diversity — Convention text and history",
+      "sourceURL": "https://www.cbd.int/convention/text/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / SSC"
+    },
+    {
+      "id": 6222,
+      "cat": "Computer",
+      "topic": "Networking basics",
+      "q": "What does the Domain Name System (DNS) primarily do?",
+      "o": [
+        "Maps domain names to IP addresses",
+        "Encrypts every file on a computer",
+        "Creates user passwords",
+        "Measures available RAM"
+      ],
+      "a": 0,
+      "e": "Correct answer: Maps domain names to IP addresses.\nKey points: DNS resolves human-readable domain names, such as a website host name, to IP addresses used by network protocols. Encryption, password creation and memory measurement are separate functions and are not the purpose of DNS.\nWhy the other options are incorrect: “Encrypts every file on a computer” is incorrect because it does not fit the stated fact, definition or calculation; “Creates user passwords” is incorrect because it does not fit the stated fact, definition or calculation; “Measures available RAM” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: National Institute of Electronics and Information Technology — https://www.nielit.gov.in/",
+      "source": "National Institute of Electronics and Information Technology",
+      "sourceURL": "https://www.nielit.gov.in/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / SSC / MPSC"
+    },
+    {
+      "id": 6223,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "GST registration",
+      "q": "How many characters are in a regular taxpayer’s GST Identification Number (GSTIN)?",
+      "o": [
+        "10",
+        "12",
+        "15",
+        "16"
+      ],
+      "a": 2,
+      "e": "Correct answer: 15.\nKey points: A GSTIN has 15 characters: the first two represent the state code; the next ten correspond to the PAN; the 13th identifies the entity under that PAN in the state; the 14th is normally “Z”; and the 15th is a checksum character. The other lengths are incorrect.\nWhy the other options are incorrect: “10” is incorrect because it does not fit the stated fact, definition or calculation; “12” is incorrect because it does not fit the stated fact, definition or calculation; “16” is incorrect because it does not fit the stated fact, definition or calculation.\nExam takeaway: Revise the key concept and distinguish it from the common distractors.\nSource: Goods and Services Tax portal — https://www.gst.gov.in/",
+      "source": "Goods and Services Tax portal",
+      "sourceURL": "https://www.gst.gov.in/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Medium",
+      "exam": "Inspector of Taxes / MPSC"
+    }
+  ]
+}
