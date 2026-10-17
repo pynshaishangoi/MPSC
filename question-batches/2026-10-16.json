@@ -275,21 +275,21 @@
     {
       "id": 6195,
       "cat": "Arithmetic",
-      "topic": "Ratio and proportion",
-      "q": "Two numbers are in the ratio 4:7 and their sum is 99. What is the smaller number?",
+      "topic": "Time and work",
+      "q": "A can complete a job in 12 days and B in 18 days. If they work together at constant rates, how long will they take?",
       "o": [
-        "27",
-        "32",
-        "36",
-        "63"
+        "6 days",
+        "7.2 days",
+        "8 days",
+        "15 days"
       ],
-      "a": 2,
-      "e": "Correct answer: 36.\nStep-by-step solution:\n1. Let the numbers be 4x and 7x.\n2. Their sum is 4x + 7x = 99, so 11x = 99.\n3. Divide both sides by 11: x = 99 ÷ 11 = 9.\n4. The smaller number is 4x = 4 × 9 = 36; the larger is 7 × 9 = 63. Check: 36 + 63 = 99 and 36:63 simplifies to 4:7.\nWhy the other options are incorrect: 27 and 32 do not produce the required 4:7 ratio with a partner summing to 99; 63 is the larger number, not the smaller one.\nExam takeaway: Add ratio parts first, divide the total by that sum, then multiply by the part for the requested quantity.",
-      "source": "Original exam-style arithmetic practice",
-      "sourceURL": "https://ncert.nic.in/",
-      "verificationStatus": "concept-checked; original practice; arithmetic independently checked",
-      "difficulty": "Easy",
-      "exam": "DSC / LDA / SSC / MPSC"
+      "a": 1,
+      "e": "Correct answer: 7.2 days.\nKey points: A’s one-day work is 1/12 and B’s is 1/18. Combined rate = 1/12 + 1/18 = 3/36 + 2/36 = 5/36 of the job per day. Time = 1 ÷ (5/36) = 36/5 = 7.2 days.\nWhy the other options are incorrect: 6, 8 and 15 days do not equal the reciprocal of the combined rate 5/36.\nExam takeaway: Add work rates first, then take the reciprocal to find the time.\nSource: Original quantitative-aptitude practice; calculation independently checked — https://ssc.gov.in/",
+      "source": "Original quantitative-aptitude practice; not official PYQ",
+      "sourceURL": "https://ssc.gov.in/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
+      "difficulty": "Medium",
+      "exam": "DSC LDA / SSC / Inspector of Taxes"
     },
     {
       "id": 6196,
