@@ -4,17 +4,17 @@
   "description": "Dated daily batch with four current-affairs questions and original cross-exam practice. Original practice is not official PYQ.",
   "sourcePolicy": "Current affairs cite dated reports; factual practice cites official or reputable reference sources. No item is labelled an official PYQ.",
   "subjects": {
+    "Arithmetic": 2,
     "Current Affairs": 4,
-    "Meghalaya GK": 2,
-    "Polity": 2,
-    "History": 1,
-    "Geography": 1,
     "Economy": 1,
     "English": 1,
-    "Arithmetic": 2,
+    "Geography": 1,
+    "GST / Inspector of Taxes": 1,
+    "History": 1,
+    "Meghalaya GK": 2,
+    "Polity": 2,
     "Reasoning": 1,
-    "Science": 1,
-    "GST / Inspector of Taxes": 1
+    "Science": 1
   },
   "questionIdRange": [
     6182,
@@ -294,21 +294,21 @@
     {
       "id": 6196,
       "cat": "Reasoning",
-      "topic": "Number series",
-      "q": "Find the next number: 3, 8, 15, 24, 35, __.",
+      "topic": "Coding-decoding",
+      "q": "In a code, each letter is replaced by the next letter in the alphabet. If TAX is coded as UBY, how is GST coded?",
       "o": [
-        "46",
-        "48",
-        "50",
-        "52"
+        "HTU",
+        "FTS",
+        "HSU",
+        "HTV"
       ],
-      "a": 1,
-      "e": "Correct answer: 48.\nKey points: Examine the successive differences: 8 − 3 = 5; 15 − 8 = 7; 24 − 15 = 9; 35 − 24 = 11. The differences are consecutive odd numbers increasing by 2, so the next difference is 13.\nCalculation: 35 + 13 = 48.\nWhy the other options are incorrect: 46 would add 11, repeating the previous difference; 50 and 52 would require differences of 15 and 17, skipping the expected 13.\nExam takeaway: For number-series questions, first compare differences, then second differences or multiplication patterns before selecting an answer.",
-      "source": "Original exam-style reasoning practice",
-      "sourceURL": "https://ncert.nic.in/",
-      "verificationStatus": "concept-checked; original practice",
+      "a": 0,
+      "e": "Correct answer: HTU.\nKey points: Move each letter forward by one alphabet position: G→H, S→T and T→U, giving HTU. The example TAX→UBY follows the same rule (T→U, A→B, X→Y).\nWhy the other options are incorrect: FTS moves some letters backwards; HSU changes the middle letter by a different shift; HTV changes the last letter by two positions.\nExam takeaway: Apply the same letter shift consistently to every character.\nSource: Original reasoning practice; alphabet shifts independently checked — https://ssc.gov.in/",
+      "source": "Original reasoning practice; not official PYQ",
+      "sourceURL": "https://ssc.gov.in/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
       "difficulty": "Easy",
-      "exam": "DSC / LDA / SSC / MPSC"
+      "exam": "DSC LDA / SSC / MPSC"
     },
     {
       "id": 6197,
