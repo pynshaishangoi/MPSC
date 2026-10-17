@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-17",
+  "branch": "daily-maintenance-2026-10-15-validated",
+  "status": "validated working branch; pending pull request and merge",
+  "baselineMain": {
+    "embeddedQuestions": 592,
+    "datedBatchQuestions": 63,
+    "expectedActiveTotal": 655
+  },
+  "workingBranch": {
+    "embeddedQuestions": 592,
+    "datedBatches": [
+      {
+        "date": "2026-10-11",
+        "count": 33
+      },
+      {
+        "date": "2026-10-12",
+        "count": 30
+      },
+      {
+        "date": "2026-10-15",
+        "count": 5
+      },
+      {
+        "date": "2026-10-15-practice",
+        "count": 13
+      },
+      {
+        "date": "2026-10-16",
+        "count": 17
+      },
+      {
+        "date": "2026-10-17",
+        "count": 25
+      }
+    ],
+    "totalRecords": 715,
+    "uniqueIds": 715,
+    "newestBatch": {
+      "count": 25,
+      "currentAffairs": 5,
+      "originalPractice": 20,
+      "verifiedOfficialPYQ": 0,
+      "subjectCounts": {
+        "Current Affairs": 5,
+        "Meghalaya GK": 2,
+        "Polity": 2,
+        "History": 1,
+        "Geography": 1,
+        "Economy": 1,
+        "English": 2,
+        "Arithmetic": 4,
+        "Reasoning": 2,
+        "Science": 2,
+        "Environment": 1,
+        "Computer": 1,
+        "GST / Inspector of Taxes": 1
+      }
+    },
+    "currentAffairsFeed": {
+      "date": "2026-10-17",
+      "items": 5,
+      "datedSourceLinks": 5
+    },
+    "legacyExplanations": {
+      "enrichedToday": 12,
+      "previouslyEnrichedOnWorkingBranch": 20,
+      "cumulativeEnrichedOnWorkingBranch": 32,
+      "shortUnder100BeforeMain": 510,
+      "shortUnder100OnWorkingBranch": 481
+    },
+    "metadataRetrofit": {
+      "october12QuestionsWithSourceURL": 30
+    },
+    "deduplication": {
+      "newDatedBatchExactWordingDuplicates": 0,
+      "remainingExactWordingDuplicatesInStaticLegacyBank": 28,
+      "notes": "Remaining duplicates are pre-existing repeated items inside the embedded static bank; no exact duplicate wording remains across dated batches after replacing repeated October 11, 12 and 16 items."
+    },
+    "checks": {
+      "jsonParsing": "passed",
+      "uniqueQuestionIds": "passed",
+      "fourDistinctOptions": "passed",
+      "answerIndices": "passed",
+      "explanationsAndSourceMetadata": "passed",
+      "mathWorking": "included and independently checked for new arithmetic items",
+      "timedTestCode": "retained in index.html",
+      "serviceWorkerCache": "mpsc-smart-study-v5-15-20261017",
+      "livePagesDeployment": "not verified"
+    },
+    "sourceClassification": {
+      "newestBatchDatedCurrentAffairs": 5,
+      "originalPractice": 20,
+      "verifiedOfficialPYQ": 0
+    }
+  }
+}
