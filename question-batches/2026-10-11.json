@@ -45,21 +45,21 @@
     {
       "id": 6102,
       "cat": "Meghalaya GK",
-      "topic": "Statehood",
-      "q": "Meghalaya attained full statehood on which date?",
+      "topic": "District headquarters",
+      "q": "Which town serves as the headquarters of South Garo Hills district in Meghalaya?",
       "o": [
-        "21 January 1972",
-        "2 April 1970",
-        "15 August 1947",
-        "26 January 1950"
+        "Baghmara",
+        "Tura",
+        "Williamnagar",
+        "Ampati"
       ],
       "a": 0,
-      "e": "Correct answer: 21 January 1972\nKey points: Meghalaya became a full-fledged state on 21 January 1972 under the North-Eastern Areas (Reorganisation) Act, 1971.\nWhy the other options are incorrect: 2 April 1970 is the earlier autonomous-state phase; 1947 and 1950 mark India's independence and Constitution dates.\nExam takeaway: Remember 21 January as Statehood Day.\nSource: https://meghalaya.gov.in/",
-      "source": "Original exam-style practice; not official PYQ",
-      "sourceURL": "https://meghalaya.gov.in/",
-      "verificationStatus": "concept-checked; original practice",
+      "e": "Correct answer: Baghmara.\nKey points: The Meghalaya Government identifies the Deputy Commissioner’s office for South Garo Hills district at Baghmara. Tura is the headquarters of West Garo Hills, Williamnagar of East Garo Hills, and Ampati of South West Garo Hills.\nWhy the other options are incorrect: Tura, Williamnagar and Ampati are headquarters of other districts, not South Garo Hills.\nExam takeaway: Match Meghalaya district names with their headquarters; neighbouring Garo Hills districts are common distractors.\nSource: Government of Meghalaya — https://meghalaya.gov.in/node/43501",
+      "source": "Government of Meghalaya administrative listing; original practice",
+      "sourceURL": "https://meghalaya.gov.in/node/43501",
+      "verificationStatus": "official-state-reference-reviewed; original practice; not PYQ",
       "difficulty": "Easy",
-      "exam": "MPSC / DSC / SSC Practice"
+      "exam": "MPSC / Meghalaya GK / DSC"
     },
     {
       "id": 6103,
@@ -83,21 +83,21 @@
     {
       "id": 6104,
       "cat": "Polity",
-      "topic": "Constitution",
-      "q": "Which Article provides for the Comptroller and Auditor General of India?",
+      "topic": "Attorney General of India",
+      "q": "Which Article of the Constitution provides for the Attorney General for India?",
       "o": [
-        "148",
-        "280",
-        "324",
-        "315"
+        "Article 76",
+        "Article 148",
+        "Article 280",
+        "Article 324"
       ],
       "a": 0,
-      "e": "Correct answer: 148\nKey points: Article 148 provides for the CAG, whose audit function supports legislative scrutiny of public expenditure.\nWhy the other options are incorrect: Article 280 is the Finance Commission; 324 concerns elections; 315 concerns Public Service Commissions.\nExam takeaway: CAG = Article 148 and public audit.\nSource: https://legislative.gov.in/constitution-of-india/",
-      "source": "Original exam-style practice; not official PYQ",
+      "e": "Correct answer: Article 76.\nKey points: Article 76 provides for the Attorney General for India, the Union government’s chief legal adviser. Article 148 concerns the Comptroller and Auditor General; Article 280 provides for the Finance Commission; Article 324 concerns the Election Commission’s powers over elections.\nWhy the other options are incorrect: Articles 148, 280 and 324 concern different constitutional offices or bodies.\nExam takeaway: Learn constitutional offices with their article numbers and do not confuse the Attorney General with the CAG.\nSource: Constitution of India — https://legislative.gov.in/constitution-of-india/",
+      "source": "Constitution of India; original practice",
       "sourceURL": "https://legislative.gov.in/constitution-of-india/",
-      "verificationStatus": "concept-checked; original practice",
+      "verificationStatus": "constitutional-reference-reviewed; original practice; not PYQ",
       "difficulty": "Medium",
-      "exam": "MPSC / DSC / SSC Practice"
+      "exam": "MPSC / SSC / UPSC"
     },
     {
       "id": 6105,
