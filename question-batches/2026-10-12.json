@@ -349,20 +349,20 @@
     {
       "id": 6151,
       "cat": "Economy",
-      "topic": "Banking",
-      "q": "Which institution is India's central bank?",
+      "topic": "Monetary policy",
+      "q": "Under India’s flexible inflation-targeting framework, monetary policy primarily aims to:",
       "o": [
-        "State Bank of India",
-        "NABARD",
-        "Reserve Bank of India",
-        "SEBI"
+        "Maintain price stability while keeping growth in mind",
+        "Set the annual Union Budget",
+        "Administer elections",
+        "Determine all state tax rates"
       ],
-      "a": 2,
-      "e": "Correct answer: Reserve Bank of India\nExplanation: The Reserve Bank of India is the country's central bank and is responsible for monetary policy and key banking functions.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
-      "source": "Original exam-style practice; not official PYQ",
-      "verificationStatus": "concept-checked; original practice",
-      "difficulty": "Easy",
-      "exam": "MPSC / DSC / SSC Practice",
+      "a": 0,
+      "e": "Correct answer: Maintain price stability while keeping growth in mind.\nKey points: The RBI’s monetary policy framework gives primacy to price stability while keeping growth in mind. The Monetary Policy Committee sets the policy rate within the statutory framework.\nWhy the other options are incorrect: The Union Budget is a fiscal document; elections are administered by the Election Commission; state tax rates are not all set by RBI monetary policy.\nExam takeaway: Distinguish monetary policy (RBI) from fiscal policy (government taxation and expenditure).\nSource: Reserve Bank of India — https://www.rbi.org.in/",
+      "source": "Reserve Bank of India reference; original practice",
+      "verificationStatus": "official-reference-reviewed; original practice; not PYQ",
+      "difficulty": "Medium",
+      "exam": "MPSC / Inspector of Taxes / SSC",
       "sourceURL": "https://www.rbi.org.in/"
     },
     {
@@ -558,21 +558,21 @@
     {
       "id": 6162,
       "cat": "Meghalaya GK",
-      "topic": "Protected areas",
-      "q": "Nokrek Biosphere Reserve is located in which part of Meghalaya?",
+      "topic": "Khasi festivals",
+      "q": "Shad Suk Mynsiem is primarily associated with which community of Meghalaya?",
       "o": [
-        "Garo Hills",
-        "Khasi Hills",
-        "Jaintia Hills",
-        "Ri-Bhoi only"
+        "Khasi",
+        "Garo",
+        "Biate",
+        "Mizo"
       ],
       "a": 0,
-      "e": "Correct answer: Garo Hills\nExplanation: Nokrek Biosphere Reserve is in the Garo Hills region of Meghalaya and is known for its rich biodiversity.\nExam takeaway: Learn the core rule or concept and distinguish it from nearby terms.\nSource note: Original exam-style practice, concept-checked; not an official previous-year question.",
-      "source": "Original exam-style practice; not official PYQ",
-      "verificationStatus": "concept-checked; original practice",
+      "e": "Correct answer: Khasi.\nKey points: Meghalaya Tourism describes Shad Suk Mynsiem as a major Khasi agrarian festival, celebrated in April with traditional dance and music. Its dance formations also reflect aspects of Khasi matrilineal society.\nWhy the other options are incorrect: Garo, Biate and Mizo communities have distinct cultural traditions; Shad Suk Mynsiem is specifically identified as a Khasi festival.\nExam takeaway: Revise Meghalaya festivals together with the community, season and key cultural features.\nSource: Meghalaya Tourism — https://www.meghalayatourism.in/explore/about-meghalaya/dance-music/shad-suk-mynsiem/",
+      "source": "Meghalaya Tourism reference; original practice",
+      "verificationStatus": "official-tourism-reference-reviewed; original practice; not PYQ",
       "difficulty": "Easy",
-      "exam": "MPSC / DSC / SSC Practice",
-      "sourceURL": "https://meghalaya.gov.in/"
+      "exam": "MPSC / Meghalaya GK / DSC",
+      "sourceURL": "https://www.meghalayatourism.in/explore/about-meghalaya/dance-music/shad-suk-mynsiem/"
     },
     {
       "id": 6163,
