@@ -237,21 +237,21 @@
     {
       "id": 6193,
       "cat": "English",
-      "topic": "Vocabulary",
-      "q": "Choose the closest meaning of “meticulous.”",
+      "topic": "Prepositions",
+      "q": "Complete the sentence: “The officer is responsible ___ maintaining the register.”",
       "o": [
-        "Careless and hurried",
-        "Very careful and precise",
-        "Unwilling to work",
-        "Loud and argumentative"
+        "for",
+        "to",
+        "at",
+        "with"
       ],
-      "a": 1,
-      "e": "Correct answer: Very careful and precise.\nKey points: “Meticulous” describes close attention to detail and careful accuracy. In an exam sentence, a meticulous clerk checks entries, figures and supporting documents thoroughly.\nWhy the other options are incorrect: Carelessness and haste are opposites; unwillingness to work describes a different trait; being loud or argumentative is unrelated to precision.\nExam takeaway: Learn a word with its meaning and a short context sentence; this improves vocabulary and reading comprehension.\nSource: https://www.oxfordlearnersdictionaries.com/definition/english/meticulous",
-      "source": "Oxford Learner's Dictionaries",
-      "sourceURL": "https://www.oxfordlearnersdictionaries.com/definition/english/meticulous",
-      "verificationStatus": "dictionary-verified; original practice",
+      "a": 0,
+      "e": "Correct answer: for.\nKey points: The standard construction is “responsible for” followed by a noun or gerund. “Responsible to” usually identifies the authority to whom someone is answerable; “at” and “with” do not fit this construction.\nWhy the other options are incorrect: “to” changes the meaning to accountability to a person or authority; “at” and “with” are not used in this phrase.\nExam takeaway: Learn prepositions as collocations and check the grammatical role of the phrase.\nSource: Cambridge Dictionary — https://dictionary.cambridge.org/grammar/british-grammar/",
+      "source": "Cambridge Dictionary grammar reference; original practice, not official PYQ",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/",
+      "verificationStatus": "answer-checked; original practice; not official PYQ",
       "difficulty": "Easy",
-      "exam": "DSC / LDA / SSC / MPSC"
+      "exam": "DSC LDA / SSC / MPSC"
     },
     {
       "id": 6194,
