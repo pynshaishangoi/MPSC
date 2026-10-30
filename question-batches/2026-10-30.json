@@ -1,0 +1,658 @@
+{
+  "date": "2026-10-30",
+  "questionCount": 35,
+  "description": "Multi-subject MPSC and Meghalaya competitive examination practice with topic tags and detailed explanations",
+  "sourcePolicy": "Original exam-style practice, not official PYQ. GST items are educational summaries; consult current statutes and notifications for live compliance.",
+  "subjects": {
+    "English": 6,
+    "Arithmetic": 4,
+    "Aptitude": 2,
+    "Reasoning": 3,
+    "Polity": 3,
+    "Meghalaya GK": 3,
+    "History": 2,
+    "Geography": 2,
+    "Science": 3,
+    "Economy": 2,
+    "Environment": 1,
+    "Computer": 1,
+    "GST / Inspector of Taxes": 2,
+    "Current Affairs": 1
+  },
+  "questionIdRange": [
+    6164,
+    6198
+  ],
+  "questions": [
+    {
+      "id": 6164,
+      "cat": "English",
+      "topic": "Tenses",
+      "q": "By the time the meeting began, the officers ___ the agenda.",
+      "o": [
+        "prepare",
+        "had prepared",
+        "have prepared",
+        "were prepare"
+      ],
+      "a": 1,
+      "e": "Correct answer: had prepared\nExplanation: The agenda was completed before the meeting began, so the past perfect (had + past participle) is required. The other choices do not show the earlier completed past action.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6165,
+      "cat": "English",
+      "topic": "Articles",
+      "q": "Choose the correct sentence.",
+      "o": [
+        "He is an European officer.",
+        "He is a European officer.",
+        "He is the European officer by profession.",
+        "He is European an officer."
+      ],
+      "a": 1,
+      "e": "Correct answer: He is a European officer.\nExplanation: European begins with the consonant sound /y/, so use “a”. Article choice depends on pronunciation, not the first written letter.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6166,
+      "cat": "English",
+      "topic": "Prepositions",
+      "q": "The committee consists ___ five members.",
+      "o": [
+        "with",
+        "from",
+        "of",
+        "by"
+      ],
+      "a": 2,
+      "e": "Correct answer: of\nExplanation: The fixed expression is “consist of”, meaning to be made up of. Learn common combinations such as depend on, comply with and object to.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6167,
+      "cat": "English",
+      "topic": "Subject-verb agreement",
+      "q": "Each of the applicants ___ required to submit a photograph.",
+      "o": [
+        "are",
+        "is",
+        "have",
+        "were"
+      ],
+      "a": 1,
+      "e": "Correct answer: is\nExplanation: Each is singular and takes a singular verb: “Each is required.” Do not let the plural noun applicants distract you.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6168,
+      "cat": "English",
+      "topic": "Vocabulary",
+      "q": "Choose the antonym of “meticulous”.",
+      "o": [
+        "Careful",
+        "Precise",
+        "Careless",
+        "Thorough"
+      ],
+      "a": 2,
+      "e": "Correct answer: Careless\nExplanation: Meticulous means extremely careful and attentive to detail. Careless is its opposite; precise and thorough are close in meaning.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6169,
+      "cat": "English",
+      "topic": "Reported speech",
+      "q": "Choose the correct indirect speech: He said, “I am busy.”",
+      "o": [
+        "He said that I am busy.",
+        "He said that he was busy.",
+        "He says that he had busy.",
+        "He told that he is busy."
+      ],
+      "a": 1,
+      "e": "Correct answer: He said that he was busy.\nExplanation: With a past reporting verb, am normally changes to was. The pronoun changes from I to he because it refers to the speaker.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6170,
+      "cat": "Arithmetic",
+      "topic": "Profit and loss",
+      "q": "An article costing ₹750 is sold for ₹900. What is the profit percentage?",
+      "o": [
+        "15%",
+        "18%",
+        "20%",
+        "25%"
+      ],
+      "a": 2,
+      "e": "Correct answer: 20%\nExplanation: Profit = ₹900 − ₹750 = ₹150. Profit percentage = (150 ÷ 750) × 100 = 20%. The percentage is calculated on cost price.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6171,
+      "cat": "Arithmetic",
+      "topic": "Compound interest",
+      "q": "Find the amount on ₹10,000 at 10% compound interest per annum for 2 years.",
+      "o": [
+        "₹11,000",
+        "₹12,000",
+        "₹12,100",
+        "₹12,200"
+      ],
+      "a": 2,
+      "e": "Correct answer: ₹12,100\nExplanation: Amount = P(1+r/100)^n = 10,000 × 1.1² = ₹12,100. Compound interest is ₹2,100. Apply the interest factor once for each year.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6172,
+      "cat": "Arithmetic",
+      "topic": "Average",
+      "q": "The average of 8 numbers is 24. If 32 is removed, what is the average of the remaining numbers?",
+      "o": [
+        "22",
+        "22 6/7",
+        "23",
+        "24"
+      ],
+      "a": 1,
+      "e": "Correct answer: 22 6/7\nExplanation: Original total = 8 × 24 = 192. New total = 192 − 32 = 160. New average = 160 ÷ 7 = 22 6/7.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6173,
+      "cat": "Arithmetic",
+      "topic": "Speed",
+      "q": "A vehicle covers 180 km in 3 hours. What is its average speed?",
+      "o": [
+        "45 km/h",
+        "50 km/h",
+        "60 km/h",
+        "75 km/h"
+      ],
+      "a": 2,
+      "e": "Correct answer: 60 km/h\nExplanation: Average speed = total distance ÷ total time = 180 ÷ 3 = 60 km/h. Keep distance and time units consistent.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6174,
+      "cat": "Aptitude",
+      "topic": "Divisibility",
+      "q": "What is the least number to add to 563 to make it divisible by 9?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "a": 3,
+      "e": "Correct answer: 4\nExplanation: Digit sum of 563 is 14. The next multiple of 9 is 18, so add 4. The resulting number 567 is divisible by 9.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6175,
+      "cat": "Aptitude",
+      "topic": "HCF and LCM",
+      "q": "Find the LCM of 12, 18 and 30.",
+      "o": [
+        "90",
+        "120",
+        "180",
+        "360"
+      ],
+      "a": 2,
+      "e": "Correct answer: 180\nExplanation: Prime factors are 12=2²×3, 18=2×3² and 30=2×3×5. Take the highest powers: 2²×3²×5 = 180.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6176,
+      "cat": "Reasoning",
+      "topic": "Coding",
+      "q": "If each letter is replaced by the next letter in the alphabet, how is TAX written?",
+      "o": [
+        "UBY",
+        "SBW",
+        "UBZ",
+        "VBY"
+      ],
+      "a": 0,
+      "e": "Correct answer: UBY\nExplanation: Move every letter one step forward: T→U, A→B and X→Y. Therefore TAX becomes UBY.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6177,
+      "cat": "Reasoning",
+      "topic": "Direction sense",
+      "q": "A person walks 5 km north, 3 km east, then 5 km south. Where are they relative to the start?",
+      "o": [
+        "3 km east",
+        "3 km west",
+        "5 km north",
+        "8 km east"
+      ],
+      "a": 0,
+      "e": "Correct answer: 3 km east\nExplanation: The north and south movements cancel. The remaining displacement is 3 km east. Track horizontal and vertical movements separately.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6178,
+      "cat": "Reasoning",
+      "topic": "Syllogism",
+      "q": "Statements: All clerks are employees. Some employees are graduates. Which conclusion definitely follows?",
+      "o": [
+        "All clerks are graduates.",
+        "Some clerks are graduates.",
+        "All clerks are employees.",
+        "No employee is a clerk."
+      ],
+      "a": 2,
+      "e": "Correct answer: All clerks are employees.\nExplanation: All clerks are employees directly repeats the first statement and must be true. The second statement does not prove that any clerk is a graduate.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6179,
+      "cat": "Polity",
+      "topic": "Fundamental Duties",
+      "q": "Fundamental Duties are contained in which Part of the Constitution?",
+      "o": [
+        "Part III",
+        "Part IV",
+        "Part IVA",
+        "Part V"
+      ],
+      "a": 2,
+      "e": "Correct answer: Part IVA\nExplanation: Article 51A in Part IVA contains Fundamental Duties. They were added by the 42nd Constitutional Amendment Act, 1976. Fundamental Rights are in Part III and Directive Principles in Part IV.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6180,
+      "cat": "Polity",
+      "topic": "Directive Principles",
+      "q": "Which Article directs the State to organise village panchayats?",
+      "o": [
+        "Article 32",
+        "Article 40",
+        "Article 44",
+        "Article 50"
+      ],
+      "a": 1,
+      "e": "Correct answer: Article 40\nExplanation: Article 40 directs the State to organise village panchayats and endow them with powers needed for self-government. It is a Directive Principle.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6181,
+      "cat": "Polity",
+      "topic": "Amendments",
+      "q": "Which Constitutional Amendment gave constitutional status to Panchayati Raj institutions?",
+      "o": [
+        "42nd",
+        "44th",
+        "73rd",
+        "74th"
+      ],
+      "a": 2,
+      "e": "Correct answer: 73rd\nExplanation: The 73rd Amendment inserted Part IX and the Eleventh Schedule concerning Panchayats. The 74th Amendment concerns municipalities.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6182,
+      "cat": "Meghalaya GK",
+      "topic": "Statehood",
+      "q": "Meghalaya attained full statehood on:",
+      "o": [
+        "2 April 1970",
+        "21 January 1972",
+        "15 August 1972",
+        "26 January 1971"
+      ],
+      "a": 1,
+      "e": "Correct answer: 21 January 1972\nExplanation: Meghalaya became an autonomous state within Assam in 1970 and a full-fledged state on 21 January 1972. Do not confuse the two dates.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6183,
+      "cat": "Meghalaya GK",
+      "topic": "Culture",
+      "q": "Behdienkhlam is especially associated with which community?",
+      "o": [
+        "Garo",
+        "Pnar/Jaintia",
+        "Bodo",
+        "Mizo"
+      ],
+      "a": 1,
+      "e": "Correct answer: Pnar/Jaintia\nExplanation: Behdienkhlam is a major traditional festival of the Pnar people of the Jaintia Hills. Wangala, by contrast, is associated with Garo culture.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6184,
+      "cat": "Meghalaya GK",
+      "topic": "Sixth Schedule",
+      "q": "The Sixth Schedule provides for special administration of tribal areas in which group of states?",
+      "o": [
+        "All Indian states",
+        "Assam, Meghalaya, Tripura and Mizoram",
+        "Only Meghalaya and Nagaland",
+        "All North-Eastern states"
+      ],
+      "a": 1,
+      "e": "Correct answer: Assam, Meghalaya, Tripura and Mizoram\nExplanation: The Sixth Schedule applies to specified tribal areas in Assam, Meghalaya, Tripura and Mizoram. It provides for Autonomous District and Regional Councils with defined powers.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6185,
+      "cat": "History",
+      "topic": "INC",
+      "q": "The Indian National Congress was founded in 1885. Who was its first president?",
+      "o": [
+        "Dadabhai Naoroji",
+        "W.C. Bonnerjee",
+        "A.O. Hume",
+        "Surendranath Banerjee"
+      ],
+      "a": 1,
+      "e": "Correct answer: W.C. Bonnerjee\nExplanation: The first INC session was held in Bombay in December 1885 under Womesh Chandra Bonnerjee. A.O. Hume played an important organising role but was not the first president.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6186,
+      "cat": "History",
+      "topic": "National movement",
+      "q": "The Quit India Movement was launched in which year?",
+      "o": [
+        "1919",
+        "1920",
+        "1930",
+        "1942"
+      ],
+      "a": 3,
+      "e": "Correct answer: 1942\nExplanation: The Quit India Movement was launched in August 1942 during the Second World War. Gandhi's call is associated with the slogan “Do or Die”.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6187,
+      "cat": "Geography",
+      "topic": "Indian peaks",
+      "q": "Which is the highest mountain peak located entirely within India?",
+      "o": [
+        "Nanda Devi",
+        "Kangchenjunga",
+        "Anamudi",
+        "Kamet"
+      ],
+      "a": 0,
+      "e": "Correct answer: Nanda Devi\nExplanation: Nanda Devi in Uttarakhand is the highest peak located entirely within India. Kangchenjunga is higher but lies on the India–Nepal border.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6188,
+      "cat": "Geography",
+      "topic": "Monsoon",
+      "q": "The southwest monsoon normally reaches the Kerala coast around:",
+      "o": [
+        "Early June",
+        "Late August",
+        "Early October",
+        "January"
+      ],
+      "a": 0,
+      "e": "Correct answer: Early June\nExplanation: The southwest monsoon normally sets in over Kerala around the beginning of June, although the actual onset varies each year.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6189,
+      "cat": "Science",
+      "topic": "Physics",
+      "q": "The SI unit of acceleration is:",
+      "o": [
+        "m/s",
+        "m/s²",
+        "km/h",
+        "Newton"
+      ],
+      "a": 1,
+      "e": "Correct answer: m/s²\nExplanation: Acceleration is the rate of change of velocity with time. Velocity is m/s; dividing by seconds gives m/s².\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6190,
+      "cat": "Science",
+      "topic": "Chemistry",
+      "q": "A solution with pH 3 is:",
+      "o": [
+        "Acidic",
+        "Neutral",
+        "Alkaline",
+        "Always a salt"
+      ],
+      "a": 0,
+      "e": "Correct answer: Acidic\nExplanation: At ordinary reference conditions, pH below 7 is acidic, 7 neutral and above 7 alkaline. A pH of 3 is acidic.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6191,
+      "cat": "Science",
+      "topic": "Biology",
+      "q": "Which organelle is commonly called the powerhouse of the cell?",
+      "o": [
+        "Ribosome",
+        "Mitochondrion",
+        "Nucleus",
+        "Golgi apparatus"
+      ],
+      "a": 1,
+      "e": "Correct answer: Mitochondrion\nExplanation: Mitochondria are major sites of aerobic cellular respiration and produce much of the cell's ATP. Ribosomes synthesise proteins.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6192,
+      "cat": "Economy",
+      "topic": "GDP",
+      "q": "GDP measures:",
+      "o": [
+        "Only government revenue",
+        "The value of final goods and services produced within domestic territory during a period",
+        "Only exports",
+        "Income of citizens abroad only"
+      ],
+      "a": 1,
+      "e": "Correct answer: The value of final goods and services produced within domestic territory during a period\nExplanation: GDP measures final goods and services produced within domestic territory over a specified period. Counting final output avoids double counting intermediate goods.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6193,
+      "cat": "Economy",
+      "topic": "Monetary policy",
+      "q": "Which institution is responsible for monetary policy in India?",
+      "o": [
+        "NITI Aayog",
+        "Reserve Bank of India",
+        "Finance Commission",
+        "SEBI"
+      ],
+      "a": 1,
+      "e": "Correct answer: Reserve Bank of India\nExplanation: The RBI is India's central bank. Its Monetary Policy Committee determines the policy rate to achieve the inflation target while keeping growth in mind.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6194,
+      "cat": "Environment",
+      "topic": "Ecology",
+      "q": "In a food chain, green plants are generally classified as:",
+      "o": [
+        "Primary consumers",
+        "Producers",
+        "Decomposers",
+        "Secondary consumers"
+      ],
+      "a": 1,
+      "e": "Correct answer: Producers\nExplanation: Green plants produce organic food through photosynthesis and form the producer level at the base of most food chains. Consumers obtain energy by feeding.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6195,
+      "cat": "Computer",
+      "topic": "Cyber security",
+      "q": "A deceptive message impersonating a trusted organisation to steal a password is an example of:",
+      "o": [
+        "Phishing",
+        "Defragmentation",
+        "Compression",
+        "Formatting"
+      ],
+      "a": 0,
+      "e": "Correct answer: Phishing\nExplanation: Phishing is a social-engineering attack using deceptive messages or websites to steal credentials. Check sender details and website addresses; never share passwords or OTPs through suspicious links.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6196,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "GST framework",
+      "q": "Under India's GST structure, which tax is generally applicable to an inter-State taxable supply?",
+      "o": [
+        "CGST only",
+        "SGST only",
+        "IGST",
+        "Professional tax"
+      ],
+      "a": 2,
+      "e": "Correct answer: IGST\nExplanation: IGST is generally levied on inter-State supplies. Intra-State supplies generally attract CGST and SGST/UTGST. Determine the nature and place of supply; check current law for actual cases.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6197,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "GST returns",
+      "q": "Which return is generally used by a regular registered taxpayer to report outward supplies?",
+      "o": [
+        "GSTR-1",
+        "GSTR-3B",
+        "GSTR-9C",
+        "CMP-08"
+      ],
+      "a": 0,
+      "e": "Correct answer: GSTR-1\nExplanation: GSTR-1 is the statement of outward supplies. GSTR-3B is a summary return used to declare liabilities and discharge tax, subject to filing requirements. Check current rules for live compliance.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6198,
+      "cat": "Current Affairs",
+      "topic": "International organisations",
+      "q": "The headquarters of the World Health Organization is in:",
+      "o": [
+        "New York",
+        "Geneva",
+        "Paris",
+        "Rome"
+      ],
+      "a": 1,
+      "e": "Correct answer: Geneva\nExplanation: The World Health Organization is a specialised agency of the United Nations headquartered in Geneva, Switzerland. Link organisations with their headquarters and mandates.\nExam takeaway: Understand the underlying rule or concept, not just the option.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    }
+  ]
+}
