@@ -1,0 +1,599 @@
+{
+  "date": "2026-10-30",
+  "questionCount": 32,
+  "description": "Major 32-question practice pack covering English, arithmetic, aptitude, reasoning, Indian polity, history, Meghalaya geography, science, economy, environment, computers and GST/Inspector of Taxes",
+  "sourcePolicy": "Original exam-style practice, not official PYQ. Statutory GST explanations are educational summaries; check current Acts, rules, notifications and circulars for live compliance.",
+  "subjects": {
+    "English": 6,
+    "Arithmetic": 5,
+    "Aptitude": 1,
+    "Reasoning": 3,
+    "Polity": 3,
+    "History": 2,
+    "Geography": 2,
+    "Science": 3,
+    "Economy": 2,
+    "Environment": 1,
+    "Computer": 1,
+    "GST / Inspector of Taxes": 3
+  },
+  "questionIdRange": "6199-6230",
+  "questions": [
+    {
+      "id": 6199,
+      "cat": "English",
+      "topic": "Subject–verb agreement",
+      "q": "Neither the Superintendent nor the clerks ___ available during the inspection.",
+      "o": [
+        "was",
+        "were",
+        "is",
+        "has"
+      ],
+      "a": 1,
+      "e": "Correct answer: were\nExplanation: With neither…nor, the verb generally agrees with the nearer subject. The nearer subject is “clerks,” which is plural, so “were” is correct.\nExam takeaway: In either…or and neither…nor constructions, check the subject nearest to the verb.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6200,
+      "cat": "English",
+      "topic": "Articles",
+      "q": "She is ___ honest officer who follows the rules.",
+      "o": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "a": 1,
+      "e": "Correct answer: an\nExplanation: “Honest” begins with a vowel sound because the h is silent. We use “an” before a vowel sound, not merely before a vowel letter.\nExam takeaway: Choose a/an according to pronunciation: an honest person, a university.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6201,
+      "cat": "English",
+      "topic": "Prepositions",
+      "q": "The report must be submitted ___ Monday.",
+      "o": [
+        "at",
+        "in",
+        "by",
+        "on"
+      ],
+      "a": 2,
+      "e": "Correct answer: by\nExplanation: “By Monday” means not later than Monday. “On Monday” identifies the day itself, while “by Monday” sets a deadline.\nExam takeaway: Distinguish a deadline (by) from an event date (on).",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6202,
+      "cat": "English",
+      "topic": "Active and passive voice",
+      "q": "Choose the correct passive form: “The officer examined the records.”",
+      "o": [
+        "The records examined the officer.",
+        "The records were examined by the officer.",
+        "The records are examined by the officer.",
+        "The officer was examined by the records."
+      ],
+      "a": 1,
+      "e": "Correct answer: The records were examined by the officer.\nExplanation: The active sentence is in the simple past. Its passive form is object + was/were + past participle + by + subject. “Records” is plural, so use “were examined.”\nExam takeaway: Preserve the tense when changing voice.",
+      "difficulty": "Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6203,
+      "cat": "English",
+      "topic": "Vocabulary",
+      "q": "Choose the word closest in meaning to “diligent”.",
+      "o": [
+        "Careless",
+        "Hard-working",
+        "Impatient",
+        "Uncertain"
+      ],
+      "a": 1,
+      "e": "Correct answer: Hard-working\nExplanation: A diligent person works carefully and consistently. Careless is nearly the opposite; the other options do not express sustained effort.\nExam takeaway: Learn synonyms in context, not as isolated word pairs.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6204,
+      "cat": "English",
+      "topic": "Sentence correction",
+      "q": "Choose the grammatically correct sentence.",
+      "o": [
+        "Each of the candidates have submitted the form.",
+        "Each of the candidates has submitted the form.",
+        "Each candidates has submitted the form.",
+        "Each of candidate have submitted the form."
+      ],
+      "a": 1,
+      "e": "Correct answer: Each of the candidates has submitted the form.\nExplanation: “Each” is singular and takes a singular verb, “has”. The phrase “of the candidates” does not change the grammatical number of the subject.\nExam takeaway: Each, every, either and neither are normally singular when used as subjects.",
+      "difficulty": "Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6205,
+      "cat": "Arithmetic",
+      "topic": "Percentage",
+      "q": "A value increases from 800 to 920. What is the percentage increase?",
+      "o": [
+        "12%",
+        "15%",
+        "18%",
+        "20%"
+      ],
+      "a": 1,
+      "e": "Correct answer: 15%\nStep 1: Increase = 920 − 800 = 120.\nStep 2: Percentage increase = (120 ÷ 800) × 100 = 15%.\nExam takeaway: Divide the change by the original value, not the new value.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6206,
+      "cat": "Arithmetic",
+      "topic": "Ratio and proportion",
+      "q": "The ratio of two numbers is 3:5 and their sum is 64. What is the smaller number?",
+      "o": [
+        "18",
+        "24",
+        "32",
+        "40"
+      ],
+      "a": 1,
+      "e": "Correct answer: 24\nStep 1: Total parts = 3 + 5 = 8.\nStep 2: One part = 64 ÷ 8 = 8.\nStep 3: Smaller number = 3 × 8 = 24.\nExam takeaway: Add ratio parts first, then find the value of one part.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6207,
+      "cat": "Arithmetic",
+      "topic": "Simple interest",
+      "q": "Find the simple interest on ₹5,000 at 8% per annum for 2 years.",
+      "o": [
+        "₹400",
+        "₹600",
+        "₹800",
+        "₹1,000"
+      ],
+      "a": 2,
+      "e": "Correct answer: ₹800\nFormula: SI = (P × R × T) ÷ 100.\nSubstitute: (5,000 × 8 × 2) ÷ 100 = ₹800.\nExam takeaway: Time must be expressed in years when the rate is per annum.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6208,
+      "cat": "Arithmetic",
+      "topic": "Average",
+      "q": "The average of 12, 18, 20 and 30 is:",
+      "o": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "a": 2,
+      "e": "Correct answer: 20\nStep 1: Sum = 12 + 18 + 20 + 30 = 80.\nStep 2: Average = 80 ÷ 4 = 20.\nExam takeaway: Average = sum of observations ÷ number of observations.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6209,
+      "cat": "Arithmetic",
+      "topic": "Time and work",
+      "q": "A can complete a job in 12 days and B in 6 days. How long will they take working together?",
+      "o": [
+        "3 days",
+        "4 days",
+        "6 days",
+        "9 days"
+      ],
+      "a": 1,
+      "e": "Correct answer: 4 days\nStep 1: A's one-day work = 1/12; B's = 1/6.\nStep 2: Together = 1/12 + 2/12 = 3/12 = 1/4 of the job per day.\nStep 3: Time = 4 days.\nExam takeaway: Add work rates, not the number of days.",
+      "difficulty": "Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6210,
+      "cat": "Aptitude",
+      "topic": "Number series",
+      "q": "Find the next number: 3, 8, 15, 24, 35, __.",
+      "o": [
+        "46",
+        "48",
+        "50",
+        "52"
+      ],
+      "a": 1,
+      "e": "Correct answer: 48\nExplanation: The differences are 5, 7, 9 and 11. The next difference is 13, so 35 + 13 = 48.\nExam takeaway: Check successive differences before trying a more complicated pattern.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6211,
+      "cat": "Reasoning",
+      "topic": "Direction sense",
+      "q": "A person walks 5 km north, then 3 km east, and then 5 km south. How far and in which direction is the person from the starting point?",
+      "o": [
+        "3 km east",
+        "3 km west",
+        "5 km north",
+        "8 km east"
+      ],
+      "a": 0,
+      "e": "Correct answer: 3 km east\nExplanation: The 5 km north and 5 km south movements cancel each other. The remaining displacement is 3 km east.\nExam takeaway: Cancel opposite directions before calculating the final displacement.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6212,
+      "cat": "Reasoning",
+      "topic": "Coding and decoding",
+      "q": "If CAT is coded as DBU by moving each letter one place forward, how is DOG coded?",
+      "o": [
+        "EPH",
+        "EOG",
+        "FPH",
+        "CNG"
+      ],
+      "a": 0,
+      "e": "Correct answer: EPH\nExplanation: D becomes E, O becomes P and G becomes H. Therefore DOG becomes EPH.\nExam takeaway: Apply the same alphabet shift to every letter.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6213,
+      "cat": "Reasoning",
+      "topic": "Analogy",
+      "q": "Book is to reading as fork is to:",
+      "o": [
+        "Writing",
+        "Eating",
+        "Drawing",
+        "Cutting"
+      ],
+      "a": 1,
+      "e": "Correct answer: Eating\nExplanation: A book is an instrument used for reading; a fork is an instrument commonly used for eating.\nExam takeaway: Identify the relationship between the first pair and apply it to the second.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6214,
+      "cat": "Polity",
+      "topic": "Fundamental Rights",
+      "q": "Which Article of the Constitution of India guarantees equality before the law and equal protection of the laws?",
+      "o": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ],
+      "a": 0,
+      "e": "Correct answer: Article 14\nExplanation: Article 14 guarantees equality before the law and equal protection of the laws to every person within the territory of India.\nExam takeaway: Remember Article 14 (equality), Article 19 (specified freedoms), Article 21 (life and personal liberty), and Article 32 (constitutional remedies).",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6215,
+      "cat": "Polity",
+      "topic": "Directive Principles",
+      "q": "The Directive Principles of State Policy are contained in which Part of the Constitution?",
+      "o": [
+        "Part II",
+        "Part III",
+        "Part IV",
+        "Part IVA"
+      ],
+      "a": 2,
+      "e": "Correct answer: Part IV\nExplanation: Articles 36 to 51 in Part IV contain the Directive Principles of State Policy. They guide the State in making laws and policies and are not enforceable by courts in the same way as Fundamental Rights.\nExam takeaway: Part III = Fundamental Rights; Part IV = DPSP; Part IVA = Fundamental Duties.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6216,
+      "cat": "Polity",
+      "topic": "Constitutional bodies",
+      "q": "Who appoints the Governor of a State in India?",
+      "o": [
+        "Chief Minister",
+        "President of India",
+        "Chief Justice of the High Court",
+        "State Legislative Assembly"
+      ],
+      "a": 1,
+      "e": "Correct answer: President of India\nExplanation: Under Article 155, the Governor of a State is appointed by the President by warrant under his hand and seal.\nExam takeaway: Link the Governor's appointment to Article 155 and the term of office to Article 156.",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6217,
+      "cat": "History",
+      "topic": "Indian National Movement",
+      "q": "The Indian National Congress was founded in which year?",
+      "o": [
+        "1857",
+        "1885",
+        "1905",
+        "1919"
+      ],
+      "a": 1,
+      "e": "Correct answer: 1885\nExplanation: The Indian National Congress was founded in 1885. Its first session was held in Bombay, with Womesh Chandra Bonnerjee as president.\nExam takeaway: Associate 1885 with the first INC session and W.C. Bonnerjee.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6218,
+      "cat": "History",
+      "topic": "Modern Indian history",
+      "q": "The Quit India Movement was launched in:",
+      "o": [
+        "1930",
+        "1935",
+        "1942",
+        "1947"
+      ],
+      "a": 2,
+      "e": "Correct answer: 1942\nExplanation: The Quit India Movement was launched in August 1942 during the Second World War. Mahatma Gandhi gave the call of “Do or Die.”\nExam takeaway: Connect the movement with the August 1942 resolution and the call “Do or Die.”",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6219,
+      "cat": "Geography",
+      "topic": "Indian physical geography",
+      "q": "Which river is commonly known as the “Dakshin Ganga” or Ganga of the South?",
+      "o": [
+        "Krishna",
+        "Godavari",
+        "Kaveri",
+        "Narmada"
+      ],
+      "a": 1,
+      "e": "Correct answer: Godavari\nExplanation: The Godavari is often called the Dakshin Ganga because it is the largest peninsular river system in India by length and drainage basin.\nExam takeaway: Remember Godavari as the major east-flowing peninsular river called the Dakshin Ganga.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6220,
+      "cat": "Geography",
+      "topic": "Meghalaya geography",
+      "q": "Meghalaya became a full-fledged state of the Indian Union on:",
+      "o": [
+        "15 August 1947",
+        "26 January 1950",
+        "21 January 1972",
+        "2 April 1970"
+      ],
+      "a": 2,
+      "e": "Correct answer: 21 January 1972\nExplanation: Meghalaya attained full statehood on 21 January 1972 under the North-Eastern Areas (Reorganisation) Act, 1971.\nExam takeaway: Learn Meghalaya's statehood date and the 1971 reorganisation legislation together.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6221,
+      "cat": "Science",
+      "topic": "Human physiology",
+      "q": "Which component of blood is primarily responsible for clotting?",
+      "o": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma proteins only"
+      ],
+      "a": 2,
+      "e": "Correct answer: Platelets\nExplanation: Platelets (thrombocytes) gather at an injury site and help initiate the clotting process. Several plasma clotting factors also participate.\nExam takeaway: RBCs transport oxygen, WBCs defend against infection, and platelets help blood clot.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6222,
+      "cat": "Science",
+      "topic": "Physics",
+      "q": "The SI unit of electric resistance is:",
+      "o": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "a": 2,
+      "e": "Correct answer: Ohm\nExplanation: Electrical resistance is measured in ohms (Ω). Voltage is measured in volts, current in amperes and power in watts.\nExam takeaway: Memorise the basic electrical units and their corresponding quantities.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6223,
+      "cat": "Science",
+      "topic": "Chemistry",
+      "q": "A solution with a pH value of 3 is:",
+      "o": [
+        "Acidic",
+        "Neutral",
+        "Basic",
+        "Always a salt"
+      ],
+      "a": 0,
+      "e": "Correct answer: Acidic\nExplanation: At ordinary reference conditions, pH below 7 is acidic, pH 7 is neutral and pH above 7 is basic (alkaline).\nExam takeaway: Lower pH indicates greater acidity; higher pH indicates greater basicity.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6224,
+      "cat": "Economy",
+      "topic": "Banking",
+      "q": "Which institution is India's central bank?",
+      "o": [
+        "State Bank of India",
+        "Reserve Bank of India",
+        "NABARD",
+        "SEBI"
+      ],
+      "a": 1,
+      "e": "Correct answer: Reserve Bank of India\nExplanation: The Reserve Bank of India is the country's central bank. It conducts monetary policy, issues banknotes (subject to the statutory exception for the one-rupee note) and regulates the banking system.\nExam takeaway: RBI is the central bank; SEBI regulates the securities market; NABARD focuses on agriculture and rural development.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6225,
+      "cat": "Economy",
+      "topic": "Inflation",
+      "q": "Inflation generally refers to:",
+      "o": [
+        "A sustained rise in the general price level",
+        "A fall in the money supply only",
+        "A rise in the price of one product only",
+        "A fall in all wages"
+      ],
+      "a": 0,
+      "e": "Correct answer: A sustained rise in the general price level\nExplanation: Inflation is a sustained increase in the general price level of goods and services over time, reducing the purchasing power of money.\nExam takeaway: Distinguish general inflation from a one-time increase in the price of a single item.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6226,
+      "cat": "Environment",
+      "topic": "Biodiversity",
+      "q": "A species found naturally only in a particular geographical area is called:",
+      "o": [
+        "Exotic",
+        "Endemic",
+        "Migratory",
+        "Domesticated"
+      ],
+      "a": 1,
+      "e": "Correct answer: Endemic\nExplanation: An endemic species is native to and restricted to a particular geographical region. Such species may be especially vulnerable if their limited habitat is damaged.\nExam takeaway: Endemic means geographically restricted; exotic means introduced from elsewhere.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6227,
+      "cat": "Computer",
+      "topic": "Computer fundamentals",
+      "q": "Which of the following is volatile memory?",
+      "o": [
+        "ROM",
+        "Hard disk",
+        "RAM",
+        "DVD"
+      ],
+      "a": 2,
+      "e": "Correct answer: RAM\nExplanation: RAM normally loses its stored data when power is switched off, so it is volatile memory. ROM and secondary storage retain data without continuous power.\nExam takeaway: RAM is temporary working memory; distinguish it from ROM and storage devices.",
+      "difficulty": "Easy",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6228,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "GST structure",
+      "q": "For an intra-State taxable supply, which taxes are generally levied under the GST structure?",
+      "o": [
+        "IGST only",
+        "CGST and SGST/UTGST",
+        "Customs duty and IGST only",
+        "CGST only"
+      ],
+      "a": 1,
+      "e": "Correct answer: CGST and SGST/UTGST\nExplanation: For an intra-State supply, Central GST and the applicable State GST are generally levied together. For an inter-State supply, IGST is generally levied.\nExam takeaway: First identify whether the supply is intra-State or inter-State. Apply the relevant statutory place-of-supply rules in actual cases.",
+      "difficulty": "Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6229,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Input Tax Credit",
+      "q": "Which document is generally required as a basic condition for a registered recipient to claim input tax credit on a taxable supply?",
+      "o": [
+        "A newspaper advertisement",
+        "A tax invoice or prescribed tax-paying document",
+        "A handwritten note without supplier details",
+        "A bank passbook alone"
+      ],
+      "a": 1,
+      "e": "Correct answer: A tax invoice or prescribed tax-paying document\nExplanation: Section 16 of the CGST Act sets conditions for taking ITC, including possession of a tax invoice or other prescribed tax-paying document, receipt of goods or services, and fulfilment of other statutory conditions. A document alone does not automatically guarantee eligibility.\nExam takeaway: Learn the conditions in Section 16 together; verify current statutory requirements before advising on a live claim.",
+      "difficulty": "Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    },
+    {
+      "id": 6230,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "GST returns",
+      "q": "Which GST return is generally used by a regular taxpayer to report outward supplies?",
+      "o": [
+        "GSTR-1",
+        "GSTR-3B",
+        "GSTR-9C",
+        "GSTR-2B"
+      ],
+      "a": 0,
+      "e": "Correct answer: GSTR-1\nExplanation: GSTR-1 is the statement of outward supplies. GSTR-3B is a summary return used to declare liabilities and discharge tax, while GSTR-2B is an auto-drafted ITC statement.\nExam takeaway: Do not confuse outward-supply reporting (GSTR-1), summary return/payment (GSTR-3B) and ITC statement (GSTR-2B).",
+      "difficulty": "Easy/Medium",
+      "source": "Original exam-style practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice",
+      "exam": "MPSC / Meghalaya Competitive Exams"
+    }
+  ]
+}
