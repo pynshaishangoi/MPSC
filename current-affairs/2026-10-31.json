@@ -41,11 +41,11 @@
       "category": "India",
       "publishedDate": "2026-10-30",
       "title": "Finance Ministry constitutes high-level committee on banking reforms",
-      "summary": "Reuters reported that the Finance Ministry established a high-level committee to review India's banking sector and identify reforms to support economic growth and global competitiveness. The report did not specify the committee's membership, detailed terms of reference or timeline.",
+      "summary": "The Ministry of Finance's PIB release dated 30 October 2026 confirms a six-month High Level Committee on Banking for Viksit Bharat, chaired by former Central Vigilance Commissioner Suresh N. Patel. Its members include RBI Deputy Governor Shirish Chandra Murmu, former Indian Bank MD & CEO Padmaja Chunduru and former RBI Deputy Governor N. S. Vishwanathan; the Joint Secretary (Banking), Department of Financial Services, is Member Secretary. Its terms include banking regulation, capital requirements, priority-sector lending, the Lead Bank Scheme and AI/digital innovation with cyber safeguards.",
       "examRelevance": "Department of Financial Services, banking governance and financial reforms.",
-      "sourceName": "Reuters",
-      "sourceURL": "https://www.reuters.com/world/india/india-constitutes-high-level-committee-banking-reforms-2026-10-30/",
-      "verificationStatus": "dated Reuters report reviewed; committee details not yet specified in report"
+      "sourceName": "Press Information Bureau, Ministry of Finance",
+      "sourceURL": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330598&lang=1&reg=3",
+      "verificationStatus": "official dated PIB release reviewed"
     },
     {
       "id": "ca-2026-10-31-world-gcf",
@@ -57,6 +57,28 @@
       "sourceName": "Reuters",
       "sourceURL": "https://www.reuters.com/sustainability/cop/green-climate-fund-approves-record-near-2-billion-funding-2026-10-29/",
       "verificationStatus": "dated Reuters report reviewed"
+    },
+    {
+      "id": "ca-2026-10-31-india-pm-kisan",
+      "category": "India",
+      "publishedDate": "2026-10-30",
+      "title": "24th PM-KISAN instalment transfers over ₹18,690 crore to 9.34 crore farmers",
+      "summary": "The 24th instalment of PM-KISAN transferred over ₹18,690 crore to 9.34 crore eligible farmers. PM-KISAN provides ₹6,000 per eligible farmer family each year in three equal instalments of ₹2,000 through Direct Benefit Transfer.",
+      "examRelevance": "PM-KISAN, DBT, farmer income support and scheme implementation.",
+      "sourceName": "Press Information Bureau, Ministry of Agriculture & Farmers Welfare",
+      "sourceURL": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330414&lang=1&reg=3",
+      "verificationStatus": "official dated PIB release reviewed"
+    },
+    {
+      "id": "ca-2026-10-31-meghalaya-umiam-pmkisan",
+      "category": "Meghalaya",
+      "publishedDate": "2026-10-30",
+      "title": "Umiam programme marks 24th PM-KISAN instalment; 105 Ri-Bhoi farmers participate",
+      "summary": "The ICAR Research Complex for the North Eastern Hill Region at Umiam, with the District Agriculture Office, Ri-Bhoi, held a live-streaming programme for the 24th PM-KISAN instalment. PIB Shillong reported 105 participating farmers: 31 men and 74 women.",
+      "examRelevance": "ICAR NEH Region, Umiam, Ri-Bhoi district, agricultural extension and DBT.",
+      "sourceName": "Press Information Bureau, PIB Shillong",
+      "sourceURL": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330541&lang=2&reg=48",
+      "verificationStatus": "official dated PIB Shillong release reviewed"
     }
   ]
 }
