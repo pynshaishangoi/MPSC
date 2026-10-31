@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-31",
+  "questionCount": 8,
+  "description": "Dated current-affairs MCQs plus original arithmetic and English practice for Meghalaya and India competitive examinations",
+  "sourcePolicy": "Current-affairs questions are original practice based on dated reports; other items are original concept practice, not official PYQs.",
+  "subjects": {
+    "Current Affairs": 5,
+    "Arithmetic": 2,
+    "English": 1
+  },
+  "questionIdRange": [
+    6231,
+    6238
+  ],
+  "questions": [
+    {
+      "id": 6231,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya culture",
+      "q": "According to the Meghalaya Government release dated 28 October 2026, the Golden Jubilee presentation for Wangala plans to feature how many drums?",
+      "o": [
+        "100",
+        "500",
+        "1,000",
+        "1,500"
+      ],
+      "a": 2,
+      "e": "Correct answer: C — 1,000.\nKey points: The State Government's 28 October release says the 50th organised celebration of the 100 Drums Wangala Festival will feature a special presentation with 1,000 drums. It identifies Wangala as a Garo post-harvest thanksgiving festival associated with Misi Saljong.\nWhy the other options are incorrect: 100 is the traditional festival name; 500 and 1,500 are not the number stated in the release.\nExam takeaway: Keep the one-off Golden Jubilee arrangement separate from the festival's traditional name.\nSource: Meghalaya Government press release, 28-10-2026 — https://www.meghalaya.gov.in/press/content/52221",
+      "difficulty": "Easy",
+      "exam": "MPSC / Meghalaya GK",
+      "source": "Dated current-affairs practice; Meghalaya Government release 28-10-2026",
+      "sourceURL": "https://www.meghalaya.gov.in/press/content/52221",
+      "verificationStatus": "dated official release reviewed; original practice, not official PYQ",
+      "currentAffairsDate": "2026-10-31"
+    },
+    {
+      "id": 6232,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya policy",
+      "q": "For how long will Meghalaya's Electric Vehicle Policy 2026 remain in force from the date of notification in the Official Gazette?",
+      "o": [
+        "One year",
+        "Two years",
+        "Three years",
+        "Five years"
+      ],
+      "a": 2,
+      "e": "Correct answer: C — Three years.\nKey points: The Meghalaya Government's 22 October 2026 release says the EV Policy 2026 will remain in force for three years from the date of notification in the Official Gazette. It supersedes the Meghalaya Electric Vehicle Policy, 2021.\nWhy the other options are incorrect: One, two and five years do not match the duration specified in the official release.\nExam takeaway: For policy questions, distinguish the announcement date from the policy's legal commencement date: the duration runs from Gazette notification.\nSource: Meghalaya Government press release, 22-10-2026 — https://www.meghalaya.gov.in/press/content/52135",
+      "difficulty": "Medium",
+      "exam": "MPSC / Meghalaya GK",
+      "source": "Dated current-affairs practice; Meghalaya Government release 22-10-2026",
+      "sourceURL": "https://www.meghalaya.gov.in/press/content/52135",
+      "verificationStatus": "dated official release reviewed; original practice, not official PYQ",
+      "currentAffairsDate": "2026-10-31"
+    },
+    {
+      "id": 6233,
+      "cat": "Current Affairs",
+      "topic": "Indian economy and currency",
+      "q": "Reuters reported that the Indian rupee gained approximately how much month-on-month in October 2026, its strongest monthly performance since February?",
+      "o": [
+        "0.25%",
+        "0.5%",
+        "1%",
+        "2%"
+      ],
+      "a": 2,
+      "e": "Correct answer: C — About 1%.\nKey points: Reuters reported on 30 October 2026 that the rupee had gained about 1% during October and closed at ₹94.95 per US dollar. The report linked the improvement partly to RBI measures to curb dollar demand and support the currency.\nWhy the other options are incorrect: 0.25%, 0.5% and 2% do not match the approximate monthly gain reported.\nExam takeaway: Exchange-rate figures are time-specific. Memorise the reporting date and do not treat a market close as a permanent rate.\nSource: Reuters, 30-10-2026 — https://www.reuters.com/world/india/rupee-benefit-dollar-retreat-plunging-us-yields-oil-surge-tempers-impact-2026-10-30/",
+      "difficulty": "Medium",
+      "exam": "MPSC / SSC / Banking Awareness",
+      "source": "Dated current-affairs practice; Reuters report 30-10-2026",
+      "sourceURL": "https://www.reuters.com/world/india/rupee-benefit-dollar-retreat-plunging-us-yields-oil-surge-tempers-impact-2026-10-30/",
+      "verificationStatus": "dated report reviewed; original practice, not official PYQ",
+      "currentAffairsDate": "2026-10-31"
+    },
+    {
+      "id": 6234,
+      "cat": "Current Affairs",
+      "topic": "Banking and financial reforms",
+      "q": "A high-level committee constituted by India's Finance Ministry on 30 October 2026 was reported to review which sector?",
+      "o": [
+        "Banking sector",
+        "Telecommunications sector",
+        "Agriculture marketing sector",
+        "Civil aviation sector"
+      ],
+      "a": 0,
+      "e": "Correct answer: A — Banking sector.\nKey points: Reuters reported on 30 October 2026 that the Finance Ministry had established a high-level committee to review India's banking sector and identify reforms that could help banks support economic growth and improve global competitiveness.\nWhy the other options are incorrect: The report specifically identifies banking; it does not describe a committee for telecom, agricultural marketing or civil aviation.\nExam takeaway: The reported purpose was to review and recommend banking reforms. The report did not specify membership, detailed terms of reference or a completion date.\nSource: Reuters, 30-10-2026 — https://www.reuters.com/world/india/india-constitutes-high-level-committee-banking-reforms-2026-10-30/",
+      "difficulty": "Medium",
+      "exam": "MPSC / Banking Awareness",
+      "source": "Dated current-affairs practice; Reuters report 30-10-2026",
+      "sourceURL": "https://www.reuters.com/world/india/india-constitutes-high-level-committee-banking-reforms-2026-10-30/",
+      "verificationStatus": "dated report reviewed; original practice, not official PYQ",
+      "currentAffairsDate": "2026-10-31"
+    },
+    {
+      "id": 6235,
+      "cat": "Current Affairs",
+      "topic": "World climate finance",
+      "q": "According to Reuters on 29 October 2026, the Green Climate Fund approved US$1.97 billion for how many projects at its latest board meeting?",
+      "o": [
+        "12",
+        "18",
+        "21",
+        "30"
+      ],
+      "a": 2,
+      "e": "Correct answer: C — 21 projects.\nKey points: Reuters reported that the Green Climate Fund approved US$1.97 billion across 21 projects. The approvals brought the fund's total 2026 funding to a reported record US$3.2 billion.\nWhy the other options are incorrect: The report gives 21 as the number of approved projects; 12, 18 and 30 are not the reported count.\nExam takeaway: The Green Climate Fund is a multilateral climate-finance mechanism that supports developing countries' climate action.\nSource: Reuters, 29-10-2026 — https://www.reuters.com/sustainability/cop/green-climate-fund-approves-record-near-2-billion-funding-2026-10-29/",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / Environment",
+      "source": "Dated current-affairs practice; Reuters report 29-10-2026",
+      "sourceURL": "https://www.reuters.com/sustainability/cop/green-climate-fund-approves-record-near-2-billion-funding-2026-10-29/",
+      "verificationStatus": "dated report reviewed; original practice, not official PYQ",
+      "currentAffairsDate": "2026-10-31"
+    },
+    {
+      "id": 6236,
+      "cat": "Arithmetic",
+      "topic": "Pipes and cisterns",
+      "q": "Pipe A can fill an empty tank in 8 hours, while Pipe B can empty the full tank in 12 hours. If both pipes are opened together when the tank is empty, how long will the tank take to fill?",
+      "o": [
+        "12 hours",
+        "18 hours",
+        "24 hours",
+        "48 hours"
+      ],
+      "a": 2,
+      "e": "Correct answer: C — 24 hours.\nKey points: Work rates are measured as fractions of one tank per hour. Pipe A fills 1/8 tank per hour; Pipe B empties 1/12 tank per hour, so its rate is negative.\nStep-by-step calculation:\n1. Net rate = 1/8 − 1/12.\n2. LCM of 8 and 12 is 24: 3/24 − 2/24 = 1/24 tank per hour.\n3. Time = 1 tank ÷ (1/24 tank per hour) = 24 hours.\nWhy the other options are incorrect: They do not equal the reciprocal of the net filling rate. Adding the two rates would be wrong because one pipe empties the tank.\nExam takeaway: For an inlet and outlet working together, add filling rates and subtract emptying rates. Keep the unit as tank/hour until the final time is calculated.\nSource: Original aptitude practice; independently checked using the standard work-rate method — https://ncert.nic.in/textbook.php",
+      "difficulty": "Medium",
+      "exam": "DSC LDA / MPSC / SSC",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "original practice; arithmetic independently checked"
+    },
+    {
+      "id": 6237,
+      "cat": "Arithmetic",
+      "topic": "Mixtures and weighted average",
+      "q": "A trader mixes 20 kg of rice costing ₹40 per kg with 30 kg costing ₹50 per kg. What is the average cost per kilogram of the mixture?",
+      "o": [
+        "₹44",
+        "₹45",
+        "₹46",
+        "₹48"
+      ],
+      "a": 2,
+      "e": "Correct answer: C — ₹46 per kg.\nKey points: The average cost is a weighted average because the two quantities are different. Multiply each quantity by its unit price, add the costs, and divide by the total quantity.\nStep-by-step calculation:\n1. Cost of first lot = 20 kg × ₹40/kg = ₹800.\n2. Cost of second lot = 30 kg × ₹50/kg = ₹1,500.\n3. Total cost = ₹800 + ₹1,500 = ₹2,300; total quantity = 20 + 30 = 50 kg.\n4. Average cost = ₹2,300 ÷ 50 kg = ₹46 per kg.\nWhy the other options are incorrect: ₹44, ₹45 and ₹48 do not equal the total weighted cost divided by the total 50 kg.\nExam takeaway: Do not take the simple average of ₹40 and ₹50 unless both quantities are equal. Use total cost ÷ total quantity.\nSource: Original quantitative-aptitude practice; calculation independently checked — https://ncert.nic.in/textbook.php",
+      "difficulty": "Medium",
+      "exam": "DSC LDA / MPSC / SSC",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "original practice; arithmetic independently checked"
+    },
+    {
+      "id": 6238,
+      "cat": "English",
+      "topic": "Subject-verb agreement",
+      "q": "Neither the clerk nor the officers ___ present during the inspection.",
+      "o": [
+        "was",
+        "were",
+        "is",
+        "has been"
+      ],
+      "a": 1,
+      "e": "Correct answer: B — were.\nKey points: In the correlative construction “neither … nor”, the verb commonly agrees with the nearer subject. Here the nearer subject is “the officers”, which is plural, so the plural verb “were” is used.\nWhy the other options are incorrect: “Was” and “is” are singular; “has been” is also singular and does not agree with the nearer plural subject.\nExam takeaway: With either/or and neither/nor, check the subject nearest to the verb. Avoid letting the first noun control the verb automatically.\nSource: Original grammar practice; see the British Council grammar reference — https://learnenglish.britishcouncil.org/grammar/english-grammar-reference",
+      "difficulty": "Medium",
+      "exam": "DSC LDA / MPSC / SSC",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference",
+      "verificationStatus": "original practice; grammar rule checked"
+    }
+  ]
+}

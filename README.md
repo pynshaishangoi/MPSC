@@ -21,3 +21,12 @@ Official MPSC material is the primary source for paper text, answer keys, notice
 
 ## Recent verified code change
 PR #14 was merged on 10 October 2026. Question cards now display `paperNo` when available and fall back to the question-bank ID for ordinary practice questions. This display change does not mean the 19 complete-paper transcriptions are finished.
+
+
+## Question counts and transcription status (31 October 2026)
+- The embedded question array contains **592 questions**.
+- The application loads four additive dated batches (11 Oct: 33; 12 Oct: 30; 30 Oct: 35; 30 Oct major: 32), for **130 additional unique questions** and an active baseline of **722**.
+- The 10 October archive contains 31 IDs that already exist in the embedded bank; it is not loaded by the application and must not be counted as additional questions.
+- The 31 October release adds 8 new questions (5 dated current-affairs items and 3 original practice questions), taking the expected active count to **730** after the branch is merged and the batch loads.
+- **LDA Secretariat May 2025, Series I:** questions 1–20 have been transcribed from the uploaded booklet with printed numbering and option order preserved. Their answers were checked against the MPSC final answer key dated 17 December 2025. The paper has 150 questions; 130 remain. The paper is **not complete**, and exact full-paper timed mode must remain disabled until all 150 are transcribed and verified.
+- The 31 October transcription audit is in `audit/pyq-transcription-2026-10-31.json`; the 31 October question batch and current-affairs feed are stored separately.
