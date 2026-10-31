@@ -6,14 +6,21 @@
     "activeUniqueQuestionRecords": 722
   },
   "additions": {
-    "newPracticeAndCurrentAffairsQuestions": 8,
+    "newPracticeAndCurrentAffairsQuestions": 10,
     "exactPYQsTranscribedAndAnswerKeyVerified": 20,
-    "datedCurrentAffairsStories": 5
+    "datedCurrentAffairsStories": 7,
+    "currentAffairsBreakdown": {
+      "Meghalaya": 3,
+      "India": 3,
+      "World": 1
+    }
   },
   "expectedAfterMerge": {
-    "activeUniqueQuestionRecords": 730,
+    "activeUniqueQuestionRecords": 732,
     "exactlyTranscribedQuestionsInLDASecretariatMay2025": 20,
-    "fullPaperCompletion": false
+    "fullPaperCompletion": false,
+    "newBatchQuestionCount": 10,
+    "currentAffairsStoryCount": 7
   },
   "validation": {
     "staticQuestionIdsUnique": true,
@@ -31,6 +38,7 @@
   "caveats": [
     "The 10 October batch contains 31 IDs already embedded in the static bank and is not loaded by the current app; do not count it as additive.",
     "The embedded question array contains 592 unique objects; raw regex counts across the full HTML include unrelated ID fields and should not be used as question counts.",
-    "The LDA Secretariat May 2025 Series I transcription is partial (20 of 150); exact full-paper mode remains disabled."
+    "The LDA Secretariat May 2025 Series I transcription is partial (20 of 150); exact full-paper mode remains disabled.",
+    "Follow-up uses the 30 October PIB Ministry of Finance release for the banking committee and adds the 24th PM-KISAN instalment plus the PIB Shillong Umiam programme."
   ]
 }
