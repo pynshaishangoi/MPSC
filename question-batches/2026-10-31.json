@@ -1,16 +1,16 @@
 {
   "date": "2026-10-31",
-  "questionCount": 8,
+  "questionCount": 10,
   "description": "Dated current-affairs MCQs plus original arithmetic and English practice for Meghalaya and India competitive examinations",
   "sourcePolicy": "Current-affairs questions are original practice based on dated reports; other items are original concept practice, not official PYQs.",
   "subjects": {
-    "Current Affairs": 5,
+    "Current Affairs": 7,
     "Arithmetic": 2,
     "English": 1
   },
   "questionIdRange": [
     6231,
-    6238
+    6240
   ],
   "questions": [
     {
@@ -85,12 +85,12 @@
         "Civil aviation sector"
       ],
       "a": 0,
-      "e": "Correct answer: A — Banking sector.\nKey points: Reuters reported on 30 October 2026 that the Finance Ministry had established a high-level committee to review India's banking sector and identify reforms that could help banks support economic growth and improve global competitiveness.\nWhy the other options are incorrect: The report specifically identifies banking; it does not describe a committee for telecom, agricultural marketing or civil aviation.\nExam takeaway: The reported purpose was to review and recommend banking reforms. The report did not specify membership, detailed terms of reference or a completion date.\nSource: Reuters, 30-10-2026 — https://www.reuters.com/world/india/india-constitutes-high-level-committee-banking-reforms-2026-10-30/",
+      "e": "Correct answer: A — Banking sector.\nKey points: The Ministry of Finance's PIB release dated 30 October 2026 confirms the constitution of the High Level Committee on Banking for Viksit Bharat. It is chaired by former Central Vigilance Commissioner Suresh N. Patel. Members include RBI Deputy Governor Shirish Chandra Murmu, former Indian Bank MD & CEO Padmaja Chunduru and former RBI Deputy Governor N. S. Vishwanathan; the Joint Secretary (Banking), Department of Financial Services, is Member Secretary. The committee's tenure is six months.\nWhy the other options are incorrect: The official release concerns India's banking sector, not telecommunications, agriculture marketing or civil aviation.\nExam takeaway: The committee is intended to review banking practices, regulatory and legal frameworks, capital requirements, priority-sector lending and the Lead Bank Scheme, and prepare a roadmap for AI and digital innovation with cyber-risk safeguards.\nSource: PIB, Ministry of Finance, 30-10-2026 — https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330598&lang=1&reg=3",
       "difficulty": "Medium",
       "exam": "MPSC / Banking Awareness",
-      "source": "Dated current-affairs practice; Reuters report 30-10-2026",
-      "sourceURL": "https://www.reuters.com/world/india/india-constitutes-high-level-committee-banking-reforms-2026-10-30/",
-      "verificationStatus": "dated report reviewed; original practice, not official PYQ",
+      "source": "Dated current-affairs practice; PIB Ministry of Finance release 30-10-2026",
+      "sourceURL": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330598&lang=1&reg=3",
+      "verificationStatus": "official PIB release reviewed; original practice, not official PYQ",
       "currentAffairsDate": "2026-10-31"
     },
     {
@@ -125,11 +125,11 @@
         "48 hours"
       ],
       "a": 2,
-      "e": "Correct answer: C — 24 hours.\nKey points: Work rates are measured as fractions of one tank per hour. Pipe A fills 1/8 tank per hour; Pipe B empties 1/12 tank per hour, so its rate is negative.\nStep-by-step calculation:\n1. Net rate = 1/8 − 1/12.\n2. LCM of 8 and 12 is 24: 3/24 − 2/24 = 1/24 tank per hour.\n3. Time = 1 tank ÷ (1/24 tank per hour) = 24 hours.\nWhy the other options are incorrect: They do not equal the reciprocal of the net filling rate. Adding the two rates would be wrong because one pipe empties the tank.\nExam takeaway: For an inlet and outlet working together, add filling rates and subtract emptying rates. Keep the unit as tank/hour until the final time is calculated.\nSource: Original aptitude practice; independently checked using the standard work-rate method — https://ncert.nic.in/textbook.php",
+      "e": "Correct answer: C — 24 hours.\nKey points: Work rates are measured as fractions of one tank per hour. Pipe A fills 1/8 tank per hour; Pipe B empties 1/12 tank per hour, so its rate is negative.\nStep-by-step calculation:\n1. Net rate = 1/8 − 1/12.\n2. LCM of 8 and 12 is 24: 3/24 − 2/24 = 1/24 tank per hour.\n3. Time = 1 tank ÷ (1/24 tank per hour) = 24 hours.\nWhy the other options are incorrect: They do not equal the reciprocal of the net filling rate. Adding the two rates would be wrong because one pipe empties the tank.\nExam takeaway: For an inlet and outlet working together, add filling rates and subtract emptying rates. Keep the unit as tank/hour until the final time is calculated.\nSource: Original aptitude practice; independently checked using the standard work-rate method; concept reference: SATHEE (IIT Kanpur) — https://sathee.iitk.ac.in/sathee-railway-exams/student-corner/topic-wise-practice/mathematics/time-work-pipes/",
       "difficulty": "Medium",
       "exam": "DSC LDA / MPSC / SSC",
       "source": "Original exam-style practice; not official PYQ",
-      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceURL": "https://sathee.iitk.ac.in/sathee-railway-exams/student-corner/topic-wise-practice/mathematics/time-work-pipes/",
       "verificationStatus": "original practice; arithmetic independently checked"
     },
     {
@@ -144,11 +144,11 @@
         "₹48"
       ],
       "a": 2,
-      "e": "Correct answer: C — ₹46 per kg.\nKey points: The average cost is a weighted average because the two quantities are different. Multiply each quantity by its unit price, add the costs, and divide by the total quantity.\nStep-by-step calculation:\n1. Cost of first lot = 20 kg × ₹40/kg = ₹800.\n2. Cost of second lot = 30 kg × ₹50/kg = ₹1,500.\n3. Total cost = ₹800 + ₹1,500 = ₹2,300; total quantity = 20 + 30 = 50 kg.\n4. Average cost = ₹2,300 ÷ 50 kg = ₹46 per kg.\nWhy the other options are incorrect: ₹44, ₹45 and ₹48 do not equal the total weighted cost divided by the total 50 kg.\nExam takeaway: Do not take the simple average of ₹40 and ₹50 unless both quantities are equal. Use total cost ÷ total quantity.\nSource: Original quantitative-aptitude practice; calculation independently checked — https://ncert.nic.in/textbook.php",
+      "e": "Correct answer: C — ₹46 per kg.\nKey points: The average cost is a weighted average because the two quantities are different. Multiply each quantity by its unit price, add the costs, and divide by the total quantity.\nStep-by-step calculation:\n1. Cost of first lot = 20 kg × ₹40/kg = ₹800.\n2. Cost of second lot = 30 kg × ₹50/kg = ₹1,500.\n3. Total cost = ₹800 + ₹1,500 = ₹2,300; total quantity = 20 + 30 = 50 kg.\n4. Average cost = ₹2,300 ÷ 50 kg = ₹46 per kg.\nWhy the other options are incorrect: ₹44, ₹45 and ₹48 do not equal the total weighted cost divided by the total 50 kg.\nExam takeaway: Do not take the simple average of ₹40 and ₹50 unless both quantities are equal. Use total cost ÷ total quantity.\nSource: Original quantitative-aptitude practice; calculation independently checked; concept reference: Cuemath weighted-average guide — https://www.cuemath.com/data/weighted-average/",
       "difficulty": "Medium",
       "exam": "DSC LDA / MPSC / SSC",
       "source": "Original exam-style practice; not official PYQ",
-      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceURL": "https://www.cuemath.com/data/weighted-average/",
       "verificationStatus": "original practice; arithmetic independently checked"
     },
     {
@@ -169,6 +169,46 @@
       "source": "Original exam-style practice; not official PYQ",
       "sourceURL": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference",
       "verificationStatus": "original practice; grammar rule checked"
+    },
+    {
+      "id": 6239,
+      "cat": "Current Affairs",
+      "topic": "Government schemes — PM-KISAN",
+      "q": "According to PIB on 30 October 2026, the 24th PM-KISAN instalment transferred over ₹18,690 crore to approximately how many farmers?",
+      "o": [
+        "7.34 crore",
+        "8.34 crore",
+        "9.34 crore",
+        "10.34 crore"
+      ],
+      "a": 2,
+      "e": "Correct answer: C — 9.34 crore farmers.\nKey points: The PIB release dated 30 October 2026 reports that over ₹18,690 crore was transferred to 9.34 crore eligible farmers under the 24th instalment of PM-KISAN. The scheme provides eligible farmer families ₹6,000 annually in three equal instalments of ₹2,000 through Direct Benefit Transfer.\nWhy the other options are incorrect: The official release gives 9.34 crore as the beneficiary count; 7.34, 8.34 and 10.34 crore are not the reported figures.\nExam takeaway: Remember the scheme's annual assistance (₹6,000), instalment amount (₹2,000), frequency (three instalments) and delivery method (DBT) separately from the number of beneficiaries in a particular release.\nSource: PIB, Ministry of Agriculture & Farmers Welfare, 30-10-2026 — https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330414&lang=1&reg=3",
+      "difficulty": "Easy",
+      "exam": "MPSC / UPSC / DSC / SSC",
+      "source": "Dated current-affairs practice; PIB release 30-10-2026",
+      "sourceURL": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330414&lang=1&reg=3",
+      "verificationStatus": "official PIB release reviewed; original practice, not official PYQ",
+      "currentAffairsDate": "2026-10-31"
+    },
+    {
+      "id": 6240,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya agriculture — ICAR NEH Region",
+      "q": "How many farmers from Ri-Bhoi district participated in the live-streaming programme at Umiam for the 24th PM-KISAN instalment on 30 October 2026?",
+      "o": [
+        "75",
+        "105",
+        "125",
+        "150"
+      ],
+      "a": 1,
+      "e": "Correct answer: B — 105 farmers.\nKey points: PIB Shillong reported that the ICAR Research Complex for the North Eastern Hill (NEH) Region at Umiam, in collaboration with the District Agriculture Office, Ri-Bhoi, organised a live-streaming programme for the 24th PM-KISAN instalment. A total of 105 farmers attended: 31 men and 74 women.\nWhy the other options are incorrect: 31 and 74 are the respective male and female participant counts, not the total; 75 and 150 are not reported totals.\nExam takeaway: The local event links a national DBT scheme with agricultural outreach by ICAR's NEH regional research institution at Umiam, Meghalaya.\nSource: PIB Shillong, 30-10-2026 — https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330541&lang=2&reg=48",
+      "difficulty": "Easy",
+      "exam": "MPSC / Meghalaya GK / DSC",
+      "source": "Dated current-affairs practice; PIB Shillong release 30-10-2026",
+      "sourceURL": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330541&lang=2&reg=48",
+      "verificationStatus": "official PIB Shillong release reviewed; original practice, not official PYQ",
+      "currentAffairsDate": "2026-10-31"
     }
   ]
 }
