@@ -81,7 +81,7 @@ for (const item of feed.items) {
 if (!sw.includes('./current-affairs/2026-11-01.json')) fail('service worker does not precache the 1 November current-affairs feed');
 for (const file of ['manifest.json', ...walkJson('question-batches'), ...walkJson('current-affairs'), ...walkJson('audit'), ...walkJson('data')]) jsonFile(file);
 
-const notesMatch = script.match(/const STUDY_NOTES=\[([\s\S]*?)\];\\s*function renderStudyNotes/);
+const notesMatch = script.match(/const STUDY_NOTES=\[([\s\S]*?)\];\s*function renderStudyNotes/);
 if (!notesMatch) fail('could not locate Study Notes library');
 const noteSource = notesMatch[1];
 const subjectCount = (noteSource.match(/\{id:'/g) || []).length;
