@@ -2,20 +2,50 @@
   "date": "2026-11-01",
   "baseline": {
     "embeddedQuestions": 592,
-    "loadedBatchQuestions": 140,
-    "activeUniqueQuestionRecords": 732,
+    "loadedBatchQuestions": 148,
+    "activeUniqueQuestionRecords": 740,
     "pyqTaggedItems": 67
   },
   "additions": {
-    "newQuestions": 8,
-    "questionIdRange": "6241-6248",
+    "newQuestions": 28,
+    "originalPracticeQuestions": 8,
+    "verifiedOfficialPYQs": 20,
+    "questionIdRanges": [
+      "6241-6248",
+      "2048-2067"
+    ],
+    "newLdaPaperQuestionNumbers": [
+      26,
+      29,
+      30,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67
+    ],
     "datedCurrentAffairsStories": 3,
     "studyNotesChapters": 2,
     "studyNotesKeyPoints": 9
   },
   "expectedAfterMerge": {
-    "activeUniqueQuestionRecords": 740,
-    "loadedBatchQuestions": 148,
+    "activeUniqueQuestionRecords": 760,
+    "loadedBatchQuestions": 168,
+    "pyqTaggedItems": 87,
+    "ldaSecretariatSeriesITranscribed": 67,
+    "ldaSecretariatSeriesIRemaining": 83,
     "studyNoteSubjects": 14,
     "studyNoteChapters": 34
   },
@@ -33,12 +63,21 @@
     "serviceWorkerPrecacheIncludesNewFiles": true,
     "serviceWorkerCacheVersionBumped": true,
     "localStorageKeyUnchanged": "mpscV4",
-    "timedMockAndExactPaperCompletenessGuardPreserved": true
+    "timedMockAndExactPaperCompletenessGuardPreserved": true,
+    "questionLoaderIncludesLdaPyqBatch": true,
+    "serviceWorkerPrecacheIncludesLdaPyqBatch": true,
+    "ldaSeriesIQuestionNumbersCompleteThrough67": true,
+    "ldaSeriesIAnswers1To67CheckedAgainstOfficialFinalKey": true,
+    "ldaSeriesIOriginalOptionsOrderPreserved": true,
+    "questionNumberMetadataAddedToExistingQ21To50": true,
+    "officialKeySourceAnomaliesFlaggedAtQ27AndQ30": true,
+    "exactPaperTimedModeRemainsDisabled": true
   },
   "caveats": [
     "The 10 October archive has 31 IDs already present in the embedded bank and remains excluded from the active loader and active count.",
-    "The embedded bank has 67 items tagged PYQ; this does not mean 67 complete papers are available.",
-    "LDA Secretariat May 2025 Series I remains partially transcribed: 20 of 150 questions. No new official PYQ was added in this run.",
+    "The active bank has 87 PYQ-tagged individual questions; this does not mean 87 complete papers are available.",
+    "The LDA Secretariat May 2025 Series I now has questions 1–67 transcribed and checked against the official final key; questions 68–150 remain.",
+    "Official final-key/source wording anomalies at Q27 and Q30 are retained and explicitly flagged.",
     "Current-affairs practice questions are original questions based on cited reports, not official PYQs.",
     "GitHub Pages deployment must be checked after merge; this audit records repository validation, not deployment success."
   ]
