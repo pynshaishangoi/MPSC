@@ -1,0 +1,167 @@
+{
+  "date": "2026-11-01",
+  "questionCount": 8,
+  "description": "Three source-linked current-affairs MCQs plus original practice for GST/Inspector of Taxes, arithmetic, reasoning, computer knowledge and English.",
+  "sourcePolicy": "Current-affairs items are original practice based on the dated sources shown. All other questions are original exam-style practice, not official PYQs.",
+  "subjects": {
+    "Current Affairs": 3,
+    "GST / Inspector of Taxes": 1,
+    "Arithmetic": 1,
+    "Reasoning": 1,
+    "Computer": 1,
+    "English": 1
+  },
+  "questionIdRange": "6241-6248",
+  "questions": [
+    {
+      "id": 6241,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya agriculture and millets",
+      "q": "According to the Meghalaya Government's release of 27 October 2026, which crop was revived in Khanduli and is locally called u Krae in Pnar?",
+      "o": [
+        "Finger millet",
+        "Paddy rice",
+        "Maize",
+        "Mustard"
+      ],
+      "a": 0,
+      "e": "Correct answer: A — Finger millet.\nThe Meghalaya Government reported that Khanduli village in West Jaintia Hills received recognition during the 139th Mann Ki Baat episode, aired on 25 October 2026. KVK Jaintia Hills has supported awareness, farmer training, field demonstrations and technical guidance since 2021. The release says participation grew from about 5–6 farmers cultivating less than 500 square metres to approximately 50–60 farmers cultivating around 10 hectares.\nExam takeaway: Remember the local name u Krae, the Pnar dialect, Khanduli in West Jaintia Hills and the role of Krishi Vigyan Kendra (KVK). These figures describe the reported initiative, not the entire district.\nSource: Meghalaya Government press release, 27-10-2026 — https://www.meghalaya.gov.in/press/content/52223",
+      "difficulty": "Medium",
+      "exam": "MPSC / Meghalaya GK / DSC LDA",
+      "source": "Dated current-affairs practice; Meghalaya Government release 27-10-2026",
+      "sourceURL": "https://www.meghalaya.gov.in/press/content/52223",
+      "verificationStatus": "official dated release reviewed; original practice, not official PYQ",
+      "currentAffairsDate": "2026-11-01"
+    },
+    {
+      "id": 6242,
+      "cat": "Current Affairs",
+      "topic": "Indian banking reforms",
+      "q": "Who was appointed chairperson of the High Level Committee on Banking for Viksit Bharat constituted by the Government of India on 30 October 2026?",
+      "o": [
+        "The RBI Governor",
+        "The Finance Secretary",
+        "Former Central Vigilance Commissioner Suresh N. Patel",
+        "The SEBI Chairperson"
+      ],
+      "a": 2,
+      "e": "Correct answer: C — Former Central Vigilance Commissioner Suresh N. Patel.\nThe Ministry of Finance's PIB release dated 30 October 2026 names Shri Suresh N. Patel as chairperson. The committee includes RBI Deputy Governor Shirish Chandra Murmu, former Indian Bank MD & CEO Padmaja Chunduru and former RBI Deputy Governor N. S. Vishwanathan. Its tenure is six months.\nExam takeaway: The committee will review banking practices, regulatory and legal frameworks, capital requirements, priority-sector lending, the Lead Bank Scheme and AI/digital innovation with cyber-risk safeguards.\nSource: PIB, Ministry of Finance, 30-10-2026 — https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330598&lang=1&reg=3",
+      "difficulty": "Medium",
+      "exam": "MPSC / SSC / Banking Awareness",
+      "source": "Dated current-affairs practice; PIB release 30-10-2026",
+      "sourceURL": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330598&lang=1&reg=3",
+      "verificationStatus": "official dated PIB release reviewed; original practice, not official PYQ",
+      "currentAffairsDate": "2026-11-01"
+    },
+    {
+      "id": 6243,
+      "cat": "Current Affairs",
+      "topic": "Global biodiversity governance",
+      "q": "The Yerevan Pathway adopted at COP17 is intended to accelerate action under which global framework for biodiversity?",
+      "o": [
+        "Paris Agreement",
+        "Kunming–Montreal Global Biodiversity Framework",
+        "Sendai Framework for Disaster Risk Reduction",
+        "Ramsar Convention"
+      ],
+      "a": 1,
+      "e": "Correct answer: B — Kunming–Montreal Global Biodiversity Framework (KMGBF).\nReuters reported on 31 October 2026 that governments at the UN Biodiversity Conference (COP17) in Yerevan adopted the Yerevan Pathway after the first global review of the framework. The agreed priorities include reducing harmful subsidies, increasing finance for developing countries and aligning national spending with biodiversity goals through 2030.\nExam takeaway: The KMGBF was adopted in 2022 and sets 23 targets for 2030. Its well-known 30-by-30 ambition is to conserve 30% of land and waters by 2030, alongside restoring degraded ecosystems.\nSource: Reuters, 31-10-2026 — https://www.reuters.com/sustainability/cop/countries-reach-cop17-deal-speed-up-biodiversity-action-money-still-short-2026-10-31/",
+      "difficulty": "Medium",
+      "exam": "MPSC / UPSC / Environment",
+      "source": "Dated current-affairs practice; Reuters report 31-10-2026",
+      "sourceURL": "https://www.reuters.com/sustainability/cop/countries-reach-cop17-deal-speed-up-biodiversity-action-money-still-short-2026-10-31/",
+      "verificationStatus": "dated Reuters report reviewed; original practice, not official PYQ",
+      "currentAffairsDate": "2026-11-01"
+    },
+    {
+      "id": 6244,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Return scrutiny and reconciliation",
+      "q": "A preliminary review shows a difference between outward-supply tax reported in GSTR-1 and GSTR-3B. What is the sound first step before drawing a conclusion?",
+      "o": [
+        "Treat the entire difference as confirmed tax evasion immediately",
+        "Reconcile the period-wise sales register, invoices, credit/debit notes and return amendments",
+        "Ignore the difference if both returns were filed",
+        "Compare only the taxpayer's bank balance"
+      ],
+      "a": 1,
+      "e": "Correct answer: B — Reconcile the period-wise records and return details.\nA return difference is a signal for examination, not by itself a final finding. First confirm the tax period and compare the sales register and tax invoices with GSTR-1 and the liability declared in GSTR-3B. Check credit notes, debit notes, amendments, timing differences, tax rates and classification.\nNext step: Record the exact transactions and evidence, then consider the taxpayer's explanation and the applicable provisions, rules, circulars and departmental procedure. Do not assume that every mismatch proves evasion or automatically establishes a demand.\nSource: Original Inspector of Taxes practice; general reconciliation workflow, not legal advice and not an official PYQ.",
+      "difficulty": "Medium",
+      "exam": "Inspector of Taxes / MPSC",
+      "source": "Original GST practice; not official PYQ",
+      "verificationStatus": "concept-checked as a general reconciliation workflow; verify current law and departmental SOP for live cases"
+    },
+    {
+      "id": 6245,
+      "cat": "Arithmetic",
+      "topic": "Discount",
+      "q": "A shop marks an item at ₹1,600 and offers a discount of 15%. What is the selling price before any tax?",
+      "o": [
+        "₹1,240",
+        "₹1,320",
+        "₹1,360",
+        "₹1,440"
+      ],
+      "a": 2,
+      "e": "Correct answer: C — ₹1,360.\nStep 1: Discount = 15% of ₹1,600 = (15 ÷ 100) × 1,600 = ₹240.\nStep 2: Selling price = Marked price − Discount = ₹1,600 − ₹240 = ₹1,360.\nQuick check: 10% is ₹160 and 5% is ₹80; together the discount is ₹240.\nExam takeaway: Calculate the discount on the marked price, then subtract it to obtain the selling price. The question asks for the price before tax.",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / MPSC / SSC",
+      "source": "Original quantitative-aptitude practice; not official PYQ",
+      "verificationStatus": "calculation independently checked"
+    },
+    {
+      "id": 6246,
+      "cat": "Reasoning",
+      "topic": "Classification and number properties",
+      "q": "Which number does not belong with the other three?",
+      "o": [
+        "8",
+        "27",
+        "64",
+        "100"
+      ],
+      "a": 3,
+      "e": "Correct answer: D — 100.\nThe first three numbers are perfect cubes: 8 = 2³, 27 = 3³ and 64 = 4³. The number 100 is not a perfect cube.\nExam takeaway: In classification questions, test a common mathematical property such as squares, cubes, factors, parity or digit pattern before selecting the odd item.",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC LDA / SSC",
+      "source": "Original reasoning practice; not official PYQ",
+      "verificationStatus": "concept-checked; original practice"
+    },
+    {
+      "id": 6247,
+      "cat": "Computer",
+      "topic": "Spreadsheet functions",
+      "q": "In Microsoft Excel, which formula returns the arithmetic mean of the values in cells B2 through B11?",
+      "o": [
+        "=SUM(B2:B11)",
+        "=COUNT(B2:B11)",
+        "=AVERAGE(B2:B11)",
+        "=MAX(B2:B11)"
+      ],
+      "a": 2,
+      "e": "Correct answer: C — =AVERAGE(B2:B11).\nAVERAGE calculates the arithmetic mean of the numeric values in the specified range. SUM adds the values, COUNT counts numeric cells, and MAX returns the largest value.\nExam takeaway: Remember common spreadsheet functions: SUM for total, AVERAGE for mean, COUNT for numeric entries, MIN for the smallest value and MAX for the largest value.",
+      "difficulty": "Easy",
+      "exam": "DSC LDA / MPSC / SSC",
+      "source": "Original computer-knowledge practice; not official PYQ",
+      "verificationStatus": "function behaviour checked; original practice"
+    },
+    {
+      "id": 6248,
+      "cat": "English",
+      "topic": "Adjective forms and word choice",
+      "q": "Select the correct word to complete the sentence: The officer gave a ___ summary of the inspection findings.",
+      "o": [
+        "concise",
+        "concisely",
+        "concision",
+        "conciseness"
+      ],
+      "a": 0,
+      "e": "Correct answer: A — concise.\n“Concise” is an adjective meaning brief but clear. It correctly modifies the noun “summary”. “Concisely” is an adverb, while “concision” and “conciseness” are nouns.\nExam takeaway: Identify the grammatical role required by the sentence. An adjective commonly modifies a noun; an adverb modifies a verb, adjective or another adverb.",
+      "difficulty": "Easy",
+      "exam": "MPSC / DSC LDA / SSC",
+      "source": "Original English-language practice; not official PYQ",
+      "verificationStatus": "grammar concept-checked; original practice"
+    }
+  ]
+}
