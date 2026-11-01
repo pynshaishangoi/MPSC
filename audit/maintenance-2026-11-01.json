@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-01",
+  "baseline": {
+    "embeddedQuestions": 592,
+    "loadedBatchQuestions": 140,
+    "activeUniqueQuestionRecords": 732,
+    "pyqTaggedItems": 67
+  },
+  "additions": {
+    "newQuestions": 8,
+    "questionIdRange": "6241-6248",
+    "datedCurrentAffairsStories": 3,
+    "studyNotesChapters": 2,
+    "studyNotesKeyPoints": 9
+  },
+  "expectedAfterMerge": {
+    "activeUniqueQuestionRecords": 740,
+    "loadedBatchQuestions": 148,
+    "studyNoteSubjects": 14,
+    "studyNoteChapters": 34
+  },
+  "validation": {
+    "questionIdsUniqueAgainstActiveBank": true,
+    "exactQuestionTextDuplicates": false,
+    "fourOptionsPerQuestion": true,
+    "answerIndicesInRange": true,
+    "explanationsAtLeast120Characters": true,
+    "sourceAndVerificationLabelsPresent": true,
+    "currentAffairsSourceLinksPresent": true,
+    "currentAffairsPublicationDatesChecked": true,
+    "studyNotesStructurePreserved": true,
+    "questionLoaderIncludesNewBatch": true,
+    "serviceWorkerPrecacheIncludesNewFiles": true,
+    "serviceWorkerCacheVersionBumped": true,
+    "localStorageKeyUnchanged": "mpscV4",
+    "timedMockAndExactPaperCompletenessGuardPreserved": true
+  },
+  "caveats": [
+    "The 10 October archive has 31 IDs already present in the embedded bank and remains excluded from the active loader and active count.",
+    "The embedded bank has 67 items tagged PYQ; this does not mean 67 complete papers are available.",
+    "LDA Secretariat May 2025 Series I remains partially transcribed: 20 of 150 questions. No new official PYQ was added in this run.",
+    "Current-affairs practice questions are original questions based on cited reports, not official PYQs.",
+    "GitHub Pages deployment must be checked after merge; this audit records repository validation, not deployment success."
+  ]
+}
