@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-01",
+  "title": "MPSC Smart Study Hub — Current Affairs",
+  "coverage": "Meghalaya, India and world",
+  "items": [
+    {
+      "id": "ca-2026-11-01-meghalaya-khanduli-millet",
+      "category": "Meghalaya",
+      "publishedDate": "2026-10-27",
+      "title": "Khanduli's finger-millet revival recognised in Mann Ki Baat",
+      "summary": "Khanduli village in West Jaintia Hills received recognition during the 139th Mann Ki Baat episode aired on 25 October 2026. The Meghalaya Government reports that KVK Jaintia Hills has supported revival of finger millet, locally called u Krae in Pnar, since 2021. Participation grew from about 5–6 farmers cultivating less than 500 square metres to around 50–60 farmers cultivating about 10 hectares.",
+      "examRelevance": "West Jaintia Hills, Pnar terminology, millets, Krishi Vigyan Kendras, agricultural extension, women farmers and rural enterprise.",
+      "sourceName": "Meghalaya Government — Information & Public Relations Department",
+      "sourceURL": "https://www.meghalaya.gov.in/press/content/52223",
+      "verificationStatus": "official dated press release reviewed"
+    },
+    {
+      "id": "ca-2026-11-01-india-banking-committee",
+      "category": "India",
+      "publishedDate": "2026-10-30",
+      "title": "High Level Committee on Banking for Viksit Bharat constituted",
+      "summary": "The Ministry of Finance constituted a six-month committee chaired by former Central Vigilance Commissioner Suresh N. Patel. Its terms include reviewing banking practices and regulatory frameworks, long-term capital needs, priority-sector lending, the Lead Bank Scheme and a roadmap for AI and digital innovation with cyber-risk safeguards.",
+      "examRelevance": "Ministry of Finance, Department of Financial Services, RBI, banking regulation, priority-sector lending and financial inclusion.",
+      "sourceName": "Press Information Bureau, Ministry of Finance",
+      "sourceURL": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2330598&lang=1&reg=3",
+      "verificationStatus": "official dated PIB release reviewed"
+    },
+    {
+      "id": "ca-2026-11-01-world-cop17-yerevan-pathway",
+      "category": "World",
+      "publishedDate": "2026-10-31",
+      "title": "COP17 governments adopt the Yerevan Pathway for biodiversity action",
+      "summary": "Governments at the UN Biodiversity Conference in Yerevan adopted the Yerevan Pathway after the first global review of the Kunming–Montreal Global Biodiversity Framework. The agreed priorities include reducing harmful subsidies, increasing finance for developing countries and aligning national spending with biodiversity goals through 2030. The review found the world off track on almost all targets.",
+      "examRelevance": "Convention on Biological Diversity, COP17, Kunming–Montreal Global Biodiversity Framework, biodiversity finance and the 2030 conservation targets.",
+      "sourceName": "Reuters",
+      "sourceURL": "https://www.reuters.com/sustainability/cop/countries-reach-cop17-deal-speed-up-biodiversity-action-money-still-short-2026-10-31/",
+      "verificationStatus": "dated Reuters report reviewed"
+    }
+  ]
+}
