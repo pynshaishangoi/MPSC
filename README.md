@@ -2,31 +2,36 @@
 
 GitHub-ready Meghalaya MPSC study website focused on LDA and officer-post preparation.
 
-## Current repository status
-- **592 questions** in the current question bank.
-- **67 questions** are tagged as PYQ items. These are individual PYQ questions/concepts, not 67 complete papers.
-- The daily practice batch is stored separately in `question-batches/2026-10-10.json`; its questions are labelled as original practice, not official PYQs.
+## Current repository status (1 November 2026)
+- **592 embedded questions** in the static question bank.
+- **67 items** are tagged as PYQ. These are individual tagged questions/concepts, not 67 complete papers.
+- The app loads six additive batches: 11 Oct (33), 12 Oct (30), 30 Oct (35), 30 Oct major (32), 31 Oct (10) and 1 Nov (8). This is **148 additional records**, giving an expected active total of **740 unique question records** after all six batches load.
+- The 10 October archive contains 31 IDs that already exist in the embedded bank; it is not loaded by the application and must not be counted as additional questions.
+- The Study Notes library contains **14 subjects and 34 chapters** after this update. Chapter summaries are revision aids, not a substitute for current official Acts, rules, syllabi or notifications.
 - The simulator supports original question-number display when a question has `paperNo`, and preserves ascending order when the selected pool contains one paper ID with numbered questions.
-- **Complete exact-paper status: not yet complete.** The current bank does not yet contain the full set of requested papers as separately identified, fully transcribed datasets with original numbering, complete options, answer-key verification, and explanations for every question. Do not treat PYQ-only practice as an exact original paper.
+- **Complete exact-paper status: not yet complete.** The LDA Secretariat May 2025 Series I transcription remains partial (20 of 150 questions). Exact full-paper timed mode must remain disabled until the complete paper, original numbering/options and official answer-key verification are all present.
+
+## Latest update — 1 November 2026
+- Added three dated current-affairs briefs: Khanduli finger-millet revival in West Jaintia Hills (Meghalaya Government, 27 Oct), the High Level Committee on Banking for Viksit Bharat (PIB, 30 Oct), and the COP17 Yerevan Pathway (Reuters, 31 Oct).
+- Added eight questions in `question-batches/2026-11-01.json`: three source-linked current-affairs questions and five clearly labelled original practice questions across GST/Inspector of Taxes, arithmetic, reasoning, computer knowledge and English.
+- Expanded Meghalaya GK notes with an agriculture/millets chapter and GST/Inspector of Taxes notes with an evidence-led return-review chapter.
+- Updated the question loader and service-worker precache; the cache is now `mpsc-smart-study-v5-21-20261101`.
+- Existing local progress remains under the same `mpscV4` storage key; no progress, bookmark, note or study-log schema was changed.
 
 ## Priorities still open
-1. Transcribe all 19 requested uploaded papers in original order and preserve printed question numbers and option order.
-2. Verify each answer against the relevant official MPSC answer key, recording the key/source and any ambiguity.
-3. Add detailed, question-specific explanations, including working for aptitude and mathematics.
-4. Add a paper selector and full-paper timed-test mode that only enables a paper when its completeness and answer verification have been checked.
-5. Test timing, scoring, unanswered questions, answer review, mobile layout, and question order before calling a paper complete.
+1. Transcribe the remaining 130 questions from the LDA Secretariat May 2025 Series I paper and other requested papers, preserving original order, printed numbering and option order.
+2. Verify each answer against the relevant official MPSC final answer key, recording the key/source and any ambiguity.
+3. Add detailed, question-specific explanations, including independently checked working for aptitude and mathematics.
+4. Enable exact-paper timed mode only when a paper's full question count, numbering, options and answer verification have been checked.
+5. Continue improving mock-test review, mobile usability, revision tools and topic analytics.
 
 ## Source policy
-Official MPSC material is the primary source for paper text, answer keys, notices, and syllabus changes. Genuine PYQs and original practice questions must remain clearly distinct. Use the official [Previous Year Questions](https://www.mpsc.meghalaya.gov.in/pyq.html), [Answer Keys](https://mpsc.meghalaya.gov.in/anskey.html), and [Answer-Key Notifications](https://mpsc.meghalaya.gov.in/notifications-ak.html) pages as the source of record.
+Official MPSC material is the primary source for paper text, answer keys, notices and syllabus changes. Genuine PYQs and original practice questions must remain clearly distinct. Use the official [Previous Year Questions](https://www.mpsc.meghalaya.gov.in/pyq.html), [Answer Keys](https://mpsc.meghalaya.gov.in/anskey.html) and [Answer-Key Notifications](https://mpsc.meghalaya.gov.in/notifications-ak.html) pages as the source of record.
 
-## Recent verified code change
-PR #14 was merged on 10 October 2026. Question cards now display `paperNo` when available and fall back to the question-bank ID for ordinary practice questions. This display change does not mean the 19 complete-paper transcriptions are finished.
+## Question-count method
+The active count is calculated from the 592 embedded question objects plus the six files explicitly loaded by the app. The 10 October archive is excluded because its 31 IDs duplicate embedded records and it is not in the loader. Do not use raw ID matches or archived batch totals as the active count.
 
-
-## Question counts and transcription status (31 October 2026)
-- The embedded question array contains **592 questions**.
-- The application loads four additive dated batches (11 Oct: 33; 12 Oct: 30; 30 Oct: 35; 30 Oct major: 32), for **130 additional unique questions** and an active baseline of **722**.
-- The 10 October archive contains 31 IDs that already exist in the embedded bank; it is not loaded by the application and must not be counted as additional questions.
-- The 31 October release adds 10 new questions (7 dated current-affairs items and 3 original practice questions), taking the expected active count to **732** after the branch is merged and the batch loads.
-- **LDA Secretariat May 2025, Series I:** questions 1–20 have been transcribed from the uploaded booklet with printed numbering and option order preserved. Their answers were checked against the MPSC final answer key dated 17 December 2025. The paper has 150 questions; 130 remain. The paper is **not complete**, and exact full-paper timed mode must remain disabled until all 150 are transcribed and verified.
-- The 31 October transcription audit is in `audit/pyq-transcription-2026-10-31.json`; the 31 October question batch and current-affairs feed are stored separately.
+## Audit trail
+- `audit/pyq-transcription-2026-10-31.json`: partial LDA Secretariat Series I transcription status.
+- `audit/maintenance-2026-10-31.json`: previous question-bank and validation baseline.
+- `audit/maintenance-2026-11-01.json`: this run's additions and validation results.
