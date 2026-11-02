@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-02",
+  "questionCount": 3,
+  "description": "Three original current-affairs practice questions based on dated PIB and international climate reporting. These are practice questions, not official PYQs.",
+  "sourcePolicy": "Original practice only. Meghalaya and India tax-devolution facts are checked against the official PIB release dated 31 October 2026. The cryosphere item is based on dated secondary reporting on UNEP–ICCI reports.",
+  "subjects": {
+    "Current Affairs": 3
+  },
+  "questionIdRange": "6249-6251",
+  "questions": [
+    {
+      "id": 6249,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya public finance",
+      "q": "According to the PIB release dated 31 October 2026, how much additional tax devolution was allocated to Meghalaya?",
+      "o": [
+        "₹615 crore",
+        "₹688 crore",
+        "₹699 crore",
+        "₹682 crore"
+      ],
+      "a": 1,
+      "e": "Correct answer: B — ₹688 crore.\nThe Ministry of Finance's PIB release dated 31 October 2026 lists Meghalaya's share as ₹688 crore in the additional instalment of tax devolution to States. This amount was released in addition to regular monthly devolution and is relevant to State finances and fiscal federalism.",
+      "source": "Original current-affairs practice question based on the PIB Ministry of Finance release dated 31-10-2026.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "sourceURL": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330997&lang=1&reg=3",
+      "verificationStatus": "Fact and state-wise amount checked against the official PIB release dated 31-10-2026."
+    },
+    {
+      "id": 6250,
+      "cat": "Current Affairs",
+      "topic": "Indian economy and fiscal federalism",
+      "q": "What was the total additional tax-devolution instalment released to State Governments on 31 October 2026?",
+      "o": [
+        "₹1,01,019 crore",
+        "₹1,09,019 crore",
+        "₹1,19,019 crore",
+        "₹1,90,019 crore"
+      ],
+      "a": 1,
+      "e": "Correct answer: B — ₹1,09,019 crore.\nThe Union Government released ₹1,09,019 crore as an additional instalment on 31 October 2026, over and above regular monthly devolution. PIB described it as the second additional instalment in the financial year, intended to support capital spending and development or welfare expenditure.",
+      "source": "Original current-affairs practice question based on the PIB Ministry of Finance release dated 31-10-2026.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "sourceURL": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330997&lang=1&reg=3",
+      "verificationStatus": "Total, date and purpose checked against the official PIB release dated 31-10-2026."
+    },
+    {
+      "id": 6251,
+      "cat": "Current Affairs",
+      "topic": "Environment and climate science",
+      "q": "The term 'cryosphere' refers to which part of the Earth system?",
+      "o": [
+        "All liquid ocean water",
+        "Water in its frozen form, including snow and ice",
+        "The gaseous layer surrounding Earth",
+        "The solid rocky part of Earth"
+      ],
+      "a": 1,
+      "e": "Correct answer: B — Water in its frozen form, including snow and ice.\nThe cryosphere includes glaciers, ice sheets, sea ice, snow cover and permafrost. A report discussed by The Guardian on 1 November 2026 warned that temporary warming overshoot above 1.5°C could cause long-lasting damage to these systems, with consequences for sea level and water security.",
+      "source": "Original current-affairs practice question based on dated reporting about the UNEP–ICCI cryosphere reports, published 01-11-2026.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "sourceURL": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn",
+      "verificationStatus": "Cryosphere definition and report context checked against the dated Guardian report published 01-11-2026; this is secondary reporting on UNEP–ICCI research."
+    }
+  ]
+}
