@@ -25,5 +25,12 @@
     "meghalayaAndIndiaCurrentAffairs": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330997&lang=1&reg=3",
     "worldCurrentAffairs": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn"
   },
-  "validation": "Notes update pending PR workflow and Pages deployment"
+  "validation": "Repository validation workflow succeeded (run 41383842870). GitHub Pages build and deployment succeeded for main commit d4cda669018a2d56967eca82da69c456f0d6a111 (run 41383841552).",
+  "deployment": {
+    "status": "success",
+    "commit": "d4cda669018a2d56967eca82da69c456f0d6a111",
+    "workflowRun": 41383841552,
+    "url": "https://pynshaishangoi.github.io/MPSC/"
+  },
+  "validationRun": 41383842870
 }
