@@ -5,7 +5,8 @@
     "Transcribed LDA Secretariat Series I printed questions 68–91 from the user-uploaded booklet.",
     "Checked all 24 new answers against the official MPSC final answer key dated 17-12-2025.",
     "Added three dated current-affairs items and three clearly labelled original practice questions.",
-    "Kept the LDA paper marked incomplete; exact 150-question mode remains disabled."
+    "Kept the LDA paper marked incomplete; exact 150-question mode remains disabled.",
+    "Added three exam-oriented Study Notes chapters on Meghalaya tax devolution, the Finance Commission and the cryosphere/climate overshoot."
   ],
   "counts": {
     "ldaSeriesITranscribed": 91,
@@ -14,7 +15,9 @@
     "newLdaPyqs": 24,
     "newCurrentAffairsPractice": 3,
     "activeUniqueQuestionRecords": 787,
-    "pyqTaggedActiveRecords": 111
+    "pyqTaggedActiveRecords": 111,
+    "studyNoteSubjects": 14,
+    "studyNoteChapters": 37
   },
   "sources": {
     "paper": "13092025[LDA {SECTT} MAY 2025].PDF; booklet serial 55S33",
@@ -22,5 +25,5 @@
     "meghalayaAndIndiaCurrentAffairs": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330997&lang=1&reg=3",
     "worldCurrentAffairs": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn"
   },
-  "validation": "Pending PR workflow and deployment"
+  "validation": "Notes update pending PR workflow and Pages deployment"
 }
