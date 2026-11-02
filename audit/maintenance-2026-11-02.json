@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-02",
+  "baseCommit": "59840f7b200e6df9338aec5d5bf82250beb20bff",
+  "changes": [
+    "Transcribed LDA Secretariat Series I printed questions 68–91 from the user-uploaded booklet.",
+    "Checked all 24 new answers against the official MPSC final answer key dated 17-12-2025.",
+    "Added three dated current-affairs items and three clearly labelled original practice questions.",
+    "Kept the LDA paper marked incomplete; exact 150-question mode remains disabled."
+  ],
+  "counts": {
+    "ldaSeriesITranscribed": 91,
+    "ldaSeriesITotal": 150,
+    "ldaSeriesIRemaining": 59,
+    "newLdaPyqs": 24,
+    "newCurrentAffairsPractice": 3,
+    "activeUniqueQuestionRecords": 787,
+    "pyqTaggedActiveRecords": 111
+  },
+  "sources": {
+    "paper": "13092025[LDA {SECTT} MAY 2025].PDF; booklet serial 55S33",
+    "officialAnswerKey": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf",
+    "meghalayaAndIndiaCurrentAffairs": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330997&lang=1&reg=3",
+    "worldCurrentAffairs": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn"
+  },
+  "validation": "Pending PR workflow and deployment"
+}
