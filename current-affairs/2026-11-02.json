@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-02",
+  "title": "MPSC Smart Study Hub — Current Affairs",
+  "coverage": "Meghalaya, India and world",
+  "items": [
+    {
+      "id": "ca-2026-11-02-meghalaya-tax-devolution",
+      "category": "Meghalaya",
+      "publishedDate": "2026-10-31",
+      "title": "Meghalaya receives ₹688 crore in additional tax devolution",
+      "summary": "The Ministry of Finance's PIB release dated 31 October 2026 lists ₹688 crore for Meghalaya in an additional ₹1,09,019-crore instalment of tax devolution to States. The instalment was released in addition to regular monthly devolution and is intended to help States accelerate capital spending and finance development or welfare expenditure.",
+      "examRelevance": "Meghalaya's share in Union tax devolution, fiscal federalism, State public finance and capital expenditure.",
+      "sourceName": "Press Information Bureau — Ministry of Finance, Government of India",
+      "sourceURL": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330997&lang=1&reg=3",
+      "verificationStatus": "official PIB release reviewed; dated 31-10-2026"
+    },
+    {
+      "id": "ca-2026-11-02-india-tax-devolution",
+      "category": "India",
+      "publishedDate": "2026-10-31",
+      "title": "Centre releases ₹1,09,019 crore as second additional tax-devolution instalment",
+      "summary": "The Union Government released an additional ₹1,09,019 crore to State Governments on 31 October 2026, over and above the regular monthly devolution. PIB identifies it as the second additional instalment in the financial year and says the release is intended to support capital spending and development or welfare-related expenditure.",
+      "examRelevance": "Tax devolution, Union–State fiscal relations, Finance Commission framework and public expenditure.",
+      "sourceName": "Press Information Bureau — Ministry of Finance, Government of India",
+      "sourceURL": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330997&lang=1&reg=3",
+      "verificationStatus": "official PIB release reviewed; dated 31-10-2026"
+    },
+    {
+      "id": "ca-2026-11-02-world-cryosphere-overshoot",
+      "category": "World",
+      "publishedDate": "2026-11-01",
+      "title": "UNEP–ICCI reports warn of long-lasting damage to the cryosphere from climate overshoot",
+      "summary": "Reporting published on 1 November 2026 describes UNEP- and International Cryosphere Climate Initiative-linked research warning that even a temporary overshoot of the Paris Agreement's 1.5°C warming threshold could cause persistent losses in glaciers, ice sheets, permafrost and polar oceans. The findings highlight risks to sea levels, mountain water security and climate systems; the report says deep emissions cuts are needed to limit the duration and scale of overshoot.",
+      "examRelevance": "Cryosphere, Paris Agreement, global warming, glaciers of the Hindu Kush Himalaya, sea-level rise and climate adaptation.",
+      "sourceName": "The Guardian — climate science reporting on UNEP–ICCI research",
+      "sourceURL": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn",
+      "verificationStatus": "dated secondary report reviewed; it identifies UNEP and ICCI as report partners"
+    }
+  ]
+}
