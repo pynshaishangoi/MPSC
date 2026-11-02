@@ -119,8 +119,8 @@ if (!notesMatch) fail('could not locate Study Notes library');
 const noteSource = notesMatch[1];
 const subjectCount = (noteSource.match(/\{id:'/g) || []).length;
 const chapterCount = (noteSource.match(/\['[^']+',\[/g) || []).length;
-if (subjectCount !== 14 || chapterCount !== 34) fail('Study Notes expected 14 subjects / 34 chapters, found ' + subjectCount + ' / ' + chapterCount);
-if (!noteSource.includes('Agriculture, millets & local livelihoods') || !noteSource.includes('Scrutiny and evidence-led return review')) fail('new Study Notes chapters are missing');
+if (subjectCount !== 14 || chapterCount !== 37) fail('Study Notes expected 14 subjects / 37 chapters, found ' + subjectCount + ' / ' + chapterCount);
+if (!noteSource.includes('Agriculture, millets & local livelihoods') || !noteSource.includes('Scrutiny and evidence-led return review') || !noteSource.includes('State finance & Union tax devolution') || !noteSource.includes('Finance Commission, tax devolution & grants') || !noteSource.includes('Cryosphere & climate overshoot')) fail('new Study Notes chapters are missing');
 if (!script.includes("const key='mpscV4'")) fail('local progress storage key changed unexpectedly');
 if (!script.includes('paperComplete===true') || !script.includes('paperTotal')) fail('exact-paper completeness safeguard is missing');
 
