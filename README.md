@@ -1,38 +1,58 @@
 # MPSC Smart Study Hub V5
 
-GitHub-ready Meghalaya MPSC study website focused on LDA and officer-post preparation.
+A mobile-friendly GitHub Pages study hub for Meghalaya competitive examinations. Priority tracks: MPSC Inspector of Taxes, MPSC Secretariat LDA and DSC East Khasi Hills LDA-cum-Typist.
 
-## Current repository status (1 November 2026)
-- **592 embedded questions** in the static question bank.
-- **87 items** are tagged as PYQ. These are individual questions, not 87 complete papers. The LDA Secretariat May 2025 Series I now has 67 transcribed questions (printed Q1–67), with 83 still outstanding.
-- The app loads seven additive batches: 11 Oct (33), 12 Oct (30), 30 Oct (35), 30 Oct major (32), 31 Oct (10), 1 Nov practice (8) and 1 Nov verified LDA PYQs (20). This is **168 additional records**, giving an expected active total of **760 unique question records** after all seven batches load.
-- The 10 October archive contains 31 IDs that already exist in the embedded bank; it is not loaded by the application and must not be counted as additional questions.
-- The Study Notes library contains **14 subjects and 34 chapters** after this update. Chapter summaries are revision aids, not a substitute for current official Acts, rules, syllabi or notifications.
-- The simulator supports original question-number display when a question has `paperNo`, and preserves ascending order when the selected pool contains one paper ID with numbered questions.
-- **Complete exact-paper status: not yet complete.** The LDA Secretariat May 2025 Series I transcription remains partial (67 of 150 questions). Questions 68–150 remain. Exact full-paper timed mode must remain disabled until the complete paper, original numbering/options and official answer-key verification are all present.
+## Verified repository snapshot — 3 November 2026
 
-## Latest update — 1 November 2026
-- Added three dated current-affairs briefs: Khanduli finger-millet revival in West Jaintia Hills (Meghalaya Government, 27 Oct), the High Level Committee on Banking for Viksit Bharat (PIB, 30 Oct), and the COP17 Yerevan Pathway (Reuters, 31 Oct).
-- Added eight questions in `question-batches/2026-11-01.json`: three source-linked current-affairs questions and five clearly labelled original practice questions across GST/Inspector of Taxes, arithmetic, reasoning, computer knowledge and English. Added 20 exact PYQs in `question-batches/2026-11-01-lda-pyq.json` for printed questions 26, 29, 30 and 51–67.
-- Expanded Meghalaya GK notes with an agriculture/millets chapter and GST/Inspector of Taxes notes with an evidence-led return-review chapter.
-- Updated the question loader and service-worker precache; the cache is now `mpsc-smart-study-v5-22-20261101`.
-- Existing local progress remains under the same `mpscV4` storage key; no progress, bookmark, note or study-log schema was changed.
+- **799 active unique question records**: 592 embedded questions plus 10 loaded batches, including today's 12 Polity practice questions.
+- **111 records tagged PYQ**. A PYQ tag is not the same as a complete paper.
+- **121 structured detailed explanations**: 47 History IDs and 74 Polity IDs. Other subjects still need systematic question-by-question enrichment; the coverage audit lists every active ID.
+- **Study Notes:** 14 subject libraries and 37 chapters.
+- **MPSC Secretariat LDA May 2025 recruitment-cycle Series I:** 91 of 150 questions transcribed and checked against the official final answer key dated 17 December 2025; 59 remain.
 
-## Priorities still open
-1. Transcribe the remaining 130 questions from the LDA Secretariat May 2025 Series I paper and other requested papers, preserving original order, printed numbering and option order.
-2. Verify each answer against the relevant official MPSC final answer key, recording the key/source and any ambiguity.
-3. Add detailed, question-specific explanations, including independently checked working for aptitude and mathematics.
-4. Enable exact-paper timed mode only when a paper's full question count, numbering, options and answer verification have been checked.
-5. Continue improving mock-test review, mobile usability, revision tools and topic analytics.
+## Evidence-led exam preparation
 
-## Source policy
-Official MPSC material is the primary source for paper text, answer keys, notices and syllabus changes. Genuine PYQs and original practice questions must remain clearly distinct. Use the official [Previous Year Questions](https://www.mpsc.meghalaya.gov.in/pyq.html), [Answer Keys](https://mpsc.meghalaya.gov.in/anskey.html) and [Answer-Key Notifications](https://mpsc.meghalaya.gov.in/notifications-ak.html) pages as the source of record.
+### MPSC Inspector of Taxes
 
-## Question-count method
-The active count is calculated from the 592 embedded question objects plus the seven files explicitly loaded by the app. The 10 October archive is excluded because its 31 IDs duplicate embedded records and it is not in the loader. Do not use raw ID matches or archived batch totals as the active count.
+The MPSC archive records recruitment to Inspector of Taxes under the Taxation Department in April 2017. An official MPSC result notice confirms that the screening test for that recruitment was held on 27 February 2021. The current MPSC syllabus and PYQ pages reviewed on 3 November 2026 do not list a current post-specific syllabus or question paper. This hub therefore does not claim a current official section split, marks distribution or topic weightage.
 
-## Audit trail
-- `audit/pyq-transcription-2026-10-31.json`: previous LDA Secretariat Series I transcription status.
-- `audit/pyq-transcription-2026-11-01.json`: updated verified coverage through printed question 67.
-- `audit/maintenance-2026-10-31.json`: previous question-bank and validation baseline.
-- `audit/maintenance-2026-11-01.json`: this run's additions and validation results.
+Provisional study coverage: English, Meghalaya and Indian General Awareness, arithmetic/reasoning, constitutional finance, public audit, GST and tax administration. Match the final plan to the next official advertisement and syllabus.
+
+### DSC East Khasi Hills LDA-cum-Typist
+
+Official district notices for the 2025–26 cycle record a written examination on 8 November 2025, a typing speed test on 9 December 2025 and a Khasi local-language paper on 17 January 2026. These notices confirm the stages, not a complete marks/section blueprint for a future cycle. Keep this track separate from the MPSC Secretariat LDA paper.
+
+Preparation coverage: English, arithmetic, general awareness, reasoning, computer basics, typing speed/accuracy and Khasi language where required by the next district notification.
+
+### MPSC Secretariat LDA — May 2025 recruitment cycle
+
+The Series I written paper was held on 13 September 2025. Its verified structure is 150 questions, 300 marks and 150 minutes: 75 General English plus 75 General Awareness & Aptitude. The hub holds all 75 English questions and the first 16 General Awareness questions (6 Science, 5 History, 5 Geography), for 91/150 total. Questions 92–150 remain to be transcribed and checked. The 16-question General Awareness sample is incomplete and must not be treated as the final section's topic distribution.
+
+## Question-bank composition (not exam-frequency data)
+
+Current subject counts: Polity 74; Meghalaya GK 58; English 145; History 47; Science 47; Economy 44; Geography 41; Aptitude 32; Environment 25; Officer Technical 17; Arithmetic 160; GST / Inspector of Taxes 15; General Science 8; Reasoning 35; Computer 10; Static GK 3; Current Affairs 38. These figures describe hub content, not official exam weightage.
+
+## Detailed explanations and learning tools
+
+The structured explanation libraries are explanations/history.json and explanations/polity.json. They are rendered in practice answers and mock review. The audit file audit/explanation-coverage-2026-11-03.json tracks coverage and remaining question IDs. The toolkit includes an evidence-led blueprint and clearly labels the 175-question mixed simulation as a hub-created practice test, not an official exam pattern.
+
+## Official source links
+
+- [MPSC official website](https://mpsc.meghalaya.gov.in/)
+- [MPSC syllabus](https://mpsc.meghalaya.gov.in/syllabus.html)
+- [MPSC previous-year questions](https://mpsc.meghalaya.gov.in/pyq.html)
+- [MPSC answer keys](https://mpsc.meghalaya.gov.in/anskey.html)
+- [East Khasi Hills DSC written-exam notice](https://eastkhasihills.gov.in/notice/notice-written-examination-for-the-post-of-lda-cum-typist-advertisement-no-dsc-127-dsc-ekh-advt-2024-64-dated-2nd-september-2025/)
+- [Constitution of India — Legislative Department](https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf)
+- [CAG constitutional provisions](https://www.cag.gov.in/en/pages/single/2)
+- [Election Commission of India](https://www.eci.gov.in/about-eci/)
+- [Finance Commission constitutional provisions](https://fincomindia.nic.in/constitutional-provisions)
+
+## Quality rules
+
+- Preserve official PYQ wording, option order, printed numbering and official answer-key mapping.
+- Label original questions as practice, never as PYQs.
+- Do not infer exam frequency from the size of question-bank categories.
+- Do not enable exact-paper mode until the complete paper, options and official key are verified.
+- Preserve the mpscV4 local progress key, bookmarks, notes and study logs.
+- Validate question IDs, four-option structure, answer indices, explanation coverage, loader paths, JSON, JavaScript and service-worker cache.
