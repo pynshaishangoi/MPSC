@@ -1,0 +1,240 @@
+{
+  "date": "2026-11-03",
+  "title": "Polity: constitutional institutions, local government and election procedures",
+  "questionCount": 12,
+  "questionIdRange": "7001-7012",
+  "subjects": {
+    "Polity": 12
+  },
+  "sourcePolicy": "All entries are original exam-style practice questions, not official PYQs.",
+  "questions": [
+    {
+      "id": 7001,
+      "cat": "Polity",
+      "topic": "Local government: Panchayat elections",
+      "q": "Which authority supervises, directs and controls the preparation of electoral rolls and conduct of elections to Panchayats under Article 243K?",
+      "o": [
+        "State Election Commission",
+        "Election Commission of India",
+        "Union Public Service Commission",
+        "State Finance Commission"
+      ],
+      "a": 0,
+      "e": "Article 243K vests the superintendence, direction and control of Panchayat elections in the State Election Commission. The Election Commission of India handles elections to Parliament, State Legislatures, President and Vice-President; local-body elections are assigned separately.",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/16124/1/the_constitution_of_india.pdf",
+      "verificationStatus": "Fact-checked against Article 243K; original practice question, not a PYQ.",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 7002,
+      "cat": "Polity",
+      "topic": "Local government: Municipal elections",
+      "q": "Which Article provides for the State Election Commission to supervise municipal elections?",
+      "o": [
+        "Article 243K",
+        "Article 243ZA",
+        "Article 324",
+        "Article 280"
+      ],
+      "a": 1,
+      "e": "Article 243ZA applies the State Election Commission framework to municipal elections. Article 243K deals with Panchayat elections, while Article 324 concerns the Election Commission of India and national/State constitutional elections.",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/16124/1/the_constitution_of_india.pdf",
+      "verificationStatus": "Fact-checked against Article 243ZA; original practice question, not a PYQ.",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 7003,
+      "cat": "Polity",
+      "topic": "Meghalaya constitutional provisions",
+      "q": "Which Article states that Part IX on Panchayats does not apply to Meghalaya, subject to the constitutional provisions for extension by Parliament?",
+      "o": [
+        "Article 243K",
+        "Article 243M",
+        "Article 243ZA",
+        "Article 280"
+      ],
+      "a": 1,
+      "e": "Article 243M contains special exclusions from Part IX, including Meghalaya, Nagaland and Mizoram. Parliament may extend Part IX to these States by law with modifications and exceptions. This is an important North-East constitutional distinction.",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/16124/1/the_constitution_of_india.pdf",
+      "verificationStatus": "Fact-checked against Article 243M; original practice question, not a PYQ.",
+      "difficulty": "Hard",
+      "exam": "MPSC / Meghalaya GK / DSC Practice"
+    },
+    {
+      "id": 7004,
+      "cat": "Polity",
+      "topic": "Finance Commission: reporting",
+      "q": "Under Article 281, what must the President cause to be laid before each House of Parliament?",
+      "o": [
+        "The Union Budget only",
+        "Finance Commission recommendations with an explanatory memorandum on action taken",
+        "CAG reports on State accounts only",
+        "The annual report of the Election Commission"
+      ],
+      "a": 1,
+      "e": "Article 281 requires the President to lay the Finance Commission's recommendations before each House of Parliament together with an explanatory memorandum as to the action taken. Article 280 establishes the Commission; Article 281 provides the reporting step.",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://fincomindia.nic.in/constitutional-provisions",
+      "verificationStatus": "Fact-checked against Article 281; original practice question, not a PYQ.",
+      "difficulty": "Medium",
+      "exam": "Inspector of Taxes / MPSC Practice"
+    },
+    {
+      "id": 7005,
+      "cat": "Polity",
+      "topic": "President: election method",
+      "q": "Which method is prescribed by Article 55(3) for the election of the President of India?",
+      "o": [
+        "First-past-the-post by direct public vote",
+        "Proportional representation by single transferable vote and secret ballot",
+        "Open voting by State Assemblies only",
+        "Nomination by Parliament"
+      ],
+      "a": 1,
+      "e": "Article 55(3) prescribes proportional representation by means of the single transferable vote, with voting by secret ballot. The President is elected indirectly by the electoral college described in Article 54.",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/16124/1/the_constitution_of_india.pdf",
+      "verificationStatus": "Fact-checked against Article 55(3); original practice question, not a PYQ.",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 7006,
+      "cat": "Polity",
+      "topic": "Vice-President: electoral college",
+      "q": "Who forms the electoral college for the election of the Vice-President of India?",
+      "o": [
+        "Elected MPs and elected MLAs",
+        "Members of both Houses of Parliament, elected and nominated",
+        "Only elected members of Lok Sabha",
+        "All members of State Legislative Assemblies"
+      ],
+      "a": 1,
+      "e": "Article 66 provides that the Vice-President is elected by members of both Houses of Parliament. The electoral college includes nominated as well as elected MPs; State MLAs do not participate. This differs from the President's electoral college.",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/16124/1/the_constitution_of_india.pdf",
+      "verificationStatus": "Fact-checked against Article 66; original practice question, not a PYQ.",
+      "difficulty": "Hard",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 7007,
+      "cat": "Polity",
+      "topic": "CAG: State audit reports",
+      "q": "Under Article 151, to whom are the CAG's reports relating to the accounts of a State submitted before being laid before the State Legislature?",
+      "o": [
+        "President of India",
+        "Governor of the State",
+        "Chief Minister",
+        "Speaker of Lok Sabha"
+      ],
+      "a": 1,
+      "e": "Article 151 states that State audit reports are submitted to the Governor, who causes them to be laid before the State Legislature. For Union accounts, reports go to the President and are laid before Parliament.",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.cag.gov.in/en/pages/single/2",
+      "verificationStatus": "Fact-checked against Article 151; original practice question, not a PYQ.",
+      "difficulty": "Medium",
+      "exam": "Inspector of Taxes / MPSC Practice"
+    },
+    {
+      "id": 7008,
+      "cat": "Polity",
+      "topic": "CAG: duties and powers",
+      "q": "Which Article provides that the CAG's duties and powers shall be prescribed by or under a law made by Parliament?",
+      "o": [
+        "Article 148",
+        "Article 149",
+        "Article 150",
+        "Article 151"
+      ],
+      "a": 1,
+      "e": "Article 149 provides the constitutional basis for the CAG's duties and powers in relation to Union, State and other prescribed accounts. Article 148 establishes the office, Article 150 concerns the form of accounts and Article 151 concerns audit reports.",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.cag.gov.in/en/pages/single/2",
+      "verificationStatus": "Fact-checked against Article 149; original practice question, not a PYQ.",
+      "difficulty": "Medium",
+      "exam": "Inspector of Taxes / MPSC Practice"
+    },
+    {
+      "id": 7009,
+      "cat": "Polity",
+      "topic": "Electoral system: adult suffrage",
+      "q": "Which Article provides that elections to the Lok Sabha and State Legislative Assemblies are based on adult suffrage?",
+      "o": [
+        "Article 324",
+        "Article 326",
+        "Article 368",
+        "Article 280"
+      ],
+      "a": 1,
+      "e": "Article 326 provides for elections to the Lok Sabha and State Legislative Assemblies on the basis of adult suffrage. The voting age is 18 years following the 61st Constitutional Amendment Act, 1988, subject to lawful disqualifications.",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/16124/1/the_constitution_of_india.pdf",
+      "verificationStatus": "Fact-checked against Article 326 and the 61st Amendment; original practice question, not a PYQ.",
+      "difficulty": "Medium",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 7010,
+      "cat": "Polity",
+      "topic": "Ordinances: President",
+      "q": "An Ordinance promulgated by the President under Article 123 ordinarily ceases to operate six weeks after:",
+      "o": [
+        "The date of promulgation",
+        "Parliament reassembles, calculated from the later reassembly date if the Houses meet on different dates",
+        "The next general election",
+        "The President's annual address"
+      ],
+      "a": 1,
+      "e": "Article 123 provides that an Ordinance must be laid before both Houses and ordinarily ceases six weeks after Parliament reassembles. If the Houses reassemble on different dates, the six-week period is counted from the later date. It may cease earlier if both Houses disapprove it or it is withdrawn.",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/16124/1/the_constitution_of_india.pdf",
+      "verificationStatus": "Fact-checked against Article 123(2); original practice question, not a PYQ.",
+      "difficulty": "Hard",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 7011,
+      "cat": "Polity",
+      "topic": "Ordinances: Governor",
+      "q": "A Governor's Ordinance under Article 213 ordinarily ceases to operate six weeks after:",
+      "o": [
+        "The Governor signs it",
+        "The State Legislature reassembles, calculated from the later date if the Houses meet on different dates",
+        "The next session of Parliament",
+        "The end of the financial year"
+      ],
+      "a": 1,
+      "e": "Article 213 requires the Ordinance to be laid before the State Legislature and provides that it ordinarily ceases six weeks after the Legislature reassembles. In a bicameral State, the later reassembly date is relevant when the Houses meet on different dates.",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/16124/1/the_constitution_of_india.pdf",
+      "verificationStatus": "Fact-checked against Article 213(2); original practice question, not a PYQ.",
+      "difficulty": "Hard",
+      "exam": "MPSC / DSC / SSC Practice"
+    },
+    {
+      "id": 7012,
+      "cat": "Polity",
+      "topic": "Vice-President: removal",
+      "q": "Which procedure is required to remove the Vice-President under Article 67(b)?",
+      "o": [
+        "Impeachment by both Houses with a two-thirds majority",
+        "Rajya Sabha resolution passed by a majority of all its then members and agreed to by Lok Sabha, after 14 days' notice",
+        "Removal by the President alone",
+        "A joint sitting of Parliament"
+      ],
+      "a": 1,
+      "e": "Article 67(b) requires a Rajya Sabha resolution passed by a majority of all the then members of that House and agreed to by the Lok Sabha. At least fourteen days' notice of the intention to move the resolution is required. This is not the President's impeachment procedure.",
+      "source": "Original exam-style practice; not official PYQ",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/16124/1/the_constitution_of_india.pdf",
+      "verificationStatus": "Fact-checked against Article 67(b); original practice question, not a PYQ.",
+      "difficulty": "Hard",
+      "exam": "MPSC / DSC / SSC Practice"
+    }
+  ]
+}
