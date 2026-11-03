@@ -3,8 +3,8 @@
   "method": "Active unique IDs are derived from the embedded question bank plus all loaded question batches and the 3 November Polity batch. Structured coverage counts only IDs in the detailed explanation libraries; inline short answer strings are not counted. The 3 November GKToday-inspired cross-subject practice batch is included in active IDs; new static-GS items are original questions, not copied PYQs.",
   "summary": {
     "activeUniqueQuestionRecords": 815,
-    "structuredExplanationQuestionIds": 121,
-    "structuredCoveragePercent": 14.8,
+    "structuredExplanationQuestionIds": 125,
+    "structuredCoveragePercent": 15.3,
     "pyqTaggedActiveRecords": 111
   },
   "subjects": [
@@ -626,8 +626,8 @@
     {
       "subject": "History",
       "activeQuestionCount": 49,
-      "detailedExplanationCount": 47,
-      "remainingCount": 2,
+      "detailedExplanationCount": 49,
+      "remainingCount": 0,
       "detailedQuestionIds": [
         31,
         32,
@@ -675,12 +675,11 @@
         6185,
         6186,
         6217,
-        6218
-      ],
-      "remainingQuestionIds": [
+        6218,
         7101,
         7102
-      ]
+      ],
+      "remainingQuestionIds": []
     },
     {
       "subject": "Meghalaya GK",
@@ -778,8 +777,8 @@
     {
       "subject": "Polity",
       "activeQuestionCount": 76,
-      "detailedExplanationCount": 74,
-      "remainingCount": 2,
+      "detailedExplanationCount": 76,
+      "remainingCount": 0,
       "detailedQuestionIds": [
         1,
         2,
@@ -854,12 +853,11 @@
         7009,
         7010,
         7011,
-        7012
-      ],
-      "remainingQuestionIds": [
+        7012,
         7105,
         7106
-      ]
+      ],
+      "remainingQuestionIds": []
     },
     {
       "subject": "Reasoning",
