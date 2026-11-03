@@ -134,7 +134,7 @@ const polityIds = active.filter(q => /^Polity/.test(q.cat)).map(q => String(q.id
 if (Object.keys(historyLibrary.explanations || {}).length !== historyIds.length || historyIds.some(id => !historyLibrary.explanations[id])) fail('History explanations do not cover every active History question ID');
 if (Object.keys(polityLibrary.explanations || {}).length !== polityIds.length || polityIds.some(id => !polityLibrary.explanations[id])) fail('Polity explanations do not cover every active Polity question ID');
 const coverageAudit = jsonFile('audit/explanation-coverage-2026-11-03.json');
-if (coverageAudit.summary.activeUniqueQuestionRecords !== 799 || coverageAudit.summary.structuredExplanationQuestionIds !== 121) fail('explanation coverage audit totals do not match');
+if (coverageAudit.summary.activeUniqueQuestionRecords !== 799 || coverageAudit.summary.structuredExplanationQuestionIds !== 125) fail('explanation coverage audit totals do not match');
 const examAudit = jsonFile('audit/exam-blueprint-2026-11-03.json');
 if (examAudit.date !== '2026-11-03' || examAudit.examTracks.length !== 3) fail('exam blueprint audit is incomplete');
 
