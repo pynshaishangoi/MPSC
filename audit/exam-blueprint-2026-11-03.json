@@ -35,7 +35,7 @@
       "verifiedEvidence": [
         {
           "fact": "MPSC recruitment advertisement for Inspector of Taxes under the Taxation Department is dated 26 April 2017.",
-          "source": "https://mpsc.meghalaya.gov.in/advt/Advt%2026%20April%202017x.pdf"
+          "source": "https://mpsc.meghalaya.gov.in/archives.html"
         },
         {
           "fact": "An official MPSC result notice confirms that the screening test for the April 2017 recruitment was held on 27 February 2021; the result notice is dated 21 October 2021.",
@@ -59,7 +59,21 @@
         "gstInspectorQuestions": 15,
         "examTaggedRecords": 11
       },
-      "confidence": "Historical recruitment and screening facts are confirmed; current syllabus and pattern are not verified. The preparation mix is provisional."
+      "confidence": "Historical recruitment and screening facts are confirmed; current syllabus and pattern are not verified. The preparation mix is provisional.",
+      "pagesReviewed": [
+        {
+          "label": "MPSC archives (historical Inspector of Taxes recruitment notices)",
+          "url": "https://mpsc.meghalaya.gov.in/archives.html"
+        },
+        {
+          "label": "MPSC syllabus index reviewed",
+          "url": "https://mpsc.meghalaya.gov.in/syllabus.html"
+        },
+        {
+          "label": "MPSC previous-year question index reviewed",
+          "url": "https://mpsc.meghalaya.gov.in/pyq.html"
+        }
+      ]
     },
     {
       "exam": "DSC East Khasi Hills LDA-cum-Typist",

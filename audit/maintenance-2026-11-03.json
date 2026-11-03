@@ -6,7 +6,9 @@
     "Added 12 original, source-checked Polity practice questions (IDs 7001–7012); none is labelled as a PYQ.",
     "Added an evidence-led exam blueprint separating MPSC Inspector of Taxes, DSC East Khasi Hills LDA-cum-Typist and MPSC Secretariat LDA.",
     "Corrected exam-mode descriptions so unverified section splits are not presented as official patterns.",
-    "Preserved original PYQ wording, options, paper numbering, official answer-key mappings and mpscV4 local progress."
+    "Preserved original PYQ wording, options, paper numbering, official answer-key mappings and mpscV4 local progress.",
+    "Refreshed constitutional explanation references to the Legislative Department's latest Constitution of India text published 23 December 2025 (as on November 2025).",
+    "Replaced the unverified direct Inspector of Taxes advertisement-file URL with the official MPSC archive page and recorded the syllabus/PYQ pages reviewed."
   ],
   "counts": {
     "embeddedQuestions": 592,
@@ -50,5 +52,10 @@
     "verifiedQuestionCount": 799,
     "verifiedPolityExplanationCount": 74,
     "verifiedStructuredExplanationIds": 121
+  },
+  "sourceRefresh": {
+    "constitutionOfIndia": "https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf",
+    "mpscArchive": "https://mpsc.meghalaya.gov.in/archives.html",
+    "reviewedOn": "2026-11-03"
   }
 }

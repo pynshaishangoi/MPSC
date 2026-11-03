@@ -43,7 +43,7 @@ The structured explanation libraries are explanations/history.json and explanati
 - [MPSC previous-year questions](https://mpsc.meghalaya.gov.in/pyq.html)
 - [MPSC answer keys](https://mpsc.meghalaya.gov.in/anskey.html)
 - [East Khasi Hills DSC written-exam notice](https://eastkhasihills.gov.in/notice/notice-written-examination-for-the-post-of-lda-cum-typist-advertisement-no-dsc-127-dsc-ekh-advt-2024-64-dated-2nd-september-2025/)
-- [Constitution of India — Legislative Department](https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf)
+- [Constitution of India — Legislative Department](https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf)
 - [CAG constitutional provisions](https://www.cag.gov.in/en/pages/single/2)
 - [Election Commission of India](https://www.eci.gov.in/about-eci/)
 - [Finance Commission constitutional provisions](https://fincomindia.nic.in/constitutional-provisions)
