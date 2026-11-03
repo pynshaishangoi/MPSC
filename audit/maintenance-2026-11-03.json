@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-03",
+  "baseCommit": "523010aa3fb56740153438da4c1d033bf6086c78",
+  "changes": [
+    "Added structured detailed explanations for all 62 previously active Polity IDs.",
+    "Added 12 original, source-checked Polity practice questions (IDs 7001–7012); none is labelled as a PYQ.",
+    "Added an evidence-led exam blueprint separating MPSC Inspector of Taxes, DSC East Khasi Hills LDA-cum-Typist and MPSC Secretariat LDA.",
+    "Corrected exam-mode descriptions so unverified section splits are not presented as official patterns.",
+    "Preserved original PYQ wording, options, paper numbering, official answer-key mappings and mpscV4 local progress."
+  ],
+  "counts": {
+    "embeddedQuestions": 592,
+    "loadedQuestionBatches": 10,
+    "activeUniqueQuestionRecords": 799,
+    "pyqTaggedActiveRecords": 111,
+    "historyDetailedExplanationIds": 47,
+    "polityDetailedExplanationIds": 74,
+    "structuredExplanationIds": 121,
+    "ldaSecretariatTranscribed": 91,
+    "ldaSecretariatTotal": 150,
+    "ldaSecretariatRemaining": 59,
+    "studyNoteSubjects": 14,
+    "studyNoteChapters": 37
+  },
+  "validation": "Pending branch validation workflow.",
+  "deployment": {
+    "status": "not_yet_verified",
+    "note": "Verify the main-branch Pages deployment after merge before claiming publication."
+  }
+}
