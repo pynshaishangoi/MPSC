@@ -22,9 +22,33 @@
     "studyNoteSubjects": 14,
     "studyNoteChapters": 37
   },
-  "validation": "Pending branch validation workflow.",
+  "validation": "GitHub Actions workflow 'Validate MPSC Study Hub' run 41573530789 completed successfully on PR #35. Preflight JavaScript syntax, JSON, active IDs, explanation coverage and cache checks also passed.",
   "deployment": {
-    "status": "not_yet_verified",
-    "note": "Verify the main-branch Pages deployment after merge before claiming publication."
+    "status": "not_independently_verified",
+    "note": "The repository's Pages deployment state could not be independently retrieved after the merge in this run. The merge and validation succeeded, but live publication is not claimed."
+  },
+  "pullRequest": {
+    "number": 35,
+    "url": "https://github.com/pynshaishangoi/MPSC/pull/35",
+    "merged": true,
+    "mergeCommit": "84322cb43e002060cc2b9fa39f1bfb39587b15bf",
+    "changedFiles": 9
+  },
+  "mainVerification": {
+    "mainBranchRefetched": true,
+    "verifiedFiles": [
+      "index.html",
+      "sw.js",
+      "README.md",
+      "explanations/polity.json",
+      "question-batches/2026-11-03-polity.json",
+      "audit/explanation-coverage-2026-11-03.json",
+      "audit/exam-blueprint-2026-11-03.json",
+      "audit/maintenance-2026-11-03.json",
+      "scripts/validate-repo.cjs"
+    ],
+    "verifiedQuestionCount": 799,
+    "verifiedPolityExplanationCount": 74,
+    "verifiedStructuredExplanationIds": 121
   }
 }
