@@ -1,10 +1,10 @@
 {
   "date": "2026-11-03",
-  "method": "Active unique IDs are derived from the embedded question bank plus all loaded question batches and the 3 November Polity batch. Structured coverage counts only IDs in the detailed explanation libraries; inline short answer strings are not counted.",
+  "method": "Active unique IDs are derived from the embedded question bank plus all loaded question batches and the 3 November Polity batch. Structured coverage counts only IDs in the detailed explanation libraries; inline short answer strings are not counted. The 3 November GKToday-inspired cross-subject practice batch is included in active IDs; new static-GS items are original questions, not copied PYQs.",
   "summary": {
-    "activeUniqueQuestionRecords": 799,
-    "structuredExplanationQuestionIds": 121,
-    "structuredCoveragePercent": 15.1,
+    "activeUniqueQuestionRecords": 815,
+    "structuredExplanationQuestionIds": 125,
+    "structuredCoveragePercent": 15.3,
     "pyqTaggedActiveRecords": 111
   },
   "subjects": [
@@ -220,9 +220,9 @@
     },
     {
       "subject": "Computer",
-      "activeQuestionCount": 10,
+      "activeQuestionCount": 11,
       "detailedExplanationCount": 0,
-      "remainingCount": 10,
+      "remainingCount": 11,
       "detailedQuestionIds": [],
       "remainingQuestionIds": [
         5036,
@@ -234,7 +234,8 @@
         6155,
         6195,
         6227,
-        6247
+        6247,
+        7114
       ]
     },
     {
@@ -286,9 +287,9 @@
     },
     {
       "subject": "Economy",
-      "activeQuestionCount": 44,
+      "activeQuestionCount": 46,
       "detailedExplanationCount": 0,
-      "remainingCount": 44,
+      "remainingCount": 46,
       "detailedQuestionIds": [],
       "remainingQuestionIds": [
         51,
@@ -334,7 +335,9 @@
         6192,
         6193,
         6224,
-        6225
+        6225,
+        7107,
+        7108
       ]
     },
     {
@@ -493,9 +496,9 @@
     },
     {
       "subject": "Environment",
-      "activeQuestionCount": 25,
+      "activeQuestionCount": 27,
       "detailedExplanationCount": 0,
-      "remainingCount": 25,
+      "remainingCount": 27,
       "detailedQuestionIds": [],
       "remainingQuestionIds": [
         81,
@@ -522,7 +525,9 @@
         6152,
         6153,
         6194,
-        6226
+        6226,
+        7109,
+        7110
       ]
     },
     {
@@ -568,9 +573,9 @@
     },
     {
       "subject": "Geography",
-      "activeQuestionCount": 41,
+      "activeQuestionCount": 43,
       "detailedExplanationCount": 0,
-      "remainingCount": 41,
+      "remainingCount": 43,
       "detailedQuestionIds": [],
       "remainingQuestionIds": [
         61,
@@ -613,13 +618,15 @@
         6187,
         6188,
         6219,
-        6220
+        6220,
+        7103,
+        7104
       ]
     },
     {
       "subject": "History",
-      "activeQuestionCount": 47,
-      "detailedExplanationCount": 47,
+      "activeQuestionCount": 49,
+      "detailedExplanationCount": 49,
       "remainingCount": 0,
       "detailedQuestionIds": [
         31,
@@ -668,7 +675,9 @@
         6185,
         6186,
         6217,
-        6218
+        6218,
+        7101,
+        7102
       ],
       "remainingQuestionIds": []
     },
@@ -767,8 +776,8 @@
     },
     {
       "subject": "Polity",
-      "activeQuestionCount": 74,
-      "detailedExplanationCount": 74,
+      "activeQuestionCount": 76,
+      "detailedExplanationCount": 76,
       "remainingCount": 0,
       "detailedQuestionIds": [
         1,
@@ -844,7 +853,9 @@
         7009,
         7010,
         7011,
-        7012
+        7012,
+        7105,
+        7106
       ],
       "remainingQuestionIds": []
     },
@@ -894,9 +905,9 @@
     },
     {
       "subject": "Science",
-      "activeQuestionCount": 47,
+      "activeQuestionCount": 49,
       "detailedExplanationCount": 0,
-      "remainingCount": 47,
+      "remainingCount": 49,
       "detailedQuestionIds": [],
       "remainingQuestionIds": [
         41,
@@ -945,7 +956,9 @@
         6191,
         6221,
         6222,
-        6223
+        6223,
+        7111,
+        7112
       ]
     },
     {
@@ -958,6 +971,36 @@
         5040,
         5091,
         5092
+      ]
+    },
+    {
+      "subject": "Art & Culture",
+      "activeQuestionCount": 1,
+      "detailedExplanationCount": 0,
+      "remainingCount": 1,
+      "detailedQuestionIds": [],
+      "remainingQuestionIds": [
+        7113
+      ]
+    },
+    {
+      "subject": "International Organisations",
+      "activeQuestionCount": 1,
+      "detailedExplanationCount": 0,
+      "remainingCount": 1,
+      "detailedQuestionIds": [],
+      "remainingQuestionIds": [
+        7115
+      ]
+    },
+    {
+      "subject": "Books & Authors",
+      "activeQuestionCount": 1,
+      "detailedExplanationCount": 0,
+      "remainingCount": 1,
+      "detailedQuestionIds": [],
+      "remainingQuestionIds": [
+        7116
       ]
     }
   ]

@@ -97,6 +97,13 @@ if (polityBatch.questions.length !== 12 || polityBatch.questionIdRange !== '7001
 for (const question of polityBatch.questions) {
   if (!question.e || question.e.length < 120 || !question.source || !question.sourceURL || !question.verificationStatus || question.difficulty === 'PYQ') fail('Polity practice question ' + question.id + ' needs an explanation, source and non-PYQ label');
 }
+const gkBatch = jsonFile('question-batches/2026-11-03-gktoday-gs.json');
+if (gkBatch.questions.length !== 16 || gkBatch.questionIdRange !== '7101-7116' || !gkBatch.subjects || Object.values(gkBatch.subjects).reduce((sum,value)=>sum+value,0)!==16) fail('GKToday-inspired GS batch count, ID range or subject totals are incorrect');
+for (const question of gkBatch.questions) {
+  if (!question.e || question.e.length < 120 || !question.source || !question.sourceURL || !question.sourceURL.startsWith('https://') || !question.verificationStatus || question.difficulty === 'PYQ') fail('GKToday-inspired question ' + question.id + ' needs a substantial explanation, source and non-PYQ verification label');
+}
+if (!script.includes("2026-11-03-gktoday-gs.json") || !sw.includes('./question-batches/2026-11-03-gktoday-gs.json')) fail('GKToday-inspired GS batch is not loaded and precached');
+if (!script.includes('x.sourceURL||x.sourceUrl')) fail('question source links are not rendered in explanations');
 const officialKey = {"1":"D","2":"B","3":"D","4":"A","5":"D","6":"B","7":"A","8":"D","9":"B","10":"C","11":"B","12":"C","13":"B","14":"D","15":"C","16":"D","17":"C","18":"A","19":"B","20":"C","21":"B","22":"D","23":"A","24":"B","25":"C","26":"C","27":"D","28":"D","29":"B","30":"D","31":"C","32":"D","33":"A","34":"B","35":"C","36":"A","37":"D","38":"A","39":"B","40":"C","41":"C","42":"B","43":"D","44":"C","45":"A","46":"A","47":"C","48":"A","49":"B","50":"D","51":"B","52":"B","53":"A","54":"A","55":"C","56":"A","57":"B","58":"A","59":"A","60":"C","61":"C","62":"A","63":"C","64":"D","65":"C","66":"B","67":"D","68":"C","69":"D","70":"D","71":"D","72":"B","73":"C","74":"C","75":"B","76":"D","77":"B","78":"C","79":"C","80":"D","81":"B","82":"B","83":"C","84":"C","85":"A","86":"C","87":"B","88":"B","89":"C","90":"C","91":"A"};
 const paperQuestions = active.filter(q => q.paperId === 'lda-secretariat-may-2025-series-i');
 if (paperQuestions.length !== 91 || new Set(paperQuestions.map(q=>q.paperNo)).size !== 91) fail('LDA Secretariat Series I must have 91 unique transcribed question numbers');
@@ -107,7 +114,7 @@ for (let number = 1; number <= 91; number++) {
 }
 if (!paperQuestions.find(q=>q.paperNo===27).o[3].includes('why IS she sketching')) fail('Q27 source/key anomaly must remain visible');
 if (!paperQuestions.find(q=>q.paperNo===30).verificationStatus.includes('unusual reporting verb')) fail('Q30 official-key anomaly must remain flagged');
-if (active.length !== 799 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
+if (active.length !== 815 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
 const feed = jsonFile('current-affairs/2026-11-02.json');
 if (feed.items.length !== 3 || new Set(feed.items.map(item => item.id)).size !== feed.items.length) fail('2 November current-affairs feed must contain three uniquely identified items');
 for (const item of feed.items) {
@@ -127,7 +134,7 @@ const polityIds = active.filter(q => /^Polity/.test(q.cat)).map(q => String(q.id
 if (Object.keys(historyLibrary.explanations || {}).length !== historyIds.length || historyIds.some(id => !historyLibrary.explanations[id])) fail('History explanations do not cover every active History question ID');
 if (Object.keys(polityLibrary.explanations || {}).length !== polityIds.length || polityIds.some(id => !polityLibrary.explanations[id])) fail('Polity explanations do not cover every active Polity question ID');
 const coverageAudit = jsonFile('audit/explanation-coverage-2026-11-03.json');
-if (coverageAudit.summary.activeUniqueQuestionRecords !== 799 || coverageAudit.summary.structuredExplanationQuestionIds !== 121) fail('explanation coverage audit totals do not match');
+if (coverageAudit.summary.activeUniqueQuestionRecords !== 815 || coverageAudit.summary.structuredExplanationQuestionIds !== 125) fail('explanation coverage audit totals do not match');
 const examAudit = jsonFile('audit/exam-blueprint-2026-11-03.json');
 if (examAudit.date !== '2026-11-03' || examAudit.examTracks.length !== 3) fail('exam blueprint audit is incomplete');
 
