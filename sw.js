@@ -1,4 +1,4 @@
-const CACHE="mpsc-smart-study-v5-27-20261103";
+const CACHE="mpsc-smart-study-v5-28-20261103";
 const ASSETS=["./","./index.html","./explanations/history.json","./explanations/polity.json","./manifest.json","./question-batches/2026-10-11.json","./question-batches/2026-10-12.json","./question-batches/2026-10-30.json","./question-batches/2026-10-30-major.json","./question-batches/2026-10-31.json","./current-affairs/2026-10-31.json","./current-affairs/2026-11-01.json","./question-batches/2026-11-01.json","./question-batches/2026-11-01-lda-pyq.json","./question-batches/2026-11-02-lda-pyq.json","./question-batches/2026-11-02.json","./question-batches/2026-11-03-polity.json","./current-affairs/2026-11-02.json"];
 self.addEventListener("install",e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting()))});
 self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
