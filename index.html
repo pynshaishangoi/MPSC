@@ -252,7 +252,7 @@ function subjectTopicMatches(q,item,index){
  if(rule&&rule.test(raw))return true;
  const topic=(q.topic||'').toLowerCase().replace(/[^a-z0-9 ]/g,' ');
  const label=item.topics[index].toLowerCase().replace(/[^a-z0-9 ]/g,' ');
- const terms=label.split(/\\s+/).filter(w=>w.length>4&&!['india','important','movements','personalities','practice','basics','topics'].includes(w));
+ const terms=label.split(/\s+/).filter(w=>w.length>4&&!['india','important','movements','personalities','practice','basics','topics'].includes(w));
  return terms.some(w=>topic.includes(w));
 }
 function renderSubjectLibrary(){
