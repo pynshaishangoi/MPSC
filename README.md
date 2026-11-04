@@ -6,7 +6,7 @@ A mobile-friendly GitHub Pages study hub for Meghalaya competitive examinations.
 
 - **821 active unique question records**: 592 embedded questions plus 12 loaded question batches.
 - **111 records tagged PYQ**. A PYQ tag is not the same as a complete paper.
-- **158 structured detailed explanations** across five libraries: 49 History, 76 Polity, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **19.2% of the active bank**; 663 active IDs still need structured library explanations. The audit lists every covered and remaining ID.
+- **178 structured detailed explanations** across six libraries: 49 History, 76 Polity, 20 English, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **21.7% of the active bank**; 643 active IDs still need structured library explanations. The English library currently covers active IDs 21–30 and 136–145; coverage is audited by ID. The audit lists every covered and remaining ID.
 - **Study Notes:** 14 subject libraries and 37 chapters.
 - **MPSC Secretariat LDA May 2025 recruitment-cycle Series I:** 91 of 150 questions transcribed and checked against the official final answer key dated 17 December 2025; 59 remain.
 
@@ -14,9 +14,11 @@ A mobile-friendly GitHub Pages study hub for Meghalaya competitive examinations.
 
 ### MPSC Inspector of Taxes
 
-The MPSC archive records historical recruitment to Inspector of Taxes under the Taxation Department. An official MPSC result notice confirms that the screening test for the April 2017 recruitment was held on 27 February 2021. The current MPSC syllabus, PYQ and answer-key indexes reviewed on 4 November 2026 do not provide a current post-specific written syllabus or a verified written-paper sample. The hub therefore does not claim a current section split, marks distribution or topic weightage.
+An official MPSC question booklet for **Inspector of Tax, Series III** confirms that the examination for the April 2017 recruitment was held on **27 February 2021**. The complete booklet contains **150 questions for 300 marks in 2½ hours**, with no negative marking stated: Part A General English (50 questions / 100 marks), Part B General Knowledge & Aptitude (50 / 100) and Part C Mathematics (50 / 100). Each question carries 2 marks. The booklet is linked below.
 
-Provisional study coverage: English, Meghalaya and Indian General Awareness, arithmetic/reasoning, constitutional finance, public audit, GST and tax administration. Match the final plan to the next official advertisement and syllabus.
+Observed English format in this one paper: 10 error-identification questions, 10 idioms/phrases, 10 word-meaning/synonym questions, 10 antonyms and 10 fill-in-the-blanks. Part B is split by printed numbering into 25 General Knowledge questions (51–75) and 25 Aptitude questions (76–100). Mathematics contains 50 quantitative problems, including speed/distance, ages and averages, simple/compound interest, number properties and series, mensuration, percentages, ratios, profit/loss, partnership and work/rate problems. These are **within-paper observations**, not recurring multi-year frequencies.
+
+The MPSC syllabus index reviewed on 4 November 2026 does not list a current post-specific Inspector of Taxes syllabus. No verified final answer key for the 2021 booklet was located in this review, so the hub does not attach unverified answer indices to it. The paper is one historical sample from the 2017 recruitment cycle, not a promise of the next pattern. Use the 50/50/50 structure as a historical timed-practice benchmark only; match future preparation to the next official advertisement and syllabus. GST, tax administration, constitutional finance and public audit remain useful role-related study, but the 2021 paper does not contain a separate technical GST section.
 
 ### DSC East Khasi Hills LDA-cum-Typist
 
@@ -86,12 +88,17 @@ The 3 November 2026 feed contains six dated items: Exercise Tiger Triumph, India
 - [MPSC official website](https://mpsc.meghalaya.gov.in/)
 - [MPSC syllabus](https://mpsc.meghalaya.gov.in/syllabus.html)
 - [MPSC previous-year questions](https://mpsc.meghalaya.gov.in/pyq.html)
+- [Official Inspector of Tax question booklet — Series III, 27 February 2021](https://mpsc.meghalaya.gov.in/misc/27022021IOT21.pdf)
 - [MPSC answer keys](https://mpsc.meghalaya.gov.in/anskey.html)
 - [East Khasi Hills DSC written-exam notice](https://eastkhasihills.gov.in/notice/notice-written-examination-for-the-post-of-lda-cum-typist-advertisement-no-dsc-127-dsc-ekh-advt-2024-64-dated-2nd-september-2025/)
 - [Constitution of India — Legislative Department](https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf)
 - [CBIC GST Acts and rules](https://cbic-gst.gov.in/)
 - [GST Portal](https://www.gst.gov.in/)
 - [GKToday GK questions and topic reference](https://www.gktoday.in/gk-questions/)
+- [GKToday vocabulary for competitive exams](https://www.gktoday.in/vocabulary-for-competitive-exams/)
+- [British Council reported speech](https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/reported-speech-statements)
+- [British Council active and passive voice](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/active-passive-voice)
+- [British Council articles: a, an and the](https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2-grammar/articles-a-an-the)
 - [CAG constitutional provisions](https://www.cag.gov.in/en/pages/single/2)
 - [Election Commission of India](https://www.eci.gov.in/about-eci/)
 - [Finance Commission constitutional provisions](https://fincomindia.nic.in/constitutional-provisions)

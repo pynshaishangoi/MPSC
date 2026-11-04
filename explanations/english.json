@@ -1,0 +1,356 @@
+{
+  "date": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "methodology": "Original structured explanations for 20 active English practice questions. Grammar rules are cross-checked against British Council LearnEnglish; vocabulary meanings are supported by Cambridge Dictionary and GKToday vocabulary references. Existing question wording, options and answer indices are not altered. These are teaching explanations, not new PYQs.",
+  "questionCount": 20,
+  "explanations": {
+    "21": {
+      "title": "Reported speech: present tense backshift",
+      "overview": "The correct indirect form is “He said that he was busy.” The reporting verb “said” is in the past, so the present form “am” normally moves back to “was”; the pronoun “I” changes to “he”.",
+      "context": "Direct speech repeats the speaker's exact words. Reported (indirect) speech tells another person what was said, so tense and pronouns are adjusted to the new reporting situation.",
+      "what": "For a past reporting verb, the usual exam pattern is present simple → past simple and present continuous → past continuous. Here: “I am busy” becomes “he was busy”. The subject pronoun changes because the original speaker is now being referred to in the third person.",
+      "why": "Option B preserves the meaning and makes both required changes. A keeps “I” even though the speaker is now “he”; C changes the reporting verb to “says” without matching the sentence; D leaves the present tense “is” despite the past reporting verb.",
+      "significance": "Backshift is the normal pattern in grammar exercises, but it is not compulsory if the statement is still true and the speaker wants to emphasise that fact. Always check the reporting verb and the current truth of the statement.",
+      "exam": "Memory aid: said + “I am …” → said that he/she was … . Also change time and place words only when the reporting situation requires it.",
+      "source": "British Council LearnEnglish — reported speech statements.",
+      "references": [
+        {
+          "label": "British Council: Reported speech — statements",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/reported-speech-statements"
+        }
+      ]
+    },
+    "22": {
+      "title": "Adjective–preposition collocation: good at",
+      "overview": "The accepted expression is “good at mathematics”. The adjective “good” is commonly followed by “at” when describing ability in a subject, activity or skill.",
+      "context": "English prepositions are often fixed by the word before them. They cannot always be selected by translating directly from another language.",
+      "what": "Use “good at” for ability: good at mathematics, good at typing, good at football. “Good for” usually means beneficial or suitable; “good in” can occur in other contexts, but it is not the standard collocation in this sentence.",
+      "why": "“At” links the adjective to the field in which the person has ability. “In”, “on” and “for” do not form the expected collocation here.",
+      "significance": "Learn common adjective–preposition pairs as complete units: interested in, afraid of, proud of, responsible for, capable of and good at.",
+      "exam": "Do not choose a preposition by meaning alone. Memorise the full phrase “good at + subject/skill”.",
+      "source": "British Council grammar reference; Cambridge English usage.",
+      "references": [
+        {
+          "label": "British Council: B1–B2 grammar reference",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2"
+        }
+      ]
+    },
+    "23": {
+      "title": "Synonym: rapid and swift",
+      "overview": "“Swift” is the closest synonym of “rapid”. Both words describe something that happens or moves quickly.",
+      "context": "A synonym is a word with a similar meaning, but the best choice must fit the context and grammatical use of the original word.",
+      "what": "Rapid commonly describes speed or a quick change: rapid growth, rapid movement or a rapid response. Swift has the same central idea of speed and is natural in expressions such as a swift reply or swift action.",
+      "why": "“Slow” is the opposite of rapid. “Weak” describes lack of strength, while “late” describes timing. Only “swift” matches the meaning of speed.",
+      "significance": "Synonym questions test precise meaning, not merely whether two words sound positive or negative. Read the whole sentence if one is supplied.",
+      "exam": "Memory pair: rapid = swift = fast. Antonym: slow.",
+      "source": "GKToday vocabulary reference and Cambridge Dictionary.",
+      "references": [
+        {
+          "label": "GKToday: Vocabulary for Competitive Exams",
+          "url": "https://www.gktoday.in/vocabulary-for-competitive-exams/"
+        },
+        {
+          "label": "Cambridge Dictionary: English definitions",
+          "url": "https://dictionary.cambridge.org/dictionary/english/"
+        }
+      ]
+    },
+    "24": {
+      "title": "Antonym: scarce and abundant",
+      "overview": "“Abundant” is the opposite of “scarce”. Scarce means insufficient or difficult to find; abundant means plentiful or available in large quantities.",
+      "context": "Antonyms are words with contrasting meanings. In a multiple-choice question, first identify whether the stem word expresses shortage, excess, size, quality or time.",
+      "what": "If water is scarce, there is too little of it. If water is abundant, there is plenty. “Rare” and “limited” are close in meaning to scarce, not its opposites.",
+      "why": "Option C reverses the meaning of scarce. The other choices—rare, limited and small—do not express plenty.",
+      "significance": "The distinction appears in general English and in economy/environment passages, for example scarce resources, abundant rainfall and limited supply.",
+      "exam": "Memory aid: scarce = shortage; abundant = plenty.",
+      "source": "GKToday vocabulary reference and Cambridge Dictionary.",
+      "references": [
+        {
+          "label": "GKToday: Vocabulary for Competitive Exams",
+          "url": "https://www.gktoday.in/vocabulary-for-competitive-exams/"
+        },
+        {
+          "label": "Cambridge Dictionary: English definitions",
+          "url": "https://dictionary.cambridge.org/dictionary/english/"
+        }
+      ]
+    },
+    "25": {
+      "title": "One-word substitution: ambidextrous",
+      "overview": "A person who can use both hands with similar skill is described as ambidextrous.",
+      "context": "One-word substitution questions compress a definition into a precise word. Prefixes and word roots can help identify the meaning.",
+      "what": "“Ambi-” means both or on both sides, while “dexter” is associated with the right hand or skill. Ambidextrous therefore describes someone able to use both hands effectively.",
+      "why": "“Ambiguous” means unclear or having more than one interpretation; “ambitious” means strongly aspiring to achieve something; “amphibious” relates to living or operating on land and in water.",
+      "significance": "Do not confuse words that share the opening letters. Identify the exact definition before selecting the option.",
+      "exam": "Memory aid: ambi = both; dextrous = skilled with the hands; ambidextrous = skilled with both hands.",
+      "source": "Cambridge Dictionary and standard English vocabulary references.",
+      "references": [
+        {
+          "label": "GKToday: Vocabulary for Competitive Exams",
+          "url": "https://www.gktoday.in/vocabulary-for-competitive-exams/"
+        },
+        {
+          "label": "Cambridge Dictionary: English definitions",
+          "url": "https://dictionary.cambridge.org/dictionary/english/"
+        }
+      ]
+    },
+    "26": {
+      "title": "Subject–verb agreement: neither of",
+      "overview": "In formal competitive-exam grammar, “neither” is treated as singular in this construction, so the corrected sentence is “Neither of the boys has completed his work.”",
+      "context": "The subject of the sentence is “neither”, not the plural noun “boys” inside the prepositional phrase “of the boys”. The verb must agree with the grammatical subject.",
+      "what": "Use a singular verb after “neither” when it means “not one and not the other”: Neither of the answers is correct; neither of the applicants has arrived. The plural noun after “of” does not control the verb in the formal rule.",
+      "why": "“Have completed” is the error because it is plural. “Has completed” agrees with the singular subject “neither”. The phrase “of the boys” only identifies the group from which neither is selected.",
+      "significance": "Some informal usage accepts plural agreement in certain contexts, but standard exam grammar generally expects singular agreement with “neither of”. Apply the formal rule in objective tests.",
+      "exam": "Quick test: remove the “of” phrase. “Neither has completed his work” shows the singular subject–verb relationship.",
+      "source": "British Council B1–B2 grammar reference; standard formal grammar.",
+      "references": [
+        {
+          "label": "British Council: B1–B2 grammar reference",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2"
+        }
+      ]
+    },
+    "27": {
+      "title": "Correct spelling: accommodation",
+      "overview": "The correct spelling is “accommodation”, with two c's and two m's.",
+      "context": "Spelling questions often test repeated consonants and unstressed syllables. The word is commonly misspelled because the repeated letters are not obvious from pronunciation.",
+      "what": "The standard spelling is a-c-c-o-m-m-o-d-a-t-i-o-n. It is a noun meaning a place to stay or an arrangement that meets a need.",
+      "why": "“Accomodation” has only one m; “Acommodation” has only one c; “Accommadation” changes the vowel. Only option B has the standard spelling.",
+      "significance": "The same double-c and double-m spelling appears in accommodation, accommodate and accommodating.",
+      "exam": "Memory aid: accommodation has double C and double M — remember “two rooms” only as a spelling cue, not as the word's definition.",
+      "source": "Cambridge Dictionary.",
+      "references": [
+        {
+          "label": "Cambridge Dictionary: accommodation",
+          "url": "https://dictionary.cambridge.org/dictionary/english/accommodation"
+        }
+      ]
+    },
+    "28": {
+      "title": "Idiom: call it a day",
+      "overview": "“To call it a day” means to stop working or stop an activity for the present, usually because enough has been done or it is time to finish.",
+      "context": "An idiom is a fixed expression whose meaning is not always the sum of its individual words. The phrase is used in ordinary speech and workplace contexts.",
+      "what": "Example: “We have checked all the files, so let us call it a day.” The speaker means that the work session should end, not that the day should be named or celebrated.",
+      "why": "“To stop working” matches the idiom. Naming a date, celebrating or postponing forever does not express the established meaning.",
+      "significance": "Idioms are best learned with a short example sentence. The surrounding context often reveals whether the expression means stopping, succeeding, failing or being in difficulty.",
+      "exam": "Memory aid: call it a day = finish for now.",
+      "source": "Cambridge Dictionary idiom reference.",
+      "references": [
+        {
+          "label": "Cambridge Dictionary: English idioms",
+          "url": "https://dictionary.cambridge.org/dictionary/english/"
+        }
+      ]
+    },
+    "29": {
+      "title": "Passive voice: past simple",
+      "overview": "The correct passive sentence is “The notice was issued by the officer.” The object of the active sentence becomes the subject of the passive sentence.",
+      "context": "Active voice highlights who performs an action. Passive voice highlights the person or thing affected by the action; it is common in official and administrative writing when the action or result matters.",
+      "what": "Active pattern: subject + past-tense verb + object. Passive pattern: object + was/were + past participle + (by + agent). Here, “the notice” becomes the subject and “issued” becomes “was issued”.",
+      "why": "Option B has the correct object-to-subject change and the past simple passive form “was issued”. The other options reverse the agent and object or use an incorrect tense/verb form.",
+      "significance": "The agent phrase “by the officer” can be omitted if the doer is unknown or unimportant. The passive still requires the correct form of “be” plus the past participle.",
+      "exam": "Formula: object + was/were + V3. Example: The letter was signed by the Superintendent.",
+      "source": "British Council LearnEnglish — active and passive voice.",
+      "references": [
+        {
+          "label": "British Council: Active and passive voice",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/active-passive-voice"
+        }
+      ]
+    },
+    "30": {
+      "title": "Article choice: an honest officer",
+      "overview": "Use “an” before “honest officer” because the h in “honest” is silent and the word begins with a vowel sound.",
+      "context": "The choice between “a” and “an” depends on the first sound of the next word, not simply its first written letter.",
+      "what": "Use “an” before a vowel sound: an honest person, an hour, an umbrella. Use “a” before a consonant sound: a university, a European country, a one-time event.",
+      "why": "Option B is correct because “honest” begins with a vowel sound. “A” is used before consonant sounds; “the” refers to a specific known person or thing; no article is not appropriate before this singular countable job noun.",
+      "significance": "This sound-based rule explains why “an hour” is correct but “a university” is correct even though university begins with the letter u.",
+      "exam": "Say the word aloud. Choose a/an by sound: an honest officer, but a humble officer only if the h is pronounced (as it is in humble).",
+      "source": "British Council LearnEnglish — articles.",
+      "references": [
+        {
+          "label": "British Council: Articles — a, an and the",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2-grammar/articles-a-an-the"
+        }
+      ]
+    },
+    "136": {
+      "title": "Synonym: abandon and forsake",
+      "overview": "“Forsake” is the closest synonym of “abandon”. Both can mean to leave, give up or stop supporting someone or something.",
+      "context": "Synonym questions may use words with overlapping meanings but different shades of tone. “Forsake” is often more formal or emotional than “abandon”.",
+      "what": "A person may abandon a plan, a building or a responsibility; a person may forsake a friend, a belief or a duty. In this question, the shared idea is leaving or giving up.",
+      "why": "“Collect”, “repair” and “increase” have meanings unrelated to leaving or giving up. “Forsake” directly matches the central meaning.",
+      "significance": "The correct synonym depends on the sense used. Abandon can also mean leave a place or stop an activity; forsake commonly stresses desertion or giving up support.",
+      "exam": "Memory pair: abandon = forsake = leave/give up. Check the sentence context when one is provided.",
+      "source": "GKToday vocabulary reference and Cambridge Dictionary.",
+      "references": [
+        {
+          "label": "GKToday: Vocabulary for Competitive Exams",
+          "url": "https://www.gktoday.in/vocabulary-for-competitive-exams/"
+        },
+        {
+          "label": "Cambridge Dictionary: English definitions",
+          "url": "https://dictionary.cambridge.org/dictionary/english/"
+        }
+      ]
+    },
+    "137": {
+      "title": "Antonym: ancient and modern",
+      "overview": "“Modern” is the opposite of “ancient”. Ancient refers to a very distant historical period; modern refers to the present or a comparatively recent period.",
+      "context": "The other options—old, historic and former—can all relate to the past, so they do not provide the required contrast.",
+      "what": "Examples: ancient civilisation versus modern society; ancient manuscript versus modern publication. The words describe contrasting periods or styles.",
+      "why": "“Modern” reverses the time meaning of ancient. “Old”, “historic” and “former” are not antonyms in this context.",
+      "significance": "In history questions, ancient, medieval, early modern and contemporary are period labels. Their boundaries can vary by syllabus, so follow the convention used by the textbook or exam.",
+      "exam": "Memory pair: ancient ↔ modern. Similar words for ancient: old, antique, very early.",
+      "source": "GKToday vocabulary reference and Cambridge Dictionary.",
+      "references": [
+        {
+          "label": "GKToday: Vocabulary for Competitive Exams",
+          "url": "https://www.gktoday.in/vocabulary-for-competitive-exams/"
+        },
+        {
+          "label": "Cambridge Dictionary: English definitions",
+          "url": "https://dictionary.cambridge.org/dictionary/english/"
+        }
+      ]
+    },
+    "138": {
+      "title": "Preposition after interested: interested in",
+      "overview": "The standard expression is “interested in music”. The adjective “interested” is followed by “in” when naming the subject or activity that attracts someone's attention.",
+      "context": "Many English adjectives take a conventional preposition. These combinations are collocations and are best learned as complete phrases.",
+      "what": "Examples: interested in science, interested in public service, interested in learning English. The preposition stays “in” even when the following noun changes.",
+      "why": "“On”, “at” and “for” do not form the standard adjective–preposition pair in this sentence. The correct phrase is “interested in”.",
+      "significance": "Compare related patterns: keen on music; fond of music; good at mathematics; responsible for a task. A different adjective may require a different preposition.",
+      "exam": "Memory aid: interested IN a subject; keen ON an activity; good AT a skill.",
+      "source": "British Council B1–B2 grammar reference; Cambridge English usage.",
+      "references": [
+        {
+          "label": "British Council: B1–B2 grammar reference",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2"
+        }
+      ]
+    },
+    "139": {
+      "title": "Neither…nor: agreement with the nearer subject",
+      "overview": "The correct verb is “were”: “Neither the teacher nor the students were absent.” With “neither…nor”, the verb normally agrees with the subject nearest to it in the standard proximity rule.",
+      "context": "The two subjects are “the teacher” (singular) and “the students” (plural). The second subject, “students”, is closest to the verb.",
+      "what": "When the nearer subject is plural, use a plural verb: Neither the teacher nor the students were absent. If the order is reversed, the nearer subject changes: Neither the students nor the teacher was absent.",
+      "why": "“Were” agrees with the nearer plural noun “students”. “Was” would not agree with that nearer subject; “is” is present tense and “has” does not fit the adjective “absent”.",
+      "significance": "For clarity, writers sometimes avoid a long neither…nor construction when the subjects have different numbers. In an objective grammar question, identify the nearer subject and select the matching verb.",
+      "exam": "Quick method: underline both subjects, circle the one nearest the verb, then match singular/plural and tense.",
+      "source": "British Council B1–B2 grammar reference; standard subject–verb agreement.",
+      "references": [
+        {
+          "label": "British Council: B1–B2 grammar reference",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2"
+        }
+      ]
+    },
+    "140": {
+      "title": "One-word substitution: optimist",
+      "overview": "An optimist is a person who tends to expect or see favourable outcomes and looks at the positive side of situations.",
+      "context": "One-word substitution questions test exact definitions. Similar-looking personality terms can be distinguished by their root meanings.",
+      "what": "An optimist expects a good result; a pessimist expects an unfavourable result. An egoist is chiefly concerned with personal interests, while an atheist does not believe in a god or gods.",
+      "why": "“Optimist” matches the definition in the question. The other options describe a negative outlook, self-centredness or a religious/philosophical position.",
+      "significance": "The opposite pair optimist/pessimist is common in vocabulary tests and reading passages.",
+      "exam": "Memory pair: optimist = positive expectation; pessimist = negative expectation.",
+      "source": "Cambridge Dictionary and GKToday vocabulary reference.",
+      "references": [
+        {
+          "label": "GKToday: Vocabulary for Competitive Exams",
+          "url": "https://www.gktoday.in/vocabulary-for-competitive-exams/"
+        },
+        {
+          "label": "Cambridge Dictionary: English definitions",
+          "url": "https://dictionary.cambridge.org/dictionary/english/"
+        }
+      ]
+    },
+    "141": {
+      "title": "Correct spelling: privilege",
+      "overview": "The correct spelling is “privilege”. It ends in “-lege”, not “-ledge”.",
+      "context": "This is a commonly misspelled word because its pronunciation can encourage an extra d sound in writing.",
+      "what": "Privilege is a noun meaning a special right, advantage or benefit available to a person or group. The standard spelling is p-r-i-v-i-l-e-g-e.",
+      "why": "“Privelege” omits the second i; “Priviledge” adds an incorrect d; “Privilage” changes the vowel. Option A is the only standard spelling.",
+      "significance": "The word may appear in passages about rights, public office, access and social advantage. A privilege is an advantage, not automatically a legal right for everyone.",
+      "exam": "Memory aid: privilege has no “d” before “ge”.",
+      "source": "Cambridge Dictionary.",
+      "references": [
+        {
+          "label": "Cambridge Dictionary: privilege",
+          "url": "https://dictionary.cambridge.org/dictionary/english/privilege"
+        }
+      ]
+    },
+    "142": {
+      "title": "Idiom: a blessing in disguise",
+      "overview": "“A blessing in disguise” is something that first appears bad or unfortunate but later produces an unexpected benefit.",
+      "context": "The phrase contrasts the first appearance of an event with its later result. The word “disguise” signals that the benefit is not immediately visible.",
+      "what": "Example: A missed bus may initially seem unfortunate, but if it prevents someone from travelling during a serious disruption, it may turn out to be a blessing in disguise.",
+      "why": "Option A captures the contrast between an apparently bad event and an eventual good outcome. A public celebration, hidden punishment or formal blessing does not express the idiom.",
+      "significance": "Do not confuse the idiom with “a mixed blessing”, which describes something with both advantages and disadvantages.",
+      "exam": "Memory aid: looks like a problem at first; turns out to help later.",
+      "source": "Cambridge Dictionary idiom reference.",
+      "references": [
+        {
+          "label": "Cambridge Dictionary: English idioms",
+          "url": "https://dictionary.cambridge.org/dictionary/english/"
+        }
+      ]
+    },
+    "143": {
+      "title": "Passive voice: committee approved the proposal",
+      "overview": "The correct passive form is “The proposal was approved by the committee.” The active object “the proposal” becomes the passive subject.",
+      "context": "The active sentence is in the simple past: “The committee approved the proposal.” The tense must remain simple past after conversion.",
+      "what": "Move the object to the front, use the past form of “be” (was, because proposal is singular), and use the past participle “approved”. Add “by the committee” if the agent is important.",
+      "why": "Option B preserves the original tense and meaning. The other options make the proposal perform the action, reverse the relationship, or use an incorrect verb form.",
+      "significance": "Passive voice is frequent in official records: The application was received; the notice was issued; the proposal was approved. It places focus on the action or object.",
+      "exam": "Formula: object + was/were + past participle + by + agent. Singular proposal → was approved.",
+      "source": "British Council LearnEnglish — active and passive voice.",
+      "references": [
+        {
+          "label": "British Council: Active and passive voice",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/active-passive-voice"
+        }
+      ]
+    },
+    "144": {
+      "title": "Reported speech: present perfect to past perfect",
+      "overview": "The correct indirect form is “She said that she had finished her work.” A past reporting verb normally backshifts the present perfect “have finished” to the past perfect “had finished”.",
+      "context": "Reported speech changes the original speaker's words to fit the reporting time and point of view. Pronouns and possessives may change as well as verb tense.",
+      "what": "Direct speech: “I have finished my work.” Reported after “she said”: she had finished her work. The present perfect becomes past perfect; “I” becomes “she”; “my” becomes “her”.",
+      "why": "Option B makes all three changes. A leaves the present perfect; C changes the reporting verb to “says” and does not preserve the given structure; D keeps the first-person pronoun “I”.",
+      "significance": "Backshift is the usual test rule. If the statement is still true or relevant, a speaker may sometimes retain the present perfect, but standard transformation questions normally expect the past perfect after “said”.",
+      "exam": "Memory aid: have/has + V3 → had + V3 after a past reporting verb. Example: “I have paid” → He said he had paid.",
+      "source": "British Council LearnEnglish — reported speech statements.",
+      "references": [
+        {
+          "label": "British Council: Reported speech — statements",
+          "url": "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/reported-speech-statements"
+        }
+      ]
+    },
+    "145": {
+      "title": "Vocabulary: meticulous",
+      "overview": "“Meticulous” means very careful and precise, with close attention to detail.",
+      "context": "The word often describes work, checking, planning or a person who notices small details and tries to avoid errors.",
+      "what": "Example: A meticulous tax officer checks dates, figures, supporting documents and statutory references before finalising a scrutiny note.",
+      "why": "“Very careful” is the closest option. “Careless” is the opposite; “angry” describes emotion; “rapid” describes speed rather than attention to detail.",
+      "significance": "Meticulous is not the same as merely slow. A meticulous person may work quickly, but accuracy and detail are the key ideas.",
+      "exam": "Memory aid: meticulous = careful down to the smallest detail.",
+      "source": "Cambridge Dictionary and GKToday vocabulary reference.",
+      "references": [
+        {
+          "label": "GKToday: Vocabulary for Competitive Exams",
+          "url": "https://www.gktoday.in/vocabulary-for-competitive-exams/"
+        },
+        {
+          "label": "Cambridge Dictionary: English definitions",
+          "url": "https://dictionary.cambridge.org/dictionary/english/"
+        }
+      ]
+    }
+  }
+}
