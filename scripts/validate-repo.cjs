@@ -186,9 +186,10 @@ if (!script.includes('mpscTopicPracticeSelectionV1') || !script.includes('functi
 const subjectLibraryMatch = script.match(/const SUBJECT_LIBRARY=(\[[\s\S]*?\]);\s*const STUDY_NOTES=/);
 if (!subjectLibraryMatch) fail('could not locate subject-topic library for filter tests');
 const subjectLibrary = vm.runInNewContext('(' + subjectLibraryMatch[1] + ')');
-const matcherMatch = script.match(/(function subjectTopicMatches\([\s\S]*?\n})\s*function renderSubjectLibrary/);
-if (!matcherMatch) fail('could not locate topic matcher for filter tests');
-const topicMatcher = vm.runInNewContext('(' + matcherMatch[1] + ')');
+const matcherStart = script.indexOf('function subjectTopicMatches(');
+const matcherEnd = script.indexOf('\\nfunction renderSubjectLibrary', matcherStart);
+if (matcherStart < 0 || matcherEnd < 0) fail('could not locate topic matcher for filter tests');
+const topicMatcher = vm.runInNewContext('(' + script.slice(matcherStart, matcherEnd) + ')');
 for (const subject of subjectLibrary) {
   if (!Array.isArray(subject.topics) || !subject.topics.length) fail('subject ' + subject.id + ' has no topic list');
   for (let i = 0; i < subject.topics.length; i++) for (const question of active) {
