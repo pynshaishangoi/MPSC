@@ -38,17 +38,19 @@
     {
       "id": "CA-2026-11-03-03",
       "category": "Science and technology / Meghalaya",
-      "headline": "India S&T Scoreboard lists Meghalaya with 1,144 research publications",
+      "headline": "NITI Aayog launches India S&T Scoreboard for States and UTs",
       "publishedDate": "2026-11-03",
-      "summary": "NITI Aayog's scoreboard integrates research, patents and innovation indicators. Meghalaya is listed 26th among 36 States/UTs for FY2024-25 research-publication count.",
+      "summary": "Launched on 3 November 2026 in New Delhi, the platform combines science-and-technology ecosystem data (higher-education institutions, R&D institutions, deep-tech startups and incubators) with outputs such as publications and patents. It adds research-quality, impact, collaboration and open-access indicators across Academia, Government R&D Labs and Industry, supporting State/UT benchmarking and evidence-based policy.",
       "examRelevance": [
         "NITI Aayog",
+        "Cooperative and competitive federalism",
         "Science and technology indicators",
-        "Meghalaya current affairs"
+        "Meghalaya State/UT profile"
       ],
-      "sourceName": "NITI Aayog — India S&T Scoreboard",
-      "sourceURL": "https://www.sts.niti.gov.in/index.html",
-      "verificationStatus": "Dashboard checked 4 November 2026; rank is for publication count only."
+      "sourceName": "Press Information Bureau, Government of India",
+      "sourceURL": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2332136",
+      "verificationStatus": "PIB release dated 3 November 2026 and NITI Aayog dashboard reviewed; no unverified Meghalaya ranking or state-level numeric claim included.",
+      "secondarySourceURL": "https://www.sts.niti.gov.in/index.html"
     },
     {
       "id": "CA-2026-11-03-04",

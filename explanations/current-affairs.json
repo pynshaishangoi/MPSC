@@ -43,17 +43,21 @@
       ]
     },
     "7139": {
-      "title": "India S&T Scoreboard: research, patents and innovation",
-      "overview": "NITI Aayog's India S&T Scoreboard integrates research publications, patent applications and the science-and-technology ecosystem across States and UTs.",
-      "context": "Publication and patent indicators use distinct source datasets; the dashboard also displays supporting institutions and ecosystem indicators.",
-      "who": "NITI Aayog hosts the scoreboard; Web of Science/InCites supports publication analysis and Clarivate DWPI supports patent analysis.",
-      "what": "FY2024-25: 223,005 Indian research publications and 62,934 patent applications. Meghalaya is listed with 1,144 publications, rank 26 among 36 States/UTs for this publication-count indicator.",
-      "why": "The data can help compare research output, but publication rank is not an overall innovation ranking.",
-      "significance": "Meghalaya: 1,144 publications; 26th in the State/UT publication count shown.",
-      "exam": "Read the indicator label carefully; counts and ecosystem measures have different methodologies. Checked 4 November 2026.",
-      "source": "NITI Aayog India S&T Scoreboard.",
-      "url": "https://www.sts.niti.gov.in/index.html",
+      "title": "India S&T Scoreboard: integrated State/UT benchmarking",
+      "overview": "NITI Aayog launched the India S&T Scoreboard on 3 November 2026. It provides an integrated view of the science-and-technology landscape across Indian States and Union Territories.",
+      "context": "Research and innovation data had been fragmented across sources. The scoreboard brings ecosystem and scientific-output data together to support evidence-based policymaking and cooperative and competitive federalism.",
+      "who": "NITI Aayog launched the platform in New Delhi. The official release identifies the scoreboard as a NITI Aayog initiative, with State/UT benchmarking as a key purpose.",
+      "what": "It combines ecosystem data—higher-education institutions, R&D institutions, deep-tech startups and incubators—with outputs such as research publications and patents. It also presents research-quality, impact, collaboration and open-access indicators across Academia, Government R&D Labs and Industry.",
+      "why": "States need comparable, accessible evidence to identify strengths and gaps, learn from one another and design more effective science-and-technology programmes.",
+      "significance": "The platform supports state-level planning, institutional capacity-building and a broader view of innovation than publication or patent volume alone.",
+      "exam": "Remember the three sectors: Academia, Government R&D Labs and Industry. NITI Aayog is the nodal body. The scoreboard is not a DST-only or Ministry of Earth Sciences initiative, and it is not limited to counting publications.",
+      "source": "Press Information Bureau, Government of India; NITI Aayog dashboard",
+      "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2332136",
       "references": [
+        {
+          "label": "PIB: Launch of India S&T Scoreboard, 3 November 2026",
+          "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2332136"
+        },
         {
           "label": "NITI Aayog: India S&T Scoreboard",
           "url": "https://www.sts.niti.gov.in/index.html"
