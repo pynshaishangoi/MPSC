@@ -183,6 +183,23 @@ if (subjectCount !== 14 || chapterCount !== 37) fail('Study Notes expected 14 su
 if (!noteSource.includes('Agriculture, millets & local livelihoods') || !noteSource.includes('Scrutiny and evidence-led return review') || !noteSource.includes('State finance & Union tax devolution') || !noteSource.includes('Finance Commission, tax devolution & grants') || !noteSource.includes('Cryosphere & climate overshoot')) fail('new Study Notes chapters are missing');
 if (!script.includes("const key='mpscV4'")) fail('local progress storage key changed unexpectedly');
 if (!script.includes('mpscTopicPracticeSelectionV1') || !script.includes('function subjectTopicMatches') || !script.includes('ACTIVE_SUBJECT_PRACTICE')) fail('topic-specific practice selection is missing');
+const subjectLibraryMatch = script.match(/const SUBJECT_LIBRARY=(\\[[\\s\\S]*?\\]);\\s*const STUDY_NOTES=/);
+if (!subjectLibraryMatch) fail('could not locate subject-topic library for filter tests');
+const subjectLibrary = vm.runInNewContext('(' + subjectLibraryMatch[1] + ')');
+const matcherMatch = script.match(/(function subjectTopicMatches\\([\\s\\S]*?\\n})\\s*function renderSubjectLibrary/);
+if (!matcherMatch) fail('could not locate topic matcher for filter tests');
+const topicMatcher = vm.runInNewContext('(' + matcherMatch[1] + ')');
+for (const subject of subjectLibrary) {
+  if (!Array.isArray(subject.topics) || !subject.topics.length) fail('subject ' + subject.id + ' has no topic list');
+  for (let i = 0; i < subject.topics.length; i++) for (const question of active) {
+    if (typeof topicMatcher(question, subject, i) !== 'boolean') fail('invalid topic match result for ' + subject.id + ' / ' + subject.topics[i]);
+  }
+}
+const historyTopics = subjectLibrary.find(x => x.id === 'indian-history');
+const ancientIds = active.filter(q => q.cat === 'History' && topicMatcher(q, historyTopics, 0)).map(q => String(q.id));
+const modernIds = active.filter(q => q.cat === 'History' && topicMatcher(q, historyTopics, 3)).map(q => String(q.id));
+if (!ancientIds.length || !modernIds.length || ancientIds.some(id => modernIds.includes(id))) fail('Ancient and Modern History filters must return distinct, non-overlapping question sets');
+
 if (!script.includes('paperComplete===true') || !script.includes('paperTotal')) fail('exact-paper completeness safeguard is missing');
 
 console.log('Validation passed.');
