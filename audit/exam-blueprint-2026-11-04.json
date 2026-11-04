@@ -11,26 +11,28 @@
     "subjectCounts": {
       "Aptitude": 32,
       "Arithmetic": 160,
-      "Computer": 12,
+      "Art & Culture": 1,
+      "Books & Authors": 1,
+      "Computer": 11,
       "Current Affairs": 44,
-      "Economy": 48,
+      "Economy": 46,
       "English": 145,
-      "Environment": 29,
-      "GST / Inspector of Taxes": 30,
+      "Environment": 27,
       "General Science": 10,
-      "Geography": 45,
+      "Geography": 43,
+      "GST / Inspector of Taxes": 15,
       "History": 49,
+      "International Organisations": 1,
       "Meghalaya GK": 58,
       "Officer Technical": 17,
       "Polity": 76,
       "Reasoning": 35,
-      "Science": 49,
-      "Static GK": 3,
-      "Art & Culture": 2,
-      "International Organisations": 2,
-      "Books & Authors": 2
+      "Science": 47,
+      "Static GK": 3
     },
-    "warning": "These are hub inventory counts, not official exam-frequency statistics."
+    "warning": "These are hub inventory counts, not official exam-frequency statistics.",
+    "activeQuestionBatchCount": 12,
+    "subjectCountSum": 821
   },
   "examTracks": [
     {
@@ -223,5 +225,12 @@
     "sourceDate": "2026-11-03",
     "checkedOn": "2026-11-04",
     "note": "Includes Meghalaya research-publication indicator; rank is for publication count only."
+  },
+  "deduplication": {
+    "activeLoadedQuestionIdsUnique": true,
+    "activeLoadedBatchCount": 12,
+    "orphanBatchRemoved": "question-batches/2026-10-10.json",
+    "orphanBatchRecordsRemoved": 31,
+    "reason": "The orphan file was not referenced by index.html and contained 31 question IDs (5101–5131) duplicated by loaded active question batches. Removing it prevents misleading duplicate records in repository-wide review."
   }
 }

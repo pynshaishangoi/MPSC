@@ -119,6 +119,18 @@ for (let number = 1; number <= 91; number++) {
 if (!paperQuestions.find(q=>q.paperNo===27).o[3].includes('why IS she sketching')) fail('Q27 source/key anomaly must remain visible');
 if (!paperQuestions.find(q=>q.paperNo===30).verificationStatus.includes('unusual reporting verb')) fail('Q30 official-key anomaly must remain flagged');
 if (active.length !== 821 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
+if (batchFiles.length !== 12) fail('expected exactly 12 loaded question batches');
+const orphanBatchFiles = walkJson('question-batches').map(file => path.basename(file)).filter(name => !batchFiles.includes(name));
+if (orphanBatchFiles.length) fail('orphaned question-batch files are not loaded: ' + orphanBatchFiles.join(', '));
+const expectedSubjectCounts = {"Aptitude":32,"Arithmetic":160,"Art & Culture":1,"Books & Authors":1,"Computer":11,"Current Affairs":44,"Economy":46,"English":145,"Environment":27,"General Science":10,"Geography":43,"GST / Inspector of Taxes":15,"History":49,"International Organisations":1,"Meghalaya GK":58,"Officer Technical":17,"Polity":76,"Reasoning":35,"Science":47,"Static GK":3};
+const actualSubjectCounts = {};
+for (const question of active) {
+  const subject = question.cat.replace(/ • PYQ$/, '');
+  actualSubjectCounts[subject] = (actualSubjectCounts[subject] || 0) + 1;
+}
+const actualSubjectEntries = Object.entries(actualSubjectCounts).sort((a,b)=>a[0].localeCompare(b[0]));
+const expectedSubjectEntries = Object.entries(expectedSubjectCounts).sort((a,b)=>a[0].localeCompare(b[0]));
+if (JSON.stringify(actualSubjectEntries) !== JSON.stringify(expectedSubjectEntries)) fail('active subject counts do not match the audited blueprint');
 const feed = jsonFile('current-affairs/2026-11-02.json');
 if (feed.items.length !== 3 || new Set(feed.items.map(item => item.id)).size !== feed.items.length) fail('2 November current-affairs feed must contain three uniquely identified items');
 for (const item of feed.items) {
@@ -151,6 +163,11 @@ const allStructured = new Set([...Object.keys(historyLibrary.explanations),...Ob
 if (allStructured.size !== 158) fail('structured explanation total must be 158 unique active IDs');
 const coverageAudit = jsonFile('audit/explanation-coverage-2026-11-04.json');
 if (coverageAudit.summary.activeUniqueQuestionRecords !== 821 || coverageAudit.summary.structuredExplanationQuestionIds !== 158 || coverageAudit.summary.structuredDetailedExplanationIds !== 158) fail('explanation coverage audit totals do not match');
+const coverageRows = Object.fromEntries(coverageAudit.subjects.map(row=>[row.subject,row]));
+for (const [subject,count] of expectedSubjectEntries) {
+  const row = coverageRows[subject];
+  if (!row || row.activeQuestionCount !== count || row.remainingCount !== count-row.detailedExplanationCount || row.detailedQuestionIds.length !== row.detailedExplanationCount || row.remainingQuestionIds.length !== row.remainingCount) fail('explanation coverage row is inconsistent for ' + subject);
+}
 const examAudit = jsonFile('audit/exam-blueprint-2026-11-04.json');
 if (examAudit.date !== '2026-11-04' || examAudit.examTracks.length !== 3 || examAudit.questionBankSnapshot.activeUniqueQuestionRecords !== 821) fail('exam blueprint audit is incomplete');
 

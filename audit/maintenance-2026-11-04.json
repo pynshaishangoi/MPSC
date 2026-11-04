@@ -16,7 +16,29 @@
   "questionBank": {
     "activeUniqueQuestionRecords": 821,
     "pyqTaggedRecords": 111,
-    "newCurrentAffairsQuestions": 6
+    "newCurrentAffairsQuestions": 6,
+    "subjectCounts": {
+      "Aptitude": 32,
+      "Arithmetic": 160,
+      "Art & Culture": 1,
+      "Books & Authors": 1,
+      "Computer": 11,
+      "Current Affairs": 44,
+      "Economy": 46,
+      "English": 145,
+      "Environment": 27,
+      "General Science": 10,
+      "Geography": 43,
+      "GST / Inspector of Taxes": 15,
+      "History": 49,
+      "International Organisations": 1,
+      "Meghalaya GK": 58,
+      "Officer Technical": 17,
+      "Polity": 76,
+      "Reasoning": 35,
+      "Science": 47,
+      "Static GK": 3
+    }
   },
   "explanationCoverage": {
     "before": 125,
@@ -42,7 +64,7 @@
   "pullRequest": null,
   "validation": {
     "status": "pending GitHub Actions",
-    "local": "Generated JSON files were parsed during construction; repository validator will run in the pull request."
+    "local": "Active loader paths and question IDs were parsed from the branch; 821 active IDs are unique across 12 loaded batches. Repository validator will run in the pull request."
   },
   "deployment": {
     "status": "not yet verified",
@@ -52,5 +74,63 @@
     "English question-by-question grammar and vocabulary explanations",
     "Arithmetic worked solutions with formula, substitution and checks",
     "Meghalaya GK explanations with authoritative regional sources"
+  ],
+  "integrationCommit": "9ada917c378c907211158e7e369c5eb06cdc9e7e",
+  "deduplication": {
+    "orphanFileRemoved": "question-batches/2026-10-10.json",
+    "orphanRecordsRemoved": 31,
+    "duplicateQuestionIdsRemovedFromRepository": [
+      "5101",
+      "5102",
+      "5103",
+      "5104",
+      "5105",
+      "5106",
+      "5107",
+      "5108",
+      "5109",
+      "5110",
+      "5111",
+      "5112",
+      "5113",
+      "5114",
+      "5115",
+      "5116",
+      "5117",
+      "5118",
+      "5119",
+      "5120",
+      "5121",
+      "5122",
+      "5123",
+      "5124",
+      "5125",
+      "5126",
+      "5127",
+      "5128",
+      "5129",
+      "5130",
+      "5131"
+    ],
+    "activeLoadedQuestionIdsUnique": true,
+    "activeLoadedBatchCount": 12
+  },
+  "changedFiles": [
+    "index.html",
+    "README.md",
+    "sw.js",
+    "scripts/validate-repo.cjs",
+    "explanations/history.json",
+    "explanations/polity.json",
+    "explanations/general-studies.json",
+    "explanations/gst.json",
+    "explanations/current-affairs.json",
+    "question-batches/2026-11-03-gktoday-gs.json",
+    "question-batches/2026-11-04-current-affairs.json",
+    "current-affairs/2026-11-03.json",
+    "audit/explanation-coverage-2026-11-04.json",
+    "audit/exam-blueprint-2026-11-04.json",
+    "audit/maintenance-2026-11-04.json",
+    "question-batches/2026-10-10.json (deleted)"
   ]
 }
