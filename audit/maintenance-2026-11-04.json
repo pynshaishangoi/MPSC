@@ -94,19 +94,41 @@
     "Cambridge Dictionary and GKToday vocabulary for competitive exams"
   ],
   "pullRequest": {
-    "number": 40,
-    "url": "https://github.com/pynshaishangoi/MPSC/pull/40",
+    "number": 43,
+    "url": "https://github.com/pynshaishangoi/MPSC/pull/43",
     "base": "main",
-    "validatedHeadCommit": "3210cf79a7a52045ffd3b98ce4302010b6aa2f35"
+    "branch": "daily/english-explanations-iot-blueprint-2026-11-04",
+    "validatedHeadCommit": "4c8e3074f21b812585061d7088cc826488b869e3",
+    "mergeCommit": "b2a2f5b320a331366591a7092764357351c7a565"
   },
   "validation": {
-    "status": "pending on pull-request head",
+    "status": "passed",
     "workflow": "Validate MPSC Study Hub",
-    "note": "Merge only after the PR-triggered validation workflow passes on the final head SHA."
+    "pullRequestRun": {
+      "runNumber": 39,
+      "runId": 41770554500,
+      "conclusion": "success",
+      "validatedHeadCommit": "4c8e3074f21b812585061d7088cc826488b869e3",
+      "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/41770554500"
+    },
+    "mainPushRun": {
+      "runNumber": 40,
+      "runId": 41770600843,
+      "conclusion": "success",
+      "validatedMainCommit": "b2a2f5b320a331366591a7092764357351c7a565",
+      "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/41770600843"
+    }
   },
   "deployment": {
-    "status": "pending",
-    "note": "Verify the Pages deployment workflow and live GitHub Pages URL after merge; no deployment claim before both checks."
+    "status": "success",
+    "workflow": "pages build and deployment",
+    "runNumber": 54,
+    "runId": 41770601214,
+    "conclusion": "success",
+    "deployedCommit": "b2a2f5b320a331366591a7092764357351c7a565",
+    "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/41770601214",
+    "siteUrl": "https://pynshaishangoi.github.io/MPSC/",
+    "liveSmokeTest": "The GitHub Pages build, upload and deploy jobs completed successfully. A separate public-page fetch was not available through the connected browser in this run."
   },
   "nextPriorities": [
     "Complete the remaining 125 English explanation IDs",
@@ -175,5 +197,11 @@
       "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2332136",
       "https://www.sts.niti.gov.in/index.html"
     ]
+  },
+  "finalVerification": {
+    "mainRefSha": "b2a2f5b320a331366591a7092764357351c7a565",
+    "englishLibraryVerifiedOnMain": true,
+    "coverageAuditVerifiedOnMain": true,
+    "blueprintVerifiedOnMain": true
   }
 }
