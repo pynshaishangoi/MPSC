@@ -187,7 +187,7 @@ const subjectLibraryMatch = script.match(/const SUBJECT_LIBRARY=(\[[\s\S]*?\]);\
 if (!subjectLibraryMatch) fail('could not locate subject-topic library for filter tests');
 const subjectLibrary = vm.runInNewContext('(' + subjectLibraryMatch[1] + ')');
 const matcherStart = script.indexOf('function subjectTopicMatches(');
-const matcherEnd = script.indexOf('\\nfunction renderSubjectLibrary', matcherStart);
+const matcherEnd = script.indexOf('\nfunction renderSubjectLibrary', matcherStart);
 if (matcherStart < 0 || matcherEnd < 0) fail('could not locate topic matcher for filter tests');
 const topicMatcher = vm.runInNewContext('(' + script.slice(matcherStart, matcherEnd) + ')');
 for (const subject of subjectLibrary) {
