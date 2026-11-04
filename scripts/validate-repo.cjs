@@ -103,6 +103,10 @@ for (const question of gkBatch.questions) {
   if (!question.e || question.e.length < 120 || !question.source || !question.sourceURL || !question.sourceURL.startsWith('https://') || !question.verificationStatus || question.difficulty === 'PYQ') fail('GKToday-inspired question ' + question.id + ' needs a substantial explanation, source and non-PYQ verification label');
 }
 if (!script.includes("2026-11-03-gktoday-gs.json") || !sw.includes('./question-batches/2026-11-03-gktoday-gs.json')) fail('GKToday-inspired GS batch is not loaded and precached');
+const currentBatch = jsonFile('question-batches/2026-11-04-current-affairs.json');
+if (currentBatch.questions.length !== 6 || currentBatch.questions.map(q=>q.id).join(',') !== '7137,7138,7139,7140,7141,7142') fail('4 November current-affairs batch count or ID range is incorrect');
+for (const question of currentBatch.questions) if (!question.e || question.e.length < 100 || !question.sourceURL || !question.verificationStatus || question.difficulty === 'PYQ') fail('current-affairs practice question ' + question.id + ' needs explanation, source and non-PYQ label');
+if (!script.includes("2026-11-04-current-affairs.json") || !sw.includes('./question-batches/2026-11-04-current-affairs.json')) fail('4 November current-affairs batch is not loaded and precached');
 if (!script.includes('x.sourceURL||x.sourceUrl')) fail('question source links are not rendered in explanations');
 const officialKey = {"1":"D","2":"B","3":"D","4":"A","5":"D","6":"B","7":"A","8":"D","9":"B","10":"C","11":"B","12":"C","13":"B","14":"D","15":"C","16":"D","17":"C","18":"A","19":"B","20":"C","21":"B","22":"D","23":"A","24":"B","25":"C","26":"C","27":"D","28":"D","29":"B","30":"D","31":"C","32":"D","33":"A","34":"B","35":"C","36":"A","37":"D","38":"A","39":"B","40":"C","41":"C","42":"B","43":"D","44":"C","45":"A","46":"A","47":"C","48":"A","49":"B","50":"D","51":"B","52":"B","53":"A","54":"A","55":"C","56":"A","57":"B","58":"A","59":"A","60":"C","61":"C","62":"A","63":"C","64":"D","65":"C","66":"B","67":"D","68":"C","69":"D","70":"D","71":"D","72":"B","73":"C","74":"C","75":"B","76":"D","77":"B","78":"C","79":"C","80":"D","81":"B","82":"B","83":"C","84":"C","85":"A","86":"C","87":"B","88":"B","89":"C","90":"C","91":"A"};
 const paperQuestions = active.filter(q => q.paperId === 'lda-secretariat-may-2025-series-i');
@@ -114,7 +118,7 @@ for (let number = 1; number <= 91; number++) {
 }
 if (!paperQuestions.find(q=>q.paperNo===27).o[3].includes('why IS she sketching')) fail('Q27 source/key anomaly must remain visible');
 if (!paperQuestions.find(q=>q.paperNo===30).verificationStatus.includes('unusual reporting verb')) fail('Q30 official-key anomaly must remain flagged');
-if (active.length !== 815 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
+if (active.length !== 821 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
 const feed = jsonFile('current-affairs/2026-11-02.json');
 if (feed.items.length !== 3 || new Set(feed.items.map(item => item.id)).size !== feed.items.length) fail('2 November current-affairs feed must contain three uniquely identified items');
 for (const item of feed.items) {
@@ -122,10 +126,11 @@ for (const item of feed.items) {
 }
 if (!sw.includes('./current-affairs/2026-11-01.json')) fail('service worker does not precache the 1 November current-affairs feed');
 if (!sw.includes('./current-affairs/2026-11-02.json')) fail('service worker does not precache the 2 November current-affairs feed');
+if (!sw.includes('./current-affairs/2026-11-03.json')) fail('service worker does not precache the 3 November current-affairs feed');
 if (!sw.includes('./question-batches/2026-11-01-lda-pyq.json')) fail('service worker does not precache the LDA PYQ batch');
 if (!sw.includes('./question-batches/2026-11-02-lda-pyq.json') || !sw.includes('./question-batches/2026-11-02.json')) fail('service worker does not precache the 2 November question batches');
-if (!sw.includes('./question-batches/2026-11-03-polity.json') || !sw.includes('./explanations/polity.json')) fail('service worker does not precache the 3 November Polity files');
-if (!script.includes("fetch('./explanations/polity.json')")) fail('Polity explanation library is not loaded');
+if (!sw.includes('./question-batches/2026-11-03-polity.json') || !sw.includes('./explanations/polity.json') || !sw.includes('./explanations/general-studies.json') || !sw.includes('./explanations/gst.json') || !sw.includes('./explanations/current-affairs.json')) fail('service worker does not precache all detailed explanation libraries');
+if (!script.includes("fetch('./explanations/polity.json')") || !script.includes("fetch('./explanations/general-studies.json')") || !script.includes("fetch('./explanations/gst.json')") || !script.includes("fetch('./explanations/current-affairs.json')") || !script.includes('const detailPacks=bs.splice(-5)')) fail('all detailed explanation libraries are not loaded');
 for (const file of ['manifest.json', ...walkJson('question-batches'), ...walkJson('current-affairs'), ...walkJson('audit'), ...walkJson('data'), ...walkJson('explanations')]) jsonFile(file);
 const historyLibrary = jsonFile('explanations/history.json');
 const polityLibrary = jsonFile('explanations/polity.json');
@@ -133,10 +138,21 @@ const historyIds = active.filter(q => /^History/.test(q.cat)).map(q => String(q.
 const polityIds = active.filter(q => /^Polity/.test(q.cat)).map(q => String(q.id));
 if (Object.keys(historyLibrary.explanations || {}).length !== historyIds.length || historyIds.some(id => !historyLibrary.explanations[id])) fail('History explanations do not cover every active History question ID');
 if (Object.keys(polityLibrary.explanations || {}).length !== polityIds.length || polityIds.some(id => !polityLibrary.explanations[id])) fail('Polity explanations do not cover every active Polity question ID');
-const coverageAudit = jsonFile('audit/explanation-coverage-2026-11-03.json');
-if (coverageAudit.summary.activeUniqueQuestionRecords !== 815 || coverageAudit.summary.structuredExplanationQuestionIds !== 125) fail('explanation coverage audit totals do not match');
-const examAudit = jsonFile('audit/exam-blueprint-2026-11-03.json');
-if (examAudit.date !== '2026-11-03' || examAudit.examTracks.length !== 3) fail('exam blueprint audit is incomplete');
+const gsLibrary = jsonFile('explanations/general-studies.json');
+const gstLibrary = jsonFile('explanations/gst.json');
+const caLibrary = jsonFile('explanations/current-affairs.json');
+const gsIds = ['7103','7104','7107','7108','7109','7110','7111','7112','7113','7114','7115','7116'];
+const gstIds = ['3008','5038','5039','5085','5086','6128','6129','6156','6157','6196','6197','6228','6229','6230','6244'];
+const caIds = ['7137','7138','7139','7140','7141','7142'];
+for (const [name,library,ids] of [['General Studies',gsLibrary,gsIds],['GST',gstLibrary,gstIds],['Current Affairs',caLibrary,caIds]]) {
+  if (Object.keys(library.explanations || {}).length !== ids.length || ids.some(id => !library.explanations[id])) fail(name + ' explanation library does not cover its audited question IDs');
+}
+const allStructured = new Set([...Object.keys(historyLibrary.explanations),...Object.keys(polityLibrary.explanations),...Object.keys(gsLibrary.explanations),...Object.keys(gstLibrary.explanations),...Object.keys(caLibrary.explanations)]);
+if (allStructured.size !== 158) fail('structured explanation total must be 158 unique active IDs');
+const coverageAudit = jsonFile('audit/explanation-coverage-2026-11-04.json');
+if (coverageAudit.summary.activeUniqueQuestionRecords !== 821 || coverageAudit.summary.structuredExplanationQuestionIds !== 158 || coverageAudit.summary.structuredDetailedExplanationIds !== 158) fail('explanation coverage audit totals do not match');
+const examAudit = jsonFile('audit/exam-blueprint-2026-11-04.json');
+if (examAudit.date !== '2026-11-04' || examAudit.examTracks.length !== 3 || examAudit.questionBankSnapshot.activeUniqueQuestionRecords !== 821) fail('exam blueprint audit is incomplete');
 
 const notesMatch = script.match(/const STUDY_NOTES=\[([\s\S]*?)\];\s*function renderStudyNotes/);
 if (!notesMatch) fail('could not locate Study Notes library');
@@ -146,6 +162,7 @@ const chapterCount = (noteSource.match(/\['[^']+',\[/g) || []).length;
 if (subjectCount !== 14 || chapterCount !== 37) fail('Study Notes expected 14 subjects / 37 chapters, found ' + subjectCount + ' / ' + chapterCount);
 if (!noteSource.includes('Agriculture, millets & local livelihoods') || !noteSource.includes('Scrutiny and evidence-led return review') || !noteSource.includes('State finance & Union tax devolution') || !noteSource.includes('Finance Commission, tax devolution & grants') || !noteSource.includes('Cryosphere & climate overshoot')) fail('new Study Notes chapters are missing');
 if (!script.includes("const key='mpscV4'")) fail('local progress storage key changed unexpectedly');
+if (!script.includes('mpscTopicPracticeSelectionV1') || !script.includes('function subjectTopicMatches') || !script.includes('ACTIVE_SUBJECT_PRACTICE')) fail('topic-specific practice selection is missing');
 if (!script.includes('paperComplete===true') || !script.includes('paperTotal')) fail('exact-paper completeness safeguard is missing');
 
 console.log('Validation passed.');
@@ -155,7 +172,9 @@ console.log('Active unique question records: ' + active.length);
 console.log('PYQ-tagged active records: ' + active.filter(q => q.difficulty === 'PYQ').length + ' (not complete papers)');
 console.log('LDA Secretariat Series I: ' + paperQuestions.length + '/150 transcribed and key-checked; 59 remain');
 console.log('Study Notes: ' + subjectCount + ' subjects, ' + chapterCount + ' chapters');
-console.log('Structured explanations: ' + (historyIds.length + polityIds.length) + ' IDs across History and Polity');
-console.log('Current affairs: ' + feed.items.length + ' dated, source-linked stories in the 2 November feed');
+console.log('Structured explanations: ' + allStructured.size + ' unique IDs across History, Polity, General Studies, GST and Current Affairs');
+const latestFeed = jsonFile('current-affairs/2026-11-03.json');
+if (latestFeed.items.length !== 6 || latestFeed.items.some(item=>!item.sourceURL || !item.publishedDate || !item.verificationStatus)) fail('3 November current-affairs feed is incomplete');
+console.log('Current affairs: ' + latestFeed.items.length + ' dated, source-linked stories in the 3 November feed');
 console.log('Service-worker cache: ' + cacheVersion);
 console.log('Local progress key and exact-paper guard preserved.');

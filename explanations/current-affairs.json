@@ -70,14 +70,15 @@
       "significance": "Know the regulator and date; do not guess technical requirements without reading the notified text.",
       "exam": "TRAI official regulation page and press release.",
       "source": "https://www.trai.gov.in/telecommunication-interconnection-third-amendment-regulations-2026",
-      "url": [
+      "url": "https://www.trai.gov.in/release-publication/regulations",
+      "references": [
         {
-          "label": "TRAI: Third Amendment Regulations, 2026",
-          "url": "https://www.trai.gov.in/telecommunication-interconnection-third-amendment-regulations-2026"
+          "label": "TRAI: Regulations index",
+          "url": "https://www.trai.gov.in/release-publication/regulations"
         },
         {
-          "label": "TRAI: Press release no. 148",
-          "url": "https://trai.gov.in/notifications/press-release/trai-released-telecommunication-interconnection-third-amendment"
+          "label": "TRAI: What's New",
+          "url": "https://www.trai.gov.in/what-s-new"
         }
       ]
     },

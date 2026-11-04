@@ -3,7 +3,7 @@
   "method": "Active unique IDs are derived from the embedded question bank plus all loaded question batches and the 3 November Polity batch. Structured coverage counts only IDs in the detailed explanation libraries; inline short answer strings are not counted. The 3 November GKToday-inspired cross-subject practice batch is included in active IDs; new static-GS items are original questions, not copied PYQs.",
   "summary": {
     "activeUniqueQuestionRecords": 821,
-    "structuredExplanationQuestionIds": 125,
+    "structuredExplanationQuestionIds": 158,
     "structuredCoveragePercent": 19.2,
     "pyqTaggedActiveRecords": 111,
     "pyqTaggedRecords": 111,
