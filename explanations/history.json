@@ -576,7 +576,17 @@
       "significance": "These remains demonstrate advanced civic engineering, standardised construction practices and complex urban life in the Bronze Age. They are stronger evidence of Harappan urban planning than claims about iron tools or later temple architecture.",
       "exam": "Mature Harappan cities = planned streets, drainage, wells and baked-brick construction. Iron technology is not a defining Harappan feature.",
       "source": "NCERT — Themes in Indian History, Part I; Harappan archaeology overview",
-      "url": "https://ncert.nic.in/textbook.php"
+      "url": "https://ncert.nic.in/textbook.php",
+      "references": [
+        {
+          "label": "NCERT — Themes in Indian History, Part I; Harappan archaeology overview",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "label": "GKToday topic reference",
+          "url": "https://www.gktoday.in/sites-of-indus-valley-civilization/"
+        }
+      ]
     },
     "7102": {
       "title": "Lord Canning and the Revolt of 1857",
@@ -588,7 +598,19 @@
       "significance": "The event marks a major turning point in colonial administration: East India Company rule ended in 1858 and the Crown assumed governance. The revolt is described variously in historical writing, so exam answers should distinguish its different regional dimensions.",
       "exam": "Lord Canning = Governor-General during the 1857 revolt and first Viceroy after the 1858 transfer. Lord Dalhousie was his predecessor.",
       "source": "NCERT — Our Pasts / Themes in Indian History; Government of India Act 1858",
-      "url": "https://ncert.nic.in/textbook.php"
+      "url": "https://ncert.nic.in/textbook.php",
+      "references": [
+        {
+          "label": "NCERT — Our Pasts / Themes in Indian History; Government of India Act 1858",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "label": "GKToday topic reference",
+          "url": "https://www.gktoday.in/lord-canning-and-the-revolt-of-1857/"
+        }
+      ]
     }
-  }
+  },
+  "questionCount": 49,
+  "updatedAt": "2026-11-04"
 }

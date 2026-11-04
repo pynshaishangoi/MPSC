@@ -1,0 +1,227 @@
+{
+  "date": "2026-11-04",
+  "methodology": {
+    "officialSourcePriority": "Official MPSC and district notices, official question papers and final answer keys take precedence.",
+    "frequencyRule": "Report topic frequency only from a complete, verified paper sample. Do not infer future examination weightage from the hub question-bank composition.",
+    "confidence": "Confirmed facts are separated from provisional study recommendations. No future-question prediction is made."
+  },
+  "questionBankSnapshot": {
+    "activeUniqueQuestionRecords": 821,
+    "pyqTaggedRecords": 111,
+    "subjectCounts": {
+      "Aptitude": 32,
+      "Arithmetic": 160,
+      "Computer": 12,
+      "Current Affairs": 44,
+      "Economy": 48,
+      "English": 145,
+      "Environment": 29,
+      "GST / Inspector of Taxes": 30,
+      "General Science": 10,
+      "Geography": 45,
+      "History": 49,
+      "Meghalaya GK": 58,
+      "Officer Technical": 17,
+      "Polity": 76,
+      "Reasoning": 35,
+      "Science": 49,
+      "Static GK": 3,
+      "Art & Culture": 2,
+      "International Organisations": 2,
+      "Books & Authors": 2
+    },
+    "warning": "These are hub inventory counts, not official exam-frequency statistics."
+  },
+  "examTracks": [
+    {
+      "exam": "MPSC Inspector of Taxes",
+      "verifiedEvidence": [
+        {
+          "fact": "MPSC recruitment advertisement for Inspector of Taxes under the Taxation Department is dated 26 April 2017.",
+          "source": "https://mpsc.meghalaya.gov.in/archives.html"
+        },
+        {
+          "fact": "An official MPSC result notice confirms that the screening test for the April 2017 recruitment was held on 27 February 2021; the result notice is dated 21 October 2021.",
+          "source": "https://mpsc.meghalaya.gov.in/results/Result21Oct2021a.pdf"
+        }
+      ],
+      "notVerified": [
+        "A current post-specific Inspector of Taxes syllabus was not listed on the MPSC syllabus page reviewed on 4 November 2026.",
+        "A current Inspector of Taxes question paper and official subject-wise weightage were not found in the MPSC PYQ index reviewed on 4 November 2026.",
+        "No current 150-question or 50-50-50 section split is claimed."
+      ],
+      "provisionalPreparation": [
+        "General English and comprehension",
+        "Meghalaya and Indian General Awareness, polity, economy and current affairs",
+        "Arithmetic and reasoning",
+        "Constitutional finance and public audit (Articles 148–151 and 280–281)",
+        "GST and tax-administration concepts; verify relevant Acts, rules and notifications at examination time"
+      ],
+      "questionBankSupport": {
+        "officerTechnicalQuestions": 17,
+        "gstInspectorQuestions": 15,
+        "examTaggedRecords": 11
+      },
+      "confidence": "Historical recruitment and screening facts are confirmed; current syllabus and pattern are not verified. The preparation mix is provisional.",
+      "pagesReviewed": [
+        {
+          "label": "MPSC archives (historical Inspector of Taxes recruitment notices)",
+          "url": "https://mpsc.meghalaya.gov.in/archives.html"
+        },
+        {
+          "label": "MPSC syllabus index reviewed",
+          "url": "https://mpsc.meghalaya.gov.in/syllabus.html"
+        },
+        {
+          "label": "MPSC previous-year question index reviewed",
+          "url": "https://mpsc.meghalaya.gov.in/pyq.html"
+        }
+      ]
+    },
+    {
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "verifiedEvidence": [
+        {
+          "fact": "The district notice records the written examination on 8 November 2025.",
+          "source": "https://eastkhasihills.gov.in/notice/notice-written-examination-for-the-post-of-lda-cum-typist-advertisement-no-dsc-127-dsc-ekh-advt-2024-64-dated-2nd-september-2025/"
+        },
+        {
+          "fact": "The district notice records the typing speed test on 9 December 2025.",
+          "source": "https://eastkhasihills.gov.in/notice/notice-typing-speed-test-for-the-post-of-lda-cum-typist-will-be-held-on-the-9th-december-2025-at-industrial-training-institute-iti-rynjah-shillong/"
+        },
+        {
+          "fact": "The district notice records the Khasi local-language examination on 17 January 2026.",
+          "source": "https://eastkhasihills.gov.in/notice/notice-this-is-for-general-information-for-those-candidates-who-have-qualified-the-typing-speed-test-for-the-post-of-lda-cum-typist-that-the-local-language-khasi-examination-will-be-held-on-the-17/"
+        }
+      ],
+      "notVerified": [
+        "The notices confirm the stages and dates but do not establish a complete marks distribution or subject-wise blueprint for a future cycle.",
+        "The MPSC Secretariat LDA paper is a different examination and must not be treated as the DSC East Khasi Hills paper."
+      ],
+      "provisionalPreparation": [
+        "English grammar, vocabulary, comprehension and sentence skills",
+        "Arithmetic and basic quantitative aptitude",
+        "General awareness with Meghalaya focus",
+        "Reasoning and computer basics",
+        "Typing speed and accuracy practice",
+        "Khasi language preparation where required by the next district notification"
+      ],
+      "questionBankSupport": {
+        "examTaggedRecords": 8
+      },
+      "confidence": "The 2025–26 stage sequence is confirmed; future pattern and marks remain notification-dependent."
+    },
+    {
+      "exam": "MPSC Secretariat LDA — May 2025 recruitment cycle (paper held 13 September 2025)",
+      "verifiedEvidence": [
+        {
+          "fact": "The official MPSC PYQ index lists the LDA in Meghalaya (Civil) Secretariat May 2025 paper.",
+          "source": "https://mpsc.meghalaya.gov.in/pyq.html"
+        },
+        {
+          "fact": "The audited Series I structure is 150 questions, 300 marks and 150 minutes: 75 General English plus 75 General Awareness & Aptitude.",
+          "source": "https://mpsc.meghalaya.gov.in/pyq.html"
+        },
+        {
+          "fact": "The official final answer key is dated 17 December 2025; the hub has 91 of 150 questions transcribed and checked.",
+          "source": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+        }
+      ],
+      "observedSample": {
+        "transcribedQuestions": 91,
+        "fullPaperQuestions": 150,
+        "englishQuestionsTranscribed": 75,
+        "generalAwarenessQuestionsTranscribed": 16,
+        "observedGeneralAwarenessBreakdown": {
+          "Science": 6,
+          "History": 5,
+          "Geography": 5
+        },
+        "remainingQuestionNumbers": "92–150 (59 questions)",
+        "englishFormatsObserved": [
+          "Reading comprehension",
+          "Idioms and phrases",
+          "One-word substitution",
+          "Synonyms and antonyms",
+          "Grammar and sentence correction",
+          "Sentence rearrangement",
+          "Cloze test and prepositions",
+          "Vocabulary in context"
+        ],
+        "englishFormatCounts": {
+          "Reading comprehension": 4,
+          "Idioms and phrases": 6,
+          "One-word substitution": 5,
+          "Synonyms and antonyms": 10,
+          "Direct and indirect speech": 5,
+          "Grammar and sentence correction": 10,
+          "Sentence rearrangement": 5,
+          "Cloze test": 5,
+          "Vocabulary in context": 17,
+          "Infinitive/purpose": 1,
+          "Vocabulary and usage": 7
+        },
+        "difficultyAssessment": "The official key does not rate difficulty. Editorial review: English is mixed, with direct grammar/vocabulary plus moderate reading and contextual vocabulary; the 16 transcribed General Awareness items are mostly direct factual recall. This is qualitative, not an official rating.",
+        "recurringThemes": [
+          "Vocabulary breadth and contextual word use",
+          "Grammar, tense, prepositions and reported speech",
+          "Passage comprehension and cloze context",
+          "Basic science facts, Indian/world history and physical geography"
+        ]
+      },
+      "notVerified": [
+        "The first 16 General Awareness questions are not a complete sample of the 75-question section; their subject mix must not be projected onto the missing 59 questions."
+      ],
+      "preparationImplication": [
+        "Maintain a strong English routine because all 75 English questions are transcribed from this paper.",
+        "Continue broad General Awareness and Aptitude revision; the incomplete 16-question sample is not enough to estimate full-section topic weightage.",
+        "Do not enable exact full-paper mode until questions 92–150 and their official-key mappings are checked."
+      ],
+      "confidence": "The structure and 91 transcribed items are verified for this paper only; the pattern is not transferable to DSC LDA-cum-Typist."
+    }
+  ],
+  "weeklyPlan": {
+    "basis": "A practical two-hour study day, six days per week; adjust when an official notification is released.",
+    "dailyMinutes": 120,
+    "commonCore": [
+      {
+        "minutes": 35,
+        "task": "Learn one syllabus-mapped concept or chapter and make short notes."
+      },
+      {
+        "minutes": 30,
+        "task": "Attempt topic-wise MCQs and read every explanation, including why distractors are wrong."
+      },
+      {
+        "minutes": 25,
+        "task": "Practise arithmetic/reasoning or the relevant technical/tax topic."
+      },
+      {
+        "minutes": 15,
+        "task": "Revise current affairs and Meghalaya facts using dated sources."
+      },
+      {
+        "minutes": 15,
+        "task": "Recall previous mistakes and update the wrong-question list."
+      }
+    ],
+    "trackAdjustments": {
+      "inspectorOfTaxes": "Use the technical block for GST/tax concepts, public finance and audit; date-stamp legal material and verify current law.",
+      "dscLda": "Replace part of the technical block with typing practice and Khasi/local-language revision where required.",
+      "secretariatLda": "Use timed English and General Awareness sections matching the verified 75+75 structure; until the full bank is transcribed, use shorter sectional tests."
+    }
+  },
+  "explanationCoverageAudit": "audit/explanation-coverage-2026-11-04.json",
+  "sourceStrategy": {
+    "gkToday": "Use GKToday topic quizzes and articles across history, culture, geography, polity, economy, science, environment, international organisations, books/authors, important days, awards and sports. Write original questions and explanations; do not copy protected wording.",
+    "crossChecks": "Cross-check constitutional, statutory, tax, treaty, standards and time-sensitive facts against primary official sources. Use Meghalaya Government, MPSC and district administration for regional facts.",
+    "specialist": "Use standard grammar/textbook sources for English, worked solutions for arithmetic/reasoning, official GST Acts/Rules and GST Portal guidance for tax, and authoritative technical references for computer and science."
+  },
+  "currentAffairsFeed": {
+    "file": "current-affairs/2026-11-03.json",
+    "datedItems": 6,
+    "sourceDate": "2026-11-03",
+    "checkedOn": "2026-11-04",
+    "note": "Includes Meghalaya research-publication indicator; rank is for publication count only."
+  }
+}

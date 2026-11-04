@@ -1,0 +1,100 @@
+{
+  "date": "2026-11-03",
+  "updatedAt": "2026-11-04",
+  "title": "Daily Current Affairs — 3 November 2026",
+  "methodology": "Items are dated by official release or reputable report date. Primary sources are preferred; reporting adds context. This is not a prediction of future exam questions.",
+  "items": [
+    {
+      "id": "CA-2026-11-03-01",
+      "category": "Defence / India–US",
+      "headline": "Exercise Tiger Triumph 2026: India–US tri-service HADR",
+      "publishedDate": "2026-11-03",
+      "summary": "Indian and US forces conducted joint humanitarian assistance and disaster-relief planning centred on Visakhapatnam.",
+      "examRelevance": [
+        "Bilateral defence exercises",
+        "Tri-service coordination",
+        "HADR"
+      ],
+      "sourceName": "PIB — Ministry of Defence",
+      "sourceURL": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2331900",
+      "secondarySourceURL": "https://www.thehansindia.com/news/cities/visakhapatnam/opening-ceremony-of-exercise-of-tiger-triumph-2026-held-at-mwc-1139022",
+      "verificationStatus": "Official PIB release dated 3 November 2026."
+    },
+    {
+      "id": "CA-2026-11-03-02",
+      "category": "Maritime cooperation / Neighbourhood",
+      "headline": "Ninth India–Sri Lanka Coast Guard meeting at Mirissa",
+      "publishedDate": "2026-11-03",
+      "summary": "The two Coast Guards reviewed search and rescue, pollution response, maritime law enforcement and capacity building.",
+      "examRelevance": [
+        "India–Sri Lanka relations",
+        "Indian Ocean Region",
+        "Coast Guard functions"
+      ],
+      "sourceName": "PIB / Indian Coast Guard",
+      "sourceURL": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2332184",
+      "verificationStatus": "Official release dated 3 November 2026."
+    },
+    {
+      "id": "CA-2026-11-03-03",
+      "category": "Science and technology / Meghalaya",
+      "headline": "India S&T Scoreboard lists Meghalaya with 1,144 research publications",
+      "publishedDate": "2026-11-03",
+      "summary": "NITI Aayog's scoreboard integrates research, patents and innovation indicators. Meghalaya is listed 26th among 36 States/UTs for FY2024-25 research-publication count.",
+      "examRelevance": [
+        "NITI Aayog",
+        "Science and technology indicators",
+        "Meghalaya current affairs"
+      ],
+      "sourceName": "NITI Aayog — India S&T Scoreboard",
+      "sourceURL": "https://www.sts.niti.gov.in/index.html",
+      "verificationStatus": "Dashboard checked 4 November 2026; rank is for publication count only."
+    },
+    {
+      "id": "CA-2026-11-03-04",
+      "category": "Telecom regulation / India",
+      "headline": "TRAI releases Telecommunication Interconnection Third Amendment Regulations, 2026",
+      "publishedDate": "2026-11-03",
+      "summary": "TRAI's official index records the amendment under its Network, Spectrum and Licensing division. The full regulation is required to assess substantive changes.",
+      "examRelevance": [
+        "TRAI",
+        "Telecom regulation",
+        "Regulations versus consultation papers"
+      ],
+      "sourceName": "Telecom Regulatory Authority of India",
+      "sourceURL": "https://www.trai.gov.in/telecommunication-interconnection-third-amendment-regulations-2026",
+      "secondarySourceURL": "https://trai.gov.in/notifications/press-release/trai-released-telecommunication-interconnection-third-amendment",
+      "verificationStatus": "Official TRAI pages checked 4 November 2026; technical clauses not inferred from title."
+    },
+    {
+      "id": "CA-2026-11-03-05",
+      "category": "Defence / Indian Ocean Region",
+      "headline": "Indian Navy rescues 20 crew from fishing vessel Azini",
+      "publishedDate": "2026-11-03",
+      "summary": "The Ministry of Defence reported that the Navy rescued all 20 crew members of the Iranian fishing vessel Azini off Somalia.",
+      "examRelevance": [
+        "Indian Navy roles",
+        "Maritime security",
+        "Humanitarian assistance at sea"
+      ],
+      "sourceName": "PIB — Ministry of Defence",
+      "sourceURL": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2331872",
+      "verificationStatus": "Official PIB release dated 3 November 2026."
+    },
+    {
+      "id": "CA-2026-11-03-06",
+      "category": "International environment / Climate",
+      "headline": "COP31 scheduled for Antalya; COP30 roadmaps lacked consensus",
+      "publishedDate": "2026-11-03",
+      "summary": "Reuters reported that COP31 is due to begin in Antalya, Türkiye, on 9 November 2026; Brazil's proposed COP30 roadmaps had not secured consensus.",
+      "examRelevance": [
+        "UNFCCC process",
+        "Climate negotiations",
+        "Forest finance"
+      ],
+      "sourceName": "Reuters",
+      "sourceURL": "https://www.reuters.com/sustainability/cop/brazil-wraps-up-cop30-with-fossil-fuel-forest-roadmaps-urging-shift-talks-action-2026-11-03/",
+      "verificationStatus": "Reuters report dated 3 November 2026; proposals are not described as adopted decisions."
+    }
+  ]
+}

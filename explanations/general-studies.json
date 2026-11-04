@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "methodology": "Original explanations; GKToday is a discovery/reference source and official treaty, standards and statutory sources are linked.",
+  "questionCount": 12,
+  "explanations": {
+    "7103": {
+      "title": "Tropic of Cancer: India's eight states",
+      "overview": "The Tropic of Cancer lies at about 23°26′ N. It crosses eight Indian states from west to east: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram.",
+      "context": "Latitude measures angular distance north or south of the Equator. The Tropic marks the northernmost latitude where the Sun can be overhead at noon, around the June solstice.",
+      "who": "It crosses eight States; it does not cross Meghalaya, Assam or Nagaland.",
+      "what": "Earth's axial tilt shifts the Sun's apparent overhead position between the two tropics during the year.",
+      "why": "The line helps explain India's latitudinal extent and tropical/subtropical geography.",
+      "significance": "Memory aid west to east: G-R-M-C-J-W-T-M. Do not include Meghalaya or Assam.",
+      "exam": "GKToday geography reference; original practice explanation.",
+      "source": "https://www.gktoday.in/tropic-of-cancer/",
+      "url": [
+        {
+          "label": "GKToday: Tropic of Cancer",
+          "url": "https://www.gktoday.in/tropic-of-cancer/"
+        },
+        {
+          "label": "GKToday: Indian states crossed",
+          "url": "https://www.gktoday.in/question/tropic-of-cancer-passes-through-which-of-the-follo-3"
+        }
+      ]
+    },
+    "7104": {
+      "title": "Equator: zero degrees latitude",
+      "overview": "The Equator is the imaginary great circle at 0° latitude. It divides Earth into Northern and Southern Hemispheres and is the reference from which latitude is measured.",
+      "context": "Latitude is angular distance north or south of the Equator. Lines of latitude are parallel; the Equator is the largest latitude circle and a great circle.",
+      "who": "Geographers use it as the zero reference for latitude.",
+      "what": "A point north has north latitude; a point south has south latitude. It crosses parts of South America, Africa and Asia and several oceans.",
+      "why": "The coordinate grid needs a consistent baseline for locating places and describing climatic zones.",
+      "significance": "Do not confuse 0° latitude (Equator) with 0° longitude (Prime Meridian).",
+      "exam": "GKToday geography question; standard coordinate system.",
+      "source": "https://www.gktoday.in/question/which-imaginary-line-located-at-zero-degree-latitu",
+      "url": [
+        {
+          "label": "GKToday: Equator at 0° latitude",
+          "url": "https://www.gktoday.in/question/which-imaginary-line-located-at-zero-degree-latitu"
+        }
+      ]
+    },
+    "7107": {
+      "title": "RBI Monetary Policy Committee",
+      "overview": "The MPC is the statutory rate-setting committee under the RBI Act, 1934. It determines the policy repo rate within India's inflation-targeting framework, with price stability as the primary objective while keeping growth in mind.",
+      "context": "The Finance Act, 2016 amended the RBI Act to institutionalise committee-based policy decisions. Section 45ZB provides for the MPC.",
+      "who": "The RBI Governor chairs the six-member committee; three members are from RBI and three external members are appointed by the Central Government.",
+      "what": "The MPC reviews inflation, growth and liquidity and votes on the policy rate. Decisions are collective; the Governor has a casting vote in a tie.",
+      "why": "Committee decision-making improves transparency and reduces reliance on a single decision-maker.",
+      "significance": "Monetary policy affects borrowing costs, credit, demand and inflation; it is distinct from fiscal policy and tax administration.",
+      "exam": "Legal anchor: RBI Act, 1934, Section 45ZB, as amended by Finance Act 2016. Avoid memorising undated rates.",
+      "source": "GKToday topic; statutory framework cross-checked with RBI/India Code.",
+      "url": "https://www.gktoday.in/monetary-policy-committee/",
+      "references": [
+        {
+          "label": "GKToday: MPC",
+          "url": "https://www.gktoday.in/monetary-policy-committee/"
+        },
+        {
+          "label": "Reserve Bank of India",
+          "url": "https://www.rbi.org.in/"
+        },
+        {
+          "label": "India Code",
+          "url": "https://www.indiacode.nic.in/"
+        }
+      ]
+    },
+    "7108": {
+      "title": "GST and the taxable event of supply",
+      "overview": "GST is an indirect tax whose principal taxable event is supply of goods or services or both. Section 7 of the CGST Act, 2017 defines scope of supply, subject to schedules and exclusions.",
+      "context": "GST replaced fragmented indirect-tax triggers with a broad supply-based framework.",
+      "who": "CGST, SGST/UTGST and IGST apply according to the nature and place of supply.",
+      "what": "Section 7 covers specified forms such as sale, transfer, barter, exchange, licence, rental, lease or disposal when made for consideration in business; Schedule I covers specified supplies without consideration and Schedule III lists activities treated as neither supply.",
+      "why": "The supply test determines whether a transaction enters the GST charging framework; not every activity is automatically taxable.",
+      "significance": "For tax-office work, identify supplier, recipient, transaction, consideration, business connection, place of supply and relevant schedule.",
+      "exam": "Legal anchor: CGST Act Section 7; read with charging provisions and Schedules I–III. Check current amendments.",
+      "source": "GKToday GST topic; legal framework checked against CBIC.",
+      "url": "https://www.gktoday.in/goods-and-services-tax/",
+      "references": [
+        {
+          "label": "GKToday: GST",
+          "url": "https://www.gktoday.in/goods-and-services-tax/"
+        },
+        {
+          "label": "CBIC Tax Information Portal: CGST Act",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001"
+        }
+      ]
+    },
+    "7109": {
+      "title": "Convention on Biological Diversity, 1992",
+      "overview": "The CBD is a legally binding treaty adopted at the 1992 Rio Earth Summit. It entered into force on 29 December 1993 and has three core objectives.",
+      "context": "It emerged from the 1992 UN Conference on Environment and Development.",
+      "who": "Parties, including India, undertake national action; the Conference of the Parties is the treaty's governing body.",
+      "what": "Objectives: conservation of biodiversity; sustainable use of its components; fair and equitable sharing of benefits from genetic resources.",
+      "why": "It links conservation with sustainable use and benefit-sharing, and addresses ecosystem, food-security and livelihood risks.",
+      "significance": "Memory aid C-S-B: Conservation, Sustainable use, Benefit-sharing. Do not confuse CBD with UNFCCC.",
+      "exam": "GKToday environment topic; treaty text checked against CBD Secretariat.",
+      "source": "https://www.gktoday.in/convention-on-biological-diversity/",
+      "url": [
+        {
+          "label": "GKToday: CBD",
+          "url": "https://www.gktoday.in/convention-on-biological-diversity/"
+        },
+        {
+          "label": "CBD official treaty text",
+          "url": "https://www.cbd.int/convention/text"
+        }
+      ]
+    },
+    "7110": {
+      "title": "Ozone layer and the stratosphere",
+      "overview": "Most atmospheric ozone is in the stratosphere, roughly 10–50 km above Earth. It absorbs much of the Sun's harmful ultraviolet radiation.",
+      "context": "Ozone is O3; the ozone layer is a region of relatively high concentration, not a solid sheet.",
+      "who": "Natural sunlight-driven reactions create and destroy ozone; some human-made ozone-depleting substances accelerate its breakdown.",
+      "what": "About 90% of atmospheric ozone is in the stratosphere. Ground-level ozone in the troposphere is a pollutant and part of photochemical smog.",
+      "why": "Ozone depletion increases UV exposure; the 1987 Montreal Protocol controls ozone-depleting substances.",
+      "significance": "Remember: stratospheric ozone protects; tropospheric ozone pollutes. The ozone hole is severe depletion, not a literal hole.",
+      "exam": "GKToday science/environment reference; atmospheric science checked against NASA.",
+      "source": "https://www.gktoday.in/scientists-discover-unusual-ozone-layer-above-north-bay-of-bengal/",
+      "url": [
+        {
+          "label": "GKToday: ozone topic",
+          "url": "https://www.gktoday.in/scientists-discover-unusual-ozone-layer-above-north-bay-of-bengal/"
+        },
+        {
+          "label": "NASA: ozone and stratosphere",
+          "url": "https://science.nasa.gov/mission/aura/ozone/"
+        }
+      ]
+    },
+    "7111": {
+      "title": "Ampere: SI base unit of electric current",
+      "overview": "Ampere (A) is the SI base unit of electric current. Current is the rate at which charge passes a point: I = Q/t, so 1 A = 1 coulomb per second.",
+      "context": "The SI has seven base units; electric current is one base quantity.",
+      "who": "The unit is named after French physicist André-Marie Ampère.",
+      "what": "If 10 C pass a point in 2 s, I = 10/2 = 5 A. Voltage is in volts, resistance in ohms and power in watts.",
+      "why": "The SI provides a consistent way to measure electrical quantities; the modern ampere definition fixes the elementary charge.",
+      "significance": "Formula I = Q/t; check units: coulomb ÷ second = ampere. Ampere is a base unit; volt, ohm and watt are derived.",
+      "exam": "GKToday physics reference; SI unit checked against BIPM.",
+      "source": "https://www.gktoday.in/question/what-is-the-si-unit-of-electric-current",
+      "url": [
+        {
+          "label": "GKToday: SI unit of current",
+          "url": "https://www.gktoday.in/question/what-is-the-si-unit-of-electric-current"
+        },
+        {
+          "label": "BIPM: SI base units",
+          "url": "https://www.bipm.org/en/measurement-units/si-base-units"
+        }
+      ]
+    },
+    "7112": {
+      "title": "Cerebellum: balance, posture and coordination",
+      "overview": "The cerebellum coordinates movement, maintains posture and balance, and helps make voluntary movements smooth and accurate.",
+      "context": "It lies at the back of the brain, beneath the occipital lobes and behind the brainstem.",
+      "who": "It receives information from vestibular organs, spinal cord and cerebral cortex.",
+      "what": "It adjusts timing and coordination of muscle activity rather than simply initiating voluntary movement.",
+      "why": "Damage can cause ataxia, poor coordination, unsteady gait and difficulty maintaining posture.",
+      "significance": "Cerebellum = coordination and balance; cerebrum = higher cognition; medulla = vital involuntary functions.",
+      "exam": "GKToday human-body question; standard neuroanatomy reference.",
+      "source": "https://www.gktoday.in/question/identify-the-part-of-brain-that-controls-the-maint",
+      "url": [
+        {
+          "label": "GKToday: Cerebellum and balance",
+          "url": "https://www.gktoday.in/question/identify-the-part-of-brain-that-controls-the-maint"
+        }
+      ]
+    },
+    "7113": {
+      "title": "Kathakali: Kerala's classical dance-drama",
+      "overview": "Kathakali is a classical dance-drama of Kerala combining dance, music, acting, mime, facial expression and hand gestures.",
+      "context": "The name is commonly explained as katha (story) and kali (play/performance).",
+      "who": "Performers enact characters through stylised movement and mudras; vocalists sing while percussion supports the performance.",
+      "what": "It is a dramatic narrative, not merely abstract dance; makeup and costume signal character types.",
+      "why": "It preserves regional performance traditions and connects literature, music, theatre and dance.",
+      "significance": "Compare: Kathakali—Kerala; Kathak—North India; Bharatanatyam—Tamil Nadu; Odissi—Odisha; Kuchipudi—Andhra Pradesh.",
+      "exam": "GKToday Indian culture topic; state art-form reference checked against Kerala Tourism.",
+      "source": "https://www.gktoday.in/kathakali/",
+      "url": [
+        {
+          "label": "GKToday: Kathakali",
+          "url": "https://www.gktoday.in/kathakali/"
+        },
+        {
+          "label": "Kerala Tourism: Kathakali",
+          "url": "https://www.keralatourism.org/kerala-article/2021/kathakali/1125"
+        }
+      ]
+    },
+    "7114": {
+      "title": "CPU: Central Processing Unit",
+      "overview": "The CPU is the main general-purpose processor. It fetches, decodes and executes program instructions and coordinates processing with memory and input/output devices.",
+      "context": "A computer system has processing, memory, storage and input/output components; the CPU is not the whole computer.",
+      "who": "The ALU performs arithmetic and logical operations; the Control Unit directs instruction flow; registers hold small amounts of high-speed working data.",
+      "what": "The instruction cycle is commonly described as fetch, decode and execute; cache and registers provide fast access to working data.",
+      "why": "The CPU runs operating-system and application instructions. A GPU is specialised for parallel graphics/compute; RAM is temporary working memory; SSD/HDD stores data persistently.",
+      "significance": "Distinguish CPU (processing), RAM (temporary memory), SSD/HDD (persistent storage), keyboard/mouse (input) and monitor/printer (output).",
+      "exam": "GKToday computer-hardware topic; original practice explanation.",
+      "source": "https://www.gktoday.in/central-processing-unit/",
+      "url": [
+        {
+          "label": "GKToday: Central Processing Unit",
+          "url": "https://www.gktoday.in/central-processing-unit/"
+        }
+      ]
+    },
+    "7115": {
+      "title": "UN Security Council: primary responsibility",
+      "overview": "Article 24 of the UN Charter gives the Security Council primary responsibility for international peace and security. It has 15 members: five permanent and ten elected non-permanent members.",
+      "context": "The Security Council is one of the six principal UN organs; its authority comes from the Charter.",
+      "who": "Permanent members are China, France, Russia, the UK and the US; the General Assembly elects ten non-permanent members for two-year terms.",
+      "what": "The Council may investigate disputes, recommend settlement, impose sanctions and authorise measures. Article 25 requires members to carry out its decisions.",
+      "why": "It is central to the UN collective-security system. A permanent member's negative vote can block a substantive resolution; procedural matters differ.",
+      "significance": "Article 24 = responsibility; Article 23 = composition; Article 25 = obligation to carry out decisions.",
+      "exam": "GKToday international-organisation reference; legal basis checked against UN Charter.",
+      "source": "https://www.gktoday.in/security-council-adopts-resolution-2427-protect-children-armed-conflict/",
+      "url": [
+        {
+          "label": "GKToday: UN Security Council",
+          "url": "https://www.gktoday.in/security-council-adopts-resolution-2427-protect-children-armed-conflict/"
+        },
+        {
+          "label": "UN Charter, Articles 23–25",
+          "url": "https://www.un.org/en/about-us/un-charter/full-text"
+        }
+      ]
+    },
+    "7116": {
+      "title": "The Guide (1958) by R. K. Narayan",
+      "overview": "The Guide is a 1958 novel by R. K. Narayan, set in fictional Malgudi. It follows Raju, whose life changes from railway guide to a man regarded by villagers as a spiritual guide.",
+      "context": "Narayan used Malgudi to explore ordinary lives, social change and moral ambiguity.",
+      "who": "R. K. Narayan is the author; Raju is the central character; Rosie and Marco are important to the plot.",
+      "what": "Raju becomes involved in Rosie's life and career, is imprisoned after a fraud, and later lives in a village where his fasting is interpreted as spiritual.",
+      "why": "The novel is important in modern Indian English literature for its Indian setting, accessible prose and complex character development.",
+      "significance": "Do not confuse The Guide with Untouchable (Mulk Raj Anand), Kanthapura (Raja Rao) or Train to Pakistan (Khushwant Singh).",
+      "exam": "GKToday books-and-authors topic; author context checked against standard literary references.",
+      "source": "https://www.gktoday.in/quizbase/books-and-authors-gk-questions",
+      "url": [
+        {
+          "label": "GKToday: Books and Authors",
+          "url": "https://www.gktoday.in/quizbase/books-and-authors-gk-questions"
+        },
+        {
+          "label": "R. K. Narayan — biographical reference",
+          "url": "https://www.britannica.com/biography/R-K-Narayan"
+        }
+      ]
+    }
+  }
+}

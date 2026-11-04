@@ -1,7 +1,7 @@
 {
   "subject": "Indian Polity",
   "date": "2026-11-03",
-  "questionCount": 74,
+  "questionCount": 76,
   "coverage": "All active Polity and Polity • PYQ IDs in the 3 November 2026 question-bank snapshot, including twelve new original practice questions.",
   "explanations": {
     "1": {
@@ -855,7 +855,17 @@
       "significance": "Article 17 is an enforceable Fundamental Right and a key constitutional commitment to dignity and equality. It differs from Article 14's general equality guarantee and Article 15's prohibition of discrimination on specified grounds.",
       "exam": "Article 17 = abolition of untouchability. Link it with the Protection of Civil Rights Act, 1955; do not confuse it with Article 14 or Article 15.",
       "source": "Constitution of India — Legislative Department",
-      "url": "https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf"
+      "url": "https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf",
+      "references": [
+        {
+          "label": "Constitution of India — Legislative Department",
+          "url": "https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf"
+        },
+        {
+          "label": "GKToday topic reference",
+          "url": "https://www.gktoday.in/article-17-of-indian-constitution-and-abolishment-of-untouchability/"
+        }
+      ]
     },
     "7106": {
       "title": "Part IV — Directive Principles of State Policy",
@@ -867,8 +877,19 @@
       "significance": "They influence welfare legislation, public health, education, village panchayats, environment and equitable distribution of resources. Courts may use them as interpretive context while respecting the constitutional distinction between Parts III and IV.",
       "exam": "Part III = Fundamental Rights; Part IV = Directive Principles (Articles 36–51); Part IVA = Fundamental Duties (Article 51A). Article 37 explains their non-justiciable status.",
       "source": "Constitution of India — Legislative Department",
-      "url": "https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf"
+      "url": "https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf",
+      "references": [
+        {
+          "label": "Constitution of India — Legislative Department",
+          "url": "https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf"
+        },
+        {
+          "label": "GKToday topic reference",
+          "url": "https://www.gktoday.in/article-37/"
+        }
+      ]
     }
   },
-  "explanationSourceVersion": "Constitution of India, Legislative Department, Ministry of Law and Justice, published 23 December 2025 (text as on November 2025); topic-specific official CAG, ECI, Finance Commission, Panchayati Raj, MoHUA and Rajya Sabha sources where relevant."
+  "explanationSourceVersion": "Constitution of India, Legislative Department, Ministry of Law and Justice, published 23 December 2025 (text as on November 2025); topic-specific official CAG, ECI, Finance Commission, Panchayati Raj, MoHUA and Rajya Sabha sources where relevant.",
+  "updatedAt": "2026-11-04"
 }
