@@ -183,6 +183,7 @@ if (subjectCount !== 14 || chapterCount !== 37) fail('Study Notes expected 14 su
 if (!noteSource.includes('Agriculture, millets & local livelihoods') || !noteSource.includes('Scrutiny and evidence-led return review') || !noteSource.includes('State finance & Union tax devolution') || !noteSource.includes('Finance Commission, tax devolution & grants') || !noteSource.includes('Cryosphere & climate overshoot')) fail('new Study Notes chapters are missing');
 if (!script.includes("const key='mpscV4'")) fail('local progress storage key changed unexpectedly');
 if (!script.includes('mpscTopicPracticeSelectionV1') || !script.includes('function subjectTopicMatches') || !script.includes('ACTIVE_SUBJECT_PRACTICE')) fail('topic-specific practice selection is missing');
+if (!script.includes("details.subject-folder[open]") || !script.includes('data-subject-id=') || !script.includes('openFolders.has(x.id)')) fail('subject folders must stay expanded when topic/revision selection refreshes the library');
 const subjectLibraryMatch = script.match(/const SUBJECT_LIBRARY=(\[[\s\S]*?\]);\s*const STUDY_NOTES=/);
 if (!subjectLibraryMatch) fail('could not locate subject-topic library for filter tests');
 const subjectLibrary = vm.runInNewContext('(' + subjectLibraryMatch[1] + ')');
