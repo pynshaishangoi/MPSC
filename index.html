@@ -228,11 +228,22 @@ function copySubjectNotes(id){const s=STUDY_NOTES.find(x=>x.id===id);if(!s)retur
 let ACTIVE_SUBJECT_PRACTICE=null;
 function subjectTopicMatches(q,item,index){
  const raw=((q.topic||'')+' '+(q.q||'')).toLowerCase();
+ const explicitTopic=String(q.topic||'').toLowerCase().replace(/[^a-z0-9 ]/g,' ').replace(/\s+/g,' ').trim();
+ const targetTopic=String(item.topics[index]||'').toLowerCase().replace(/[^a-z0-9 ]/g,' ').replace(/\s+/g,' ').trim();
+ if(!targetTopic)return false;
+ if(explicitTopic&&explicitTopic.length>5){
+  const generic=['general','history','polity','geography','economy','science','practice','static gk'];
+  if(!generic.includes(explicitTopic)&&explicitTopic!==targetTopic&&!targetTopic.includes(explicitTopic)&&!explicitTopic.includes(targetTopic)){
+   const explicitTokens=explicitTopic.split(/\s+/).filter(w=>w.length>4);
+   const targetTokens=targetTopic.split(/\s+/).filter(w=>w.length>4);
+   if(explicitTokens.length&&targetTokens.length&&!explicitTokens.some(w=>targetTokens.includes(w)))return false;
+  }
+ }
  const rules={
  'indian-history':[
   /ancient|indus|harappa|vedic|maurya|magadha|chedi|ashoka/,
-  /buddh|jain|religio|mahavira/,
-  /medieval|mughal|sultan|chola|kingdom|delhi/,
+  /four noble truth|buddha|buddh|jain|mahavira|tirthankara|religio/,
+  /medieval|mughal|sultan|chola|kingdom|delhi|vijayanagara|bahmani|mansabdari|alauddin|akbar|babur|aurangzeb/,
   /modern|freedom|national movement|inc|colonial|gandhi|independence|quit india|non.?cooperation|civil disobedience/,
   /act|movement|person|reform|colonial policy|inc/
  ],
@@ -259,10 +270,9 @@ function subjectTopicMatches(q,item,index){
  };
  const rule=(rules[item.id]||[])[index];
  if(rule&&rule.test(raw))return true;
- const topic=(q.topic||'').toLowerCase().replace(/[^a-z0-9 ]/g,' ');
- const label=item.topics[index].toLowerCase().replace(/[^a-z0-9 ]/g,' ');
- const terms=label.split(/\s+/).filter(w=>w.length>4&&!['india','important','movements','personalities','practice','basics','topics'].includes(w));
- return terms.some(w=>topic.includes(w));
+ // A topic is matched only by its subject-specific rule or explicit topic metadata.
+ // Do not use loose word overlap: it can leak unrelated questions into practice.
+ return !!explicitTopic&&(explicitTopic===targetTopic||explicitTopic.includes(targetTopic)||targetTopic.includes(explicitTopic));
 }
 function renderSubjectLibrary(){
  const host=document.getElementById('subjectLibrary');if(!host)return;
