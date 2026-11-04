@@ -186,6 +186,18 @@ if (!script.includes('mpscTopicPracticeSelectionV1') || !script.includes('functi
 const subjectLibraryMatch = script.match(/const SUBJECT_LIBRARY=(\[[\s\S]*?\]);\s*const STUDY_NOTES=/);
 if (!subjectLibraryMatch) fail('could not locate subject-topic library for filter tests');
 const subjectLibrary = vm.runInNewContext('(' + subjectLibraryMatch[1] + ')');
+const categoryOwners = new Map();
+for (const subject of subjectLibrary) {
+  if (!Array.isArray(subject.categories) || !subject.categories.length) fail('subject ' + subject.id + ' must declare mapped question categories');
+  for (const category of subject.categories) {
+    if (categoryOwners.has(category)) fail('question category ' + category + ' is assigned to multiple subject folders');
+    categoryOwners.set(category, subject.id);
+  }
+}
+for (const question of active) {
+  const category = String(question.cat || '').replace(/\s*•\s*PYQ$/, '');
+  if (!categoryOwners.has(category)) fail('active question category ' + category + ' is not assigned to a subject folder');
+}
 const matcherStart = script.indexOf('function subjectTopicMatches(');
 const matcherEnd = script.indexOf('function renderSubjectLibrary', matcherStart);
 if (matcherStart < 0 || matcherEnd < 0) fail('could not locate topic matcher for filter tests');
