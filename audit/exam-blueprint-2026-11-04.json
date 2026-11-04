@@ -2,7 +2,7 @@
   "date": "2026-11-04",
   "methodology": {
     "officialSourcePriority": "Official MPSC and district notices, official question papers and final answer keys take precedence.",
-    "frequencyRule": "Report topic frequency only from a complete, verified paper sample. Do not infer future examination weightage from the hub question-bank composition.",
+    "frequencyRule": "Report topic frequency only from a complete, verified paper sample. A single complete paper supports exact within-paper section and question-format counts, but not recurring multi-year trends or predictions for a future cycle. Do not infer future examination weightage from the hub question-bank composition.",
     "confidence": "Confirmed facts are separated from provisional study recommendations. No future-question prediction is made."
   },
   "questionBankSnapshot": {
@@ -45,26 +45,30 @@
         {
           "fact": "An official MPSC result notice confirms that the screening test for the April 2017 recruitment was held on 27 February 2021; the result notice is dated 21 October 2021.",
           "source": "https://mpsc.meghalaya.gov.in/results/Result21Oct2021a.pdf"
+        },
+        {
+          "fact": "The official MPSC Inspector of Tax Series III booklet records the examination date as 27 February 2021, 150 questions, 300 marks, 2½ hours and no negative marking; it divides the paper into 50 General English, 50 General Knowledge & Aptitude and 50 Mathematics questions.",
+          "source": "https://mpsc.meghalaya.gov.in/misc/27022021IOT21.pdf"
         }
       ],
       "notVerified": [
-        "A current post-specific Inspector of Taxes syllabus was not listed on the MPSC syllabus page reviewed on 4 November 2026.",
-        "A current Inspector of Taxes question paper and official subject-wise weightage were not found in the MPSC PYQ index reviewed on 4 November 2026.",
-        "No current 150-question or 50-50-50 section split is claimed."
+        "A current post-specific Inspector of Taxes syllabus was not listed on the MPSC syllabus index reviewed on 4 November 2026.",
+        "A verified official final answer key for the 27 February 2021 Inspector of Tax booklet was not located in this review; do not attach unverified answer indices.",
+        "The 2021 paper is one historical sample from the April 2017 recruitment cycle. It cannot establish recurring multi-year topic frequencies or the pattern of a future recruitment."
       ],
       "provisionalPreparation": [
-        "General English and comprehension",
-        "Meghalaya and Indian General Awareness, polity, economy and current affairs",
-        "Arithmetic and reasoning",
-        "Constitutional finance and public audit (Articles 148–151 and 280–281)",
-        "GST and tax-administration concepts; verify relevant Acts, rules and notifications at examination time"
+        "Use the historical 50 English + 50 General Knowledge & Aptitude + 50 Mathematics structure for a diagnostic timed mock, not as a guaranteed future pattern.",
+        "Practise English error spotting, idioms, word meanings, antonyms, collocations and fill-in-the-blanks.",
+        "Revise Meghalaya and Indian General Awareness, polity, history, geography, science, economy, sports and international organisations.",
+        "Practise aptitude and mathematics: direction sense, series, averages, ages, ratio, percentages, SI/CI, profit/loss, partnership, work/rate, speed/distance and mensuration.",
+        "Study GST/tax administration, constitutional finance and public audit as role-related knowledge; do not assume a separate technical examination section unless the next official syllabus says so."
       ],
       "questionBankSupport": {
         "officerTechnicalQuestions": 17,
         "gstInspectorQuestions": 15,
         "examTaggedRecords": 11
       },
-      "confidence": "Historical recruitment and screening facts are confirmed; current syllabus and pattern are not verified. The preparation mix is provisional.",
+      "confidence": "High confidence in the printed structure of one complete official 2021 paper; insufficient evidence for recurring multi-year topic frequencies or a future examination pattern.",
       "pagesReviewed": [
         {
           "label": "MPSC archives (historical Inspector of Taxes recruitment notices)",
@@ -77,8 +81,114 @@
         {
           "label": "MPSC previous-year question index reviewed",
           "url": "https://mpsc.meghalaya.gov.in/pyq.html"
+        },
+        {
+          "label": "Official Inspector of Tax question booklet — Series III, examination dated 27 February 2021",
+          "url": "https://mpsc.meghalaya.gov.in/misc/27022021IOT21.pdf"
         }
-      ]
+      ],
+      "observedSample": {
+        "paper": "Inspector of Tax — Series III",
+        "advertisementCycle": "April 2017",
+        "examDate": "2021-02-27",
+        "questionCount": 150,
+        "marks": 300,
+        "durationMinutes": 150,
+        "negativeMarking": "The booklet explicitly states that there will NOT be negative marking for wrong answers.",
+        "marksPerQuestion": 2,
+        "sections": [
+          {
+            "name": "General English",
+            "questions": 50,
+            "marks": 100,
+            "printedQuestionRange": "1–50",
+            "formats": [
+              {
+                "format": "Sentence error identification",
+                "questions": 10,
+                "questionRange": "1–10"
+              },
+              {
+                "format": "Idioms and phrases",
+                "questions": 10,
+                "questionRange": "11–20"
+              },
+              {
+                "format": "Word meaning / synonyms",
+                "questions": 10,
+                "questionRange": "21–30"
+              },
+              {
+                "format": "Antonyms",
+                "questions": 10,
+                "questionRange": "31–40"
+              },
+              {
+                "format": "Fill in the blanks",
+                "questions": 10,
+                "questionRange": "41–50"
+              }
+            ]
+          },
+          {
+            "name": "General Knowledge & Aptitude",
+            "questions": 50,
+            "marks": 100,
+            "printedQuestionRange": "51–100",
+            "subsections": [
+              {
+                "name": "General Knowledge",
+                "questions": 25,
+                "questionRange": "51–75",
+                "observedThemes": [
+                  "United Nations and international organisations",
+                  "Science and everyday applications",
+                  "Indian history and national movement",
+                  "Meghalaya political history",
+                  "Geography and world places",
+                  "Sports and awards",
+                  "Constitution and polity",
+                  "Economy and public administration"
+                ]
+              },
+              {
+                "name": "Aptitude",
+                "questions": 25,
+                "questionRange": "76–100",
+                "observedThemes": [
+                  "Direction and distance",
+                  "Number series",
+                  "Averages and ages",
+                  "Mensuration",
+                  "Simple and compound interest",
+                  "Ratio, proportion and fractions",
+                  "Profit, loss and partnership",
+                  "Algebra and number operations"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Mathematics",
+            "questions": 50,
+            "marks": 100,
+            "printedQuestionRange": "101–150",
+            "observedThemes": [
+              "Time, speed and distance; trains and boats",
+              "Ages and averages",
+              "Simple and compound interest",
+              "Number series and number properties",
+              "Mensuration and geometry",
+              "Percentages and ratios",
+              "Profit, loss and discount",
+              "Partnership and work/rate problems",
+              "Pipes, wages and combined work"
+            ]
+          }
+        ],
+        "difficultyAssessment": "The official booklet does not label difficulty. Editorial assessment: English ranges from direct grammar to challenging vocabulary; General Knowledge is mainly factual recall; Aptitude and Mathematics include multi-step word problems and calculations. Overall difficulty is mixed, with several moderate-to-challenging quantitative items. This is qualitative, not an official rating.",
+        "frequencyCaution": "These are counts and themes from one complete historical paper only. They are not recurring frequencies across multiple examinations and do not predict future questions."
+      }
     },
     {
       "exam": "DSC East Khasi Hills LDA-cum-Typist",

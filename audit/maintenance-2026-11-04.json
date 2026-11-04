@@ -1,8 +1,8 @@
 {
   "date": "2026-11-04",
   "repository": "pynshaishangoi/MPSC",
-  "branch": "daily/gs-gst-explanations-topic-practice-2026-11-04",
-  "baseCommit": "19284e3990c9c398bc66bb15455a2b319442285a",
+  "branch": "daily/english-explanations-iot-blueprint-2026-11-04",
+  "baseCommit": "1222023448cfccde92d34b70fdf9abf5d2615c4e",
   "dataCommit": "75f2bde2de8cab988b0b4489538768cbf895e848",
   "scope": [
     "Add structured General Studies explanations for 12 GKToday-inspired questions",
@@ -11,7 +11,11 @@
     "Add dated current-affairs feed with Meghalaya S&T Scoreboard data",
     "Integrate five explanation libraries and multi-reference rendering",
     "Port topic-specific practice selection and separate revision checklist from reviewed PR #38",
-    "Update service-worker cache, README, exam blueprint and validation audit"
+    "Update service-worker cache, README, exam blueprint and validation audit",
+    "Add 20 structured English explanations for active question IDs 21–30 and 136–145",
+    "Load and precache a sixth explanation library while preserving the mpscV4 progress key",
+    "Update the explanation coverage audit from 158 to 178 IDs",
+    "Correct the Inspector of Taxes blueprint using the official 27 February 2021 MPSC paper"
   ],
   "questionBank": {
     "activeUniqueQuestionRecords": 821,
@@ -41,25 +45,53 @@
     }
   },
   "explanationCoverage": {
-    "before": 125,
-    "after": 158,
-    "coveragePercent": 19.2,
-    "newGeneralStudies": 12,
-    "newGST": 15,
-    "newCurrentAffairs": 6
+    "before": 158,
+    "after": 178,
+    "coveragePercent": 21.7,
+    "englishAdded": 20,
+    "englishActiveTotal": 145,
+    "englishRemaining": 125,
+    "allActiveRemaining": 643
   },
   "examFindings": {
     "mpscSecretariatLdaTranscribed": 91,
     "paperTotal": 150,
     "englishQuestions": 75,
     "generalAwarenessSample": 16,
-    "missingQuestionNumbers": "92–150"
+    "missingQuestionNumbers": "92–150",
+    "inspectorOfTaxes": {
+      "officialPaperDate": "2021-02-27",
+      "questions": 150,
+      "marks": 300,
+      "durationMinutes": 150,
+      "negativeMarking": false,
+      "sections": [
+        {
+          "name": "General English",
+          "questions": 50
+        },
+        {
+          "name": "General Knowledge & Aptitude",
+          "questions": 50
+        },
+        {
+          "name": "Mathematics",
+          "questions": 50
+        }
+      ],
+      "evidenceSampleCount": 1,
+      "answerKeyVerified": false
+    }
   },
   "sourcesReviewed": [
     "GKToday topic pages across history, geography, polity, economy, environment, science, culture, computer, international organisations and books/authors",
     "MPSC official syllabus, PYQ, answer-key and archives pages",
     "East Khasi Hills DSC official written, typing and Khasi-language notices",
-    "CBIC/GST Portal, CBD Secretariat, BIPM, UN Charter, NASA, NITI Aayog, TRAI, PIB and Reuters"
+    "CBIC/GST Portal, CBD Secretariat, BIPM, UN Charter, NASA, NITI Aayog, TRAI, PIB and Reuters",
+    "Official MPSC Inspector of Tax Series III question booklet dated 27 February 2021",
+    "MPSC official archives and syllabus index",
+    "British Council LearnEnglish grammar references",
+    "Cambridge Dictionary and GKToday vocabulary for competitive exams"
   ],
   "pullRequest": {
     "number": 40,
@@ -68,22 +100,19 @@
     "validatedHeadCommit": "3210cf79a7a52045ffd3b98ce4302010b6aa2f35"
   },
   "validation": {
-    "status": "passed for validatedHeadCommit",
+    "status": "pending on pull-request head",
     "workflow": "Validate MPSC Study Hub",
-    "runNumber": 31,
-    "runId": 41769247409,
-    "conclusion": "success",
-    "validatedCommit": "3210cf79a7a52045ffd3b98ce4302010b6aa2f35",
-    "note": "A new run will validate this maintenance-log update before merge."
+    "note": "Merge only after the PR-triggered validation workflow passes on the final head SHA."
   },
   "deployment": {
     "status": "pending",
-    "note": "Pages deployment will be checked after merge; no deployment claim before the workflow and live-site checks succeed."
+    "note": "Verify the Pages deployment workflow and live GitHub Pages URL after merge; no deployment claim before both checks."
   },
   "nextPriorities": [
-    "English question-by-question grammar and vocabulary explanations",
-    "Arithmetic worked solutions with formula, substitution and checks",
-    "Meghalaya GK explanations with authoritative regional sources"
+    "Complete the remaining 125 English explanation IDs",
+    "Add worked explanations for the 160 Arithmetic questions",
+    "Build Meghalaya GK explanations with Meghalaya Government and district sources",
+    "Verify whether an official Inspector of Tax final answer key exists before any PYQ answer mapping"
   ],
   "integrationCommit": "9ada917c378c907211158e7e369c5eb06cdc9e7e",
   "deduplication": {
@@ -130,18 +159,10 @@
     "README.md",
     "sw.js",
     "scripts/validate-repo.cjs",
-    "explanations/history.json",
-    "explanations/polity.json",
-    "explanations/general-studies.json",
-    "explanations/gst.json",
-    "explanations/current-affairs.json",
-    "question-batches/2026-11-03-gktoday-gs.json",
-    "question-batches/2026-11-04-current-affairs.json",
-    "current-affairs/2026-11-03.json",
+    "explanations/english.json",
     "audit/explanation-coverage-2026-11-04.json",
     "audit/exam-blueprint-2026-11-04.json",
-    "audit/maintenance-2026-11-04.json",
-    "question-batches/2026-10-10.json (deleted)"
+    "audit/maintenance-2026-11-04.json"
   ],
   "sourceReview": [
     "NITI Aayog India S&T Scoreboard: PIB launch release dated 3 November 2026 and official dashboard reviewed; unverified Meghalaya state-level numeric claim removed."
