@@ -15,6 +15,17 @@ body.dark .ex .explainTitle {
 }
 .explain-detail{margin-top:10px;color:#172033}.explain-detail h4{font-size:1.05rem;margin:8px 0 10px;color:#173ea5}.explain-detail>p,.explain-detail section p{font-size:15px;line-height:1.7;margin:5px 0 12px;color:#263247}.explain-detail section{border-top:1px solid #cbd5e1;padding-top:9px;margin-top:9px}.explain-detail section>b{display:block;color:#173ea5;font-size:14px}.explain-detail .small{display:block;margin-top:12px;line-height:1.5;color:#475569}.explain-detail a{color:#1d4ed8;text-decoration:underline}body.dark .explain-detail,body.dark .explain-detail p{color:#172033}body.dark .explain-detail h4,body.dark .explain-detail section>b{color:#173ea5}body.dark .explain-detail .small{color:#475569}.subject-folder .opt{background:transparent}.subject-folder .opt label{cursor:pointer}.subject-folder .opt input{min-width:18px;width:18px;height:18px;flex:0 0 auto;margin-top:2px}@media(max-width:480px){.subject-folder .opt{grid-template-columns:minmax(0,1fr) auto!important}.subject-folder .opt>label:last-child{font-size:11px}}
 
+/* Responsive quick-launch cards in both themes */
+.dashboard-shortcuts{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:16px 0}
+.shortcut{min-height:132px;padding:17px;border:1px solid var(--line);border-radius:17px;background:var(--card);color:var(--text);text-align:left;display:flex;flex-direction:column;gap:8px;cursor:pointer;transition:transform .16s ease,border-color .16s ease}
+.shortcut:hover{border-color:var(--primary2);transform:translateY(-2px)}
+.shortcut .shortcut-icon{font-size:25px}
+.shortcut b{font-size:15px}
+.shortcut span:last-child{font-size:12px;color:var(--muted);line-height:1.45}
+.dashboard-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin:22px 2px 12px}
+.dashboard-heading h3{font-size:18px;margin:0}
+.dashboard-heading span{font-size:12px;color:var(--muted)}
+@media(max-width:760px){.dashboard-shortcuts{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.shortcut{min-height:118px;padding:13px}}
 /* Premium learning-platform visual system */
 :root{color-scheme:light}
 body.dark{--bg:#080b13;--card:#121827;--text:#f3f6ff;--muted:#a5afc4;--line:#273247;--primary:#5578ee;--primary2:#7895ff;--good:#35c889;--bad:#fb7185;--warn:#f2ad55;--shadow:0 14px 36px rgba(0,0,0,.24);background:radial-gradient(ellipse at 15% 0%,#152447 0%,#0b1020 36%,#080b13 72%);color:var(--text)}
