@@ -61,14 +61,24 @@
     "East Khasi Hills DSC official written, typing and Khasi-language notices",
     "CBIC/GST Portal, CBD Secretariat, BIPM, UN Charter, NASA, NITI Aayog, TRAI, PIB and Reuters"
   ],
-  "pullRequest": null,
+  "pullRequest": {
+    "number": 40,
+    "url": "https://github.com/pynshaishangoi/MPSC/pull/40",
+    "base": "main",
+    "validatedHeadCommit": "3210cf79a7a52045ffd3b98ce4302010b6aa2f35"
+  },
   "validation": {
-    "status": "pending GitHub Actions",
-    "local": "Active loader paths and question IDs were parsed from the branch; 821 active IDs are unique across 12 loaded batches. Repository validator will run in the pull request."
+    "status": "passed for validatedHeadCommit",
+    "workflow": "Validate MPSC Study Hub",
+    "runNumber": 31,
+    "runId": 41769247409,
+    "conclusion": "success",
+    "validatedCommit": "3210cf79a7a52045ffd3b98ce4302010b6aa2f35",
+    "note": "A new run will validate this maintenance-log update before merge."
   },
   "deployment": {
-    "status": "not yet verified",
-    "note": "Do not claim deployment until the Pages workflow succeeds and the live site reflects the new cache."
+    "status": "pending",
+    "note": "Pages deployment will be checked after merge; no deployment claim before the workflow and live-site checks succeed."
   },
   "nextPriorities": [
     "English question-by-question grammar and vocabulary explanations",
