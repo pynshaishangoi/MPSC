@@ -216,7 +216,7 @@
   "explanationCoverageAudit": "audit/explanation-coverage-2026-11-04.json",
   "sourceStrategy": {
     "gkToday": "Use GKToday topic quizzes and articles across history, culture, geography, polity, economy, science, environment, international organisations, books/authors, important days, awards and sports. Write original questions and explanations; do not copy protected wording.",
-    "crossChecks": "Cross-check constitutional, statutory, tax, treaty, standards and time-sensitive facts against primary official sources. Use Meghalaya Government, MPSC and district administration for regional facts.",
+    "crossChecks": "Cross-check constitutional, statutory, tax, treaty, standards and time-sensitive facts against primary official sources. Use Meghalaya Government, MPSC and district administration for regional facts. For the 3 November 2026 India S&T Scoreboard item, the PIB launch release and NITI Aayog dashboard are the primary references; no unverified Meghalaya-specific numeric ranking is stated.",
     "specialist": "Use standard grammar/textbook sources for English, worked solutions for arithmetic/reasoning, official GST Acts/Rules and GST Portal guidance for tax, and authoritative technical references for computer and science."
   },
   "currentAffairsFeed": {
@@ -224,7 +224,7 @@
     "datedItems": 6,
     "sourceDate": "2026-11-03",
     "checkedOn": "2026-11-04",
-    "note": "Includes Meghalaya research-publication indicator; rank is for publication count only."
+    "note": "Includes NITI Aayog's State/UT S&T benchmarking platform and Meghalaya profile context; no unverified Meghalaya ranking or state-level count is used."
   },
   "deduplication": {
     "activeLoadedQuestionIdsUnique": true,

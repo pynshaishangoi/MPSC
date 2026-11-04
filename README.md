@@ -79,7 +79,7 @@ The hub includes topic-wise practice, timed mocks, post-test explanations, progr
 
 ## Dated current affairs
 
-The 3 November 2026 feed contains six dated items: Exercise Tiger Triumph, India–Sri Lanka Coast Guard cooperation, the NITI Aayog India S&T Scoreboard (including Meghalaya's publication-count indicator), TRAI's Third Amendment Regulations, the Indian Navy rescue of Azini and COP31 in Antalya. See [current-affairs/2026-11-03.json](current-affairs/2026-11-03.json). All current-affairs questions are labelled practice, not PYQ.
+The 3 November 2026 feed contains six dated items: Exercise Tiger Triumph, India–Sri Lanka Coast Guard cooperation, the NITI Aayog India S&T Scoreboard (including Meghalaya's State/UT profile context; no unverified state-level numerical ranking is claimed), TRAI's Third Amendment Regulations, the Indian Navy rescue of Azini and COP31 in Antalya. See [current-affairs/2026-11-03.json](current-affairs/2026-11-03.json). All current-affairs questions are labelled practice, not PYQ.
 
 ## Official source links
 

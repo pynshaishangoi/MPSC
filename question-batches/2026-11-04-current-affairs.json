@@ -46,22 +46,22 @@
     {
       "id": 7139,
       "cat": "Current Affairs",
-      "topic": "India S&T Scoreboard and Meghalaya research output",
-      "q": "The India S&T Scoreboard launched by NITI Aayog in November 2026 is designed to provide an integrated view of which areas across States and Union Territories?",
+      "topic": "India S&T Scoreboard: sectors covered",
+      "q": "The India S&T Scoreboard launched by NITI Aayog on 3 November 2026 presents indicators across which three sectors?",
       "o": [
-        "Research, patents and innovation",
-        "School enrolment and literacy only",
-        "Defence procurement and exports only",
-        "Agricultural land ownership only"
+        "Academia, Government R&D Labs and Industry",
+        "Agriculture, Defence and Health",
+        "Primary, secondary and higher education",
+        "Public, private and cooperative banking"
       ],
       "a": 0,
       "difficulty": "Medium",
       "exam": "Common MPSC; Inspector of Taxes; DSC LDA",
-      "source": "NITI Aayog India S&T Scoreboard; data checked 4 November 2026",
-      "sourceURL": "https://www.sts.niti.gov.in/index.html",
+      "source": "Press Information Bureau, Government of India, release dated 3 November 2026; NITI Aayog dashboard",
+      "sourceURL": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2332136",
       "publishedDate": "2026-11-03",
-      "verificationStatus": "Original practice item; checked against dated primary or reputable source; not an official PYQ.",
-      "e": "The scoreboard combines research-publication, patent and ecosystem indicators. FY2024-25 data show 223,005 Indian research publications and 62,934 patent applications. Meghalaya is listed with 1,144 publications, rank 26 among 36 States/UTs for this indicator only."
+      "verificationStatus": "Original practice item; checked against the PIB release dated 3 November 2026 and NITI Aayog dashboard; not a PYQ.",
+      "e": "The India S&T Scoreboard covers three sectors: Academia, Government R&D Labs and Industry. It brings together data on higher-education and R&D institutions, deep-tech startups and incubators with outputs such as research publications and patents. It also displays indicators of research quality, impact, collaboration and open access, enabling State/UT comparison and evidence-based policy. No unverified Meghalaya ranking or state-level count is used in this question."
     },
     {
       "id": 7140,

@@ -142,5 +142,17 @@
     "audit/exam-blueprint-2026-11-04.json",
     "audit/maintenance-2026-11-04.json",
     "question-batches/2026-10-10.json (deleted)"
-  ]
+  ],
+  "sourceReview": [
+    "NITI Aayog India S&T Scoreboard: PIB launch release dated 3 November 2026 and official dashboard reviewed; unverified Meghalaya state-level numeric claim removed."
+  ],
+  "correction": {
+    "date": "2026-11-04",
+    "issue": "A Meghalaya publication count/rank was not independently visible in the official dashboard page retrieved during final source review.",
+    "action": "Removed the unverified state-level numeric claim from the current-affairs feed, explanation, practice question and homepage. Reframed the question around the three sectors explicitly stated in the PIB release.",
+    "primarySources": [
+      "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2332136",
+      "https://www.sts.niti.gov.in/index.html"
+    ]
+  }
 }
