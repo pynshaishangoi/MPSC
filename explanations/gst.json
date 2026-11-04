@@ -1,0 +1,343 @@
+{
+  "date": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "lawCheckedAsOf": "2026-11-04",
+  "methodology": "GST explanations checked against CBIC Tax Information Portal and GST Portal. Verify amendments, notifications and rules applicable to the tax period.",
+  "questionCount": 15,
+  "explanations": {
+    "3008": {
+      "title": "Input Tax Credit: basic GST mechanism",
+      "overview": "ITC is eligible GST paid on inward supplies used or intended for business and credited against output tax liability, subject to statutory conditions.",
+      "context": "GST reduces cascading: a registered business pays tax on purchases and collects tax on taxable outward supplies.",
+      "who": "The claimant must be registered and the inward goods/services must be used or intended for business, subject to the Act.",
+      "what": "Section 16 requires prescribed documents, supplier-furnished details communicated to the recipient, receipt of goods/services, payment of tax to Government and return compliance. Section 17 restricts non-business/exempt use and blocks specified credits.",
+      "why": "These checks protect the credit chain and prevent claims on fictitious, unreceived or ineligible purchases.",
+      "significance": "ITC is a statutory credit, not automatic. Check invoice, supplier reporting, receipt, tax payment, return filing and blocked-credit rules.",
+      "exam": "Legal anchor: CGST Act, 2017, Sections 16 and 17. Verify amendments and notifications for the tax period.",
+      "source": "CBIC Tax Information Portal; statutory text checked 4 November 2026.",
+      "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001",
+      "references": [
+        {
+          "label": "CBIC Tax Information Portal: CGST Act",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001"
+        },
+        {
+          "label": "CBIC Tax Information Portal: Section 17",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000286/1000001"
+        }
+      ]
+    },
+    "5038": {
+      "title": "Intra-State supply: CGST with SGST/UTGST",
+      "overview": "A normal taxable intra-State supply is generally subject to CGST plus SGST, or CGST plus UTGST where the UTGST law applies.",
+      "context": "GST uses a dual levy within a State/UT and an integrated levy for inter-State supplies.",
+      "who": "The supplier's location and place of supply are the starting points for classification.",
+      "what": "CGST is levied under CGST Act Section 9; the corresponding SGST/UTGST is levied under applicable law. Inter-State supplies are generally subject to IGST.",
+      "why": "Correct classification determines the tax head and avoids short payment or wrong-head payment.",
+      "significance": "Example: at a total 18% rate on ₹10,000, the usual split is CGST ₹900 and SGST/UTGST ₹900, assuming equal split and no special rule.",
+      "exam": "Legal anchor: CGST Act Section 9 and IGST Act Section 8; check place-of-supply rules and exceptions.",
+      "source": "CBIC GST Acts.",
+      "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001",
+      "references": [
+        {
+          "label": "CBIC Tax Information Portal: CGST Act",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001"
+        },
+        {
+          "label": "GST Council",
+          "url": "https://gstcouncil.gov.in/"
+        }
+      ]
+    },
+    "5039": {
+      "title": "Why Input Tax Credit matters",
+      "overview": "ITC allows eligible tax on business inputs to be credited against output GST, reducing cascading. Example: output GST ₹1,800 less eligible ITC ₹900 leaves ₹900 net liability before other adjustments.",
+      "context": "GST reduces cascading: a registered business pays tax on purchases and collects tax on taxable outward supplies.",
+      "who": "The claimant must be registered and the inward goods/services must be used or intended for business, subject to the Act.",
+      "what": "Section 16 requires prescribed documents, supplier-furnished details communicated to the recipient, receipt of goods/services, payment of tax to Government and return compliance. Section 17 restricts non-business/exempt use and blocks specified credits.",
+      "why": "These checks protect the credit chain and prevent claims on fictitious, unreceived or ineligible purchases.",
+      "significance": "ITC is a statutory credit, not automatic. Check invoice, supplier reporting, receipt, tax payment, return filing and blocked-credit rules.",
+      "exam": "ITC is not an unconditional refund; Sections 16 and 17 govern eligibility and restrictions.",
+      "source": "CBIC Tax Information Portal; statutory text checked 4 November 2026.",
+      "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001",
+      "references": [
+        {
+          "label": "CBIC Tax Information Portal: CGST Act",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001"
+        },
+        {
+          "label": "CBIC Tax Information Portal: Section 17",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000286/1000001"
+        }
+      ]
+    },
+    "5085": {
+      "title": "GST: Goods and Services Tax",
+      "overview": "GST stands for Goods and Services Tax, an indirect tax on supply of goods and services in India.",
+      "context": "The Constitution (101st Amendment) Act, 2016 enabled the GST framework; GST commenced on 1 July 2017.",
+      "who": "Union and State/UT governments administer components through the statutory framework and GST Council recommendations.",
+      "what": "CGST, SGST/UTGST and IGST apply according to nature and place of supply.",
+      "why": "GST replaced many earlier indirect levies with a harmonised supply-based framework and ITC chain.",
+      "significance": "For tax-office work, learn the taxable event (supply), direct/indirect tax distinction and intra-State/inter-State components.",
+      "exam": "GST is not a tax on income or profit; it is an indirect tax on supply.",
+      "source": "GST Council and CBIC.",
+      "url": "https://gstcouncil.gov.in/",
+      "references": [
+        {
+          "label": "GKToday: GST",
+          "url": "https://www.gktoday.in/goods-and-services-tax/"
+        },
+        {
+          "label": "GST Council",
+          "url": "https://gstcouncil.gov.in/"
+        },
+        {
+          "label": "CBIC GST Acts",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001"
+        }
+      ]
+    },
+    "5086": {
+      "title": "GSTR-1: outward-supply reporting",
+      "overview": "GSTR-1 is the statement in which a registered supplier reports prescribed details of outward supplies for a tax period.",
+      "context": "Outward supplies are supplies made by the taxpayer; their details support recipient invoice visibility and liability reconciliation.",
+      "who": "The registered supplier furnishes GSTR-1 subject to the applicable filing scheme.",
+      "what": "It includes prescribed invoice, credit/debit note, export and amendment details. GSTR-3B is a separate summary return.",
+      "why": "Accurate data supports invoice-level reporting, recipient visibility and reconciliation with books and GSTR-3B.",
+      "significance": "Reconcile taxable value and tax head-wise, review amendments and confirm the correct period.",
+      "exam": "Legal anchor: CGST Act Section 37 and applicable rules/notifications; check current due dates and tables.",
+      "source": "GST Portal official GSTR-1 guide.",
+      "url": "https://tutorial.gst.gov.in/userguide/returns/Creation_of_Outward_Supplies_Return_in_GSTR-1.htm",
+      "references": [
+        {
+          "label": "GST Portal: GSTR-1 official guide",
+          "url": "https://tutorial.gst.gov.in/userguide/returns/Creation_of_Outward_Supplies_Return_in_GSTR-1.htm"
+        },
+        {
+          "label": "GST Portal",
+          "url": "https://www.gst.gov.in/"
+        }
+      ]
+    },
+    "6128": {
+      "title": "GSTIN: the 15-character identification number",
+      "overview": "A GSTIN is a 15-character alphanumeric identification number assigned to a registered person.",
+      "context": "Its structure uses State/UT code and PAN, followed by entity and check characters.",
+      "who": "The GST Portal assigns the GSTIN on registration.",
+      "what": "Standard structure: first 2 characters—State/UT code; next 10—PAN; 13th—entity number for that PAN in that State; 14th—normally Z; 15th—check digit.",
+      "why": "The structure identifies taxpayer and registration jurisdiction and distinguishes registrations linked to one PAN.",
+      "significance": "Verify GSTIN on the GST Portal before relying on supplier registration details.",
+      "exam": "GSTIN is 15 characters and alphanumeric, not simply a 15-digit number.",
+      "source": "GST Portal and CBIC.",
+      "url": "https://www.gst.gov.in/",
+      "references": [
+        {
+          "label": "GST Portal",
+          "url": "https://www.gst.gov.in/"
+        },
+        {
+          "label": "CBIC Tax Information Portal",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001"
+        }
+      ]
+    },
+    "6129": {
+      "title": "GSTR-1: outward-supply reporting",
+      "overview": "GSTR-1 is the statement in which a registered supplier reports prescribed details of outward supplies for a tax period.",
+      "context": "Outward supplies are supplies made by the taxpayer; their details support recipient invoice visibility and liability reconciliation.",
+      "who": "The registered supplier furnishes GSTR-1 subject to the applicable filing scheme.",
+      "what": "It includes prescribed invoice, credit/debit note, export and amendment details. GSTR-3B is a separate summary return.",
+      "why": "Accurate data supports invoice-level reporting, recipient visibility and reconciliation with books and GSTR-3B.",
+      "significance": "Reconcile taxable value and tax head-wise, review amendments and confirm the correct period.",
+      "exam": "Legal anchor: CGST Act Section 37 and applicable rules/notifications; check current due dates and tables.",
+      "source": "GST Portal official GSTR-1 guide.",
+      "url": "https://tutorial.gst.gov.in/userguide/returns/Creation_of_Outward_Supplies_Return_in_GSTR-1.htm",
+      "references": [
+        {
+          "label": "GST Portal: GSTR-1 official guide",
+          "url": "https://tutorial.gst.gov.in/userguide/returns/Creation_of_Outward_Supplies_Return_in_GSTR-1.htm"
+        },
+        {
+          "label": "GST Portal",
+          "url": "https://www.gst.gov.in/"
+        }
+      ]
+    },
+    "6156": {
+      "title": "CGST and SGST/UTGST on intra-State supplies",
+      "overview": "A normal taxable intra-State supply is generally subject to CGST plus SGST, or CGST plus UTGST where the UTGST law applies.",
+      "context": "GST uses a dual levy within a State/UT and an integrated levy for inter-State supplies.",
+      "who": "The supplier's location and place of supply are the starting points for classification.",
+      "what": "CGST is levied under CGST Act Section 9; the corresponding SGST/UTGST is levied under applicable law. Inter-State supplies are generally subject to IGST.",
+      "why": "Correct classification determines the tax head and avoids short payment or wrong-head payment.",
+      "significance": "Example: at a total 18% rate on ₹10,000, the usual split is CGST ₹900 and SGST/UTGST ₹900, assuming equal split and no special rule.",
+      "exam": "Legal anchor: CGST Act Section 9 and IGST Act Section 8; check place-of-supply rules and exceptions.",
+      "source": "CBIC GST Acts.",
+      "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001",
+      "references": [
+        {
+          "label": "CBIC Tax Information Portal: CGST Act",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001"
+        },
+        {
+          "label": "GST Council",
+          "url": "https://gstcouncil.gov.in/"
+        }
+      ]
+    },
+    "6157": {
+      "title": "ITC requires business use and statutory compliance",
+      "overview": "ITC is generally available for inward supplies used or intended for business, subject to documentary, receipt, supplier-reporting, payment and return conditions.",
+      "context": "GST reduces cascading: a registered business pays tax on purchases and collects tax on taxable outward supplies.",
+      "who": "The claimant must be registered and the inward goods/services must be used or intended for business, subject to the Act.",
+      "what": "Section 16 requires prescribed documents, supplier-furnished details communicated to the recipient, receipt of goods/services, payment of tax to Government and return compliance. Section 17 restricts non-business/exempt use and blocks specified credits.",
+      "why": "These checks protect the credit chain and prevent claims on fictitious, unreceived or ineligible purchases.",
+      "significance": "ITC is a statutory credit, not automatic. Check invoice, supplier reporting, receipt, tax payment, return filing and blocked-credit rules.",
+      "exam": "Business equipment may qualify if all conditions are met; personal-use and blocked-credit categories may not. Apply Section 17(5).",
+      "source": "CBIC Tax Information Portal; statutory text checked 4 November 2026.",
+      "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001",
+      "references": [
+        {
+          "label": "CBIC Tax Information Portal: CGST Act",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001"
+        },
+        {
+          "label": "CBIC Tax Information Portal: Section 17",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000286/1000001"
+        }
+      ]
+    },
+    "6196": {
+      "title": "IGST on inter-State supplies",
+      "overview": "IGST is generally levied on inter-State supplies of goods or services or both.",
+      "context": "Classification applies the location-of-supplier and place-of-supply rules.",
+      "who": "Supplier, recipient and place of supply must be identified; special rules apply to goods, services, imports, exports and SEZ supplies.",
+      "what": "IGST Act Section 5 is the charging provision; Section 7 sets out inter-State supply rules.",
+      "why": "Correct classification routes tax through the integrated mechanism and supports settlement between Union and States.",
+      "significance": "A supplier in Meghalaya supplying goods to a recipient in Assam will generally make an inter-State supply, subject to place-of-supply rules and exceptions.",
+      "exam": "Legal anchor: IGST Act Sections 5 and 7 and Chapter V. Do not classify only by billing address.",
+      "source": "CBIC GST Acts and GST Council.",
+      "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001",
+      "references": [
+        {
+          "label": "CBIC Tax Information Portal: GST Acts",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001"
+        },
+        {
+          "label": "GST Council",
+          "url": "https://gstcouncil.gov.in/"
+        }
+      ]
+    },
+    "6197": {
+      "title": "GSTR-1: outward-supply reporting",
+      "overview": "GSTR-1 is the statement in which a registered supplier reports prescribed details of outward supplies for a tax period.",
+      "context": "Outward supplies are supplies made by the taxpayer; their details support recipient invoice visibility and liability reconciliation.",
+      "who": "The registered supplier furnishes GSTR-1 subject to the applicable filing scheme.",
+      "what": "It includes prescribed invoice, credit/debit note, export and amendment details. GSTR-3B is a separate summary return.",
+      "why": "Accurate data supports invoice-level reporting, recipient visibility and reconciliation with books and GSTR-3B.",
+      "significance": "Reconcile taxable value and tax head-wise, review amendments and confirm the correct period.",
+      "exam": "Legal anchor: CGST Act Section 37 and applicable rules/notifications; check current due dates and tables.",
+      "source": "GST Portal official GSTR-1 guide.",
+      "url": "https://tutorial.gst.gov.in/userguide/returns/Creation_of_Outward_Supplies_Return_in_GSTR-1.htm",
+      "references": [
+        {
+          "label": "GST Portal: GSTR-1 official guide",
+          "url": "https://tutorial.gst.gov.in/userguide/returns/Creation_of_Outward_Supplies_Return_in_GSTR-1.htm"
+        },
+        {
+          "label": "GST Portal",
+          "url": "https://www.gst.gov.in/"
+        }
+      ]
+    },
+    "6228": {
+      "title": "Intra-State GST is split between Centre and State/UT",
+      "overview": "A normal taxable intra-State supply is generally subject to CGST plus SGST, or CGST plus UTGST where the UTGST law applies.",
+      "context": "GST uses a dual levy within a State/UT and an integrated levy for inter-State supplies.",
+      "who": "The supplier's location and place of supply are the starting points for classification.",
+      "what": "CGST is levied under CGST Act Section 9; the corresponding SGST/UTGST is levied under applicable law. Inter-State supplies are generally subject to IGST.",
+      "why": "Correct classification determines the tax head and avoids short payment or wrong-head payment.",
+      "significance": "Example: at a total 18% rate on ₹10,000, the usual split is CGST ₹900 and SGST/UTGST ₹900, assuming equal split and no special rule.",
+      "exam": "Legal anchor: CGST Act Section 9 and IGST Act Section 8; check place-of-supply rules and exceptions.",
+      "source": "CBIC GST Acts.",
+      "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001",
+      "references": [
+        {
+          "label": "CBIC Tax Information Portal: CGST Act",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001"
+        },
+        {
+          "label": "GST Council",
+          "url": "https://gstcouncil.gov.in/"
+        }
+      ]
+    },
+    "6229": {
+      "title": "A tax invoice is necessary evidence, not the whole ITC test",
+      "overview": "A tax invoice or debit note is one documentary condition; possession alone does not establish full eligibility.",
+      "context": "GST reduces cascading: a registered business pays tax on purchases and collects tax on taxable outward supplies.",
+      "who": "The claimant must be registered and the inward goods/services must be used or intended for business, subject to the Act.",
+      "what": "Section 16 requires prescribed documents, supplier-furnished details communicated to the recipient, receipt of goods/services, payment of tax to Government and return compliance. Section 17 restricts non-business/exempt use and blocks specified credits.",
+      "why": "These checks protect the credit chain and prevent claims on fictitious, unreceived or ineligible purchases.",
+      "significance": "ITC is a statutory credit, not automatic. Check invoice, supplier reporting, receipt, tax payment, return filing and blocked-credit rules.",
+      "exam": "Section 16(2)(a) requires a prescribed document, while other clauses impose additional conditions. Read Section 16 with Section 17.",
+      "source": "CBIC Tax Information Portal; statutory text checked 4 November 2026.",
+      "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001",
+      "references": [
+        {
+          "label": "CBIC Tax Information Portal: CGST Act",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000285/1000001"
+        },
+        {
+          "label": "CBIC Tax Information Portal: Section 17",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-act/1000286/1000001"
+        }
+      ]
+    },
+    "6230": {
+      "title": "GSTR-1: outward-supply reporting",
+      "overview": "GSTR-1 is the statement in which a registered supplier reports prescribed details of outward supplies for a tax period.",
+      "context": "Outward supplies are supplies made by the taxpayer; their details support recipient invoice visibility and liability reconciliation.",
+      "who": "The registered supplier furnishes GSTR-1 subject to the applicable filing scheme.",
+      "what": "It includes prescribed invoice, credit/debit note, export and amendment details. GSTR-3B is a separate summary return.",
+      "why": "Accurate data supports invoice-level reporting, recipient visibility and reconciliation with books and GSTR-3B.",
+      "significance": "Reconcile taxable value and tax head-wise, review amendments and confirm the correct period.",
+      "exam": "Legal anchor: CGST Act Section 37 and applicable rules/notifications; check current due dates and tables.",
+      "source": "GST Portal official GSTR-1 guide.",
+      "url": "https://tutorial.gst.gov.in/userguide/returns/Creation_of_Outward_Supplies_Return_in_GSTR-1.htm",
+      "references": [
+        {
+          "label": "GST Portal: GSTR-1 official guide",
+          "url": "https://tutorial.gst.gov.in/userguide/returns/Creation_of_Outward_Supplies_Return_in_GSTR-1.htm"
+        },
+        {
+          "label": "GST Portal",
+          "url": "https://www.gst.gov.in/"
+        }
+      ]
+    },
+    "6244": {
+      "title": "Reconciling GSTR-1 and GSTR-3B differences",
+      "overview": "GSTR-1 is the outward-supply statement; GSTR-3B is a summary return. A difference is a reconciliation signal, not proof of evasion by itself.",
+      "context": "Differences may arise from timing, amendments, credit/debit notes, tax-head classification, reverse charge, exports/SEZ, advances or data-entry errors.",
+      "who": "Reconcile books, GSTR-1, GSTR-3B, e-invoice data where applicable and tax ledgers; document period and tax-head comparison.",
+      "what": "Compare taxable value and CGST, SGST/UTGST and IGST separately. Identify invoices/notes causing the difference, obtain an explanation and check whether correction or payment is required.",
+      "why": "A disciplined reconciliation separates genuine reporting differences from short-reported liability and creates an auditable trail.",
+      "significance": "Example: ₹5,00,000 in GSTR-1 versus ₹4,80,000 in GSTR-3B is initially a ₹20,000 taxable-value difference, not ₹20,000 tax. Identify the rate and transaction cause first.",
+      "exam": "Legal anchor: CGST Act Sections 37, 39 and 61 and CGST Rules Rule 99; follow ASMT-10/11 where applicable and do not demand solely from a headline mismatch.",
+      "source": "CBIC and GST Portal return guidance.",
+      "url": "https://tutorial.gst.gov.in/userguide/returns/Creation_of_Outward_Supplies_Return_in_GSTR-1.htm",
+      "references": [
+        {
+          "label": "GST Portal: GSTR-1 official guide",
+          "url": "https://tutorial.gst.gov.in/userguide/returns/Creation_of_Outward_Supplies_Return_in_GSTR-1.htm"
+        },
+        {
+          "label": "GST Portal",
+          "url": "https://www.gst.gov.in/"
+        }
+      ]
+    }
+  }
+}

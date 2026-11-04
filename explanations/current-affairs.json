@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-04",
+  "updatedAt": "2026-11-04",
+  "methodology": "Dated explanations based on PIB, NITI Aayog, TRAI and Reuters where relevant.",
+  "questionCount": 6,
+  "explanations": {
+    "7137": {
+      "title": "Exercise Tiger Triumph 2026: India and the United States",
+      "overview": "Exercise Tiger Triumph is a bilateral tri-service humanitarian assistance and disaster relief exercise between India and the United States.",
+      "context": "HADR exercises test how military forces support civilian authorities during major disasters.",
+      "who": "The Indian Army, Navy and Air Force work with United States counterparts.",
+      "what": "The exercise builds joint planning and coordination for disaster relief.",
+      "why": "Disaster response needs logistics, communications, medical support, evacuation planning and civilian coordination.",
+      "significance": "Remember India + US + tri-service HADR; it is not a conventional combat exercise.",
+      "exam": "PIB Ministry of Defence release, with corroborating reporting.",
+      "source": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2331900",
+      "url": [
+        {
+          "label": "PIB: Exercise Tiger Triumph 2026",
+          "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2331900"
+        },
+        {
+          "label": "The Hans India: exercise coverage",
+          "url": "https://www.thehansindia.com/news/cities/visakhapatnam/opening-ceremony-of-exercise-of-tiger-triumph-2026-held-at-mwc-1139022"
+        }
+      ]
+    },
+    "7138": {
+      "title": "India–Sri Lanka Coast Guard high-level meeting",
+      "overview": "The ninth High-Level Meeting between the Indian Coast Guard and Sri Lanka Coast Guard was held at Mirissa, Sri Lanka, on 3 November 2026.",
+      "context": "India and Sri Lanka share maritime boundaries and common search-and-rescue, pollution and law-enforcement challenges.",
+      "who": "The two Coast Guards are responsible for maritime safety, law enforcement and environmental protection.",
+      "what": "The agenda included search and rescue, marine-pollution response, maritime law enforcement and capacity building.",
+      "why": "Regular institutional meetings improve communication and cross-border response.",
+      "significance": "Remember Mirissa, Sri Lanka; Coast Guard cooperation is distinct from a bilateral naval exercise.",
+      "exam": "PIB / Indian Coast Guard release dated 3 November 2026.",
+      "source": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2332184",
+      "url": [
+        {
+          "label": "PIB: 9th India–Sri Lanka Coast Guard meeting",
+          "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2332184"
+        }
+      ]
+    },
+    "7139": {
+      "title": "India S&T Scoreboard: research, patents and innovation",
+      "overview": "NITI Aayog's India S&T Scoreboard integrates research publications, patent applications and the science-and-technology ecosystem across States and UTs.",
+      "context": "Publication and patent indicators use distinct source datasets; the dashboard also displays supporting institutions and ecosystem indicators.",
+      "who": "NITI Aayog hosts the scoreboard; Web of Science/InCites supports publication analysis and Clarivate DWPI supports patent analysis.",
+      "what": "FY2024-25: 223,005 Indian research publications and 62,934 patent applications. Meghalaya is listed with 1,144 publications, rank 26 among 36 States/UTs for this publication-count indicator.",
+      "why": "The data can help compare research output, but publication rank is not an overall innovation ranking.",
+      "significance": "Meghalaya: 1,144 publications; 26th in the State/UT publication count shown.",
+      "exam": "Read the indicator label carefully; counts and ecosystem measures have different methodologies. Checked 4 November 2026.",
+      "source": "NITI Aayog India S&T Scoreboard.",
+      "url": "https://www.sts.niti.gov.in/index.html",
+      "references": [
+        {
+          "label": "NITI Aayog: India S&T Scoreboard",
+          "url": "https://www.sts.niti.gov.in/index.html"
+        }
+      ]
+    },
+    "7140": {
+      "title": "TRAI's Telecommunication Interconnection Third Amendment, 2026",
+      "overview": "TRAI released the Telecommunication Interconnection (Third Amendment) Regulations, 2026 on 3 November 2026.",
+      "context": "TRAI is India's statutory telecom regulator.",
+      "who": "The release is listed by TRAI's Network, Spectrum and Licensing division.",
+      "what": "The official page identifies the amendment and release date; the downloadable regulation controls the substantive clauses.",
+      "why": "Regulatory amendments can affect telecom interconnection and provider compliance.",
+      "significance": "Know the regulator and date; do not guess technical requirements without reading the notified text.",
+      "exam": "TRAI official regulation page and press release.",
+      "source": "https://www.trai.gov.in/telecommunication-interconnection-third-amendment-regulations-2026",
+      "url": "https://www.trai.gov.in/release-publication/regulations",
+      "references": [
+        {
+          "label": "TRAI: Regulations index",
+          "url": "https://www.trai.gov.in/release-publication/regulations"
+        },
+        {
+          "label": "TRAI: What's New",
+          "url": "https://www.trai.gov.in/what-s-new"
+        }
+      ]
+    },
+    "7141": {
+      "title": "Indian Navy rescue of fishing vessel Azini",
+      "overview": "The Indian Navy reported the rescue of all 20 crew members of the Iranian fishing vessel Azini off Somalia in an operation reported on 3 November 2026.",
+      "context": "The western Indian Ocean combines maritime-security and humanitarian-response challenges.",
+      "who": "The Indian Navy coordinated the rescue response and supporting assets.",
+      "what": "The official release identified Azini and stated that all 20 crew members were rescued.",
+      "why": "The incident demonstrates the Navy's role in maritime assistance and protection of life.",
+      "significance": "Remember Azini and 20 crew; use the PIB release for confirmed facts.",
+      "exam": "PIB Ministry of Defence release dated 3 November 2026.",
+      "source": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2331872",
+      "url": [
+        {
+          "label": "PIB: Indian Navy rescue of Azini",
+          "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2331872"
+        }
+      ]
+    },
+    "7142": {
+      "title": "COP31 in Antalya and the COP30 roadmaps",
+      "overview": "COP31 is scheduled to begin in Antalya, Türkiye, on 9 November 2026. Reuters reported that Brazil's COP30 fossil-fuel and forest roadmaps had not secured consensus.",
+      "context": "The UN climate conference process operates under the UNFCCC.",
+      "who": "Brazil led COP30 in Belém; Türkiye hosts COP31 in Antalya.",
+      "what": "The proposed roadmaps sought to accelerate the shift from fossil fuels and strengthen forest finance but were not adopted by consensus.",
+      "why": "The story illustrates the gap between climate pledges, finance, negotiation and implementation.",
+      "significance": "COP31 = Antalya, Türkiye. Do not describe COP30 proposals as binding decisions.",
+      "exam": "Reuters report dated 3 November 2026.",
+      "source": "https://www.reuters.com/sustainability/cop/brazil-wraps-up-cop30-with-fossil-fuel-forest-roadmaps-urging-shift-talks-action-2026-11-03/",
+      "url": [
+        {
+          "label": "Reuters: COP30 roadmaps and COP31 in Antalya",
+          "url": "https://www.reuters.com/sustainability/cop/brazil-wraps-up-cop30-with-fossil-fuel-forest-roadmaps-urging-shift-talks-action-2026-11-03/"
+        }
+      ]
+    }
+  }
+}

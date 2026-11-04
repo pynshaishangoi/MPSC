@@ -1,0 +1,146 @@
+{
+  "date": "2026-11-04",
+  "repository": "pynshaishangoi/MPSC",
+  "branch": "daily/gs-gst-explanations-topic-practice-2026-11-04",
+  "baseCommit": "19284e3990c9c398bc66bb15455a2b319442285a",
+  "dataCommit": "75f2bde2de8cab988b0b4489538768cbf895e848",
+  "scope": [
+    "Add structured General Studies explanations for 12 GKToday-inspired questions",
+    "Add structured GST/Inspector of Taxes explanations for 15 active questions",
+    "Add six dated 3 November current-affairs questions and detailed explanations",
+    "Add dated current-affairs feed with Meghalaya S&T Scoreboard data",
+    "Integrate five explanation libraries and multi-reference rendering",
+    "Port topic-specific practice selection and separate revision checklist from reviewed PR #38",
+    "Update service-worker cache, README, exam blueprint and validation audit"
+  ],
+  "questionBank": {
+    "activeUniqueQuestionRecords": 821,
+    "pyqTaggedRecords": 111,
+    "newCurrentAffairsQuestions": 6,
+    "subjectCounts": {
+      "Aptitude": 32,
+      "Arithmetic": 160,
+      "Art & Culture": 1,
+      "Books & Authors": 1,
+      "Computer": 11,
+      "Current Affairs": 44,
+      "Economy": 46,
+      "English": 145,
+      "Environment": 27,
+      "General Science": 10,
+      "Geography": 43,
+      "GST / Inspector of Taxes": 15,
+      "History": 49,
+      "International Organisations": 1,
+      "Meghalaya GK": 58,
+      "Officer Technical": 17,
+      "Polity": 76,
+      "Reasoning": 35,
+      "Science": 47,
+      "Static GK": 3
+    }
+  },
+  "explanationCoverage": {
+    "before": 125,
+    "after": 158,
+    "coveragePercent": 19.2,
+    "newGeneralStudies": 12,
+    "newGST": 15,
+    "newCurrentAffairs": 6
+  },
+  "examFindings": {
+    "mpscSecretariatLdaTranscribed": 91,
+    "paperTotal": 150,
+    "englishQuestions": 75,
+    "generalAwarenessSample": 16,
+    "missingQuestionNumbers": "92–150"
+  },
+  "sourcesReviewed": [
+    "GKToday topic pages across history, geography, polity, economy, environment, science, culture, computer, international organisations and books/authors",
+    "MPSC official syllabus, PYQ, answer-key and archives pages",
+    "East Khasi Hills DSC official written, typing and Khasi-language notices",
+    "CBIC/GST Portal, CBD Secretariat, BIPM, UN Charter, NASA, NITI Aayog, TRAI, PIB and Reuters"
+  ],
+  "pullRequest": {
+    "number": 40,
+    "url": "https://github.com/pynshaishangoi/MPSC/pull/40",
+    "base": "main",
+    "validatedHeadCommit": "3210cf79a7a52045ffd3b98ce4302010b6aa2f35"
+  },
+  "validation": {
+    "status": "passed for validatedHeadCommit",
+    "workflow": "Validate MPSC Study Hub",
+    "runNumber": 31,
+    "runId": 41769247409,
+    "conclusion": "success",
+    "validatedCommit": "3210cf79a7a52045ffd3b98ce4302010b6aa2f35",
+    "note": "A new run will validate this maintenance-log update before merge."
+  },
+  "deployment": {
+    "status": "pending",
+    "note": "Pages deployment will be checked after merge; no deployment claim before the workflow and live-site checks succeed."
+  },
+  "nextPriorities": [
+    "English question-by-question grammar and vocabulary explanations",
+    "Arithmetic worked solutions with formula, substitution and checks",
+    "Meghalaya GK explanations with authoritative regional sources"
+  ],
+  "integrationCommit": "9ada917c378c907211158e7e369c5eb06cdc9e7e",
+  "deduplication": {
+    "orphanFileRemoved": "question-batches/2026-10-10.json",
+    "orphanRecordsRemoved": 31,
+    "duplicateQuestionIdsRemovedFromRepository": [
+      "5101",
+      "5102",
+      "5103",
+      "5104",
+      "5105",
+      "5106",
+      "5107",
+      "5108",
+      "5109",
+      "5110",
+      "5111",
+      "5112",
+      "5113",
+      "5114",
+      "5115",
+      "5116",
+      "5117",
+      "5118",
+      "5119",
+      "5120",
+      "5121",
+      "5122",
+      "5123",
+      "5124",
+      "5125",
+      "5126",
+      "5127",
+      "5128",
+      "5129",
+      "5130",
+      "5131"
+    ],
+    "activeLoadedQuestionIdsUnique": true,
+    "activeLoadedBatchCount": 12
+  },
+  "changedFiles": [
+    "index.html",
+    "README.md",
+    "sw.js",
+    "scripts/validate-repo.cjs",
+    "explanations/history.json",
+    "explanations/polity.json",
+    "explanations/general-studies.json",
+    "explanations/gst.json",
+    "explanations/current-affairs.json",
+    "question-batches/2026-11-03-gktoday-gs.json",
+    "question-batches/2026-11-04-current-affairs.json",
+    "current-affairs/2026-11-03.json",
+    "audit/explanation-coverage-2026-11-04.json",
+    "audit/exam-blueprint-2026-11-04.json",
+    "audit/maintenance-2026-11-04.json",
+    "question-batches/2026-10-10.json (deleted)"
+  ]
+}
