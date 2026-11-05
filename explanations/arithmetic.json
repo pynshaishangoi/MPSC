@@ -1,0 +1,287 @@
+{
+  "date": "2026-11-05",
+  "updatedAt": "2026-11-05",
+  "methodology": "Original step-by-step teaching explanations for selected active Arithmetic questions. Calculations independently checked by substitution or reverse operation. Concepts cross-referenced to NCERT and CBSE mathematics learning materials; no protected question wording or solutions reproduced.",
+  "questionCount": 11,
+  "explanations": {
+    "3004": {
+      "title": "Reverse compound interest: finding the original principal",
+      "overview": "Compound interest is calculated on the amount accumulated at the end of each compounding period. The principal is the starting amount before any interest is added.",
+      "formula": "A = P(1 + r/100)^n; therefore P = A ÷ (1 + r/100)^n.",
+      "steps": "1. Given amount A = ₹13,310, annual rate r = 10%, and time n = 3 years.\n2. Growth factor for one year = 1 + 10/100 = 1.10.\n3. Three-year factor = 1.10 × 1.10 × 1.10 = 1.331.\n4. Principal P = ₹13,310 ÷ 1.331 = ₹10,000.\n5. The original principal is therefore ₹10,000 (option A).",
+      "check": "Check forward: ₹10,000 × 1.10 = ₹11,000 after year 1; ×1.10 = ₹12,100 after year 2; ×1.10 = ₹13,310 after year 3. The given amount is reproduced exactly.",
+      "commonMistakes": "Do not divide the amount by 10% or subtract 30%. Compound growth is multiplicative: each year's interest is added to the balance before the next year's interest is calculated.",
+      "context": "The amount includes the original principal plus accumulated interest. To reverse compound growth, divide by the full growth factor for all periods.",
+      "what": "The unknown is P; the known amount is after three annual compounding periods.",
+      "why": "This reverse-formula method is useful in savings, loan and investment questions. It also provides a strong check: always substitute the calculated principal back into the forward formula.",
+      "significance": "Remember: compound amount grows by repeated multiplication; to recover the principal, divide by the repeated factor.",
+      "exam": [
+        "3004"
+      ],
+      "references": [
+        {
+          "label": "NCERT Mathematics textbooks",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "label": "CBSE Applied Mathematics, Class XI — Student Support Material",
+          "url": "https://cbseacademic.nic.in/web_material/Manuals/Applied_Mathemathics.pdf"
+        }
+      ]
+    },
+    "4001": {
+      "title": "Percentage of a quantity: 15% of 480",
+      "overview": "Percent means per hundred. To find a percentage of a number, convert the percentage to a fraction or decimal and multiply by the number.",
+      "formula": "x% of N = (x/100) × N.",
+      "steps": "1. Required value = 15% of 480.\n2. Convert 15% to a fraction: 15/100.\n3. Calculate (15/100) × 480 = 15 × 4.8 = 72.\n4. A mental method: 10% of 480 = 48; 5% = half of 10% = 24; 48 + 24 = 72.\n5. Correct option: C (72).",
+      "check": "72 ÷ 480 × 100 = 15%, so the result is exactly 15% of 480.",
+      "commonMistakes": "Do not calculate 15 + 480 or treat 15% as 15. Divide by 100 before multiplying. Keep the base number (480) clear.",
+      "context": "A percentage is a ratio with denominator 100. It describes a part relative to a whole or base quantity.",
+      "what": "The base is 480 and the required rate is 15 per 100.",
+      "why": "Breaking 15% into 10% + 5% is often faster than long multiplication and reduces arithmetic errors.",
+      "significance": "For quick calculations, find 10%, 5%, 1% or 25% first, then combine them.",
+      "exam": [
+        "4001"
+      ],
+      "references": [
+        {
+          "label": "NCERT Mathematics textbooks",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "label": "CBSE Applied Mathematics, Class XI — Student Support Material",
+          "url": "https://cbseacademic.nic.in/web_material/Manuals/Applied_Mathemathics.pdf"
+        }
+      ]
+    },
+    "4002": {
+      "title": "Dividing a total in a given ratio",
+      "overview": "A ratio 2:3 means the total is divided into five equal ratio-units: two units for the first share and three for the second share.",
+      "formula": "One ratio-unit = Total ÷ (sum of ratio terms). Larger share = larger ratio term × one unit.",
+      "steps": "1. Ratio = 2:3; total = 45.\n2. Total ratio-units = 2 + 3 = 5.\n3. Value of one unit = 45 ÷ 5 = 9.\n4. Shares are 2 × 9 = 18 and 3 × 9 = 27.\n5. The larger share is 27 (option C).",
+      "check": "18 + 27 = 45, and 18:27 simplifies to 2:3 after dividing both terms by 9.",
+      "commonMistakes": "Do not divide 45 by 2 or by 3 alone. Divide by the sum of ratio terms, then multiply by the term for the share required.",
+      "context": "The ratio compares parts; it does not directly give the rupee or numerical values until the common unit is found.",
+      "what": "The larger part corresponds to 3 ratio-units, not 2.",
+      "why": "The same method works for money, quantities, population and workload shared in a fixed ratio.",
+      "significance": "Add the ratio terms first; find one unit; multiply by the requested term.",
+      "exam": [
+        "4002"
+      ],
+      "references": [
+        {
+          "label": "NCERT Mathematics textbooks",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "label": "CBSE Applied Mathematics, Class XI — Student Support Material",
+          "url": "https://cbseacademic.nic.in/web_material/Manuals/Applied_Mathemathics.pdf"
+        }
+      ]
+    },
+    "4003": {
+      "title": "Simple interest over three years",
+      "overview": "Simple interest is calculated only on the original principal. The interest earned in one year remains the same each year when the principal and annual rate do not change.",
+      "formula": "SI = (P × R × T) ÷ 100, where P is principal, R is annual rate in percent and T is time in years.",
+      "steps": "1. Principal P = ₹4,000; annual rate R = 5%; time T = 3 years.\n2. Substitute: SI = (4,000 × 5 × 3) ÷ 100.\n3. 4,000 ÷ 100 = 40; 40 × 5 × 3 = 600.\n4. Simple interest = ₹600 (option C).\n5. Total amount due at the end = principal + interest = ₹4,000 + ₹600 = ₹4,600.",
+      "check": "Annual interest = 5% of ₹4,000 = ₹200. For three years: ₹200 × 3 = ₹600.",
+      "commonMistakes": "Do not use the compound-interest formula. Convert months to a fraction of a year if the question gives months; here time is already 3 years.",
+      "context": "Simple interest is linear in time: doubling the time doubles the interest if principal and rate stay constant.",
+      "what": "The question asks for interest only, not the final amount.",
+      "why": "This is a common banking and aptitude calculation. Always check whether the question asks for SI or total amount.",
+      "significance": "SI is based on the original principal every year; amount = P + SI.",
+      "exam": [
+        "4003"
+      ],
+      "references": [
+        {
+          "label": "NCERT Mathematics textbooks",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "label": "CBSE Applied Mathematics, Class XI — Student Support Material",
+          "url": "https://cbseacademic.nic.in/web_material/Manuals/Applied_Mathemathics.pdf"
+        },
+        {
+          "label": "CBSE Financial Markets Management handbook — simple and compound interest",
+          "url": "https://cbseacademic.nic.in/web_material/Manuals/FMM-XII_Jan22.pdf"
+        }
+      ]
+    },
+    "4005": {
+      "title": "Arithmetic mean: average of four numbers",
+      "overview": "The arithmetic mean is the equal-share value obtained when the total of all observations is divided equally among them.",
+      "formula": "Average = Sum of observations ÷ Number of observations.",
+      "steps": "1. Add the four values: 6 + 8 + 10 + 12 = 36.\n2. Count the values: 4.\n3. Average = 36 ÷ 4 = 9.\n4. Correct option: B (9).",
+      "check": "The mean is 9; four equal values of 9 would total 4 × 9 = 36, the same as the original sum.",
+      "commonMistakes": "Do not divide by the largest number or by the difference between the values. Divide by the number of observations.",
+      "context": "Average represents a central equal-share value. It need not be one of the original observations.",
+      "what": "There are four observations, so the divisor is 4.",
+      "why": "For a missing-value problem, use Total = Average × Number of observations, then subtract the known values.",
+      "significance": "First find the sum, then divide by the count.",
+      "exam": [
+        "4005"
+      ],
+      "references": [
+        {
+          "label": "NCERT Mathematics textbooks",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "label": "CBSE Applied Mathematics, Class XI — Student Support Material",
+          "url": "https://cbseacademic.nic.in/web_material/Manuals/Applied_Mathemathics.pdf"
+        }
+      ]
+    },
+    "4020": {
+      "title": "Profit percentage is calculated on cost price",
+      "overview": "Profit occurs when the selling price is greater than the cost price. The profit percentage is measured against the cost price, not the selling price.",
+      "formula": "Profit = SP − CP; Profit % = (Profit ÷ CP) × 100.",
+      "steps": "1. Cost price (CP) = ₹600; selling price (SP) = ₹690.\n2. Profit = ₹690 − ₹600 = ₹90.\n3. Profit percentage = (₹90 ÷ ₹600) × 100.\n4. ₹90/₹600 = 0.15; 0.15 × 100 = 15%.\n5. Correct option: C (15%).",
+      "check": "15% of ₹600 = ₹90; adding this profit to the cost price gives ₹600 + ₹90 = ₹690.",
+      "commonMistakes": "The denominator is CP (₹600), not SP (₹690). A common error is to divide profit by the selling price.",
+      "context": "Cost price is the amount spent to acquire or produce the item; selling price is the amount received from the buyer.",
+      "what": "The item earns ₹90 over its ₹600 cost.",
+      "why": "The same percentage base rule applies to loss percentage: loss is divided by cost price.",
+      "significance": "Profit/loss percentage is normally calculated on cost price unless the question explicitly defines another base.",
+      "exam": [
+        "4020"
+      ],
+      "references": [
+        {
+          "label": "NCERT Mathematics textbooks",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "label": "CBSE Applied Mathematics, Class XI — Student Support Material",
+          "url": "https://cbseacademic.nic.in/web_material/Manuals/Applied_Mathemathics.pdf"
+        }
+      ]
+    },
+    "5021": {
+      "title": "Finding 18% of 250",
+      "overview": "To find 18% of a quantity, calculate eighteen hundredths of the base quantity.",
+      "formula": "18% of 250 = (18/100) × 250.",
+      "steps": "1. Convert: 18/100 × 250.\n2. Simplify 250 ÷ 100 = 2.5.\n3. 18 × 2.5 = 45.\n4. Alternatively, 10% of 250 = 25 and 8% = 20; total = 45.\n5. Correct option: C (45).",
+      "check": "45 ÷ 250 × 100 = 18%, confirming the answer.",
+      "commonMistakes": "Do not add 18 to 250. A percentage-of question requires multiplication by the percentage fraction.",
+      "context": "The base number is 250; the requested part is 18 out of every 100 parts of that base.",
+      "what": "The question asks for a value, not for what percentage one number is of another.",
+      "why": "Use 10% + 8% for quick mental arithmetic when the percentage is not a familiar fraction.",
+      "significance": "Percentage of = rate divided by 100, multiplied by the base.",
+      "exam": [
+        "5021"
+      ],
+      "references": [
+        {
+          "label": "NCERT Mathematics textbooks",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "label": "CBSE Applied Mathematics, Class XI — Student Support Material",
+          "url": "https://cbseacademic.nic.in/web_material/Manuals/Applied_Mathemathics.pdf"
+        }
+      ]
+    },
+    "5022": {
+      "title": "Sharing ₹840 in the ratio 3:4",
+      "overview": "The ratio 3:4 contains seven equal units in total. The larger share is the four-unit portion.",
+      "formula": "One unit = Total ÷ (3 + 4); larger share = 4 × one unit.",
+      "steps": "1. Add ratio terms: 3 + 4 = 7 units.\n2. One unit = ₹840 ÷ 7 = ₹120.\n3. Larger share = 4 × ₹120 = ₹480.\n4. Smaller share = 3 × ₹120 = ₹360.\n5. Correct option: C (₹480).",
+      "check": "₹480 + ₹360 = ₹840, and ₹360:₹480 reduces to 3:4.",
+      "commonMistakes": "Do not multiply ₹840 by 4 directly. First divide by the total number of units (7), then multiply by 4.",
+      "context": "Ratio questions allocate a total proportionally. The ratio terms are units, not percentages or currency amounts.",
+      "what": "The larger share is linked to the larger ratio term, 4.",
+      "why": "This method applies to partnership shares, budget allocation and proportional distribution.",
+      "significance": "Sum the ratio terms before calculating each share.",
+      "exam": [
+        "5022"
+      ],
+      "references": [
+        {
+          "label": "NCERT Mathematics textbooks",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "label": "CBSE Applied Mathematics, Class XI — Student Support Material",
+          "url": "https://cbseacademic.nic.in/web_material/Manuals/Applied_Mathemathics.pdf"
+        }
+      ]
+    },
+    "5023": {
+      "title": "Profit percentage on a ₹1,200 cost price",
+      "overview": "Profit is the excess of the selling price over the cost price. The profit rate is expressed as a percentage of cost price.",
+      "formula": "Profit = SP − CP; Profit % = (Profit ÷ CP) × 100.",
+      "steps": "1. CP = ₹1,200; SP = ₹1,380.\n2. Profit = ₹1,380 − ₹1,200 = ₹180.\n3. Profit fraction = ₹180 ÷ ₹1,200 = 0.15.\n4. Profit percentage = 0.15 × 100 = 15%.\n5. Correct option: B (15%).",
+      "check": "15% of ₹1,200 = ₹180; ₹1,200 + ₹180 = ₹1,380.",
+      "commonMistakes": "Do not divide ₹180 by ₹1,380. Profit percentage uses the cost price as the base.",
+      "context": "A positive difference SP − CP is profit; a negative difference is loss.",
+      "what": "The seller receives ₹180 more than the amount paid for the item.",
+      "why": "If SP and CP are given, calculate the difference first; only then convert it into a percentage.",
+      "significance": "Profit percentage = profit divided by cost price, multiplied by 100.",
+      "exam": [
+        "5023"
+      ],
+      "references": [
+        {
+          "label": "NCERT Mathematics textbooks",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "label": "CBSE Applied Mathematics, Class XI — Student Support Material",
+          "url": "https://cbseacademic.nic.in/web_material/Manuals/Applied_Mathemathics.pdf"
+        }
+      ]
+    },
+    "5024": {
+      "title": "Time and work: two workers working together",
+      "overview": "If A completes a job in 8 days, A's one-day rate is one-eighth of the job. If B completes it in 24 days, B's one-day rate is one-twenty-fourth.",
+      "formula": "Combined rate = 1/A's time + 1/B's time; Time together = 1 ÷ combined rate.",
+      "steps": "1. A's one-day work = 1/8 job.\n2. B's one-day work = 1/24 job.\n3. Combined one-day work = 1/8 + 1/24 = 3/24 + 1/24 = 4/24 = 1/6 job.\n4. If they complete 1/6 of the job each day, one full job takes 6 days.\n5. Correct option: B (6 days).",
+      "check": "In 6 days A completes 6/8 = 3/4 of the job and B completes 6/24 = 1/4. Together 3/4 + 1/4 = 1 whole job.",
+      "commonMistakes": "Do not add 8 + 24 or average the two times. Add their work rates (fractions of the job per day), then take the reciprocal.",
+      "context": "The method assumes both workers work at constant rates throughout and can work together without reducing each other's efficiency.",
+      "what": "The combined rate is faster than either worker alone, so the combined time must be less than 8 days. Six days is consistent with that check.",
+      "why": "For more workers, add all one-day rates. If a worker leaves or joins later, split the work into stages.",
+      "significance": "Convert each completion time into a one-day fraction; add rates; invert the result to get days.",
+      "exam": [
+        "5024"
+      ],
+      "references": [
+        {
+          "label": "NCERT Mathematics textbooks",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "label": "CBSE Applied Mathematics, Class XI — Student Support Material",
+          "url": "https://cbseacademic.nic.in/web_material/Manuals/Applied_Mathemathics.pdf"
+        }
+      ]
+    },
+    "5025": {
+      "title": "Average speed from total distance and total time",
+      "overview": "Average speed is the total distance travelled divided by the total time taken. It is not generally the simple average of two or more speed readings.",
+      "formula": "Average speed = Total distance ÷ Total time.",
+      "steps": "1. Total distance = 180 km; total time = 3 hours.\n2. Average speed = 180 ÷ 3 = 60 km per hour.\n3. Correct option: C (60 km/h).",
+      "check": "At 60 km/h for 3 hours, distance = speed × time = 60 × 3 = 180 km.",
+      "commonMistakes": "Keep units consistent. If time is in minutes, convert it to hours before reporting km/h. Do not add distance and time or average speeds without considering the time spent at each speed.",
+      "context": "Speed measures distance covered per unit of time. Average speed uses the entire journey's totals.",
+      "what": "The question gives one total distance and one total duration, so no separate segment calculation is needed.",
+      "why": "This formula is also used in train, boat and journey questions; convert minutes to hours and metres to kilometres where required.",
+      "significance": "Remember the triangle: Distance = Speed × Time; Speed = Distance ÷ Time; Time = Distance ÷ Speed.",
+      "exam": [
+        "5025"
+      ],
+      "references": [
+        {
+          "label": "NCERT Mathematics textbooks",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "label": "CBSE Applied Mathematics, Class XI — Student Support Material",
+          "url": "https://cbseacademic.nic.in/web_material/Manuals/Applied_Mathemathics.pdf"
+        }
+      ]
+    }
+  }
+}

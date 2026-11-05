@@ -2,11 +2,11 @@
 
 A mobile-friendly GitHub Pages study hub for Meghalaya competitive examinations. Priority tracks: MPSC Inspector of Taxes, DSC East Khasi Hills LDA-cum-Typist and MPSC Secretariat LDA.
 
-## Verified repository snapshot — 4 November 2026
+## Verified repository snapshot — 5 November 2026
 
 - **821 active unique question records**: 592 embedded questions plus 12 loaded question batches.
 - **111 records tagged PYQ**. A PYQ tag is not the same as a complete paper.
-- **178 structured detailed explanations** across six libraries: 49 History, 76 Polity, 20 English, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **21.7% of the active bank**; 643 active IDs still need structured library explanations. The English library currently covers active IDs 21–30 and 136–145; coverage is audited by ID. The audit lists every covered and remaining ID.
+- **189 structured detailed explanations** across seven libraries: 49 History, 76 Polity, 20 English, 11 Arithmetic, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **23.0% of the active bank**; 632 active IDs still need structured library explanations. The Arithmetic library adds worked solutions for 11 active questions (compound interest, percentages, ratio, simple interest, average, profit, time-and-work and speed); coverage is audited by ID in `audit/explanation-coverage-2026-11-05.json`.
 - **Study Notes:** 14 subject libraries and 37 chapters.
 - **MPSC Secretariat LDA May 2025 recruitment-cycle Series I:** 91 of 150 questions transcribed and checked against the official final answer key dated 17 December 2025; 59 remain.
 
@@ -79,6 +79,10 @@ Practice answers and mock review now show multiple references where available. T
 
 The hub includes topic-wise practice, timed mocks, post-test explanations, progress analytics, wrong-question review and study notes. The 175-question mixed simulation is hub-created practice, not an official examination pattern.
 
+## Arithmetic explanation update — 5 November 2026
+
+The new `explanations/arithmetic.json` library provides formula-first teaching for active question IDs 3004, 4001, 4002, 4003, 4005, 4020 and 5021–5025. Each entry includes a formula, worked steps, a reverse/check calculation, common error warnings and NCERT/CBSE reference links. The existing short answer explanations and question options were preserved. The arithmetic bank contains 160 questions; 11 now have structured detailed explanations and 149 remain.
+
 ## Dated current affairs
 
 The 3 November 2026 feed contains six dated items: Exercise Tiger Triumph, India–Sri Lanka Coast Guard cooperation, the NITI Aayog India S&T Scoreboard (including Meghalaya's State/UT profile context; no unverified state-level numerical ranking is claimed), TRAI's Third Amendment Regulations, the Indian Navy rescue of Azini and COP31 in Antalya. See [current-affairs/2026-11-03.json](current-affairs/2026-11-03.json). All current-affairs questions are labelled practice, not PYQ.
@@ -99,6 +103,9 @@ The 3 November 2026 feed contains six dated items: Exercise Tiger Triumph, India
 - [British Council reported speech](https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/reported-speech-statements)
 - [British Council active and passive voice](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/active-passive-voice)
 - [British Council articles: a, an and the](https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2-grammar/articles-a-an-the)
+- [NCERT Mathematics textbooks](https://ncert.nic.in/textbook.php)
+- [CBSE Applied Mathematics, Class XI — Student Support Material](https://cbseacademic.nic.in/web_material/Manuals/Applied_Mathemathics.pdf)
+- [CBSE Financial Markets Management handbook](https://cbseacademic.nic.in/web_material/Manuals/FMM-XII_Jan22.pdf)
 - [CAG constitutional provisions](https://www.cag.gov.in/en/pages/single/2)
 - [Election Commission of India](https://www.eci.gov.in/about-eci/)
 - [Finance Commission constitutional provisions](https://fincomindia.nic.in/constitutional-provisions)
