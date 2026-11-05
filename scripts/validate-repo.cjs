@@ -166,17 +166,17 @@ for (const [name,library,ids] of [['General Studies',gsLibrary,gsIds],['GST',gst
 const allStructured = new Set([...Object.keys(historyLibrary.explanations),...Object.keys(polityLibrary.explanations),...Object.keys(gsLibrary.explanations),...Object.keys(gstLibrary.explanations),...Object.keys(caLibrary.explanations),...Object.keys(englishLibrary.explanations),...Object.keys(arithmeticLibrary.explanations)]);
 if (allStructured.size !== 189) fail('structured explanation total must be 189 unique active IDs');
 if (arithmeticLibrary.questionCount !== 11 || arithmeticIds.some(id=>!active.some(q=>String(q.id)===id&&q.cat==='Arithmetic'))) fail('Arithmetic library must cover the 11 selected active Arithmetic IDs');
-for (const id of arithmeticIds) { const d=arithmeticLibrary.explanations[id]; if (!d.formula || !d.steps || !d.check || !d.commonMistakes || !Array.isArray(d.references) || !d.references.length) fail('Arithmetic explanation '+id+' is missing a formula, worked steps, check, common-mistake note or reference'); }
+for (const id of arithmeticIds) { const d=arithmeticLibrary.explanations[id]; if (!d.formula || !d.steps || !d.check || !d.commonMistakes || !Array.isArray(d.references) || !d.references.length || d.references.some(r=>!r.label || !r.url || !r.url.startsWith('https://'))) fail('Arithmetic explanation '+id+' is missing a formula, worked steps, check, common-mistake note or valid HTTPS reference'); }
 if (englishLibrary.questionCount !== 20 || englishIds.some(id=>!active.some(q=>String(q.id)===id&&/^English/.test(q.cat)))) fail('English explanation library must cover the 20 selected active English question IDs');
 const coverageAudit = jsonFile('audit/explanation-coverage-2026-11-05.json');
-if (coverageAudit.summary.activeUniqueQuestionRecords !== 821 || coverageAudit.summary.structuredExplanationQuestionIds !== 189 || coverageAudit.summary.structuredDetailedExplanationIds !== 189 || coverageAudit.summary.remainingWithoutStructuredLibrary !== 632 || coverageAudit.summary.structuredCoveragePercent !== 23.0) fail('explanation coverage audit totals do not match');
+if (coverageAudit.date !== '2026-11-05' || coverageAudit.summary.arithmetic !== 11 || coverageAudit.explanationLibraries.length !== 7 || coverageAudit.summary.activeUniqueQuestionRecords !== 821 || coverageAudit.summary.structuredExplanationQuestionIds !== 189 || coverageAudit.summary.structuredDetailedExplanationIds !== 189 || coverageAudit.summary.remainingWithoutStructuredLibrary !== 632 || coverageAudit.summary.structuredCoveragePercent !== 23.0) fail('explanation coverage audit totals do not match');
 const coverageRows = Object.fromEntries(coverageAudit.subjects.map(row=>[row.subject,row]));
 for (const [subject,count] of expectedSubjectEntries) {
   const row = coverageRows[subject];
   if (!row || row.activeQuestionCount !== count || row.remainingCount !== count-row.detailedExplanationCount || row.detailedQuestionIds.length !== row.detailedExplanationCount || row.remainingQuestionIds.length !== row.remainingCount) fail('explanation coverage row is inconsistent for ' + subject);
 }
 const examAudit = jsonFile('audit/exam-blueprint-2026-11-04.json');
-if (examAudit.date !== '2026-11-04' || examAudit.examTracks.length !== 3 || examAudit.questionBankSnapshot.activeUniqueQuestionRecords !== 821) fail('exam blueprint audit is incomplete');
+if (examAudit.date !== '2026-11-04' || examAudit.explanationCoverageAudit !== 'audit/explanation-coverage-2026-11-05.json' || examAudit.examTracks.length !== 3 || examAudit.questionBankSnapshot.activeUniqueQuestionRecords !== 821) fail('exam blueprint audit is incomplete');
 
 const notesMatch = script.match(/const STUDY_NOTES=\[([\s\S]*?)\];\s*function renderStudyNotes/);
 if (!notesMatch) fail('could not locate Study Notes library');

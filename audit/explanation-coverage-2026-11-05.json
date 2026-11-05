@@ -1,6 +1,6 @@
 {
   "date": "2026-11-05",
-  "methodology": "Rebuilt from the exact embedded question bank and the 12 question-batch files loaded by index.html. Records are deduplicated by ID; duplicate IDs in active sources fail validation. A detailed explanation is counted only when the question ID exists in one of the six loaded explanation libraries. Question-bank size is not exam-frequency evidence. On 5 November 2026, eleven Arithmetic question IDs received structured formula, worked-solution, verification and common-mistake explanations. Counts below are recalculated from the active question inventory and the loaded explanation libraries.",
+  "methodology": "Rebuilt from the exact embedded question bank and the 12 question-batch files loaded by index.html. Records are deduplicated by ID; duplicate IDs in active sources fail validation. A detailed explanation is counted only when the question ID exists in one of the seven loaded explanation libraries. Question-bank size is not exam-frequency evidence. On 5 November 2026, eleven Arithmetic question IDs received structured formula, worked-solution, verification and common-mistake explanations. Counts below are recalculated from the active question inventory and the loaded explanation libraries.",
   "summary": {
     "activeUniqueQuestionRecords": 821,
     "pyqTaggedRecords": 111,
