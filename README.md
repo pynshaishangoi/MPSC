@@ -2,11 +2,11 @@
 
 A mobile-friendly GitHub Pages study hub for Meghalaya competitive examinations. Priority tracks: MPSC Inspector of Taxes, DSC East Khasi Hills LDA-cum-Typist and MPSC Secretariat LDA.
 
-## Verified repository snapshot — 5 November 2026
+## Verified repository snapshot — 6 November 2026
 
 - **821 active unique question records**: 592 embedded questions plus 12 loaded question batches.
 - **111 records tagged PYQ**. A PYQ tag is not the same as a complete paper.
-- **189 structured detailed explanations** across seven libraries: 49 History, 76 Polity, 20 English, 11 Arithmetic, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **23.0% of the active bank**; 632 active IDs still need structured library explanations. The Arithmetic library adds worked solutions for 11 active questions (compound interest, percentages, ratio, simple interest, average, profit, time-and-work and speed); coverage is audited by ID in `audit/explanation-coverage-2026-11-05.json`.
+- **209 structured detailed explanations** across eight libraries: 49 History, 76 Polity, 20 English, 11 Arithmetic, 20 Meghalaya GK, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **25.5% of the active bank**; 612 active IDs still need structured library explanations. The new Meghalaya GK library explains 20 of 58 active regional questions (34.5%); 38 remain. The Arithmetic library adds worked solutions for 11 active questions (compound interest, percentages, ratio, simple interest, average, profit, time-and-work and speed); coverage is audited by ID in `audit/explanation-coverage-2026-11-06.json`.
 - **Study Notes:** 14 subject libraries and 37 chapters.
 - **MPSC Secretariat LDA May 2025 recruitment-cycle Series I:** 91 of 150 questions transcribed and checked against the official final answer key dated 17 December 2025; 59 remain.
 
@@ -71,6 +71,9 @@ The structured libraries are:
 
 - `explanations/history.json`
 - `explanations/polity.json`
+- `explanations/english.json`
+- `explanations/arithmetic.json`
+- `explanations/meghalaya-gk.json`
 - `explanations/general-studies.json`
 - `explanations/gst.json`
 - `explanations/current-affairs.json`
@@ -82,6 +85,10 @@ The hub includes topic-wise practice, timed mocks, post-test explanations, progr
 ## Arithmetic explanation update — 5 November 2026
 
 The new `explanations/arithmetic.json` library provides formula-first teaching for active question IDs 3004, 4001, 4002, 4003, 4005, 4020 and 5021–5025. Each entry includes a formula, worked steps, a reverse/check calculation, common error warnings and NCERT/CBSE reference links. The existing short answer explanations and question options were preserved. The arithmetic bank contains 160 questions; 11 now have structured detailed explanations and 149 remain.
+
+## Meghalaya GK explanation update — 6 November 2026
+
+The new `explanations/meghalaya-gk.json` library adds 20 source-checked teaching explanations for active IDs 11, 12, 14, 15, 17, 18, 127, 128, 183, 186, 188, 189, 195, 3003, 4006, 4008, 4010, 5004, 5089 and 5090. Topics include State formation, district headquarters, the Sixth Schedule, living root bridges, indigenous communities, Wangala, Khasi matriliny, Nartiang heritage, Nokrek Biosphere Reserve, language classification, Nohsngithiang Falls and Mawsynram rainfall. The library distinguishes autonomous-state status (2 April 1970) from full statehood (21 January 1972), and explains the official meteorological caveat attached to Mawsynram rainfall rankings. Source references prioritise Meghalaya Government, district administrations, the Legislative Department, Meghalaya Biodiversity Board, Meghalaya Tourism, UNESCO and academic research. The active Meghalaya GK bank contains 58 questions; 20 now have structured explanations and 38 remain.
 
 ## Dated current affairs
 

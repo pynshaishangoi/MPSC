@@ -1,0 +1,404 @@
+{
+  "date": "2026-11-06",
+  "updatedAt": "2026-11-06",
+  "methodology": "Twenty original structured teaching explanations for selected active Meghalaya GK question IDs. Facts are checked against Meghalaya Government, district-administration, Meghalaya Biodiversity Board, Meghalaya Tourism, the Legislative Department, UNESCO and academic linguistic/social research. Repeated question concepts retain separate ID-keyed explanations so each active record can display a detailed solution. Cultural descriptions are qualified where practices vary; no promotional ranking is presented as an official statistical award.",
+  "questionCount": 20,
+  "coverageNote": "This is a first verified tranche, not complete Meghalaya GK coverage. The active Meghalaya GK category contains 58 questions; 20 IDs are covered here and the remaining 38 are listed in the coverage audit.",
+  "explanations": {
+    "11": {
+      "title": "Shillong: Meghalaya's capital and East Khasi Hills district headquarters",
+      "overview": "Shillong is the capital of Meghalaya and the headquarters of East Khasi Hills district. It is the State's principal administrative centre, so it is important to distinguish its State-capital role from the headquarters of other districts.",
+      "context": "The Meghalaya Government records that Shillong served as the capital of Assam from 1874 until Meghalaya's formation in January 1972. The city is in the Khasi Hills region.",
+      "what": "Shillong became the capital of the newly formed State of Meghalaya when full statehood took effect on 21 January 1972. It is also the district headquarters of East Khasi Hills.",
+      "why": "Its location and earlier role as the administrative capital of Assam made Shillong the established centre for the new State's administration.",
+      "significance": "Shillong is the seat of the Meghalaya Government and a key administrative, educational and cultural centre in the North-East.",
+      "exam": "Remember the distinction: Shillong = Meghalaya's State capital and East Khasi Hills headquarters; Jowai = West Jaintia Hills headquarters; Nongpoh = Ri-Bhoi headquarters; Tura = West Garo Hills headquarters.",
+      "references": [
+        {
+          "label": "Meghalaya Government — About Meghalaya",
+          "url": "https://meghalaya.gov.in/index.php/about"
+        },
+        {
+          "label": "Meghalaya Government — Districts and headquarters",
+          "url": "https://www.meghalaya.gov.in/districts"
+        }
+      ]
+    },
+    "12": {
+      "title": "Meghalaya's statehood: 21 January 1972",
+      "overview": "Meghalaya became a full-fledged State of the Indian Union on 21 January 1972. The year asked in this question is therefore 1972.",
+      "context": "Before full statehood, Meghalaya became an autonomous State within Assam on 2 April 1970. These are two different constitutional milestones and should not be confused.",
+      "what": "Full statehood took effect on 21 January 1972 under the North-Eastern Areas (Reorganisation) framework. The date is observed as Meghalaya Statehood Day.",
+      "why": "The reorganisation followed political and constitutional developments concerning the hill areas of the former Assam and the demand for greater self-government.",
+      "significance": "The two dates commonly tested are 2 April 1970 (autonomous State) and 21 January 1972 (full Statehood).",
+      "exam": "If the question asks for full statehood, choose 21 January 1972. If it asks when Meghalaya became an autonomous State, choose 2 April 1970.",
+      "references": [
+        {
+          "label": "Meghalaya Government — historical formation of the State",
+          "url": "https://meghalaya.gov.in/index.php/22429-sq-km"
+        },
+        {
+          "label": "Meghalaya Biodiversity Board — About Meghalaya",
+          "url": "https://megbiodiversity.nic.in/about-meghalaya"
+        }
+      ]
+    },
+    "14": {
+      "title": "Living root bridges: trained roots of Ficus elastica",
+      "overview": "Many traditional living root bridges in Meghalaya are formed by guiding the aerial and secondary roots of rubber fig trees, especially Ficus elastica, across streams or steep valleys.",
+      "context": "The technique is associated with indigenous knowledge in the Khasi and Jaintia Hills. It is a form of living bio-engineering: instead of assembling a bridge from finished timber or concrete, people guide living roots as they grow.",
+      "who": "Local communities are the designers, builders and caretakers. Knowledge is passed between generations, and maintenance is a community responsibility.",
+      "what": "Roots are guided through supports made from hollowed betel-nut trunks or bamboo until they reach the opposite side and become established. Stones, steps and handrails may be added to make the crossing usable.",
+      "why": "In a very wet, hilly landscape, a living structure can continue growing and strengthening when properly cared for. It provides local connectivity across difficult terrain.",
+      "significance": "Living root bridges demonstrate indigenous ecological knowledge, adaptation to heavy rainfall and community-based conservation. The development of a usable bridge takes many years rather than a short construction season.",
+      "exam": "The key plant is Ficus elastica, commonly called the rubber fig. Do not confuse a living root bridge with an ordinary wooden bridge or a concrete suspension bridge.",
+      "references": [
+        {
+          "label": "Meghalaya Biodiversity Board — Living Root Bridges",
+          "url": "https://megbiodiversity.nic.in/living-root-bridges"
+        },
+        {
+          "label": "UNESCO World Heritage Centre — Jingkieng jri: Living Root Bridge Cultural Landscapes (Tentative List)",
+          "url": "https://whc.unesco.org/en/tentativelists/6606"
+        }
+      ]
+    },
+    "15": {
+      "title": "The three principal indigenous communities of Meghalaya",
+      "overview": "The Khasi, Jaintia and Garo communities are commonly identified as the three principal indigenous communities of Meghalaya.",
+      "context": "The Meghalaya Government describes the Khasis as predominantly inhabiting central Meghalaya, the Garos western Meghalaya and the Jaintias eastern Meghalaya. These are broad regional associations, not rigid boundaries.",
+      "what": "The three names in the correct option refer to major communities with distinct histories, languages, social institutions and cultural traditions.",
+      "why": "The State's cultural and administrative identity is shaped by these communities and by other communities and sub-groups who also live in Meghalaya.",
+      "significance": "This is a foundational Meghalaya General Knowledge topic. It connects to language families, festivals, traditional institutions, Autonomous District Councils and regional geography.",
+      "exam": "Remember the broad association: Khasi — central/Khasi Hills; Jaintia (Pnar) — eastern/Jaintia Hills; Garo — western/Garo Hills. The list is not exhaustive of every community in the State.",
+      "references": [
+        {
+          "label": "Meghalaya Government — People and Culture",
+          "url": "https://www.meghalaya.gov.in/22429-sq-km"
+        },
+        {
+          "label": "Meghalaya Government — About Meghalaya",
+          "url": "https://meghalaya.gov.in/index.php/about"
+        }
+      ]
+    },
+    "17": {
+      "title": "Nohsngithiang Falls: the Seven Sisters Falls of Sohra",
+      "overview": "Nohsngithiang Falls is popularly known as Seven Sisters Falls because the waterfall is divided into seven visible sections as it descends the cliff.",
+      "context": "The falls are in the Sohra (Cherrapunji) area of East Khasi Hills district. The flow is especially dramatic during the monsoon, when rainfall feeds the streams on the plateau.",
+      "what": "Water descends over a high cliff in seven distinct segments. The name Seven Sisters refers to this segmented appearance.",
+      "why": "The local landscape, heavy monsoon rainfall and steep southern escarpment of the plateau create the conditions for the waterfall.",
+      "significance": "Nohsngithiang is a well-known natural landmark of Sohra and an important example of Meghalaya's waterfall geography.",
+      "exam": "Nohsngithiang = Seven Sisters Falls, near Sohra. Do not confuse it with Nohkalikai Falls, another famous waterfall in the same broad region.",
+      "references": [
+        {
+          "label": "Meghalaya Tourism — Nohsngithiang (Seven Sisters Falls)",
+          "url": "https://www.meghalayatourism.in/explore/destinations/by-interest/majestic-waterfalls/nohsngithiang/"
+        },
+        {
+          "label": "Meghalaya Tourism — Sohra (Cherrapunji)",
+          "url": "https://www.meghalayatourism.in/explore/destinations/by-interest/living-root-bridges/sohra-cherrapunji/"
+        }
+      ]
+    },
+    "18": {
+      "title": "Sixth Schedule: constitutional framework for specified tribal areas",
+      "overview": "The Sixth Schedule provides a special framework for the administration of specified tribal areas in Assam, Meghalaya, Tripura and Mizoram.",
+      "context": "The Schedule is linked to Articles 244(2) and 275(1) of the Constitution. It provides for Autonomous District Councils and, where applicable, Regional Councils.",
+      "who": "District and Regional Councils exercise powers assigned by the Constitution and applicable laws. Their composition and powers are governed by the Sixth Schedule, not by an unlimited general power.",
+      "what": "The framework provides for autonomous districts and regions, councils, specified legislative and administrative functions, and certain powers over local matters and revenue within the constitutional limits.",
+      "why": "The arrangement recognises the distinct customary, social and administrative circumstances of specified tribal areas and provides constitutional space for local self-government.",
+      "significance": "Meghalaya has three Autonomous District Councils: Khasi Hills, Jaintia Hills and Garo Hills. The Sixth Schedule is a constitutional arrangement; it does not make these areas separate sovereign States.",
+      "exam": "Sixth Schedule = specified tribal-area administration in Assam, Meghalaya, Tripura and Mizoram. It is associated with Articles 244(2) and 275(1). Do not confuse it with the Fifth Schedule.",
+      "references": [
+        {
+          "label": "Legislative Department — Constitution of India, Sixth Schedule",
+          "url": "https://www.legislative.gov.in/static/uploads/2025/08/cb1b190ea633a1746368ed1fac35fb30.pdf"
+        },
+        {
+          "label": "Meghalaya Government — District and regional administration context",
+          "url": "https://meghalaya.gov.in/index.php/about"
+        }
+      ]
+    },
+    "127": {
+      "title": "Jowai: headquarters of West Jaintia Hills district",
+      "overview": "Jowai is the district headquarters of West Jaintia Hills in Meghalaya.",
+      "context": "The Meghalaya Government's district table lists each district with its headquarters. West Jaintia Hills is listed with Jowai.",
+      "what": "Jowai is the principal administrative centre for West Jaintia Hills district and hosts the district administration.",
+      "why": "District headquarters are designated administrative centres for coordination of government services, revenue work, law and order and development programmes.",
+      "significance": "Knowing district-headquarters pairs is useful for Meghalaya GK and for understanding the State's administrative geography.",
+      "exam": "Jowai = West Jaintia Hills. Do not confuse it with Khliehriat (East Jaintia Hills) or Tura (West Garo Hills).",
+      "references": [
+        {
+          "label": "Meghalaya Government — Districts and headquarters",
+          "url": "https://www.meghalaya.gov.in/districts"
+        },
+        {
+          "label": "West Jaintia Hills District Administration",
+          "url": "https://westjaintiahills.gov.in/"
+        }
+      ]
+    },
+    "128": {
+      "title": "Nongpoh: headquarters of Ri-Bhoi district",
+      "overview": "Nongpoh is the district headquarters of Ri-Bhoi district in Meghalaya.",
+      "context": "The State Government's district directory identifies Nongpoh as the headquarters of Ri-Bhoi. The district lies north of the Shillong area and forms an important part of the road corridor between Guwahati and Shillong.",
+      "what": "Nongpoh is the administrative centre from which the Ri-Bhoi district administration coordinates public services and district-level programmes.",
+      "why": "A district headquarters is the main administrative location for the district, not necessarily its largest settlement by every measure.",
+      "significance": "This fact is often tested alongside other district-headquarters pairs in Meghalaya General Knowledge.",
+      "exam": "Nongpoh = Ri-Bhoi. Remember the contrast: Jowai = West Jaintia Hills; Khliehriat = East Jaintia Hills; Nongpoh = Ri-Bhoi.",
+      "references": [
+        {
+          "label": "Meghalaya Government — Districts and headquarters",
+          "url": "https://www.meghalaya.gov.in/districts"
+        },
+        {
+          "label": "Ri-Bhoi District Administration",
+          "url": "https://ribhoi.gov.in/"
+        }
+      ]
+    },
+    "183": {
+      "title": "The Jaintia Kingdom and the historical heritage of Jaintia Hills",
+      "overview": "The Jaintia Hills are historically associated with the Jaintia Kingdom, whose rulers and local institutions left a visible heritage in the region.",
+      "context": "Nartiang in present-day West Jaintia Hills is an important historical site. The district administration records that several monoliths were erected by people associated with the Jaintia king and local clans between about 1500 and 1835.",
+      "who": "Local historical accounts identify U Mar Phalyngki as a trusted lieutenant of the Jaintia king who erected a prominent menhir to commemorate a military victory. The district account also names U Luh Lyngskor Lamare and village clans among those associated with other stones.",
+      "what": "The Jaintia Kingdom's history is remembered through sites such as Nartiang, its megalithic monuments and other cultural remains in the Jaintia Hills.",
+      "why": "Monuments and place traditions helped preserve memories of rulers, military events, ancestors and community history.",
+      "significance": "The Jaintia Kingdom is part of Meghalaya's regional political history. Nartiang provides material evidence of this heritage, but a modern district name should not be treated as identical to the full historical kingdom's boundaries.",
+      "exam": "Jaintia Hills — Jaintia Kingdom; Nartiang — important megalithic heritage site in West Jaintia Hills. Use local district sources for site-specific history.",
+      "references": [
+        {
+          "label": "West Jaintia Hills District Administration — Nartiang Monoliths",
+          "url": "https://westjaintiahills.gov.in/tourist-place/nartiang-monoliths/"
+        },
+        {
+          "label": "Meghalaya Tourism — Nartiang Megalith",
+          "url": "https://www.meghalayatourism.in/explore/destinations/by-region/jaintia-hills/nartiang-megalith/"
+        }
+      ]
+    },
+    "186": {
+      "title": "Mawlynnong: community-led cleanliness and eco-tourism",
+      "overview": "Mawlynnong in East Khasi Hills is widely known for community-led cleanliness initiatives and village-based eco-tourism.",
+      "context": "Meghalaya Tourism highlights the village's clean surroundings, gardens, local traditions and living-root-bridge heritage. The community's everyday practices are more educational than relying only on a promotional superlative.",
+      "who": "Residents and village institutions contribute to keeping public spaces clean and maintaining the village environment.",
+      "what": "Commonly described practices include placing bamboo waste bins, keeping pathways clean and managing waste as a shared community responsibility.",
+      "why": "Collective participation helps maintain public spaces and supports a form of tourism that depends on the village's environment and cultural character.",
+      "significance": "Mawlynnong is a useful case study in community participation, local environmental stewardship and sustainable tourism in Meghalaya.",
+      "exam": "For a careful answer, say Mawlynnong is noted for community cleanliness and eco-tourism. Avoid treating promotional labels such as 'Asia's cleanest village' as a formal government ranking unless a question specifies the source and year.",
+      "references": [
+        {
+          "label": "Meghalaya Tourism — Mawlynnong",
+          "url": "https://www.meghalayatourism.in/explore/destinations/by-interest/living-root-bridges/mawlynnong/"
+        },
+        {
+          "label": "Incredible India — Mawlynnong heritage and community cleanliness",
+          "url": "https://www.prod.incredibleindia.gov.in/content/incredible-india-v2/en/destinations/shillong/heritage.html"
+        }
+      ]
+    },
+    "188": {
+      "title": "Nartiang: megaliths and the Durga temple",
+      "overview": "Nartiang in West Jaintia Hills is known for a major collection of megalithic stones and the nearby Nartiang Durga Temple.",
+      "context": "The monolith garden is associated with the history of the Jaintia Kingdom. The West Jaintia Hills District Administration describes upright stones called menhirs (Moo Shynrang) and flat stones called dolmens (Moo Kynthai).",
+      "who": "Local accounts associate some of the stones with U Mar Phalyngki, a lieutenant of the Jaintia king, and with local clans.",
+      "what": "The site includes standing and horizontal megaliths. The Durga temple is another important heritage site in Nartiang, reflecting the region's layered religious and cultural history.",
+      "why": "Megaliths were erected as memorials and markers connected with ancestors, rulers, ritual life and historical events. The nearby temple adds a distinct religious heritage dimension.",
+      "significance": "Nartiang helps students connect Jaintia political history, local archaeology, religious heritage and the geography of West Jaintia Hills.",
+      "exam": "Nartiang = megalithic stones/monoliths and Durga temple; district = West Jaintia Hills. Menhir = upright stone; dolmen = flat or table-like stone arrangement.",
+      "references": [
+        {
+          "label": "West Jaintia Hills District Administration — Nartiang Monoliths",
+          "url": "https://westjaintiahills.gov.in/tourist-place/nartiang-monoliths/"
+        },
+        {
+          "label": "Meghalaya Tourism — Nartiang Durga Temple",
+          "url": "https://rc-www.meghalayatourism.in/destinations/nartiang-durga-temple/"
+        },
+        {
+          "label": "Meghalaya Tourism — Nartiang Megalith",
+          "url": "https://www.meghalayatourism.in/explore/destinations/by-region/jaintia-hills/nartiang-megalith/"
+        }
+      ]
+    },
+    "189": {
+      "title": "Khasi matriliny: descent through the mother's line",
+      "overview": "Khasi society is traditionally matrilineal: lineage and clan membership are traced through the mother rather than the father.",
+      "context": "The Meghalaya Government describes Khasi, Jaintia and Garo societies as matrilineal and states that descent is traced through the mother. Academic research explains that the Khasi clan or kur is linked to a common ancestress.",
+      "who": "In traditional Khasi family organisation, the mother's eldest brother (maternal uncle, u kñi) has an important advisory and kinship role. The youngest daughter (ka khadduh) has a traditional role as custodian of ancestral property.",
+      "what": "Matrilineal descent means children belong to their mother's lineage or clan. It does not mean that women alone make every family, political or public decision.",
+      "why": "The system is part of the community's customary social organisation and inheritance traditions. Practices can vary and have changed over time.",
+      "significance": "This topic helps distinguish matriliny from matriarchy. Matriliny concerns descent and inheritance through the female line; it does not automatically mean that all authority is held by women.",
+      "exam": "Khasi matriliny = descent through the mother. The youngest daughter traditionally inherits or safeguards ancestral property, while the maternal uncle has an important customary role. Avoid the incorrect shortcut 'matrilineal = women govern everything.'",
+      "references": [
+        {
+          "label": "Meghalaya Government — People and Culture",
+          "url": "https://www.meghalaya.gov.in/22429-sq-km"
+        },
+        {
+          "label": "Ellena et al. (2017) — Khasi matrilineal social structure, Maternal & Child Nutrition",
+          "url": "https://doi.org/10.1111/MCN.12560"
+        }
+      ]
+    },
+    "195": {
+      "title": "Wangala: the Garo post-harvest festival",
+      "overview": "Wangala is a major post-harvest thanksgiving festival of the Garo community in Meghalaya. It is popularly known as the 100 Drums Festival.",
+      "context": "The festival marks the end of agricultural toil and celebrates the harvest. The Meghalaya Government describes it as a festival associated with Saljong, the sun deity linked with fertility.",
+      "who": "Garo communities celebrate Wangala in different places and at different times across the season. The East Garo Hills District Administration describes it as a major festival of the Garo community.",
+      "what": "Traditional celebrations include rhythmic drumming, songs, dances and ceremonial thanksgiving. The large public gathering known as the 100 Drums Festival brings together performers from different villages.",
+      "why": "The festival expresses gratitude for the harvest, reinforces community identity and preserves Garo cultural traditions.",
+      "significance": "Wangala is an important example of the relationship between agriculture, seasonal cycles, indigenous belief and performing arts in Meghalaya.",
+      "exam": "Wangala = Garo post-harvest festival; also called the 100 Drums Festival. Do not confuse it with Behdienkhlam, which is especially associated with the Jaintia community.",
+      "references": [
+        {
+          "label": "Meghalaya Government — Wangala: The 100 Drums Festival",
+          "url": "https://meghalaya.gov.in/index.php/wangala"
+        },
+        {
+          "label": "East Garo Hills District Administration — Festivals",
+          "url": "https://eastgarohills.gov.in/festivals/"
+        },
+        {
+          "label": "Ministry of Tourism — Utsav: Wangala Festival",
+          "url": "https://www.utsav.gov.in/view-event/wangala-festival-1"
+        }
+      ]
+    },
+    "3003": {
+      "title": "Sixth Schedule and Autonomous District Councils in Meghalaya",
+      "overview": "The correct constitutional provision for Autonomous District Councils in Meghalaya's specified tribal areas is the Sixth Schedule.",
+      "context": "The Sixth Schedule is headed by the words 'Articles 244(2) and 275(1)' and applies to specified tribal areas in Assam, Meghalaya, Tripura and Mizoram.",
+      "what": "It provides for autonomous districts and councils with defined constitutional powers. In Meghalaya, the three principal councils are the Khasi Hills, Jaintia Hills and Garo Hills Autonomous District Councils.",
+      "why": "The framework recognises customary institutions and provides a constitutional basis for local administration in specified tribal areas.",
+      "significance": "The Sixth Schedule is central to Meghalaya's governance structure. It should be studied together with the powers and limits of District and Regional Councils under the Schedule.",
+      "exam": "Autonomous District Councils in Meghalaya — Sixth Schedule. Fifth Schedule is a different framework for Scheduled Areas in other States.",
+      "references": [
+        {
+          "label": "Legislative Department — Constitution of India, Sixth Schedule",
+          "url": "https://www.legislative.gov.in/static/uploads/2025/08/cb1b190ea633a1746368ed1fac35fb30.pdf"
+        }
+      ]
+    },
+    "4006": {
+      "title": "21 January 1972: Meghalaya becomes a full-fledged State",
+      "overview": "The exact date of Meghalaya's full statehood is 21 January 1972.",
+      "context": "Meghalaya first became an autonomous State within Assam on 2 April 1970. Full statehood followed on 21 January 1972.",
+      "what": "The North-Eastern Areas (Reorganisation) framework brought the new State into being as a full-fledged State of the Indian Union.",
+      "why": "The transition reflected the constitutional reorganisation of the North-Eastern region and the demand for State-level self-government.",
+      "significance": "The two-stage chronology is important for State GK: autonomous State in 1970; full State in 1972.",
+      "exam": "Exact date: 21 January 1972. Year-only question: 1972. Do not select 2 April 1970 when the question specifically says full statehood.",
+      "references": [
+        {
+          "label": "Meghalaya Government — historical formation of the State",
+          "url": "https://meghalaya.gov.in/index.php/22429-sq-km"
+        },
+        {
+          "label": "Meghalaya Biodiversity Board — About Meghalaya",
+          "url": "https://megbiodiversity.nic.in/about-meghalaya"
+        }
+      ]
+    },
+    "4008": {
+      "title": "Wangala: the harvest festival of the Garos",
+      "overview": "Wangala is especially associated with the Garo community and celebrates the completion of the agricultural harvest.",
+      "context": "The festival is also called the 100 Drums Festival because drums are central to its music and public performances.",
+      "what": "Traditional Wangala celebrations include ceremonial thanksgiving, group dancing and drumming. The festival is associated with Saljong and the end of a period of work in the fields.",
+      "why": "It marks gratitude for agricultural produce and helps preserve Garo cultural identity and intergenerational traditions.",
+      "significance": "Wangala connects Meghalaya's cultural calendar with agriculture, indigenous belief and traditional music.",
+      "exam": "Garo — Wangala; Jaintia — Behdienkhlam; Khasi — Shad Suk Mynsiem is an important traditional dance festival. Learn the community-festival pairings carefully.",
+      "references": [
+        {
+          "label": "Meghalaya Government — Wangala: The 100 Drums Festival",
+          "url": "https://meghalaya.gov.in/index.php/wangala"
+        },
+        {
+          "label": "East Garo Hills District Administration — Festivals",
+          "url": "https://eastgarohills.gov.in/festivals/"
+        }
+      ]
+    },
+    "4010": {
+      "title": "Nokrek Biosphere Reserve: Garo Hills, Meghalaya",
+      "overview": "Nokrek Biosphere Reserve is located in the Garo Hills region of Meghalaya, on the Tura Range of the Meghalaya Plateau.",
+      "context": "UNESCO's Man and the Biosphere Programme describes Nokrek as a mountainous reserve with important rivers and streams, including the Ganol, Dareng and Simsang systems.",
+      "what": "Nokrek is a protected landscape of high biodiversity. UNESCO records its recognition under the Man and the Biosphere Programme in 2009. The reserve is also associated with the conservation of wild citrus relatives, including Citrus indica.",
+      "why": "The region's forests, steep terrain, watersheds and biodiversity make it important for conservation and ecological research.",
+      "significance": "Nokrek links Meghalaya GK with biosphere reserves, biodiversity conservation, watersheds and the UNESCO Man and the Biosphere Programme.",
+      "exam": "Nokrek Biosphere Reserve = Garo Hills / Tura Range. Do not confuse it with Balpakram National Park, which is also in the Garo Hills region but is a different protected area.",
+      "references": [
+        {
+          "label": "UNESCO — Nokrek Biosphere Reserve, Man and the Biosphere Programme",
+          "url": "https://www.unesco.org/en/mab/nokrek"
+        },
+        {
+          "label": "UNESCO World Heritage Centre — Garo Hills Conservation Area (Tentative List)",
+          "url": "https://whc.unesco.org/en/tentativelists/6356"
+        }
+      ]
+    },
+    "5004": {
+      "title": "Khasi and Jaintia (Pnar): Austroasiatic language family",
+      "overview": "Khasi and Pnar, the language commonly associated with the Jaintia Hills, belong to the Austroasiatic language family, within the Khasian branch.",
+      "context": "The Jaintia language is commonly referred to as Pnar or Synteng in linguistic literature. The term 'Jaintia' can refer to a people or region as well as to local language varieties, so the question's wording is best understood as Khasi and Pnar/Jaintia.",
+      "what": "Academic linguistic studies classify Khasi and Pnar among the Khasian languages of the Austroasiatic family. Garo belongs to a different language family and should not be grouped with Khasi and Pnar for this question.",
+      "why": "Language-family classification is based on historical linguistic relationships, not simply on geographical proximity or shared citizenship.",
+      "significance": "This is a useful Meghalaya GK link between communities, language, regional identity and the wider linguistic map of North-East India.",
+      "exam": "Khasi and Pnar/Jaintia — Austroasiatic (Khasian branch). Garo — Tibeto-Burman/Sino-Tibetan classification in standard regional references. Do not assume all Meghalaya languages belong to one family.",
+      "references": [
+        {
+          "label": "Cambridge University Press — Derivational Morphology and Compounding in Pnar",
+          "url": "https://doi.org/10.1017/UPO9788175968875.016"
+        },
+        {
+          "label": "Australian National University — A lexicostatistical study of Khasian languages",
+          "url": "https://openresearch-repository.anu.edu.au/items/d3b8544d-2c81-43f5-9816-2667b70f8229"
+        },
+        {
+          "label": "University of Milan — Linguistic study of Khasi",
+          "url": "https://riviste.unimi.it/index.php/asgm/it/article/view/3441"
+        }
+      ]
+    },
+    "5089": {
+      "title": "Rubber fig roots and Meghalaya's living root bridges",
+      "overview": "The rubber fig, Ficus elastica, is one of the key tree species whose roots are trained to form living root bridges in Meghalaya.",
+      "context": "The practice is an indigenous form of bio-engineering in the Khasi and Jaintia Hills. The Meghalaya Biodiversity Board documents the use of Ficus roots and guides made from hollowed betel-nut trunks or bamboo.",
+      "what": "People guide growing roots across a stream or valley and allow them to strengthen over time. The living structure is maintained and improved by the community.",
+      "why": "The method uses living plant growth to create a durable crossing suited to a wet, rugged landscape.",
+      "significance": "Living root bridges are an example of traditional ecological knowledge and community-managed infrastructure.",
+      "exam": "Remember the scientific name: Ficus elastica. The local name cited by the Meghalaya Biodiversity Board is Dieng jri.",
+      "references": [
+        {
+          "label": "Meghalaya Biodiversity Board — Living Root Bridges",
+          "url": "https://megbiodiversity.nic.in/living-root-bridges"
+        },
+        {
+          "label": "UNESCO World Heritage Centre — Jingkieng jri: Living Root Bridge Cultural Landscapes (Tentative List)",
+          "url": "https://whc.unesco.org/en/tentativelists/6606"
+        }
+      ]
+    },
+    "5090": {
+      "title": "Mawsynram: exceptionally high rainfall in the Khasi Hills",
+      "overview": "Mawsynram in the Khasi Hills is famous for exceptionally high rainfall and is widely described as one of the wettest places on Earth.",
+      "context": "The Meghalaya Government's district profile gives an average annual rainfall figure of about 11,872 mm, but it also adds an important statistical caution: there has not been a meteorological department office at Mawsynram, and Cherrapunji has been used for official meteorological recording purposes.",
+      "what": "Moist monsoon air is forced upward over the southern slopes of the Meghalaya Plateau. Orographic uplift and the area's exposure to moisture-bearing winds contribute to very heavy rainfall.",
+      "why": "When moist air rises over the plateau's steep southern escarpment, it cools and condenses, producing intense rainfall.",
+      "significance": "Mawsynram is a useful case study for monsoon climatology, relief rainfall and the geography of the Meghalaya Plateau.",
+      "exam": "Mawsynram — exceptionally high rainfall in the Khasi Hills. Remember the official-source caveat: a claimed global ranking depends on the period and measurement station used; do not confuse a tourism label with a continuously verified meteorological ranking.",
+      "references": [
+        {
+          "label": "Meghalaya Government — Mawsynram district profile",
+          "url": "https://meghalaya.gov.in/node/34292"
+        },
+        {
+          "label": "Meghalaya Tourism — Mawsynram",
+          "url": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/mawsynram/"
+        }
+      ]
+    }
+  }
+}
