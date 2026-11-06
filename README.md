@@ -125,3 +125,10 @@ The 3 November 2026 feed contains six dated items: Exercise Tiger Triumph, India
 - Do not enable exact-paper mode until the complete paper, options and official key are verified.
 - Preserve the `mpscV4` local progress key, bookmarks, notes and study logs.
 - Validate question IDs, four-option structure, answer indices, explanation coverage, loader paths, JSON, JavaScript and service-worker cache.
+
+
+## Uploaded Study Notes integration — 6 November 2026
+
+Four user-supplied study-note archives were analysed: 56 PDFs (267 pages) and 10 geography map images. Their content has been rewritten into the existing Study Notes library as four new subject collections with 27 revision chapters: expanded Environment & Ecology, Indian & World Geography, Indian History, and Indian Polity & Constitution. The original third-party PDFs and watermarked map images are not republished in the repository; the site contains original concise teaching notes and official reference links. The additions preserve existing browser progress, bookmarks, personal notes and study logs.
+
+The analysis corrected the Cabinet Mission provincial grouping (Group B: Punjab, NWFP and Sind; Group C: Bengal and Assam), expanded IMD heat-wave criteria beyond absolute temperature thresholds, qualified time-sensitive biosphere-reserve and E20 facts, and flagged dynamic PVTG, protected-area, carbon-market and PFAS information for current official verification. See `audit/study-notes-upload-2026-11-06.json` for the source inventory, editorial corrections and references.
