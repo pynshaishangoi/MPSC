@@ -7,7 +7,7 @@ A mobile-friendly GitHub Pages study hub for Meghalaya competitive examinations.
 - **821 active unique question records**: 592 embedded questions plus 12 loaded question batches.
 - **111 records tagged PYQ**. A PYQ tag is not the same as a complete paper.
 - **209 structured detailed explanations** across eight libraries: 49 History, 76 Polity, 20 English, 11 Arithmetic, 20 Meghalaya GK, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **25.5% of the active bank**; 612 active IDs still need structured library explanations. The new Meghalaya GK library explains 20 of 58 active regional questions (34.5%); 38 remain. The Arithmetic library adds worked solutions for 11 active questions (compound interest, percentages, ratio, simple interest, average, profit, time-and-work and speed); coverage is audited by ID in `audit/explanation-coverage-2026-11-06.json`.
-- **Study Notes:** 14 subject libraries and 37 chapters.
+- **Study Notes:** 18 subject collections and 64 revision chapters (including 4 newly integrated collections from the 6 November uploaded-note analysis).
 - **MPSC Secretariat LDA May 2025 recruitment-cycle Series I:** 91 of 150 questions transcribed and checked against the official final answer key dated 17 December 2025; 59 remain.
 
 ## Evidence-led exam preparation
