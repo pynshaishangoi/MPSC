@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-06",
+  "title": "User-uploaded study-note analysis and integration",
+  "sourceUploads": [
+    {
+      "subject": "Environment & Ecology",
+      "archive": "Environment info notes-20260928T151703Z-1-001.zip",
+      "pdfCount": 23,
+      "pdfPages": 116,
+      "topics": [
+        "ecosystems and biomes",
+        "biodiversity and conservation",
+        "environmental pollution",
+        "climate change",
+        "IPCC and COPs",
+        "Indian climate and environment programmes",
+        "emerging contaminants"
+      ]
+    },
+    {
+      "subject": "Geography",
+      "archive": "Geography Info notes-20260928T152628Z-1-001.zip",
+      "pdfCount": 15,
+      "pdfPages": 23,
+      "mapImages": 10,
+      "topics": [
+        "Indian lakes and wetlands",
+        "national parks and PVTGs",
+        "major straits",
+        "local winds",
+        "cloudbursts and heat waves",
+        "PDO and ocean circulation",
+        "auroras, tornadoes, hydrothermal vents and salt flats"
+      ]
+    },
+    {
+      "subject": "Indian History",
+      "archive": "Indian History-20260928T151717Z-1-001.zip",
+      "pdfCount": 8,
+      "pdfPages": 62,
+      "topics": [
+        "Vedic periods",
+        "socio-religious reform",
+        "Bengal partition and Swadeshi",
+        "Civil Disobedience",
+        "Gandhi-Irwin Pact",
+        "Cabinet Mission",
+        "British Indian committees and famine administration"
+      ]
+    },
+    {
+      "subject": "Indian Polity",
+      "archive": "Indian Polity-20260928T151725Z-1-001.zip",
+      "pdfCount": 10,
+      "pdfPages": 66,
+      "topics": [
+        "Constitution-making",
+        "Preamble",
+        "constitutional sources",
+        "citizenship",
+        "Fundamental Rights and Duties",
+        "Governor and Lieutenant Governor",
+        "emergency provisions",
+        "Constituent Assembly members"
+      ]
+    }
+  ],
+  "total": {
+    "pdfCount": 56,
+    "pdfPages": 267,
+    "mapImages": 10,
+    "studySubjectsAdded": 4,
+    "chaptersAdded": 27
+  },
+  "integration": "Rewrote the uploaded material into original concise exam-oriented study notes in the existing Study Notes UI. The source PDFs and third-party watermarked map images are not copied into the public repository. Existing local study progress, bookmarks, notes and logs are untouched.",
+  "correctionsAndCautions": [
+    "Cabinet Mission grouping corrected: Group A included Madras, Bombay, United Provinces, Bihar, Central Provinces and Orissa; Group B included Punjab, NWFP and Sind; Group C included Bengal and Assam. The uploaded note's Group B/Group C allocation and Baluchistan placement were incorrect.",
+    "Heat-wave notes expanded: basic IMD station thresholds are 40°C plains, 30°C hills and 37°C coastal, but declaration also depends on departure-from-normal, severity and duration criteria. Do not teach absolute thresholds alone.",
+    "India biosphere-reserve counts and UNESCO World Network membership are time-sensitive. An older MoEFCC annual report lists 18 nationally designated reserves and 11 UNESCO-network reserves at its publication date; use a dated current official list for present counts.",
+    "COP30 notes are retrospective: COP30 was held in Belém in November 2025; distinguish adopted Belém Political Package decisions from pre-conference proposals and drafts.",
+    "E20 is a dated policy fact: the official PIB 2026 factsheet reports India achieved 20% blending in 2025. Earlier target documents should be labelled by publication date.",
+    "International Big Cat Alliance is described as a conservation alliance; do not call it a global treaty-based alliance without evidence of a binding treaty.",
+    "PVTG lists, national-park lists, lake superlatives, current scheme guidelines, carbon-market rules and PFAS regulation require current official verification; old map notes are not authoritative current registers.",
+    "Vedic chronology and social transitions are broad scholarly conventions, not precise dates for every text or a uniform change across the subcontinent.",
+    "Constitutional-source comparisons are mnemonic associations; use the current Constitution's text for legal answers. Some rights apply to all persons while others are citizen-specific."
+  ],
+  "references": [
+    {
+      "label": "Legislative Department — Constitution of India",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf"
+    },
+    {
+      "label": "IMD — Heat-wave criteria",
+      "url": "https://mausam.imd.gov.in/met-oly/Met-Olympiad-Study-Material-Senior.pdf"
+    },
+    {
+      "label": "MoEFCC — Annual Report 2018–19",
+      "url": "https://moef.gov.in/uploads/2019/08/Annual-Report-2018-19-English.pdf"
+    },
+    {
+      "label": "UNFCCC — COP28 outcomes",
+      "url": "https://unfccc.int/cop28/outcomes"
+    },
+    {
+      "label": "UNFCCC — COP30 Belém Political Package",
+      "url": "https://unfccc.int/cop30/belem-political-package"
+    },
+    {
+      "label": "PIB — Ethanol blending factsheet, 5 July 2026",
+      "url": "https://www.pib.gov.in/FactsheetDetails.aspx?ModuleId=16&NoteId=150699&id=150699&lang=1&reg=20"
+    },
+    {
+      "label": "PIB — National Green Hydrogen Mission",
+      "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1989809&lang=2&reg=48"
+    }
+  ]
+}
