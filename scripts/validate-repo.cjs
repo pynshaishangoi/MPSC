@@ -103,6 +103,10 @@ for (const question of gkBatch.questions) {
   if (!question.e || question.e.length < 120 || !question.source || !question.sourceURL || !question.sourceURL.startsWith('https://') || !question.verificationStatus || question.difficulty === 'PYQ') fail('GKToday-inspired question ' + question.id + ' needs a substantial explanation, source and non-PYQ verification label');
 }
 if (!script.includes("2026-11-03-gktoday-gs.json") || !sw.includes('./question-batches/2026-11-03-gktoday-gs.json')) fail('GKToday-inspired GS batch is not loaded and precached');
+const expansionBatch = jsonFile('question-batches/2026-11-14-subject-expansion.json');
+if (expansionBatch.questions.length !== 12 || expansionBatch.questionIdRange !== '7201-7212' || Object.values(expansionBatch.subjects).reduce((sum,value)=>sum+value,0)!==12) fail('14 November subject expansion batch count, ID range or subject totals are incorrect');
+for (const question of expansionBatch.questions) if (!question.e || question.e.length < 120 || !question.sourceURL || !question.verificationStatus || question.difficulty === 'PYQ') fail('14 November practice question needs a substantial explanation, source and non-PYQ label');
+if (!script.includes('2026-11-14-subject-expansion.json') || !sw.includes('./question-batches/2026-11-14-subject-expansion.json')) fail('14 November subject expansion batch is not loaded and precached');
 const currentBatch = jsonFile('question-batches/2026-11-04-current-affairs.json');
 if (currentBatch.questions.length !== 6 || currentBatch.questions.map(q=>q.id).join(',') !== '7137,7138,7139,7140,7141,7142') fail('4 November current-affairs batch count or ID range is incorrect');
 for (const question of currentBatch.questions) if (!question.e || question.e.length < 100 || !question.sourceURL || !question.verificationStatus || question.difficulty === 'PYQ') fail('current-affairs practice question ' + question.id + ' needs explanation, source and non-PYQ label');
@@ -118,11 +122,11 @@ for (let number = 1; number <= 91; number++) {
 }
 if (!paperQuestions.find(q=>q.paperNo===27).o[3].includes('why IS she sketching')) fail('Q27 source/key anomaly must remain visible');
 if (!paperQuestions.find(q=>q.paperNo===30).verificationStatus.includes('unusual reporting verb')) fail('Q30 official-key anomaly must remain flagged');
-if (active.length !== 821 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
-if (batchFiles.length !== 12) fail('expected exactly 12 loaded question batches');
+if (active.length !== 833 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
+if (batchFiles.length !== 13) fail('expected exactly 12 loaded question batches');
 const orphanBatchFiles = walkJson('question-batches').map(file => path.basename(file)).filter(name => !batchFiles.includes(name));
 if (orphanBatchFiles.length) fail('orphaned question-batch files are not loaded: ' + orphanBatchFiles.join(', '));
-const expectedSubjectCounts = {"Aptitude":32,"Arithmetic":160,"Art & Culture":1,"Books & Authors":1,"Computer":11,"Current Affairs":44,"Economy":46,"English":145,"Environment":27,"General Science":10,"Geography":43,"GST / Inspector of Taxes":15,"History":49,"International Organisations":1,"Meghalaya GK":58,"Officer Technical":17,"Polity":76,"Reasoning":35,"Science":47,"Static GK":3};
+const expectedSubjectCounts = {"Aptitude":32,"Arithmetic":161,"Art & Culture":1,"Books & Authors":1,"Computer":12,"Current Affairs":44,"Economy":47,"English":146,"Environment":28,"General Science":10,"Geography":44,"GST / Inspector of Taxes":16,"History":50,"International Organisations":1,"Meghalaya GK":59,"Officer Technical":17,"Polity":77,"Reasoning":36,"Science":48,"Static GK":3};
 const actualSubjectCounts = {};
 for (const question of active) {
   const subject = question.cat.replace(/ • PYQ$/, '');
