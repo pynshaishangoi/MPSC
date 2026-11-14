@@ -4,7 +4,7 @@ A mobile-friendly GitHub Pages study hub for Meghalaya competitive examinations.
 
 ## Verified repository snapshot — 6 November 2026
 
-- **821 active unique question records**: 592 embedded questions plus 12 loaded question batches.
+- **833 active unique question records**: 592 embedded questions plus 13 loaded question batches.
 - **111 records tagged PYQ**. A PYQ tag is not the same as a complete paper.
 - **209 structured detailed explanations** across eight libraries: 49 History, 76 Polity, 20 English, 11 Arithmetic, 20 Meghalaya GK, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **25.5% of the active bank**; 612 active IDs still need structured library explanations. The new Meghalaya GK library explains 20 of 58 active regional questions (34.5%); 38 remain. The Arithmetic library adds worked solutions for 11 active questions (compound interest, percentages, ratio, simple interest, average, profit, time-and-work and speed); coverage is audited by ID in `audit/explanation-coverage-2026-11-06.json`.
 - **Study Notes:** 18 subject collections and 64 revision chapters (including 4 newly integrated collections from the 6 November uploaded-note analysis).
@@ -132,3 +132,8 @@ The 3 November 2026 feed contains six dated items: Exercise Tiger Triumph, India
 Four user-supplied study-note archives were analysed: 56 PDFs (267 pages) and 10 geography map images. Their content has been rewritten into the existing Study Notes library as four new subject collections with 27 revision chapters: expanded Environment & Ecology, Indian & World Geography, Indian History, and Indian Polity & Constitution. The original third-party PDFs and watermarked map images are not republished in the repository; the site contains original concise teaching notes and official reference links. The additions preserve existing browser progress, bookmarks, personal notes and study logs.
 
 The analysis corrected the Cabinet Mission provincial grouping (Group B: Punjab, NWFP and Sind; Group C: Bengal and Assam), expanded IMD heat-wave criteria beyond absolute temperature thresholds, qualified time-sensitive biosphere-reserve and E20 facts, and flagged dynamic PVTG, protected-area, carbon-market and PFAS information for current official verification. See `audit/study-notes-upload-2026-11-06.json` for the source inventory, editorial corrections and references.
+
+
+## Cross-subject question expansion — 14 November 2026
+
+Added 12 original, source-linked practice questions across Arithmetic, English, Meghalaya GK, Polity, History, Geography, Science, Economy, Environment, Reasoning, Computer and GST / Inspector of Taxes. The batch is loaded by the practice-bank loader and precached by the service worker. All 12 are explicitly labelled original practice, not official PYQs. Explanations include the key reasoning or statutory distinction; legal and policy questions must always be read with the latest official text. See `question-batches/2026-11-14-subject-expansion.json`.
