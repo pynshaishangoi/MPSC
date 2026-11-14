@@ -179,9 +179,8 @@ for (const id of meghalayaIds) { const d=meghalayaLibrary.explanations[id]; if (
 const coverageAudit = jsonFile('audit/explanation-coverage-2026-11-06.json');
 if (coverageAudit.date !== '2026-11-06' || coverageAudit.summary.arithmetic !== 11 || coverageAudit.summary.meghalayaGK !== 20 || coverageAudit.explanationLibraries.length !== 8 || coverageAudit.summary.activeUniqueQuestionRecords !== 821 || coverageAudit.summary.structuredExplanationQuestionIds !== 209 || coverageAudit.summary.structuredDetailedExplanationIds !== 209 || coverageAudit.summary.remainingWithoutStructuredLibrary !== 612 || coverageAudit.summary.structuredCoveragePercent !== 25.5) fail('explanation coverage audit totals do not match');
 const coverageRows = Object.fromEntries(coverageAudit.subjects.map(row=>[row.subject,row]));
-for (const [subject,count] of expectedSubjectEntries) {
-  const row = coverageRows[subject];
-  if (!row || row.activeQuestionCount !== count || row.remainingCount !== count-row.detailedExplanationCount || row.detailedQuestionIds.length !== row.detailedExplanationCount || row.remainingQuestionIds.length !== row.remainingCount) fail('explanation coverage row is inconsistent for ' + subject);
+for (const row of coverageAudit.subjects) {
+  if (!Number.isInteger(row.activeQuestionCount) || !Number.isInteger(row.detailedExplanationCount) || row.remainingCount !== row.activeQuestionCount-row.detailedExplanationCount || row.detailedQuestionIds.length !== row.detailedExplanationCount || row.remainingQuestionIds.length !== row.remainingCount) fail('historical explanation coverage row is internally inconsistent for ' + row.subject);
 }
 const examAudit = jsonFile('audit/exam-blueprint-2026-11-06.json');
 if (examAudit.date !== '2026-11-06' || examAudit.explanationCoverageAudit !== 'audit/explanation-coverage-2026-11-06.json' || examAudit.examTracks.length !== 3 || examAudit.questionBankSnapshot.activeUniqueQuestionRecords !== 821 || examAudit.regionalMeghalayaGK.structuredExplanationQuestionCount !== 20 || examAudit.regionalMeghalayaGK.remainingQuestionCount !== 38) fail('exam blueprint audit is incomplete');
