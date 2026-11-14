@@ -123,7 +123,7 @@ for (let number = 1; number <= 91; number++) {
 if (!paperQuestions.find(q=>q.paperNo===27).o[3].includes('why IS she sketching')) fail('Q27 source/key anomaly must remain visible');
 if (!paperQuestions.find(q=>q.paperNo===30).verificationStatus.includes('unusual reporting verb')) fail('Q30 official-key anomaly must remain flagged');
 if (active.length !== 833 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
-if (batchFiles.length !== 13) fail('expected exactly 12 loaded question batches');
+if (batchFiles.length !== 13) fail('expected exactly 13 loaded question batches');
 const orphanBatchFiles = walkJson('question-batches').map(file => path.basename(file)).filter(name => !batchFiles.includes(name));
 if (orphanBatchFiles.length) fail('orphaned question-batch files are not loaded: ' + orphanBatchFiles.join(', '));
 const expectedSubjectCounts = {"Aptitude":32,"Arithmetic":161,"Art & Culture":1,"Books & Authors":1,"Computer":12,"Current Affairs":44,"Economy":47,"English":146,"Environment":28,"General Science":10,"Geography":44,"GST / Inspector of Taxes":16,"History":50,"International Organisations":1,"Meghalaya GK":59,"Officer Technical":17,"Polity":77,"Reasoning":36,"Science":48,"Static GK":3};
