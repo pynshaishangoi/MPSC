@@ -229,6 +229,15 @@ if (!ancientIds.length || !modernIds.length || ancientIds.some(id => modernIds.i
 
 if (!script.includes('paperComplete===true') || !script.includes('paperTotal')) fail('exact-paper completeness safeguard is missing');
 
+const pyqCatalogue = jsonFile('pyq-papers/index.json');
+if (pyqCatalogue.schemaVersion !== 1 || !Array.isArray(pyqCatalogue.papers)) fail('exact PYQ catalogue schema is invalid');
+if (!sw.includes('./pyq-papers/index.json')) fail('service worker does not precache the exact PYQ catalogue');
+if (!script.includes('function startExactPyq()') || !script.includes('function submitExactPyq()') || !script.includes('loadExactPyqCatalogue()')) fail('separate interactive exact-PYQ runner is missing');
+if (!script.includes("x.difficulty!=='PYQ'")) fail('predicted mock pool must exclude all PYQ-tagged records');
+if (html.includes('PYQ + practice (fill test size)') || html.includes('PYQ practice only')) fail('mock-test UI still offers mixed or PYQ-only question sources');
+if (!html.includes('Predicted Mock — original practice questions only')) fail('mock-test UI must identify the separate predicted-practice mode');
+
+
 console.log('Validation passed.');
 console.log('Embedded questions: ' + embedded.length);
 console.log('Loaded batches: ' + batchFiles.length + ' (' + batchFiles.join(', ') + ')');
