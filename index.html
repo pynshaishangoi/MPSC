@@ -407,6 +407,7 @@ function loadExactPyqCatalogue(){
   if(data.schemaVersion!==1||!Array.isArray(data.papers))throw new Error('Invalid PYQ catalogue');
   EXACT_PYQ_PAPERS=data.papers;
   if(!EXACT_PYQ_PAPERS.length){
+   const startButton=document.getElementById('pyqStartBtn');if(startButton)startButton.disabled=true;
    select.innerHTML='<option value="">No verified full papers added yet</option>';
    info.textContent='The PYQ section is ready. A paper will appear after its complete transcription is checked against the original source.';
    return;
@@ -414,8 +415,10 @@ function loadExactPyqCatalogue(){
   select.innerHTML='<option value="">Select an examination paper</option>'+EXACT_PYQ_PAPERS.map(function(p,i){
    return '<option value="'+i+'">'+esc(p.title||p.exam+' — '+p.year+' Series '+p.series)+'</option>';
   }).join('');
+  const startButton=document.getElementById('pyqStartBtn');if(startButton)startButton.disabled=false;
   info.textContent=EXACT_PYQ_PAPERS.length+' paper record(s) in the catalogue. Only papers marked complete can start as full examinations.';
  }).catch(function(err){
+  const startButton=document.getElementById('pyqStartBtn');if(startButton)startButton.disabled=true;
   select.innerHTML='<option value="">Catalogue could not be loaded</option>';
   info.textContent=err.message;
  });
@@ -425,7 +428,7 @@ function startExactPyq(){
  const info=document.getElementById('pyqPaperInfo');
  const runner=document.getElementById('exactPyqRunner');
  const result=document.getElementById('exactPyqResult');
- const paper=EXACT_PYQ_PAPERS[Number(select&&select.value)];
+ const paper=select&&select.value!==''?EXACT_PYQ_PAPERS[Number(select.value)]:null;
  if(!paper){if(info)info.textContent='Please select a paper first.';return}
  if(paper.complete!==true||paper.transcribedQuestions!==paper.totalQuestions){
   if(info)info.textContent='This paper is incomplete and cannot start as a full timed examination.';
@@ -472,6 +475,7 @@ function setExactPyqAnswer(number,index){
  const count=Object.keys(EXACT_PYQ_ANSWERS).length;
  const progress=document.getElementById('exactPyqProgress');
  if(progress)progress.textContent=count+' / '+EXACT_PYQ_ACTIVE.questions.length+' answered';
+ const bar=document.getElementById('exactPyqBar');if(bar)bar.style.width=(count/EXACT_PYQ_ACTIVE.questions.length*100)+'%';
 }
 function renderExactPyqRunner(){
  const runner=document.getElementById('exactPyqRunner');
