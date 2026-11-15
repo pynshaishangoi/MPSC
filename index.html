@@ -490,7 +490,8 @@ function renderExactPyqRunner(){
   }).join('')+'</div>';
  }).join('');
 }
-function submitExactPyq(autoSubmit){
+function submitExactPyq(){
+ const autoSubmit=arguments[0]===true;
  if(!EXACT_PYQ_ACTIVE)return;
  if(EXACT_PYQ_INTERVAL){clearInterval(EXACT_PYQ_INTERVAL);EXACT_PYQ_INTERVAL=null;}
  const active=EXACT_PYQ_ACTIVE;
