@@ -112,6 +112,13 @@ if (currentBatch.questions.length !== 6 || currentBatch.questions.map(q=>q.id).j
 for (const question of currentBatch.questions) if (!question.e || question.e.length < 100 || !question.sourceURL || !question.verificationStatus || question.difficulty === 'PYQ') fail('current-affairs practice question ' + question.id + ' needs explanation, source and non-PYQ label');
 if (!script.includes("2026-11-04-current-affairs.json") || !sw.includes('./question-batches/2026-11-04-current-affairs.json')) fail('4 November current-affairs batch is not loaded and precached');
 if (!script.includes('x.sourceURL||x.sourceUrl')) fail('question source links are not rendered in explanations');
+
+const taxBatch = jsonFile('question-batches/2026-11-15-inspector-tax-technical.json');
+if (taxBatch.questions.length !== 15 || taxBatch.questionIdRange !== '7213-7227' || taxBatch.subjects['GST / Inspector of Taxes'] !== 15) fail('15 November Inspector of Taxes batch count, ID range or subject total is incorrect');
+for (const question of taxBatch.questions) {
+  if (!question.topic || !question.exam || !Array.isArray(question.examTags) || question.examTags.length !== 2 || !question.e || question.e.length < 120 || !question.source || !question.source.includes('not an official PYQ') || !question.sourceURL || !question.sourceURL.startsWith('https://') || !question.verificationStatus || question.difficulty === 'PYQ') fail('Inspector of Taxes practice question ' + question.id + ' needs a distinct topic, exam tags, teaching explanation, official source and non-PYQ verification label');
+  if (!question.sourceURL.startsWith('https://www.indiacode.nic.in/') && !question.sourceURL.startsWith('https://cbic-gst.gov.in/')) fail('Inspector of Taxes practice question ' + question.id + ' must use an official statutory source');
+}
 const officialKey = {"1":"D","2":"B","3":"D","4":"A","5":"D","6":"B","7":"A","8":"D","9":"B","10":"C","11":"B","12":"C","13":"B","14":"D","15":"C","16":"D","17":"C","18":"A","19":"B","20":"C","21":"B","22":"D","23":"A","24":"B","25":"C","26":"C","27":"D","28":"D","29":"B","30":"D","31":"C","32":"D","33":"A","34":"B","35":"C","36":"A","37":"D","38":"A","39":"B","40":"C","41":"C","42":"B","43":"D","44":"C","45":"A","46":"A","47":"C","48":"A","49":"B","50":"D","51":"B","52":"B","53":"A","54":"A","55":"C","56":"A","57":"B","58":"A","59":"A","60":"C","61":"C","62":"A","63":"C","64":"D","65":"C","66":"B","67":"D","68":"C","69":"D","70":"D","71":"D","72":"B","73":"C","74":"C","75":"B","76":"D","77":"B","78":"C","79":"C","80":"D","81":"B","82":"B","83":"C","84":"C","85":"A","86":"C","87":"B","88":"B","89":"C","90":"C","91":"A"};
 const paperQuestions = active.filter(q => q.paperId === 'lda-secretariat-may-2025-series-i');
 if (paperQuestions.length !== 91 || new Set(paperQuestions.map(q=>q.paperNo)).size !== 91) fail('LDA Secretariat Series I must have 91 unique transcribed question numbers');
@@ -122,11 +129,11 @@ for (let number = 1; number <= 91; number++) {
 }
 if (!paperQuestions.find(q=>q.paperNo===27).o[3].includes('why IS she sketching')) fail('Q27 source/key anomaly must remain visible');
 if (!paperQuestions.find(q=>q.paperNo===30).verificationStatus.includes('unusual reporting verb')) fail('Q30 official-key anomaly must remain flagged');
-if (active.length !== 833 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
-if (batchFiles.length !== 13) fail('expected exactly 13 loaded question batches');
+if (active.length !== 848 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
+if (batchFiles.length !== 14) fail('expected exactly 14 loaded question batches');
 const orphanBatchFiles = walkJson('question-batches').map(file => path.basename(file)).filter(name => !batchFiles.includes(name));
 if (orphanBatchFiles.length) fail('orphaned question-batch files are not loaded: ' + orphanBatchFiles.join(', '));
-const expectedSubjectCounts = {"Aptitude":32,"Arithmetic":161,"Art & Culture":1,"Books & Authors":1,"Computer":12,"Current Affairs":44,"Economy":47,"English":146,"Environment":28,"General Science":10,"Geography":44,"GST / Inspector of Taxes":16,"History":50,"International Organisations":1,"Meghalaya GK":59,"Officer Technical":17,"Polity":77,"Reasoning":36,"Science":48,"Static GK":3};
+const expectedSubjectCounts = {"Aptitude":32,"Arithmetic":161,"Art & Culture":1,"Books & Authors":1,"Computer":12,"Current Affairs":44,"Economy":47,"English":146,"Environment":28,"General Science":10,"Geography":44,"GST / Inspector of Taxes":31,"History":50,"International Organisations":1,"Meghalaya GK":59,"Officer Technical":17,"Polity":77,"Reasoning":36,"Science":48,"Static GK":3};
 const actualSubjectCounts = {};
 for (const question of active) {
   const subject = question.cat.replace(/ • PYQ$/, '');
@@ -170,7 +177,7 @@ for (const [name,library,ids] of [['General Studies',gsLibrary,gsIds],['GST',gst
   if (Object.keys(library.explanations || {}).length !== ids.length || ids.some(id => !library.explanations[id])) fail(name + ' explanation library does not cover its audited question IDs');
 }
 const allStructured = new Set([...Object.keys(historyLibrary.explanations),...Object.keys(polityLibrary.explanations),...Object.keys(gsLibrary.explanations),...Object.keys(gstLibrary.explanations),...Object.keys(caLibrary.explanations),...Object.keys(englishLibrary.explanations),...Object.keys(arithmeticLibrary.explanations),...Object.keys(meghalayaLibrary.explanations)]);
-if (allStructured.size !== 209) fail('structured explanation total must be 209 unique active IDs');
+if (allStructured.size !== 211) fail('structured explanation total must be 211 unique active IDs');
 if (arithmeticLibrary.questionCount !== 11 || arithmeticIds.some(id=>!active.some(q=>String(q.id)===id&&q.cat==='Arithmetic'))) fail('Arithmetic library must cover the 11 selected active Arithmetic IDs');
 for (const id of arithmeticIds) { const d=arithmeticLibrary.explanations[id]; if (!d.formula || !d.steps || !d.check || !d.commonMistakes || !Array.isArray(d.references) || !d.references.length || d.references.some(r=>!r.label || !r.url || !r.url.startsWith('https://'))) fail('Arithmetic explanation '+id+' is missing a formula, worked steps, check, common-mistake note or valid HTTPS reference'); }
 if (englishLibrary.questionCount !== 20 || englishIds.some(id=>!active.some(q=>String(q.id)===id&&/^English/.test(q.cat)))) fail('English explanation library must cover the 20 selected active English question IDs');
@@ -179,9 +186,8 @@ for (const id of meghalayaIds) { const d=meghalayaLibrary.explanations[id]; if (
 const coverageAudit = jsonFile('audit/explanation-coverage-2026-11-06.json');
 if (coverageAudit.date !== '2026-11-06' || coverageAudit.summary.arithmetic !== 11 || coverageAudit.summary.meghalayaGK !== 20 || coverageAudit.explanationLibraries.length !== 8 || coverageAudit.summary.activeUniqueQuestionRecords !== 821 || coverageAudit.summary.structuredExplanationQuestionIds !== 209 || coverageAudit.summary.structuredDetailedExplanationIds !== 209 || coverageAudit.summary.remainingWithoutStructuredLibrary !== 612 || coverageAudit.summary.structuredCoveragePercent !== 25.5) fail('explanation coverage audit totals do not match');
 const coverageRows = Object.fromEntries(coverageAudit.subjects.map(row=>[row.subject,row]));
-for (const [subject,count] of expectedSubjectEntries) {
-  const row = coverageRows[subject];
-  if (!row || row.activeQuestionCount !== count || row.remainingCount !== count-row.detailedExplanationCount || row.detailedQuestionIds.length !== row.detailedExplanationCount || row.remainingQuestionIds.length !== row.remainingCount) fail('explanation coverage row is inconsistent for ' + subject);
+for (const row of coverageAudit.subjects) {
+  if (!Number.isInteger(row.activeQuestionCount) || !Number.isInteger(row.detailedExplanationCount) || row.remainingCount !== row.activeQuestionCount-row.detailedExplanationCount || row.detailedQuestionIds.length !== row.detailedExplanationCount || row.remainingQuestionIds.length !== row.remainingCount) fail('historical explanation coverage row is internally inconsistent for ' + row.subject);
 }
 const examAudit = jsonFile('audit/exam-blueprint-2026-11-06.json');
 if (examAudit.date !== '2026-11-06' || examAudit.explanationCoverageAudit !== 'audit/explanation-coverage-2026-11-06.json' || examAudit.examTracks.length !== 3 || examAudit.questionBankSnapshot.activeUniqueQuestionRecords !== 821 || examAudit.regionalMeghalayaGK.structuredExplanationQuestionCount !== 20 || examAudit.regionalMeghalayaGK.remainingQuestionCount !== 38) fail('exam blueprint audit is incomplete');
@@ -228,6 +234,15 @@ const modernIds = active.filter(q => q.cat === 'History' && topicMatcher(q, hist
 if (!ancientIds.length || !modernIds.length || ancientIds.some(id => modernIds.includes(id))) fail('Ancient and Modern History filters must return distinct, non-overlapping question sets');
 
 if (!script.includes('paperComplete===true') || !script.includes('paperTotal')) fail('exact-paper completeness safeguard is missing');
+
+const pyqCatalogue = jsonFile('pyq-papers/index.json');
+if (pyqCatalogue.schemaVersion !== 1 || !Array.isArray(pyqCatalogue.papers)) fail('exact PYQ catalogue schema is invalid');
+if (!sw.includes('./pyq-papers/index.json')) fail('service worker does not precache the exact PYQ catalogue');
+if (!script.includes('function startExactPyq()') || !script.includes('function submitExactPyq()') || !script.includes('loadExactPyqCatalogue()')) fail('separate interactive exact-PYQ runner is missing');
+if (!script.includes("x.difficulty!=='PYQ'")) fail('predicted mock pool must exclude all PYQ-tagged records');
+if (html.includes('PYQ + practice (fill test size)') || html.includes('PYQ practice only')) fail('mock-test UI still offers mixed or PYQ-only question sources');
+if (!html.includes('Predicted Mock — original practice questions only')) fail('mock-test UI must identify the separate predicted-practice mode');
+
 
 console.log('Validation passed.');
 console.log('Embedded questions: ' + embedded.length);

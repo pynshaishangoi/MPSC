@@ -1,0 +1,358 @@
+{
+  "date": "2026-11-15",
+  "title": "Inspector of Taxes statutory practice: invoices, records, returns, audit and officer powers",
+  "questionCount": 15,
+  "questionIdRange": "7213-7227",
+  "subjects": {
+    "GST / Inspector of Taxes": 15
+  },
+  "description": "Fifteen original statutory practice questions across distinct CGST and IGST Act provisions. All are original practice items, not official PYQs.",
+  "sourcePolicy": "Questions are independently authored from India Code and CBIC statutory text. They are not copied from any question bank and are not official PYQs. For live tax administration, check current Acts, rules, notifications and circulars.",
+  "questions": [
+    {
+      "id": 7213,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Tax invoice: taxable goods involving movement",
+      "q": "A registered dealer makes a taxable supply of goods that must be transported to the buyer. Under section 31(1) of the CGST Act, when should the tax invoice ordinarily be issued?",
+      "o": [
+        "Before or at the time of removal of the goods for supply",
+        "Within 30 days after the buyer receives the goods",
+        "Only after the buyer pays the full consideration",
+        "At the time of filing the annual return"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "source": "Original statutory practice question; not an official PYQ. Based on section 31(1), CGST Act, 2017.",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+      "verificationStatus": "Checked against India Code text of section 31(1) on 2026-11-15; original practice, not an official PYQ.",
+      "e": "Correct answer: A — before or at the time of removal. Section 31(1) distinguishes two situations for taxable goods. If the supply involves movement, the invoice is issued before or at the time the goods are removed for supply. If there is no movement, it is issued before or at the time the goods are delivered or made available to the recipient. The other options describe later events and do not match the ordinary statutory timing rule. Exam takeaway: For goods involving movement, remember “removal”; for goods without movement, remember “delivery or making available.”",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ]
+    },
+    {
+      "id": 7214,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Tax invoice and bill of supply",
+      "q": "A registered person supplies exempt goods and is not charging GST on that supply. Which document does section 31(3)(c) ordinarily require instead of a tax invoice?",
+      "o": [
+        "Debit note",
+        "Bill of supply",
+        "Receipt voucher",
+        "Payment voucher"
+      ],
+      "a": 1,
+      "difficulty": "Easy",
+      "exam": "MPSC Inspector of Taxes",
+      "source": "Original statutory practice question; not an official PYQ. Based on section 31(3)(c), CGST Act, 2017.",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+      "verificationStatus": "Checked against India Code text of section 31(3)(c) on 2026-11-15; original practice, not an official PYQ.",
+      "e": "Correct answer: B — bill of supply. Section 31(3)(c) provides that a registered person supplying exempted goods or services, or paying tax under the composition provisions of section 10, issues a bill of supply instead of a tax invoice. A receipt voucher evidences an advance payment; a payment voucher is relevant when a recipient liable under reverse charge makes payment to an unregistered supplier; a debit note adjusts an invoice where the taxable value or tax charged was too low. Exam takeaway: Exempt supply or composition levy → bill of supply.",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ]
+    },
+    {
+      "id": 7215,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Receipt voucher for advance payment",
+      "q": "A registered supplier receives an advance payment for a proposed supply of goods. Which document is ordinarily required under section 31(3)(d) to evidence receipt of the advance?",
+      "o": [
+        "Credit note",
+        "Delivery challan",
+        "Receipt voucher",
+        "Debit note"
+      ],
+      "a": 2,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "source": "Original statutory practice question; not an official PYQ. Based on section 31(3)(d), CGST Act, 2017.",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+      "verificationStatus": "Checked against India Code text of section 31(3)(d) on 2026-11-15; original practice, not an official PYQ.",
+      "e": "Correct answer: C — receipt voucher. Section 31(3)(d) requires a registered person, on receiving an advance in respect of a supply of goods or services, to issue a receipt voucher or another prescribed document evidencing receipt of that payment. It records the advance; it is not the final tax invoice or a credit/debit adjustment. If the advance is later refunded because no supply is made and no tax invoice is issued, section 31(3)(e) provides for a refund voucher. Exam takeaway: Advance received → receipt voucher.",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ]
+    },
+    {
+      "id": 7216,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Credit notes: statutory grounds",
+      "q": "After issuing a tax invoice, a supplier discovers that the goods have been returned by the recipient. Which document may the supplier issue under section 34(1) of the CGST Act?",
+      "o": [
+        "Credit note",
+        "Payment voucher",
+        "E-way bill",
+        "Bill of entry"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "source": "Original statutory practice question; not an official PYQ. Based on section 34(1), CGST Act, 2017.",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+      "verificationStatus": "Checked against India Code text of section 34(1) on 2026-11-15; original practice, not an official PYQ.",
+      "e": "Correct answer: A — credit note. Section 34(1) permits the registered supplier to issue a credit note where the taxable value or tax charged in the invoice exceeds the value or tax payable for the supply, where goods are returned, or where goods or services are found deficient. A credit note is issued by the supplier to the recipient and its details are declared in the relevant return subject to the statutory conditions and time limit. Exam takeaway: Excess invoice value/tax, returned goods or deficient supply can support a supplier credit note.",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ]
+    },
+    {
+      "id": 7217,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Accounts and records under section 35",
+      "q": "Which set of records is expressly included in the accounts that a registered person must keep under section 35(1) of the CGST Act?",
+      "o": [
+        "Only the annual income-tax return and bank statements",
+        "Production or manufacture, inward and outward supplies, stock, ITC availed, and output tax payable and paid",
+        "Only purchase invoices and employee attendance",
+        "Only cash sales and fixed-asset registers"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "source": "Original statutory practice question; not an official PYQ. Based on section 35(1), CGST Act, 2017.",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+      "verificationStatus": "Checked against India Code text of section 35(1) on 2026-11-15; original practice, not an official PYQ.",
+      "e": "Correct answer: B. Section 35(1) requires a registered person to maintain true and correct accounts at the principal place of business, including production or manufacture of goods; inward and outward supplies; stock; input tax credit availed; and output tax payable and paid, together with other prescribed particulars. The list is wider than purchase invoices or bank statements alone. Exam takeaway: Memorise the five core record groups in section 35(1).",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ]
+    },
+    {
+      "id": 7218,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Records maintained by transporters and warehouse operators",
+      "q": "Under section 35(2) of the CGST Act, which persons must maintain prescribed records of consignors, consignees and relevant details of goods, irrespective of whether they are registered?",
+      "o": [
+        "Only registered manufacturers",
+        "Only registered recipients",
+        "Owners or operators of warehouses or godowns and transporters",
+        "Only chartered accountants conducting tax audits"
+      ],
+      "a": 2,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "source": "Original statutory practice question; not an official PYQ. Based on section 35(2), CGST Act, 2017.",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+      "verificationStatus": "Checked against India Code text of section 35(2) on 2026-11-15; original practice, not an official PYQ.",
+      "e": "Correct answer: C. Section 35(2) extends record-keeping duties beyond registered taxpayers. Every owner or operator of a warehouse, godown or other storage place, and every transporter, must maintain records of the consignor, consignee and other relevant details of goods in the prescribed manner, whether or not that person is registered. Exam takeaway: Transporters and warehouse/godown operators have independent record duties under section 35(2).",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ]
+    },
+    {
+      "id": 7219,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Retention period for GST accounts and records",
+      "q": "Under section 36 of the CGST Act, what is the ordinary minimum period for retaining books of account and other records required under section 35(1)?",
+      "o": [
+        "Thirty-six months from the invoice date",
+        "Seventy-two months from the due date of furnishing the annual return for the relevant year",
+        "Ten years from the date of registration in every case",
+        "Until the next departmental visit"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "source": "Original statutory practice question; not an official PYQ. Based on section 36, CGST Act, 2017.",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+      "verificationStatus": "Checked against India Code text of section 36 on 2026-11-15; original practice, not an official PYQ.",
+      "e": "Correct answer: B — seventy-two months. Section 36 requires the registered person to retain the relevant books and records until expiry of 72 months from the due date of furnishing the annual return for the year to which those records relate. The proviso requires longer retention in specified appeal, revision, other proceedings or investigation cases: the records must be kept for one year after final disposal, or for the ordinary period, whichever is later. Exam takeaway: 72 months is calculated from the annual-return due date, not from the invoice date.",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ]
+    },
+    {
+      "id": 7220,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Contents of returns under section 39",
+      "q": "Which combination of particulars is expressly included in the return described in section 39(1) of the CGST Act for a regular registered person?",
+      "o": [
+        "Only outward supplies and tax collected",
+        "Inward and outward supplies, ITC availed, tax payable and tax paid, with other prescribed particulars",
+        "Only stock balances and income-tax deductions",
+        "Only e-way bills generated during the month"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "source": "Original statutory practice question; not an official PYQ. Based on section 39(1), CGST Act, 2017.",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+      "verificationStatus": "Checked against India Code text of section 39(1) on 2026-11-15; original practice, not an official PYQ.",
+      "e": "Correct answer: B. Section 39(1) describes a return containing details of inward and outward supplies, input tax credit availed, tax payable and tax paid, along with other prescribed particulars. This is broader than the outward-supply details associated with GSTR-1. The statutory section also contains exclusions and separate arrangements for specified classes of taxpayers, so the question is framed around the general return-content rule. Exam takeaway: Section 39 return content covers both sides of supplies, ITC and tax liability/payment.",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ]
+    },
+    {
+      "id": 7221,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Tax deduction at source: contract threshold",
+      "q": "Under section 51(1) of the CGST Act, the specified deductors are required to deduct tax from a supplier's payment when the total value of taxable supplies under a contract exceeds which amount?",
+      "o": [
+        "₹50,000",
+        "₹1,00,000",
+        "₹2,50,000",
+        "₹10,00,000"
+      ],
+      "a": 2,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "source": "Original statutory practice question; not an official PYQ. Based on section 51(1) and its Explanation, CGST Act, 2017.",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+      "verificationStatus": "Checked against India Code text of section 51(1) and its Explanation on 2026-11-15; original practice, not an official PYQ.",
+      "e": "Correct answer: C — ₹2,50,000. Section 51(1) applies to the specified deductors and requires deduction where the total value of taxable supplies under a contract exceeds ₹2.5 lakh. The Explanation says the value for deduction is taken excluding the central, State, Union territory and integrated taxes and cess shown in the invoice. The statutory wording is “exceeds”, not “equals”. Exam takeaway: Remember the contract threshold and distinguish GST TDS from income-tax TDS.",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ]
+    },
+    {
+      "id": 7222,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Scrutiny of returns: section 61",
+      "q": "What is the principal purpose of scrutiny under section 61 of the CGST Act?",
+      "o": [
+        "To verify the correctness of a return and inform the registered person of discrepancies noticed",
+        "To automatically cancel every registration with a mismatch",
+        "To conduct a criminal trial in the tax office",
+        "To replace the annual return with an audit report"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "source": "Original statutory practice question; not an official PYQ. Based on section 61, CGST Act, 2017.",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+      "verificationStatus": "Checked against India Code text of section 61 on 2026-11-15; original practice, not an official PYQ.",
+      "e": "Correct answer: A. Section 61 empowers the proper officer to scrutinise the return and related particulars furnished by the registered person to verify correctness and inform the person of discrepancies noticed, in the prescribed manner. If the explanation is not satisfactory or corrective action is not taken, the officer may proceed in accordance with the Act, including relevant audit, inspection or demand provisions. Scrutiny itself is not an automatic cancellation or criminal trial. Exam takeaway: Scrutiny is a correctness check followed by communication of discrepancies.",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ]
+    },
+    {
+      "id": 7223,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Audit by tax authorities: prior notice",
+      "q": "Under section 65(3) of the CGST Act, how much advance notice must ordinarily be given to a registered person before an audit by tax authorities is conducted?",
+      "o": [
+        "At least 3 calendar days",
+        "At least 7 calendar days",
+        "Not less than 15 working days",
+        "Not less than 30 working days"
+      ],
+      "a": 2,
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes",
+      "source": "Original statutory practice question; not an official PYQ. Based on section 65(3), CGST Act, 2017.",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+      "verificationStatus": "Checked against India Code text of section 65(3) on 2026-11-15; original practice, not an official PYQ.",
+      "e": "Correct answer: C — not less than 15 working days. Section 65(3) provides that the registered person must be informed by notice not less than 15 working days before the audit is conducted, in the prescribed manner. Do not confuse working days with calendar days. Section 65 also states that the audit is ordinarily to be completed within three months from commencement, with a possible further extension not exceeding six months for recorded reasons. Exam takeaway: Audit notice under section 65(3) = minimum 15 working days.",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ]
+    },
+    {
+      "id": 7224,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Special audit: nomination of auditor",
+      "q": "When a special audit is directed under section 66 of the CGST Act, who nominates the chartered accountant or cost accountant who will examine and audit the registered person's records?",
+      "o": [
+        "The registered person being audited",
+        "The Commissioner",
+        "The local trade association",
+        "The supplier's statutory auditor"
+      ],
+      "a": 1,
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes",
+      "source": "Original statutory practice question; not an official PYQ. Based on section 66(1), CGST Act, 2017.",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+      "verificationStatus": "Checked against India Code text of section 66(1) on 2026-11-15; original practice, not an official PYQ.",
+      "e": "Correct answer: B — the Commissioner. Under section 66(1), an officer not below the rank of Assistant Commissioner may, having regard to the nature and complexity of the case and the interest of revenue, and with prior approval of the Commissioner, direct a registered person to get records audited by a chartered accountant or cost accountant nominated by the Commissioner. This is a special audit and is distinct from an ordinary audit under section 65. Exam takeaway: Special-audit professional is nominated by the Commissioner.",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ]
+    },
+    {
+      "id": 7225,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Summons during inquiry: section 70",
+      "q": "During an inquiry under the CGST Act, which officer has the statutory power under section 70 to summon a person whose attendance is considered necessary to give evidence or produce a document?",
+      "o": [
+        "Any private auditor appointed by the taxpayer",
+        "The proper officer under the Act",
+        "Only the jurisdictional police officer",
+        "Only the GST Council"
+      ],
+      "a": 1,
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes",
+      "source": "Original statutory practice question; not an official PYQ. Based on section 70(1), CGST Act, 2017.",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+      "verificationStatus": "Checked against India Code text of section 70(1) on 2026-11-15; original practice, not an official PYQ.",
+      "e": "Correct answer: B — the proper officer. Section 70(1) gives the proper officer power to summon any person whose attendance is considered necessary either to give evidence or to produce a document or other thing in an inquiry. The section applies the manner used by a civil court under the Code of Civil Procedure. A private auditor, police officer or GST Council does not receive this statutory summons power merely by holding that role. Exam takeaway: Section 70 summons power belongs to the proper officer.",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ]
+    },
+    {
+      "id": 7226,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Access to business premises: section 71",
+      "q": "For an audit, scrutiny or verification under section 71 of the CGST Act, which of the following may an authorised officer inspect at a registered person's place of business?",
+      "o": [
+        "Only paper purchase invoices",
+        "Books, documents, computers, computer programmes or software and other relevant things available at the premises",
+        "Only the taxpayer's personal bank account",
+        "Only goods that are already under confiscation"
+      ],
+      "a": 1,
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes",
+      "source": "Original statutory practice question; not an official PYQ. Based on section 71(1), CGST Act, 2017.",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf",
+      "verificationStatus": "Checked against India Code text of section 71(1) on 2026-11-15; original practice, not an official PYQ.",
+      "e": "Correct answer: B. Section 71(1) provides access for an officer authorised by the proper officer not below the rank of Joint Commissioner. The authorised officer may inspect books of account, documents, computers, computer programmes, software and other things available at the place of business for audit, scrutiny, verification and checks necessary to safeguard revenue. The power is linked to the statutory purpose and authorisation; it is not an unrestricted inspection of a taxpayer's personal affairs. Exam takeaway: Section 71 covers both physical records and electronic records.",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ]
+    },
+    {
+      "id": 7227,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "IGST place of supply: goods involving movement",
+      "q": "A supplier in one State sells goods to a recipient in another State, and the goods are transported to the recipient. Under section 10(1)(a) of the IGST Act, what is the place of supply?",
+      "o": [
+        "The supplier's registered office in every case",
+        "The location where the movement of goods terminates for delivery to the recipient",
+        "The place where the purchase order is signed",
+        "The State where the transporter is registered"
+      ],
+      "a": 1,
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes",
+      "source": "Original statutory practice question; not an official PYQ. Based on section 10(1)(a), IGST Act, 2017.",
+      "sourceURL": "https://cbic-gst.gov.in/hindi/IGST-bill-e.html",
+      "verificationStatus": "Checked against CBIC text of section 10(1)(a) of the IGST Act on 2026-11-15; original practice, not an official PYQ.",
+      "e": "Correct answer: B. Under section 10(1)(a) of the IGST Act, where a supply of goods involves movement, whether by the supplier, recipient or another person, the place of supply is the location of the goods at the time the movement terminates for delivery to the recipient. It is not automatically the supplier's office, the place where the order was signed or the transporter's registration State. Exam takeaway: For a normal movement-of-goods transaction, identify the destination where movement ends for delivery.",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ]
+    }
+  ]
+}
