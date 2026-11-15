@@ -13,8 +13,12 @@
     "newBatch": "question-batches/2026-11-15-inspector-tax-technical.json",
     "drafted": 15,
     "validatedBeforeMerge": 15,
-    "merged": 0,
-    "deployed": 0
+    "merged": 15,
+    "deployed": 0,
+    "mergedCommit": "03398cd15e1c0966b7379e0a9e46eaf0f50ae1a5",
+    "pullRequest": 55,
+    "deploymentVerified": false,
+    "deploymentNote": "GitHub Pages response could not be independently fetched during this run; main-branch merge and CI are verified."
   },
   "scope": {
     "embedded": "index.html const Q array",
@@ -1066,5 +1070,17 @@
     "Legacy duplicate clusters are reported, not deleted or rewritten.",
     "The near-similarity and number-template results are lexical heuristics; they identify candidates for review and are not proof that every pair is semantically identical.",
     "The 15 November candidate batch is not counted as merged or live until CI, PR review, merge and deployment are verified."
-  ]
+  ],
+  "campaign": {
+    "targetActiveQuestions": 10000,
+    "baselineActiveQuestions": 833,
+    "newUniqueQuestionsAdded": 15,
+    "currentActiveQuestions": 848,
+    "remainingToTarget": 9152,
+    "agreedDailyTarget": 250,
+    "dayOneProgress": 15,
+    "dayOneShortfallAgainstDailyTarget": 235,
+    "projectedTotalAfter30DaysAt250PerDay": 8333,
+    "remainingAfterThatProjection": 1667
+  }
 }
