@@ -9,10 +9,16 @@
     "question-batches/2026-10-30.json",
     "question-batches/2026-10-31.json",
     "question-batches/2026-11-01-lda-pyq.json",
-    "question-batches/2026-11-01.json"
+    "question-batches/2026-11-01.json",
+    "question-batches/2026-11-02-lda-pyq.json",
+    "question-batches/2026-11-02.json",
+    "question-batches/2026-11-03-gktoday-gs.json",
+    "question-batches/2026-11-03-polity.json",
+    "question-batches/2026-11-04-current-affairs.json",
+    "question-batches/2026-11-14-subject-expansion.json"
   ],
   "embeddedQuestionCount": 592,
-  "questionCount": 760,
+  "questionCount": 833,
   "records": [
     {
       "id": "1",
@@ -15213,6 +15219,1494 @@
       "difficulty": "Easy",
       "source": "question-batches/2026-11-01.json",
       "sourceURL": ""
+    },
+    {
+      "id": "2068",
+      "cat": "English",
+      "topic": "Infinitives and purpose",
+      "stem": "did you use a dictionary the letter",
+      "stemHash": "d676e018",
+      "stemNumberNorm": "did you use a dictionary the letter",
+      "options": [
+        "for translating",
+        "translating",
+        "to translate",
+        "for translate"
+      ],
+      "optionsHash": "ee4c32aa",
+      "answer": "to translate",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2069",
+      "cat": "English",
+      "topic": "Vocabulary: precedent",
+      "stem": "your case is so unique that i am not getting any to support it",
+      "stemHash": "b5c93657",
+      "stemNumberNorm": "your case is so unique that i am not getting any to support it",
+      "options": [
+        "reason",
+        "help",
+        "event",
+        "precedent"
+      ],
+      "optionsHash": "ac099e16",
+      "answer": "precedent",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2070",
+      "cat": "English",
+      "topic": "Vocabulary: commonly confused verbs",
+      "stem": "we thought that the sadhu had miraculous powers but we soon found out that we were",
+      "stemHash": "e668bb10",
+      "stemNumberNorm": "we thought that the sadhu had miraculous powers but we soon found out that we were",
+      "options": [
+        "wronged",
+        "captivated",
+        "enlightened",
+        "deceived"
+      ],
+      "optionsHash": "c6b591b8",
+      "answer": "deceived",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2071",
+      "cat": "English",
+      "topic": "Vocabulary: digression",
+      "stem": "a temporary departure from the main subject in speech or writing is known as",
+      "stemHash": "ce2e88ec",
+      "stemNumberNorm": "a temporary departure from the main subject in speech or writing is known as",
+      "options": [
+        "degression",
+        "digreesion",
+        "diggresion",
+        "digression"
+      ],
+      "optionsHash": "b01bbc5b",
+      "answer": "digression",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2072",
+      "cat": "English",
+      "topic": "Vocabulary: laudable",
+      "stem": "something deserving of praise or admiration is called",
+      "stemHash": "273379a3",
+      "stemNumberNorm": "something deserving of praise or admiration is called",
+      "options": [
+        "laudible",
+        "laudable",
+        "laudeble",
+        "lauduble"
+      ],
+      "optionsHash": "24d22793",
+      "answer": "laudable",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2073",
+      "cat": "English",
+      "topic": "Vocabulary: altruism",
+      "stem": "means unselfish concern for the welfare of others",
+      "stemHash": "274a57fe",
+      "stemNumberNorm": "means unselfish concern for the welfare of others",
+      "options": [
+        "anorexic",
+        "autistic",
+        "altruism",
+        "autism"
+      ],
+      "optionsHash": "b96ce166",
+      "answer": "altruism",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2074",
+      "cat": "English",
+      "topic": "Vocabulary: homophones and usage",
+      "stem": "maria always wears clothes",
+      "stemHash": "bf31cfd6",
+      "stemNumberNorm": "maria always wears clothes",
+      "options": [
+        "descent",
+        "descend",
+        "decent",
+        "dissent"
+      ],
+      "optionsHash": "1cd07246",
+      "answer": "decent",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2075",
+      "cat": "English",
+      "topic": "Vocabulary: conscious",
+      "stem": "we should always be of what is going on around the world",
+      "stemHash": "45ce70ce",
+      "stemNumberNorm": "we should always be of what is going on around the world",
+      "options": [
+        "conscientious",
+        "conscious",
+        "conscience",
+        "consensus"
+      ],
+      "optionsHash": "c5b62c94",
+      "answer": "conscious",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2076",
+      "cat": "Science",
+      "topic": "Indian space programme",
+      "stem": "the earth satellite aryabhata was put in orbit by india on",
+      "stemHash": "b0987a38",
+      "stemNumberNorm": "the earth satellite aryabhata was put in orbit by india on",
+      "options": [
+        "october 20 1978",
+        "november 14 1978",
+        "january 26 1979",
+        "april 19 1975"
+      ],
+      "optionsHash": "e6c9282a",
+      "answer": "april 19 1975",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2077",
+      "cat": "Science",
+      "topic": "Physics: specific gravity",
+      "stem": "specific gravity is defined as the ratio of the density of",
+      "stemHash": "6e58af9f",
+      "stemNumberNorm": "specific gravity is defined as the ratio of the density of",
+      "options": [
+        "a substance to the density of hydrogen",
+        "a substance to the density of water",
+        "water to the density of a substance",
+        "mercury to the density of a substance"
+      ],
+      "optionsHash": "38ab05e8",
+      "answer": "a substance to the density of water",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2078",
+      "cat": "Science",
+      "topic": "Physics: gases and buoyancy",
+      "stem": "a balloon filled with hydrogen will",
+      "stemHash": "c04ecc0b",
+      "stemNumberNorm": "a balloon filled with hydrogen will",
+      "options": [
+        "continue going upwards uninterrupted",
+        "reach a particular height and keep floating",
+        "burst after reaching some height",
+        "start going downwards"
+      ],
+      "optionsHash": "bce5788a",
+      "answer": "burst after reaching some height",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2079",
+      "cat": "Science",
+      "topic": "Physics: surface tension",
+      "stem": "two glass plates with little water in between cannot be separated easily because of",
+      "stemHash": "491c7cbd",
+      "stemNumberNorm": "two glass plates with little water in between cannot be separated easily because of",
+      "options": [
+        "external pressure",
+        "viscosity",
+        "surface tension",
+        "none of the above"
+      ],
+      "optionsHash": "cd2b4612",
+      "answer": "surface tension",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2080",
+      "cat": "Science",
+      "topic": "Physics: instruments",
+      "stem": "the aneroid barometer uses",
+      "stemHash": "afb0f4dd",
+      "stemNumberNorm": "the aneroid barometer uses",
+      "options": [
+        "mercury",
+        "distilled water",
+        "alcohol",
+        "does not use any liquid"
+      ],
+      "optionsHash": "0c51c6e2",
+      "answer": "does not use any liquid",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2081",
+      "cat": "History",
+      "topic": "Ancient Indian history: Magadha",
+      "stem": "bimbisara was succeeded by",
+      "stemHash": "881c7554",
+      "stemNumberNorm": "bimbisara was succeeded by",
+      "options": [
+        "ashoka",
+        "ajatashatru",
+        "vasudeva",
+        "chandragupta maurya"
+      ],
+      "optionsHash": "b6e1111c",
+      "answer": "ajatashatru",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2082",
+      "cat": "History",
+      "topic": "Ancient Indian history: Chedi",
+      "stem": "the chedi dynasty ruled in",
+      "stemHash": "4a34b23e",
+      "stemNumberNorm": "the chedi dynasty ruled in",
+      "options": [
+        "bengal",
+        "kalinga",
+        "maharashtra",
+        "rajasthan"
+      ],
+      "optionsHash": "f770ed2b",
+      "answer": "kalinga",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2083",
+      "cat": "History",
+      "topic": "Modern Indian history: reform movements",
+      "stem": "india for the indians was the political message of",
+      "stemHash": "ef0d3743",
+      "stemNumberNorm": "india for the indians was the political message of",
+      "options": [
+        "d e wacha",
+        "swami vivekananda",
+        "dayanand saraswati",
+        "a o hume"
+      ],
+      "optionsHash": "454afc13",
+      "answer": "dayanand saraswati",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2084",
+      "cat": "History",
+      "topic": "World history: Cold War",
+      "stem": "the berlin wall fell in which year",
+      "stemHash": "25134566",
+      "stemNumberNorm": "the berlin wall fell in which year",
+      "options": [
+        "1987",
+        "1990",
+        "1989",
+        "1988"
+      ],
+      "optionsHash": "3bc2c178",
+      "answer": "1989",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2085",
+      "cat": "History",
+      "topic": "Medieval Indian history: Mughals",
+      "stem": "the mughal emperor who built the peacock throne was",
+      "stemHash": "99945cac",
+      "stemNumberNorm": "the mughal emperor who built the peacock throne was",
+      "options": [
+        "shah jahan",
+        "babur",
+        "aurangzeb",
+        "jahangir"
+      ],
+      "optionsHash": "e5791168",
+      "answer": "shah jahan",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2086",
+      "cat": "Geography",
+      "topic": "Physical geography: rain shadow",
+      "stem": "an area of low precipitation on the leeward side of hills mountain ranges is called",
+      "stemHash": "1b14709f",
+      "stemNumberNorm": "an area of low precipitation on the leeward side of hills mountain ranges is called",
+      "options": [
+        "contiguous zone",
+        "doldrum zone",
+        "rain shadow zone",
+        "roaring forties zone"
+      ],
+      "optionsHash": "a680afa6",
+      "answer": "rain shadow zone",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2087",
+      "cat": "Geography",
+      "topic": "Physical geography: land and water distribution",
+      "stem": "the percentages of the areas of oceans and continents on the earth are respectively",
+      "stemHash": "234c0dc4",
+      "stemNumberNorm": "the percentages of the areas of oceans and continents on the earth are respectively",
+      "options": [
+        "60 and 40",
+        "71 and 29",
+        "50 and 50",
+        "65 and 35"
+      ],
+      "optionsHash": "07e852c1",
+      "answer": "71 and 29",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2088",
+      "cat": "Science",
+      "topic": "Chemistry: metals and alloys",
+      "stem": "spot the odd item amongst the following",
+      "stemHash": "7ea04f15",
+      "stemNumberNorm": "spot the odd item amongst the following",
+      "options": [
+        "iron",
+        "brass",
+        "copper",
+        "aluminium"
+      ],
+      "optionsHash": "a870661a",
+      "answer": "brass",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2089",
+      "cat": "Geography",
+      "topic": "Oceanography: salinity",
+      "stem": "lines connecting the points of equal salinity are called",
+      "stemHash": "b79f7365",
+      "stemNumberNorm": "lines connecting the points of equal salinity are called",
+      "options": [
+        "isoseismals",
+        "isogons",
+        "isohalines",
+        "isohyets"
+      ],
+      "optionsHash": "cc392a0e",
+      "answer": "isohalines",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2090",
+      "cat": "Geography",
+      "topic": "Oceanography: ocean currents",
+      "stem": "the benguela current passes along the",
+      "stemHash": "227d676d",
+      "stemNumberNorm": "the benguela current passes along the",
+      "options": [
+        "east coast of north america",
+        "west coast of south america",
+        "southwest coast of africa",
+        "east coast of japan"
+      ],
+      "optionsHash": "8b172dba",
+      "answer": "southwest coast of africa",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "2091",
+      "cat": "Geography",
+      "topic": "World geography: coral reefs",
+      "stem": "the great barrier reef is located in which ocean",
+      "stemHash": "346c9206",
+      "stemNumberNorm": "the great barrier reef is located in which ocean",
+      "options": [
+        "pacific ocean",
+        "atlantic ocean",
+        "indian ocean",
+        "arctic ocean"
+      ],
+      "optionsHash": "1fe92cf9",
+      "answer": "pacific ocean",
+      "exam": "LDA Secretariat",
+      "difficulty": "PYQ",
+      "source": "question-batches/2026-11-02-lda-pyq.json",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/finalanswerkey/lda%20may%2025.pdf"
+    },
+    {
+      "id": "6249",
+      "cat": "Current Affairs",
+      "topic": "Meghalaya public finance",
+      "stem": "according to the pib release dated 31 october 2026 how much additional tax devolution was allocated to meghalaya",
+      "stemHash": "1b6a6645",
+      "stemNumberNorm": "according to the pib release dated # october # how much additional tax devolution was allocated to meghalaya",
+      "options": [
+        "₹615 crore",
+        "₹688 crore",
+        "₹699 crore",
+        "₹682 crore"
+      ],
+      "optionsHash": "3f4ea54d",
+      "answer": "₹688 crore",
+      "exam": "Common MPSC",
+      "difficulty": "Easy",
+      "source": "question-batches/2026-11-02.json",
+      "sourceURL": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330997&lang=1&reg=3"
+    },
+    {
+      "id": "6250",
+      "cat": "Current Affairs",
+      "topic": "Indian economy and fiscal federalism",
+      "stem": "what was the total additional tax devolution instalment released to state governments on 31 october 2026",
+      "stemHash": "5c63e501",
+      "stemNumberNorm": "what was the total additional tax devolution instalment released to state governments on # october #",
+      "options": [
+        "₹1 01 019 crore",
+        "₹1 09 019 crore",
+        "₹1 19 019 crore",
+        "₹1 90 019 crore"
+      ],
+      "optionsHash": "91302254",
+      "answer": "₹1 09 019 crore",
+      "exam": "Common MPSC",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-02.json",
+      "sourceURL": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2330997&lang=1&reg=3"
+    },
+    {
+      "id": "6251",
+      "cat": "Current Affairs",
+      "topic": "Environment and climate science",
+      "stem": "the term cryosphere refers to which part of the earth system",
+      "stemHash": "28d21cff",
+      "stemNumberNorm": "the term cryosphere refers to which part of the earth system",
+      "options": [
+        "all liquid ocean water",
+        "water in its frozen form including snow and ice",
+        "the gaseous layer surrounding earth",
+        "the solid rocky part of earth"
+      ],
+      "optionsHash": "ee771f7e",
+      "answer": "water in its frozen form including snow and ice",
+      "exam": "Common MPSC",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-02.json",
+      "sourceURL": "https://www.theguardian.com/science/2026/nov/02/permanent-damage-crysophere-overshoots-15c-scientists-warn"
+    },
+    {
+      "id": "7101",
+      "cat": "History",
+      "topic": "Ancient India: Indus Valley Civilization",
+      "stem": "which feature is strongly associated with mature harappan cities",
+      "stemHash": "0197e892",
+      "stemNumberNorm": "which feature is strongly associated with mature harappan cities",
+      "options": [
+        "planned streets and drainage",
+        "iron pillar construction",
+        "rock cut buddhist caves",
+        "nagara temple towers"
+      ],
+      "optionsHash": "0803adf1",
+      "answer": "planned streets and drainage",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-gktoday-gs.json",
+      "sourceURL": "https://www.gktoday.in/sites-of-indus-valley-civilization/"
+    },
+    {
+      "id": "7102",
+      "cat": "History",
+      "topic": "Modern India: Revolt of 1857",
+      "stem": "who was governor general of india when the revolt of 1857 began",
+      "stemHash": "6df0ce5a",
+      "stemNumberNorm": "who was governor general of india when the revolt of # began",
+      "options": [
+        "lord dalhousie",
+        "lord canning",
+        "lord ripon",
+        "lord curzon"
+      ],
+      "optionsHash": "1ee966cc",
+      "answer": "lord canning",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-gktoday-gs.json",
+      "sourceURL": "https://www.gktoday.in/lord-canning-and-the-revolt-of-1857/"
+    },
+    {
+      "id": "7103",
+      "cat": "Geography",
+      "topic": "Indian Geography: Tropic of Cancer",
+      "stem": "which of these indian states is crossed by the tropic of cancer",
+      "stemHash": "136cea0c",
+      "stemNumberNorm": "which of these indian states is crossed by the tropic of cancer",
+      "options": [
+        "meghalaya",
+        "mizoram",
+        "kerala",
+        "punjab"
+      ],
+      "optionsHash": "e2ecb3a7",
+      "answer": "mizoram",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-gktoday-gs.json",
+      "sourceURL": "https://www.gktoday.in/tropic-of-cancer/"
+    },
+    {
+      "id": "7104",
+      "cat": "Geography",
+      "topic": "Physical Geography: Latitude and longitude",
+      "stem": "the equator is located at which latitude",
+      "stemHash": "7273b09d",
+      "stemNumberNorm": "the equator is located at which latitude",
+      "options": [
+        "0",
+        "231 2 n",
+        "661 2 n",
+        "90 s"
+      ],
+      "optionsHash": "5bd7ae8a",
+      "answer": "0",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-gktoday-gs.json",
+      "sourceURL": "https://www.gktoday.in/question/which-imaginary-line-located-at-zero-degree-latitu"
+    },
+    {
+      "id": "7105",
+      "cat": "Polity",
+      "topic": "Constitution: Fundamental Rights",
+      "stem": "which article of the constitution abolishes untouchability",
+      "stemHash": "5d62f123",
+      "stemNumberNorm": "which article of the constitution abolishes untouchability",
+      "options": [
+        "article 14",
+        "article 17",
+        "article 19",
+        "article 21"
+      ],
+      "optionsHash": "cc6589bb",
+      "answer": "article 17",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-gktoday-gs.json",
+      "sourceURL": "https://www.gktoday.in/article-17-of-indian-constitution-and-abolishment-of-untouchability/"
+    },
+    {
+      "id": "7106",
+      "cat": "Polity",
+      "topic": "Constitution: Directive Principles",
+      "stem": "the directive principles of state policy are contained in which part of the constitution",
+      "stemHash": "4fbeaae9",
+      "stemNumberNorm": "the directive principles of state policy are contained in which part of the constitution",
+      "options": [
+        "part ii",
+        "part iii",
+        "part iv",
+        "part iva"
+      ],
+      "optionsHash": "b2ee111d",
+      "answer": "part iv",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-gktoday-gs.json",
+      "sourceURL": "https://www.gktoday.in/article-37/"
+    },
+    {
+      "id": "7107",
+      "cat": "Economy",
+      "topic": "Indian Economy: Monetary policy",
+      "stem": "which institution is responsible for monetary policy in india",
+      "stemHash": "3dc9ecac",
+      "stemNumberNorm": "which institution is responsible for monetary policy in india",
+      "options": [
+        "niti aayog",
+        "reserve bank of india",
+        "finance commission",
+        "comptroller and auditor general"
+      ],
+      "optionsHash": "f9d38e49",
+      "answer": "reserve bank of india",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-gktoday-gs.json",
+      "sourceURL": "https://www.gktoday.in/monetary-policy-committee/"
+    },
+    {
+      "id": "7108",
+      "cat": "Economy",
+      "topic": "Indian Economy: GST",
+      "stem": "gst in india is primarily a tax on which of the following",
+      "stemHash": "1d62cb27",
+      "stemNumberNorm": "gst in india is primarily a tax on which of the following",
+      "options": [
+        "income earned by individuals",
+        "supply of goods or services or both",
+        "ownership of agricultural land",
+        "corporate profits only"
+      ],
+      "optionsHash": "db8bb251",
+      "answer": "supply of goods or services or both",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-gktoday-gs.json",
+      "sourceURL": "https://www.gktoday.in/goods-and-services-tax/"
+    },
+    {
+      "id": "7109",
+      "cat": "Environment",
+      "topic": "Environment: Biodiversity conventions",
+      "stem": "the convention on biological diversity was opened for signature at which 1992 event",
+      "stemHash": "1535fb84",
+      "stemNumberNorm": "the convention on biological diversity was opened for signature at which # event",
+      "options": [
+        "rio earth summit",
+        "stockholm conference 1972",
+        "kyoto conference 1997",
+        "paris conference 2015"
+      ],
+      "optionsHash": "86a9aaaa",
+      "answer": "rio earth summit",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-gktoday-gs.json",
+      "sourceURL": "https://www.gktoday.in/convention-on-biological-diversity/"
+    },
+    {
+      "id": "7110",
+      "cat": "Environment",
+      "topic": "Environment: Ozone layer",
+      "stem": "the ozone layer that absorbs much of the sun s harmful ultraviolet radiation is mainly found in which layer",
+      "stemHash": "22df0125",
+      "stemNumberNorm": "the ozone layer that absorbs much of the sun s harmful ultraviolet radiation is mainly found in which layer",
+      "options": [
+        "troposphere",
+        "stratosphere",
+        "mesosphere",
+        "thermosphere"
+      ],
+      "optionsHash": "1dd88e13",
+      "answer": "stratosphere",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-gktoday-gs.json",
+      "sourceURL": "https://www.gktoday.in/scientists-discover-unusual-ozone-layer-above-north-bay-of-bengal/"
+    },
+    {
+      "id": "7111",
+      "cat": "General Science",
+      "topic": "Physics: SI units",
+      "stem": "what is the si base unit of electric current",
+      "stemHash": "fc2efea6",
+      "stemNumberNorm": "what is the si base unit of electric current",
+      "options": [
+        "volt",
+        "ohm",
+        "ampere",
+        "watt"
+      ],
+      "optionsHash": "e511bc42",
+      "answer": "ampere",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-gktoday-gs.json",
+      "sourceURL": "https://www.gktoday.in/question/what-is-the-si-unit-of-electric-current"
+    },
+    {
+      "id": "7112",
+      "cat": "General Science",
+      "topic": "Biology: Human physiology",
+      "stem": "which part of the human brain primarily coordinates balance and voluntary movements",
+      "stemHash": "8143dfff",
+      "stemNumberNorm": "which part of the human brain primarily coordinates balance and voluntary movements",
+      "options": [
+        "cerebrum",
+        "cerebellum",
+        "medulla oblongata",
+        "hypothalamus"
+      ],
+      "optionsHash": "26ce7476",
+      "answer": "cerebellum",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-gktoday-gs.json",
+      "sourceURL": "https://www.gktoday.in/question/identify-the-part-of-brain-that-controls-the-maint"
+    },
+    {
+      "id": "7113",
+      "cat": "Art & Culture",
+      "topic": "Indian Culture: Classical dance",
+      "stem": "which classical dance drama tradition is associated with kerala",
+      "stemHash": "f284c537",
+      "stemNumberNorm": "which classical dance drama tradition is associated with kerala",
+      "options": [
+        "bharatanatyam",
+        "kathak",
+        "kathakali",
+        "odissi"
+      ],
+      "optionsHash": "53d05b07",
+      "answer": "kathakali",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-gktoday-gs.json",
+      "sourceURL": "https://www.gktoday.in/kathakali/"
+    },
+    {
+      "id": "7114",
+      "cat": "Computer",
+      "topic": "Computers: Basic hardware",
+      "stem": "which component executes program instructions and is commonly called the brain of a computer",
+      "stemHash": "2f0b2bb4",
+      "stemNumberNorm": "which component executes program instructions and is commonly called the brain of a computer",
+      "options": [
+        "monitor",
+        "cpu",
+        "keyboard",
+        "printer"
+      ],
+      "optionsHash": "74a931a8",
+      "answer": "cpu",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-gktoday-gs.json",
+      "sourceURL": "https://www.gktoday.in/central-processing-unit/"
+    },
+    {
+      "id": "7115",
+      "cat": "International Organisations",
+      "topic": "International organisations: United Nations",
+      "stem": "which principal un organ has primary responsibility for maintaining international peace and security",
+      "stemHash": "28ea5e49",
+      "stemNumberNorm": "which principal un organ has primary responsibility for maintaining international peace and security",
+      "options": [
+        "general assembly",
+        "security council",
+        "economic and social council",
+        "international court of justice"
+      ],
+      "optionsHash": "ad2aeb67",
+      "answer": "security council",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-gktoday-gs.json",
+      "sourceURL": "https://www.gktoday.in/security-council-adopts-resolution-2427-protect-children-armed-conflict/"
+    },
+    {
+      "id": "7116",
+      "cat": "Books & Authors",
+      "topic": "Books and authors: Indian literature",
+      "stem": "who wrote the novel the guide",
+      "stemHash": "76ec8798",
+      "stemNumberNorm": "who wrote the novel the guide",
+      "options": [
+        "r k narayan",
+        "mulk raj anand",
+        "khushwant singh",
+        "raja rao"
+      ],
+      "optionsHash": "be06d5c4",
+      "answer": "r k narayan",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-gktoday-gs.json",
+      "sourceURL": "https://www.gktoday.in/quizbase/books-and-authors-gk-questions"
+    },
+    {
+      "id": "7001",
+      "cat": "Polity",
+      "topic": "Local government: Panchayat elections",
+      "stem": "which authority supervises directs and controls the preparation of electoral rolls and conduct of elections to panchayats under article 243k",
+      "stemHash": "187e966c",
+      "stemNumberNorm": "which authority supervises directs and controls the preparation of electoral rolls and conduct of elections to panchayats under article 243k",
+      "options": [
+        "state election commission",
+        "election commission of india",
+        "union public service commission",
+        "state finance commission"
+      ],
+      "optionsHash": "835d5fc6",
+      "answer": "state election commission",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-polity.json",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf"
+    },
+    {
+      "id": "7002",
+      "cat": "Polity",
+      "topic": "Local government: Municipal elections",
+      "stem": "which article provides for the state election commission to supervise municipal elections",
+      "stemHash": "bf0b4ede",
+      "stemNumberNorm": "which article provides for the state election commission to supervise municipal elections",
+      "options": [
+        "article 243k",
+        "article 243za",
+        "article 324",
+        "article 280"
+      ],
+      "optionsHash": "9318e6be",
+      "answer": "article 243za",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-polity.json",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf"
+    },
+    {
+      "id": "7003",
+      "cat": "Polity",
+      "topic": "Meghalaya constitutional provisions",
+      "stem": "which article states that part ix on panchayats does not apply to meghalaya subject to the constitutional provisions for extension by parliament",
+      "stemHash": "2cb46f88",
+      "stemNumberNorm": "which article states that part ix on panchayats does not apply to meghalaya subject to the constitutional provisions for extension by parliament",
+      "options": [
+        "article 243k",
+        "article 243m",
+        "article 243za",
+        "article 280"
+      ],
+      "optionsHash": "4275d1b5",
+      "answer": "article 243m",
+      "exam": "MPSC / Meghalaya GK / DSC Practice",
+      "difficulty": "Hard",
+      "source": "question-batches/2026-11-03-polity.json",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf"
+    },
+    {
+      "id": "7004",
+      "cat": "Polity",
+      "topic": "Finance Commission: reporting",
+      "stem": "under article 281 what must the president cause to be laid before each house of parliament",
+      "stemHash": "cc394c3b",
+      "stemNumberNorm": "under article # what must the president cause to be laid before each house of parliament",
+      "options": [
+        "the union budget only",
+        "finance commission recommendations with an explanatory memorandum on action taken",
+        "cag reports on state accounts only",
+        "the annual report of the election commission"
+      ],
+      "optionsHash": "268eab82",
+      "answer": "finance commission recommendations with an explanatory memorandum on action taken",
+      "exam": "Inspector of Taxes / MPSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-polity.json",
+      "sourceURL": "https://fincomindia.nic.in/constitutional-provisions"
+    },
+    {
+      "id": "7005",
+      "cat": "Polity",
+      "topic": "President: election method",
+      "stem": "which method is prescribed by article 55 3 for the election of the president of india",
+      "stemHash": "ae353f3f",
+      "stemNumberNorm": "which method is prescribed by article # # for the election of the president of india",
+      "options": [
+        "first past the post by direct public vote",
+        "proportional representation by single transferable vote and secret ballot",
+        "open voting by state assemblies only",
+        "nomination by parliament"
+      ],
+      "optionsHash": "6d46b2f3",
+      "answer": "proportional representation by single transferable vote and secret ballot",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-polity.json",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf"
+    },
+    {
+      "id": "7006",
+      "cat": "Polity",
+      "topic": "Vice-President: electoral college",
+      "stem": "who forms the electoral college for the election of the vice president of india",
+      "stemHash": "2d22a9d7",
+      "stemNumberNorm": "who forms the electoral college for the election of the vice president of india",
+      "options": [
+        "elected mps and elected mlas",
+        "members of both houses of parliament elected and nominated",
+        "only elected members of lok sabha",
+        "all members of state legislative assemblies"
+      ],
+      "optionsHash": "e4f6326d",
+      "answer": "members of both houses of parliament elected and nominated",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Hard",
+      "source": "question-batches/2026-11-03-polity.json",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf"
+    },
+    {
+      "id": "7007",
+      "cat": "Polity",
+      "topic": "CAG: State audit reports",
+      "stem": "under article 151 to whom are the cag s reports relating to the accounts of a state submitted before being laid before the state legislature",
+      "stemHash": "e6f6e124",
+      "stemNumberNorm": "under article # to whom are the cag s reports relating to the accounts of a state submitted before being laid before the state legislature",
+      "options": [
+        "president of india",
+        "governor of the state",
+        "chief minister",
+        "speaker of lok sabha"
+      ],
+      "optionsHash": "62b4fa5b",
+      "answer": "governor of the state",
+      "exam": "Inspector of Taxes / MPSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-polity.json",
+      "sourceURL": "https://www.cag.gov.in/en/pages/single/2"
+    },
+    {
+      "id": "7008",
+      "cat": "Polity",
+      "topic": "CAG: duties and powers",
+      "stem": "which article provides that the cag s duties and powers shall be prescribed by or under a law made by parliament",
+      "stemHash": "33950293",
+      "stemNumberNorm": "which article provides that the cag s duties and powers shall be prescribed by or under a law made by parliament",
+      "options": [
+        "article 148",
+        "article 149",
+        "article 150",
+        "article 151"
+      ],
+      "optionsHash": "008d2807",
+      "answer": "article 149",
+      "exam": "Inspector of Taxes / MPSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-polity.json",
+      "sourceURL": "https://www.cag.gov.in/en/pages/single/2"
+    },
+    {
+      "id": "7009",
+      "cat": "Polity",
+      "topic": "Electoral system: adult suffrage",
+      "stem": "which article provides that elections to the lok sabha and state legislative assemblies are based on adult suffrage",
+      "stemHash": "8d6655ec",
+      "stemNumberNorm": "which article provides that elections to the lok sabha and state legislative assemblies are based on adult suffrage",
+      "options": [
+        "article 324",
+        "article 326",
+        "article 368",
+        "article 280"
+      ],
+      "optionsHash": "125aa234",
+      "answer": "article 326",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-03-polity.json",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf"
+    },
+    {
+      "id": "7010",
+      "cat": "Polity",
+      "topic": "Ordinances: President",
+      "stem": "an ordinance promulgated by the president under article 123 ordinarily ceases to operate six weeks after",
+      "stemHash": "2c3102ec",
+      "stemNumberNorm": "an ordinance promulgated by the president under article # ordinarily ceases to operate six weeks after",
+      "options": [
+        "the date of promulgation",
+        "parliament reassembles calculated from the later reassembly date if the houses meet on different dates",
+        "the next general election",
+        "the president s annual address"
+      ],
+      "optionsHash": "07f764e2",
+      "answer": "parliament reassembles calculated from the later reassembly date if the houses meet on different dates",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Hard",
+      "source": "question-batches/2026-11-03-polity.json",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf"
+    },
+    {
+      "id": "7011",
+      "cat": "Polity",
+      "topic": "Ordinances: Governor",
+      "stem": "a governor s ordinance under article 213 ordinarily ceases to operate six weeks after",
+      "stemHash": "de4b4429",
+      "stemNumberNorm": "a governor s ordinance under article # ordinarily ceases to operate six weeks after",
+      "options": [
+        "the governor signs it",
+        "the state legislature reassembles calculated from the later date if the houses meet on different dates",
+        "the next session of parliament",
+        "the end of the financial year"
+      ],
+      "optionsHash": "c8fb69fc",
+      "answer": "the state legislature reassembles calculated from the later date if the houses meet on different dates",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Hard",
+      "source": "question-batches/2026-11-03-polity.json",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf"
+    },
+    {
+      "id": "7012",
+      "cat": "Polity",
+      "topic": "Vice-President: removal",
+      "stem": "which procedure is required to remove the vice president under article 67 b",
+      "stemHash": "d9ae5908",
+      "stemNumberNorm": "which procedure is required to remove the vice president under article # b",
+      "options": [
+        "impeachment by both houses with a two thirds majority",
+        "rajya sabha resolution passed by a majority of all its then members and agreed to by lok sabha after 14 days notice",
+        "removal by the president alone",
+        "a joint sitting of parliament"
+      ],
+      "optionsHash": "57816716",
+      "answer": "rajya sabha resolution passed by a majority of all its then members and agreed to by lok sabha after 14 days notice",
+      "exam": "MPSC / DSC / SSC Practice",
+      "difficulty": "Hard",
+      "source": "question-batches/2026-11-03-polity.json",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf"
+    },
+    {
+      "id": "7137",
+      "cat": "Current Affairs",
+      "topic": "India–US Exercise Tiger Triumph 2026",
+      "stem": "exercise tiger triumph 2026 is a bilateral tri service humanitarian assistance and disaster relief hadr exercise between india and which country",
+      "stemHash": "25a31792",
+      "stemNumberNorm": "exercise tiger triumph # is a bilateral tri service humanitarian assistance and disaster relief hadr exercise between india and which country",
+      "options": [
+        "united states",
+        "france",
+        "japan",
+        "sri lanka"
+      ],
+      "optionsHash": "0ddf497e",
+      "answer": "united states",
+      "exam": "Common MPSC; Inspector of Taxes; DSC LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-04-current-affairs.json",
+      "sourceURL": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2331900"
+    },
+    {
+      "id": "7138",
+      "cat": "Current Affairs",
+      "topic": "India–Sri Lanka Coast Guard cooperation",
+      "stem": "the 9th high level meeting between the indian coast guard and sri lanka coast guard on 3 november 2026 was held at which place",
+      "stemHash": "ca308aa5",
+      "stemNumberNorm": "the 9th high level meeting between the indian coast guard and sri lanka coast guard on # november # was held at which place",
+      "options": [
+        "mirissa sri lanka",
+        "visakhapatnam india",
+        "colombo sri lanka",
+        "chennai india"
+      ],
+      "optionsHash": "e7621cf8",
+      "answer": "mirissa sri lanka",
+      "exam": "Common MPSC; Inspector of Taxes; DSC LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-04-current-affairs.json",
+      "sourceURL": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2332184"
+    },
+    {
+      "id": "7139",
+      "cat": "Current Affairs",
+      "topic": "India S&T Scoreboard: sectors covered",
+      "stem": "the india s t scoreboard launched by niti aayog on 3 november 2026 presents indicators across which three sectors",
+      "stemHash": "fee37465",
+      "stemNumberNorm": "the india s t scoreboard launched by niti aayog on # november # presents indicators across which three sectors",
+      "options": [
+        "academia government r d labs and industry",
+        "agriculture defence and health",
+        "primary secondary and higher education",
+        "public private and cooperative banking"
+      ],
+      "optionsHash": "3738d6ca",
+      "answer": "academia government r d labs and industry",
+      "exam": "Common MPSC; Inspector of Taxes; DSC LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-04-current-affairs.json",
+      "sourceURL": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2332136"
+    },
+    {
+      "id": "7140",
+      "cat": "Current Affairs",
+      "topic": "TRAI: Third Amendment Regulations 2026",
+      "stem": "which regulator released the telecommunication interconnection third amendment regulations 2026 on 3 november 2026",
+      "stemHash": "0ad0c59c",
+      "stemNumberNorm": "which regulator released the telecommunication interconnection third amendment regulations # on # november #",
+      "options": [
+        "telecom regulatory authority of india trai",
+        "reserve bank of india",
+        "securities and exchange board of india",
+        "competition commission of india"
+      ],
+      "optionsHash": "828d0349",
+      "answer": "telecom regulatory authority of india trai",
+      "exam": "Common MPSC; Inspector of Taxes; DSC LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-04-current-affairs.json",
+      "sourceURL": "https://www.trai.gov.in/release-publication/regulations"
+    },
+    {
+      "id": "7141",
+      "cat": "Current Affairs",
+      "topic": "Indian Navy rescue of fishing vessel Azini",
+      "stem": "which fishing vessel was involved in the indian navy rescue operation off the north eastern coast of somalia reported on 3 november 2026",
+      "stemHash": "34858ccc",
+      "stemNumberNorm": "which fishing vessel was involved in the indian navy rescue operation off the north eastern coast of somalia reported on # november #",
+      "options": [
+        "azini",
+        "dhow 6",
+        "ins vikrant",
+        "mv x press pearl"
+      ],
+      "optionsHash": "e95523df",
+      "answer": "azini",
+      "exam": "Common MPSC; Inspector of Taxes; DSC LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-04-current-affairs.json",
+      "sourceURL": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2331872"
+    },
+    {
+      "id": "7142",
+      "cat": "Current Affairs",
+      "topic": "COP31 host city and climate diplomacy",
+      "stem": "cop31 is scheduled to begin on 9 november 2026 in which city",
+      "stemHash": "0b98c96b",
+      "stemNumberNorm": "cop31 is scheduled to begin on # november # in which city",
+      "options": [
+        "antalya turkiye",
+        "baku azerbaijan",
+        "belem brazil",
+        "dubai united arab emirates"
+      ],
+      "optionsHash": "5f1ce2d9",
+      "answer": "antalya turkiye",
+      "exam": "Common MPSC; Inspector of Taxes; DSC LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-04-current-affairs.json",
+      "sourceURL": "https://www.reuters.com/sustainability/cop/brazil-wraps-up-cop30-with-fossil-fuel-forest-roadmaps-urging-shift-talks-action-2026-11-03/"
+    },
+    {
+      "id": "7201",
+      "cat": "Arithmetic",
+      "topic": "Percentages: successive change",
+      "stem": "a price is increased by 20% and then reduced by 20% what is the net effect on the original price",
+      "stemHash": "49fd9862",
+      "stemNumberNorm": "a price is increased by #% and then reduced by #% what is the net effect on the original price",
+      "options": [
+        "no change",
+        "a decrease of 4%",
+        "an increase of 4%",
+        "a decrease of 2%"
+      ],
+      "optionsHash": "09c6ef8b",
+      "answer": "a decrease of 4%",
+      "exam": "MPSC Inspector of Taxes / DSC LDA / Secretariat LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-14-subject-expansion.json",
+      "sourceURL": "https://ncert.nic.in/textbook.php"
+    },
+    {
+      "id": "7202",
+      "cat": "English",
+      "topic": "Grammar: subject–verb agreement",
+      "stem": "choose the grammatically correct sentence",
+      "stemHash": "34a9c355",
+      "stemNumberNorm": "choose the grammatically correct sentence",
+      "options": [
+        "each of the applicants have submitted the form",
+        "each of the applicants has submitted the form",
+        "each of the applicant have submitted the form",
+        "each applicants has submitted the form"
+      ],
+      "optionsHash": "cc1fb022",
+      "answer": "each of the applicants has submitted the form",
+      "exam": "MPSC / DSC LDA / Secretariat LDA",
+      "difficulty": "Easy",
+      "source": "question-batches/2026-11-14-subject-expansion.json",
+      "sourceURL": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference"
+    },
+    {
+      "id": "7203",
+      "cat": "Meghalaya GK",
+      "topic": "Meghalaya: attainment of statehood",
+      "stem": "meghalaya became a full fledged state of india on which date",
+      "stemHash": "222294f7",
+      "stemNumberNorm": "meghalaya became a full fledged state of india on which date",
+      "options": [
+        "2 april 1970",
+        "21 january 1972",
+        "15 august 1947",
+        "26 january 1950"
+      ],
+      "optionsHash": "06257009",
+      "answer": "21 january 1972",
+      "exam": "MPSC / Meghalaya GK / DSC LDA",
+      "difficulty": "Easy",
+      "source": "question-batches/2026-11-14-subject-expansion.json",
+      "sourceURL": "https://meghalaya.gov.in/"
+    },
+    {
+      "id": "7204",
+      "cat": "Polity",
+      "topic": "Fundamental Rights: equality",
+      "stem": "which article of the constitution guarantees equality before the law and equal protection of the laws",
+      "stemHash": "5e3053bf",
+      "stemNumberNorm": "which article of the constitution guarantees equality before the law and equal protection of the laws",
+      "options": [
+        "article 12",
+        "article 14",
+        "article 19",
+        "article 21"
+      ],
+      "optionsHash": "a4ff6b70",
+      "answer": "article 14",
+      "exam": "MPSC / DSC LDA / Secretariat LDA",
+      "difficulty": "Easy",
+      "source": "question-batches/2026-11-14-subject-expansion.json",
+      "sourceURL": "https://www.legislative.gov.in/"
+    },
+    {
+      "id": "7205",
+      "cat": "History",
+      "topic": "Ancient India: Ashoka",
+      "stem": "which event is traditionally associated with emperor ashoka s change towards dhamma and non violence",
+      "stemHash": "2dd46909",
+      "stemNumberNorm": "which event is traditionally associated with emperor ashoka s change towards dhamma and non violence",
+      "options": [
+        "battle of plassey",
+        "kalinga war",
+        "third battle of panipat",
+        "battle of haldighati"
+      ],
+      "optionsHash": "5b04d823",
+      "answer": "kalinga war",
+      "exam": "MPSC / DSC LDA / Secretariat LDA",
+      "difficulty": "Easy",
+      "source": "question-batches/2026-11-14-subject-expansion.json",
+      "sourceURL": "https://asi.nic.in/"
+    },
+    {
+      "id": "7206",
+      "cat": "Geography",
+      "topic": "Physical geography: atmospheric layers",
+      "stem": "in which layer of the atmosphere is the ozone layer concentrated",
+      "stemHash": "c6308497",
+      "stemNumberNorm": "in which layer of the atmosphere is the ozone layer concentrated",
+      "options": [
+        "troposphere",
+        "stratosphere",
+        "mesosphere",
+        "thermosphere"
+      ],
+      "optionsHash": "1dd88e13",
+      "answer": "stratosphere",
+      "exam": "MPSC / DSC LDA / Secretariat LDA",
+      "difficulty": "Easy",
+      "source": "question-batches/2026-11-14-subject-expansion.json",
+      "sourceURL": "https://www.ncert.nic.in/"
+    },
+    {
+      "id": "7207",
+      "cat": "Science",
+      "topic": "Human physiology: blood",
+      "stem": "which component of blood is primarily responsible for transporting oxygen",
+      "stemHash": "ee1c877d",
+      "stemNumberNorm": "which component of blood is primarily responsible for transporting oxygen",
+      "options": [
+        "platelets",
+        "red blood cells",
+        "white blood cells",
+        "plasma proteins only"
+      ],
+      "optionsHash": "b9cc05e5",
+      "answer": "red blood cells",
+      "exam": "MPSC / DSC LDA / Secretariat LDA",
+      "difficulty": "Easy",
+      "source": "question-batches/2026-11-14-subject-expansion.json",
+      "sourceURL": "https://ncert.nic.in/textbook.php"
+    },
+    {
+      "id": "7208",
+      "cat": "Economy",
+      "topic": "Public finance: capital expenditure",
+      "stem": "which of the following is the clearest example of government capital expenditure",
+      "stemHash": "40f0538e",
+      "stemNumberNorm": "which of the following is the clearest example of government capital expenditure",
+      "options": [
+        "payment of office electricity bills",
+        "payment of salaries",
+        "construction of a government hospital building",
+        "payment of routine office rent"
+      ],
+      "optionsHash": "70f85c28",
+      "answer": "construction of a government hospital building",
+      "exam": "MPSC Inspector of Taxes / MPSC / DSC LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-14-subject-expansion.json",
+      "sourceURL": "https://www.indiabudget.gov.in/doc/Key_to_Budget_Document_2026.pdf"
+    },
+    {
+      "id": "7209",
+      "cat": "Environment",
+      "topic": "Environmental law: Environment Protection Act",
+      "stem": "the environment protection act of india was enacted in which year",
+      "stemHash": "d1317890",
+      "stemNumberNorm": "the environment protection act of india was enacted in which year",
+      "options": [
+        "1972",
+        "1980",
+        "1986",
+        "1991"
+      ],
+      "optionsHash": "e8b76a5c",
+      "answer": "1986",
+      "exam": "MPSC / DSC LDA / Secretariat LDA",
+      "difficulty": "Easy",
+      "source": "question-batches/2026-11-14-subject-expansion.json",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/1876/4/A1986-29.pdf"
+    },
+    {
+      "id": "7210",
+      "cat": "Reasoning",
+      "topic": "Number series: constant difference",
+      "stem": "find the next number in the series 3 8 15 24 35",
+      "stemHash": "6844458d",
+      "stemNumberNorm": "find the next number in the series # # # # #",
+      "options": [
+        "46",
+        "48",
+        "50",
+        "52"
+      ],
+      "optionsHash": "9c779bd9",
+      "answer": "48",
+      "exam": "MPSC / DSC LDA / Secretariat LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-14-subject-expansion.json",
+      "sourceURL": "https://ncert.nic.in/textbook.php"
+    },
+    {
+      "id": "7211",
+      "cat": "Computer",
+      "topic": "Computer fundamentals: RAM",
+      "stem": "which statement best describes ram in a computer",
+      "stemHash": "6924beac",
+      "stemNumberNorm": "which statement best describes ram in a computer",
+      "options": [
+        "it is permanent storage that retains data without power",
+        "it is volatile working memory used by active programs",
+        "it is the device that prints documents",
+        "it is the computer s main input device"
+      ],
+      "optionsHash": "0b7b7173",
+      "answer": "it is volatile working memory used by active programs",
+      "exam": "DSC LDA / Secretariat LDA / MPSC",
+      "difficulty": "Easy",
+      "source": "question-batches/2026-11-14-subject-expansion.json",
+      "sourceURL": "https://www.nielit.gov.in/"
+    },
+    {
+      "id": "7212",
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Input Tax Credit: business use",
+      "stem": "under section 16 1 of the cgst act input tax credit is generally available on eligible supplies used or intended to be used in which connection",
+      "stemHash": "4216e6e6",
+      "stemNumberNorm": "under section # # of the cgst act input tax credit is generally available on eligible supplies used or intended to be used in which connection",
+      "options": [
+        "personal consumption of the proprietor",
+        "the course or furtherance of business",
+        "any activity whether business related or not",
+        "only the purchase of immovable property"
+      ],
+      "optionsHash": "b7659c46",
+      "answer": "the course or furtherance of business",
+      "exam": "Inspector of Taxes / MPSC",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-14-subject-expansion.json",
+      "sourceURL": "https://www.gstcouncil.gov.in/sites/default/files/2024-04/annexure-3_cgst-act_2017.pdf"
     }
-  ]
+  ],
+  "sourcesReviewed": [
+    "audit/pyq-transcription-2026-10-31.json",
+    "audit/pyq-transcription-2026-11-01.json",
+    "audit/pyq-transcription-2026-11-02.json",
+    "pyq-papers/index.json (branch catalogue empty at this point)"
+  ],
+  "subjectCounts": {
+    "Polity": 77,
+    "Meghalaya GK": 59,
+    "English": 146,
+    "History": 50,
+    "Science": 48,
+    "Economy": 47,
+    "Geography": 44,
+    "Aptitude": 32,
+    "Environment": 28,
+    "Officer Technical": 17,
+    "Arithmetic": 161,
+    "GST / Inspector of Taxes": 16,
+    "General Science": 10,
+    "Reasoning": 36,
+    "Computer": 12,
+    "Static GK": 3,
+    "Current Affairs": 44,
+    "Art & Culture": 1,
+    "International Organisations": 1,
+    "Books & Authors": 1
+  }
 }
