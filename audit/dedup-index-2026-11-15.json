@@ -15,10 +15,11 @@
     "question-batches/2026-11-03-gktoday-gs.json",
     "question-batches/2026-11-03-polity.json",
     "question-batches/2026-11-04-current-affairs.json",
-    "question-batches/2026-11-14-subject-expansion.json"
+    "question-batches/2026-11-14-subject-expansion.json",
+    "question-batches/2026-11-15-inspector-tax-technical.json"
   ],
   "embeddedQuestionCount": 592,
-  "questionCount": 833,
+  "questionCount": 848,
   "records": [
     {
       "id": "1",
@@ -16679,13 +16680,314 @@
       "difficulty": "Medium",
       "source": "question-batches/2026-11-14-subject-expansion.json",
       "sourceURL": "https://www.gstcouncil.gov.in/sites/default/files/2024-04/annexure-3_cgst-act_2017.pdf"
+    },
+    {
+      "id": "7213",
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Tax invoice: taxable goods involving movement",
+      "stem": "a registered dealer makes a taxable supply of goods that must be transported to the buyer under section 31 1 of the cgst act when should the tax invoice ordinarily be issued",
+      "stemHash": "5bfc7952",
+      "stemNumberNorm": "a registered dealer makes a taxable supply of goods that must be transported to the buyer under section # # of the cgst act when should the tax invoice ordinarily be issued",
+      "options": [
+        "before or at the time of removal of the goods for supply",
+        "within 30 days after the buyer receives the goods",
+        "only after the buyer pays the full consideration",
+        "at the time of filing the annual return"
+      ],
+      "optionsHash": "7f82906f",
+      "answer": "before or at the time of removal of the goods for supply",
+      "exam": "MPSC Inspector of Taxes / DSC LDA / Secretariat LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-15-inspector-tax-technical.json",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf"
+    },
+    {
+      "id": "7214",
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Tax invoice and bill of supply",
+      "stem": "a registered person supplies exempt goods and is not charging gst on that supply which document does section 31 3 c ordinarily require instead of a tax invoice",
+      "stemHash": "9ec1ebf1",
+      "stemNumberNorm": "a registered person supplies exempt goods and is not charging gst on that supply which document does section # # c ordinarily require instead of a tax invoice",
+      "options": [
+        "debit note",
+        "bill of supply",
+        "receipt voucher",
+        "payment voucher"
+      ],
+      "optionsHash": "47ddc4d8",
+      "answer": "bill of supply",
+      "exam": "MPSC Inspector of Taxes / DSC LDA / Secretariat LDA",
+      "difficulty": "Easy",
+      "source": "question-batches/2026-11-15-inspector-tax-technical.json",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf"
+    },
+    {
+      "id": "7215",
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Receipt voucher for advance payment",
+      "stem": "a registered supplier receives an advance payment for a proposed supply of goods which document is ordinarily required under section 31 3 d to evidence receipt of the advance",
+      "stemHash": "e305c447",
+      "stemNumberNorm": "a registered supplier receives an advance payment for a proposed supply of goods which document is ordinarily required under section # # d to evidence receipt of the advance",
+      "options": [
+        "credit note",
+        "delivery challan",
+        "receipt voucher",
+        "debit note"
+      ],
+      "optionsHash": "0877684d",
+      "answer": "receipt voucher",
+      "exam": "MPSC Inspector of Taxes / DSC LDA / Secretariat LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-15-inspector-tax-technical.json",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf"
+    },
+    {
+      "id": "7216",
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Credit notes: statutory grounds",
+      "stem": "after issuing a tax invoice a supplier discovers that the goods have been returned by the recipient which document may the supplier issue under section 34 1 of the cgst act",
+      "stemHash": "134cc124",
+      "stemNumberNorm": "after issuing a tax invoice a supplier discovers that the goods have been returned by the recipient which document may the supplier issue under section # # of the cgst act",
+      "options": [
+        "credit note",
+        "payment voucher",
+        "e way bill",
+        "bill of entry"
+      ],
+      "optionsHash": "d895f547",
+      "answer": "credit note",
+      "exam": "MPSC Inspector of Taxes / DSC LDA / Secretariat LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-15-inspector-tax-technical.json",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf"
+    },
+    {
+      "id": "7217",
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Accounts and records under section 35",
+      "stem": "which set of records is expressly included in the accounts that a registered person must keep under section 35 1 of the cgst act",
+      "stemHash": "60f37c40",
+      "stemNumberNorm": "which set of records is expressly included in the accounts that a registered person must keep under section # # of the cgst act",
+      "options": [
+        "only the annual income tax return and bank statements",
+        "production or manufacture inward and outward supplies stock itc availed and output tax payable and paid",
+        "only purchase invoices and employee attendance",
+        "only cash sales and fixed asset registers"
+      ],
+      "optionsHash": "dde6269d",
+      "answer": "production or manufacture inward and outward supplies stock itc availed and output tax payable and paid",
+      "exam": "MPSC Inspector of Taxes / DSC LDA / Secretariat LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-15-inspector-tax-technical.json",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf"
+    },
+    {
+      "id": "7218",
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Records maintained by transporters and warehouse operators",
+      "stem": "under section 35 2 of the cgst act which persons must maintain prescribed records of consignors consignees and relevant details of goods irrespective of whether they are registered",
+      "stemHash": "6b899dbf",
+      "stemNumberNorm": "under section # # of the cgst act which persons must maintain prescribed records of consignors consignees and relevant details of goods irrespective of whether they are registered",
+      "options": [
+        "only registered manufacturers",
+        "only registered recipients",
+        "owners or operators of warehouses or godowns and transporters",
+        "only chartered accountants conducting tax audits"
+      ],
+      "optionsHash": "6490e61a",
+      "answer": "owners or operators of warehouses or godowns and transporters",
+      "exam": "MPSC Inspector of Taxes / DSC LDA / Secretariat LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-15-inspector-tax-technical.json",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf"
+    },
+    {
+      "id": "7219",
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Retention period for GST accounts and records",
+      "stem": "under section 36 of the cgst act what is the ordinary minimum period for retaining books of account and other records required under section 35 1",
+      "stemHash": "09eff8d8",
+      "stemNumberNorm": "under section # of the cgst act what is the ordinary minimum period for retaining books of account and other records required under section # #",
+      "options": [
+        "thirty six months from the invoice date",
+        "seventy two months from the due date of furnishing the annual return for the relevant year",
+        "ten years from the date of registration in every case",
+        "until the next departmental visit"
+      ],
+      "optionsHash": "84136224",
+      "answer": "seventy two months from the due date of furnishing the annual return for the relevant year",
+      "exam": "MPSC Inspector of Taxes / DSC LDA / Secretariat LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-15-inspector-tax-technical.json",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf"
+    },
+    {
+      "id": "7220",
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Contents of returns under section 39",
+      "stem": "which combination of particulars is expressly included in the return described in section 39 1 of the cgst act for a regular registered person",
+      "stemHash": "42e75ca3",
+      "stemNumberNorm": "which combination of particulars is expressly included in the return described in section # # of the cgst act for a regular registered person",
+      "options": [
+        "only outward supplies and tax collected",
+        "inward and outward supplies itc availed tax payable and tax paid with other prescribed particulars",
+        "only stock balances and income tax deductions",
+        "only e way bills generated during the month"
+      ],
+      "optionsHash": "d250f683",
+      "answer": "inward and outward supplies itc availed tax payable and tax paid with other prescribed particulars",
+      "exam": "MPSC Inspector of Taxes / DSC LDA / Secretariat LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-15-inspector-tax-technical.json",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf"
+    },
+    {
+      "id": "7221",
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Tax deduction at source: contract threshold",
+      "stem": "under section 51 1 of the cgst act the specified deductors are required to deduct tax from a supplier s payment when the total value of taxable supplies under a contract exceeds which amount",
+      "stemHash": "a2c3e8d2",
+      "stemNumberNorm": "under section # # of the cgst act the specified deductors are required to deduct tax from a supplier s payment when the total value of taxable supplies under a contract exceeds which amount",
+      "options": [
+        "₹50 000",
+        "₹1 00 000",
+        "₹2 50 000",
+        "₹10 00 000"
+      ],
+      "optionsHash": "1345f1ef",
+      "answer": "₹2 50 000",
+      "exam": "MPSC Inspector of Taxes / DSC LDA / Secretariat LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-15-inspector-tax-technical.json",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf"
+    },
+    {
+      "id": "7222",
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Scrutiny of returns: section 61",
+      "stem": "what is the principal purpose of scrutiny under section 61 of the cgst act",
+      "stemHash": "7fc137c5",
+      "stemNumberNorm": "what is the principal purpose of scrutiny under section # of the cgst act",
+      "options": [
+        "to verify the correctness of a return and inform the registered person of discrepancies noticed",
+        "to automatically cancel every registration with a mismatch",
+        "to conduct a criminal trial in the tax office",
+        "to replace the annual return with an audit report"
+      ],
+      "optionsHash": "3af22ccd",
+      "answer": "to verify the correctness of a return and inform the registered person of discrepancies noticed",
+      "exam": "MPSC Inspector of Taxes / DSC LDA / Secretariat LDA",
+      "difficulty": "Medium",
+      "source": "question-batches/2026-11-15-inspector-tax-technical.json",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf"
+    },
+    {
+      "id": "7223",
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Audit by tax authorities: prior notice",
+      "stem": "under section 65 3 of the cgst act how much advance notice must ordinarily be given to a registered person before an audit by tax authorities is conducted",
+      "stemHash": "1a97bd90",
+      "stemNumberNorm": "under section # # of the cgst act how much advance notice must ordinarily be given to a registered person before an audit by tax authorities is conducted",
+      "options": [
+        "at least 3 calendar days",
+        "at least 7 calendar days",
+        "not less than 15 working days",
+        "not less than 30 working days"
+      ],
+      "optionsHash": "0b002608",
+      "answer": "not less than 15 working days",
+      "exam": "MPSC Inspector of Taxes / DSC LDA / Secretariat LDA",
+      "difficulty": "Hard",
+      "source": "question-batches/2026-11-15-inspector-tax-technical.json",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf"
+    },
+    {
+      "id": "7224",
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Special audit: nomination of auditor",
+      "stem": "when a special audit is directed under section 66 of the cgst act who nominates the chartered accountant or cost accountant who will examine and audit the registered person s records",
+      "stemHash": "5bd566b3",
+      "stemNumberNorm": "when a special audit is directed under section # of the cgst act who nominates the chartered accountant or cost accountant who will examine and audit the registered person s records",
+      "options": [
+        "the registered person being audited",
+        "the commissioner",
+        "the local trade association",
+        "the supplier s statutory auditor"
+      ],
+      "optionsHash": "d44fc477",
+      "answer": "the commissioner",
+      "exam": "MPSC Inspector of Taxes / DSC LDA / Secretariat LDA",
+      "difficulty": "Hard",
+      "source": "question-batches/2026-11-15-inspector-tax-technical.json",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf"
+    },
+    {
+      "id": "7225",
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Summons during inquiry: section 70",
+      "stem": "during an inquiry under the cgst act which officer has the statutory power under section 70 to summon a person whose attendance is considered necessary to give evidence or produce a document",
+      "stemHash": "12b497a2",
+      "stemNumberNorm": "during an inquiry under the cgst act which officer has the statutory power under section # to summon a person whose attendance is considered necessary to give evidence or produce a document",
+      "options": [
+        "any private auditor appointed by the taxpayer",
+        "the proper officer under the act",
+        "only the jurisdictional police officer",
+        "only the gst council"
+      ],
+      "optionsHash": "4fe3abbf",
+      "answer": "the proper officer under the act",
+      "exam": "MPSC Inspector of Taxes / DSC LDA / Secretariat LDA",
+      "difficulty": "Hard",
+      "source": "question-batches/2026-11-15-inspector-tax-technical.json",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf"
+    },
+    {
+      "id": "7226",
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Access to business premises: section 71",
+      "stem": "for an audit scrutiny or verification under section 71 of the cgst act which of the following may an authorised officer inspect at a registered person s place of business",
+      "stemHash": "dfe63a7d",
+      "stemNumberNorm": "for an audit scrutiny or verification under section # of the cgst act which of the following may an authorised officer inspect at a registered person s place of business",
+      "options": [
+        "only paper purchase invoices",
+        "books documents computers computer programmes or software and other relevant things available at the premises",
+        "only the taxpayer s personal bank account",
+        "only goods that are already under confiscation"
+      ],
+      "optionsHash": "3de2812a",
+      "answer": "books documents computers computer programmes or software and other relevant things available at the premises",
+      "exam": "MPSC Inspector of Taxes / DSC LDA / Secretariat LDA",
+      "difficulty": "Hard",
+      "source": "question-batches/2026-11-15-inspector-tax-technical.json",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/15689/5/A2017-12.pdf"
+    },
+    {
+      "id": "7227",
+      "cat": "GST / Inspector of Taxes",
+      "topic": "IGST place of supply: goods involving movement",
+      "stem": "a supplier in one state sells goods to a recipient in another state and the goods are transported to the recipient under section 10 1 a of the igst act what is the place of supply",
+      "stemHash": "f77866ff",
+      "stemNumberNorm": "a supplier in one state sells goods to a recipient in another state and the goods are transported to the recipient under section # # a of the igst act what is the place of supply",
+      "options": [
+        "the supplier s registered office in every case",
+        "the location where the movement of goods terminates for delivery to the recipient",
+        "the place where the purchase order is signed",
+        "the state where the transporter is registered"
+      ],
+      "optionsHash": "f4c204f6",
+      "answer": "the location where the movement of goods terminates for delivery to the recipient",
+      "exam": "MPSC Inspector of Taxes / DSC LDA / Secretariat LDA",
+      "difficulty": "Hard",
+      "source": "question-batches/2026-11-15-inspector-tax-technical.json",
+      "sourceURL": "https://cbic-gst.gov.in/hindi/IGST-bill-e.html"
     }
   ],
   "sourcesReviewed": [
     "audit/pyq-transcription-2026-10-31.json",
     "audit/pyq-transcription-2026-11-01.json",
     "audit/pyq-transcription-2026-11-02.json",
-    "pyq-papers/index.json (branch catalogue empty at this point)"
+    "pyq-papers/index.json (branch catalogue empty at this point)",
+    "pyq-papers/index.json (empty catalogue; no transcribed paper questions in this branch yet)"
   ],
   "subjectCounts": {
     "Polity": 77,
@@ -16699,7 +17001,7 @@
     "Environment": 28,
     "Officer Technical": 17,
     "Arithmetic": 161,
-    "GST / Inspector of Taxes": 16,
+    "GST / Inspector of Taxes": 31,
     "General Science": 10,
     "Reasoning": 36,
     "Computer": 12,
@@ -16708,5 +17010,6 @@
     "Art & Culture": 1,
     "International Organisations": 1,
     "Books & Authors": 1
-  }
+  },
+  "lastUpdated": "2026-11-15"
 }
