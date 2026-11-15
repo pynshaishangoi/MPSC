@@ -1,5 +1,5 @@
 {
   "schemaVersion": 1,
-  "description": "Only exact transcriptions of user-uploaded historical papers belong here. Do not add predicted questions.",
+  "description": "Only exact transcriptions of user-uploaded or verified official-source historical papers belong here. Do not add predicted questions.",
   "papers": []
 }
