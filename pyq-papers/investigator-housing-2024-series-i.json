@@ -7,9 +7,9 @@
   "date": "2024-07-06",
   "series": "I",
   "totalQuestions": 150,
-  "transcribedQuestions": 47,
+  "transcribedQuestions": 97,
   "complete": false,
-  "transcriptionNote": "First-pass transcription covers Q1–47 (General English and beginning of General Knowledge). Remaining questions and the optional Statistics/Economics/Mathematics section are pending. No answer key is supplied or invented.",
+  "transcriptionNote": "First-pass transcription covers Q1–100 (General English, General Knowledge and the beginning of Statistics). Q53, Q78, Q93 and Q98 are flagged for source-image verification because an option or formula is unclear. Questions 101–150 (remaining Statistics/Economics/Mathematics subject sections) remain pending. No answer key supplied or invented.",
   "questions": [
     {
       "number": 1,
@@ -571,6 +571,642 @@
         "Rajasthan",
         "Madhya Pradesh",
         "Meghalaya"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 48,
+      "text": "What is the main cause for the occurrence of tsunamis?",
+      "options": [
+        "Volcanic eruption in the sea",
+        "Ocean floor movement induced by earthquake",
+        "Because of hurricane",
+        "Melting of glaciers"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 49,
+      "text": "El Niño and La Niña are responsible for producing",
+      "options": [
+        "Changes of opposite direction in global temperature",
+        "Precipitation patterns",
+        "Both (A) and (B)",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 50,
+      "text": "Which of the following is not a water pollutant?",
+      "options": [
+        "Sulphur dioxide",
+        "Zinc",
+        "Copper",
+        "Nickel"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 51,
+      "text": "The word “Gambit” is related to which of the following sports?",
+      "options": [
+        "Chess",
+        "Table Tennis",
+        "Polo",
+        "Carom"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 52,
+      "text": "The wood of a cricket bat is usually treated with specific oil which serves a protective function. What is the name of the oil?",
+      "options": [
+        "Coconut oil",
+        "Sesame oil",
+        "Til oil",
+        "Linseed oil"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 53,
+      "text": "Which institution released the draft regulations on mobile number portability?",
+      "options": [
+        "[Option A unclear in source OCR]",
+        "TRAI",
+        "TCIL",
+        "C-DOT"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 54,
+      "text": "Which space agency helps India in tracking the Solar Mission Aditya-L1?",
+      "options": [
+        "NASA",
+        "ESA",
+        "JAXA",
+        "ROSCOSMOS"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 55,
+      "text": "When is World No Tobacco Day celebrated?",
+      "options": [
+        "30th September",
+        "31st August",
+        "31st May",
+        "29th May"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 56,
+      "text": "There are three forms of hockey—field hockey (called Khong Kangjei), wrestling hockey (called Mukna Kangjei) and horse hockey (called Sagol Kangjei). The third form has been traced as the origin of the modern game Polo. Which of the following North-East states is related to the origin of Polo?",
+      "options": [
+        "Meghalaya",
+        "Manipur",
+        "Sikkim",
+        "Assam"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 57,
+      "text": "Which country has officially embedded its nuclear weapons status in its Constitution?",
+      "options": [
+        "Israel",
+        "UAE",
+        "North Korea",
+        "Russia"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 58,
+      "text": "Which institution organised the conference on “Millets for Military Ration and Specific Nutritional Requirements”?",
+      "options": [
+        "DRDO",
+        "HAL",
+        "NABARD",
+        "FAO"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 59,
+      "text": "Pragyan rover of the Chandrayaan-3 Mission has confirmed the presence of which element on the moon's surface?",
+      "options": [
+        "Potassium",
+        "Sulphur",
+        "Sodium",
+        "Chlorine"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 60,
+      "text": "Hornbill Festival is celebrated in which state?",
+      "options": [
+        "Mizoram",
+        "Nagaland",
+        "Arunachal Pradesh",
+        "Manipur"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 61,
+      "text": "Who is the 50th Chief Justice of India who took oath of office on 9th November 2022?",
+      "options": [
+        "U. U. Lalit",
+        "N. V. Ramana",
+        "S. A. Bobde",
+        "Dr. D. Y. Chandrachud"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 62,
+      "text": "The Agnipath Scheme launched by the Central Government is of which department?",
+      "options": [
+        "Social welfare",
+        "Military and defence",
+        "Urban affairs",
+        "Foreign affairs"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 63,
+      "text": "Which city hosted the Olympics, 2024?",
+      "options": [
+        "Tokyo",
+        "Beijing",
+        "Paris",
+        "Qatar"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 64,
+      "text": "How many rings are present in the Olympic Flag?",
+      "options": [
+        "Eight",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 65,
+      "text": "Who among the following got the Bharat Ratna Award before becoming the President of India?",
+      "options": [
+        "V. V. Giri",
+        "Dr. Zakir Hussain",
+        "Dr. Rajendra Prasad",
+        "R. Venkataraman"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 66,
+      "text": "DDT is a/an",
+      "options": [
+        "Organic fertilizer",
+        "Chemical fertilizer",
+        "Insecticide",
+        "Pesticide"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 67,
+      "text": "Lack of vitamin A can cause",
+      "options": [
+        "Cretinism",
+        "Marasmus",
+        "Night blindness",
+        "Arthritis"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 68,
+      "text": "Each year World AIDS Day is observed on which day?",
+      "options": [
+        "1st November",
+        "2nd December",
+        "5th November",
+        "1st December"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 69,
+      "text": "The headquarters of the UNO are situated in",
+      "options": [
+        "New York, USA",
+        "The Hague, Netherlands",
+        "Geneva, Switzerland",
+        "Paris, France"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 70,
+      "text": "Under whose leadership was the All India Muslim League set up?",
+      "options": [
+        "Muhammad Ali Jinnah",
+        "Sayyid Ahmad Khan",
+        "Aga Khan III",
+        "Liaquat Ali Khan"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 71,
+      "text": "Diamond is an allotropic form of",
+      "options": [
+        "Carbon",
+        "Silicon",
+        "Sulphur",
+        "Germanium"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 72,
+      "text": "Which of the following is the lightest metal?",
+      "options": [
+        "Mercury",
+        "Lithium",
+        "Lead",
+        "Silver"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 73,
+      "text": "Who is known as the “Grand Old Man of India”?",
+      "options": [
+        "Bal Gangadhar Tilak",
+        "Gopal Krishna Gokhale",
+        "Dr. Rajendra Prasad",
+        "Dadabhai Naoroji"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 74,
+      "text": "Who was the first Chairman of the Rajya Sabha?",
+      "options": [
+        "S. V. Krishnamoorthy Rao",
+        "Smt. Violet Alva",
+        "Dr. Sarvepalli Radhakrishnan",
+        "Ganesh Vasudev Mavalankar"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 75,
+      "text": "Who is the author of the book “My Experiments with Truth”?",
+      "options": [
+        "Mahatma Gandhi",
+        "Winston Churchill",
+        "James Morris",
+        "Michael Anderson"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 76,
+      "text": "A finite difference table is said to be a diagonal difference table if",
+      "options": [
+        "The origin x₀ is the first argument in the series",
+        "The origin x₀ is the last argument in the series",
+        "The origin x₀ is the intermediate argument in the series",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 77,
+      "text": "Newton's backward formula is used when the interpolating value lies",
+      "options": [
+        "In the middle of the series",
+        "At the end of the series",
+        "In the beginning of the series",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 78,
+      "text": "If Δ = [expression unclear in source scan] and the values of f(x) for given x are f(1)=14, f(2)=12, f(5)=6 and f(8)=21, then f(4) is",
+      "options": [
+        "2",
+        "12",
+        "−8",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 79,
+      "text": "Interpolation provides good estimates of missing values if and only if",
+      "options": [
+        "The change of values is consistent",
+        "The series does not refer to abnormal periods",
+        "The arguments are equidistant",
+        "All of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 80,
+      "text": "In the binomial expansion method, we always get",
+      "options": [
+        "Only n equations",
+        "As many equations as the number of unknowns",
+        "n + 1 equations",
+        "Only two equations"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 81,
+      "text": "Lagrange's formula is useful for",
+      "options": [
+        "Interpolation",
+        "Extrapolation",
+        "Inverse interpolation",
+        "All of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 82,
+      "text": "The Newton-Gauss forward formula and Newton's formula of advancing differences differ in respect of",
+      "options": [
+        "The choice of the origin",
+        "Finite difference table",
+        "Use of finite differences",
+        "All of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 83,
+      "text": "Index numbers are also known as",
+      "options": [
+        "Economic barometer",
+        "Sign and guide posts",
+        "Both (A) and (B)",
+        "Nominal"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 84,
+      "text": "Index numbers are expressed in terms of",
+      "options": [
+        "Percentages",
+        "Ratios",
+        "Absolute values",
+        "All of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 85,
+      "text": "Base period for an index number should be",
+      "options": [
+        "A year only",
+        "A normal period",
+        "A period in the distant past",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 86,
+      "text": "If the unit of measurement of a commodity changes, the value of the index number",
+      "options": [
+        "Also changes",
+        "Remains the same",
+        "Increases",
+        "Decreases"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 87,
+      "text": "Best average to compute an index number is",
+      "options": [
+        "GM",
+        "Median",
+        "Mode",
+        "HM"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 88,
+      "text": "The class interval of the continuous grouped data 10–19, 20–29, 30–39, 40–49 is",
+      "options": [
+        "9",
+        "10",
+        "14.5",
+        "4.5"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 89,
+      "text": "Data taken from the publication “Agricultural Situation in India” will be considered as",
+      "options": [
+        "Primary data",
+        "Secondary data",
+        "Both (A) and (B)",
+        "None of (A) and (B)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 90,
+      "text": "In an exclusive-type distribution, the limits excluded are",
+      "options": [
+        "Lower limits",
+        "Upper limits",
+        "Either the lower or upper limit",
+        "Lower limit and upper limit both"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 91,
+      "text": "If the grouped data has open-end classes, then which one of the following cannot be calculated?",
+      "options": [
+        "Median",
+        "Mode",
+        "Mean",
+        "Quartile"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 92,
+      "text": "The correct relationship among AM, GM and HM is",
+      "options": [
+        "AM = GM = HM",
+        "GM > AM > HM",
+        "HM > GM > AM",
+        "AM > GM > HM"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 93,
+      "text": "Geometric mean of the two numbers shown in the source is [fractions unclear in OCR].",
+      "options": [
+        "0.1",
+        "0.01",
+        "10",
+        "100"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 94,
+      "text": "Which of the following is a one-dimensional diagram?",
+      "options": [
+        "Bar diagram",
+        "Pie chart",
+        "Cylinder",
+        "Graph"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 95,
+      "text": "Ogives for more-than type and less-than type distribution intersect at",
+      "options": [
+        "Mean",
+        "Median",
+        "Mode",
+        "Origin"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 96,
+      "text": "Histogram can be used only when",
+      "options": [
+        "Class intervals are all equal",
+        "Class intervals are equal or unequal",
+        "Class intervals are unequal",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 97,
+      "text": "If the AM of a set of two observations is 9 and its GM is 6, then the HM of the set of observations is",
+      "options": [
+        "4",
+        "54",
+        "3",
+        "1.5"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 98,
+      "text": "If the two observations are 10 and −10, then their harmonic mean is",
+      "options": [
+        "10",
+        "0",
+        "5",
+        "[option D unclear in OCR]"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 99,
+      "text": "Seven persons gambled sitting at a table. Four persons lost on an average ₹55 whereas the other three gained on an average ₹70. Is the information worth believing?",
+      "options": [
+        "Yes",
+        "No",
+        "Not certain",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 100,
+      "text": "For comparison of two different series, the best measure of dispersion is",
+      "options": [
+        "Range",
+        "Mean deviation",
+        "Standard deviation",
+        "None of the above"
       ],
       "answerIndex": null,
       "transcriptionStatus": "transcribed"
