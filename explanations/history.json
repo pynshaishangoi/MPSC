@@ -624,8 +624,32 @@
           "url": "https://asi.nic.in/"
         }
       ]
+    },
+    "7244": {
+      "title": "Treaty of Yandabo (1826)",
+      "overview": "The Treaty of Yandabo, signed on 24 February 1826, ended the First Anglo-Burmese War and marked a major turning point in the history of Assam and the wider North-East.",
+      "context": "The Anglo-Burmese War ran from 1824 to 1826. Burmese forces had intervened in Assam during the early nineteenth century; British troops occupied Guwahati in March 1824 and pushed Burmese forces out of the Brahmaputra Valley.",
+      "who": "The treaty was concluded between the British East India Company and the Burmese kingdom.",
+      "what": "The treaty ended the war. Among its consequences, Burma renounced claims over Assam and Jaintia, and the British began consolidating their administration in the Brahmaputra Valley.",
+      "why": "The agreement ended a major military conflict and altered the political balance in the North-East. It opened the way for the expansion of British authority in Assam.",
+      "significance": "It is a key date in North-East Indian history and helps explain the transition from Burmese intervention to British administration in Assam.",
+      "exam": "Treaty of Yandabo = 24 February 1826 = end of the First Anglo-Burmese War. Do not confuse it with the Treaty of Sugauli (1816), associated with the Anglo-Nepalese War.",
+      "source": "Assam Government, Guwahati Metropolitan Development Authority, Forever Guwahati",
+      "url": "https://gmda.assam.gov.in/sites/default/files/swf_utility_folder/departments/gmda_webcomindia_org_oid_4/do_u_want_2_know/forever_guwahati_1.pdf"
+    },
+    "7245": {
+      "title": "Government of India Act, 1919: dyarchy in provinces",
+      "overview": "The Government of India Act, 1919 introduced dyarchy in the provinces by dividing provincial subjects into reserved and transferred categories.",
+      "context": "The Act followed the Montagu-Chelmsford reforms. It expanded legislative participation but did not establish full responsible government at the provincial level.",
+      "who": "The provincial Governor and Executive Council retained control of reserved subjects; ministers drawn from elected members handled transferred subjects.",
+      "what": "Reserved subjects remained under the Governor and Executive Council, while transferred subjects were administered by ministers who were responsible to the provincial legislative council. The arrangement operated at the provincial level.",
+      "why": "Dyarchy was intended as a limited step towards Indian participation in administration while retaining British control over key areas.",
+      "significance": "The system was an important constitutional experiment before the Government of India Act, 1935 introduced provincial autonomy and ended provincial dyarchy.",
+      "exam": "1919 Act = dyarchy in provinces. 1935 Act = provincial autonomy. Do not state that the 1919 Act introduced dyarchy at the Centre.",
+      "source": "UK Parliament House of Lords Library, Lord Sinha and the Government of India Act 1919",
+      "url": "https://lordslibrary.parliament.uk/research-briefings/lln-2019-0153/"
     }
   },
-  "questionCount": 49,
-  "updatedAt": "2026-11-04"
+  "questionCount": 52,
+  "updatedAt": "2026-11-16"
 }

@@ -1,0 +1,813 @@
+{
+  "date": "2026-11-16",
+  "title": "Original practice expansion — statutory tax, Meghalaya GK, polity and general studies",
+  "questionCount": 33,
+  "questionIdRange": "7228-7260",
+  "subjects": {
+    "GST / Inspector of Taxes": 7,
+    "Meghalaya GK": 3,
+    "Polity": 6,
+    "History": 2,
+    "Geography": 3,
+    "Environment": 4,
+    "Economy": 3,
+    "Computer": 3,
+    "English": 2
+  },
+  "description": "33 original, source-checked practice questions for MPSC Inspector of Taxes, DSC East Khasi Hills LDA-cum-Typist and MPSC Secretariat LDA. These are not official PYQs.",
+  "sourcePolicy": "Original Practice only. No copyrighted question-bank text copied. Statutory and factual answers checked against the linked official reference on 2026-11-16.",
+  "questions": [
+    {
+      "id": 7228,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Section 74A: financial-year transition",
+      "q": "For a tax period relating to FY 2024-25, which provision of the CGST Act governs determination of tax not paid or short paid, erroneous refund, or input tax credit wrongly availed or utilised, whether the reason is fraud or otherwise?",
+      "o": [
+        "Section 73",
+        "Section 74",
+        "Section 74A",
+        "Section 75"
+      ],
+      "a": 2,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: C — section 74A. The consolidated CGST Act expressly limits sections 73 and 74 to periods up to FY 2023-24. Section 74A applies to reasons pertaining to FY 2024-25 onward and provides the demand framework for that later period, while retaining different penalty treatment for fraud and non-fraud cases. Section 75 contains general provisions relating to determination of tax; it is not the specific demand provision for FY 2024-25 onward.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code, Central Goods and Services Tax Act, 2017, section 74A.",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "India Code consolidated CGST Act, current text published 11 June 2026. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7229,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Section 74A: minimum notice threshold",
+      "q": "Under section 74A(1) of the CGST Act, a show-cause notice is not to be issued for a financial year when the relevant tax amount is:",
+      "o": [
+        "Less than ₹1,000",
+        "Exactly ₹1,000 or less",
+        "Less than ₹10,000",
+        "Less than ₹50,000"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: A — less than ₹1,000. The proviso to section 74A(1) says that no notice shall be issued if the tax not paid or short paid, erroneously refunded, or relating to wrongly availed or utilised ITC in a financial year is below ₹1,000. The wording is strictly “less than”; an amount of exactly ₹1,000 is not below the stated threshold. Apply this threshold to the relevant financial year, not as a general exemption from tax liability.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code, Central Goods and Services Tax Act, 2017, section 74A(1).",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "India Code consolidated CGST Act, current text published 11 June 2026. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7230,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Section 107: appeal limitation",
+      "q": "A taxpayer is aggrieved by an adjudication order under the CGST Act. Under section 107(1), what is the ordinary period for filing an appeal to the Appellate Authority, counted from communication of the order?",
+      "o": [
+        "30 days",
+        "3 months",
+        "6 months",
+        "1 year"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: B — three months. Section 107(1) gives an aggrieved person three months from the date on which the decision or order is communicated. Under section 107(4), the Appellate Authority may allow a further period of up to one month if sufficient cause prevented timely filing. The additional month is a limited condonation power, not part of the ordinary three-month period.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code, Central Goods and Services Tax Act, 2017, section 107.",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "India Code consolidated CGST Act, current text published 11 June 2026. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7231,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Section 50(3): wrongly availed ITC interest",
+      "q": "For the purpose of section 50(3) of the CGST Act, interest on wrongly availed input tax credit is attracted when the credit has been:",
+      "o": [
+        "Merely entered in the purchase register",
+        "Wrongly availed and utilised",
+        "Properly availed but not yet used",
+        "Reported in GSTR-1"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: B — wrongly availed and utilised. Section 50(3) specifically addresses input tax credit wrongly availed and utilised. The distinction matters: mere incorrect availment, without utilisation, does not satisfy the statutory wording in this sub-section. The applicable notified interest rate is subject to the statutory ceiling, and the calculation is governed by the prescribed rules. Do not confuse this with ordinary delayed payment of output tax under section 50(1).",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code, Central Goods and Services Tax Act, 2017, section 50(3).",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "India Code consolidated CGST Act, current text published 11 June 2026. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7232,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Section 49A: ITC utilisation sequence",
+      "q": "Before using available central tax, State tax or Union territory tax input tax credit towards payment of tax, what priority does section 49A of the CGST Act require?",
+      "o": [
+        "Available integrated tax credit must first be fully utilised",
+        "State tax credit must be used before integrated tax credit",
+        "Central tax credit must be used before integrated tax credit",
+        "The taxpayer may ignore the integrated tax credit balance"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: A — integrated tax credit must first be fully utilised. Section 49A overrides the general sequence in section 49 and requires available IGST credit to be exhausted first before credit of CGST, SGST or UTGST is used towards payment. This is an order-of-utilisation rule; it does not mean that one tax head's credit can be freely cross-utilised against every other head without the statutory restrictions.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code, Central Goods and Services Tax Act, 2017, section 49A.",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "India Code consolidated CGST Act, current text published 11 June 2026. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7233,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Section 54: general refund limitation",
+      "q": "Under section 54(1) of the CGST Act, a person claiming refund of tax, interest or another amount paid must generally apply before the expiry of what period from the relevant date?",
+      "o": [
+        "6 months",
+        "1 year",
+        "2 years",
+        "5 years"
+      ],
+      "a": 2,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: C — two years. Section 54(1) states the general limitation for an application claiming refund of tax and interest paid on that tax, or another amount paid, as before expiry of two years from the relevant date. The Act and rules define the relevant date for different kinds of refund, and specific categories have special treatment. Therefore, two years is the general statutory period, not a universal calculation from the invoice date.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code, Central Goods and Services Tax Act, 2017, section 54(1).",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "India Code consolidated CGST Act, current text published 11 June 2026. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7234,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Section 52: net value for e-commerce TCS",
+      "q": "For section 52 of the CGST Act, how is the net value of taxable supplies made through an e-commerce operator generally calculated for a month?",
+      "o": [
+        "Taxable supplies made through the operator minus taxable supplies returned during that month",
+        "All supplies made through the operator plus exempt supplies",
+        "Only the commission retained by the operator",
+        "Gross turnover of the operator minus its operating expenses"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: A. Section 52 defines the net value by taking the aggregate value of taxable supplies of goods or services made during the month through the operator by registered persons and reducing it by the aggregate value of taxable supplies returned during that month. The section also excludes the specified services covered by section 9(5) from this calculation. The base is the suppliers' taxable supplies through the platform, not the operator's commission or its own operating profit.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code, Central Goods and Services Tax Act, 2017, section 52(1).",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "India Code consolidated CGST Act, current text published 11 June 2026. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7235,
+      "cat": "Meghalaya GK",
+      "topic": "Meghalaya: Autonomous District Councils",
+      "q": "Which set correctly names the three Autonomous District Councils functioning in Meghalaya under the Sixth Schedule?",
+      "o": [
+        "KHADC, GHADC and JHADC",
+        "KHADC, BTC and GHADC",
+        "JHADC, DHDAC and NCHAC",
+        "GHADC, LAD and KHADC"
+      ],
+      "a": 0,
+      "difficulty": "Easy",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: A — Khasi Hills, Garo Hills and Jaintia Hills Autonomous District Councils. Meghalaya's Vision 2030 document identifies these three councils and explains their respective regional coverage. Do not confuse Meghalaya's three councils with autonomous councils established in other North-Eastern states, such as the Bodoland Territorial Council in Assam.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Meghalaya Government, Vision 2030, section 2.1.3 on Autonomous District Councils.",
+      "sourceURL": "https://cm.meghalaya.gov.in/wp-content/uploads/2021/06/vision2030.pdf",
+      "verificationStatus": "Meghalaya Government Vision 2030 document. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7236,
+      "cat": "Meghalaya GK",
+      "topic": "Meghalaya ADCs: Article 275(1) funding route",
+      "q": "In its historical discussion of Garo Hills Autonomous District Council finances, the Meghalaya Government's Vision 2030 document records that Council representatives cited which constitutional provision as the mechanism for receiving funds directly from the Centre?",
+      "o": [
+        "Article 263",
+        "Article 280",
+        "Article 275(1)",
+        "Article 324"
+      ],
+      "a": 2,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC LDA-cum-Typist"
+      ],
+      "e": "Correct answer: C — Article 275(1). In the document's discussion of GHADC finances, Council representatives are recorded as seeking funds through the mechanism provided in Article 275(1) of the Constitution, directly from the Centre. Article 280 concerns the Finance Commission, Article 263 provides for an Inter-State Council, and Article 324 concerns the Election Commission. This question tests the constitutional funding route cited in the historical document, not a claim about every current allocation.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Meghalaya Government, Vision 2030, section 9.5, finances of Autonomous District Councils.",
+      "sourceURL": "https://cm.meghalaya.gov.in/wp-content/uploads/2021/06/vision2030.pdf",
+      "verificationStatus": "Meghalaya Government Vision 2030 document, historical ADC-finance discussion. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7237,
+      "cat": "Meghalaya GK",
+      "topic": "Khasi history: U Tirot Sing",
+      "q": "The Eastern West Khasi Hills official portal identifies U Tirot Sing as the Syiem of which traditional Khasi chiefship?",
+      "o": [
+        "Nongkhlaw",
+        "Mylliem",
+        "Nongstoin",
+        "Mawkyrwat"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: A — Nongkhlaw. The Eastern West Khasi Hills district portal describes U Tirot Sing as the Syiem of Nongkhlaw and records his resistance to the British in 1829. The title “Syiem” refers to a traditional Khasi chief, while Nongkhlaw identifies the chiefship associated with him. This is a Meghalaya-specific historical fact, not a question about the location of his memorial.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Eastern West Khasi Hills District Administration, Culture & Heritage.",
+      "sourceURL": "https://easternwestkhasihills.meghalaya.gov.in/culture-heritage/",
+      "verificationStatus": "Eastern West Khasi Hills official portal, last updated 26 May 2026. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7238,
+      "cat": "Polity",
+      "topic": "Article 72: President's clemency power",
+      "q": "Which Article of the Constitution empowers the President to grant pardons, reprieves, respites or remissions of punishment, and to suspend, remit or commute sentences in specified cases?",
+      "o": [
+        "Article 72",
+        "Article 74",
+        "Article 161",
+        "Article 226"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: A — Article 72. It confers the Union President's clemency power, including cases involving punishment by a court martial, offences within the Union's executive power and all cases of death sentence. Article 161 gives a corresponding clemency power to a State Governor, but its scope is not identical: the Governor cannot pardon a death sentence. Article 74 concerns the Council of Ministers' aid and advice, while Article 226 concerns High Court writ jurisdiction.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department, Constitution of India, Article 72.",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "verificationStatus": "Legislative Department Constitution edition dated 10 September 2026. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7239,
+      "cat": "Polity",
+      "topic": "Tenth Schedule: anti-defection",
+      "q": "The constitutional provisions dealing with disqualification of legislators on the ground of defection are contained in which Schedule?",
+      "o": [
+        "Eighth Schedule",
+        "Ninth Schedule",
+        "Tenth Schedule",
+        "Twelfth Schedule"
+      ],
+      "a": 2,
+      "difficulty": "Easy",
+      "exam": "MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: C — the Tenth Schedule. It contains the anti-defection framework for members of Parliament and State Legislatures, including grounds of disqualification and exceptions. The Eighth Schedule lists recognised languages, the Ninth Schedule deals with laws placed under its protection subject to constitutional review, and the Twelfth Schedule lists municipal functions. The Tenth Schedule was added by the Constitution (Fifty-second Amendment) Act, 1985.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department, Constitution of India, Tenth Schedule.",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "verificationStatus": "Legislative Department Constitution edition dated 10 September 2026. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7240,
+      "cat": "Polity",
+      "topic": "Article 262: inter-State water disputes",
+      "q": "Which Article authorises Parliament to provide by law for adjudication of disputes concerning the use, distribution or control of waters of inter-State rivers or river valleys?",
+      "o": [
+        "Article 256",
+        "Article 262",
+        "Article 280",
+        "Article 300A"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: B — Article 262. Clause (1) empowers Parliament to provide by law for adjudication of disputes or complaints concerning the use, distribution or control of waters of inter-State rivers or river valleys. Clause (2) also permits Parliament to provide that neither the Supreme Court nor another court shall exercise jurisdiction over such disputes. Article 280 concerns the Finance Commission and Article 300A concerns property rights.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department, Constitution of India, Article 262.",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "verificationStatus": "Legislative Department Constitution edition dated 10 September 2026. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7241,
+      "cat": "Polity",
+      "topic": "Article 360: Financial Emergency",
+      "q": "Which Article of the Constitution provides for the proclamation of a Financial Emergency?",
+      "o": [
+        "Article 352",
+        "Article 356",
+        "Article 359",
+        "Article 360"
+      ],
+      "a": 3,
+      "difficulty": "Easy",
+      "exam": "MPSC Secretariat LDA",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: D — Article 360. It empowers the President to proclaim a Financial Emergency if the financial stability or credit of India or any part of its territory is threatened. Article 352 deals with a National Emergency, Article 356 concerns failure of constitutional machinery in a State, and Article 359 concerns suspension of the right to move courts for enforcement of specified Fundamental Rights during an Emergency.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department, Constitution of India, Article 360.",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "verificationStatus": "Legislative Department Constitution edition dated 10 September 2026. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7242,
+      "cat": "Polity",
+      "topic": "Article 151(2): State CAG reports",
+      "q": "Under Article 151(2), the Comptroller and Auditor General's reports relating to the accounts of a State are submitted to whom?",
+      "o": [
+        "The President of India",
+        "The Governor of the State",
+        "The Speaker of the Lok Sabha",
+        "The Finance Commission"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: B — the Governor of the State. Article 151(2) provides that reports of the CAG relating to the accounts of a State are submitted to the Governor, who causes them to be laid before the Legislature of the State. This is distinct from Article 151(1), under which Union reports are submitted to the President for laying before each House of Parliament. The question tests the State-level reporting route.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department, Constitution of India, Article 151.",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "verificationStatus": "Legislative Department Constitution edition dated 10 September 2026. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7243,
+      "cat": "Polity",
+      "topic": "Article 105: parliamentary privileges",
+      "q": "Which Article deals with the powers, privileges and immunities of each House of Parliament, its members and committees?",
+      "o": [
+        "Article 102",
+        "Article 105",
+        "Article 194",
+        "Article 208"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Secretariat LDA",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: B — Article 105. It deals with the powers, privileges and immunities of Parliament, its Houses, members and committees. Article 194 is the corresponding provision for State Legislatures. Article 102 concerns disqualifications for membership of Parliament, while Article 208 concerns rules of procedure in State Legislatures. Remember the pairing: 105 for Parliament and 194 for State Legislatures.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department, Constitution of India, Articles 105 and 194.",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "verificationStatus": "Legislative Department Constitution edition dated 10 September 2026. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7244,
+      "cat": "History",
+      "topic": "North-East history: Treaty of Yandabo",
+      "q": "The Treaty of Yandabo, signed on 24 February 1826, brought which conflict to an end?",
+      "o": [
+        "First Anglo-Burmese War",
+        "First Anglo-Afghan War",
+        "Second Anglo-Maratha War",
+        "Anglo-Nepalese War"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: A — the First Anglo-Burmese War. The treaty was signed in February 1826 and ended the Anglo-Burmese War of 1824–26. Its consequences were important for North-East India: Burma renounced claims over Assam and Jaintia, among other terms. The date and treaty are useful for placing the beginning of British political control in Assam in the wider history of the region.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Assam Government, Guwahati Metropolitan Development Authority, Forever Guwahati.",
+      "sourceURL": "https://gmda.assam.gov.in/sites/default/files/swf_utility_folder/departments/gmda_webcomindia_org_oid_4/do_u_want_2_know/forever_guwahati_1.pdf",
+      "verificationStatus": "Assam Government GMDA historical publication. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7245,
+      "cat": "History",
+      "topic": "Government of India Act 1919: provincial dyarchy",
+      "q": "Which system of provincial administration was introduced by the Government of India Act, 1919?",
+      "o": [
+        "Provincial autonomy",
+        "Dyarchy",
+        "Federal dyarchy at the Centre",
+        "Complete responsible government"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Secretariat LDA",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: B — dyarchy. The Act divided provincial subjects into reserved and transferred categories. Reserved subjects remained under the Governor and Executive Council, while transferred subjects were administered by ministers appointed from the elected members of the provincial legislative council. The Act did not introduce dyarchy at the Centre. Provincial autonomy is associated with the Government of India Act, 1935, which replaced provincial dyarchy.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. UK Parliament House of Lords Library, Lord Sinha and the Government of India Act 1919.",
+      "sourceURL": "https://lordslibrary.parliament.uk/research-briefings/lln-2019-0153/",
+      "verificationStatus": "UK Parliament House of Lords Library historical briefing. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7246,
+      "cat": "Geography",
+      "topic": "Karst caves: stalactites",
+      "q": "In a limestone cave, which mineral formation hangs down from the roof as an icicle-like deposit?",
+      "o": [
+        "Stalagmite",
+        "Stalactite",
+        "Moraine",
+        "Drumlin"
+      ],
+      "a": 1,
+      "difficulty": "Easy",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: B — stalactite. Calcium carbonate dissolved in carbonated water can be redeposited inside limestone caves. Stalactites grow downwards from the roof, while stalagmites build upwards from the floor where dripping water deposits material. If the two formations eventually meet, they may form a column. The distinction is a standard physical-geography concept relevant to limestone cave landscapes.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT Class XI, Fundamentals of Physical Geography, chapter 6: Landforms and their Evolution.",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/kegy206.pdf",
+      "verificationStatus": "NCERT Class XI geography textbook PDF. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7247,
+      "cat": "Geography",
+      "topic": "Glacial erosion: U-shaped valleys",
+      "q": "A broad valley with a characteristic U-shaped cross-section is most commonly produced by the erosional action of:",
+      "o": [
+        "A glacier",
+        "A meandering river",
+        "Wind-blown sand",
+        "Coastal waves"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Secretariat LDA",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: A — a glacier. Moving ice erodes and widens a pre-existing valley, producing a broad floor and steep sides that give it a U-shaped cross-section. Rivers more commonly cut V-shaped valleys in their upper courses. The USGS describes mountain glaciers as carving U-shaped valleys through plucking and scouring, while the other agents listed produce different landforms.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. National Park Service, A Waterton-Glacier Story: The Work of Ice.",
+      "sourceURL": "https://home.nps.gov/glac/learn/education/a-waterton-glacier-story-the-work-of-ice.htm",
+      "verificationStatus": "National Park Service explanation of glacially carved U-shaped valleys. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7248,
+      "cat": "Geography",
+      "topic": "Fluvial deposition: alluvial fans",
+      "q": "A stream emerges from a steep mountain valley onto a flatter plain, loses velocity and deposits sediment in a fan-shaped spread. Which landform is produced?",
+      "o": [
+        "Delta",
+        "Alluvial fan",
+        "Moraine",
+        "Meander"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: B — an alluvial fan. When a stream leaves a confined, steep valley and enters a flatter area, its gradient and carrying capacity decrease. It deposits coarse and fine sediments in a spreading, fan-like form. A delta forms where a river enters a standing body of water; a moraine is glacial debris; and a meander is a river bend.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT Class XI, Fundamentals of Physical Geography, chapter 6: Landforms and their Evolution.",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/kegy206.pdf",
+      "verificationStatus": "NCERT Class XI geography textbook PDF. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7249,
+      "cat": "Environment",
+      "topic": "CITES: international wildlife trade",
+      "q": "What is the principal function of CITES?",
+      "o": [
+        "To regulate international trade in specimens of selected wild animals and plants through permits and certificates",
+        "To prohibit all domestic use of forest produce",
+        "To set global carbon-emission targets",
+        "To establish national wildlife parks"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC LDA-cum-Typist"
+      ],
+      "e": "Correct answer: A. CITES is the Convention on International Trade in Endangered Species of Wild Fauna and Flora. It subjects international trade in listed animal and plant specimens, including parts and derivatives, to a permit or certificate system. Its purpose is to ensure that trade is legal, sustainable and traceable and does not threaten the survival of species. It is not a general ban on all domestic wildlife use.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. CITES Secretariat, How CITES works.",
+      "sourceURL": "https://cites.org/eng/disc/how.php",
+      "verificationStatus": "CITES Secretariat official explanation. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7250,
+      "cat": "Environment",
+      "topic": "Montreal Protocol: ozone-depleting substances",
+      "q": "The Montreal Protocol is principally designed to phase out the production and consumption of:",
+      "o": [
+        "Ozone-depleting substances",
+        "All carbon dioxide emissions",
+        "All nitrogen fertilisers",
+        "Plastic packaging"
+      ],
+      "a": 0,
+      "difficulty": "Easy",
+      "exam": "MPSC Secretariat LDA",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: A — ozone-depleting substances. The Montreal Protocol is the global agreement specifically designed to protect the ozone layer by phasing out chemicals that deplete it. The Kigali Amendment later added a phase-down of hydrofluorocarbons, which are powerful greenhouse gases but do not themselves deplete the ozone layer. The Protocol should therefore not be described simply as a treaty to eliminate all greenhouse-gas emissions.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. UNEP Ozone Secretariat, The Montreal Protocol on Substances that Deplete the Ozone Layer.",
+      "sourceURL": "https://ozone.unep.org/treaties/montreal-protocol",
+      "verificationStatus": "UNEP Ozone Secretariat treaty page. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7251,
+      "cat": "Environment",
+      "topic": "Forest Rights Act: Gram Sabha role",
+      "q": "Under the Forest Rights Act claims process, which village-level institution initiates claims, considers the Forest Rights Committee's findings, passes resolutions and forwards them to the Sub-Divisional Level Committee?",
+      "o": [
+        "District Level Committee",
+        "Gram Sabha",
+        "State Level Monitoring Committee",
+        "Ministry of Environment"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: B — the Gram Sabha. The Ministry of Tribal Affairs' FRA process summary describes the Gram Sabha as the statutory starting point for claims: it initiates the process, considers evidence and findings, passes resolutions and consolidates claims for the SDLC. The Forest Rights Committee assists the Gram Sabha; the SDLC examines claims at the sub-divisional level; and the DLC is the final approving authority for titles.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Ministry of Tribal Affairs, Forest Rights Act 2006 portal.",
+      "sourceURL": "https://forestrights.tribal.gov.in/fra-2006",
+      "verificationStatus": "Ministry of Tribal Affairs Forest Rights Act portal. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7252,
+      "cat": "Environment",
+      "topic": "Forest Rights Act: final approval stage",
+      "q": "After the Sub-Divisional Level Committee has examined and forwarded forest-rights claims, which body approves or modifies the claims and issues the title order or certificate under the official FRA process summary?",
+      "o": [
+        "Forest Rights Committee",
+        "Gram Sabha",
+        "District Level Committee",
+        "State Level Monitoring Committee"
+      ],
+      "a": 2,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: C — the District Level Committee. The Ministry of Tribal Affairs' process summary places the DLC at the final approval stage: it approves or modifies claims and issues title orders or certificates. The Gram Sabha initiates and consolidates claims, the Forest Rights Committee assists it, and the SDLC examines and forwards claims. These bodies have different roles and should not be treated as interchangeable.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Ministry of Tribal Affairs, Forest Rights Act 2006 portal.",
+      "sourceURL": "https://forestrights.tribal.gov.in/fra-2006",
+      "verificationStatus": "Ministry of Tribal Affairs Forest Rights Act portal. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7253,
+      "cat": "Economy",
+      "topic": "Treasury Bills: discount and redemption",
+      "q": "A 91-day Treasury Bill with a face value of ₹100 is issued at ₹97.60 and redeemed at face value. Ignoring transaction costs, what is the investor's rupee return?",
+      "o": [
+        "₹1.40",
+        "₹2.40",
+        "₹3.60",
+        "₹97.60"
+      ],
+      "a": 1,
+      "difficulty": "Easy",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: B — ₹2.40. Treasury Bills are zero-coupon securities: they do not pay periodic interest. They are issued at a discount and redeemed at face value. The investor's gross return is therefore ₹100 − ₹97.60 = ₹2.40 per bill. Do not calculate a coupon payment; the difference between the issue price and maturity value is the return described in the RBI's T-bill guidance.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India, Government Securities: Treasury Bills FAQ.",
+      "sourceURL": "https://www.rbi.org.in/commonperson/English/Scripts/FAQs.aspx?Id=711",
+      "verificationStatus": "Reserve Bank of India Treasury Bills FAQ. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7254,
+      "cat": "Economy",
+      "topic": "Public finance: primary deficit",
+      "q": "The primary deficit of the government is calculated as:",
+      "o": [
+        "Fiscal deficit minus interest payments",
+        "Revenue deficit plus interest payments",
+        "Fiscal deficit plus capital receipts",
+        "Revenue expenditure minus tax revenue"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: A. Primary deficit is measured by subtracting interest payments from fiscal deficit. It indicates the government's current borrowing requirement after excluding the interest burden arising from past debt. It is not the same as revenue deficit, which compares revenue expenditure with revenue receipts. The Union Budget's explanatory notes state the relationship directly.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of India, Union Budget, explanatory note on primary deficit.",
+      "sourceURL": "https://www.indiabudget.gov.in/budget_archive/ub2004-05%28I%29/bag/bag7.htm",
+      "verificationStatus": "Government of India Union Budget explanatory note. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7255,
+      "cat": "Economy",
+      "topic": "Balance of Payments: current account components",
+      "q": "Under the RBI's presentation of India's Balance of Payments, which group of flows belongs to the current account?",
+      "o": [
+        "Goods, services, primary income and secondary income",
+        "Only foreign direct investment and portfolio investment",
+        "Only changes in foreign-exchange reserves",
+        "Capital transfers and acquisition of non-produced assets only"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: A. The RBI explains that the current account includes flows of goods, services, primary income and secondary income between residents and non-residents. Direct investment, portfolio investment and reserve assets are recorded in the financial account, not the current account. Capital transfers and transactions in non-produced non-financial assets belong to the capital account. This distinction helps interpret a current-account deficit correctly.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India, Balance of Payments of India: explanatory notes.",
+      "sourceURL": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=13013",
+      "verificationStatus": "Reserve Bank of India Balance of Payments explanatory notes. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7256,
+      "cat": "Computer",
+      "topic": "Excel: absolute cell reference",
+      "q": "In Microsoft Excel, which reference will continue to point to cell A1 when a formula is copied to another cell?",
+      "o": [
+        "A1",
+        "$A$1",
+        "A$1",
+        "$A1"
+      ],
+      "a": 1,
+      "difficulty": "Easy",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: B — $A$1. The dollar sign locks both the column A and row 1, so the reference remains fixed when the formula is copied or filled elsewhere. A1 is relative, A$1 locks only the row, and $A1 locks only the column. These mixed references can be useful when a formula should adjust in one direction but remain fixed in the other.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Microsoft Support, Switch between relative and absolute references.",
+      "sourceURL": "https://support.microsoft.com/en-us/excel/switch-between-relative-and-absolute-references",
+      "verificationStatus": "Microsoft Support Excel documentation. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7257,
+      "cat": "Computer",
+      "topic": "Excel: COUNTIF function",
+      "q": "A clerk needs to count cells in C2:C40 whose value equals the text “Paid”. Which Excel function is designed for a single criterion?",
+      "o": [
+        "COUNT",
+        "COUNTIF",
+        "COUNTIFS",
+        "COUNTA"
+      ],
+      "a": 1,
+      "difficulty": "Easy",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: B — COUNTIF. Its syntax is COUNTIF(range, criteria), and it counts cells in one range that meet a single condition. COUNT counts numeric values, COUNTA counts non-empty cells, and COUNTIFS is used when multiple criteria across one or more ranges must be satisfied. For example, =COUNTIF(C2:C40,\"Paid\") counts cells whose value matches the Paid criterion.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Microsoft Support, Use the COUNTIF function in Microsoft Excel.",
+      "sourceURL": "https://support.microsoft.com/en-us/excel/get-started/use-the-countif-function-in-microsoft-excel",
+      "verificationStatus": "Microsoft Support Excel documentation. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7258,
+      "cat": "Computer",
+      "topic": "Word: mail-merge data source",
+      "q": "In a Microsoft Word mail merge, what is the name for the external list (for example, an Excel sheet) that stores each recipient's name and address?",
+      "o": [
+        "Main document",
+        "Data source",
+        "Theme file",
+        "Template gallery"
+      ],
+      "a": 1,
+      "difficulty": "Easy",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: B — data source. In mail merge, the main document contains the common text and merge fields, while the data source stores the individual recipient records, such as names and addresses. Word can use a properly formatted Excel spreadsheet or another supported list as the data source. Each row supplies the recipient-specific information inserted into the merged output.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Microsoft Support, Data sources you can use for a mail merge.",
+      "sourceURL": "https://support.microsoft.com/en-us/word/data-sources-you-can-use-for-a-mail-merge",
+      "verificationStatus": "Microsoft Support Word documentation. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7259,
+      "cat": "English",
+      "topic": "Inversion after 'No sooner'",
+      "q": "Which option correctly rewrites “The officer had no sooner signed the register than the visitors entered” by placing “No sooner” at the beginning?",
+      "o": [
+        "No sooner the officer had signed the register than the visitors entered",
+        "No sooner had the officer signed the register than the visitors entered",
+        "No sooner did the officer had signed the register than the visitors entered",
+        "No sooner has the officer signed the register than the visitors entered"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Secretariat LDA",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: B. When “No sooner” is moved to the beginning for emphasis, formal English uses inversion: the auxiliary “had” comes before the subject, followed by the past participle “signed”. The fixed pairing is “no sooner … than”. Option A leaves the subject before the auxiliary, option C incorrectly combines “did” with “had”, and option D changes the tense to present perfect.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary, English Grammar Today: No sooner.",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/no-sooner",
+      "verificationStatus": "Cambridge English Grammar Today explanation of front-position inversion after no sooner. Checked 2026-11-16; original practice, not an official PYQ."
+    },
+    {
+      "id": 7260,
+      "cat": "English",
+      "topic": "Quantifiers: less with uncountable nouns",
+      "q": "Choose the correct completion: “The new file contains ____ information than the previous file.”",
+      "o": [
+        "fewer",
+        "less",
+        "few",
+        "many"
+      ],
+      "a": 1,
+      "difficulty": "Easy",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Correct answer: B — less. “Information” is an uncountable noun, so “less information” is the standard form when comparing amounts. “Fewer” is used with countable plural nouns such as applications or files. “Few” and “many” do not fit the comparative structure of this sentence. The countable/uncountable distinction is the key to selecting the correct quantifier.",
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. British Council LearnEnglish, Quantifiers.",
+      "sourceURL": "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/quantifiers",
+      "verificationStatus": "British Council LearnEnglish grammar reference. Checked 2026-11-16; original practice, not an official PYQ."
+    }
+  ]
+}

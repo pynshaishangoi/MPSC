@@ -1,7 +1,7 @@
 {
   "subject": "Indian Polity",
   "date": "2026-11-03",
-  "questionCount": 76,
+  "questionCount": 83,
   "coverage": "All active Polity and Polity • PYQ IDs in the 3 November 2026 question-bank snapshot, including twelve new original practice questions.",
   "explanations": {
     "1": {
@@ -903,8 +903,80 @@
           "url": "https://www.legislative.gov.in/"
         }
       ]
+    },
+    "7238": {
+      "title": "Article 72: President's clemency power",
+      "overview": "Article 72 gives the President of India constitutional power to grant pardons and other forms of clemency in specified categories of cases.",
+      "context": "The provision appears in Part V of the Constitution, dealing with the Union executive. It operates alongside the Governor's power under Article 161.",
+      "who": "The President exercises the power under Article 72, acting within the constitutional framework governing executive decisions.",
+      "what": "Article 72 covers court-martial cases, offences within the Union's executive power, and all cases in which a sentence of death has been imposed. It permits pardon, reprieve, respite, remission, suspension and commutation as specified.",
+      "why": "Clemency provides an executive safeguard in exceptional cases and allows consideration of circumstances beyond the ordinary judicial process.",
+      "significance": "It is a frequently tested distinction between the President's Article 72 power and the Governor's Article 161 power.",
+      "exam": "Article 72 = President; Article 161 = Governor. The Governor may suspend, remit or commute a death sentence but cannot grant a pardon for it.",
+      "source": "Legislative Department, Constitution of India, Article 72",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+    },
+    "7239": {
+      "title": "Tenth Schedule: anti-defection law",
+      "overview": "The Tenth Schedule contains the constitutional anti-defection provisions governing disqualification of members of Parliament and State Legislatures.",
+      "context": "It was inserted by the Constitution (Fifty-second Amendment) Act, 1985. The Constitution (Ninety-first Amendment) Act, 2003 later changed aspects of the scheme, including the removal of the split exception.",
+      "who": "The Speaker or Chairman of the relevant House decides questions of disqualification under the Schedule, subject to judicial review.",
+      "what": "Grounds include voluntarily giving up membership of the political party or voting/abstaining contrary to a party direction without prior permission and without condonation within the prescribed period. The Schedule also addresses independent and nominated members and a qualifying merger.",
+      "why": "The law seeks to discourage political defections that undermine the stability and integrity of legislative representation.",
+      "significance": "It is a central constitutional mechanism for party discipline, though its operation and adjudication have been the subject of judicial interpretation.",
+      "exam": "Anti-defection = Tenth Schedule. The 52nd Amendment inserted it; the 91st Amendment removed the split exception. Do not confuse it with the Eighth Schedule (languages).",
+      "source": "Legislative Department, Constitution of India, Tenth Schedule",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+    },
+    "7240": {
+      "title": "Article 262: inter-State river-water disputes",
+      "overview": "Article 262 empowers Parliament to create a legal mechanism for adjudicating disputes concerning the use, distribution or control of waters of inter-State rivers and river valleys.",
+      "context": "Water disputes can involve multiple States sharing a river basin. The Constitution therefore provides a specific route for Parliament to legislate on their adjudication.",
+      "who": "Parliament may enact the law; the resulting statutory process determines how the dispute is examined and resolved.",
+      "what": "Clause (1) permits Parliament to provide by law for adjudication of such disputes. Clause (2) permits Parliament to provide that neither the Supreme Court nor another court shall exercise jurisdiction over the disputes covered by that law.",
+      "why": "A river system crosses State boundaries, so a constitutional mechanism is needed to address competing State claims and avoid fragmented proceedings.",
+      "significance": "Article 262 is the constitutional basis for central legislation on inter-State river-water disputes.",
+      "exam": "Article 262 = inter-State river-water disputes. Article 280 = Finance Commission. Article 300A = property.",
+      "source": "Legislative Department, Constitution of India, Article 262",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+    },
+    "7241": {
+      "title": "Article 360: Financial Emergency",
+      "overview": "Article 360 authorises the President to proclaim a Financial Emergency if the financial stability or credit of India or any part of its territory is threatened.",
+      "context": "The Constitution distinguishes a Financial Emergency from a National Emergency and a State constitutional breakdown.",
+      "who": "The President issues the proclamation under Article 360, subject to the constitutional requirements for proclamation and parliamentary approval.",
+      "what": "A Financial Emergency may be proclaimed where the financial stability or credit of India, or any part of its territory, is threatened. The Constitution also provides for directions concerning financial propriety and specified salary-related matters.",
+      "why": "The provision is designed to address a serious threat to the financial stability or credit of the Union or a part of the country.",
+      "significance": "It is one of the three emergency provisions commonly studied with Articles 352 and 356.",
+      "exam": "Article 352 = National Emergency; Article 356 = failure of constitutional machinery in a State; Article 360 = Financial Emergency.",
+      "source": "Legislative Department, Constitution of India, Article 360",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+    },
+    "7242": {
+      "title": "Article 151(2): State CAG reports",
+      "overview": "Article 151(2) sets out how the Comptroller and Auditor General's reports relating to the accounts of a State are formally placed before the State Legislature.",
+      "context": "The CAG audits public accounts and reports findings to the constitutional authority specified for the Union or the State.",
+      "who": "For a State, the report is submitted to the Governor, who causes it to be laid before the Legislature of the State.",
+      "what": "Article 151(1) deals with Union reports submitted to the President for laying before each House of Parliament. Article 151(2) deals with State reports submitted to the Governor for laying before the State Legislature.",
+      "why": "The reporting route ensures that audit findings enter the appropriate elected legislature's oversight process.",
+      "significance": "It links constitutional audit with legislative financial accountability at both Union and State levels.",
+      "exam": "Article 151(1) = President and Parliament; Article 151(2) = Governor and State Legislature.",
+      "source": "Legislative Department, Constitution of India, Article 151",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+    },
+    "7243": {
+      "title": "Article 105: privileges of Parliament",
+      "overview": "Article 105 concerns the powers, privileges and immunities of the Houses of Parliament, their members and committees.",
+      "context": "The Constitution separately provides for parliamentary privileges and privileges of State Legislatures.",
+      "who": "The provision applies to each House of Parliament and its members and committees, within the constitutional and legal framework.",
+      "what": "Article 105 addresses freedom of speech in Parliament and other powers, privileges and immunities. Article 194 is the corresponding provision for State Legislatures.",
+      "why": "Privileges protect the ability of legislatures to debate, deliberate and perform their constitutional functions without improper interference.",
+      "significance": "The provision is important for understanding legislative independence and the limits of parliamentary privilege.",
+      "exam": "Article 105 = Parliament; Article 194 = State Legislatures. Article 102 concerns disqualification of members of Parliament.",
+      "source": "Legislative Department, Constitution of India, Articles 105 and 194",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
     }
   },
   "explanationSourceVersion": "Constitution of India, Legislative Department, Ministry of Law and Justice, published 23 December 2025 (text as on November 2025); topic-specific official CAG, ECI, Finance Commission, Panchayati Raj, MoHUA and Rajya Sabha sources where relevant.",
-  "updatedAt": "2026-11-04"
+  "updatedAt": "2026-11-16"
 }
