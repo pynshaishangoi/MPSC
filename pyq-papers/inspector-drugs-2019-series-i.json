@@ -7,9 +7,9 @@
   "date": "2019-07-05",
   "series": "III",
   "totalQuestions": 175,
-  "transcribedQuestions": 169,
+  "transcribedQuestions": 159,
   "complete": false,
-  "transcriptionNote": "First-pass transcription now covers Q1–175. Q53, Q54, Q56, Q59, Q60, Q64, Q67, Q68, Q72, Q74, Q80, Q82, Q92, Q109, Q130 and Q141 remain flagged for source-image/formula verification. No answer key is supplied or invented. Full end-to-end visual verification is still required.",
+  "transcriptionNote": "First-pass transcription now covers Q1–175. Sixteen questions (Q53, Q54, Q56, Q59, Q60, Q64, Q67, Q68, Q72, Q74, Q80, Q82, Q92, Q109, Q130 and Q141) remain flagged for source-image/formula verification. No answer key is supplied or invented. Full end-to-end visual verification is still required.",
   "questions": [
     {
       "number": 1,
