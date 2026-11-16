@@ -298,14 +298,30 @@
       "date": "2022-12-17",
       "series": "I",
       "totalQuestions": 150,
-      "transcribedQuestions": 0,
+      "transcribedQuestions": 131,
       "complete": false,
-      "status": "queued",
+      "status": "in_progress",
       "sourceFileName": "17122022MPSPRELIMS.pdf",
       "sourcePageCount": 170,
-      "questionsPath": null,
+      "questionsPath": "pyq-papers/mps-prelims-2022-agriculture-series-ii.json",
       "answerKeyStatus": "not_verified",
-      "notes": ""
+      "notes": "The PDF is a compilation of multiple subject booklets, not one single 150-question paper. Agriculture booklet (pages 1–9) first-pass transcribed; 19 items flagged. Commerce and other subject booklets later in the same PDF remain to be transcribed and counted.",
+      "paperParts": [
+        {
+          "part": "Agriculture — Series II",
+          "totalQuestions": 150,
+          "transcribedQuestions": 131,
+          "questionsPath": "pyq-papers/mps-prelims-2022-agriculture-series-ii.json",
+          "status": "in_progress"
+        },
+        {
+          "part": "Additional subject booklets in the same PDF",
+          "totalQuestions": null,
+          "transcribedQuestions": 0,
+          "questionsPath": null,
+          "status": "queued"
+        }
+      ]
     },
     {
       "id": "meghalaya-pyq-016",
