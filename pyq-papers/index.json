@@ -29,14 +29,14 @@
       "date": "2025-09-13",
       "series": "I",
       "totalQuestions": 150,
-      "transcribedQuestions": 0,
+      "transcribedQuestions": 75,
       "complete": false,
-      "status": "queued",
+      "status": "in_progress",
       "sourceFileName": "[LDA {SECTT} MAY 2025].pdf",
       "sourcePageCount": 20,
-      "questionsPath": null,
+      "questionsPath": "pyq-papers/lda-secretariat-2025-series-i.json",
       "answerKeyStatus": "not_verified",
-      "notes": ""
+      "notes": "Questions 1–75 transcribed; questions 76–150 pending."
     },
     {
       "id": "meghalaya-pyq-003",
