@@ -147,15 +147,46 @@
       "year": "2024",
       "date": "2024-07-06",
       "series": "I",
-      "totalQuestions": 150,
-      "transcribedQuestions": 97,
+      "totalQuestions": 300,
+      "transcribedQuestions": 146,
       "complete": false,
       "status": "in_progress",
       "sourceFileName": "06072024[INV DH(Jan-2024)].pdf",
       "sourcePageCount": 45,
       "questionsPath": "pyq-papers/investigator-housing-2024-series-i.json",
       "answerKeyStatus": "not_verified",
-      "notes": "First-pass transcription covers Q1–100. Four questions need source-image verification. Remaining subject section questions Q101–150 pending."
+      "notes": "The PDF contains Part A (75 questions) and three alternative Part B subject sets (Statistics, Economics and Mathematics), each 75 questions. All 300 printed question entries are being transcribed; candidates answer 150 (Part A plus one optional subject). Part A first pass through Q75 and Statistics through Q150 are entered; Economics and Mathematics pending. Several scan/formula flags remain.",
+      "examQuestionCount": 150,
+      "paperParts": [
+        {
+          "part": "Part A — General English & General Knowledge",
+          "totalQuestions": 75,
+          "transcribedQuestions": 72,
+          "questionsPath": "pyq-papers/investigator-housing-2024-series-i.json",
+          "status": "in_progress"
+        },
+        {
+          "part": "Part B — Statistics (optional)",
+          "totalQuestions": 75,
+          "transcribedQuestions": 74,
+          "questionsPath": "pyq-papers/investigator-housing-2024-series-i.json",
+          "status": "in_progress"
+        },
+        {
+          "part": "Part B — Economics (optional)",
+          "totalQuestions": 75,
+          "transcribedQuestions": 0,
+          "questionsPath": null,
+          "status": "queued"
+        },
+        {
+          "part": "Part B — Mathematics (optional)",
+          "totalQuestions": 75,
+          "transcribedQuestions": 0,
+          "questionsPath": null,
+          "status": "queued"
+        }
+      ]
     },
     {
       "id": "meghalaya-pyq-009",
