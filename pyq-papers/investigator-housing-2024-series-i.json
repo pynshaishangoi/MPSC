@@ -6,10 +6,10 @@
   "year": "2024",
   "date": "2024-07-06",
   "series": "I",
-  "totalQuestions": 150,
-  "transcribedQuestions": 97,
+  "totalQuestions": 300,
+  "transcribedQuestions": 145,
   "complete": false,
-  "transcriptionNote": "First-pass transcription covers Q1–100 (General English, General Knowledge and the beginning of Statistics). Q53, Q78, Q93 and Q98 are flagged for source-image verification because an option or formula is unclear. Questions 101–150 (remaining Statistics/Economics/Mathematics subject sections) remain pending. No answer key supplied or invented.",
+  "transcriptionNote": "First-pass transcription includes Part A Q1–75 and Statistics option Q76–150. The same source PDF also contains alternative Economics and Mathematics sections, each numbered 76–150, still pending transcription. Q53, Q78, Q93, Q98 and Q130 are flagged for source-image verification. No answer key supplied or invented.",
   "questions": [
     {
       "number": 1,
@@ -921,7 +921,8 @@
         "None of the above"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 77,
@@ -933,7 +934,8 @@
         "None of the above"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 78,
@@ -945,7 +947,8 @@
         "None of the above"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "needs_source_visual_check"
+      "transcriptionStatus": "needs_source_visual_check",
+      "subject": "Statistics"
     },
     {
       "number": 79,
@@ -957,7 +960,8 @@
         "All of the above"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 80,
@@ -969,7 +973,8 @@
         "Only two equations"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 81,
@@ -981,7 +986,8 @@
         "All of the above"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 82,
@@ -993,7 +999,8 @@
         "All of the above"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 83,
@@ -1005,7 +1012,8 @@
         "Nominal"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 84,
@@ -1017,7 +1025,8 @@
         "All of the above"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 85,
@@ -1029,7 +1038,8 @@
         "None of the above"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 86,
@@ -1041,7 +1051,8 @@
         "Decreases"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 87,
@@ -1053,7 +1064,8 @@
         "HM"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 88,
@@ -1065,7 +1077,8 @@
         "4.5"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 89,
@@ -1077,7 +1090,8 @@
         "None of (A) and (B)"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 90,
@@ -1089,7 +1103,8 @@
         "Lower limit and upper limit both"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 91,
@@ -1101,7 +1116,8 @@
         "Quartile"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 92,
@@ -1113,7 +1129,8 @@
         "AM > GM > HM"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 93,
@@ -1125,7 +1142,8 @@
         "100"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "needs_source_visual_check"
+      "transcriptionStatus": "needs_source_visual_check",
+      "subject": "Statistics"
     },
     {
       "number": 94,
@@ -1137,7 +1155,8 @@
         "Graph"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 95,
@@ -1149,7 +1168,8 @@
         "Origin"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 96,
@@ -1161,7 +1181,8 @@
         "None of the above"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 97,
@@ -1173,7 +1194,8 @@
         "1.5"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 98,
@@ -1185,7 +1207,8 @@
         "[option D unclear in OCR]"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "needs_source_visual_check"
+      "transcriptionStatus": "needs_source_visual_check",
+      "subject": "Statistics"
     },
     {
       "number": 99,
@@ -1197,7 +1220,8 @@
         "None of the above"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
     },
     {
       "number": 100,
@@ -1209,7 +1233,659 @@
         "None of the above"
       ],
       "answerIndex": null,
+      "transcriptionStatus": "transcribed",
+      "subject": "Statistics"
+    },
+    {
+      "number": 101,
+      "text": "Which measure of dispersion can be calculated in case of open-end intervals?",
+      "options": [
+        "Range",
+        "Standard deviation",
+        "Coefficient of variation",
+        "Quartile deviation"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 102,
+      "text": "Mean deviation is minimum when deviations are taken from",
+      "options": [
+        "Mean",
+        "Median",
+        "Mode",
+        "Zero"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 103,
+      "text": "The frequency distribution x: 12, 17, 24, 36, 45, 48, 52; f: 2, 5, 3, 8, 9, 6, 1 is classified as",
+      "options": [
+        "Continuous distribution",
+        "Discrete distribution",
+        "Cumulative frequency distribution",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 104,
+      "text": "For a symmetrical distribution, the coefficient of skewness is",
+      "options": [
+        "1",
+        "3",
+        "0",
+        "−1"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 105,
+      "text": "The first moment about origin is",
+      "options": [
+        "Variance",
+        "Mean",
+        "Standard deviation",
+        "Raw moment"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 106,
+      "text": "Absence of symmetry in a distribution is called",
+      "options": [
+        "Kurtosis",
+        "Skewness",
+        "Dispersion",
+        "Both (A) and (B)"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 107,
+      "text": "The vertical axis in case of an ogive shows",
+      "options": [
+        "Cumulative frequencies",
+        "Absolute frequencies",
+        "Frequency densities",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 108,
+      "text": "Classical probability is measured in terms of",
+      "options": [
+        "An absolute value",
+        "Ratio",
+        "Both (A) and (B)",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 109,
+      "text": "The definition of statistical probability was originally given by",
+      "options": [
+        "De Moivre",
+        "Laplace",
+        "Von Mises",
+        "Feller"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 110,
+      "text": "An event consisting of those elements which are not in A is called",
+      "options": [
+        "Primary event",
+        "Derived event",
+        "Simple event",
+        "Complementary event"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 111,
+      "text": "The probability of the intersection of two mutually exclusive events is always",
+      "options": [
+        "Infinity",
+        "Zero",
+        "One",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 112,
+      "text": "If A is an event, the conditional probability of A, given A, is equal to",
+      "options": [
+        "Zero",
+        "One",
+        "Infinity",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 113,
+      "text": "In India, the collection of vital statistics started for the first time in",
+      "options": [
+        "1896",
+        "1898",
+        "1946",
+        "1886"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 114,
+      "text": "Vital statistics is mainly concerned with",
+      "options": [
+        "Births",
+        "Deaths",
+        "Marriages",
+        "All of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 115,
+      "text": "At State level, the registration of vital statistics is carried by",
+      "options": [
+        "Director of Economics and Statistics",
+        "Chief Registrar",
+        "Both (A) and (B)",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 116,
+      "text": "Sample Registration System for recording of births and deaths came into operation in rural areas in the year",
+      "options": [
+        "1967",
+        "1969",
+        "1946",
+        "1964"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 117,
+      "text": "A population maintaining a constant growth rate is said to be",
+      "options": [
+        "Stable population",
+        "Stationary population",
+        "Mobile population",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 118,
+      "text": "Vital statistics are expressed in terms of",
+      "options": [
+        "Percentages",
+        "Per thousand",
+        "Per person",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 119,
+      "text": "The child-bearing age in India is",
+      "options": [
+        "20–24 years",
+        "15–49 years",
+        "25–35 years",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 120,
+      "text": "Death rate obtained for a segment of population is known as",
+      "options": [
+        "Specific death rate",
+        "Stationary death rate",
+        "Both (A) and (B)",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 121,
+      "text": "The vital index for population growth was propounded by",
+      "options": [
+        "B. Benjamin",
+        "G. Barclay",
+        "Raymond Pearl",
+        "None of them"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 122,
+      "text": "Complete count of the heads of people of a country in vital statistics is called",
+      "options": [
+        "Census",
+        "Demography",
+        "Statistics",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 123,
+      "text": "There are ___ components of a time series.",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "2"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 124,
+      "text": "Irregular variations in a time series are caused by",
+      "options": [
+        "Strikes",
+        "Floods",
+        "Epidemics",
+        "All of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 125,
+      "text": "The terms “prosperity”, “recession”, “depression” and “recovery” are attached with",
+      "options": [
+        "Secular trends",
+        "Seasonal fluctuations",
+        "Cyclic movements",
+        "Irregular variations"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 126,
+      "text": "Moving average method of fitting trend in a time series data removes the effect of",
+      "options": [
+        "Long-term movements",
+        "Short-term movements",
+        "Cyclic variations",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 127,
+      "text": "For Poisson distribution",
+      "options": [
+        "Mean = variance",
+        "Mean > variance",
+        "Mean < variance",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 128,
+      "text": "For Bernoulli distribution with probability p of a success and q of a failure, the relation between mean and variance that holds is",
+      "options": [
+        "Mean < variance",
+        "Mean > variance",
+        "Mean = variance",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 129,
+      "text": "The outcome of tossing a coin is a",
+      "options": [
+        "Simple event",
+        "Mutually exclusive event",
+        "Complementary event",
+        "Compound event"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 130,
+      "text": "A bag contains 4 white and 3 black balls. Two draws of 2 balls are successively made. Find the probability of getting 2 white balls at the first draw and 2 black balls at the second draw when the balls drawn at first draw were replaced.",
+      "options": [
+        "3/7",
+        "1/7",
+        "[option C unclear in source OCR]",
+        "2/49"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 131,
+      "text": "Normal distribution was invented by",
+      "options": [
+        "Laplace",
+        "De Moivre",
+        "Gauss",
+        "All of them"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 132,
+      "text": "Simple random sample can be drawn from",
+      "options": [
+        "Chit method",
+        "Random number tables",
+        "Roulette wheel",
+        "All of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 133,
+      "text": "The error in a survey other than sampling error is called",
+      "options": [
+        "Formula error",
+        "Planning error",
+        "Non-sampling error",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 134,
+      "text": "If X and Y are two independent variables, then",
+      "options": [
+        "E(XY) = E(X)E(Y)",
+        "Cov(X, Y) = 0",
+        "Both (A) and (B)",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 135,
+      "text": "The number of all possible samples of size two from a population of 4 units is",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "6"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 136,
+      "text": "The probability that a leap year will have 53 Sundays is",
+      "options": [
+        "1/7",
+        "2/7",
+        "2/53",
+        "52/53"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 137,
+      "text": "If the standard deviation of a distribution is 15, then the quartile deviation of the distribution is",
+      "options": [
+        "15",
+        "12.5",
+        "10",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 138,
+      "text": "The empirical relationship between quartile deviation (QD) and standard deviation (SD) in a normal distribution is",
+      "options": [
+        "3QD = 2SD",
+        "4QD = 3SD",
+        "6QD = 5SD",
+        "5QD = 4SD"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 139,
+      "text": "If we draw a sample of size n from a given finite population of size N, then the total number of samples is",
+      "options": [
+        "N!/(N−n)!",
+        "N!/n!",
+        "N!/[n!(N−n)!]",
+        "n!(N−n)!"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 140,
+      "text": "In a moderately symmetric distribution, mean, median and mode are connected by",
+      "options": [
+        "Mean = 2 mode = median",
+        "Mode = 3 median − 4 mean",
+        "Mode = 3 median − 2 mean",
+        "Mode = 2 median − 4 mean"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 141,
+      "text": "A box contains 6 red balls, 7 green balls and 5 blue balls. Each ball is of different size. The probability that the red ball selected is the smallest red ball is",
+      "options": [
+        "1/18",
+        "1/3",
+        "1/6",
+        "2/3"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 142,
+      "text": "Find the mean of the given data: X = 15, 25, 35, 45, 55, 65, 75; F = 9, 13, 6, 4, 6, 2, 3.",
+      "options": [
+        "39.95",
+        "35.70",
+        "43.95",
+        "23.95"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 143,
+      "text": "The characteristic of a sample is",
+      "options": [
+        "Parameter",
+        "Statistic",
+        "Attribute",
+        "All of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 144,
+      "text": "Which of the following is not an assumption of the binomial distribution?",
+      "options": [
+        "All trials must be independent",
+        "Each trial must be classified as a success or a failure",
+        "The number of successes in the trial is counted",
+        "Probability of success is equal to 0.5 in all trials"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 145,
+      "text": "A card is drawn from a well-shuffled pack of playing cards. Find the probability that it is either a Diamond or a King.",
+      "options": [
+        "4/26",
+        "4/13",
+        "17/52",
+        "16/13"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 146,
+      "text": "Let A and B be two possible outcomes of an experiment and suppose P(A) = 0.4, P(A ∪ B) = 0.7 and P(B) = p. For A and B to be mutually exclusive, p is",
+      "options": [
+        "0.5",
+        "0.2",
+        "0.3",
+        "0.6"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 147,
+      "text": "Simple random sampling is also known as",
+      "options": [
+        "Quota sampling",
+        "Judgement sampling",
+        "Both (A) and (B)",
+        "None of the above"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 148,
+      "text": "A ___ sample is formed by selecting one unit at random and then selecting additional units at evenly spaced intervals until the sample has been formed.",
+      "options": [
+        "Stratified",
+        "Systematic",
+        "Judgement",
+        "Random"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 149,
+      "text": "Which is not a probability rate?",
+      "options": [
+        "Crude death rate",
+        "Infant mortality rate",
+        "Crude birth rate",
+        "Only (A) and (C)"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 150,
+      "text": "A variable is any characteristic which can assume ___ values.",
+      "options": [
+        "Different",
+        "Similar",
+        "Fixed",
+        "Assumed"
+      ],
+      "subject": "Statistics",
+      "answerIndex": null,
       "transcriptionStatus": "transcribed"
     }
-  ]
+  ],
+  "examQuestionCount": 150
 }
