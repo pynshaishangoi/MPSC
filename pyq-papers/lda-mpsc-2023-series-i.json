@@ -9,7 +9,7 @@
   "totalQuestions": 150,
   "transcribedQuestions": 150,
   "complete": false,
-  "transcriptionNote": "First-pass transcription of all 150 numbered questions. Questions 1–75 were transcribed in the first batch. Q25, Q61–62 and Q121–122, Q128–130, Q132, Q134, Q137, Q139 and Q141 require visual/logic review; Q134 equation signs and Q141 superscript notation are especially unclear. No answer key supplied.",
+  "transcriptionNote": "Questions 1–150 first-pass transcribed. Q25, Q61–62 and Q121–122, Q128–130, Q132, Q134, Q137, Q139, Q141 and Q150 require source image/logic review. No answer key supplied.",
   "questions": [
     {
       "number": 1,
@@ -913,6 +913,102 @@
     },
     {
       "number": 76,
+      "text": "Which of the following rulers issued copper coins named 'Uital'?",
+      "options": [
+        "Muhammad bin Tughlaq",
+        "Firoz Shah Tughlaq",
+        "Iltutmish",
+        "Quli Qutub Shah"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 77,
+      "text": "Which canyon is known as the 'Grand Canyon' of India or the Arizona of India?",
+      "options": [
+        "Gandikota Canyon",
+        "Colca Canyon",
+        "Copper Canyon",
+        "Gangani Canyon"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 78,
+      "text": "Population dividend means",
+      "options": [
+        "the total population of the world",
+        "migration of the people from poorer region to richer region",
+        "the total number of population above 65 years",
+        "the youthful age structure of a population"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 79,
+      "text": "Which of the given vitamins is a water-soluble vitamin?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin K",
+        "Vitamin D"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 80,
+      "text": "The Summer Olympics 2020 was hosted by Japan. The Summer Olympics 2024 was hosted by",
+      "options": [
+        "China",
+        "France",
+        "the United Kingdom",
+        "the United States"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 81,
+      "text": "Entomology is the science that studies",
+      "options": [
+        "the origin and history of technical and scientific terms",
+        "the behaviour of human beings",
+        "insects",
+        "the formation of rocks"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 82,
+      "text": "The tallest statue in the world, the Statue of Unity, is located near which dam?",
+      "options": [
+        "Bhakra Nangal Dam",
+        "Sardar Sarovar Dam",
+        "Tehri Dam",
+        "Hirakud Dam"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 83,
+      "text": "Grand Central Terminal, Park Avenue, New York is the world's",
+      "options": [
+        "highest railway station",
+        "longest railway station",
+        "largest railway station",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 84,
       "text": "The United Nations Framework Convention on Climate Change deals with",
       "options": [
         "reduction in fossil fuel usage",
@@ -924,7 +1020,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 77,
+      "number": 85,
       "text": "The only drone station in Meghalaya is located in",
       "options": [
         "East Khasi Hills",
@@ -936,7 +1032,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 78,
+      "number": 86,
       "text": "Which of the following countries is not a member of the Quadrilateral Security Dialogue (QSD or QUAD)?",
       "options": [
         "Australia",
@@ -948,7 +1044,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 79,
+      "number": 87,
       "text": "NASA's James Webb Space Telescope was launched into space on",
       "options": [
         "19th December, 2021",
@@ -960,7 +1056,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 80,
+      "number": 88,
       "text": "The unit of electrical resistance of a conductor is",
       "options": [
         "farad",
@@ -972,7 +1068,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 81,
+      "number": 89,
       "text": "Hockey was introduced in the Asian Games in",
       "options": [
         "1966 in Bangkok",
@@ -984,7 +1080,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 82,
+      "number": 90,
       "text": "Which treaty ended the Anglo-Sikh War?",
       "options": [
         "The Treaty of Amritsar",
@@ -996,7 +1092,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 83,
+      "number": 91,
       "text": "Rangaswamy Cup is associated with",
       "options": [
         "archery",
@@ -1008,7 +1104,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 84,
+      "number": 92,
       "text": "India's longest bridge, Dhola-Sadiya Bridge, was built over which tributary of the Brahmaputra River?",
       "options": [
         "Kameng River",
@@ -1020,7 +1116,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 85,
+      "number": 93,
       "text": "Which country launched the world's first nationwide 5G mobile network?",
       "options": [
         "Japan",
@@ -1032,7 +1128,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 86,
+      "number": 94,
       "text": "Who among the following inaugurated the 'Greater Sohra Water Supply Scheme' in Meghalaya?",
       "options": [
         "Shri Gajendra Singh Shekhawat",
@@ -1044,7 +1140,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 87,
+      "number": 95,
       "text": "In which year did the Goods and Services Tax (GST) come into effect in India?",
       "options": [
         "2014",
@@ -1056,7 +1152,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 88,
+      "number": 96,
       "text": "In which year did the game of lawn tennis originate?",
       "options": [
         "Birmingham",
@@ -1068,7 +1164,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 89,
+      "number": 97,
       "text": "Who introduced 'Green Army' for environmental conservation?",
       "options": [
         "Japan",
@@ -1080,7 +1176,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 90,
+      "number": 98,
       "text": "The first pico-satellite of India is",
       "options": [
         "GSAT-4",
@@ -1092,7 +1188,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 91,
+      "number": 99,
       "text": "The alliance among Brazil, Germany, India and Japan to support each other's bid for a permanent seat on the United Nations Security Council (UNSC) is called",
       "options": [
         "Alliance 4",
@@ -1104,7 +1200,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 92,
+      "number": 100,
       "text": "The 'Miyawaki method' is well known for",
       "options": [
         "promotion of commercial farming in arid and semi-arid areas",
@@ -1116,7 +1212,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 93,
+      "number": 101,
       "text": "Which State in India has the longest coastline?",
       "options": [
         "Tamil Nadu",
@@ -1128,7 +1224,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 94,
+      "number": 102,
       "text": "Who coined the slogan 'Inquilab Zindabad'?",
       "options": [
         "Maulana Hasrat Mohani",
@@ -1140,7 +1236,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 95,
+      "number": 103,
       "text": "Which is the first bank to introduce ATM in India?",
       "options": [
         "HDFC",
@@ -1152,7 +1248,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 96,
+      "number": 104,
       "text": "The philosophical study of beliefs and knowledge is better known as",
       "options": [
         "etymology",
@@ -1164,7 +1260,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 97,
+      "number": 105,
       "text": "Which Indian cricketer became the first woman to score a double century in Test cricket?",
       "options": [
         "Jhulan Goswami",
@@ -1176,7 +1272,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 98,
+      "number": 106,
       "text": "Who is the author of the book The Little Book of Encouragement?",
       "options": [
         "Dalai Lama",
@@ -1188,7 +1284,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 99,
+      "number": 107,
       "text": "The State Flower of Meghalaya is",
       "options": [
         "Cherry Blossom",
@@ -1200,7 +1296,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 100,
+      "number": 108,
       "text": "Which space agency launched its first civilian mission to space?",
       "options": [
         "NASA",
@@ -1212,7 +1308,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 101,
+      "number": 109,
       "text": "Birju Maharaj, who expired on 17th January, 2022, was an exponent of which Indian classical dance form?",
       "options": [
         "Kathakali",
@@ -1224,7 +1320,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 102,
+      "number": 110,
       "text": "Which social media platform launched a feature named 'Tip Jar' which enables users to send money to their favourite accounts?",
       "options": [
         "Facebook",
@@ -1236,7 +1332,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 103,
+      "number": 111,
       "text": "Which one of the following became the first State to table a paperless budget in India?",
       "options": [
         "Meghalaya",
@@ -1248,7 +1344,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 104,
+      "number": 112,
       "text": "Which one of the following is the first country to approve the Oxford-AstraZeneca COVID-19 vaccine?",
       "options": [
         "USA",
@@ -1260,7 +1356,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 105,
+      "number": 113,
       "text": "Parakram Diwas is observed to celebrate the birth anniversary of",
       "options": [
         "Atal Bihari Vajpayee",
@@ -1272,7 +1368,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 106,
+      "number": 114,
       "text": "Which State Government developed the world's largest floating solar project on Narmada River?",
       "options": [
         "Tamil Nadu",
@@ -1284,7 +1380,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 107,
+      "number": 115,
       "text": "National Youth Day is celebrated on",
       "options": [
         "7th January",
@@ -1296,7 +1392,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 108,
+      "number": 116,
       "text": "Where was the first major public appearance of Mahatma Gandhi in India in February 1916?",
       "options": [
         "Champaran",
@@ -1308,7 +1404,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 109,
+      "number": 117,
       "text": "When water freezes, its density",
       "options": [
         "increases",
@@ -1320,7 +1416,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 110,
+      "number": 118,
       "text": "The term URL used in internet technology stands for",
       "options": [
         "Unique Remote Locator",
@@ -1332,7 +1428,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 111,
+      "number": 119,
       "text": "India and Sri Lanka are divided by the",
       "options": [
         "Gibraltar Strait",
@@ -1344,7 +1440,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 112,
+      "number": 120,
       "text": "Which of the following is correct regarding Gross Domestic Savings in India?",
       "options": [
         "Contribution of the Household Sector is the largest",
@@ -1356,7 +1452,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 113,
+      "number": 121,
       "text": "Which of the following sports involves animals?",
       "options": [
         "Jallikattu",
@@ -1368,7 +1464,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 114,
+      "number": 122,
       "text": "'Sangai' festival is celebrated in which of the following Indian States?",
       "options": [
         "Manipur",
@@ -1380,7 +1476,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 115,
+      "number": 123,
       "text": "Avani Lekhara became the first Indian woman to win two Paralympic medals at the Tokyo Paralympics, 2020. Which of the following was her discipline?",
       "options": [
         "Badminton",
@@ -1392,7 +1488,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 116,
+      "number": 124,
       "text": "Chronologically arrange the following Indian-origin astronauts on the basis of their flying into space, starting with the first.",
       "options": [
         "Sunita Williams, Kalpana Chawla, Sirisha Bandla, Rakesh Sharma",
@@ -1404,7 +1500,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 117,
+      "number": 125,
       "text": "In a line of 45 students, Amit is 10th from the left end and Mary is 15th from the right end. How many students are between Amit and Mary?",
       "options": [
         "25",
@@ -1416,7 +1512,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 118,
+      "number": 126,
       "text": "Find the smaller angle made by an hour and minute hand at 10:20.",
       "options": [
         "170°",
@@ -1428,7 +1524,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 119,
+      "number": 127,
       "text": "If Sunita celebrated her wedding anniversary on Tuesday, 30th September, 1997, when will she celebrate her next wedding anniversary on the same day?",
       "options": [
         "Tuesday, 2003",
@@ -1440,7 +1536,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 120,
+      "number": 128,
       "text": "Four metal rods of lengths 78 cm, 104 cm, 117 cm and 169 cm are to be cut into parts of equal length. Each part must be as long as possible. The maximum number of pieces that can be obtained will be",
       "options": [
         "27",
@@ -1452,7 +1548,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 121,
+      "number": 129,
       "text": "In the series given below, a number is missing. Find the missing number: 91, 73, ?, 43, 31, 21.",
       "options": [
         "65",
@@ -1464,7 +1560,7 @@
       "transcriptionStatus": "needs_visual_or_logic_review"
     },
     {
-      "number": 122,
+      "number": 130,
       "text": "If in a certain code, E = 5, HOTEL = 12, then how will the word LAMB be represented?",
       "options": [
         "28",
@@ -1476,7 +1572,7 @@
       "transcriptionStatus": "needs_visual_or_logic_review"
     },
     {
-      "number": 123,
+      "number": 131,
       "text": "Pointing to a man in a photograph, Nisha said, 'He is the brother of the daughter of the wife of my husband.' How is the man in the photograph related to Nisha?",
       "options": [
         "Son",
@@ -1488,7 +1584,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 124,
+      "number": 132,
       "text": "A tourist covers half of her journey by train at 50 km/h, half of the remainder by bus at 30 km/h and the rest by cycle at 10 km/h. The average speed of the tourist during the journey is",
       "options": [
         "35 km/h",
@@ -1500,7 +1596,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 125,
+      "number": 133,
       "text": "In a certain code, '253' means 'books are old', '546' means 'man is old' and '378' means 'buy good books'. What stands for 'are' in that code?",
       "options": [
         "6",
@@ -1512,7 +1608,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 126,
+      "number": 134,
       "text": "Five friends are sitting on a bench. A is to the left of B but on the right of C. D is to the right of B but on the left of E. Who are sitting at the extremes of the bench?",
       "options": [
         "A and B",
@@ -1524,7 +1620,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 127,
+      "number": 135,
       "text": "A and B start walking from the same point. A goes North and covers 3 km, then turns right and covers 4 km. B goes West and covers 5 km and then turns right and covers 3 km. How far apart are they from each other?",
       "options": [
         "10 km",
@@ -1536,7 +1632,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 128,
+      "number": 136,
       "text": "A, B, C, D, E, F, G and H are sitting around a circle facing the centre. H is fourth to the left of B and second to the right of F. A is third to the left of C, who is not an immediate neighbour of F. G is second to the left of A. D is second to the right of E. Who is on the immediate right of F?",
       "options": [
         "A",
@@ -1548,7 +1644,7 @@
       "transcriptionStatus": "needs_visual_or_logic_review"
     },
     {
-      "number": 129,
+      "number": 137,
       "text": "Find the wrong number in the following number series: 72, 136, 168, 184, 192, 194, 198.",
       "options": [
         "198",
@@ -1560,7 +1656,7 @@
       "transcriptionStatus": "needs_visual_or_logic_review"
     },
     {
-      "number": 130,
+      "number": 138,
       "text": "Find the wrong number in the following number series: 21, 30, 37, 55, 85, 131, 197.",
       "options": [
         "131",
@@ -1572,7 +1668,7 @@
       "transcriptionStatus": "needs_visual_or_logic_review"
     },
     {
-      "number": 131,
+      "number": 139,
       "text": "The sum of the ages of a daughter and mother is 56 years. After four years, the age of the mother will be three times the age of the daughter. What is the age of the daughter and mother respectively?",
       "options": [
         "12 years, 41 years",
@@ -1584,7 +1680,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 132,
+      "number": 140,
       "text": "Father is aged three times more than his son Ronald. After 8 years, he would be two and a half times Ronald's age. After another 16 years, how many times would he be of Ronald's age?",
       "options": [
         "2 times",
@@ -1596,7 +1692,7 @@
       "transcriptionStatus": "needs_visual_or_logic_review"
     },
     {
-      "number": 133,
+      "number": 141,
       "text": "A total of 324 notes comprising ₹20 and ₹50 denominations make a sum of ₹12,450. The total number of ₹20 notes is",
       "options": [
         "144",
@@ -1608,7 +1704,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 134,
+      "number": 142,
       "text": "Select the correct combination of mathematical signs to replace the '*' signs and balance the following equation (symbols as printed in source).",
       "options": [
         "× + +",
@@ -1620,7 +1716,7 @@
       "transcriptionStatus": "needs_visual_or_logic_review"
     },
     {
-      "number": 135,
+      "number": 143,
       "text": "Johnny walked 25 m towards South. Then he turned to his left and walked 20 m. He then turned to his left and walked 25 m. He again turned to his right and walked 15 m. At what distance is he from his starting point and in which direction?",
       "options": [
         "35 m, East",
@@ -1632,7 +1728,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 136,
+      "number": 144,
       "text": "Given below are two statements followed by two conclusions. Consider the statements true even if they seem to be at variance with commonly known facts. Statements: I. Health Insurance in India caters only to the rich. II. Health Insurance Sector should be regularized. Conclusions: I. Health Insurance Sector should be nationalized. II. Health Insurance is not required for the poor. Which conclusion follows?",
       "options": [
         "Neither conclusion I nor II follows",
@@ -1644,7 +1740,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 137,
+      "number": 145,
       "text": "Given below are three statements followed by two conclusions. Statements: I. All shoes are pens. II. Some pens are razors. III. Some razors are desks. Conclusions: I. Some desks are shoes. II. Some razors are shoes. Which conclusion(s) follow?",
       "options": [
         "Only conclusion I follows",
@@ -1656,7 +1752,7 @@
       "transcriptionStatus": "needs_visual_or_logic_review"
     },
     {
-      "number": 138,
+      "number": 146,
       "text": "Danny introduced Wilburn as the son of the only brother of his father's wife. How is Wilburn related to Danny?",
       "options": [
         "Cousin",
@@ -1668,7 +1764,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 139,
+      "number": 147,
       "text": "Select the related letters from the given alternatives: Bbc : cBB :: Llm : ?",
       "options": [
         "mlM",
@@ -1680,7 +1776,7 @@
       "transcriptionStatus": "needs_visual_or_logic_review"
     },
     {
-      "number": 140,
+      "number": 148,
       "text": "If 1st January is a Friday, then what is the first day of the month of March in a leap year?",
       "options": [
         "Tuesday",
@@ -1692,7 +1788,7 @@
       "transcriptionStatus": "transcribed"
     },
     {
-      "number": 141,
+      "number": 149,
       "text": "Which is the smallest in value among the following numbers? (Superscript notation in the scan is unclear.)",
       "options": [
         "2250",
@@ -1702,6 +1798,18 @@
       ],
       "answerIndex": null,
       "transcriptionStatus": "needs_visual_or_logic_review"
+    },
+    {
+      "number": 150,
+      "text": "Which is the smallest in value among the following numbers? (The superscript notation is unclear in the source scan.)",
+      "options": [
+        "2²⁵⁰",
+        "3¹⁵⁰",
+        "5¹⁰⁰",
+        "4²⁰⁰"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_visual_check"
     }
   ]
 }
