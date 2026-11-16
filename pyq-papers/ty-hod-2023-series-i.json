@@ -7,7 +7,7 @@
   "date": "2023-04-15",
   "series": "I",
   "totalQuestions": 50,
-  "transcriptionNote": "Question text and four options transcribed from the uploaded five-page original. Answer key was not supplied; answerIndex is null for all questions. Q23 option D is unclear in the scan and requires manual source recheck before treating this paper as fully verified.",
+  "transcriptionNote": "All 50 questions and four-option sets transcribed and visually checked against the five-page uploaded original, including the spelling options on page 3. No answer key was supplied; answerIndex is null for all questions.",
   "questions": [
     {
       "number": 1,
@@ -256,9 +256,9 @@
       "text": "Choose the correctly spelt word.",
       "options": [
         "Endurance",
-        "Endduerence",
+        "Ennduerence",
         "Enduerance",
-        "Aendenure"
+        "Aendenurze"
       ],
       "answerIndex": null
     },
@@ -280,7 +280,7 @@
         "Embarassmnt",
         "Embarrassment",
         "Embaerassment",
-        "Embarusrnent"
+        "Embarrusrnent"
       ],
       "answerIndex": null
     },
