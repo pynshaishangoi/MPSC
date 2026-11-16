@@ -281,14 +281,14 @@
       "date": "2023-05-20",
       "series": "I",
       "totalQuestions": 150,
-      "transcribedQuestions": 0,
+      "transcribedQuestions": 137,
       "complete": false,
-      "status": "queued",
+      "status": "in_progress",
       "sourceFileName": "20052023LDA(MPSC)23.pdf",
       "sourcePageCount": 12,
-      "questionsPath": null,
+      "questionsPath": "pyq-papers/lda-mpsc-2023-may-series-i.json",
       "answerKeyStatus": "not_verified",
-      "notes": ""
+      "notes": "First-pass transcription covers Q1–150. Thirteen questions flagged for source-image/diagram verification; no answer key invented."
     },
     {
       "id": "meghalaya-pyq-015",
