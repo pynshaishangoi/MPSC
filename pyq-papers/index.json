@@ -53,7 +53,7 @@
       "sourcePageCount": 20,
       "questionsPath": "pyq-papers/lda-mpsc-2023-series-i.json",
       "answerKeyStatus": "not_verified",
-      "notes": "All 150 numbered questions first-pass transcribed; several source/OCR and reasoning items flagged for verification. No answer key supplied."
+      "notes": "All 150 questions first-pass transcribed; source/OCR and reasoning items remain flagged for verification."
     },
     {
       "id": "meghalaya-pyq-004",
