@@ -7,9 +7,9 @@
   "date": "2019-07-05",
   "series": "III",
   "totalQuestions": 175,
-  "transcribedQuestions": 65,
+  "transcribedQuestions": 159,
   "complete": false,
-  "transcriptionNote": "First-pass transcription covers questions 1–75. Q53, Q54, Q56, Q59, Q60, Q64, Q67, Q68, Q72 and Q74 are flagged for source-image verification due to formula/scan uncertainty. Questions 76–175 (Pharmaceutical Science or Microbiology section) remain to be transcribed. No answer key supplied or invented.",
+  "transcriptionNote": "First-pass transcription now covers Q1–175. Sixteen questions (Q53, Q54, Q56, Q59, Q60, Q64, Q67, Q68, Q72, Q74, Q80, Q82, Q92, Q109, Q130 and Q141) remain flagged for source-image/formula verification. No answer key is supplied or invented. Full end-to-end visual verification is still required.",
   "questions": [
     {
       "number": 1,
@@ -907,6 +907,1206 @@
         "ΔABC ~ ΔEDF",
         "ΔABC ~ ΔDFE",
         "ΔABC ~ ΔFED"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 76,
+      "text": "Codeine Phosphate is classed in Schedule",
+      "options": [
+        "C₁",
+        "G",
+        "H₁",
+        "X"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 77,
+      "text": "Schedule F specifies the",
+      "options": [
+        "List of poisons",
+        "List of permitted colours",
+        "Life period of licence",
+        "Life period of drugs"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 78,
+      "text": "Manufacture for sale or stock or exhibit for sale or distribute of any drugs without a valid licence is violation of section",
+      "options": [
+        "18(a)",
+        "18(b)",
+        "18(c)",
+        "18(d)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 79,
+      "text": "Powers of Inspectors as per DCAR are conferred under section",
+      "options": [
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 80,
+      "text": "As per DCAS, tablets/capsules specified in Schedule X shall be packed in doses not exceeding",
+      "options": [
+        "75",
+        "25",
+        "100",
+        "50"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 81,
+      "text": "In India, vaccines are tested only at",
+      "options": [
+        "Central Drugs Testing Laboratory, Kolkata",
+        "Pasteur Institute of India, Coonoor",
+        "Central Research Institute, Kasauli",
+        "Central Drugs Testing Laboratory, Thane"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 82,
+      "text": "The DCAR specifies the penalty for not keeping documents etc. and non-disclosure of information under",
+      "options": [
+        "Section 18",
+        "Section 28-A",
+        "Rule 65",
+        "Rule 66"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 83,
+      "text": "The minimum required area for operation of a Blood Bank for Whole Human Blood IP as per DCAR is",
+      "options": [
+        "50 sq. m",
+        "80 sq. m",
+        "100 sq. m",
+        "120 sq. m"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 84,
+      "text": "A colour label shall be put on every bag containing Whole Human Blood IP. For Group O blood, the colour of the label is",
+      "options": [
+        "Yellow",
+        "Blue",
+        "Pink",
+        "White"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 85,
+      "text": "Alprazolam is a Schedule",
+      "options": [
+        "C-Drug",
+        "C₁-Drug",
+        "H₁-Drug",
+        "X-Drug"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 86,
+      "text": "Every Drugs Inspector shall be deemed to be a public servant within the meaning of which section of the DCAR?",
+      "options": [
+        "18",
+        "20",
+        "21",
+        "22"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 87,
+      "text": "Diseases and ailments (by whatever name described) which a drug may not purport to prevent or cure or make claims to prevent or cure are specified in Schedule",
+      "options": [
+        "C",
+        "F",
+        "G",
+        "J"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 88,
+      "text": "A drug shall be deemed to be spurious as per DCAR",
+      "options": [
+        "If it is coloured, coated, powdered or polished to conceal the damage or made to appear better or of greater therapeutic value than it really is",
+        "If it consists in whole or in part of any filthy, putrid or decomposed substance",
+        "If it has been substituted wholly or in part by another drug or substance",
+        "All the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 89,
+      "text": "The DCAR stipulates requirements of premises, plant and equipment for pharmaceutical products for GMP in Schedule",
+      "options": [
+        "F",
+        "M",
+        "P",
+        "Q"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 90,
+      "text": "The Chairman of the Drugs Technical Advisory Board is the",
+      "options": [
+        "Drugs Controller General of India",
+        "Director General of Health Services",
+        "Director of Central Drugs Testing Laboratory",
+        "President of Pharmacy Council of India"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 91,
+      "text": "Conventional unidirectional airflow system where Grade-A condition is required to have a guidance airflow velocity of",
+      "options": [
+        "0.22 to 0.80 m/s",
+        "0.36 to 0.54 m/s",
+        "0.22 to 0.46 m/s",
+        "0.17 to 0.57 m/s"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 92,
+      "text": "In the manufacture of sterile preparation, the maximum permitted airborne particle concentration (per m³, greater than or equal to the tabulated size) for Grade B is shown in the source table. [Table values require image verification.]",
+      "options": [
+        "[Table option A]",
+        "[Table option B]",
+        "[Table option C]",
+        "[Table option D]"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 93,
+      "text": "The licence issued for operation of a Blood Bank is signed by",
+      "options": [
+        "State Licensing Authority",
+        "Central Licensing Approving Authority",
+        "Chief Medical Officer",
+        "Both (A) and (B)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 94,
+      "text": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 95,
+      "text": "The Government Opium Factory is situated at",
+      "options": [
+        "Ghazipur",
+        "Lucknow",
+        "Srinagar",
+        "Kolkata"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 96,
+      "text": "Which of the following medical devices has not yet been notified as drugs?",
+      "options": [
+        "Cardiac stent",
+        "Disposable hypodermic syringe",
+        "Intraocular lenses",
+        "Clinical thermometer"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 97,
+      "text": "Sale of which of the following category of drugs does not require a drugs licence?",
+      "options": [
+        "Ayurvedic drugs",
+        "Homeopathic drugs",
+        "Both (A) and (B)",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 98,
+      "text": "Adduce of evidence when aggrieved or not satisfied with the test report of the Government Analyst is permitted under which section of the DCAR?",
+      "options": [
+        "25-A",
+        "25-B",
+        "25-C",
+        "25-D"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 99,
+      "text": "In public interest, the Central Government is empowered to regulate, restrict or prohibit manufacture etc. of drugs and cosmetics under which of the following sections of the DCAR?",
+      "options": [
+        "26-A",
+        "26-B",
+        "26-C",
+        "26-D"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 100,
+      "text": "As per DCC Guidelines, “Liquid preparations showing presence of fungus” is a defect categorised in category",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 101,
+      "text": "As per DCC Guidelines, “Broken or Chipped tablets” is a defect categorised in category",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 102,
+      "text": "In a Blood Bank, the pilot tube of a blood bag is to be preserved for how many days?",
+      "options": [
+        "5 days",
+        "6 days",
+        "7 days",
+        "8 days"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 103,
+      "text": "Dispensing of drugs by an unregistered person is prohibited under what section of the Pharmacy Act, 1948?",
+      "options": [
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 104,
+      "text": "Subsequent registration of a registered pharmacist registered in another state is permitted under what section of the Pharmacy Act, 1948?",
+      "options": [
+        "32(a)",
+        "32(b)",
+        "32(c)",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 105,
+      "text": "One Registered Pharmacist to represent each State Government to the Pharmacy Council of India is nominated under what section of the Pharmacy Act, 1948?",
+      "options": [
+        "3(h)",
+        "4(h)",
+        "5(h)",
+        "5(h)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 106,
+      "text": "As per PPR-2015, the punishment for giving the Pharmacist Registration Certificate at more than one pharmacy is",
+      "options": [
+        "Fine up to five hundred rupees",
+        "Imprisonment up to six months",
+        "Removal of name from the register",
+        "Both (A) and (B)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 107,
+      "text": "What type of substances are alkaloids?",
+      "options": [
+        "Acid",
+        "Neutral",
+        "Chemical",
+        "Basic nitrogen"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 108,
+      "text": "The most abundant protein in the human body is",
+      "options": [
+        "Myosin",
+        "Albumin",
+        "Haemoglobin",
+        "Collagen"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 109,
+      "text": "The pore size range of a membrane filter is",
+      "options": [
+        "0.15–0.35 µm",
+        "0.22–0.45 µm",
+        "0.50–0.75 µm",
+        "0.35–0.55 µm"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 110,
+      "text": "Which of the following statements is accurate in explaining why Gram-negative bacteria are generally more resistant to penicillin than Gram-positive bacteria?",
+      "options": [
+        "Gram-negative bacteria have a thicker wall",
+        "Gram-negative bacteria have an outer hydrophilic membrane that acts as an extra barrier",
+        "Gram-negative bacteria can concentrate beta-lactamase enzyme in the periplasmic space",
+        "Gram-negative bacteria produce smaller quantities of transpeptidase enzyme"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 111,
+      "text": "Blood should not be stored below 2°C because",
+      "options": [
+        "Platelets get clumped",
+        "Fragility of WBC is increased",
+        "It increases chances of infection",
+        "It causes haemolysis"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 112,
+      "text": "Which of the following anticoagulants may colour the urine orange or reddish?",
+      "options": [
+        "Heparin",
+        "Warfarin",
+        "Phenindione",
+        "Diphenadione"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 113,
+      "text": "Cholesterol is a",
+      "options": [
+        "Fatty acid",
+        "Phospholipid",
+        "Steroid",
+        "Glycolipid"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 114,
+      "text": "The process of blood clotting is initiated by",
+      "options": [
+        "Prothrombin",
+        "Fibrinogen",
+        "Thrombin",
+        "Thromboplastin"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 115,
+      "text": "Haemoglobin belongs to which class of the following proteins?",
+      "options": [
+        "Metalloproteins",
+        "Flavoproteins",
+        "Lipoproteins",
+        "Chromoproteins"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 116,
+      "text": "Licence to operate a Blood Bank for collection and processing of Whole Human Blood and/or its components for sale or distribution is issued in prescribed Form",
+      "options": [
+        "28-A",
+        "28-B",
+        "28-C",
+        "28-D"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 117,
+      "text": "Licence in Form 20 and 21 are issued for sale or distribution of drugs by",
+      "options": [
+        "Retail with Schedule-X drugs",
+        "Retail without Schedule-X drugs",
+        "Wholesale with Schedule-X drugs",
+        "Wholesale without Schedule-X drugs"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 118,
+      "text": "The total number of medicines included in the National List of Essential Medicines 2015 is",
+      "options": [
+        "276",
+        "376",
+        "476",
+        "576"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 119,
+      "text": "Which of the following medicines does not rely on topical drug delivery?",
+      "options": [
+        "Nasal spray",
+        "Anti-dandruff shampoo",
+        "Insulin pen",
+        "Nicotine patch"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 120,
+      "text": "Which of the following is not an unsaturated fatty acid?",
+      "options": [
+        "Arachidonic acid",
+        "Oleic acid",
+        "Linolenic acid",
+        "Stearic acid"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 121,
+      "text": "Which of the following is used for the preparation of gripe water?",
+      "options": [
+        "Dill",
+        "Anise seed",
+        "Cumin",
+        "Caraway"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 122,
+      "text": "Which of the following is used as an adrenergic drug?",
+      "options": [
+        "Ephedra",
+        "Physostigma",
+        "Pilocarpus",
+        "Belladonna"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 123,
+      "text": "Which of the following is not used as an anti-cancer agent?",
+      "options": [
+        "Podophyllum",
+        "Curare",
+        "Camptotheca",
+        "Taxus"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 124,
+      "text": "Which of the following vitamins is called the “Anti egg white injury factor”?",
+      "options": [
+        "Biotin",
+        "Tocopherols",
+        "Ascorbic acid",
+        "Vitamin K"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 125,
+      "text": "The thyroid gland takes up circulating iodine by",
+      "options": [
+        "Simple diffusion",
+        "Facilitated diffusion",
+        "Active uptake",
+        "In exchange for chloride"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 126,
+      "text": "Disintegration time for dispersible tablets is within",
+      "options": [
+        "2 min",
+        "10 min",
+        "3 min",
+        "15 min"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 127,
+      "text": "Talcum powders are most effectively sterilised by",
+      "options": [
+        "Autoclave",
+        "Dry heat",
+        "Gas sterilisation",
+        "Millipore"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 128,
+      "text": "Moist heat sterilisation is done for",
+      "options": [
+        "Ophthalmic preparations",
+        "Stoppers",
+        "Normal saline",
+        "All the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 129,
+      "text": "In dry heat sterilisation, which of the following conditions can be maintained?",
+      "options": [
+        "160°C for 2 hours",
+        "170°C for 1 hour",
+        "300°C for 1 minute",
+        "All the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 130,
+      "text": "As per GMP, the permitted limit of solid content in Water for Injection is",
+      "options": [
+        "100 ppm",
+        "1.0 ppm",
+        "0.1 ppm",
+        "10.0 ppm"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 131,
+      "text": "According to Stokes' law, the creaming of an emulsion is indirectly proportional to",
+      "options": [
+        "Density of medium",
+        "Opacity of medium",
+        "Resistance of medium",
+        "Viscosity of medium"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 132,
+      "text": "Which one of the following conditions generally increases the rate of drug dissolution from a tablet?",
+      "options": [
+        "A decrease in the surface area",
+        "An increase in the particle size",
+        "Use of the ionised form of the drug",
+        "Use of the unionised form of the drug"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 133,
+      "text": "The iron stored in intestinal mucosal cells is complexed to",
+      "options": [
+        "Ferritin",
+        "Intrinsic factor",
+        "Transcobalamin",
+        "Transferrin"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 134,
+      "text": "Creatinine clearance is used as a measurement of",
+      "options": [
+        "Renal excretion rate",
+        "Glomerular filtration rate",
+        "Active renal secretion",
+        "Drug metabolism rate"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 135,
+      "text": "Iodine number denotes",
+      "options": [
+        "Degree of unsaturation",
+        "Saponification",
+        "Acid number",
+        "Acetyl number"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 136,
+      "text": "Diphenylhydramine is an",
+      "options": [
+        "Amino alkyl ether",
+        "Amino alkyl ester",
+        "Amide",
+        "Amine"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 137,
+      "text": "Which one is an example of an azo dye?",
+      "options": [
+        "Amaranth",
+        "Brilliant green",
+        "Crystal violet",
+        "Phenolphthalein"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 138,
+      "text": "Which of the following is a tetracycline?",
+      "options": [
+        "Chloramphenicol",
+        "Doxycycline",
+        "Erythromycin",
+        "Streptomycin"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 139,
+      "text": "The general structure of tetracycline is an octahydro analogue of which of the following, in which a number of substituents are possible?",
+      "options": [
+        "Naphthalene",
+        "Naphthacene",
+        "Anthracene",
+        "Phenanthrene"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 140,
+      "text": "When phenol is treated with chloroform and aqueous sodium hydroxide, salicylate is formed. The reaction is known as",
+      "options": [
+        "Reimer–Tiemann reaction",
+        "Clemmensen reduction",
+        "Kolbe reaction",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 141,
+      "text": "Moderately coarse powders are indicated by sieve number",
+      "options": [
+        "[Option A unclear in source OCR]",
+        "22/60",
+        "20/60",
+        "44/85"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 142,
+      "text": "Effervescent granules are used as",
+      "options": [
+        "Lubricant",
+        "Analgesics",
+        "Antacids",
+        "Astringent"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 143,
+      "text": "The onset time for a drug given orally is the time for the drug to",
+      "options": [
+        "Reach the peak plasma concentration",
+        "Reach minimum effective concentration",
+        "Begin to be absorbed from small intestine",
+        "Begin to be eliminated from the body"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 144,
+      "text": "In the oral treatment of iron deficiency, iron is preferably administered as",
+      "options": [
+        "Ferrous iron",
+        "Ferric iron",
+        "Elemental iron",
+        "All the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 145,
+      "text": "The therapeutic index of a drug is a measure of its",
+      "options": [
+        "Safety",
+        "Potency",
+        "Efficacy",
+        "Dose variability"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 146,
+      "text": "Which of the following antibiotics is a macrolide?",
+      "options": [
+        "Chloramphenicol",
+        "Doxycycline",
+        "Erythromycin",
+        "Streptomycin"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 147,
+      "text": "Hyperthyroidism is also known as",
+      "options": [
+        "Graves' disease",
+        "Myxoedema",
+        "Adrenal carcinoma",
+        "Crohn's disease"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 148,
+      "text": "Normal value of bleeding time is",
+      "options": [
+        "2–9 minutes",
+        "3–7 minutes",
+        "4–9 minutes",
+        "5–6 minutes"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 149,
+      "text": "Acute toxicity of arsenic is manifested by",
+      "options": [
+        "Garlic odour in breath",
+        "Hypertension",
+        "Sedation",
+        "Euphoria"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 150,
+      "text": "Anti-malarial drug that is very important for medical cure of relapsing vivax is",
+      "options": [
+        "Chloroquine",
+        "Pyrimethamine",
+        "Primaquine",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 151,
+      "text": "Besides the gastrointestinal tract, the most common site of infection with coliform bacilli is",
+      "options": [
+        "Upper respiratory tract",
+        "Lower respiratory tract",
+        "Urinary tract",
+        "Colon"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 152,
+      "text": "Unpleasant flushing of face occurs if alcohol is taken along with",
+      "options": [
+        "Tolbutamide",
+        "Glibenclamide",
+        "Chlorpropamide",
+        "Metformin"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 153,
+      "text": "In duodenal ulcer therapy, antacids are best given",
+      "options": [
+        "1–2 hours after food",
+        "1–2 hours before food",
+        "Along with food",
+        "At any time"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 154,
+      "text": "Which of the following antiplatelet drugs has been shown to decrease the incidence of stroke after transient ischemic attack?",
+      "options": [
+        "Clofibrate",
+        "Dipyridamole",
+        "Aspirin",
+        "Sulfasalazine"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 155,
+      "text": "Glycolytic pathway is the",
+      "options": [
+        "Conversion of pyruvic acid into oxaloacetate",
+        "Degradation of glucose into pyruvic acid",
+        "Successive oxidation-reduction reaction involving succinate NADH",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 156,
+      "text": "Pick up the non-essential amino acid from the following.",
+      "options": [
+        "Tyrosine",
+        "Phenylalanine",
+        "Lysine",
+        "Threonine"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 157,
+      "text": "Vaccines contain",
+      "options": [
+        "Antibodies",
+        "Antigens",
+        "Toxins",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 158,
+      "text": "When used as a sterilising agent, gamma radiation kills micro-organisms by",
+      "options": [
+        "Oxidation of essential cell constituents",
+        "Denaturation and coagulation of essential cell proteins",
+        "Alkylation of cell proteins",
+        "Ionisation of molecules of cell constituents"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 159,
+      "text": "The official method for the analysis of ciprofloxacin is by",
+      "options": [
+        "Potentiometry",
+        "HPLC",
+        "Gas chromatography",
+        "Non-aqueous titration"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 160,
+      "text": "Which of the following is most effective in preventing transmission of HIV from mother to the foetus?",
+      "options": [
+        "Lamivudine",
+        "Zidovudine",
+        "Indinavir",
+        "Ribavirin"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 161,
+      "text": "Bloom strength is used to check quality of",
+      "options": [
+        "Lactose",
+        "Ampoules",
+        "Hardness of tablets",
+        "Gelatin"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 162,
+      "text": "The reason for muscular fatigue is",
+      "options": [
+        "Reduced supply of O₂ in muscles",
+        "High concentration of CO₂ in muscles",
+        "Reduced activity of the brain",
+        "Accumulation of lactic acid in muscles"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 163,
+      "text": "The pigment in the rod cells of the eye is called",
+      "options": [
+        "Haemoglobin",
+        "Melanin",
+        "Rhodopsin",
+        "Iodopsin"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 164,
+      "text": "In Bancroft's filariasis, the choice of drug is",
+      "options": [
+        "Quinine",
+        "Metronidazole",
+        "Diethylcarbamazine",
+        "Artemisinin"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 165,
+      "text": "Sugars will not exhibit electrophoresis because",
+      "options": [
+        "They are soluble",
+        "They have no electrical charge",
+        "They are small molecules",
+        "They decompose easily"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 166,
+      "text": "Methyl red shows the following colour when it is in a basic medium",
+      "options": [
+        "Red",
+        "Pink",
+        "Yellow",
+        "Blue"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 167,
+      "text": "Laboratory diagnosis of enteric fever is based on",
+      "options": [
+        "Blood culture",
+        "Urine and stool culture",
+        "Widal test",
+        "All the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 168,
+      "text": "For increasing the excretion of weakly acidic drugs, urine should be made",
+      "options": [
+        "Alkaline",
+        "Neutral",
+        "Acidic",
+        "pH does not affect the excretion"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 169,
+      "text": "The “Wonder drug” of the Second World War is produced from",
+      "options": [
+        "Algae",
+        "Fungi",
+        "Bacteria",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 170,
+      "text": "Steroid hormones are synthesised from",
+      "options": [
+        "Adenine",
+        "Proteins",
+        "Vitamins",
+        "Cholesterol"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 171,
+      "text": "Which of the following is commonly used as a bulking agent in the formulation of freeze-dried low-dose drug particle?",
+      "options": [
+        "Sodium chloride",
+        "Mannitol",
+        "Starch",
+        "HPMC"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 172,
+      "text": "2-methyl-5-nitroimidazole-1-ethanol acts as",
+      "options": [
+        "Antimalarial",
+        "It is effective for infection caused by aerobic bacteria",
+        "Effective against anaerobic bacterial infection",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 173,
+      "text": "Tyndallisation is a method of",
+      "options": [
+        "Intermittent sterilisation",
+        "Autoclaving",
+        "Boiling",
+        "Pasteurisation"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 174,
+      "text": "Rabies virus is rapidly destroyed by",
+      "options": [
+        "Thiomersal",
+        "Phenol",
+        "Ultraviolet radiation",
+        "Sulphadiazine"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 175,
+      "text": "The only immunoglobulin that is transported across the placenta to reach the foetal circulation is",
+      "options": [
+        "IgA",
+        "IgG",
+        "IgM",
+        "IgD"
       ],
       "answerIndex": null,
       "transcriptionStatus": "transcribed"
