@@ -148,14 +148,14 @@
       "date": "2024-07-06",
       "series": "I",
       "totalQuestions": 300,
-      "transcribedQuestions": 214,
+      "transcribedQuestions": 269,
       "complete": false,
       "status": "in_progress",
       "sourceFileName": "06072024[INV DH(Jan-2024)].pdf",
       "sourcePageCount": 45,
       "questionsPath": "pyq-papers/investigator-housing-2024-series-i.json",
       "answerKeyStatus": "not_verified",
-      "notes": "The PDF contains Part A (75 questions) and three alternative Part B subject sets (Statistics, Economics and Mathematics), each 75 questions. 300 printed question entries total; candidates answer 150 (Part A plus one option). Part A 74/75, Statistics 71/75, Economics 69/75 first-pass transcribed; Mathematics pending. Several source-image flags remain.",
+      "notes": "All four printed sections are now first-pass transcribed: Part A 74/75; Statistics 71/75; Economics 69/75; Mathematics 55/75. 300 printed question entries in total, with 150 attempted by each candidate (Part A plus one optional subject). Source-image/formula flags remain in each section.",
       "examQuestionCount": 150,
       "paperParts": [
         {
@@ -182,9 +182,9 @@
         {
           "part": "Part B — Mathematics (optional)",
           "totalQuestions": 75,
-          "transcribedQuestions": 0,
-          "questionsPath": null,
-          "status": "queued"
+          "transcribedQuestions": 55,
+          "questionsPath": "pyq-papers/investigator-housing-2024-series-i.json",
+          "status": "in_progress"
         }
       ]
     },
