@@ -148,14 +148,14 @@
       "date": "2024-07-06",
       "series": "I",
       "totalQuestions": 150,
-      "transcribedQuestions": 0,
+      "transcribedQuestions": 47,
       "complete": false,
-      "status": "queued",
+      "status": "in_progress",
       "sourceFileName": "06072024[INV DH(Jan-2024)].pdf",
       "sourcePageCount": 45,
-      "questionsPath": null,
+      "questionsPath": "pyq-papers/investigator-housing-2024-series-i.json",
       "answerKeyStatus": "not_verified",
-      "notes": ""
+      "notes": "First-pass transcription covers Q1–47. Remaining General Knowledge and optional Statistics/Economics/Mathematics sections are pending."
     },
     {
       "id": "meghalaya-pyq-009",
