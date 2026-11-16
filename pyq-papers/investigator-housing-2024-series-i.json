@@ -7,9 +7,9 @@
   "date": "2024-07-06",
   "series": "I",
   "totalQuestions": 300,
-  "transcribedQuestions": 145,
+  "transcribedQuestions": 214,
   "complete": false,
-  "transcriptionNote": "First-pass transcription includes Part A Q1–75 and Statistics option Q76–150. The same source PDF also contains alternative Economics and Mathematics sections, each numbered 76–150, still pending transcription. Q53, Q78, Q93, Q98 and Q130 are flagged for source-image verification. No answer key supplied or invented.",
+  "transcriptionNote": "First-pass transcription includes Part A Q1–75, Statistics Q76–150, and Economics Q76–150. Six Economics questions (Q111, Q143–145, Q148, Q150) are flagged for source-image verification. Mathematics option Q76–150 remains pending. No answer key supplied or invented.",
   "questions": [
     {
       "number": 1,
@@ -1885,6 +1885,981 @@
       "subject": "Statistics",
       "answerIndex": null,
       "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 76,
+      "text": "Which definition was given by Marshall?",
+      "options": [
+        "Welfare definition",
+        "Scarcity definition",
+        "Wealth definition",
+        "Growth-oriented definition"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 77,
+      "text": "What is the root cause of all economic problems?",
+      "options": [
+        "Scarcity",
+        "Excess demand",
+        "Excess supply",
+        "Deficient demand"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 78,
+      "text": "Who is known as the father of political economy?",
+      "options": [
+        "Marshall",
+        "Adam Smith",
+        "J. B. Say",
+        "Robbins"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 79,
+      "text": "Which of the following is one of the major causes of economic problems?",
+      "options": [
+        "Unlimited human wants",
+        "Alternative usage of resources",
+        "Scarcity of economic resources",
+        "All of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 80,
+      "text": "Which of the following statements about the production possibility frontier is accurate?",
+      "options": [
+        "The PPF can be a straight line when there is a decrease in production of both goods.",
+        "The PPF can be a straight line when more of both goods can be produced.",
+        "The PPF can be a straight line when all resources are equally efficient for the production of both goods.",
+        "None of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 81,
+      "text": "Which of the following statements reflects the correct situation related to the allocation of resources?",
+      "options": [
+        "Allocation of resources comes under the causes of economic problems.",
+        "Allocation of resources comes under the causes of opportunity cost.",
+        "Allocation of resources comes under the causes of central problems.",
+        "Allocation of resources comes under the causes of marginal demand."
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 82,
+      "text": "Which of the following is a sign of a free economy?",
+      "options": [
+        "The prices are regulated",
+        "The prices are partly regulated",
+        "The prices are determined with the help of the forces of demand and supply",
+        "None of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 83,
+      "text": "Which of the following about free goods is correct?",
+      "options": [
+        "Present in unlimited quantity",
+        "Do not command a price",
+        "Both (A) and (B)",
+        "Scarce in nature"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 84,
+      "text": "Prices of goods and services in an economy are",
+      "options": [
+        "Determined by demand",
+        "Determined by supply",
+        "Predetermined",
+        "Both (A) and (B)"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 85,
+      "text": "Taste and preferences of the customer depend on",
+      "options": [
+        "Social customs",
+        "Habits of the consumer",
+        "Lifestyle of people",
+        "All of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 86,
+      "text": "Which one of the following is not a characteristic of utility?",
+      "options": [
+        "Utility is relative",
+        "Utility is same as demand",
+        "Utility is different from usefulness",
+        "Utility is subjective"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 87,
+      "text": "Utility refers to the ___ of a commodity.",
+      "options": [
+        "Price",
+        "Want-satisfying power",
+        "Weight",
+        "None of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 88,
+      "text": "What is point of satiation?",
+      "options": [
+        "Point at which TU is maximum",
+        "Point at which MU is least",
+        "Point at which MU is maximum",
+        "Point at which MU = TU"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 89,
+      "text": "The law of diminishing marginal utility states that as the amount consumed of a commodity increases, other things remaining constant, marginal utility",
+      "options": [
+        "Increases, decreases",
+        "Increases, increases",
+        "Decreases, decreases",
+        "Decreases, increases"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 90,
+      "text": "Which of these is an exception to the law of diminishing marginal utility?",
+      "options": [
+        "Desire for money",
+        "Food",
+        "Water",
+        "All of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 91,
+      "text": "___ is the cost of the next best alternative good that is given up for the production of a particular good.",
+      "options": [
+        "Opportunity cost",
+        "Explicit cost",
+        "Economic cost",
+        "Money cost"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 92,
+      "text": "Which of the following is a feature of a market?",
+      "options": [
+        "The market needs to be a particular place",
+        "The buyers and sellers should be able to strike a deal",
+        "Buyers and sellers need to have direct contact to strike a deal",
+        "There is no need for a system of communication"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 93,
+      "text": "When does a producer get equilibrium when using total cost and total revenue curves?",
+      "options": [
+        "Vertical distance between total cost and total revenue curves is maximum",
+        "Total cost and total revenue curves have the same slope",
+        "Additional unit of output decreases profit",
+        "All of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 94,
+      "text": "When does a producer get equilibrium when using marginal cost and marginal revenue curves?",
+      "options": [
+        "Marginal cost = marginal revenue",
+        "Slope of marginal cost > slope of marginal revenue, where marginal cost = marginal revenue",
+        "Both (A) and (B)",
+        "None of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 95,
+      "text": "In the short run, a firm should produce only if",
+      "options": [
+        "Average revenue > average cost",
+        "Average revenue > average variable cost",
+        "Total revenue < total variable cost",
+        "Total revenue < total cost"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 96,
+      "text": "A firm under perfect competition is a",
+      "options": [
+        "Price maker",
+        "Price taker",
+        "Price influencer",
+        "Price settler"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 97,
+      "text": "Which of the following statements shows that the firm is earning supernormal profit?",
+      "options": [
+        "AR > SAC",
+        "AR = SAC",
+        "AR < SAC",
+        "None of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 98,
+      "text": "Excess supply ___ the price.",
+      "options": [
+        "Pulls down",
+        "Pushes up",
+        "Does not influence",
+        "None of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 99,
+      "text": "Which of the following is an example of an agricultural price support programme?",
+      "options": [
+        "A price ceiling",
+        "A price floor",
+        "Equilibrium pricing",
+        "None of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 100,
+      "text": "The goal of a pure market economy is to meet the desire of",
+      "options": [
+        "Consumers",
+        "Companies",
+        "Workers",
+        "The government"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 101,
+      "text": "Interest rates and bond prices are",
+      "options": [
+        "Positively related",
+        "Negatively related",
+        "Not related",
+        "Either (A) or (B)"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 102,
+      "text": "Economics is a “science of logic”. Who said this?",
+      "options": [
+        "Hicks",
+        "Keynes",
+        "Robbins",
+        "Marshall"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 103,
+      "text": "The deficiency in aggregate demand during a depression period leads to",
+      "options": [
+        "Seasonal unemployment",
+        "Voluntary unemployment",
+        "Involuntary unemployment",
+        "Frictional unemployment"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 104,
+      "text": "Which among the following does not have the application of multiplier?",
+      "options": [
+        "Determination of income",
+        "Fiscal policy",
+        "Monetary policy",
+        "Foreign direct investment"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 105,
+      "text": "If you want to study the national income, which branch of economics will you have to study?",
+      "options": [
+        "Microeconomics",
+        "Price theory",
+        "Factor price determination",
+        "Macroeconomics"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 106,
+      "text": "In the classical view, the price level is determined by",
+      "options": [
+        "Aggregate supply",
+        "Aggregate demand and supply",
+        "Supply of money",
+        "Aggregate demand"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 107,
+      "text": "The value of MPC in the Keynesian model is",
+      "options": [
+        "0 < MPC < 1",
+        "MPC = 1",
+        "MPC < 1",
+        "None of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 108,
+      "text": "A two-sector economy consists of",
+      "options": [
+        "Households and firms",
+        "Households and government",
+        "Firms and foreign sector",
+        "Government and foreign sector"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 109,
+      "text": "In which type of economy is domestic income equal to national income?",
+      "options": [
+        "Open economy",
+        "Closed economy",
+        "Both (A) and (B)",
+        "Neither (A) nor (B)"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 110,
+      "text": "Which of the following is related to the barter system of exchange?",
+      "options": [
+        "Double coincidence of wants",
+        "Common unit of value",
+        "Limited exchange",
+        "Both (A) and (C)"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 111,
+      "text": "Average Propensity to Consume (APC) is equal to",
+      "options": [
+        "Y/C",
+        "ΔY/ΔC",
+        "C/Y",
+        "[Option D formula unclear in source OCR]"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 112,
+      "text": "Multiplier is estimated as",
+      "options": [
+        "1/MPC",
+        "1/(1 − MPC)",
+        "1/(1 + MPC)",
+        "1/(1 + MPS)"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 113,
+      "text": "With a view to correcting a deflationary gap or deficient demand, which of the following fiscal policy measures should be adopted?",
+      "options": [
+        "Reduction in taxes",
+        "Increase in public expenditure",
+        "Reduction in public debt",
+        "All of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 114,
+      "text": "A tax, the burden of which can be shifted on to others, is called",
+      "options": [
+        "Indirect tax",
+        "Direct tax",
+        "Ad valorem tax",
+        "Specific tax"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 115,
+      "text": "What is the relationship between supply of foreign exchange and exchange rate?",
+      "options": [
+        "Inverse",
+        "Direct",
+        "One-to-one",
+        "No relationship"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 116,
+      "text": "BoP is measured as",
+      "options": [
+        "Difference between visible items of exports and imports",
+        "Difference between invisible items of exports and imports",
+        "Difference between external and internal flow of gold",
+        "Difference between all receipts of foreign exchange and payments of foreign exchange"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 117,
+      "text": "If balance of trade is (−) ₹600 crores and value of exports is ₹500 crores, then the value of imports will be",
+      "options": [
+        "₹1,300 crores",
+        "₹300 crores",
+        "₹1,100 crores",
+        "₹200 crores"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 118,
+      "text": "Budget Speech in the Lok Sabha is given by the",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Finance Minister",
+        "Home Minister"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 119,
+      "text": "What is the period of a fiscal year?",
+      "options": [
+        "1st April to 31st March",
+        "1st January to 31st December",
+        "1st March to 28th February",
+        "None of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 120,
+      "text": "Which of the following is not concerned with banking organisation?",
+      "options": [
+        "Bank rate",
+        "Fiscal deficit",
+        "Credit creation",
+        "Cash reserve ratio"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 121,
+      "text": "Which of the following statements is true about the licensing policy followed by the Indian economy in the 1950–1990 era?",
+      "options": [
+        "It helped to promote regional equality in industry.",
+        "It helped to check the undue expansion of the industrial sector.",
+        "It helped to promote regional equality in industry as well as to check the undue expansion of the industrial sector.",
+        "None of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 122,
+      "text": "Which of the following is the main differentiation between small-scale units and large-scale units?",
+      "options": [
+        "The amount of investment",
+        "The volume of output",
+        "The size of the unit area",
+        "The volume of sale"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 123,
+      "text": "What was the main reason behind providing protection to small-scale industries by the Indian Government during the 1950–1990 era?",
+      "options": [
+        "They are not able to compete with large industries",
+        "They are much more suitable for the purpose of rural development",
+        "They help to keep a check on the private sector",
+        "They help to provide large-scale employment in the rural sector"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 124,
+      "text": "Which of the following statements is true about the central problem of an economy?",
+      "options": [
+        "The central problem of an economy is what to produce.",
+        "The central problem of an economy is how to produce.",
+        "The central problem of an economy is for whom to produce.",
+        "All of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 125,
+      "text": "When was the First Five-Year Plan launched in India?",
+      "options": [
+        "1959 to 1964",
+        "1948 to 1953",
+        "1955 to 1960",
+        "1951 to 1956"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 126,
+      "text": "Which of the following statements was the main aim of land reforms undertaken in the Indian economy in the 1950–1990 era?",
+      "options": [
+        "To solve problems related to the distribution of land",
+        "To solve problems related to the ownership of land",
+        "To solve problems related to the exploitation of farmers",
+        "All of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 127,
+      "text": "Which of the following crops benefited the most as a result of the Green Revolution?",
+      "options": [
+        "Rice",
+        "Wheat",
+        "Both (A) and (B) are correct",
+        "Both (A) and (B) are incorrect"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 128,
+      "text": "In which year did India adopt the economic reforms?",
+      "options": [
+        "1991",
+        "1993",
+        "1998",
+        "2007"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 129,
+      "text": "What is the main feature of the New Economic Policy?",
+      "options": [
+        "Liberalisation",
+        "Privatisation",
+        "Globalisation",
+        "All of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 130,
+      "text": "Which of the following statements about the Indian economy is true during the era of 1950–1990?",
+      "options": [
+        "The abolition of intermediaries was a part of the industrial reforms in India.",
+        "The abolition of intermediaries was a part of the external sector reforms in India.",
+        "The abolition of intermediaries was a part of the land reforms in India.",
+        "The abolition of intermediaries was a part of the banking reforms in India."
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 131,
+      "text": "Which of the following statements accurately reflects the trade policy followed by the Indian Government during the 1950–1990 era?",
+      "options": [
+        "The Government made use of quotas to protect goods produced in India from imports.",
+        "The Government made use of tariffs to protect goods produced in India from imports.",
+        "The Government made use of export promotion to protect goods produced in India from imports.",
+        "All of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 132,
+      "text": "The rate of economic growth is measured by the rate of change in",
+      "options": [
+        "Nominal GDP",
+        "Real GDP",
+        "GDP at current price",
+        "None of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 133,
+      "text": "Modernisation refers to change in",
+      "options": [
+        "Technology",
+        "Management techniques",
+        "Social outlook",
+        "All of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 134,
+      "text": "The most urgent problem which prompted the introduction of New Economic Policy in 1991 was",
+      "options": [
+        "Bad performance of public sector units",
+        "Foreign exchange crisis",
+        "High tax rates leading to tax evasion",
+        "All of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 135,
+      "text": "GST has been implemented from",
+      "options": [
+        "April 1, 2018",
+        "January 1, 2018",
+        "January 1, 2017",
+        "July 1, 2017"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 136,
+      "text": "Which of the following replaced the MRTP Act?",
+      "options": [
+        "The Competition Act",
+        "The Foreign Exchange Management Act",
+        "The New Companies Act",
+        "None of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 137,
+      "text": "Which of the following is the poverty determination measure?",
+      "options": [
+        "Head Count Ratio",
+        "Sen Index",
+        "Poverty Gap Index",
+        "All of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 138,
+      "text": "Poverty is a state in which a person",
+      "options": [
+        "Is poor",
+        "Does not have a proper home",
+        "Has the inability to fulfil basic requirements",
+        "None of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 139,
+      "text": "A landless labourer is an example of",
+      "options": [
+        "Urban poor",
+        "Rural poor",
+        "Both (A) and (B)",
+        "None of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 140,
+      "text": "The earlier Food for Work Programme has now been converted into",
+      "options": [
+        "Intensive Area Development Programme",
+        "Integrated Rural Development Programme",
+        "Mahatma Gandhi National Rural Employment Programme",
+        "Minimum Needs Programme"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 141,
+      "text": "Which of the following is not a merit of human capital formation?",
+      "options": [
+        "Improves technical knowledge",
+        "Enlarges the size of business",
+        "Increases cost of production",
+        "Changes social outlooks"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 142,
+      "text": "When was the National Bank for Agriculture and Rural Development set up?",
+      "options": [
+        "1962",
+        "1969",
+        "1982",
+        "1992"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 143,
+      "text": "Which of the following is an institutional source of rural credit?",
+      "options": [
+        "[Option A unclear in source OCR]",
+        "Regional rural banks",
+        "Traders",
+        "Landlords"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 144,
+      "text": "Short-term credit is required for [the item/phrase in the source scan is unclear].",
+      "options": [
+        "Construction",
+        "[Option B partly illegible; mentions items such as seeds/fertiliser/land or tractor]",
+        "[Option C unclear]",
+        "None of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 145,
+      "text": "Most of the disguised unemployed persons in India are found in",
+      "options": [
+        "Agriculture",
+        "Industry",
+        "[Option C unclear in source OCR]",
+        "Transport"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 146,
+      "text": "Which of the following is not a feature of the organised sector?",
+      "options": [
+        "Job security",
+        "Social security benefits",
+        "Irregular payment",
+        "Fixed working hours"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 147,
+      "text": "The development of infrastructure and ___ go hand in hand.",
+      "options": [
+        "Economic development",
+        "Social ranking",
+        "Industrial growth",
+        "None of the above"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 148,
+      "text": "Which of the following is an impact of global warming?",
+      "options": [
+        "Deforestation",
+        "Rise in sea level",
+        "[Option C unclear in source OCR]",
+        "[Option D unclear in source OCR]"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 149,
+      "text": "Which sector has expanded since the New Economic Policy of 1991?",
+      "options": [
+        "Manufacturing",
+        "Real estate",
+        "Service",
+        "Agriculture"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 150,
+      "text": "Which of the following is a feature pertaining to the Indian economy?",
+      "options": [
+        "One-child norm",
+        "Growth due to manufacturing sector",
+        "High degree of [text unclear in source OCR]",
+        "Growth due to service sector"
+      ],
+      "subject": "Economics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
     }
   ],
   "examQuestionCount": 150
