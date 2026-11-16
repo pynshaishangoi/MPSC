@@ -11,15 +11,15 @@
       "year": "2021",
       "date": "2021-12",
       "series": "I",
-      "totalQuestions": 175,
-      "transcribedQuestions": 0,
+      "totalQuestions": 150,
+      "transcribedQuestions": 45,
       "complete": false,
-      "status": "queued",
+      "status": "in_progress",
       "sourceFileName": "[LABOUR INSPT(DEC 2021)]07112026.pdf",
       "sourcePageCount": 20,
-      "questionsPath": null,
-      "answerKeyStatus": "not_verified",
-      "notes": ""
+      "questionsPath": "pyq-papers/labour-inspector-2021-series-i.json",
+      "answerKeyStatus": "not_supplied",
+      "notes": "Questions 1–45 transcribed from the original 20-page booklet. Remaining questions 46–150 are pending transcription and visual verification."
     },
     {
       "id": "meghalaya-pyq-002",
