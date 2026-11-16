@@ -7,9 +7,9 @@
   "date": "2025-12-04",
   "series": "I",
   "totalQuestions": 150,
-  "transcribedQuestions": 223,
+  "transcribedQuestions": 146,
   "complete": false,
-  "transcriptionNote": "First-pass transcription now covers Q1–150. Q44, Q48 and Q49 (Q41–71 batch) remain unresolved placeholders requiring source page-image transcription; Q132's ratio is unclear in the scan and remains flagged. Other questions have been transcribed from source text and page images. No answer key is supplied or invented. This is not yet marked complete pending visual audit of all questions/options and unresolved items.",
+  "transcriptionNote": "Q1–150 are represented in the file. 146 questions have first-pass text/options entered; Q44, Q48, Q49 are unresolved placeholders and Q132's ratio remains unclear in the scan. Full visual verification still pending. No answer key is supplied or invented.",
   "questions": [
     {
       "number": 1,
