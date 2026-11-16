@@ -1,0 +1,915 @@
+{
+  "schemaVersion": 1,
+  "paperId": "meghalaya-pyq-007",
+  "sourceFile": "05072019ID(HFW)19.pdf",
+  "exam": "Inspector of Drugs (Health & Family Welfare)",
+  "year": "2019",
+  "date": "2019-07-05",
+  "series": "III",
+  "totalQuestions": 175,
+  "transcribedQuestions": 65,
+  "complete": false,
+  "transcriptionNote": "First-pass transcription covers questions 1–75. Q53, Q54, Q56, Q59, Q60, Q64, Q67, Q68, Q72 and Q74 are flagged for source-image verification due to formula/scan uncertainty. Questions 76–175 (Pharmaceutical Science or Microbiology section) remain to be transcribed. No answer key supplied or invented.",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Ram's father said to him, “Do not be impatient about the result of your examination.” Give the correct form of narration.",
+      "options": [
+        "Don't be impatient about the result, Ram.",
+        "Ram's father advised him not to be impatient about the result of his examination.",
+        "Ram's father said to Ram not to worry about the result.",
+        "Ram told his father about his result."
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 2,
+      "text": "He said to his friends, “Let us go on a picnic.” Give the correct form of narration.",
+      "options": [
+        "He proposed to his friends to go on a picnic.",
+        "His friends said, “Let us go on a picnic.”",
+        "His friends went on a picnic.",
+        "He told his friends to go on a picnic."
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 3,
+      "text": "He asked John whether he knew his name. Choose the corresponding direct speech.",
+      "options": [
+        "He said, “I know his name.”",
+        "He said to John, “Do you know his name?”",
+        "John asked his name.",
+        "“Did John know my name?”"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 4,
+      "text": "I often say to my friends, “You are all very dear to me.” Give the correct form of narration.",
+      "options": [
+        "I often say my friends are very dear to me.",
+        "I often tell my friends that they are all very dear to me.",
+        "Very dear to me are my friends.",
+        "Friends are dear."
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 5,
+      "text": "He said, “Is he a doctor?” Give the correct form of narration.",
+      "options": [
+        "He asked that whether he was a doctor.",
+        "Was he a doctor?",
+        "He asked whether he was a doctor.",
+        "He is a doctor, he said."
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 6,
+      "text": "What plays a very important role in one's life?",
+      "options": [
+        "Activity",
+        "Mental attitude",
+        "Faith",
+        "Love"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 7,
+      "text": "How should one begin the day?",
+      "options": [
+        "With an expectant and energetic mental attitude",
+        "With a negative thought",
+        "With no faith and trust",
+        "With a bang"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 8,
+      "text": "Choose the appropriate meaning of “Conceive”.",
+      "options": [
+        "To admit the truth",
+        "To form an idea in the mind",
+        "To keep a secret",
+        "To perform a trick"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 9,
+      "text": "Choose the appropriate meaning of “Enhance”.",
+      "options": [
+        "To make to appear greater or better",
+        "To find enjoyment",
+        "Anything difficult to understand",
+        "Having one's attention completely"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 10,
+      "text": "Choose the appropriate meaning of “Assert”.",
+      "options": [
+        "To state one's opinion confidently",
+        "To agree to something",
+        "To decide the value",
+        "Anything that is useful"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 11,
+      "text": "He is absorbed ___ thought.",
+      "options": [
+        "to",
+        "into",
+        "in",
+        "at"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 12,
+      "text": "He gained advantage ___ me in the race.",
+      "options": [
+        "at",
+        "on",
+        "to",
+        "over"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 13,
+      "text": "He bequeathed his all ___ me.",
+      "options": [
+        "in",
+        "on",
+        "to",
+        "for"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 14,
+      "text": "In consideration ___ his youth, he is let off.",
+      "options": [
+        "for",
+        "of",
+        "to",
+        "over"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 15,
+      "text": "The tenants were evicted ___ the house for not paying the rent.",
+      "options": [
+        "into",
+        "on",
+        "from",
+        "to"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 16,
+      "text": "We worked ___ the night.",
+      "options": [
+        "through",
+        "throughout",
+        "at",
+        "into"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 17,
+      "text": "He was restrained ___ leaving his office.",
+      "options": [
+        "for",
+        "from",
+        "of",
+        "upon"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 18,
+      "text": "The two lines pass ___ each other at right angles.",
+      "options": [
+        "through",
+        "into",
+        "across",
+        "at"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 19,
+      "text": "I can explain the lesson to you, if you see me ___ the class.",
+      "options": [
+        "behind",
+        "after",
+        "within",
+        "on"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 20,
+      "text": "Mark the correct specifications ___ the board.",
+      "options": [
+        "at",
+        "on",
+        "into",
+        "to"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 21,
+      "text": "We were watching a film. Choose the passive voice.",
+      "options": [
+        "We should watch a film.",
+        "A film was being watched by us.",
+        "Watching a film, we were.",
+        "We were a film watching."
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 22,
+      "text": "The waves are washing away the sandcastle. Choose the passive voice.",
+      "options": [
+        "The sandcastle washing away the waves.",
+        "The sandcastle is being washed away by the waves.",
+        "Washing waves away the sandcastle.",
+        "All the waves washing the sandcastle away."
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 23,
+      "text": "She taunted her husband with the memory of his early promise. Choose the passive voice.",
+      "options": [
+        "Her husband was taunted by her with the memory of his early promise.",
+        "Husband taunted her with the early promise.",
+        "Early promise taunted her.",
+        "Memory of his early promise taunted the husband."
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 24,
+      "text": "It was fancied by some of them that beautiful furniture would be made by him. Choose the active voice.",
+      "options": [
+        "Beautiful furniture made by him was fancied.",
+        "Some of them fancied that he would make beautiful furniture.",
+        "Fancied furniture made by him.",
+        "Some of them made beautiful furniture."
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 25,
+      "text": "My pen has been stolen. Choose the active voice.",
+      "options": [
+        "Someone steal my pen.",
+        "My pen being stolen by someone.",
+        "Someone has stolen my pen.",
+        "Stolen my pen by someone."
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 26,
+      "text": "“Give countenance to” means",
+      "options": [
+        "Encourage",
+        "Acceptance",
+        "Order",
+        "Listen"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 27,
+      "text": "“His plan to oust me went by the board” means",
+      "options": [
+        "Overboard",
+        "Passed",
+        "Failed",
+        "Obliged"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 28,
+      "text": "“Hard up for new ideas” means",
+      "options": [
+        "To be short of funds",
+        "In want of",
+        "Be uncompromising",
+        "Favourable"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 29,
+      "text": "He left his seat to make room for the old man. “Make room” means",
+      "options": [
+        "Attain distinction",
+        "Take advantage",
+        "Space",
+        "Make way"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 30,
+      "text": "We had to surrender as our food ran short. “Ran short” means",
+      "options": [
+        "Was in difficulty",
+        "Was exhausted",
+        "Started",
+        "Blundered"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 31,
+      "text": "The illegal immigrants ___ to the police station.",
+      "options": [
+        "was taken",
+        "were taken",
+        "was taking",
+        "taken"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 32,
+      "text": "He has ___ a new house.",
+      "options": [
+        "buy",
+        "been buying",
+        "bought",
+        "will bought"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 33,
+      "text": "I ___ him several times this morning.",
+      "options": [
+        "see",
+        "have seen",
+        "seeing",
+        "was seeing"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 34,
+      "text": "Tom ___ a letter to the editor last week.",
+      "options": [
+        "write",
+        "written",
+        "wrote",
+        "will write"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 35,
+      "text": "He went around and ___ everybody what to do.",
+      "options": [
+        "tell",
+        "telling",
+        "told",
+        "was told"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 36,
+      "text": "“Play ducks and drakes with” means",
+      "options": [
+        "Squander",
+        "Steal",
+        "Provoke",
+        "Hide"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 37,
+      "text": "“Rained cats and dogs” means",
+      "options": [
+        "Cats and dogs are afraid",
+        "There was a heavy shower",
+        "They love the rain",
+        "It rains often"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 38,
+      "text": "“Talks big” means",
+      "options": [
+        "Very proud",
+        "Makes idle boasts",
+        "Vain",
+        "Wicked"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 39,
+      "text": "“Show your teeth” means",
+      "options": [
+        "Threaten to fight",
+        "Divulge one's plan",
+        "Is neutral",
+        "Obstruct"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 40,
+      "text": "“Negligent” means",
+      "options": [
+        "One who is careless in general",
+        "Some small or unimportant thing",
+        "One who is careless in particular things",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 41,
+      "text": "“Missed the bus” means",
+      "options": [
+        "The bus left",
+        "Lost the opportunity",
+        "Was not on time",
+        "Make utmost effort"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 42,
+      "text": "“Pacifist” means",
+      "options": [
+        "A person who is fond of fighting",
+        "A person who believes in total abolition of war",
+        "A person who believes in God",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 43,
+      "text": "“Soliloquy” means",
+      "options": [
+        "Something said or done at once",
+        "A speech recited at the beginning",
+        "Speaking aloud while alone",
+        "A speech at the end of the play"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 44,
+      "text": "“Pantomime” means",
+      "options": [
+        "The science of animal life",
+        "Dramatic performance with dumb show",
+        "That which deals with words",
+        "The life history of a man written by himself"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 45,
+      "text": "“Misogynist” means",
+      "options": [
+        "A lover of womankind",
+        "A hater of mankind",
+        "A hater of womankind",
+        "A lover of oneself"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 46,
+      "text": "A person who leaves his country to settle abroad is an",
+      "options": [
+        "Eminent",
+        "Emigrant",
+        "Immigrant",
+        "Migrant"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 47,
+      "text": "A place that houses historical curios is a",
+      "options": [
+        "Archaeology",
+        "Museum",
+        "Temple",
+        "Ordnance"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 48,
+      "text": "Mental weariness from lack of occupation is",
+      "options": [
+        "Ennui",
+        "Exhaustion",
+        "Fatigue",
+        "Depression"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 49,
+      "text": "“Ambidextrous” refers to a person who",
+      "options": [
+        "Has vitamin deficiency",
+        "Can use either left or right hand equally well",
+        "Can do skilled labour",
+        "Is very hard to please"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 50,
+      "text": "A place of refuge and protection from cruel treatment is an",
+      "options": [
+        "Prison",
+        "Exile",
+        "Asylum",
+        "Armoury"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 51,
+      "text": "If the area of the base of a right circular cone is 3850 cm² and its height is 84 cm, then the curved surface area of the cone is",
+      "options": [
+        "11000 cm²",
+        "10100 cm²",
+        "10010 cm²",
+        "10001 cm²"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 52,
+      "text": "Find the value of C for which the polynomial 2x³ − 7x² − x + C is exactly divisible by 2x + 3.",
+      "options": [
+        "7",
+        "21",
+        "−3",
+        "−18"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 53,
+      "text": "If x + 1/x = 4, then find the value of [expression unclear in source OCR].",
+      "options": [
+        "156",
+        "194",
+        "256",
+        "360"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 54,
+      "text": "If 2x + 3y = 34 and [second equation unclear in source OCR], find the required value.",
+      "options": [
+        "82",
+        "175",
+        "178",
+        "None of these"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 55,
+      "text": "The roots of the equation 5x² + 4x + a = 0 are reciprocals of each other. What is the value of a?",
+      "options": [
+        "5",
+        "−5",
+        "4",
+        "−4"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 56,
+      "text": "Evaluate the logarithmic expression shown in the source: log₁₀ log₁₀ log₁₀(10,000).",
+      "options": [
+        "100",
+        "10",
+        "1",
+        "0"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 57,
+      "text": "The value of cos 1° × cos 2° × cos 3° × … × cos 89° × cos 90° is",
+      "options": [
+        "1",
+        "1/2",
+        "[option C unclear in OCR]",
+        "0"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 58,
+      "text": "A number when divided successively by 4 and 5 leaves remainders 1 and 4 respectively. When it is successively divided by 5 and 4, the respective remainders will be",
+      "options": [
+        "4, 1",
+        "3, 2",
+        "2, 3",
+        "1, 2"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 59,
+      "text": "[Mathematical expression and question wording unclear in source OCR; requires page-image transcription]",
+      "options": [
+        "164",
+        "[option B unclear]",
+        "16",
+        "2"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 60,
+      "text": "By how much does [two mathematical expressions unclear in source OCR] exceed [expression unclear]?",
+      "options": [
+        "[option A unclear]",
+        "[option B unclear]",
+        "[option C unclear]",
+        "[option D unclear]"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 61,
+      "text": "Six bells commence tolling together and toll at intervals of 2, 4, 7, 8, 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together?",
+      "options": [
+        "24",
+        "20",
+        "12",
+        "None of these"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 62,
+      "text": "The average score per innings of a batsman for certain innings was 21.75. In the next three innings he scored 28, 34 and 37 runs and his average thus increased by 1.125 runs. How many innings did he play?",
+      "options": [
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 63,
+      "text": "Zinc and Copper are in the ratio of 5 : 3 in 200 gm of an alloy. How many grams of copper should be added to make the ratio 3 : 5?",
+      "options": [
+        "133 1/3",
+        "200",
+        "72",
+        "66"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 64,
+      "text": "3 litres of water is taken out from a vessel full of water and substituted by pure milk. This process is repeated two more times. Finally the ratio of milk and water in the solution becomes 1728 : 27. Then the volume of the original solution is",
+      "options": [
+        "3 litres",
+        "2 litres",
+        "4 litres",
+        "5 litres"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 65,
+      "text": "A shopkeeper sells milk which contains 5% water. What quantity of pure milk should be added to 2 litres of milk (containing 5% water) so that the proportion of water becomes 4%?",
+      "options": [
+        "100 ml",
+        "250 ml",
+        "400 ml",
+        "None of these"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 66,
+      "text": "A shopkeeper sells an item at a loss of 12 1/2%. In order to gain 6% profit he must increase the selling price by Rs.92.50. The cost price of the item is",
+      "options": [
+        "Rs.500",
+        "Rs.450",
+        "Rs.550",
+        "Rs.600"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 67,
+      "text": "In what time will the simple interest be [fraction unclear in source OCR] of the principal at 8 percent per annum?",
+      "options": [
+        "1 year",
+        "7 years",
+        "5 years",
+        "6 years"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 68,
+      "text": "The difference between simple and compound interest (compounded annually) on a sum of money for 2 years at 10% per annum is Rs.65. The sum is",
+      "options": [
+        "Rs.65650",
+        "Rs.65065",
+        "Rs.6565",
+        "Rs.6505"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 69,
+      "text": "A work could be completed in 100 days. However, due to the absence of 10 workers, it was completed in 110 days. The original number of workers was",
+      "options": [
+        "100",
+        "110",
+        "55",
+        "50"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 70,
+      "text": "A train running at a speed of 120 km/hr crosses a signal post in 15 seconds. What is the length of the train in metres?",
+      "options": [
+        "300",
+        "200",
+        "500",
+        "Cannot be determined"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 71,
+      "text": "A copper wire when bent in the form of a square encloses an area of 121 cm². If the same wire is bent in the form of a circle, then the area of the circle is",
+      "options": [
+        "121 cm²",
+        "242 cm²",
+        "154 cm²",
+        "60 cm²"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 72,
+      "text": "A bag contains 3 red, 6 white and 7 black balls. Two balls are drawn at random. What is the probability that both are black?",
+      "options": [
+        "1/8",
+        "7/40",
+        "[option C unclear in OCR]",
+        "[option D unclear in OCR]"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 73,
+      "text": "From the top of a lighthouse 60 m high, with its base at sea level, the angle of depression of a boat is 30°. The distance of the boat from the foot of the lighthouse is",
+      "options": [
+        "60√3 m",
+        "60/√3 m",
+        "60 m",
+        "30√3 m"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 74,
+      "text": "In the figure below, EF is parallel to [line designation unclear in OCR]. If [angle value unclear], then find ∠CJG. [Geometry diagram required.]",
+      "options": [
+        "80°",
+        "1/4 of a right angle",
+        "3/4 of a right angle",
+        "100°"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 75,
+      "text": "In ΔABC and ΔDEF, if ∠A = 58°, ∠B = 70°, ∠C = 50°; ∠D = 60°, ∠E = 70° and ∠F = 50°, then",
+      "options": [
+        "ΔABC ~ ΔDEF",
+        "ΔABC ~ ΔEDF",
+        "ΔABC ~ ΔDFE",
+        "ΔABC ~ ΔFED"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    }
+  ]
+}
