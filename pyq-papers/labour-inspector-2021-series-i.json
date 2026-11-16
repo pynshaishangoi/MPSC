@@ -7,9 +7,9 @@
   "date": "2021-12",
   "series": "I",
   "totalQuestions": 150,
-  "transcribedQuestions": 73,
+  "transcribedQuestions": 108,
   "complete": false,
-  "transcriptionNote": "Questions 1–57 and 60–73 transcribed. Questions 58–59 require their source diagrams to be embedded or separately checked; Q73 option typography is unclear in the scan and flagged. Questions 74–150 remain pending. No answer key supplied.",
+  "transcriptionNote": "Questions 1–57 and 60–74, 76–98, 100–108 transcribed. Questions 58–59 require source figures; Q75 equation and Q99 option lettering/text require visual verification. Questions 109–150 remain pending. No answer key supplied.",
   "questions": [
     {
       "number": 1,
@@ -886,6 +886,426 @@
       ],
       "answerIndex": null,
       "transcriptionStatus": "needs_visual_check"
+    },
+    {
+      "number": 74,
+      "text": "A watch gains 5 seconds in 3 minutes and it was set right at 7 a.m. In the afternoon of the same day, when the watch indicated quarter past 4 o'clock, the true time is",
+      "options": [
+        "50 minutes past 3",
+        "4 p.m.",
+        "55 minutes past 3",
+        "2 minutes past 4"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 75,
+      "text": "Find the number of non-negative integer solutions to the equation shown in the source paper (OCR appears as x₁ + x₂ + x₃ + x₄ = 15).",
+      "options": [
+        "3145",
+        "4845",
+        "3060",
+        "3876"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_visual_check"
+    },
+    {
+      "number": 76,
+      "text": "The Maratha and The Kesari were the two main newspapers started by",
+      "options": [
+        "Lala Lajpat Rai",
+        "Gopal Krishna Gokhale",
+        "Bal Gangadhar Tilak",
+        "Madan Mohan Malaviya"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 77,
+      "text": "Who among the following was the first Defence Minister of India?",
+      "options": [
+        "K. M. Cariappa",
+        "Sardar Patel",
+        "Baldev Singh",
+        "Abul Kalam Azad"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 78,
+      "text": "Who among the following is the present Education Minister of India?",
+      "options": [
+        "Pralhad Joshi",
+        "Ramesh Pokhriyal",
+        "Prakash Javadekar",
+        "Dharmendra Pradhan"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 79,
+      "text": "Mahatma Gandhi founded the ____ newspaper in 1903 in South Africa.",
+      "options": [
+        "Indian Opinion",
+        "Harijan",
+        "Indian Speaker",
+        "India News"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 80,
+      "text": "Which of the following cricketers holds the world record for being the captain of a Test cricket team for the maximum number of matches?",
+      "options": [
+        "Allan Border",
+        "Alec Stewart",
+        "Sunil Gavaskar",
+        "Graeme Smith"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 81,
+      "text": "The Sardar Sarovar Project is based on the river",
+      "options": [
+        "Godavari",
+        "Tapti",
+        "Narmada",
+        "Krishna"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 82,
+      "text": "The founder of Boy Scouts and Civil Guides was",
+      "options": [
+        "Charles Andrews",
+        "Robert Montgomery",
+        "Richard Temple",
+        "Baden-Powell"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 83,
+      "text": "Pure water freezes at what temperature?",
+      "options": [
+        "47°F",
+        "32°F",
+        "0°F",
+        "19°F"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 84,
+      "text": "Name the Governor General who abolished Sati in 1829.",
+      "options": [
+        "Lord Clive",
+        "Lord Curzon",
+        "Lord William Bentinck",
+        "Lord Dalhousie"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 85,
+      "text": "Which among the following is the chief ore of aluminium?",
+      "options": [
+        "Iron",
+        "Cryolite",
+        "Bauxite",
+        "Haematite"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 86,
+      "text": "Which of the following banks was amalgamated into Punjab National Bank (PNB) during the mega merger of April 2020?",
+      "options": [
+        "Canara Bank",
+        "Allahabad Bank",
+        "Syndicate Bank",
+        "Oriental Bank of Commerce"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 87,
+      "text": "Red Cross was founded by",
+      "options": [
+        "A. Cursetjee",
+        "Baden-Powell",
+        "Henry Dunant",
+        "Trygve Lie"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 88,
+      "text": "The largest part of the human brain is",
+      "options": [
+        "cerebellum",
+        "midbrain",
+        "cerebrum",
+        "medulla oblongata"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 89,
+      "text": "The government has launched the Regional Airport Development Programme and part of the Regional Connectivity Scheme of upgrading under-serviced air routes UDAN. What does 'D' stand for in 'UDAN'?",
+      "options": [
+        "Din",
+        "Diwas",
+        "Dangal",
+        "Desh"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 90,
+      "text": "Who was the first woman Governor of Jharkhand?",
+      "options": [
+        "Pushpa Devi",
+        "Sabita Mahato",
+        "Sita Murmu",
+        "Droupadi Murmu"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 91,
+      "text": "Which Indian pharmaceutical company developed ZyCoV-D, the world's first plasmid DNA vaccine against COVID-19?",
+      "options": [
+        "Serum Institute of India",
+        "Zydus Cadila",
+        "Dr. Reddy's Laboratories",
+        "Bharat Biotech"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 92,
+      "text": "How many elements are there in the periodic table?",
+      "options": [
+        "113",
+        "72",
+        "102",
+        "118"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 93,
+      "text": "Which planet has the most number of moons?",
+      "options": [
+        "Saturn",
+        "Neptune",
+        "Uranus",
+        "Jupiter"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 94,
+      "text": "First Indian woman to win the Man Booker Prize was",
+      "options": [
+        "Kiran Desai",
+        "Avni Doshi",
+        "Geetanjali Shree",
+        "Arundhati Roy"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 95,
+      "text": "Which city is known as the 'Eternal City'?",
+      "options": [
+        "New York",
+        "Paris",
+        "Rome",
+        "Kolkata"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 96,
+      "text": "Which planet in the solar system has a blue-green colour?",
+      "options": [
+        "Pluto",
+        "Venus",
+        "Uranus",
+        "Mars"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 97,
+      "text": "Golf player Vijay Singh, who was ranked number 1 for 32 weeks between 2004 and 2005, belongs to which country?",
+      "options": [
+        "USA",
+        "Fiji",
+        "India",
+        "UK"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 98,
+      "text": "Fathometer is used to measure",
+      "options": [
+        "earthquakes",
+        "rainfall",
+        "ocean depth",
+        "sound intensity"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 99,
+      "text": "The developer(s) of Yahoo was/were",
+      "options": [
+        "Jerry Yang and David Filo",
+        "Larry Page",
+        "Ray Tomlinson",
+        "T. Leo Burns"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_visual_check"
+    },
+    {
+      "number": 100,
+      "text": "Red dunes, also known as 'theri', which date back to the Quaternary Period, are found in which of the following Indian States?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Punjab",
+        "Tamil Nadu"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 101,
+      "text": "Who discovered the sea route to India via the Cape of Good Hope?",
+      "options": [
+        "Vasco da Gama",
+        "Amundsen",
+        "Christopher Columbus",
+        "John Cabot"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 102,
+      "text": "With respect to the 2022 FIFA World Cup, what is Al Rihla?",
+      "options": [
+        "Motto of the World Cup",
+        "The official match ball",
+        "Name of the mascot",
+        "The players' village"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 103,
+      "text": "Which was the first online chat system?",
+      "options": [
+        "Skype",
+        "eBuddy",
+        "Google Talk",
+        "Talkomatic"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 104,
+      "text": "The line that demarcates the boundary between India and Pakistan is",
+      "options": [
+        "McMahon Line",
+        "Durand Line",
+        "Radcliffe Line",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 105,
+      "text": "Which day is observed as World Population Day?",
+      "options": [
+        "14th November",
+        "1st December",
+        "11th July",
+        "5th June"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 106,
+      "text": "Which organization launched a campaign called '#StayHomeIndiaWithBooks' to encourage people to stay home amid the COVID-19 pandemic?",
+      "options": [
+        "National Book Trust",
+        "NCERT",
+        "NIOS",
+        "Press Trust of India"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 107,
+      "text": "Which two countries share the longest land border?",
+      "options": [
+        "United States and Canada",
+        "Russia and China",
+        "India and Bangladesh",
+        "Russia and Kazakhstan"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 108,
+      "text": "Launched by India's Agriculture Minister Narendra Singh Tomar in 2022, which of the following is the name of a homegrown Indian COVID-19 vaccine for animals?",
+      "options": [
+        "Corbevax",
+        "Covovax",
+        "Anocovax",
+        "Novavax"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
     }
   ]
 }
