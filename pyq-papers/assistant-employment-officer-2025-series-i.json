@@ -7,9 +7,9 @@
   "date": "2025-12-04",
   "series": "I",
   "totalQuestions": 150,
-  "transcribedQuestions": 68,
+  "transcribedQuestions": 223,
   "complete": false,
-  "transcriptionNote": "First-pass transcription covers Q1–71 except Q44, Q48 and Q49, which are placeholders pending inspection of the original page images. Questions 72–150 remain to be transcribed. No answer key is supplied or invented. Source OCR spelling has been normalized only where the intended printed text is clear; confirm all text and options against scans before marking complete.",
+  "transcriptionNote": "First-pass transcription now covers Q1–150. Q44, Q48 and Q49 (Q41–71 batch) remain unresolved placeholders requiring source page-image transcription; Q132's ratio is unclear in the scan and remains flagged. Other questions have been transcribed from source text and page images. No answer key is supplied or invented. This is not yet marked complete pending visual audit of all questions/options and unresolved items.",
   "questions": [
     {
       "number": 1,
@@ -844,6 +844,954 @@
         "395",
         "404",
         "448"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 72,
+      "text": "The Union Budget is always presented first in the",
+      "options": [
+        "Lok Sabha",
+        "Rajya Sabha",
+        "Joint Session of the Parliament",
+        "Meeting of the Union Cabinet"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 73,
+      "text": "The Constitution of India borrowed the scheme of Indian Federation from the Constitution of",
+      "options": [
+        "USA",
+        "Canada",
+        "United Kingdom",
+        "Ireland"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 74,
+      "text": "Right to Property was removed from the list of Fundamental Rights during the rule of",
+      "options": [
+        "Indira Gandhi Government",
+        "Morarji Desai Government",
+        "Narasimha Rao Government",
+        "Vajpayee Government"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 75,
+      "text": "The Indian Cyber Crime Coordination Centre (I4C) has been established under which Ministry?",
+      "options": [
+        "The Ministry of Home Affairs",
+        "The Ministry of Defence",
+        "The Ministry of Science and Technology",
+        "The Ministry of Electronics and Information Technology"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 76,
+      "text": "Which programming language is known for its use in data analysis?",
+      "options": [
+        "HTML",
+        "Python",
+        "Assembly",
+        "SQL"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 77,
+      "text": "Which key is used to refresh a web page?",
+      "options": [
+        "F1",
+        "F5",
+        "F12",
+        "Ctrl"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 78,
+      "text": "What is adware?",
+      "options": [
+        "A malware that displays unwanted advertisements",
+        "A software for creating ads",
+        "A type of database software",
+        "A network protocol"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 79,
+      "text": "What is a firewall's primary function?",
+      "options": [
+        "Store data",
+        "Increase processing speed",
+        "Protect against unauthorized network access",
+        "Run applications"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 80,
+      "text": "Which Internet Protocol is used for secure data transfer?",
+      "options": [
+        "HTTP",
+        "HTTPS",
+        "FTP",
+        "SMTP"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 81,
+      "text": "Which of the following is/are planetary storm(s)?",
+      "options": [
+        "Jupiter's Great Red Spot",
+        "Solar Flare",
+        "Saturn's Great White Spot",
+        "Both (A) and (C)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 82,
+      "text": "The Government has launched a nasal foreign body removal device developed by startup InnAccel Technologies Private Limited, Bengaluru called",
+      "options": [
+        "Noxeno",
+        "Nasaleno",
+        "Eleno",
+        "Nozeno"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 83,
+      "text": "Researchers have discovered a way to make an artificial muscle for which organ?",
+      "options": [
+        "Liver",
+        "Kidney",
+        "Heart",
+        "Lungs"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 84,
+      "text": "Which of the following is/are drought-resistant plant(s)?",
+      "options": [
+        "Succulents",
+        "Aloe vera",
+        "Cacti",
+        "All of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 85,
+      "text": "Which bird, considered to be one of the most efficient travellers, can fly 800 km in a single day with an occasional flap of its 11 feet long wings?",
+      "options": [
+        "Wandering albatross",
+        "Pelican",
+        "Siberian crane",
+        "Kite"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 86,
+      "text": "What is the name of the Government Scheme approved in July 2025 to improve agriculture in low-productivity districts?",
+      "options": [
+        "Pradhan Mantri Krishi Samriddhi Yojana",
+        "Dhan-Vikas Gramin Krishi Yojana",
+        "Pradhan Mantri Dhan-Dhaanya Krishi Yojana",
+        "Kisan Utthan Abhiyan"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 87,
+      "text": "In July 2025, Prime Minister Narendra Modi was conferred which civilian honour by Brazil?",
+      "options": [
+        "The Order of the Star of Africa",
+        "The Grand Collar of the National Order of the Southern Cross",
+        "The Order of the Condor of the Andes",
+        "The Order of Rio Branco"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 88,
+      "text": "When is the Statistics Day celebrated in India?",
+      "options": [
+        "July 15",
+        "June 21",
+        "June 29",
+        "July 1"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 89,
+      "text": "Who is the current and 14th Dalai Lama?",
+      "options": [
+        "Lobsang Sangay",
+        "Tenzin Gyatso",
+        "Penpa Tsering",
+        "None of them"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 90,
+      "text": "Who announced the ceasefire between Iran and Israel on 23rd June, 2025?",
+      "options": [
+        "Joe Biden",
+        "Benjamin Netanyahu",
+        "Donald Trump",
+        "Abbas Araghchi"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 91,
+      "text": "The value of a machine depreciates at the rate of 10% every year. It was purchased 3 years ago. If its present value is ₹8,748, its purchase price was",
+      "options": [
+        "₹10,000",
+        "₹12,000",
+        "₹14,000",
+        "₹16,000"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 92,
+      "text": "What will be the compound interest on a sum of ₹25,000 after 3 years at the rate of 12 p.c.p.a.?",
+      "options": [
+        "₹9,000.30",
+        "₹9,720",
+        "₹10,123.20",
+        "₹10,483.20"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 93,
+      "text": "The average of five numbers is 20. If each number is multiplied by 2, what will be the new average?",
+      "options": [
+        "30",
+        "40",
+        "50",
+        "60"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 94,
+      "text": "If a − b = 3 and a² + b² = 29, find the value of ab.",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "18"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 95,
+      "text": "One-third of Rahul's savings in National Savings Certificate is equal to one-half of his savings in Public Provident Fund. If he has ₹1,50,000 as total savings, how much has he saved in Public Provident Fund?",
+      "options": [
+        "₹30,000",
+        "₹50,000",
+        "₹60,000",
+        "₹90,000"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 96,
+      "text": "Select the option that is related to the third term in the same way as the second term is related to the first term: Grief : Anguish :: Pique : ?",
+      "options": [
+        "Joy",
+        "Anger",
+        "Jealous",
+        "Tensed"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 97,
+      "text": "Find the relationship between two given numbers on one side of :: and one number is given on another side of :: while another number is to be found from the given alternatives: 68 : 130 :: ? : 350",
+      "options": [
+        "210",
+        "216",
+        "222",
+        "240"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 98,
+      "text": "A is B's sister. C is B's mother. D is C's father. E is D's mother. Then how is A related to D?",
+      "options": [
+        "Grandfather",
+        "Grandmother",
+        "Daughter",
+        "Granddaughter"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 99,
+      "text": "Insert the missing number: 8, 7, 11, 12, 14, 17, 17, 22, (....)",
+      "options": [
+        "20",
+        "22",
+        "24",
+        "27"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 100,
+      "text": "Today is 1st April. The day of the week is Wednesday. The day of the week on this day after 3 years will be",
+      "options": [
+        "Saturday",
+        "Sunday",
+        "Friday",
+        "Tuesday"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 101,
+      "text": "If SYMBOL is written as NZTMPC in a certain code, how is NUMBER written in that code?",
+      "options": [
+        "NVOSFC",
+        "NVOSFC",
+        "MVOSFC",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 102,
+      "text": "In a certain code, HARYANA is written as 8197151. How is DELHI written in that code?",
+      "options": [
+        "45389",
+        "45678",
+        "46587",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 103,
+      "text": "A person is moving North, and then he turns to his left and walks 10 metres, and then again he turns right and walks 20 metres, and again he turns right and walks 15 metres. What is the final direction in which he is moving?",
+      "options": [
+        "North",
+        "South",
+        "West",
+        "East"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 104,
+      "text": "There are 45 trees in a row. The lemon tree is 20th from the right end. What is the rank of the lemon tree from the left end?",
+      "options": [
+        "26th",
+        "24th",
+        "25th",
+        "27th"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 105,
+      "text": "If 4 cats can kill 4 rats in 4 minutes, how many minutes will it take 8 cats to kill 8 rats?",
+      "options": [
+        "8",
+        "4",
+        "2",
+        "16"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 106,
+      "text": "Form a meaningful word with the first, fourth, seventh and eleventh letters of the word SUPERFLUOUS. What is the first letter of the word?",
+      "options": [
+        "O",
+        "E",
+        "S",
+        "L"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 107,
+      "text": "In a 200 m race, A beats B by 50 metres. Also, at the finish line, A was 10 seconds ahead of B. Find the time taken by A to complete the race.",
+      "options": [
+        "30 seconds",
+        "40 seconds",
+        "35 seconds",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 108,
+      "text": "In a fictional country of Vegereversia, which of the following provinces is the odd one out?",
+      "options": [
+        "PANGOTATOP",
+        "SULTORRAC",
+        "HIABIOHON",
+        "SINNEGABBAC"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 109,
+      "text": "Find the odd man out: 395, 462, 572, 396, 427, 671, 264",
+      "options": [
+        "385",
+        "427",
+        "671",
+        "264"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 110,
+      "text": "If in a code language, LIQUID is written as PMUYMH, then how can SPACE be written in that code language?",
+      "options": [
+        "TWEGIW",
+        "WTEGI",
+        "WEIGH",
+        "WTBGI"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 111,
+      "text": "Select the set in which the numbers are related in the same way as are the numbers of the following set: (64, 100, 328)",
+      "options": [
+        "(16, 36, 54)",
+        "(49, 81, 137)",
+        "(25, 49, 148)",
+        "(34, 64, 97)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 112,
+      "text": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 113,
+      "text": "In every 30 minutes, the time of a watch increases by 3 minutes. After setting the correct time at 5:00 AM, what time will the watch show after 6 hours?",
+      "options": [
+        "10:54 AM",
+        "11:30 AM",
+        "11:42 AM",
+        "11:36 AM"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 114,
+      "text": "If X and Y are two fractions and X is thrice of Y, and multiplication of X and Y is 25/12, then Y is",
+      "options": [
+        "5/6",
+        "6/5",
+        "5/8",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 115,
+      "text": "40% of 250 = 50% of ?",
+      "options": [
+        "200",
+        "100",
+        "150",
+        "400"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 116,
+      "text": "The traffic lights at three different road crossings change after 24 seconds, 36 seconds and 54 seconds respectively. If they all change simultaneously at 10:15:00 AM, then at what time will they again change simultaneously?",
+      "options": [
+        "10:16:54 AM",
+        "10:18:36 AM",
+        "10:17:02 AM",
+        "10:22:12 AM"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 117,
+      "text": "The ratio of present age of A to B is 4 : 3. If C is 8 years younger to B and difference between present ages of A and B is 8 years, then what is C's age 15 years hence?",
+      "options": [
+        "29 years",
+        "22 years",
+        "31 years",
+        "20 years"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 118,
+      "text": "A sold a mobile phone to B at a gain of 25% and B sold it to C at a loss of 10%. If C paid ₹5,625 for it, how much did A pay (in ₹) for the phone?",
+      "options": [
+        "₹5,000",
+        "₹4,800",
+        "₹4,500",
+        "₹5,100"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 119,
+      "text": "Find the wrong number in the following number series: 6, 13, 32, 69, 130, 223, 348",
+      "options": [
+        "13",
+        "6",
+        "223",
+        "348"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 120,
+      "text": "Which one of the given responses would be a meaningful order of the following? 1. Cutting  2. Dish  3. Vegetable  4. Market  5. Cooking",
+      "options": [
+        "1, 2, 4, 5, 3",
+        "5, 3, 2, 1, 4",
+        "3, 2, 5, 1, 4",
+        "4, 3, 1, 5, 2"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 121,
+      "text": "How many whole numbers between 100 and 800 contain the digit 2?",
+      "options": [
+        "200",
+        "240",
+        "220",
+        "214"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 122,
+      "text": "If x = 0.5, then which of the following has the smallest value?",
+      "options": [
+        "2^(1/x)",
+        "2^x",
+        "1/x²",
+        "1/x"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 123,
+      "text": "Find the wrong number in the series: 5, 8, 16, 26, 50, 98, 194",
+      "options": [
+        "16",
+        "194",
+        "8",
+        "50"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 124,
+      "text": "A man reads 3/8 of a book on a day and 4/5 of the remainder on the second day. If the number of pages still unread is 40, then how many pages does the book contain?",
+      "options": [
+        "300",
+        "500",
+        "320",
+        "350"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 125,
+      "text": "Find x, if x + 1/(1 + 1/(2 + 1/3)) = 2",
+      "options": [
+        "7/10",
+        "17/10",
+        "11/10",
+        "13/10"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 126,
+      "text": "1 L of water is added to 5 L of alcohol and water solution containing 40% alcohol strength. What will be the strength of alcohol in the new solution?",
+      "options": [
+        "33 1/3%",
+        "30%",
+        "33 2/3%",
+        "33%"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 127,
+      "text": "A line of length 1.5 m was measured as 1.55 m by mistake. What will be the percentage error?",
+      "options": [
+        "0.05%",
+        "3.67%",
+        "3.33%",
+        "0.5%"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 128,
+      "text": "An electric wire is sold only in multiples of 1 metre, and a customer requires several lengths of wire, each 85 cm long. To avoid any wastage and to minimize labour, he should purchase minimum length of",
+      "options": [
+        "8.5 metres",
+        "17 metres",
+        "1.7 metres",
+        "1 metre"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 129,
+      "text": "How many natural numbers are there in between √841 and √3249?",
+      "options": [
+        "26",
+        "29",
+        "28",
+        "27"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 130,
+      "text": "What will be the average of the first 5 positive even numbers divisible by 9?",
+      "options": [
+        "54",
+        "50",
+        "48",
+        "62"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 131,
+      "text": "In a family of six males and a few females, the average monthly consumption of grain per head is 14.4 kg. If the average monthly consumption per head is 20 kg in the case of males and 6 kg in the case of females, find the number of females in the family.",
+      "options": [
+        "8",
+        "4",
+        "6",
+        "7"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 132,
+      "text": "Two numbers are in the ratio of 2 : 3. If 15 is added to both the numbers, then the ratio between the two numbers becomes [ratio unclear in source scan]. The greater number is",
+      "options": [
+        "26",
+        "25",
+        "27",
+        "29"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 133,
+      "text": "A certain sum of money was divided among A, B and C in a certain way. C got half as much as A and B together got. A got one-third of what B and C together got. What is the ratio of A's share to C's share?",
+      "options": [
+        "3 : 4",
+        "1 : 4",
+        "4 : 1",
+        "3 : 5"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 134,
+      "text": "The respective ratio between the present ages of son, mother, father and grandfather is 2 : 7 : 8 : 12. The average age of the son and mother is 27 years. What will be the mother's age after 7 years?",
+      "options": [
+        "40 years",
+        "41 years",
+        "48 years",
+        "49 years"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 135,
+      "text": "Kirti bought a watch for ₹1,110 and sold it at a loss of 5%. Its selling price is",
+      "options": [
+        "₹1,800",
+        "₹1,054.50",
+        "₹1,200.50",
+        "₹1,500.65"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 136,
+      "text": "For a certain article if discount is 25%, the profit is 25%. If the discount is 10%, then the profit is",
+      "options": [
+        "10%",
+        "20%",
+        "50%",
+        "35%"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 137,
+      "text": "Consider the following statements: If money is loaned at simple interest, then (i) money gets doubled in 5 years if the rate of interest is 16 2/3%; (ii) money gets doubled in 5 years if the rate of interest is 20%; (iii) money becomes four times in 10 years if it gets doubled in 5 years. Of these statements",
+      "options": [
+        "(ii) alone is correct",
+        "(iii) alone is correct",
+        "(i) and (iii) are correct",
+        "(ii) and (iii) are correct"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 138,
+      "text": "What is the least number of complete years in which a sum of money put out at 40% annual compound interest will be more than tripled?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 139,
+      "text": "A man rows down a river 18 km in 4 hours with the stream and returns in 10 hours. Consider the following statements: (i) The speed of the man against the stream is 1.8 km/hr. (ii) The speed of the man in still water is 3.15 km/hr. (iii) The speed of the stream is 1.35 km/hr. Which of the above statements are correct?",
+      "options": [
+        "(i) and (ii) only",
+        "(ii) and (iii) only",
+        "(i) and (iii) only",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 140,
+      "text": "A started at 8:30 AM from a place P to go to a place Q. 30 minutes later, B left P for Q and caught up with A at 11 AM. B reached Q at 12 noon. A will reach Q at",
+      "options": [
+        "12:30 PM",
+        "1:00 PM",
+        "12:15 PM",
+        "12:20 PM"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 141,
+      "text": "Bobby and Billy can complete a job in 28 days and 20 days respectively. They work together for 5 days, after which Billy leaves the job. In how many days does Bobby alone complete the rest of the job?",
+      "options": [
+        "15 days",
+        "16 days",
+        "12 days",
+        "20 days"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 142,
+      "text": "Three pipes A, B, C can fill an empty cistern in 2 hours, 3 hours and 6 hours respectively. They are opened together. After what time should B be closed so that the cistern gets filled in exactly 1 hour and 15 minutes?",
+      "options": [
+        "30 minutes",
+        "20 minutes",
+        "45 minutes",
+        "15 minutes"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 143,
+      "text": "A vessel full of water weighs 40 kg. If it is one-third filled, its weight becomes 20 kg. What is the weight of the empty vessel?",
+      "options": [
+        "25 kg",
+        "15 kg",
+        "20 kg",
+        "10 kg"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 144,
+      "text": "In an examination, 70% of the candidates passed in English, 65% in Mathematics, 27% failed in both the subjects. If 248 candidates passed in both the subjects, then the total number of candidates is",
+      "options": [
+        "200",
+        "300",
+        "400",
+        "100"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 145,
+      "text": "A total of 5 cards is chosen at random from a standard deck of 52 playing cards. What is the probability of choosing 5 aces?",
+      "options": [
+        "0",
+        "1",
+        "1/2",
+        "1/4"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 146,
+      "text": "An angle is twice its complementary angle. What is the measure of the angle?",
+      "options": [
+        "30°",
+        "60°",
+        "90°",
+        "120°"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 147,
+      "text": "In a circle with radius 5 cm, a chord is at a distance of 3 cm from the centre. The length of the chord is",
+      "options": [
+        "7 cm",
+        "3 cm",
+        "8 cm",
+        "4 cm"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 148,
+      "text": "The sides of a triangle are in the ratio 5 : 12 : 13 and its perimeter is 90 cm. The area (in cm²) is",
+      "options": [
+        "150",
+        "60",
+        "30",
+        "270"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 149,
+      "text": "The total surface area of a closed hemisphere is 16632 cm². What is the sum of the radius and the diameter of this hemisphere? Use π = 22/7.",
+      "options": [
+        "172 cm",
+        "126 cm",
+        "168 cm",
+        "154 cm"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 150,
+      "text": "A vertical stick 12 cm long casts a shadow 8 cm long on the ground. At the same time, a tower casts a shadow 40 m long on the ground. The height of the tower is",
+      "options": [
+        "60 m",
+        "65 m",
+        "70 m",
+        "72 m"
       ],
       "answerIndex": null,
       "transcriptionStatus": "transcribed"
