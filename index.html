@@ -143,7 +143,7 @@ body.dark .dashboard-heading span{font-size:12px;color:#98a8c4}
 <section id="pyq" class="tab">
 <div class="card"><span class="badge pyq">EXACT HISTORICAL PAPERS</span><h2>📚 PYQ Mode — Original Papers</h2><p class="muted">This mode contains only previous-year papers transcribed from an original paper you upload or a verified official MPSC source. Original wording, printed question order and option order are preserved. No predicted questions are inserted.</p>
 <div class="note"><b>Paper availability:</b> A paper appears here only after its uploaded source has been transcribed and checked. Incomplete papers are labelled and cannot be presented as complete examinations.</div>
-<div class="controls"><select id="pyqPaperSelect" aria-label="Select previous-year paper"><option value="">Loading verified papers…</option></select><button class="btn" id="pyqStartBtn" onclick="startExactPyq()" disabled>Start PYQ Examination</button></div><div id="pyqPaperInfo" class="small muted">Loading paper catalogue…</div><div id="exactPyqRunner"></div><div id="exactPyqResult"></div></div>
+<div class="controls"><select id="pyqPaperSelect" aria-label="Select verified previous-year paper"><option value="">Loading verified papers…</option></select><button class="btn" id="pyqStartBtn" onclick="startExactPyq()" disabled>Start PYQ Examination</button></div><div id="pyqPaperInfo" class="small muted">Loading paper catalogue…</div><div id="pyqPaperQueue" class="small"></div><div id="exactPyqRunner"></div><div id="exactPyqResult"></div></div>
 <div class="card"><h3>How this section works</h3><ol><li>Upload the original question paper or select a paper from an official MPSC source.</li><li>The paper is transcribed exactly, including printed numbering and choices.</li><li>After verification, it is added here under its exam, year and series.</li><li>Attempt it online and submit to see your score and verified key, where available.</li></ol><p class="small muted">No PDF viewer or PDF download is provided in this test interface. Source files are used for transcription and verification only.</p></div>
 </section>
 <section id="official" class="tab"><div class="card hero"><h2>🏛️ Official Meghalaya PSC</h2><p>Use the official Meghalaya Public Service Commission website as the primary source for new question papers, answer keys, notices and syllabus changes.</p><div class="controls"><a class="btn" href="https://mpsc.meghalaya.gov.in/" target="_blank" rel="noopener">Open MPSC Website</a><a class="btn secondary" href="https://mpsc.meghalaya.gov.in/anskey.html" target="_blank" rel="noopener">Question Papers & Answer Keys</a><a class="btn warn" href="https://mpsc.meghalaya.gov.in/notifications-ak.html" target="_blank" rel="noopener">Answer-Key Notices</a></div></div><div class="card"><h3>🔎 V4 update policy</h3><ul><li><b>Official PYQ:</b> only when supported by an MPSC paper/source.</li><li><b>Verified answer:</b> prefer the official/final answer key where available.</li><li><b>Concept repeat:</b> same tested idea across papers; not necessarily word-for-word.</li><li><b>Original practice:</b> newly written practice questions are never presented as genuine PYQs.</li></ul></div><div class="card"><h3>🗓️ Current official-source snapshot</h3><p class="muted">The official MPSC answer-key page currently lists recent material including LDA under Heads of Department (July 2025), Sub Inspector of Statistics (April 2025), Inspector of Housing (April 2025), Inspector of Excise (December 2024) and other examinations. Check the official pages for the latest releases before relying on any new answer.</p><p class="small">Last source check built into V4: 05 October 2026. This is a source directory, not an automatic live feed.</p></div></section><section id="practice" class="tab"><div class="card"><div class="sectionTitle"><h2>🧠 Topic Practice</h2><span id="practiceCount" class="muted"></span></div><div class="controls"><input id="search" placeholder="Search question, topic or keyword"><select id="cat"></select><select id="diff"><option value="">All difficulty</option><option>Easy</option><option>Medium</option><option>Hard</option><option>PYQ</option></select><select id="examFilter"><option value="">All exam relevance</option><option>Common MPSC</option><option>MPSC Secretariat LDA</option><option>DSC LDA-cum-Typist</option><option>Inspector of Taxes</option><option>Inspector of Excise</option><option>Assistant Inspector of Excise</option><option>Inspector of Housing</option><option>Legal Metrology</option><option>Motor Vehicle Inspector</option><option>Statistics</option></select><button class="btn secondary" onclick="resetPractice()">Reset</button></div><div id="bank"></div></div></section>
@@ -432,26 +432,23 @@ let EXACT_PYQ_ANSWERS={};
 let EXACT_PYQ_INTERVAL=null;
 let EXACT_PYQ_REMAINING=0;
 function loadExactPyqCatalogue(){
- const select=document.getElementById('pyqPaperSelect');
- const info=document.getElementById('pyqPaperInfo');
+ const select=document.getElementById('pyqPaperSelect'),info=document.getElementById('pyqPaperInfo'),queue=document.getElementById('pyqPaperQueue'),startButton=document.getElementById('pyqStartBtn');
  if(!select||!info)return;
- select.innerHTML='<option value="">Loading verified papers…</option>';
- fetch('./pyq-papers/index.json').then(function(r){if(!r.ok)throw new Error('PYQ catalogue unavailable');return r.json()}).then(function(data){
+ select.innerHTML='<option value="">Loading PYQ catalogue…</option>';
+ fetch('./pyq-papers/index.json',{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error('PYQ catalogue unavailable');return r.json()}).then(function(data){
   if(data.schemaVersion!==1||!Array.isArray(data.papers))throw new Error('Invalid PYQ catalogue');
-  EXACT_PYQ_PAPERS=data.papers;
-  if(!EXACT_PYQ_PAPERS.length){
-   const startButton=document.getElementById('pyqStartBtn');if(startButton)startButton.disabled=true;
-   select.innerHTML='<option value="">No verified full papers added yet</option>';
-   info.textContent='The PYQ section is ready. A paper will appear after its complete transcription is checked against the original source.';
-   return;
+  const all=data.papers;
+  EXACT_PYQ_PAPERS=all.filter(function(p){return p.complete===true&&p.transcribedQuestions===p.totalQuestions&&p.questionsPath});
+  const pending=all.filter(function(p){return p.status!=='duplicate_upload'&&!(p.complete===true&&p.transcribedQuestions===p.totalQuestions)});
+  select.innerHTML=EXACT_PYQ_PAPERS.length?'<option value="">Select a verified examination paper</option>'+EXACT_PYQ_PAPERS.map(function(p,i){return '<option value="'+i+'">'+esc(p.title||p.exam+' — '+p.year+' Series '+p.series)+'</option>'}).join(''):'<option value="">No fully verified papers yet</option>';
+  if(startButton)startButton.disabled=true;
+  select.onchange=function(){if(startButton)startButton.disabled=select.value===''};
+  info.textContent='Collection: '+(data.uploadedPdfCount||all.length)+' uploaded PDFs • '+(data.distinctPaperCount||all.length)+' distinct papers • '+EXACT_PYQ_PAPERS.length+' fully verified and ready • '+pending.length+' awaiting transcription or verification.';
+  if(queue){
+   queue.innerHTML='<div class="note"><b>PYQ processing queue</b><p>'+pending.length+' papers are registered below. They will become selectable only after the full question set is transcribed and checked against the original PDF.</p><ol>'+pending.map(function(p){return '<li><b>'+esc(p.exam||p.title)+'</b> — '+esc(String(p.date||p.year||'Date to confirm'))+' · '+esc(p.status==='transcription_review'?'Transcription review':p.status==='in_progress'?'In progress':'Awaiting transcription')+' · '+(Number(p.transcribedQuestions)||0)+'/'+(Number(p.totalQuestions)||'?')+' questions</li>'}).join('')+'</ol><p class="small muted">Duplicate uploads are retained in the source register but excluded from the distinct-paper count.</p></div>';
   }
-  select.innerHTML='<option value="">Select an examination paper</option>'+EXACT_PYQ_PAPERS.map(function(p,i){
-   return '<option value="'+i+'">'+esc(p.title||p.exam+' — '+p.year+' Series '+p.series)+'</option>';
-  }).join('');
-  const startButton=document.getElementById('pyqStartBtn');if(startButton)startButton.disabled=false;
-  info.textContent=EXACT_PYQ_PAPERS.length+' paper record(s) in the catalogue. Only papers marked complete can start as full examinations.';
  }).catch(function(err){
-  const startButton=document.getElementById('pyqStartBtn');if(startButton)startButton.disabled=true;
+  if(startButton)startButton.disabled=true;
   select.innerHTML='<option value="">Catalogue could not be loaded</option>';
   info.textContent=err.message;
  });
