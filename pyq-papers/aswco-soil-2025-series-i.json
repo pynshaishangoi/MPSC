@@ -7,9 +7,9 @@
   "date": "2026-01-08",
   "series": "I",
   "totalQuestions": 150,
-  "transcribedQuestions": 137,
+  "transcribedQuestions": 133,
   "complete": false,
-  "transcriptionNote": "First-pass transcription covers Q1–150. Thirteen questions (Q121–123, Q127, Q129, Q131, Q135–136, Q140–141, Q144, Q148 and Q150) are flagged for source-image/formula verification. No answer key is supplied or invented.",
+  "transcriptionNote": "First-pass transcription covers Q1–150. Seventeen questions (Q79–82, Q121–123, Q127, Q129, Q131, Q135–136, Q140–141, Q144, Q148 and Q150) are flagged for source-image/formula verification. No answer key supplied or invented.",
   "questions": [
     {
       "number": 1,
@@ -949,51 +949,31 @@
     },
     {
       "number": 79,
-      "text": "For which discovery in 1932 was James Chadwick best known?",
-      "options": [
-        "Wave theory of light",
-        "Thermal ionisation",
-        "Neutron",
-        "Electron"
-      ],
+      "text": "[Question text and options not legible in extracted source text; requires page-image transcription.]",
+      "options": [],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "needs_source_visual_check"
     },
     {
       "number": 80,
-      "text": "Which detergents are also used in toothpaste?",
-      "options": [
-        "Anionic detergents",
-        "Non-ionic detergents",
-        "Cationic detergents",
-        "Synthetic detergents"
-      ],
+      "text": "[Question text and options not legible in extracted source text; requires page-image transcription.]",
+      "options": [],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "needs_source_visual_check"
     },
     {
       "number": 81,
-      "text": "The isotope of which one among the following elements is used in the treatment of cancer?",
-      "options": [
-        "Uranium",
-        "Cobalt",
-        "Iodine",
-        "Fluorine"
-      ],
+      "text": "[Question text and options not legible in extracted source text; requires page-image transcription.]",
+      "options": [],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "needs_source_visual_check"
     },
     {
       "number": 82,
-      "text": "Which of the following elements is responsible for high blood pressure?",
-      "options": [
-        "Sodium",
-        "Magnesium",
-        "Potassium",
-        "Calcium"
-      ],
+      "text": "[Question text and options not legible in extracted source text; requires page-image transcription.]",
+      "options": [],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "needs_source_visual_check"
     },
     {
       "number": 83,
