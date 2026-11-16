@@ -131,14 +131,14 @@
       "date": "2019-07-05",
       "series": "I",
       "totalQuestions": 175,
-      "transcribedQuestions": 0,
+      "transcribedQuestions": 65,
       "complete": false,
-      "status": "queued",
+      "status": "in_progress",
       "sourceFileName": "05072019ID(HFW)19.pdf",
       "sourcePageCount": 20,
-      "questionsPath": null,
+      "questionsPath": "pyq-papers/inspector-drugs-2019-series-i.json",
       "answerKeyStatus": "not_verified",
-      "notes": ""
+      "notes": "First-pass transcription covers Q1–75. Ten questions flagged for source-image verification; Q76–175 optional technical section pending."
     },
     {
       "id": "meghalaya-pyq-008",
