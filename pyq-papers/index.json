@@ -12,14 +12,14 @@
       "date": "2021-12",
       "series": "I",
       "totalQuestions": 150,
-      "transcribedQuestions": 108,
+      "transcribedQuestions": 150,
       "complete": false,
       "status": "in_progress",
       "sourceFileName": "[LABOUR INSPT(DEC 2021)]07112026.pdf",
       "sourcePageCount": 20,
       "questionsPath": "pyq-papers/labour-inspector-2021-series-i.json",
       "answerKeyStatus": "not_supplied",
-      "notes": "Questions 1–57, 60–74, 76–98 and 100–108 transcribed. Q58–59 diagrams, Q75 equation and Q99 options require source visual verification. Q109–150 pending."
+      "notes": "All question numbers 1–150 transcribed. Visual/formula checks remain for Q58–59 (figures), Q73, Q75, Q99, Q126, Q139, Q146 and Q149. No answer key supplied."
     },
     {
       "id": "meghalaya-pyq-002",

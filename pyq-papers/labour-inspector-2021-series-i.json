@@ -7,9 +7,9 @@
   "date": "2021-12",
   "series": "I",
   "totalQuestions": 150,
-  "transcribedQuestions": 108,
+  "transcribedQuestions": 150,
   "complete": false,
-  "transcriptionNote": "Questions 1–57 and 60–74, 76–98, 100–108 transcribed. Questions 58–59 require source figures; Q75 equation and Q99 option lettering/text require visual verification. Questions 109–150 remain pending. No answer key supplied.",
+  "transcriptionNote": "All numbered items 1–150 have been transcribed into the question data, but the paper is not yet complete/verified: Q58–59 require diagrams; Q75, Q126, Q139, Q146 and Q149 require visual/formula review; Q73 and Q99 also require final scan check. No answer key supplied.",
   "questions": [
     {
       "number": 1,
@@ -1303,6 +1303,510 @@
         "Covovax",
         "Anocovax",
         "Novavax"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 109,
+      "text": "Who worked as Project Director in developing Agni IV and is also known as India's 'Missile Woman'?",
+      "options": [
+        "Ritu Karidhal",
+        "Anuradha T. K.",
+        "Muthayya Vanitha",
+        "Tessy Thomas"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 110,
+      "text": "Which of the following cities is incorrectly paired with the river that flows through it?",
+      "options": [
+        "Delhi–Yamuna",
+        "Lucknow–Gomti",
+        "Nagpur–Godavari",
+        "Tiruchirappalli–Kaveri"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 111,
+      "text": "Announced on 15th September, 2021, AUKUS is a trilateral security pact between which countries?",
+      "options": [
+        "United States, United Kingdom and Ukraine",
+        "United States, Australia and Ukraine",
+        "United States, United Kingdom and Australia",
+        "United Kingdom, Ukraine and Australia"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 112,
+      "text": "Name the organization that has launched the Operation Farishte to prevent trafficking of children.",
+      "options": [
+        "Indian Railways",
+        "Coast Guard",
+        "Central Reserve Police Force",
+        "Border Security Force"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 113,
+      "text": "Who is the present Chief Executive Officer of Apple company?",
+      "options": [
+        "Steve Jobs",
+        "Steve Wozniak",
+        "John Ternus",
+        "Tim Cook"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 114,
+      "text": "Who is known as the father of Green Revolution in India?",
+      "options": [
+        "M. S. Swaminathan",
+        "Verghese Kurien",
+        "Captain Gopinath",
+        "Sunderlal Bahuguna"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 115,
+      "text": "Which of the following is an example of Piedmont Plateau?",
+      "options": [
+        "Tibetan Plateau",
+        "Bolivian Plateau",
+        "Malwa Plateau",
+        "Ladakh Plateau"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 116,
+      "text": "Eight cheetahs were brought from Namibia and released in which National Park of India on 17th September, 2022 to coincide with Prime Minister Narendra Modi's birthday?",
+      "options": [
+        "Gir National Park",
+        "Kuno National Park",
+        "Ranthambore National Park",
+        "Periyar National Park"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 117,
+      "text": "The deficiency of vitamin C causes which of the following diseases?",
+      "options": [
+        "Night blindness",
+        "Beriberi",
+        "Scurvy",
+        "Rickets"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 118,
+      "text": "For galvanizing iron, which of the following metals is used?",
+      "options": [
+        "Brass",
+        "Copper",
+        "Lead",
+        "Zinc"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 119,
+      "text": "Eugenics is the study of",
+      "options": [
+        "altering human beings by changing their genetic components",
+        "people of European origin",
+        "different races of mankind",
+        "genetics of plants"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 120,
+      "text": "National Voters' Day is observed in India on",
+      "options": [
+        "25th January",
+        "24th January",
+        "25th June",
+        "24th July"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 121,
+      "text": "Spain won the title of the FIFA U-17 Women's World Cup 2022, after defeating which country in the final that was held at the D. Y. Patil Sports Stadium?",
+      "options": [
+        "Germany",
+        "Brazil",
+        "Colombia",
+        "United States of America"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 122,
+      "text": "To ease the loan process, which of the following States has launched a common credit portal named Simplified Application for Agricultural Loans (SAFAL)?",
+      "options": [
+        "Odisha",
+        "West Bengal",
+        "Maharashtra",
+        "Punjab"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 123,
+      "text": "Which of the following cities is known as the Manchester of South India?",
+      "options": [
+        "Coimbatore",
+        "Chennai",
+        "Madurai",
+        "Mysuru"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 124,
+      "text": "Who is the founder of the Gupta dynasty?",
+      "options": [
+        "Samudragupta",
+        "Chandragupta I",
+        "Vishnugupta",
+        "Sri Gupta"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 125,
+      "text": "What is the time difference between Indian Standard Time and Greenwich Mean Time?",
+      "options": [
+        "5 hours 10 minutes",
+        "4 hours 20 minutes",
+        "5 hours 30 minutes",
+        "6 hours 30 minutes"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 126,
+      "text": "The value of 4/5 + 7/2 − 5/8 is",
+      "options": [
+        "2 10/33",
+        "2 20/33",
+        "6 10/33",
+        "6 20/33"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_visual_or_math_review"
+    },
+    {
+      "number": 127,
+      "text": "The ratio of the ages of A and B seven years ago was 3:4. The ratio of their ages nine years hence will be 7:8. What is B's present age?",
+      "options": [
+        "16 years",
+        "19 years",
+        "23 years",
+        "28 years"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 128,
+      "text": "An article was bought for ₹5,600. Its price was marked up by 12%. Thereafter it was sold at a discount of 5% on the marked price. What was the amount of discount given?",
+      "options": [
+        "₹303.60",
+        "₹313.60",
+        "₹323.60",
+        "₹343.60"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 129,
+      "text": "The average speed of a train is 3 times the average speed of a car. The car covers a distance of 520 km in 8 hours. How much distance will the train cover in 13 hours?",
+      "options": [
+        "2535 km",
+        "2553 km",
+        "2585 km",
+        "2355 km"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 130,
+      "text": "The area of a triangle is half the area of a square. The perimeter of the square is 224 cm. The area of the triangle is",
+      "options": [
+        "1558 cm²",
+        "1568 cm²",
+        "2658 cm²",
+        "3136 cm²"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 131,
+      "text": "The compound interest accrued on an amount of ₹8,500 in 2 years at the rate of 10% p.a. is",
+      "options": [
+        "₹1,875",
+        "₹1,785",
+        "₹1,885",
+        "₹1,775"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 132,
+      "text": "The average of five consecutive odd numbers is 95. What is the fourth number in descending order?",
+      "options": [
+        "97",
+        "91",
+        "95",
+        "93"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 133,
+      "text": "A and B can finish a work in 18 hours, B and C in 12 hours and A and C in 15 hours. How long will they take to complete the work if they work together?",
+      "options": [
+        "13 hours",
+        "22 1/2 hours",
+        "4 32/37 hours",
+        "27/37 hours"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 134,
+      "text": "A train passes a platform 100 m long in 15 seconds and a man standing on the platform in 10 seconds. The speed of the train is",
+      "options": [
+        "38 km/hr",
+        "66 km/hr",
+        "72 km/hr",
+        "75 km/hr"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 135,
+      "text": "Alex sold his radio set at 10% loss. If he had sold it for ₹45 more, he would have made 5% profit. For how much did he sell the radio?",
+      "options": [
+        "₹270",
+        "₹300",
+        "₹315",
+        "₹435"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 136,
+      "text": "Out of a sum of ₹625, a part was lent at 5% and the other at 10% simple interest. If the interest on the first part after 2 years is equal to the interest on the second part after 4 years, then the second sum is equal to",
+      "options": [
+        "₹300",
+        "₹250",
+        "₹200",
+        "₹125"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 137,
+      "text": "A father left a will of ₹16,400 for his two sons aged 17 and 18 years. They must get equal amounts when they are 20 years at 5 percent compound interest. Find the present share of the younger son.",
+      "options": [
+        "₹8,000",
+        "₹9,000",
+        "₹10,000",
+        "₹11,000"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 138,
+      "text": "In a Legislative Assembly, the ratio of the ruling party to the opposition party was 7:3. Due to 18 members leaving the ruling party and joining the opposition party, the ratio was reduced to 3:2. What was the total strength of the Assembly?",
+      "options": [
+        "240",
+        "220",
+        "180",
+        "160"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 139,
+      "text": "If x² ∝ y³ and x = 3 when y = 5, then the relation between x and y is",
+      "options": [
+        "125x² + 9y³ = 0",
+        "125x³ + 9y² = 0",
+        "125x² − 9y³ = 0",
+        "125x³ − 9y² = 0"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_visual_or_math_review"
+    },
+    {
+      "number": 140,
+      "text": "A, B and C enter into a partnership. A contributes one-third of the capital while B contributes as much as A and C together contribute. If the profit at the end of the year amounts to ₹840, what would C receive?",
+      "options": [
+        "₹560",
+        "₹420",
+        "₹280",
+        "₹140"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 141,
+      "text": "The average weight of X, Y and Z is 45 kg, that of X and Y is 40 kg, and of Y and Z is 43 kg. What is the weight of Y?",
+      "options": [
+        "17 kg",
+        "20 kg",
+        "26 kg",
+        "31 kg"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 142,
+      "text": "The LCM of 2/3 and 4/9 is",
+      "options": [
+        "2/3",
+        "4/3",
+        "4/9",
+        "2/9"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 143,
+      "text": "The produce of a square field when sold at the rate of ₹1.50 per 100 sq. meters fetches ₹1,350. What will be the cost of putting a fence all around the field at the rate of 50 paise per meter?",
+      "options": [
+        "₹540",
+        "₹575",
+        "₹600",
+        "₹675"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 144,
+      "text": "What is the maximum length of a pencil that can be kept in a rectangular box of dimensions 8 cm × 6 cm × 2 cm?",
+      "options": [
+        "√96 cm",
+        "√104 cm",
+        "16 cm",
+        "√56 cm"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 145,
+      "text": "If a cylinder is inscribed in a cube in such a way that the ends of the cylinder are on the opposite faces of the cube, then what is the ratio of the volumes of the cube to the cylinder?",
+      "options": [
+        "1:1",
+        "2:π",
+        "4:π",
+        "π:3"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 146,
+      "text": "A person of height 2 meters wants to get a fruit which is on a pole of height 10/3 meters. If he stands at a distance of 4/√3 meters from the foot of the pole, then the angle at which he should throw the stone so that it hits the fruit is",
+      "options": [
+        "15°",
+        "30°",
+        "45°",
+        "60°"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_visual_or_math_review"
+    },
+    {
+      "number": 147,
+      "text": "The rainfall (in cm) in a city for the ten-year period 1991–2000 was recorded as follows: 89, 95, 70, 102, 29, 79, 63, 95, 72, 50. The mean rainfall is",
+      "options": [
+        "less than 40 cm",
+        "between 90 cm and 100 cm",
+        "less than 100 cm",
+        "more than 100 cm"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 148,
+      "text": "The equation x² − (2 tan α)x − 1 = 0, where 0° < α < 90°, has",
+      "options": [
+        "equal roots",
+        "real and distinct roots",
+        "no real roots",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 149,
+      "text": "If [unclear printed expression] is subtracted from the square of a number, the answer so obtained is 6460. What is the number?",
+      "options": [
+        "112",
+        "113",
+        "114",
+        "115"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_visual_or_math_review"
+    },
+    {
+      "number": 150,
+      "text": "In an examination, it is required to get 40% of the maximum marks to pass. A student gets 261 marks and is declared failed by 4% marks. What is the maximum marks a student can get?",
+      "options": [
+        "700",
+        "725",
+        "745",
+        "765"
       ],
       "answerIndex": null,
       "transcriptionStatus": "transcribed"
