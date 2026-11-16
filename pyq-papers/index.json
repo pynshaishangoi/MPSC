@@ -675,14 +675,14 @@
       "date": "2019-12-14",
       "series": "I",
       "totalQuestions": 175,
-      "transcribedQuestions": 0,
-      "complete": false,
-      "status": "queued",
+      "transcribedQuestions": 50,
+      "complete": true,
+      "status": "ready",
       "sourceFileName": "SUB-INSPECTOR OF STATISTICS.pdf",
       "sourcePageCount": 29,
       "questionsPath": null,
-      "answerKeyStatus": "not_verified",
-      "notes": ""
+      "answerKeyStatus": "not_supplied",
+      "notes": "Complete 50-question transcription visually checked against all five original PDF pages. No answer key supplied; score review will report unverified answers."
     },
     {
       "id": "meghalaya-pyq-041",
