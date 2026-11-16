@@ -230,14 +230,14 @@
       "date": "2025-08-09",
       "series": "I",
       "totalQuestions": 125,
-      "transcribedQuestions": 0,
+      "transcribedQuestions": 113,
       "complete": false,
-      "status": "queued",
+      "status": "in_progress",
       "sourceFileName": "09082025[LO(GAD)APR,2025].pdf",
       "sourcePageCount": 14,
-      "questionsPath": null,
+      "questionsPath": "pyq-papers/liaison-officer-gad-2025-aug-series-i.json",
       "answerKeyStatus": "not_verified",
-      "notes": ""
+      "notes": "First-pass transcription covers Q1–125. Twelve questions flagged for source-image/formula verification; no answer key invented."
     },
     {
       "id": "meghalaya-pyq-012",
