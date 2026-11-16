@@ -46,14 +46,14 @@
       "date": "2024-12-14",
       "series": "I",
       "totalQuestions": 150,
-      "transcribedQuestions": 75,
+      "transcribedQuestions": 150,
       "complete": false,
       "status": "in_progress",
       "sourceFileName": "[LDA(OCT-2023].pdf",
       "sourcePageCount": 20,
       "questionsPath": "pyq-papers/lda-mpsc-2023-series-i.json",
       "answerKeyStatus": "not_verified",
-      "notes": "Questions 1–75 first-pass transcribed; Q25, Q61 and Q62 flagged for source image verification. Questions 76–150 pending."
+      "notes": "All 150 questions first-pass transcribed; source/OCR and reasoning items remain flagged for verification."
     },
     {
       "id": "meghalaya-pyq-004",
