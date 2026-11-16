@@ -7,9 +7,9 @@
   "date": "2024-07-06",
   "series": "I",
   "totalQuestions": 300,
-  "transcribedQuestions": 214,
+  "transcribedQuestions": 269,
   "complete": false,
-  "transcriptionNote": "First-pass transcription includes Part A Q1–75, Statistics Q76–150, and Economics Q76–150. Six Economics questions (Q111, Q143–145, Q148, Q150) are flagged for source-image verification. Mathematics option Q76–150 remains pending. No answer key supplied or invented.",
+  "transcriptionNote": "First-pass transcription includes Part A Q1–75 and all three optional subject sets (Statistics, Economics and Mathematics) Q76–150. Mathematics has 21 items flagged for source-image/formula verification. Earlier Part A, Statistics and Economics flags remain. No answer key supplied or invented; full visual verification pending.",
   "questions": [
     {
       "number": 1,
@@ -2860,6 +2860,981 @@
       "subject": "Economics",
       "answerIndex": null,
       "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 76,
+      "text": "Given that 1² + 2² + 3² + … + 10² = 385, then the value of 2² + 4² + 6² + … + 20² is equal to",
+      "options": [
+        "1500",
+        "1540",
+        "670",
+        "1155"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 77,
+      "text": "The remainder when 2^126 is divided by 48 is",
+      "options": [
+        "1",
+        "1/100",
+        "[option C unclear in source OCR]",
+        "25"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 78,
+      "text": "[Mathematical expression in the source scan is unclear; question number 78 requires page-image transcription.]",
+      "options": [
+        "1",
+        "1/100",
+        "[option C unclear]",
+        "25"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 79,
+      "text": "If a + b + c = 13 and a² + b² + c² = 69, then ab + bc + ca is equal to",
+      "options": [
+        "[Option A unclear in OCR]",
+        "[Option B unclear in OCR]",
+        "[Option C unclear in OCR]",
+        "82"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 80,
+      "text": "A number consists of two digits. The sum of the digits is 9. If 63 is subtracted from the number, its digits are interchanged. The number is",
+      "options": [
+        "18",
+        "90",
+        "27",
+        "81"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 81,
+      "text": "The ratio of the ages of A and B is 9 : 10. Ten years ago, the ratio of their ages was 4 : 5. Then the present age of A is",
+      "options": [
+        "18",
+        "20",
+        "22",
+        "24"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 82,
+      "text": "If x = [expression unclear], A = [expression unclear] and z = xc, then the value of abc is",
+      "options": [
+        "0",
+        "2",
+        "[option C unclear]",
+        "[option D unclear]"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 83,
+      "text": "If log₁₀ 2 = 0.30103, then the value of log₁₀(50) is",
+      "options": [
+        "0.60206",
+        "[Option B unclear in OCR]",
+        "[Option C unclear in OCR]",
+        "[Option D unclear in OCR]"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 84,
+      "text": "In an examination, 35% of the total students failed in Hindi, 45% failed in English and 20% failed in both. The percentage of students who passed in both subjects is",
+      "options": [
+        "60%",
+        "25%",
+        "30%",
+        "40%"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 85,
+      "text": "The cost price of an article is ₹1,800. If the profit is 32%, then its selling price is",
+      "options": [
+        "₹2,376",
+        "₹2,400",
+        "₹3,600",
+        "₹2,496"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 86,
+      "text": "The fourth proportional to 4, 9 and 12 is",
+      "options": [
+        "16",
+        "20",
+        "27",
+        "36"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 87,
+      "text": "If 36 men can do a piece of work in 25 hours, in how many hours will 15 men do it?",
+      "options": [
+        "30 hours",
+        "40 hours",
+        "50 hours",
+        "60 hours"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 88,
+      "text": "Pipe A can fill a tank in 30 hours and pipe B in 45 hours. If both pipes are opened in an empty tank, then together they will fill the tank in",
+      "options": [
+        "35 hours",
+        "18 hours",
+        "20 hours",
+        "24 hours"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 89,
+      "text": "The speed of a bus is 72 kmph. The distance travelled by the bus in 5 seconds is",
+      "options": [
+        "100 metres",
+        "72 metres",
+        "50 metres",
+        "24 metres"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 90,
+      "text": "A 100 metres long train is running at the speed of 30 kmph. The time taken by the train to cross a pole is",
+      "options": [
+        "10 seconds",
+        "12 seconds",
+        "15 seconds",
+        "18 seconds"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 91,
+      "text": "A sum of ₹800 amounts to ₹920 in 3 years at simple interest. The rate of interest per annum is",
+      "options": [
+        "7%",
+        "6%",
+        "5%",
+        "4%"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 92,
+      "text": "In how many years will ₹1,00,000 become ₹1,33,100 at compound interest at 10% per annum?",
+      "options": [
+        "1 year",
+        "1½ years",
+        "2 years",
+        "3 years"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 93,
+      "text": "If the ratio of the circumferences of two circles is 2 : 3, then the ratio of their areas is",
+      "options": [
+        "4 : 6",
+        "8 : 9",
+        "4 : 9",
+        "6 : 9"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 94,
+      "text": "If the total surface area of a cube is 864 m², then the volume of the cube is",
+      "options": [
+        "512 m³",
+        "1728 m³",
+        "3840 m³",
+        "1228 m³"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 95,
+      "text": "The area of a triangle whose sides are of lengths 20 m, 21 m and 29 m is",
+      "options": [
+        "[Option A unclear in OCR]",
+        "200 m²",
+        "290 m²",
+        "232 m²"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 96,
+      "text": "There are 10 points in a plane, no three of which are collinear. The total number of straight lines which can be formed by joining the points is",
+      "options": [
+        "90",
+        "70",
+        "45",
+        "25"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 97,
+      "text": "Two dice are thrown. What is the probability that the sum of the numbers on the two faces is a prime number?",
+      "options": [
+        "[Option A fraction unclear]",
+        "5/12",
+        "[Option C fraction unclear]",
+        "2/9"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 98,
+      "text": "The average weight of 21 boys was recorded as 64 kg. If the weight of a teacher was added, the average increased by 1 kg. The teacher's weight was",
+      "options": [
+        "64 kg",
+        "72 kg",
+        "84 kg",
+        "86 kg"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 99,
+      "text": "If 2^(x−1) + 2^(x+1) = 1280, then x is equal to",
+      "options": [
+        "9",
+        "8",
+        "7",
+        "6"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 100,
+      "text": "By what least number must 1080 be multiplied to obtain a number which is a perfect cube?",
+      "options": [
+        "50",
+        "25",
+        "15",
+        "20"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 101,
+      "text": "If [logarithmic expression in the source scan] = 2, then [the required logarithmic expression] is equal to",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 102,
+      "text": "The sum of the roots of the quadratic equation 3x² − 9x + 5 = 0 is",
+      "options": [
+        "6",
+        "−3",
+        "2",
+        "3"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 103,
+      "text": "The roots of the quadratic equation 7x² + x − 1 = 0 are",
+      "options": [
+        "Real and distinct",
+        "Real and equal",
+        "Not real",
+        "None of the above"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 104,
+      "text": "The nth term of the AP 5, 2, −1, −4, … is",
+      "options": [
+        "2n + 5",
+        "2n − 5",
+        "8 − 3n",
+        "3n − 8"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 105,
+      "text": "The coordinates of the centroid of a triangle whose vertices are (0, 6), (8, 12) and (7, 0) are",
+      "options": [
+        "(4, 6)",
+        "(16, 6)",
+        "(8, 6)",
+        "(5, 6)"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 106,
+      "text": "If a pole 6 m high casts a shadow 2√3 m long on the ground, then the sun's elevation is",
+      "options": [
+        "90°",
+        "60°",
+        "30°",
+        "90°"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 107,
+      "text": "[Question statement is missing in the extracted source text; options visible are 6, 8, 10 and 12.]",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 108,
+      "text": "(sec²θ − 1) × (cosec²θ − 1) is equal to",
+      "options": [
+        "1",
+        "[Option B unclear in OCR]",
+        "0",
+        "2"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 109,
+      "text": "Twelve solid spheres of the same size are made by melting a solid metallic cylinder of base diameter 2 cm and height 16 cm. Then the radius of each solid sphere is",
+      "options": [
+        "1 cm",
+        "2 cm",
+        "1/2 cm",
+        "1/3 cm"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 110,
+      "text": "What is the measure of an angle whose measure is 32° less than its supplement?",
+      "options": [
+        "148°",
+        "60°",
+        "74°",
+        "36°"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 111,
+      "text": "What is the sum of the angles of a quadrilateral?",
+      "options": [
+        "90°",
+        "180°",
+        "270°",
+        "360°"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 112,
+      "text": "[Question statement is missing in the extracted source text; options refer to a quantity being increased or decreased by 4 or 5.]",
+      "options": [
+        "It is increased by 4",
+        "It is increased by 5",
+        "It is decreased by 4",
+        "It is decreased by 5"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 113,
+      "text": "The class mark of the class interval 20–30 is",
+      "options": [
+        "25",
+        "28",
+        "22",
+        "26"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 114,
+      "text": "A square sheet whose perimeter is 32 cm is painted at the rate of ₹5 per cm². The cost of painting is",
+      "options": [
+        "₹160",
+        "₹320",
+        "₹480",
+        "₹640"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 115,
+      "text": "The line drawn from the centre of a circle to any point on its circumference is called",
+      "options": [
+        "Arc",
+        "Radius",
+        "Diameter",
+        "Chord"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 116,
+      "text": "If A is a set having n elements, then the number of elements in the power set of A is",
+      "options": [
+        "n",
+        "n²",
+        "2n",
+        "2^n"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 117,
+      "text": "If 3x − 17 > 13, then x belongs to the interval",
+      "options": [
+        "[Option A interval unclear]",
+        "[Option B interval unclear]",
+        "[Option C interval unclear]",
+        "[Option D interval unclear]"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 118,
+      "text": "[Question statement is missing in the extracted source text; options visible are 1, −1, −1 and 1/2.]",
+      "options": [
+        "1",
+        "−1",
+        "−1",
+        "1/2"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 119,
+      "text": "The length of the latus rectum of the parabola y² = 9x is equal to",
+      "options": [
+        "4",
+        "9",
+        "18",
+        "27"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 120,
+      "text": "The eccentricity e of a hyperbola is",
+      "options": [
+        "e = 1",
+        "e < 1",
+        "e > 1",
+        "0 < e < 1"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 121,
+      "text": "For every positive integer n, 7^n − 3^n is divisible by",
+      "options": [
+        "[Option A unclear in OCR]",
+        "[Option B unclear in OCR]",
+        "7",
+        "5"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 122,
+      "text": "[Question/diagram is missing in the extracted source text; only x-axis/coordinate options are visible.]",
+      "options": [
+        "(0, Q, x)",
+        "(0, x, Q)",
+        "(x, Q, 0)",
+        "None of the above"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 123,
+      "text": "If z = x + iy, where x and y are real numbers, then the modulus of z is",
+      "options": [
+        "x² + y²",
+        "[Option B unclear in OCR]",
+        "√(x² + y²)",
+        "x² + y²"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 124,
+      "text": "A bag contains 4 red balls and 6 blue balls. If two balls are drawn successively without replacement, what is the probability of drawing a red ball followed by a blue ball?",
+      "options": [
+        "2/6",
+        "4/15",
+        "[Option C unclear in OCR]",
+        "2/5"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 125,
+      "text": "If f(x) = x² and g(x) = √x, then [composition statements shown in the source; symbols partly unclear in OCR].",
+      "options": [
+        "(f ∘ g)(x) = x",
+        "(g ∘ f)(x) = |x|",
+        "(g ∘ f)(x) = 1/x",
+        "(f ∘ g)(x) = −x"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 126,
+      "text": "The least number which is exactly divisible by 32, 36, 45, 60 and 80 is",
+      "options": [
+        "1000",
+        "1200",
+        "1440",
+        "1620"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 127,
+      "text": "If the LCM of two numbers is 231, their HCF is 11 and one of the numbers is 77, then the other number is",
+      "options": [
+        "47",
+        "37",
+        "5",
+        "33"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 128,
+      "text": "The rational number for the recurring decimal 0.125125… is",
+      "options": [
+        "63/487",
+        "119/993",
+        "125/999",
+        "1/… [option D unclear]"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 129,
+      "text": "A man spends [fraction unclear] of his salary on house rent, [fraction unclear] on food and [fraction unclear] on conveyance. If he has ₹1,400 left with him, his salary is",
+      "options": [
+        "₹8,000",
+        "₹9,000",
+        "₹8,800",
+        "₹9,800"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 130,
+      "text": "The value of the continued expression 6 + 1/(6 + 1/(6 + …)) is",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 131,
+      "text": "Given √5 = 2.2361 and √3 = 1.7321, then [expression in source scan is unclear] is equal to",
+      "options": [
+        "1.98",
+        "1.984",
+        "1.9841",
+        "2"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 132,
+      "text": "If a number is added to two-fifths of itself, the value so obtained is 455, then the number is",
+      "options": [
+        "300",
+        "400",
+        "350",
+        "325"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 133,
+      "text": "If the numerator of a fraction is increased by 2 and the denominator is increased by 3, the fraction becomes 1/9; if both numerator and denominator are decreased by 1, the fraction becomes 1/5. What is the fraction?",
+      "options": [
+        "[Option A fraction unclear]",
+        "11/13",
+        "16/[denominator unclear]",
+        "[Option D unclear]"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 134,
+      "text": "The age of a mother is thrice that of her daughter. After 12 years, the age of the mother will be twice that of her daughter. The present age of the daughter is",
+      "options": [
+        "10 years",
+        "12 years",
+        "14 years",
+        "16 years"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 135,
+      "text": "If 5^a = 3125, then the value of 5^(a−5) is",
+      "options": [
+        "25",
+        "125",
+        "625",
+        "1625"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 136,
+      "text": "If log₁₀5 + log₁₀(5x + 1) = log₁₀(x + 5) + 1, then x is equal to",
+      "options": [
+        "10",
+        "5",
+        "3",
+        "1"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 137,
+      "text": "What percent of 6.5 litres is 130 millilitres?",
+      "options": [
+        "10%",
+        "5%",
+        "3%",
+        "2%"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 138,
+      "text": "An umbrella marked at ₹80 is sold for ₹68. The rate of discount is",
+      "options": [
+        "15%",
+        "17%",
+        "18%",
+        "20%"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 139,
+      "text": "The ratio of the cost of a table and chair is 9 : 4. The cost of the table is ₹1,250 more than the cost of the chair. What is the cost of the chair?",
+      "options": [
+        "₹1,000",
+        "₹1,200",
+        "₹1,500",
+        "₹1,900"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 140,
+      "text": "The third proportional to 25 and 30 is",
+      "options": [
+        "32",
+        "36",
+        "40",
+        "44"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 141,
+      "text": "12 men can do a piece of work in 24 days. How many days are needed to complete the work if 8 men do this work?",
+      "options": [
+        "52 days",
+        "48 days",
+        "42 days",
+        "36 days"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 142,
+      "text": "Two bikers A and B start and ride at 75 km/hr and 60 km/hr respectively towards each other. They meet after 20 minutes. How far were they from each other when they started?",
+      "options": [
+        "15 km",
+        "30 km",
+        "45 km",
+        "60 km"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 143,
+      "text": "The speed of a boat when travelling downstream is 32 km/hr whereas when travelling upstream it is 28 km/hr. What is the speed of the boat in still water?",
+      "options": [
+        "30 km/hr",
+        "16 km/hr",
+        "10 km/hr",
+        "8 km/hr"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 144,
+      "text": "In how many years will a sum of money double itself at 5% simple interest per annum?",
+      "options": [
+        "8 years",
+        "12 years",
+        "16 years",
+        "20 years"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 145,
+      "text": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
+      "options": [
+        "11%",
+        "12%",
+        "10%",
+        "13%"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 146,
+      "text": "The length and breadth of a rectangle are in the ratio 4 : 7. If its perimeter is 88 cm, then the area of the rectangle is",
+      "options": [
+        "336 cm²",
+        "414 cm²",
+        "448 cm²",
+        "524 cm²"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 147,
+      "text": "The slant height of a cone of radius 21 cm and height 28 cm is",
+      "options": [
+        "25 cm",
+        "35 cm",
+        "45 cm",
+        "55 cm"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 148,
+      "text": "What is the probability of getting at most 2 heads when three coins are tossed simultaneously?",
+      "options": [
+        "1/8",
+        "1/4",
+        "3/8",
+        "7/8"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 149,
+      "text": "The angle of depression of a point situated at a distance of 70 m from the base of a tower is 60°. The height of the tower is",
+      "options": [
+        "70√3 m",
+        "35√3 m",
+        "70/√3 m",
+        "70 m"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 150,
+      "text": "If A is a square matrix such that A² = A, then (I − A)³ + A is equal to",
+      "options": [
+        "I",
+        "0",
+        "I − A",
+        "I + A"
+      ],
+      "subject": "Mathematics",
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
     }
   ],
   "examQuestionCount": 150
