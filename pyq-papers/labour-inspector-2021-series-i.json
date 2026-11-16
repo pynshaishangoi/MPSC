@@ -9,7 +9,7 @@
   "totalQuestions": 150,
   "transcribedQuestions": 45,
   "complete": false,
-  "transcriptionNote": "Questions 1–45 transcribed from the original booklet. A few source OCR/scan defects are preserved or flagged; questions 46–150 remain pending. No answer key was supplied.",
+  "transcriptionNote": "Questions 1–45 transcribed from the original booklet. Q3 option D and Q4 stem are illegible in the extracted scan and are explicitly flagged rather than guessed. Questions 46–150 remain pending. No answer key was supplied.",
   "questions": [
     {
       "number": 1,
@@ -42,14 +42,14 @@
         "abundance",
         "availability",
         "scarcity",
-        ""
+        "[illegible in source scan]"
       ],
       "answerIndex": null,
       "transcriptionStatus": "needs_source_visual_check"
     },
     {
       "number": 4,
-      "text": "_____ was over, the soldier ____.",
+      "text": "[Question stem illegible in source scan]",
       "options": [
         "treason",
         "heresy",
