@@ -659,13 +659,13 @@
       "series": "I",
       "totalQuestions": 50,
       "transcribedQuestions": 50,
-      "complete": false,
-      "status": "transcription_review",
+      "complete": true,
+      "status": "ready",
       "sourceFileName": "TY(HOD)23.pdf",
       "sourcePageCount": 5,
       "questionsPath": "pyq-papers/ty-hod-2023-series-i.json",
-      "answerKeyStatus": "not_verified",
-      "notes": "Transcribed from uploaded source; Q23 option D requires visual recheck before publication."
+      "answerKeyStatus": "not_supplied",
+      "notes": "Complete 50-question transcription visually checked against all five original PDF pages. No answer key supplied; score review will report unverified answers."
     },
     {
       "id": "meghalaya-pyq-040",
@@ -675,14 +675,14 @@
       "date": "2019-12-14",
       "series": "I",
       "totalQuestions": 175,
-      "transcribedQuestions": 50,
-      "complete": true,
-      "status": "ready",
+      "transcribedQuestions": 0,
+      "complete": false,
+      "status": "queued",
       "sourceFileName": "SUB-INSPECTOR OF STATISTICS.pdf",
       "sourcePageCount": 29,
       "questionsPath": null,
-      "answerKeyStatus": "not_supplied",
-      "notes": "Complete 50-question transcription visually checked against all five original PDF pages. No answer key supplied; score review will report unverified answers."
+      "answerKeyStatus": "not_verified",
+      "notes": ""
     },
     {
       "id": "meghalaya-pyq-041",
