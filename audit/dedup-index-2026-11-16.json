@@ -19532,5 +19532,9 @@
     "Static GK": 3
   },
   "lastUpdated": "2026-11-16",
-  "fingerprintMethod": "FNV-1a 32-bit hashes of normalized stems, normalized sorted options, and category/topic plus stem-content tokens. Fingerprints are comparison aids; semantic uniqueness is separately reviewed."
+  "fingerprintMethod": "FNV-1a 32-bit hashes of normalized stems, normalized sorted options, and category/topic plus stem-content tokens. Fingerprints are comparison aids; semantic uniqueness is separately reviewed.",
+  "mergedMainSha": "77726c6da96ee8915e6fa2ad96522d61d1984b24",
+  "mergeStatus": "merged",
+  "mergedAt": "2026-11-16",
+  "deploymentVerified": false
 }

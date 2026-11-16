@@ -130,6 +130,11 @@ const dedupIndex16 = jsonFile('audit/dedup-index-2026-11-16.json');
 if (dedupIndex16.schemaVersion !== 2 || dedupIndex16.questionCount !== 881 || dedupIndex16.records.length !== 881 || dedupIndex16.candidateBatchQuestionCount !== 33) fail('16 November deduplication index totals are incorrect');
 if (new Set(dedupIndex16.records.map(record=>record.id)).size !== 881 || dedupIndex16.records.some(record=>!record.stemHash || !record.optionsHash || !record.conceptFingerprint)) fail('16 November deduplication index has duplicate IDs or missing fingerprints');
 
+const dedupAudit16 = jsonFile('audit/dedup-audit-2026-11-16.json');
+if (dedupAudit16.currentMain.activeQuestions !== 881 || dedupAudit16.currentMain.uniqueIDs !== 881 || dedupAudit16.change.merged !== 33 || dedupAudit16.fullBankChecks.candidateExactStemCollisions !== 0 || dedupAudit16.fullBankChecks.candidateNearPairsAtTokenJaccard082 !== 0) fail('16 November full-bank duplicate audit or merge totals are incorrect');
+if (dedupAudit16.validation.githubActions.conclusion !== 'success' || dedupAudit16.validation.deployment !== 'not independently verified') fail('16 November audit validation/deployment status is inconsistent');
+
+
 const officialKey = {"1":"D","2":"B","3":"D","4":"A","5":"D","6":"B","7":"A","8":"D","9":"B","10":"C","11":"B","12":"C","13":"B","14":"D","15":"C","16":"D","17":"C","18":"A","19":"B","20":"C","21":"B","22":"D","23":"A","24":"B","25":"C","26":"C","27":"D","28":"D","29":"B","30":"D","31":"C","32":"D","33":"A","34":"B","35":"C","36":"A","37":"D","38":"A","39":"B","40":"C","41":"C","42":"B","43":"D","44":"C","45":"A","46":"A","47":"C","48":"A","49":"B","50":"D","51":"B","52":"B","53":"A","54":"A","55":"C","56":"A","57":"B","58":"A","59":"A","60":"C","61":"C","62":"A","63":"C","64":"D","65":"C","66":"B","67":"D","68":"C","69":"D","70":"D","71":"D","72":"B","73":"C","74":"C","75":"B","76":"D","77":"B","78":"C","79":"C","80":"D","81":"B","82":"B","83":"C","84":"C","85":"A","86":"C","87":"B","88":"B","89":"C","90":"C","91":"A"};
 const paperQuestions = active.filter(q => q.paperId === 'lda-secretariat-may-2025-series-i');
 if (paperQuestions.length !== 91 || new Set(paperQuestions.map(q=>q.paperNo)).size !== 91) fail('LDA Secretariat Series I must have 91 unique transcribed question numbers');
