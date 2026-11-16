@@ -2,11 +2,11 @@
 
 A mobile-friendly GitHub Pages study hub for Meghalaya competitive examinations. Priority tracks: MPSC Inspector of Taxes, DSC East Khasi Hills LDA-cum-Typist and MPSC Secretariat LDA.
 
-## Verified repository snapshot — 15 November 2026
+## Verified repository snapshot — 16 November 2026
 
-- **848 active unique question records**: 592 embedded questions plus 14 loaded question batches.
+- **881 active unique question records**: 592 embedded questions plus 15 loaded question batches.
 - **111 records tagged PYQ**. A PYQ tag is not the same as a complete paper.
-- **211 structured detailed explanations** across eight libraries: 49 History, 76 Polity, 20 English, 11 Arithmetic, 20 Meghalaya GK, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **24.9% of the active bank**; 637 active IDs still need structured library explanations. The new Meghalaya GK library explains 20 of 59 active regional questions (33.9%); 39 remain. The Arithmetic library adds worked solutions for 11 active questions (compound interest, percentages, ratio, simple interest, average, profit, time-and-work and speed); coverage is audited by ID in `audit/explanation-coverage-2026-11-06.json`.
+- **211 structured detailed explanations** across eight libraries: 49 History, 76 Polity, 20 English, 11 Arithmetic, 20 Meghalaya GK, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **24.0% of the active bank**; 670 active IDs still need structured library explanations. The new Meghalaya GK library explains 20 of 62 active regional questions (32.3%); 42 remain. The Arithmetic library adds worked solutions for 11 active questions (compound interest, percentages, ratio, simple interest, average, profit, time-and-work and speed); coverage is audited by ID in `audit/explanation-coverage-2026-11-06.json`.
 - **Study Notes:** 18 subject collections and 64 revision chapters (including 4 newly integrated collections from the 6 November uploaded-note analysis).
 - **MPSC Secretariat LDA May 2025 recruitment-cycle Series I:** 91 of 150 questions transcribed and checked against the official final answer key dated 17 December 2025; 59 remain.
 
@@ -36,22 +36,22 @@ Editorial classification of the 75 English questions: 4 reading-comprehension, 6
 
 | Subject | Active records |
 |---|---:|
-| Arithmetic | 160 |
-| English | 145 |
-| Polity | 76 |
-| Meghalaya GK | 58 |
-| Science | 47 |
-| Economy | 46 |
+| Arithmetic | 161 |
+| English | 148 |
+| Polity | 83 |
+| Meghalaya GK | 62 |
+| Science | 48 |
+| Economy | 50 |
 | Current Affairs | 44 |
-| Geography | 43 |
+| Geography | 47 |
 | Aptitude | 32 |
-| Environment | 27 |
+| Environment | 32 |
 | Officer Technical | 17 |
-| GST / Inspector of Taxes | 15 |
-| Reasoning | 35 |
+| GST / Inspector of Taxes | 38 |
+| Reasoning | 36 |
 | General Science | 10 |
-| Computer | 11 |
-| History | 49 |
+| Computer | 15 |
+| History | 52 |
 | Static GK | 3 |
 | Art & Culture | 1 |
 | International Organisations | 1 |
@@ -84,11 +84,11 @@ The hub includes topic-wise practice, timed mocks, post-test explanations, progr
 
 ## Arithmetic explanation update — 5 November 2026
 
-The new `explanations/arithmetic.json` library provides formula-first teaching for active question IDs 3004, 4001, 4002, 4003, 4005, 4020 and 5021–5025. Each entry includes a formula, worked steps, a reverse/check calculation, common error warnings and NCERT/CBSE reference links. The existing short answer explanations and question options were preserved. The arithmetic bank contains 160 questions; 11 now have structured detailed explanations and 149 remain.
+The new `explanations/arithmetic.json` library provides formula-first teaching for active question IDs 3004, 4001, 4002, 4003, 4005, 4020 and 5021–5025. Each entry includes a formula, worked steps, a reverse/check calculation, common error warnings and NCERT/CBSE reference links. The existing short answer explanations and question options were preserved. The arithmetic bank contains 161 questions; 11 now have structured detailed explanations and 150 remain.
 
 ## Meghalaya GK explanation update — 6 November 2026
 
-The new `explanations/meghalaya-gk.json` library adds 20 source-checked teaching explanations for active IDs 11, 12, 14, 15, 17, 18, 127, 128, 183, 186, 188, 189, 195, 3003, 4006, 4008, 4010, 5004, 5089 and 5090. Topics include State formation, district headquarters, the Sixth Schedule, living root bridges, indigenous communities, Wangala, Khasi matriliny, Nartiang heritage, Nokrek Biosphere Reserve, language classification, Nohsngithiang Falls and Mawsynram rainfall. The library distinguishes autonomous-state status (2 April 1970) from full statehood (21 January 1972), and explains the official meteorological caveat attached to Mawsynram rainfall rankings. Source references prioritise Meghalaya Government, district administrations, the Legislative Department, Meghalaya Biodiversity Board, Meghalaya Tourism, UNESCO and academic research. The active Meghalaya GK bank contains 58 questions; 20 now have structured explanations and 38 remain.
+The new `explanations/meghalaya-gk.json` library adds 20 source-checked teaching explanations for active IDs 11, 12, 14, 15, 17, 18, 127, 128, 183, 186, 188, 189, 195, 3003, 4006, 4008, 4010, 5004, 5089 and 5090. Topics include State formation, district headquarters, the Sixth Schedule, living root bridges, indigenous communities, Wangala, Khasi matriliny, Nartiang heritage, Nokrek Biosphere Reserve, language classification, Nohsngithiang Falls and Mawsynram rainfall. The library distinguishes autonomous-state status (2 April 1970) from full statehood (21 January 1972), and explains the official meteorological caveat attached to Mawsynram rainfall rankings. Source references prioritise Meghalaya Government, district administrations, the Legislative Department, Meghalaya Biodiversity Board, Meghalaya Tourism, UNESCO and academic research. The active Meghalaya GK bank contains 62 questions; 20 now have structured explanations and 42 remain.
 
 ## Dated current affairs
 
@@ -102,7 +102,7 @@ The 3 November 2026 feed contains six dated items: Exercise Tiger Triumph, India
 - [Official Inspector of Tax question booklet — Series III, 27 February 2021](https://mpsc.meghalaya.gov.in/misc/27022021IOT21.pdf)
 - [MPSC answer keys](https://mpsc.meghalaya.gov.in/anskey.html)
 - [East Khasi Hills DSC written-exam notice](https://eastkhasihills.gov.in/notice/notice-written-examination-for-the-post-of-lda-cum-typist-advertisement-no-dsc-127-dsc-ekh-advt-2024-64-dated-2nd-september-2025/)
-- [Constitution of India — Legislative Department](https://www.legislative.gov.in/static/uploads/2025/12/f6ffd68fdbc63bef89c65e9963c6a1b5.pdf)
+- [Constitution of India — Legislative Department](https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf)
 - [CBIC GST Acts and rules](https://cbic-gst.gov.in/)
 - [GST Portal](https://www.gst.gov.in/)
 - [GKToday GK questions and topic reference](https://www.gktoday.in/gk-questions/)
@@ -137,3 +137,12 @@ The analysis corrected the Cabinet Mission provincial grouping (Group B: Punjab,
 ## Cross-subject question expansion — 14 November 2026
 
 Added 12 original, source-linked practice questions across Arithmetic, English, Meghalaya GK, Polity, History, Geography, Science, Economy, Environment, Reasoning, Computer and GST / Inspector of Taxes. The batch is loaded by the practice-bank loader and precached by the service worker. All 12 are explicitly labelled original practice, not official PYQs. Explanations include the key reasoning or statutory distinction; legal and policy questions must always be read with the latest official text. See `question-batches/2026-11-14-subject-expansion.json`.
+
+
+## Original practice expansion — 16 November 2026
+
+Added **33 original, source-linked questions** (IDs 7228–7260) across GST / Inspector of Taxes, Meghalaya GK, Polity, History, Geography, Environment, Economy, Computer and English. The statutory GST items were checked against the consolidated India Code CGST Act published 11 June 2026; constitutional items were checked against the Legislative Department edition dated 10 September 2026. All items are labelled Original Practice, not PYQ. The batch is loaded by the application and precached by the service worker. See [question-batches/2026-11-16-original-practice.json](question-batches/2026-11-16-original-practice.json) and [audit/dedup-index-2026-11-16.json](audit/dedup-index-2026-11-16.json).
+
+## 30-day expansion tracker — 16 November 2026
+
+The agreed pace remains **250 genuinely new questions per run**. Starting from the verified 833-question baseline after the 14 November merge, 15 unique questions were added on 15 November and 33 on 16 November: **48 cumulative additions**, for 881 active questions. This run is 217 below the daily target; no filler questions were added. At exactly 250 per day for 30 days, the baseline projects to 8,333, still 1,667 short of the 10,000 ambition. The current remaining gap is 9,119.
