@@ -7,9 +7,9 @@
   "date": "2025-12-04",
   "series": "I",
   "totalQuestions": 150,
-  "transcribedQuestions": 40,
+  "transcribedQuestions": 68,
   "complete": false,
-  "transcriptionNote": "First-pass transcription of Q1–40 only. Q4 requires visual verification of the printed option labels. Remaining questions not yet transcribed. No answer key supplied.",
+  "transcriptionNote": "First-pass transcription covers Q1–71 except Q44, Q48 and Q49, which are placeholders pending inspection of the original page images. Questions 72–150 remain to be transcribed. No answer key is supplied or invented. Source OCR spelling has been normalized only where the intended printed text is clear; confirm all text and options against scans before marking complete.",
   "questions": [
     {
       "number": 1,
@@ -487,6 +487,363 @@
         "The doctor finished his rounds.",
         "A good writer always revises his work.",
         "The manager should ask for the feedback herself."
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 41,
+      "text": "The Parliament passed the North-Eastern Areas (Reorganization) Act, which conferred full Statehood on the autonomous State of Meghalaya, in",
+      "options": [
+        "1971",
+        "1972",
+        "1975",
+        "1978"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 42,
+      "text": "Which is the Meghalaya State Tree?",
+      "options": [
+        "Hollong",
+        "Sacred fig",
+        "White teak",
+        "Ironwood"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 43,
+      "text": "In which year was the East Garo Hills District formed?",
+      "options": [
+        "1975",
+        "1976",
+        "1980",
+        "1992"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 44,
+      "text": "[Question text and options are not legible in the extracted source text; requires page-image transcription]",
+      "options": [],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 45,
+      "text": "The area of Meghalaya State is",
+      "options": [
+        "20429 sq. km",
+        "22429 sq. km",
+        "30400 sq. km",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 46,
+      "text": "Out of nine important vegetation types of India, how many are found in the North-Eastern region?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 47,
+      "text": "The Meghalaya Startup Policy was introduced in",
+      "options": [
+        "2010",
+        "1985",
+        "2015",
+        "Not legible in source text"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 48,
+      "text": "[Question text and options are not legible in the extracted source text; requires page-image transcription]",
+      "options": [],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 49,
+      "text": "[Question text and options are not legible in the extracted source text; requires page-image transcription]",
+      "options": [],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 50,
+      "text": "Mawsmai Falls is located in",
+      "options": [
+        "Sohiong",
+        "Mawpat",
+        "Ranikor",
+        "Cherrapunjee"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 51,
+      "text": "How many caves have been discovered near Syndai till date?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "15"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 52,
+      "text": "Which battle resulted in the defeat and annexation of the Jaintia Kingdom by the British?",
+      "options": [
+        "Battle of Nongkhlaw",
+        "Battle of Mawkyrwat",
+        "Battle of Cherrapunjee",
+        "Battle of Raliang"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 53,
+      "text": "Which traditional institution acts as the governing body in many Khasi villages of Meghalaya?",
+      "options": [
+        "Dorbar Shnong",
+        "Garo Nokma",
+        "Hima Syiem",
+        "Jaintia Doloi"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 54,
+      "text": "Which cave in Meghalaya holds the distinction of being the longest cave system in India?",
+      "options": [
+        "Krem Mawmluh",
+        "Krem Lymput",
+        "Mawsmai Cave",
+        "Liat Prah Cave"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 55,
+      "text": "Which river primarily forms the main drainage system of the Garo Hills in Meghalaya?",
+      "options": [
+        "Jinjiram",
+        "Simsang",
+        "Daring",
+        "Brahmaputra"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 56,
+      "text": "Nalanda University was a great centre of learning, especially in",
+      "options": [
+        "Buddhism",
+        "Jainism",
+        "Vaishnavism",
+        "Tantra"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 57,
+      "text": "The gold coins were introduced first in India by the",
+      "options": [
+        "Kushanas",
+        "Greeks",
+        "Sakas",
+        "Parthians"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 58,
+      "text": "Which of the following Vedas provides information about the civilization of the Early Vedic Age?",
+      "options": [
+        "Rigveda",
+        "Yajurveda",
+        "Atharvaveda",
+        "Samaveda"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 59,
+      "text": "Hiuen Tsang visited India during the reign of",
+      "options": [
+        "Chandragupta I",
+        "Chandragupta II",
+        "Harshavardhana",
+        "Rudradaman"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 60,
+      "text": "Which one of the following Indus Valley sites is in Pakistan?",
+      "options": [
+        "Lothal",
+        "Kalibangan",
+        "Alamgirpur",
+        "Harappa"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 61,
+      "text": "Which of the following Indian beaches is not formed by the Arabian Sea?",
+      "options": [
+        "Varkala Beach",
+        "Kovalam Beach",
+        "Radhanagar Beach",
+        "Palolem Beach"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 62,
+      "text": "Which State has the largest area in India?",
+      "options": [
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Rajasthan"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 63,
+      "text": "Which State recorded the lowest literacy rate in the 2011 Census?",
+      "options": [
+        "Bihar",
+        "Maharashtra",
+        "Arunachal Pradesh",
+        "Kerala"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 64,
+      "text": "Sri Lanka is separated from India by the",
+      "options": [
+        "Strait of Malacca",
+        "Strait of Gibraltar",
+        "Palk Strait",
+        "Bering Strait"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 65,
+      "text": "The landforms created by massive earth movements due to plate tectonics are called",
+      "options": [
+        "Structural landforms",
+        "Weathering landforms",
+        "Erosional landforms",
+        "Depositional landforms"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 66,
+      "text": "With which of the following sectors is the agency short-named as CIBIL associated?",
+      "options": [
+        "Insurance sector",
+        "Automobile sector",
+        "Banking sector",
+        "Sugar sector"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 67,
+      "text": "Which one of the following is not a clause of the World Trade Organization?",
+      "options": [
+        "Lowering trade barriers with negotiations",
+        "Most favoured nation treatment",
+        "Providing financial support to the countries having deficit balance of payments",
+        "Discouraging unfair trade practices such as anti-dumping and export subsidies"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 68,
+      "text": "The views of eminent economist Robert Malthus on population are",
+      "options": [
+        "Pessimistic",
+        "Optimistic",
+        "Both (A) and (B)",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 69,
+      "text": "The main economic problem faced by all societies is",
+      "options": [
+        "Unemployment",
+        "Scarcity",
+        "Inequality",
+        "Poverty"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 70,
+      "text": "A firm under perfect competition is",
+      "options": [
+        "Price maker",
+        "Price breaker",
+        "Price taker",
+        "Price shaker"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 71,
+      "text": "At present, the total number of Articles in the Indian Constitution is",
+      "options": [
+        "356",
+        "395",
+        "404",
+        "448"
       ],
       "answerIndex": null,
       "transcriptionStatus": "transcribed"
