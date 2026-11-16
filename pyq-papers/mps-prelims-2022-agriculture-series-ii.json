@@ -1,0 +1,1816 @@
+{
+  "schemaVersion": 1,
+  "paperId": "meghalaya-pyq-015",
+  "sourceFile": "17122022MPSPRELIMS.pdf",
+  "exam": "Meghalaya Public Service Commission Preliminary Examination — Agriculture optional booklet",
+  "year": "2022",
+  "date": "2022-12-17",
+  "series": "II",
+  "part": "Agriculture",
+  "totalQuestions": 150,
+  "transcribedQuestions": 131,
+  "complete": false,
+  "transcriptionNote": "First-pass transcription covers the Agriculture booklet Q1–150. Nineteen items are flagged for source-image/technical verification. IMPORTANT: the same uploaded PDF is a compilation containing additional subject booklets (including Commerce) beginning at page 10; those booklets are separate PYQ sets and remain pending. No answer key supplied or invented.",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Largest flower market in the world",
+      "options": [
+        "Aalsmeer, Netherlands",
+        "Amsterdam, Netherlands",
+        "Paris, France",
+        "Chicago, USA"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 2,
+      "text": "The heat tolerant variety of potato is",
+      "options": [
+        "Kufri Sinduri",
+        "Kufri Badshah",
+        "Kufri Sutlej",
+        "Kufri Lima"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 3,
+      "text": "Pathogen causing the black spot on rose is",
+      "options": [
+        "Xanthomonas",
+        "Diploma",
+        "Diplocarpon",
+        "Alternaria"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 4,
+      "text": "ETL level of thrips populations per plant in onion is",
+      "options": [
+        "5",
+        "10",
+        "20",
+        "30"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 5,
+      "text": "Endosperm is developed by fusion of sperm cell with",
+      "options": [
+        "Egg cell",
+        "Synergids",
+        "Polar nuclei",
+        "Antipodals"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 6,
+      "text": "Thomas Fairchild produced the first artificial hybrid in",
+      "options": [
+        "1617",
+        "1717",
+        "1817",
+        "1917"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 7,
+      "text": "The first generation of selfing is",
+      "options": [
+        "F₁",
+        "F₂",
+        "F₃",
+        "F₄"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 8,
+      "text": "High yielding rice variety Ranjit is",
+      "options": [
+        "A pure line",
+        "A segregating material",
+        "A hybrid",
+        "A mixture of pure lines"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 9,
+      "text": "The law of segregation operates during",
+      "options": [
+        "Meiosis",
+        "Mitosis",
+        "Fertilization",
+        "Organogenesis"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 10,
+      "text": "The term “Phenotype” was coined by",
+      "options": [
+        "W. Bateson",
+        "W. L. Johannsen",
+        "R. C. Punnett",
+        "Hugo de Vries"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 11,
+      "text": "Mendel discovered the law of independent assortment in the year",
+      "options": [
+        "1990",
+        "1880",
+        "1895",
+        "1865"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 12,
+      "text": "Whiptail is due to the deficiency of",
+      "options": [
+        "Fe",
+        "B",
+        "Mo",
+        "Cu"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 13,
+      "text": "Phosphorus deficiency in maize appears as",
+      "options": [
+        "Reddish-purple margin",
+        "Blue-purple margin",
+        "Dark green",
+        "Yellowing"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 14,
+      "text": "Concentration of nutrient is sufficiently high to inhibit plant growth is",
+      "options": [
+        "Toxic",
+        "Deficient",
+        "Sufficient",
+        "Insufficient"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 15,
+      "text": "Blossom-end rot of tomatoes is due to deficiency of",
+      "options": [
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "Calcium"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 16,
+      "text": "Sunhemp is a",
+      "options": [
+        "Vermicompost",
+        "Green manure",
+        "Liming material",
+        "Fertilizer"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 17,
+      "text": "The chemical fertilizer which contains only one nutrient is called",
+      "options": [
+        "Straight fertilizer",
+        "Mixed fertilizer",
+        "Complex fertilizer",
+        "Compost"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 18,
+      "text": "Azotobacter is applied in soil to provide nutrition of",
+      "options": [
+        "Nitrogen",
+        "Phosphorus",
+        "Potassium",
+        "Boron"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 19,
+      "text": "Which of the following is a natural germination inhibitor that induces dormancy?",
+      "options": [
+        "Auxin",
+        "ABA",
+        "Gibberellins",
+        "Cytokinin"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 20,
+      "text": "The first enzyme in photorespiration is",
+      "options": [
+        "RuBP oxygenase",
+        "RuBP carboxylase",
+        "PEP carboxylase",
+        "Hexokinase"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 21,
+      "text": "The process of breaking seed dormancy in which seeds are treated in a moist medium at low temperature is known as",
+      "options": [
+        "Scarification",
+        "Stratification",
+        "Vernalization",
+        "Disoperation"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 22,
+      "text": "Pyruvic acid is a",
+      "options": [
+        "3-carbon compound",
+        "4-carbon compound",
+        "5-carbon compound",
+        "6-carbon compound"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 23,
+      "text": "2,4,5-T is a",
+      "options": [
+        "Naturally occurring plant hormone",
+        "Only photosystem II",
+        "Both photosystem I and II",
+        "Both carbon dioxide and oxygen"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 24,
+      "text": "Photochemical reactions in photosynthesis of plants occur in",
+      "options": [
+        "Thylakoid membrane",
+        "Plasma membrane",
+        "Outer membrane of chloroplast",
+        "Membrane of lysosome"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 25,
+      "text": "Phosphorylation is the synthesis of",
+      "options": [
+        "ADP to ATP",
+        "Glucose-6-phosphate from glucose",
+        "ATP from ADP",
+        "AMP from ATP"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 26,
+      "text": "The cell theory was proposed by",
+      "options": [
+        "Calvin",
+        "Schwann and Schleiden",
+        "Louis Pasteur",
+        "Robert Koch"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 27,
+      "text": "Steroid hormones pass freely across the plasma membrane because they",
+      "options": [
+        "Enter through pores",
+        "Contain carbon and hydrogen",
+        "Are water soluble",
+        "Are hydrophobic in nature"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 28,
+      "text": "In plants, aerobic respiration includes",
+      "options": [
+        "Hill reaction",
+        "Krebs cycle",
+        "Emerson effects",
+        "Photophosphorylation"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 29,
+      "text": "Water potential of pure water is",
+      "options": [
+        "100 bar",
+        "−100 bar",
+        "0 bar",
+        "−1 bar"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 30,
+      "text": "Which of the following is a synthetic auxin?",
+      "options": [
+        "IAA",
+        "NAA",
+        "Zeatin",
+        "GA"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 31,
+      "text": "Which of the following elements has a role in auxin biosynthesis?",
+      "options": [
+        "Copper",
+        "Zinc",
+        "Molybdenum",
+        "Boron"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 32,
+      "text": "Which of the following minerals activate the enzymes involved in respiration?",
+      "options": [
+        "Nitrogen and phosphorus",
+        "Magnesium and manganese",
+        "Potassium and calcium",
+        "Sulphur and iron"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 33,
+      "text": "Polar transport of auxin requires",
+      "options": [
+        "Fully developed aerenchyma tissue",
+        "Photophosphorylation",
+        "Metabolic inhibitor",
+        "Metabolic energy"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 34,
+      "text": "High concentration of which plant hormone accumulates in a water-stressed plant?",
+      "options": [
+        "Auxin",
+        "Gibberellin",
+        "Cytokinin",
+        "Abscisic acid"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 35,
+      "text": "Soil-less crop culture is also known as",
+      "options": [
+        "Hydroponics",
+        "Plasticulture",
+        "Aquaculture",
+        "Apiculture"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 36,
+      "text": "Glucobrassicin is a",
+      "options": [
+        "Synthetic auxin",
+        "Bound auxin",
+        "Free auxin",
+        "Flowering hormone"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 37,
+      "text": "Photosynthesis is a",
+      "options": [
+        "Anabolic process",
+        "Catabolic process",
+        "Neutral process",
+        "Degenerative process"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 38,
+      "text": "The end products of photosynthesis are",
+      "options": [
+        "O₂ and hexose sugar",
+        "O₂ and fat",
+        "CO₂ and hexose sugar",
+        "O₂ and protein"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 39,
+      "text": "The terminal electron acceptor in the aerobic respiratory system is",
+      "options": [
+        "Zn²⁺",
+        "O₂",
+        "H₂O",
+        "Mn²⁺"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 40,
+      "text": "Gibberellic acid causes",
+      "options": [
+        "Dwarfism in genetically aged plant",
+        "Elongation in genetically dwarf plant",
+        "Apoptosis in root tip",
+        "Triple response in plant growth"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 41,
+      "text": "Which of the following is a bacterium involved in denitrification?",
+      "options": [
+        "Azotobacter",
+        "Pseudomonas",
+        "Nitrosomonas",
+        "Nitrobacter"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 42,
+      "text": "Dark reaction of photosynthesis occurs in",
+      "options": [
+        "Grana",
+        "Stroma",
+        "Peroxisome",
+        "Chloroplast"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 43,
+      "text": "Hill reaction occurs in",
+      "options": [
+        "Absence of water",
+        "Total darkness",
+        "Cyclic photophosphorylation",
+        "Presence of ferricyanide"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 44,
+      "text": "A fine-textured soil contains relatively",
+      "options": [
+        "More sand, less clay",
+        "More silt and clay",
+        "Less silt and clay",
+        "More fine sand"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 45,
+      "text": "95% of the Earth's crust as a whole is made up of",
+      "options": [
+        "Igneous rock",
+        "Sedimentary rock",
+        "Metamorphic rock",
+        "All types"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 46,
+      "text": "An example of chemical sedimentary rock is",
+      "options": [
+        "Coal",
+        "Conglomerate",
+        "Peat",
+        "Limestone"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 47,
+      "text": "Which of the following parameters would give an idea about total soil porosity?",
+      "options": [
+        "Bulk density",
+        "Particle density",
+        "Soil wetness",
+        "Mineral composition"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 48,
+      "text": "The relative proportion of sand, silt and clay is known as",
+      "options": [
+        "Soil texture",
+        "Soil structure",
+        "Bulk density",
+        "Porosity"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 49,
+      "text": "Which soil texture is most ideal for crop growth?",
+      "options": [
+        "Sandy",
+        "Loamy sand",
+        "Sandy loam",
+        "Loam"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 50,
+      "text": "When organic matter is applied to soil, bulk density will",
+      "options": [
+        "Increase",
+        "Decrease",
+        "Remain same",
+        "Not change"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 51,
+      "text": "Coal is an example of",
+      "options": [
+        "Detrital sedimentary rock",
+        "Chemical sedimentary rock",
+        "Organic sedimentary rock",
+        "Residual sedimentary rock"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 52,
+      "text": "The soil-forming process in cold and humid climate is based on",
+      "options": [
+        "Stokes' law",
+        "Darcy's law",
+        "Fick's law",
+        "Fourier's law"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 53,
+      "text": "Which soil group is not found in North-East?",
+      "options": [
+        "Alluvial soils",
+        "Forest and hill soils",
+        "Red soils",
+        "Salt-affected soil"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 54,
+      "text": "Which of the following soil structures is more porous?",
+      "options": [
+        "Platy",
+        "Blocky",
+        "Granular",
+        "Crumb"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 55,
+      "text": "Father of soil microbiology",
+      "options": [
+        "Robert Koch",
+        "Martinus W. Beijerinck",
+        "Joseph Lister",
+        "Sergius Winogradsky"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 56,
+      "text": "Gram molecular weight of a substance when dissolved in a litre of solvent is",
+      "options": [
+        "Normal solution",
+        "Molar solution",
+        "Molal solution",
+        "Percent solution"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 57,
+      "text": "When hand-pulling of weeds is aided by a fork, sharp blade or tip of sickle, it is called",
+      "options": [
+        "Spudding",
+        "Digging",
+        "Mowing",
+        "Cutting"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 58,
+      "text": "Crop rotation is highly effective against",
+      "options": [
+        "Striga asiatica",
+        "Parthenium hysterophorus",
+        "Eichhornia crassipes",
+        "All of these"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 59,
+      "text": "Paraquat is a",
+      "options": [
+        "Weak acid herbicide",
+        "Strong base herbicide",
+        "Weak base herbicide",
+        "Strong acid herbicide"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 60,
+      "text": "Father of hybrid rice is",
+      "options": [
+        "Jethro",
+        "M. S. Swaminathan",
+        "V. Kurien",
+        "Yuan Longping"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 61,
+      "text": "Optimum temperature for ripening rice should be",
+      "options": [
+        "10–15°C",
+        "30–35°C",
+        "20–25°C",
+        "35–40°C"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 62,
+      "text": "The first hybrid maize Ganga-1 was developed in India during",
+      "options": [
+        "1957",
+        "1964",
+        "1961",
+        "1965"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 63,
+      "text": "Which of the following is known as the queen of cereals?",
+      "options": [
+        "Rice",
+        "Maize",
+        "Wheat",
+        "Sorghum"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 64,
+      "text": "Which crop is a rich source of omega-3 and omega-6 fatty acids?",
+      "options": [
+        "Sesamum",
+        "Linseed",
+        "Safflower",
+        "Niger"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 65,
+      "text": "The first hybrid variety of rice in India (1994) is",
+      "options": [
+        "PRH-1",
+        "Pusa Basmati",
+        "CORH-1",
+        "TN1"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 66,
+      "text": "The quantity of water required to irrigate one hectare of land with 4 cm depth of irrigation is",
+      "options": [
+        "4,00,000 litres",
+        "1,00,000 litres",
+        "4,000 litres",
+        "40,000 litres"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 67,
+      "text": "In unsaturated soil the moving force is",
+      "options": [
+        "Pressure",
+        "Pressure and gravity",
+        "Gravity",
+        "Matric potential"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 68,
+      "text": "The source of energy for evaporation and transpiration is",
+      "options": [
+        "Solar radiation",
+        "Wind",
+        "Metabolic process by plant",
+        "Relative humidity"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 69,
+      "text": "Which of the following will record the highest water potential in an actively transpiring plant?",
+      "options": [
+        "Atmosphere",
+        "Root",
+        "Leaf",
+        "Soil"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 70,
+      "text": "Which of the following is not a component of sprinkler irrigation?",
+      "options": [
+        "Emitter",
+        "Main pipe",
+        "Sub-main pipe",
+        "Lateral pipe"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 71,
+      "text": "Attraction of nutrient ions to the surface of soil particles is called",
+      "options": [
+        "Adhesion",
+        "Absorption",
+        "Advection",
+        "Adsorption"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 72,
+      "text": "Which method is used for irrigating trees?",
+      "options": [
+        "Check basin",
+        "Border strip",
+        "Ring basin",
+        "Furrow"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 73,
+      "text": "In acidic soil, plant growth is affected due to",
+      "options": [
+        "Fe and Cl",
+        "Cl and Cu",
+        "Al and Cu",
+        "Fe and Al"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 74,
+      "text": "Which of the following is an organic fertilizer?",
+      "options": [
+        "Rock phosphate",
+        "Anhydrous ammonia",
+        "Urea",
+        "MOP"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 75,
+      "text": "Green manuring crop should be incorporated at",
+      "options": [
+        "Vegetative stage",
+        "Pod initiation stage",
+        "Flowering stage",
+        "Pod filling stage"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 76,
+      "text": "The chemical formula of MOP is",
+      "options": [
+        "KNO₃",
+        "KCl",
+        "K₂SO₄",
+        "K₂O₃"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 77,
+      "text": "“Carbon sequestration” is related to",
+      "options": [
+        "Photosynthesis",
+        "Trapping of carbon in soil",
+        "Global warming",
+        "Photorespiration"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 78,
+      "text": "The fertilizer containing nitrogen in amide form is",
+      "options": [
+        "Ammonium sulphate",
+        "Sodium nitrate",
+        "Urea",
+        "CAN"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 79,
+      "text": "The secondary nutrients are",
+      "options": [
+        "N, P, K",
+        "C, H, O",
+        "Ca, Mg, S",
+        "Fe, Mn, Zn"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 80,
+      "text": "Most crop plants absorb nitrogen as",
+      "options": [
+        "Ammonium",
+        "Ammonium and nitrates",
+        "Nitrate",
+        "Amide"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 81,
+      "text": "Which of the following biofertilizers is used in wheat crop?",
+      "options": [
+        "Rhizobium",
+        "Blue-green algae",
+        "Azolla",
+        "Azotobacter"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 82,
+      "text": "Which of the following is a liquid fertilizer?",
+      "options": [
+        "Anhydrous ammonia",
+        "Calcium ammonium nitrate",
+        "Ammonium nitrate",
+        "Sodium nitrate"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 83,
+      "text": "The Cell Theory (1838–39) was put forward by",
+      "options": [
+        "Schwann and Schleiden",
+        "Edward Jenner",
+        "Alexander Fleming",
+        "Beadle and Tatum"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 84,
+      "text": "Which one of the following is one of the main objectives of sustainable agriculture?",
+      "options": [
+        "To maintain ecological balance",
+        "To maximize production through agrochemicals",
+        "To increase productivity on a short-term basis",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 85,
+      "text": "Which one of the following nutrient inputs is allowed in organic farming?",
+      "options": [
+        "DAP",
+        "TCP",
+        "SSP",
+        "MRC"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 86,
+      "text": "Subsistence level of farming means",
+      "options": [
+        "Highly commercialised farming",
+        "Farming targeting international markets",
+        "Farming to meet domestic needs only",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 87,
+      "text": "The feasible enterprise for integration with rapeseed and mustard cultivation is",
+      "options": [
+        "Apiculture",
+        "Pisciculture",
+        "Viticulture",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 88,
+      "text": "The author of the book “Farming System and Sustainable Agriculture” is",
+      "options": [
+        "U. K. Behra",
+        "A. K. Sarkar",
+        "A. K. Gangwar",
+        "S. R. Reddy"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 89,
+      "text": "The biological properties of soil can be improved by",
+      "options": [
+        "Natural farming",
+        "Organic farming",
+        "Biodynamic farming",
+        "All of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 90,
+      "text": "The integrated farming system is mainly recommended for",
+      "options": [
+        "Poor and marginal farmers",
+        "Highly mechanized farmers",
+        "Large specialized farmers",
+        "All of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 91,
+      "text": "National Centre for Organic Farming is located at",
+      "options": [
+        "Ghaziabad",
+        "Gangtok",
+        "Ooty",
+        "Nagpur"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 92,
+      "text": "In photosynthesis, energy from light reaction to dark reaction is transferred in the form of",
+      "options": [
+        "RuBP",
+        "ATP",
+        "ADP",
+        "FAD"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 93,
+      "text": "The powerhouse of the cell is",
+      "options": [
+        "Mitochondria",
+        "Lysosomes",
+        "Cell membrane",
+        "Nucleus"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 94,
+      "text": "Entry of water into a cell due to osmosis is called",
+      "options": [
+        "Electro-osmosis",
+        "Endosmosis",
+        "Exosmosis",
+        "Plasmolysis"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 95,
+      "text": "Global warming is attributed to the increase in concentration of greenhouse gases in the atmosphere. Which of the following is a greenhouse gas?",
+      "options": [
+        "Methane",
+        "Argon",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 96,
+      "text": "Plant cells are interconnected by",
+      "options": [
+        "Cell wall",
+        "Plasma membrane",
+        "Plasmodesmata",
+        "Middle lamella"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 97,
+      "text": "The gas responsible for depletion of the ozone layer is",
+      "options": [
+        "CFC",
+        "H₂O",
+        "N₂",
+        "CH₄"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 98,
+      "text": "Plasma membrane is made of",
+      "options": [
+        "Cellulose",
+        "Lipoproteins",
+        "Phosphoproteins",
+        "Phospholipids"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 99,
+      "text": "Which of the following is not required in photosynthesis?",
+      "options": [
+        "Chlorophyll",
+        "Water",
+        "Sunlight",
+        "Glucose"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 100,
+      "text": "Who is known as the father of pomology?",
+      "options": [
+        "M. S. Swaminathan",
+        "Williams",
+        "De Candolle",
+        "B. P. Pal"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 101,
+      "text": "Which is a modification of whip-grafting?",
+      "options": [
+        "Veneer",
+        "Tongue",
+        "Bridge",
+        "Approach"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 102,
+      "text": "Which fruit is a rich source of calcium?",
+      "options": [
+        "Apple",
+        "Cashew",
+        "Guava",
+        "Pineapple"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 103,
+      "text": "Which fruit crop is the richest source of [nutrient label unclear in source OCR]?",
+      "options": [
+        "Walnut",
+        "Apricot",
+        "Almond",
+        "Pecan nuts"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 104,
+      "text": "Chandler is a variety of",
+      "options": [
+        "Strawberry",
+        "Plum",
+        "Peach",
+        "Apple"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 105,
+      "text": "Gladiolus is an indicator plant for",
+      "options": [
+        "Fluoride",
+        "Hydrogen",
+        "Chlorine",
+        "Oxygen"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 106,
+      "text": "An example of a dwarf variety of guava is",
+      "options": [
+        "Sardar",
+        "Arka Mridula",
+        "Allahabad Safeda",
+        "Arka Shyam"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 107,
+      "text": "Seedlessness in banana is due to",
+      "options": [
+        "Stenospermocarpy",
+        "Vegetative parthenocarpy",
+        "Stimulative parthenocarpy",
+        "Parthenogenesis"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 108,
+      "text": "Which disease mostly occurs in high-density planting of banana?",
+      "options": [
+        "Sigatoka leaf spot",
+        "Bunchy top",
+        "Panama wilt",
+        "Fingertip"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 109,
+      "text": "The distinguishing feature of cacti is the presence of",
+      "options": [
+        "Spathe and spadix",
+        "Velamen and tepals",
+        "Hydathodes and spines",
+        "Glochids and areoles"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 110,
+      "text": "Full form of GAP is",
+      "options": [
+        "Good Agronomic Practices",
+        "Great Agricultural Practices",
+        "Good Aquacultural Practices",
+        "Good Agricultural Practices"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 111,
+      "text": "Which one is not a bulb crop?",
+      "options": [
+        "Onion",
+        "Garlic",
+        "Leek",
+        "Beet"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 112,
+      "text": "Greening in potato is due to",
+      "options": [
+        "High temperature",
+        "Low temperature",
+        "Exposure to sunlight",
+        "Excessive nitrogen"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 113,
+      "text": "White heart is a physiological disorder of",
+      "options": [
+        "Carrot",
+        "Beetroot",
+        "Muskmelon",
+        "Watermelon"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 114,
+      "text": "The first genetically modified blue rose is",
+      "options": [
+        "Applause",
+        "Moon Dust",
+        "Flavr Savr",
+        "Bollgard-I"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 115,
+      "text": "Orchids are distinguished from all other flowers by their",
+      "options": [
+        "Rostellum",
+        "Sepals",
+        "Zygomorphic flowers",
+        "Both (A) and (C)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 116,
+      "text": "The heat tolerant variety of potato is",
+      "options": [
+        "Kufri Sindhuri",
+        "Kufri Badshah",
+        "Kufri Sutlej",
+        "Kufri Lima"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 117,
+      "text": "Leek is mainly propagated by",
+      "options": [
+        "Clove",
+        "Bulb",
+        "Seed",
+        "Root cutting"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 118,
+      "text": "Litchi is commercially propagated by",
+      "options": [
+        "Cutting",
+        "Air layering",
+        "Grafting",
+        "Budding"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 119,
+      "text": "Which one of the following is not a cole crop?",
+      "options": [
+        "Cabbage",
+        "Cauliflower",
+        "Parsley",
+        "Broccoli"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 120,
+      "text": "Which of the following is known as the King of temperate fruits?",
+      "options": [
+        "Peach",
+        "Pear",
+        "Plum",
+        "Apple"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 121,
+      "text": "Banana bunchy top disease is transmitted by",
+      "options": [
+        "White fly",
+        "Black aphid",
+        "Lemon butterfly",
+        "House fly"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 122,
+      "text": "California Wonder is a variety of",
+      "options": [
+        "Tomato",
+        "Capsicum",
+        "Chilli",
+        "Brinjal"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 123,
+      "text": "Which of the following is known as Sword Lily?",
+      "options": [
+        "Gladiolus",
+        "Tuberose",
+        "Snapdragon",
+        "Tulip"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 124,
+      "text": "CIMAP headquarters is located at",
+      "options": [
+        "Bangalore",
+        "Lucknow",
+        "Delhi",
+        "Kerala"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 125,
+      "text": "Which of the following is a post-harvest operation?",
+      "options": [
+        "Training",
+        "Pruning",
+        "Disbudding",
+        "Pulsing"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 126,
+      "text": "Dahlia is propagated by",
+      "options": [
+        "Bulbs",
+        "Rhizomes",
+        "Corms",
+        "Tubers"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 127,
+      "text": "Carrot belongs to the family",
+      "options": [
+        "Leguminosae",
+        "Cruciferae",
+        "Umbelliferae",
+        "Cucurbitaceae"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 128,
+      "text": "Pungency in chilli is due to the presence of",
+      "options": [
+        "Capsanthin",
+        "Capsorubin",
+        "Isothiocyanates",
+        "Capsaicin"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 129,
+      "text": "The roots of which crop plant release allelopathic chemicals into the soil that inhibit germination of the succeeding crop?",
+      "options": [
+        "Sorghum",
+        "Sunflower",
+        "Maize",
+        "Red gram"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 130,
+      "text": "Optimum temperature for ripening of rice should be",
+      "options": [
+        "10–15°C",
+        "20–25°C",
+        "30–35°C",
+        "35–40°C"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 131,
+      "text": "Evaporation is a/an",
+      "options": [
+        "Exothermic process",
+        "Isothermic process",
+        "Endothermic process",
+        "Hypothermic process"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 132,
+      "text": "Diammonium phosphate (DAP) is a",
+      "options": [
+        "Straight fertilizer",
+        "Compound or complex fertilizer",
+        "Mixed fertilizer",
+        "Complete complex fertilizer"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 133,
+      "text": "Potassium nitrate is traditionally known as",
+      "options": [
+        "Potassium schoenite",
+        "Potassium permanganate",
+        "Saltpetre",
+        "None of these"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 134,
+      "text": "Farm management deals with",
+      "options": [
+        "Judicious decision",
+        "Use of scarce resources",
+        "Profit maximization and family welfare",
+        "All of these"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 135,
+      "text": "NABARD was set up in the year",
+      "options": [
+        "2008",
+        "1982",
+        "1972",
+        "1980"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 136,
+      "text": "Low capital formation is due to",
+      "options": [
+        "Will to save is there but power to save is not there",
+        "Power to save is there but will to save is not there",
+        "Both will to save and power to save are not there",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 137,
+      "text": "The full form of NITI Aayog is",
+      "options": [
+        "National Institute of Traditional India",
+        "National Institution for Transforming India",
+        "Native Institute of Technology in India",
+        "National Institute of Technology in India"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 138,
+      "text": "MSP in agricultural economics is an acronym for",
+      "options": [
+        "Maximum Support Price",
+        "Minimum Support Price",
+        "Maximum Social Price",
+        "Minimum Social Price"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 139,
+      "text": "GATT stands for",
+      "options": [
+        "General Agreement on Tariffs and Trade",
+        "Gross Agricultural Trade and Technology",
+        "General Agreement on Trade and Technology",
+        "Gross Agreement on Trade and Technology"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 140,
+      "text": "Utility in economics means",
+      "options": [
+        "Want-satisfying power of a commodity",
+        "Pleasure",
+        "Happiness",
+        "Value"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 141,
+      "text": "Pradhan Mantri Fasal Bima Yojana was started in the year",
+      "options": [
+        "2010",
+        "2014",
+        "1994",
+        "2016"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 142,
+      "text": "Which is a modification of whip-grafting?",
+      "options": [
+        "Veneer",
+        "Tongue",
+        "Bridge",
+        "Approach"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 143,
+      "text": "Cultivated strawberry is",
+      "options": [
+        "Diploid",
+        "Triploid",
+        "Tetraploid",
+        "Octaploid"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 144,
+      "text": "Which of the following is not valued for ornamental bracts?",
+      "options": [
+        "Bougainvillea",
+        "Poinsettia",
+        "Mussaenda",
+        "Cyclamen"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 145,
+      "text": "Pyrethrum, an insecticide, is extracted from the following chrysanthemum species",
+      "options": [
+        "C. carinatum",
+        "C. cinerariifolium",
+        "C. coronarium",
+        "C. coronatum"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 146,
+      "text": "Which of the following cacti is almost spineless?",
+      "options": [
+        "Zygocactus",
+        "Opuntia",
+        "Haworthia",
+        "Echinopsis"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 147,
+      "text": "Which ornamental crop was introduced to India for the first time from Missouri Botanical Garden, USA?",
+      "options": [
+        "Cactus",
+        "Dahlia",
+        "Lotus",
+        "China Aster"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 148,
+      "text": "The fruit of Rose is known as",
+      "options": [
+        "Bulbs",
+        "Hips",
+        "Caropis",
+        "Berry"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 149,
+      "text": "Which of the following is a kind of flower arrangement?",
+      "options": [
+        "Bonsai",
+        "Ikebana",
+        "Blind shoots",
+        "Marigold"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 150,
+      "text": "Orchids are distinguished from all other flowers by their",
+      "options": [
+        "Rostellum",
+        "Sepals",
+        "Zygomorphic flowers",
+        "Both (A) and (C)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    }
+  ]
+}
