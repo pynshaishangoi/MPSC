@@ -79,16 +79,32 @@
       "year": "2023",
       "date": "2023-11-04",
       "series": "I",
-      "totalQuestions": 100,
-      "transcribedQuestions": 0,
+      "totalQuestions": 180,
+      "transcribedQuestions": 94,
       "complete": false,
-      "status": "queued",
+      "status": "in_progress",
       "sourceFileName": "04112023MCSPRELIMS.pdf",
       "sourcePageCount": 21,
-      "questionsPath": null,
+      "questionsPath": "pyq-papers/mcs-prelims-2023-paper-i.json",
       "answerKeyStatus": "not_verified",
-      "notes": "Original PDF contains two separate booklets: General Studies Paper I (100 questions) and General Studies Paper II (80 questions), confirmed from the instructions pages. Total source questions: 180. No transcription has been marked complete.",
-      "questions": 180
+      "notes": "One PDF contains Paper I (100 questions) and Paper II (80 questions). Paper I first-pass text entered; Q25, Q31, Q34, Q62, Q74 and Q92 need visual verification. Paper II pending.",
+      "questions": 180,
+      "paperParts": [
+        {
+          "part": "Paper I — General Studies",
+          "totalQuestions": 100,
+          "transcribedQuestions": 94,
+          "questionsPath": "pyq-papers/mcs-prelims-2023-paper-i.json",
+          "status": "in_progress"
+        },
+        {
+          "part": "Paper II — General Studies",
+          "totalQuestions": 80,
+          "transcribedQuestions": 0,
+          "questionsPath": null,
+          "status": "queued"
+        }
+      ]
     },
     {
       "id": "meghalaya-pyq-006",
