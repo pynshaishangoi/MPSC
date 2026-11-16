@@ -1,0 +1,1328 @@
+{
+  "date": "2026-11-16",
+  "baseline": {
+    "mainSha": "58277c96eddc5885b4cb68093549cf1c3917e4a6",
+    "activeQuestions": 848,
+    "embeddedQuestions": 592,
+    "loadedQuestionBatches": 14
+  },
+  "currentMain": {
+    "mainSha": "77726c6da96ee8915e6fa2ad96522d61d1984b24",
+    "activeQuestions": 881,
+    "embeddedQuestions": 592,
+    "loadedQuestionBatches": 15,
+    "uniqueIDs": 881,
+    "pyqTaggedRecords": 111
+  },
+  "change": {
+    "batch": "question-batches/2026-11-16-original-practice.json",
+    "drafted": 33,
+    "validated": 33,
+    "merged": 33,
+    "activeUniqueAdditions": 33,
+    "prNumber": 57,
+    "prUrl": "https://github.com/pynshaishangoi/MPSC/pull/57",
+    "headSha": "1612e4431966f63c8f40093a239364a620f5ff4e",
+    "mergeCommit": "77726c6da96ee8915e6fa2ad96522d61d1984b24",
+    "label": "Original Practice — not official PYQ"
+  },
+  "scope": {
+    "embedded": "index.html embedded const Q array (592 records)",
+    "batchFiles": [
+      "question-batches/2026-10-11.json",
+      "question-batches/2026-10-12.json",
+      "question-batches/2026-10-30-major.json",
+      "question-batches/2026-10-30.json",
+      "question-batches/2026-10-31.json",
+      "question-batches/2026-11-01-lda-pyq.json",
+      "question-batches/2026-11-01.json",
+      "question-batches/2026-11-02-lda-pyq.json",
+      "question-batches/2026-11-02.json",
+      "question-batches/2026-11-03-gktoday-gs.json",
+      "question-batches/2026-11-03-polity.json",
+      "question-batches/2026-11-04-current-affairs.json",
+      "question-batches/2026-11-14-subject-expansion.json",
+      "question-batches/2026-11-15-inspector-tax-technical.json",
+      "question-batches/2026-11-16-original-practice.json"
+    ],
+    "pyqMetadata": [
+      "audit/pyq-transcription-2026-10-31.json",
+      "audit/pyq-transcription-2026-11-01.json",
+      "audit/pyq-transcription-2026-11-02.json"
+    ],
+    "pyqMetadataContainsQuestionText": false,
+    "pyqCatalogueEmpty": true,
+    "otherQuestionBanks": "No additional question-bank files identified in the recursive repository tree; current-affairs feeds and explanation libraries are not standalone MCQ banks.",
+    "verification": "The full 15 November recursive source audit was carried forward. The only subsequent main-branch change before this run was the audit record; the 16 November PR changed only the new batch, loader, service worker, validator, README, dedup index and History/Polity explanation libraries. No official PYQ files or additional question-bank sources were changed."
+  },
+  "fullBankChecks": {
+    "activeRecords": 881,
+    "uniqueIds": 881,
+    "exactStemClusters": 35,
+    "recordsInExactStemClusters": 79,
+    "identicalOptionSetClusters": 13,
+    "nearSimilarPairsAtRawTokenJaccard082": 56,
+    "numericTemplateFamilies": [
+      {
+        "ids": [
+          "4001",
+          "5021",
+          "5163",
+          "5164",
+          "5165",
+          "5166",
+          "5167",
+          "5168",
+          "5169",
+          "5170",
+          "5171",
+          "5172",
+          "5173",
+          "5174",
+          "5175",
+          "5176",
+          "5177",
+          "5178",
+          "5179",
+          "5180",
+          "5181",
+          "5182"
+        ],
+        "category": "Arithmetic",
+        "template": "what is #% of #"
+      },
+      {
+        "ids": [
+          "4003",
+          "6159",
+          "6207"
+        ],
+        "category": "Arithmetic",
+        "template": "find the simple interest on ₹# # at #% per annum for # years"
+      },
+      {
+        "ids": [
+          "5026",
+          "5183",
+          "5184",
+          "5185",
+          "5186",
+          "5187",
+          "5188",
+          "5189",
+          "5190",
+          "5191",
+          "5192",
+          "5193",
+          "5194",
+          "5195",
+          "5196",
+          "5197",
+          "5198",
+          "5199",
+          "5200",
+          "5201",
+          "5202"
+        ],
+        "category": "Reasoning",
+        "template": "find the next number # # # #"
+      },
+      {
+        "ids": [
+          "5093",
+          "5094",
+          "5095",
+          "5096",
+          "5097",
+          "5098",
+          "5099",
+          "5100",
+          "5101",
+          "5102",
+          "5103",
+          "5104",
+          "5105",
+          "5106",
+          "5107",
+          "5108",
+          "5109",
+          "5110",
+          "5111",
+          "5112",
+          "5113",
+          "5114",
+          "5115",
+          "5116",
+          "5117",
+          "5118",
+          "5119",
+          "5120",
+          "5121",
+          "5122"
+        ],
+        "category": "Arithmetic",
+        "template": "a desk has # files and receives # more how many files are there now"
+      },
+      {
+        "ids": [
+          "5123",
+          "5124",
+          "5125",
+          "5126",
+          "5127",
+          "5128",
+          "5129",
+          "5130",
+          "5131",
+          "5132",
+          "5133",
+          "5134",
+          "5135",
+          "5136",
+          "5137",
+          "5138",
+          "5139",
+          "5140",
+          "5141",
+          "5142"
+        ],
+        "category": "Arithmetic",
+        "template": "find simple interest on ₹# at #% per annum for # years"
+      },
+      {
+        "ids": [
+          "5143",
+          "5144",
+          "5145",
+          "5146",
+          "5147",
+          "5148",
+          "5149",
+          "5150",
+          "5151",
+          "5152",
+          "5153",
+          "5154",
+          "5155",
+          "5156",
+          "5157",
+          "5158",
+          "5159",
+          "5160",
+          "5161",
+          "5162"
+        ],
+        "category": "Arithmetic",
+        "template": "if # identical registers cost ₹# what is the cost of one register"
+      },
+      {
+        "ids": [
+          "5203",
+          "5204",
+          "5205",
+          "5206",
+          "5207",
+          "5208",
+          "5209",
+          "5210",
+          "5211",
+          "5212",
+          "5213",
+          "5214",
+          "5215",
+          "5216",
+          "5217",
+          "5218",
+          "5219",
+          "5220",
+          "5221",
+          "5222"
+        ],
+        "category": "Arithmetic",
+        "template": "each of # packets contains # pencils how many pencils are there altogether"
+      },
+      {
+        "ids": [
+          "5223",
+          "5224",
+          "5225",
+          "5226",
+          "5227",
+          "5228",
+          "5229",
+          "5230",
+          "5231",
+          "5232",
+          "5233",
+          "5234",
+          "5235",
+          "5236",
+          "5237",
+          "5238",
+          "5239",
+          "5240"
+        ],
+        "category": "Arithmetic",
+        "template": "a register has # pages # pages are used how many pages remain unused"
+      }
+    ],
+    "recordsInNumericTemplateFamilies": 154,
+    "candidateComparisonsAgainstBaseline": 27984,
+    "candidateExactStemCollisions": 0,
+    "candidateOptionSetCollisions": 0,
+    "candidateNumericTemplateCollisions": 0,
+    "candidateNearPairsAtTokenJaccard082": 0,
+    "intraBatchExactCollisions": 0,
+    "intraBatchOptionSetCollisions": 0,
+    "intraBatchNearPairsAtTokenJaccard082": 0,
+    "semanticReview": "All 33 proposed questions were manually reviewed against the full baseline bank by subject, topic, tested fact, legal provision, calculation method and learning objective. No exact, paraphrased, option-shuffled, numeric-template or same-skill near-duplicates were accepted. The two Section 74A questions test distinct skills (financial-year applicability and the statutory minimum-notice threshold); the two FRA questions test distinct procedural stages (Gram Sabha initiation and DLC approval)."
+  },
+  "legacyDuplicateClusters": {
+    "exactClusters": [
+      {
+        "ids": [
+          "9",
+          "124"
+        ],
+        "category": "Polity",
+        "stem": "which article provides the right to constitutional remedies",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "11",
+          "4007"
+        ],
+        "category": "Meghalaya GK",
+        "stem": "what is the capital of meghalaya",
+        "optionSetIdentical": true
+      },
+      {
+        "ids": [
+          "27",
+          "141",
+          "5082"
+        ],
+        "category": "English",
+        "stem": "choose the correct spelling",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "32",
+          "110"
+        ],
+        "category": "History",
+        "stem": "the four noble truths are associated with",
+        "optionSetIdentical": true
+      },
+      {
+        "ids": [
+          "33",
+          "5066"
+        ],
+        "category": "History",
+        "stem": "who founded the mauryan empire",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "37",
+          "6218"
+        ],
+        "category": "History",
+        "stem": "the quit india movement was launched in",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "43",
+          "113"
+        ],
+        "category": "Science",
+        "stem": "sound travels fastest through",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "51",
+          "5016",
+          "6151",
+          "6224"
+        ],
+        "category": "Economy",
+        "stem": "which institution is india s central bank",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "52",
+          "1004"
+        ],
+        "category": "Economy",
+        "stem": "sebi primarily regulates india s",
+        "optionSetIdentical": true
+      },
+      {
+        "ids": [
+          "53",
+          "5015"
+        ],
+        "category": "Economy",
+        "stem": "inflation refers to",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "54",
+          "109"
+        ],
+        "category": "Economy",
+        "stem": "niti aayog replaced which institution",
+        "optionSetIdentical": true
+      },
+      {
+        "ids": [
+          "61",
+          "107",
+          "1003"
+        ],
+        "category": "Geography",
+        "stem": "the mcmahon line is associated with the boundary between india and",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "81",
+          "106",
+          "1002"
+        ],
+        "category": "Environment",
+        "stem": "world environment day is observed on",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "101",
+          "1001"
+        ],
+        "category": "English",
+        "stem": "the man exclaimed that his wallet was stolen choose the direct form",
+        "optionSetIdentical": true
+      },
+      {
+        "ids": [
+          "102",
+          "2026"
+        ],
+        "category": "English",
+        "stem": "rima said to priya why are you sketching on the wall choose the correct indirect form",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "111",
+          "1005"
+        ],
+        "category": "Polity",
+        "stem": "article 21a is associated with",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "118",
+          "169"
+        ],
+        "category": "Polity",
+        "stem": "a money bill can be introduced only in",
+        "optionSetIdentical": true
+      },
+      {
+        "ids": [
+          "123",
+          "168"
+        ],
+        "category": "Polity",
+        "stem": "the president of india is elected by",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "140",
+          "199"
+        ],
+        "category": "English",
+        "stem": "one who looks at the bright side of things is an",
+        "optionSetIdentical": true
+      },
+      {
+        "ids": [
+          "147",
+          "216"
+        ],
+        "category": "History",
+        "stem": "the rowlatt act was passed in",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "159",
+          "235"
+        ],
+        "category": "Economy",
+        "stem": "fii stands for",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "184",
+          "5088"
+        ],
+        "category": "Meghalaya GK",
+        "stem": "nokrek biosphere reserve is in",
+        "optionSetIdentical": true
+      },
+      {
+        "ids": [
+          "206",
+          "6165"
+        ],
+        "category": "English",
+        "stem": "choose the correct sentence",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "3005",
+          "4013",
+          "5020",
+          "6204",
+          "7202"
+        ],
+        "category": "English",
+        "stem": "choose the grammatically correct sentence",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "4006",
+          "6102"
+        ],
+        "category": "Meghalaya GK",
+        "stem": "meghalaya attained full statehood on which date",
+        "optionSetIdentical": true
+      },
+      {
+        "ids": [
+          "4010",
+          "6162"
+        ],
+        "category": "Meghalaya GK",
+        "stem": "nokrek biosphere reserve is located in which part of meghalaya",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "4015",
+          "6104"
+        ],
+        "category": "Polity",
+        "stem": "which article provides for the comptroller and auditor general of india",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "4018",
+          "5030",
+          "5076"
+        ],
+        "category": "General Science",
+        "stem": "what is the si unit of force",
+        "optionSetIdentical": true
+      },
+      {
+        "ids": [
+          "5009",
+          "6186"
+        ],
+        "category": "History",
+        "stem": "the quit india movement was launched in which year",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "5029",
+          "6213"
+        ],
+        "category": "Reasoning",
+        "stem": "book is to reading as fork is to",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "6137",
+          "6206"
+        ],
+        "category": "Arithmetic",
+        "stem": "the ratio of two numbers is 3 5 and their sum is 64 what is the smaller number",
+        "optionSetIdentical": true
+      },
+      {
+        "ids": [
+          "6150",
+          "6225"
+        ],
+        "category": "Economy",
+        "stem": "inflation generally refers to",
+        "optionSetIdentical": false
+      },
+      {
+        "ids": [
+          "6159",
+          "6207"
+        ],
+        "category": "Arithmetic",
+        "stem": "find the simple interest on ₹5 000 at 8% per annum for 2 years",
+        "optionSetIdentical": true
+      },
+      {
+        "ids": [
+          "6215",
+          "7106"
+        ],
+        "category": "Polity",
+        "stem": "the directive principles of state policy are contained in which part of the constitution",
+        "optionSetIdentical": true
+      },
+      {
+        "ids": [
+          "6193",
+          "7107"
+        ],
+        "category": "Economy",
+        "stem": "which institution is responsible for monetary policy in india",
+        "optionSetIdentical": false
+      }
+    ],
+    "nearSimilarPairs": [
+      {
+        "ids": [
+          "1",
+          "6140"
+        ],
+        "category": "Polity",
+        "similarity": 0.9
+      },
+      {
+        "ids": [
+          "41",
+          "5076"
+        ],
+        "category": "Science",
+        "similarity": 0.857
+      },
+      {
+        "ids": [
+          "41",
+          "6125"
+        ],
+        "category": "Science",
+        "similarity": 0.857
+      },
+      {
+        "ids": [
+          "64",
+          "5012"
+        ],
+        "category": "Geography",
+        "similarity": 0.889
+      },
+      {
+        "ids": [
+          "103",
+          "2027"
+        ],
+        "category": "English",
+        "similarity": 0.857
+      },
+      {
+        "ids": [
+          "104",
+          "2049"
+        ],
+        "category": "English",
+        "similarity": 0.833
+      },
+      {
+        "ids": [
+          "173",
+          "5008"
+        ],
+        "category": "Polity",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "4014",
+          "5005"
+        ],
+        "category": "Polity",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "4015",
+          "5006"
+        ],
+        "category": "Polity",
+        "similarity": 0.917
+      },
+      {
+        "ids": [
+          "5001",
+          "6143"
+        ],
+        "category": "Meghalaya GK",
+        "similarity": 0.857
+      },
+      {
+        "ids": [
+          "5006",
+          "6104"
+        ],
+        "category": "Polity",
+        "similarity": 0.917
+      },
+      {
+        "ids": [
+          "5093",
+          "5100"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.867
+      },
+      {
+        "ids": [
+          "5094",
+          "5103"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.867
+      },
+      {
+        "ids": [
+          "5095",
+          "5106"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.867
+      },
+      {
+        "ids": [
+          "5096",
+          "5109"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.867
+      },
+      {
+        "ids": [
+          "5097",
+          "5112"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.867
+      },
+      {
+        "ids": [
+          "5098",
+          "5115"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.867
+      },
+      {
+        "ids": [
+          "5099",
+          "5118"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.867
+      },
+      {
+        "ids": [
+          "5100",
+          "5121"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.867
+      },
+      {
+        "ids": [
+          "5123",
+          "5135"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5124",
+          "5136"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5125",
+          "5137"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5126",
+          "5138"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5127",
+          "5139"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5128",
+          "5140"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5129",
+          "5141"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5130",
+          "5142"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5149",
+          "5157"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5203",
+          "5210"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5203",
+          "5217"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5204",
+          "5211"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5204",
+          "5218"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5205",
+          "5212"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5205",
+          "5219"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5206",
+          "5213"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5206",
+          "5220"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5207",
+          "5214"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5207",
+          "5221"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5208",
+          "5215"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5208",
+          "5222"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5209",
+          "5216"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5210",
+          "5217"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5211",
+          "5218"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5212",
+          "5219"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5213",
+          "5220"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5214",
+          "5221"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5215",
+          "5222"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5223",
+          "5234"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5224",
+          "5236"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5225",
+          "5238"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "5226",
+          "5240"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.846
+      },
+      {
+        "ids": [
+          "6118",
+          "6159"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.929
+      },
+      {
+        "ids": [
+          "6118",
+          "6207"
+        ],
+        "category": "Arithmetic",
+        "similarity": 0.929
+      },
+      {
+        "ids": [
+          "6152",
+          "6226"
+        ],
+        "category": "Environment",
+        "similarity": 0.833
+      },
+      {
+        "ids": [
+          "6214",
+          "7204"
+        ],
+        "category": "Polity",
+        "similarity": 0.929
+      },
+      {
+        "ids": [
+          "6230",
+          "6197"
+        ],
+        "category": "GST / Inspector of Taxes",
+        "similarity": 0.867
+      }
+    ],
+    "numericTemplateFamilies": [
+      {
+        "ids": [
+          "4001",
+          "5021",
+          "5163",
+          "5164",
+          "5165",
+          "5166",
+          "5167",
+          "5168",
+          "5169",
+          "5170",
+          "5171",
+          "5172",
+          "5173",
+          "5174",
+          "5175",
+          "5176",
+          "5177",
+          "5178",
+          "5179",
+          "5180",
+          "5181",
+          "5182"
+        ],
+        "category": "Arithmetic",
+        "template": "what is #% of #"
+      },
+      {
+        "ids": [
+          "4003",
+          "6159",
+          "6207"
+        ],
+        "category": "Arithmetic",
+        "template": "find the simple interest on ₹# # at #% per annum for # years"
+      },
+      {
+        "ids": [
+          "5026",
+          "5183",
+          "5184",
+          "5185",
+          "5186",
+          "5187",
+          "5188",
+          "5189",
+          "5190",
+          "5191",
+          "5192",
+          "5193",
+          "5194",
+          "5195",
+          "5196",
+          "5197",
+          "5198",
+          "5199",
+          "5200",
+          "5201",
+          "5202"
+        ],
+        "category": "Reasoning",
+        "template": "find the next number # # # #"
+      },
+      {
+        "ids": [
+          "5093",
+          "5094",
+          "5095",
+          "5096",
+          "5097",
+          "5098",
+          "5099",
+          "5100",
+          "5101",
+          "5102",
+          "5103",
+          "5104",
+          "5105",
+          "5106",
+          "5107",
+          "5108",
+          "5109",
+          "5110",
+          "5111",
+          "5112",
+          "5113",
+          "5114",
+          "5115",
+          "5116",
+          "5117",
+          "5118",
+          "5119",
+          "5120",
+          "5121",
+          "5122"
+        ],
+        "category": "Arithmetic",
+        "template": "a desk has # files and receives # more how many files are there now"
+      },
+      {
+        "ids": [
+          "5123",
+          "5124",
+          "5125",
+          "5126",
+          "5127",
+          "5128",
+          "5129",
+          "5130",
+          "5131",
+          "5132",
+          "5133",
+          "5134",
+          "5135",
+          "5136",
+          "5137",
+          "5138",
+          "5139",
+          "5140",
+          "5141",
+          "5142"
+        ],
+        "category": "Arithmetic",
+        "template": "find simple interest on ₹# at #% per annum for # years"
+      },
+      {
+        "ids": [
+          "5143",
+          "5144",
+          "5145",
+          "5146",
+          "5147",
+          "5148",
+          "5149",
+          "5150",
+          "5151",
+          "5152",
+          "5153",
+          "5154",
+          "5155",
+          "5156",
+          "5157",
+          "5158",
+          "5159",
+          "5160",
+          "5161",
+          "5162"
+        ],
+        "category": "Arithmetic",
+        "template": "if # identical registers cost ₹# what is the cost of one register"
+      },
+      {
+        "ids": [
+          "5203",
+          "5204",
+          "5205",
+          "5206",
+          "5207",
+          "5208",
+          "5209",
+          "5210",
+          "5211",
+          "5212",
+          "5213",
+          "5214",
+          "5215",
+          "5216",
+          "5217",
+          "5218",
+          "5219",
+          "5220",
+          "5221",
+          "5222"
+        ],
+        "category": "Arithmetic",
+        "template": "each of # packets contains # pencils how many pencils are there altogether"
+      },
+      {
+        "ids": [
+          "5223",
+          "5224",
+          "5225",
+          "5226",
+          "5227",
+          "5228",
+          "5229",
+          "5230",
+          "5231",
+          "5232",
+          "5233",
+          "5234",
+          "5235",
+          "5236",
+          "5237",
+          "5238",
+          "5239",
+          "5240"
+        ],
+        "category": "Arithmetic",
+        "template": "a register has # pages # pages are used how many pages remain unused"
+      }
+    ],
+    "summary": "Pre-existing clusters remain in the legacy bank. They were not deleted or rewritten and are not counted as new additions."
+  },
+  "subjectCounts": {
+    "Aptitude": 32,
+    "Arithmetic": 161,
+    "Art & Culture": 1,
+    "Books & Authors": 1,
+    "Computer": 15,
+    "Current Affairs": 44,
+    "Economy": 50,
+    "English": 148,
+    "Environment": 32,
+    "General Science": 10,
+    "Geography": 47,
+    "GST / Inspector of Taxes": 38,
+    "History": 52,
+    "International Organisations": 1,
+    "Meghalaya GK": 62,
+    "Officer Technical": 17,
+    "Polity": 83,
+    "Reasoning": 36,
+    "Science": 48,
+    "Static GK": 3
+  },
+  "sourceChecks": {
+    "gst": "India Code consolidated CGST Act, current text published 11 June 2026; sections 49A, 50(3), 52, 54, 74A and 107 checked on 2026-11-16.",
+    "constitutional": "Legislative Department Constitution of India edition dated 10 September 2026; Articles 72, 105, 151, 262, 360 and the Tenth Schedule checked.",
+    "regional": "Meghalaya Government Vision 2030 and Eastern West Khasi Hills official portal.",
+    "history": "Assam Government GMDA historical publication and UK Parliament House of Lords Library briefing.",
+    "geography": "NCERT Class XI Geography and US National Park Service glacial-landform explanation.",
+    "environment": "CITES Secretariat, UNEP Ozone Secretariat and Ministry of Tribal Affairs Forest Rights Act portal.",
+    "economy": "Reserve Bank of India Treasury Bills and Balance of Payments references; Government of India Union Budget.",
+    "computer": "Microsoft Support Excel and Word documentation.",
+    "english": "Cambridge English Grammar Today and British Council LearnEnglish.",
+    "verificationDate": "2026-11-16",
+    "changingFacts": "No rapidly changing current-affairs facts were added."
+  },
+  "validation": {
+    "repositoryVisibility": "public",
+    "activeCountAndIDs": "881 active records and 881 unique IDs confirmed from index.html plus all 15 question-batches JSON files after merge.",
+    "loader": "16 November batch confirmed in index.html loader.",
+    "serviceWorker": "16 November batch confirmed in precache; cache key mpsc-smart-study-v5-42-20261116.",
+    "subjectCounts": "Matched the updated validator blueprint.",
+    "structuredExplanations": "219 structured explanations; new History and Polity libraries updated to cover all active questions in those subjects.",
+    "githubActions": {
+      "workflow": "Validate MPSC Study Hub",
+      "runNumber": 99,
+      "runId": 43800577579,
+      "conclusion": "success",
+      "validatedStep": "Validate JavaScript, JSON, question bank, notes and cache"
+    },
+    "deployment": "not independently verified",
+    "deploymentNote": "The GitHub Pages URL was not accessible through the available web check, and no deployment-status connector was available. Do not claim live deployment."
+  },
+  "campaign": {
+    "targetActiveQuestions": 10000,
+    "baselineAfter14NovemberMerge": 833,
+    "additionsOn15November": 15,
+    "additionsThisRun": 33,
+    "cumulativeUniqueAdditionsSinceBaseline": 48,
+    "currentActiveQuestions": 881,
+    "remainingTo10000": 9119,
+    "agreedDailyTarget": 250,
+    "thisRunShortfallAgainstDailyTarget": 217,
+    "projectedTotalAfter30DaysAt250PerDay": 8333,
+    "remainingAfterThatProjection": 1667
+  }
+}
