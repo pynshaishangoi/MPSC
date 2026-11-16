@@ -904,7 +904,10 @@
       "sourceFileName": "JAA(HC)-18 (1).pdf",
       "duplicateOf": "JAA(HC)-18.pdf",
       "sourcePageCount": 9,
-      "answerKeyStatus": "not_verified"
+      "answerKeyStatus": "not_verified",
+      "duplicate_upload": true,
+      "questionsPath": null,
+      "notes": "Duplicate upload of JAA(HC)-18.pdf; excluded from PYQ transcription and completion totals."
     }
   ]
 }
