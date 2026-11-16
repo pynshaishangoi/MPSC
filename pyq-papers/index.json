@@ -62,7 +62,7 @@
       "year": "2017",
       "date": "2018-08-04",
       "series": "I",
-      "totalQuestions": null,
+      "totalQuestions": 180,
       "transcribedQuestions": 0,
       "complete": false,
       "status": "queued",
@@ -70,7 +70,7 @@
       "sourcePageCount": 23,
       "questionsPath": null,
       "answerKeyStatus": "not_verified",
-      "notes": ""
+      "notes": "Source booklet contains two separate papers: Paper I (100 questions) and Paper II (80 questions), confirmed from the original instructions pages. Transcription has not yet begun; retain as queued until question text and options are entered and checked."
     },
     {
       "id": "meghalaya-pyq-005",
