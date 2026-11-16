@@ -247,14 +247,14 @@
       "date": "2020-12-10",
       "series": "I",
       "totalQuestions": 75,
-      "transcribedQuestions": 0,
+      "transcribedQuestions": 67,
       "complete": false,
-      "status": "queued",
+      "status": "in_progress",
       "sourceFileName": "10122020THD20.pdf",
       "sourcePageCount": 6,
-      "questionsPath": null,
+      "questionsPath": "pyq-papers/typist-hod-2020-series-ii.json",
       "answerKeyStatus": "not_verified",
-      "notes": ""
+      "notes": "First-pass transcription covers Q1–75. Eight questions flagged for source-image/formula verification; no answer key invented."
     },
     {
       "id": "meghalaya-pyq-013",
