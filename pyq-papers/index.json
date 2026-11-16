@@ -98,14 +98,14 @@
       "date": "2025-12-04",
       "series": "I",
       "totalQuestions": 150,
-      "transcribedQuestions": 146,
+      "transcribedQuestions": 150,
       "complete": false,
       "status": "in_progress",
       "sourceFileName": "04122025[AEO-LABOUR(JUN-2025].pdf",
       "sourcePageCount": 20,
       "questionsPath": "pyq-papers/assistant-employment-officer-2025-series-i.json",
       "answerKeyStatus": "not_verified",
-      "notes": "146/150 questions have first-pass text/options entered. Q44, Q48, Q49 unresolved; Q132 ratio unclear. Full visual verification pending."
+      "notes": "First-pass transcription of all 150 questions/options entered. Still requires full end-to-end visual verification; no answer key invented."
     },
     {
       "id": "meghalaya-pyq-007",
