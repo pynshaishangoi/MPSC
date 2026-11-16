@@ -80,14 +80,14 @@
       "date": "2023-11-04",
       "series": "I",
       "totalQuestions": 180,
-      "transcribedQuestions": 94,
+      "transcribedQuestions": 166,
       "complete": false,
       "status": "in_progress",
       "sourceFileName": "04112023MCSPRELIMS.pdf",
       "sourcePageCount": 21,
       "questionsPath": "pyq-papers/mcs-prelims-2023-paper-i.json",
       "answerKeyStatus": "not_verified",
-      "notes": "One PDF contains Paper I (100 questions) and Paper II (80 questions). Paper I first-pass text entered; Q25, Q31, Q34, Q62, Q74 and Q92 need visual verification. Paper II pending.",
+      "notes": "Source PDF contains Paper I (100 questions) and Paper II (80 questions). Paper I first-pass transcription entered with six OCR flags. Paper II first-pass transcription entered; Q65–70 and Q72 need source diagrams and Q71 option A needs visual verification. No answer key invented.",
       "questions": 180,
       "paperParts": [
         {
@@ -100,9 +100,9 @@
         {
           "part": "Paper II — General Studies",
           "totalQuestions": 80,
-          "transcribedQuestions": 0,
-          "questionsPath": null,
-          "status": "queued"
+          "transcribedQuestions": 72,
+          "questionsPath": "pyq-papers/mcs-prelims-2023-paper-ii.json",
+          "status": "in_progress"
         }
       ]
     },
