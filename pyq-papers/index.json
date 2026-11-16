@@ -29,14 +29,14 @@
       "date": "2025-09-13",
       "series": "I",
       "totalQuestions": 150,
-      "transcribedQuestions": 75,
+      "transcribedQuestions": 150,
       "complete": false,
       "status": "in_progress",
       "sourceFileName": "[LDA {SECTT} MAY 2025].pdf",
       "sourcePageCount": 20,
       "questionsPath": "pyq-papers/lda-secretariat-2025-series-i.json",
       "answerKeyStatus": "not_verified",
-      "notes": "Questions 1–75 transcribed; questions 76–150 pending."
+      "notes": "First-pass transcription of all 150 questions complete; several reasoning/math items flagged for final verification. No answer key supplied."
     },
     {
       "id": "meghalaya-pyq-003",
