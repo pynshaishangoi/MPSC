@@ -7,9 +7,9 @@
   "date": "2021-12",
   "series": "I",
   "totalQuestions": 150,
-  "transcribedQuestions": 45,
+  "transcribedQuestions": 73,
   "complete": false,
-  "transcriptionNote": "Questions 1–45 transcribed from the original booklet. Q3 option D and Q4 stem are illegible in the extracted scan and are explicitly flagged rather than guessed. Questions 46–150 remain pending. No answer key was supplied.",
+  "transcriptionNote": "Questions 1–57 and 60–73 transcribed. Questions 58–59 require their source diagrams to be embedded or separately checked; Q73 option typography is unclear in the scan and flagged. Questions 74–150 remain pending. No answer key supplied.",
   "questions": [
     {
       "number": 1,
@@ -550,6 +550,342 @@
       ],
       "answerIndex": null,
       "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 46,
+      "text": "She has been residing in this locality for the last four years.",
+      "options": [
+        "She has been residing in this locality",
+        "for the last four years",
+        "No error",
+        ""
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 47,
+      "text": "I wanted a little more than what I have got.",
+      "options": [
+        "I wanted a little more",
+        "than what",
+        "I have got",
+        "No error"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 48,
+      "text": "When I reached the house, she had danced in the drawing room.",
+      "options": [
+        "When I reached the house",
+        "she had danced",
+        "in the drawing room",
+        "No error"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 49,
+      "text": "The effect of all these the world was soothing.",
+      "options": [
+        "The effect of all these",
+        "the world",
+        "was soothing",
+        "No error"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 50,
+      "text": "Simply draw out a sample pattern on the layout plan.",
+      "options": [
+        "Simply draw out",
+        "a sample pattern",
+        "on the layout plan",
+        "No error"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 51,
+      "text": "The sum of the present ages of a son and his father is 60 years. Six years ago, father's age was five times the age of the son. After 6 years, what will be the son's age?",
+      "options": [
+        "20 years",
+        "21 years",
+        "22 years",
+        "23 years"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 52,
+      "text": "In one hour, a boat goes 14 km/hr along the stream and 8 km/hr against the stream. The speed of the boat in still water is",
+      "options": [
+        "8 km/hr",
+        "11 km/hr",
+        "12 km/hr",
+        "10 km/hr"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 53,
+      "text": "How many times in a day are the hands of a clock in a straight line but opposite in direction?",
+      "options": [
+        "12",
+        "22",
+        "24",
+        "48"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 54,
+      "text": "The angle between the minute hand and the hour hand of a clock, when the time is 8:30, is",
+      "options": [
+        "75°",
+        "85°",
+        "80°",
+        "70°"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 55,
+      "text": "A can do a piece of work in 10 days and B can do it in 15 days. They work together for 5 days and the rest of the work is finished by C in two more days. If they got ₹6,000 as wages for the whole work, then find the daily wages of A, B and C.",
+      "options": [
+        "₹600, ₹400, ₹500",
+        "₹400, ₹600, ₹800",
+        "₹400, ₹500, ₹600",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 56,
+      "text": "If A:B:C = 2:3:4, then the ratio A/B : B/C : C/A will be",
+      "options": [
+        "8:9:16",
+        "8:9:12",
+        "8:9:24",
+        "4:9:16"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 57,
+      "text": "A train moving at a speed of 90 km/hr crosses a pole in 7 seconds. Find the length of the train.",
+      "options": [
+        "150 m",
+        "165 m",
+        "175 m",
+        "170 m"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 58,
+      "text": "The positions of dice are given in the source figure. Identify the number at the bottom when the top is 5.",
+      "options": [
+        "6",
+        "3",
+        "2",
+        "4"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_figure"
+    },
+    {
+      "number": 59,
+      "text": "Find the number of triangles in the given source figure.",
+      "options": [
+        "16",
+        "23",
+        "22",
+        "18"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_figure"
+    },
+    {
+      "number": 60,
+      "text": "In a row of girls, Alisha and Cinthya occupy the ninth place from the right end and tenth place from the left end, respectively. If they interchange their places, then Alisha and Cinthya occupy seventeenth place from the right and eighteenth place from the left respectively. How many girls are there in the row?",
+      "options": [
+        "26",
+        "20",
+        "21",
+        "19"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 61,
+      "text": "A is the mother of B. B is the sister of C. D is the son of C. E is the brother of D. F is the mother of E. G is the granddaughter of A. H has only two children B and C. How is F related to H?",
+      "options": [
+        "Son-in-law",
+        "Daughter-in-law",
+        "Father-in-law",
+        "Cannot be determined"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 62,
+      "text": "Z is shorter than Y but taller than X. W is shorter than Z but taller than X and V is shorter than Y but taller than Z. The shortest person is",
+      "options": [
+        "Z",
+        "X",
+        "Y",
+        "V"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 63,
+      "text": "Zara is 6 ranks ahead of Anokhi in a class of 42 students. If Anokhi's rank is eighteenth from the last, then what is Zara's rank from the start?",
+      "options": [
+        "14th",
+        "19th",
+        "17th",
+        "16th"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 64,
+      "text": "The value of 40 coins of 10 paisa and 20 paisa is ₹5.50. The number of 20 paisa coins is",
+      "options": [
+        "15",
+        "25",
+        "30",
+        "35"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 65,
+      "text": "In an examination, a student scores 4 marks for every correct answer and loses 1 mark for every wrong answer. If he attempts all 90 questions and secures 140 marks, the number of questions he attempts correctly is",
+      "options": [
+        "35",
+        "40",
+        "42",
+        "46"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 66,
+      "text": "If rain is called water, water is called air, air is called cloud, cloud is called sky, sky is called sea, and sea is called road, where do the airplanes fly?",
+      "options": [
+        "Water",
+        "Road",
+        "Sea",
+        "Cloud"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 67,
+      "text": "Robert walks 30 meters in the north direction, after that he takes a right turn and walks 40 meters. After that he takes a right turn and walks 40 meters more and finally he takes a right turn and stops after walking 40 meters. Find the distance of Robert from the initial position.",
+      "options": [
+        "50 meters",
+        "10 meters",
+        "15 meters",
+        "20 meters"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 68,
+      "text": "Shobha was facing East. She walked 20 meters. Turning left, she moved 15 meters and then turning right, moved 25 meters. Finally, she turned right and moved 15 meters more. How far is she from her starting point?",
+      "options": [
+        "20 meters",
+        "35 meters",
+        "40 meters",
+        "45 meters"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 69,
+      "text": "What should come in place of the question mark (?) in the following number series? 2, 17, 45, 99, 205, ?",
+      "options": [
+        "453",
+        "455",
+        "451",
+        "415"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 70,
+      "text": "What will come in place of the question mark (?) in the following series? 767, 495, 359, 291, 257, ?",
+      "options": [
+        "240",
+        "180",
+        "200",
+        "220"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 71,
+      "text": "Find out the number which does not follow the pattern (the odd one) in the given series: 8, 27, 64, 100, 125, 216, 343.",
+      "options": [
+        "8",
+        "100",
+        "216",
+        "343"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 72,
+      "text": "In a 500 meter race, the ratio of the speed of two contestants X and Y is 3:4. Y gives X a head start of 140 meters. Then who will win the race?",
+      "options": [
+        "X will win the race by 20 meters",
+        "Y will win the race by 20 meters",
+        "X will win the race by 15 meters",
+        "Both X and Y will reach the finish line at the same time"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 73,
+      "text": "What is the probability of getting a sum of 9 from two throws of a die?",
+      "options": [
+        "4/11",
+        "1/5",
+        "1/9",
+        "1/4"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_visual_check"
     }
   ]
 }
