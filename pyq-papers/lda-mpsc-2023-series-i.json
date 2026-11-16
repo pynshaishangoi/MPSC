@@ -1,0 +1,915 @@
+{
+  "schemaVersion": 1,
+  "paperId": "meghalaya-pyq-003",
+  "sourceFile": "[LDA(OCT-2023].pdf",
+  "exam": "Lower Division Assistant — MPSC",
+  "year": 2023,
+  "date": "2024-12-14",
+  "series": "I",
+  "totalQuestions": 150,
+  "transcribedQuestions": 75,
+  "complete": false,
+  "transcriptionNote": "Questions 1–75 transcribed from the uploaded booklet. Q25's stem is damaged/unclear in the scan and requires image recheck; Q61–62 source words are OCR-corrupted and have been tentatively read as 'punctilious' and 'mendacious'. Questions 76–150 pending. No answer key supplied.",
+  "questions": [
+    {
+      "number": 1,
+      "text": "Hippopotamus loves to wallow in ____ mud.",
+      "options": [
+        "an",
+        "the",
+        "a",
+        "Zero article"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 2,
+      "text": "The Principal welcomed the students ____ the school.",
+      "options": [
+        "at",
+        "in",
+        "to",
+        "into"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 3,
+      "text": "I love having ____ eggs for breakfast.",
+      "options": [
+        "an",
+        "the",
+        "a",
+        "Zero article"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 4,
+      "text": "I have ____ of things on my mind.",
+      "options": [
+        "much",
+        "a lot",
+        "many",
+        "a group"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 5,
+      "text": "The members of the choir ____ every Saturday.",
+      "options": [
+        "meets",
+        "meet",
+        "met",
+        "had met"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 6,
+      "text": "The Aryans are ____ European stock.",
+      "options": [
+        "of",
+        "from",
+        "through",
+        "mainly"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 7,
+      "text": "John was ____ at the surprising turn of events.",
+      "options": [
+        "surprised",
+        "amazed",
+        "happy",
+        "sad"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 8,
+      "text": "Such a gruesome event ____ never happened in the locality before.",
+      "options": [
+        "have",
+        "had",
+        "has",
+        "could"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 9,
+      "text": "Cleopatra was said to be an ____ beauty in her time.",
+      "options": [
+        "incomparable",
+        "unparalleled",
+        "outstanding",
+        "unmatched"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 10,
+      "text": "The delegates ____ since morning to meet the CEO.",
+      "options": [
+        "waits",
+        "will wait",
+        "were waiting",
+        "waiting"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 11,
+      "text": "The divers dived deep ____ the sea to locate the ship.",
+      "options": [
+        "under",
+        "beyond",
+        "into",
+        "below"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 12,
+      "text": "By the time the concert ended, the children ____ already asleep.",
+      "options": [
+        "are",
+        "were",
+        "had been",
+        "has been"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 13,
+      "text": "Despite ____, the Judge was moved to pity.",
+      "options": [
+        "his nice nature",
+        "his humour",
+        "his hard-heartedness",
+        "his busyness"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 14,
+      "text": "The girls cheered ____ when their team scored a goal.",
+      "options": [
+        "bravely",
+        "loudly",
+        "wildly",
+        "softly"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 15,
+      "text": "You've understood, ____?",
+      "options": [
+        "haven't you",
+        "hasn't you",
+        "have you not",
+        "aren't you"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 16,
+      "text": "Neither of the candidates ____ for the debate.",
+      "options": [
+        "shows up",
+        "showed up",
+        "have shown up",
+        "are showing up"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 17,
+      "text": "____ and lodging are available here.",
+      "options": [
+        "Fooding",
+        "Eating",
+        "Food",
+        "Munching"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 18,
+      "text": "Walking ____ the best way to stay fit.",
+      "options": [
+        "was",
+        "can be",
+        "may be",
+        "is"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 19,
+      "text": "Because of global warming, the climate ____ changed a lot.",
+      "options": [
+        "may",
+        "had",
+        "has",
+        "have"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 20,
+      "text": "Democracy without freedom is ____.",
+      "options": [
+        "meaningless",
+        "meaningful",
+        "alright",
+        "funny"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 21,
+      "text": "He was so passionate about the job, he was like ____.",
+      "options": [
+        "an enthusiastic man",
+        "a man on a mission",
+        "an expert",
+        "a powerful man"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 22,
+      "text": "Who ____ to apply for the post of Treasurer?",
+      "options": [
+        "want",
+        "is wanting",
+        "are wanting",
+        "wants"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 23,
+      "text": "We can eat in the café ____ order a takeout.",
+      "options": [
+        "and",
+        "or",
+        "but",
+        "either"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 24,
+      "text": "She succeeded ____ everyone failed.",
+      "options": [
+        "where",
+        "when",
+        "while",
+        "and"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 25,
+      "text": "Choose the word that best completes the source sentence: ____.",
+      "options": [
+        "[source option A unclear]",
+        "direct",
+        "wave",
+        "find"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_visual_check"
+    },
+    {
+      "number": 26,
+      "text": "She could not convince the jury ____ her pleas.",
+      "options": [
+        "in spite of",
+        "by",
+        "despite",
+        "with"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 27,
+      "text": "Please don't walk ____ the grass.",
+      "options": [
+        "over",
+        "on",
+        "above",
+        "in"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 28,
+      "text": "Good heavens! How time ____.",
+      "options": [
+        "flies",
+        "has flown",
+        "fly",
+        "flew"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 29,
+      "text": "Her job comes with a ____ pay package.",
+      "options": [
+        "nice",
+        "okay",
+        "hefty",
+        "beautiful"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 30,
+      "text": "Jim was already in bed when I ____ him last night.",
+      "options": [
+        "called",
+        "call",
+        "am calling",
+        "was calling"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 31,
+      "text": "Choose the correct sentences: (i) The bulldozer made a humming noise. (ii) The noise irritated people nearby. (iii) They complained against the irritated bulldozer.",
+      "options": [
+        "(i) and (iii)",
+        "(ii) and (iii)",
+        "(i) and (ii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 32,
+      "text": "Choose the correct sentences: (i) The guests were treated to a lavish meal. (ii) They ate until they were full. (iii) That dinner party was talked about for a long time.",
+      "options": [
+        "(i) and (ii)",
+        "(ii) and (iii)",
+        "(i) and (iii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 33,
+      "text": "Choose the correct sentences: (i) Ram was known for his eloquence. (ii) Ram was invited to speech on the meeting. (iii) At the last minute, he had to cancel the program.",
+      "options": [
+        "(i) and (iii)",
+        "(i) and (ii)",
+        "(ii) and (iii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 34,
+      "text": "Choose the correct sentences: (i) The aeroplane glided smooth in the blue sky. (ii) The passengers leaned back in their seats. (iii) It was such a comfortable flight.",
+      "options": [
+        "(i) and (ii)",
+        "(ii) and (iii)",
+        "(i) and (iii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 35,
+      "text": "Choose the correct sentences: (i) John is such a good swimmer. (ii) He could swam in any sea. (iii) He once swam in the English Channel.",
+      "options": [
+        "(i) and (ii)",
+        "(ii) and (iii)",
+        "(i) and (iii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 36,
+      "text": "Choose the correct sentences: (i) Isn't he the Principal of the school? (ii) I heard that he's a man of integrity. (iii) He combines strictness with approachability.",
+      "options": [
+        "(i) and (ii)",
+        "(ii) and (iii)",
+        "(i) and (iii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 37,
+      "text": "Choose the correct sentences: (i) Can you do me favor? (ii) Can you favor me? (iii) Can you do me this favor please?",
+      "options": [
+        "(ii) and (iii)",
+        "(i) and (iii)",
+        "(i) and (ii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 38,
+      "text": "Choose the correct sentences: (i) He told us a very interesting story. (ii) The interesting listeners were captivated. (iii) Nobody wanted the story to end.",
+      "options": [
+        "(i) and (ii)",
+        "(ii) and (iii)",
+        "(i) and (iii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 39,
+      "text": "Choose the correct sentences: (i) How many books do you wish to buy? (ii) How many books did she wish to buy? (iii) You wish to buy books how many?",
+      "options": [
+        "(i) and (ii)",
+        "(i) and (iii)",
+        "(ii) and (iii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 40,
+      "text": "Choose the correct sentences: (i) Jim was the monitor in class for five years. (ii) Jim was the class monitor for five years. (iii) Jim had been a class monitor for five years.",
+      "options": [
+        "(ii) and (iii)",
+        "(i) and (iii)",
+        "(i) and (ii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 41,
+      "text": "Choose the correct sentences: (i) I've never seen a tiger at close range. (ii) I've never seen a tiger this close. (iii) I've never seen a tiger close up.",
+      "options": [
+        "(i) and (ii)",
+        "(ii) and (iii)",
+        "(i) and (iii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 42,
+      "text": "Choose the correct sentences: (i) She's a famous actress of yesteryears. (ii) She's a famous actress yesterday. (iii) She was once a famous actress.",
+      "options": [
+        "(i) and (ii)",
+        "(ii) and (iii)",
+        "(i) and (iii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 43,
+      "text": "Choose the correct sentences: (i) After the harvest, the farmer went to bed happy. (ii) The good harvest made the farmer happy. (iii) After the harvest, the farmer went happy to bed.",
+      "options": [
+        "(i) and (iii)",
+        "(i) and (ii)",
+        "(ii) and (iii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 44,
+      "text": "Choose the correct sentences: (i) The current is too strong to cross. (ii) The current is too wide to cross. (iii) The current is too powerful to cross.",
+      "options": [
+        "(i) and (ii)",
+        "(ii) and (iii)",
+        "(i) and (iii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 45,
+      "text": "Choose the correct sentences: (i) The Sun is too heat today. (ii) The Sun is too hot today. (iii) The Sun is so hot today.",
+      "options": [
+        "(i) and (ii)",
+        "(ii) and (iii)",
+        "(i) and (iii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 46,
+      "text": "Choose the correct sentences: (i) Don't you have anything better to do? (ii) Don't you have anything to do with your time? (iii) Don't you have anything useful to do?",
+      "options": [
+        "(i) and (iii)",
+        "(ii) and (iii)",
+        "(i) and (ii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 47,
+      "text": "Choose the correct sentences: (i) For heaven's sake, stop wasting your time! (ii) For heaven's sake, stop waste time! (iii) For heaven's sake, stop wasting time!",
+      "options": [
+        "(i) and (ii)",
+        "(ii) and (iii)",
+        "(i) and (iii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 48,
+      "text": "Choose the correct sentences: (i) She's a strong, confident woman. (ii) She exudes confident. (iii) Her confidence is admired by many.",
+      "options": [
+        "(i) and (ii)",
+        "(i) and (iii)",
+        "(ii) and (iii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 49,
+      "text": "Choose the correct sentences: (i) Which pairs of shoes do you prefer? (ii) Which pair of shoes do you prefer? (iii) Which of these pairs do you prefer?",
+      "options": [
+        "(ii) and (iii)",
+        "(i) and (ii)",
+        "(i) and (iii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 50,
+      "text": "Choose the correct sentences: (i) The restaurant opens at all hours. (ii) The restaurant opens 24x7. (iii) The restaurant is opening at all times.",
+      "options": [
+        "(i) and (ii)",
+        "(ii) and (iii)",
+        "(i) and (iii)",
+        "(i), (ii) and (iii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 51,
+      "text": "His most trusted friend proved to be a snake in the grass.",
+      "options": [
+        "a traitor",
+        "a hidden enemy",
+        "a coward",
+        "a warmonger"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 52,
+      "text": "You cannot have your cake and eat it too.",
+      "options": [
+        "have it both ways",
+        "make the best of a situation",
+        "enjoy without paying",
+        "absolve yourself of guilt"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 53,
+      "text": "The cashier wiped the nose of his employer by presenting false bills.",
+      "options": [
+        "abused",
+        "cheated",
+        "slapped",
+        "doomed"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 54,
+      "text": "After the death of his father, the son played ducks and drakes with his inherited property.",
+      "options": [
+        "gambled",
+        "trade horses",
+        "played falsely with others",
+        "spend lavishly"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 55,
+      "text": "After his retirement, Mr. Dave is thinking of resting on his oars.",
+      "options": [
+        "going for a long vacation",
+        "resting after hard work",
+        "starting a new business",
+        "keeping himself busy"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 56,
+      "text": "Easy to shape in desired form",
+      "options": [
+        "portable",
+        "versatile",
+        "malleable",
+        "potable"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 57,
+      "text": "Very pleasing to eat",
+      "options": [
+        "edible",
+        "insipid",
+        "mouthful",
+        "luscious"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 58,
+      "text": "One who desires freedom from control, especially government control",
+      "options": [
+        "extremist",
+        "anarchist",
+        "terrorist",
+        "militant"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 59,
+      "text": "Beyond all power of destruction of time",
+      "options": [
+        "impenetrable",
+        "immaculate",
+        "imperishable",
+        "omnipotent"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 60,
+      "text": "Composed of elements highly diverse in character",
+      "options": [
+        "heterogeneity",
+        "heterolytic",
+        "heteroamorous",
+        "vacillating"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 61,
+      "text": "Punctilious (word appears OCR-corrupted in the source)",
+      "options": [
+        "careless",
+        "apathetic",
+        "tardy",
+        "meticulous"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_visual_check"
+    },
+    {
+      "number": 62,
+      "text": "Mendacious (word appears OCR-corrupted in the source)",
+      "options": [
+        "broken",
+        "truthful",
+        "deceitful",
+        "veracity"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_visual_check"
+    },
+    {
+      "number": 63,
+      "text": "Ameliorate",
+      "options": [
+        "increase",
+        "clasp",
+        "improve",
+        "dissemble"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 64,
+      "text": "Cursory",
+      "options": [
+        "casual",
+        "careful",
+        "degrading",
+        "thorough"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 65,
+      "text": "Implicate",
+      "options": [
+        "involve",
+        "exonerate",
+        "corrupt",
+        "accuse"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 66,
+      "text": "Choose the antonym of 'Selfish' in the context of the passage.",
+      "options": [
+        "selfless",
+        "self-absorbed",
+        "kind",
+        "prejudiced"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 67,
+      "text": "Choose the antonym of 'Comfortable' in the context of the passage.",
+      "options": [
+        "hard",
+        "uncomfortable",
+        "difficult",
+        "easy"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 68,
+      "text": "Choose the antonym of 'Important' in the context of the passage.",
+      "options": [
+        "urgent",
+        "necessary",
+        "trivial",
+        "not needed"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 69,
+      "text": "Choose the antonym of 'Underestimate'.",
+      "options": [
+        "trivialize",
+        "exaggerate",
+        "overestimate",
+        "appreciate"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 70,
+      "text": "Choose the antonym of 'Decayed'.",
+      "options": [
+        "thriving",
+        "rotten",
+        "bad",
+        "dying"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 71,
+      "text": "Choose the meaning of 'Breeding place' in the context of the passage.",
+      "options": [
+        "a place of teaching",
+        "a formative space",
+        "a place to populate",
+        "an influence"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 72,
+      "text": "Choose the meaning of 'Pander' in the context of the passage.",
+      "options": [
+        "deny",
+        "give in to demands",
+        "coerce",
+        "spoil"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 73,
+      "text": "Choose the meaning of 'Symptom' in the context of the passage.",
+      "options": [
+        "sign",
+        "cause",
+        "effect",
+        "reason"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 74,
+      "text": "Choose the meaning of 'Society at large' in the context of the passage.",
+      "options": [
+        "the family",
+        "the home",
+        "the neighbourhood",
+        "the greater community"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 75,
+      "text": "Choose the meaning of 'Lifestyle' in the context of the passage.",
+      "options": [
+        "livelihood",
+        "way of life",
+        "stylish life",
+        "lifetime"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    }
+  ]
+}
