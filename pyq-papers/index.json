@@ -213,14 +213,14 @@
       "date": "2026-01-08",
       "series": "I",
       "totalQuestions": 150,
-      "transcribedQuestions": 0,
+      "transcribedQuestions": 147,
       "complete": false,
-      "status": "queued",
+      "status": "in_progress",
       "sourceFileName": "08012026[LO GAD (SEPT-2025)].pdf",
       "sourcePageCount": 19,
-      "questionsPath": null,
+      "questionsPath": "pyq-papers/liaison-officer-gad-2025-series-i.json",
       "answerKeyStatus": "not_verified",
-      "notes": ""
+      "notes": "First-pass transcription covers Q1–150. Q63 and Q115 need source-image verification; Q122 is figure-based and must retain its source diagram. No answer key invented."
     },
     {
       "id": "meghalaya-pyq-011",
