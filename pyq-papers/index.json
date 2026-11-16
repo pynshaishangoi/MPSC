@@ -196,14 +196,14 @@
       "date": "2026-01-08",
       "series": "I",
       "totalQuestions": 150,
-      "transcribedQuestions": 137,
+      "transcribedQuestions": 133,
       "complete": false,
       "status": "in_progress",
       "sourceFileName": "08012026[ASWCO SOIL (JUN-2025).pdf",
       "sourcePageCount": 19,
       "questionsPath": "pyq-papers/aswco-soil-2025-series-i.json",
       "answerKeyStatus": "not_verified",
-      "notes": "First-pass transcription covers Q1–150. Thirteen questions flagged for source-image/formula verification; no answer key invented. Full visual verification pending."
+      "notes": "First-pass transcription covers Q1–150. Q79–82 plus thirteen formula/scan items flagged for source-image verification; no answer key invented."
     },
     {
       "id": "meghalaya-pyq-010",
