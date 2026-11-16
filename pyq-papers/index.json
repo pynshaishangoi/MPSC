@@ -297,15 +297,15 @@
       "year": "2022",
       "date": "2022-12-17",
       "series": "I",
-      "totalQuestions": 150,
-      "transcribedQuestions": 131,
+      "totalQuestions": 300,
+      "transcribedQuestions": 268,
       "complete": false,
       "status": "in_progress",
       "sourceFileName": "17122022MPSPRELIMS.pdf",
       "sourcePageCount": 170,
       "questionsPath": "pyq-papers/mps-prelims-2022-agriculture-series-ii.json",
       "answerKeyStatus": "not_verified",
-      "notes": "The PDF is a compilation of multiple subject booklets, not one single 150-question paper. Agriculture booklet (pages 1–9) first-pass transcribed; 19 items flagged. Commerce and other subject booklets later in the same PDF remain to be transcribed and counted.",
+      "notes": "The PDF is a compilation of multiple subject booklets. Agriculture Q1–150 and Commerce Q1–150 have first-pass transcription files; 32 items across these two booklets are flagged for source-image/terminology verification. Additional subject booklets later in the 170-page PDF remain pending; total printed question count is not yet final.",
       "paperParts": [
         {
           "part": "Agriculture — Series II",
@@ -315,7 +315,14 @@
           "status": "in_progress"
         },
         {
-          "part": "Additional subject booklets in the same PDF",
+          "part": "Commerce — Series IV",
+          "totalQuestions": 150,
+          "transcribedQuestions": 137,
+          "questionsPath": "pyq-papers/mps-prelims-2022-commerce-series-iv.json",
+          "status": "in_progress"
+        },
+        {
+          "part": "Further subject booklets later in same PDF",
           "totalQuestions": null,
           "transcribedQuestions": 0,
           "questionsPath": null,
