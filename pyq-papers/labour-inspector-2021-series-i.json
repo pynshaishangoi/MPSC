@@ -46,16 +46,16 @@
         "abundance",
         "availability",
         "scarcity",
-        "[illegible in source scan]"
+        "price rise"
       ],
       "answerIndex": 2,
-      "transcriptionStatus": "needs_source_visual_check",
-      "explanation": "Paucity means a shortage or scarcity. The fourth option is readable in the original scan as “price rise”.",
+      "transcriptionStatus": "transcribed_verified_from_source_scan",
+      "explanation": "Paucity means scarcity or shortage. Option C is the direct synonym.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 4,
-      "text": "[Question stem illegible in source scan]",
+      "text": "After the battle was over, the soldier was accused of perfidy.",
       "options": [
         "treason",
         "heresy",
@@ -63,8 +63,8 @@
         "cowardice"
       ],
       "answerIndex": 0,
-      "transcriptionStatus": "needs_source_visual_check",
-      "explanation": "Perfidy means deliberate betrayal or treachery. “Treason” is the closest option given.",
+      "transcriptionStatus": "transcribed_verified_from_source_scan",
+      "explanation": "Perfidy means deliberate betrayal or treachery. “Treason” is the closest option supplied.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -442,7 +442,7 @@
       ],
       "answerIndex": 2,
       "transcriptionStatus": "transcribed",
-      "explanation": "An eagle's-eye view is a sharp, keen view. A picture from high in the sky is a bird's-eye view.",
+      "explanation": "An eagle's-eye view means a sharp or keen view. Option C is the closest available meaning.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -496,9 +496,9 @@
         "listened to",
         "harrowed"
       ],
-      "answerIndex": 1,
+      "answerIndex": 0,
       "transcriptionStatus": "transcribed",
-      "explanation": "To follow a teacher's way or example is to imitate the teacher; “imitated” is the closest option.",
+      "explanation": "“Walk after” here means follow behind someone; “ran after” is the closest option among those supplied.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -622,9 +622,9 @@
         "talk about many unimportant and confusing things",
         "talk about disappointing matters"
       ],
-      "answerIndex": 1,
+      "answerIndex": 2,
       "transcriptionStatus": "transcribed",
-      "explanation": "To avoid beating around the bush is to speak directly and clarify the important points.",
+      "explanation": "“Beat around the bush” means avoid the main point by talking about unimportant or confusing matters. Option C gives the idiom's meaning; “not to” reverses the action in the sentence but does not change the idiom's definition.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -664,9 +664,9 @@
         "I have got",
         "No error"
       ],
-      "answerIndex": 2,
+      "answerIndex": 3,
       "transcriptionStatus": "transcribed",
-      "explanation": "The tense in “I have got” is inconsistent with the past reference “I wanted”; “I had got” or “I got” would be more consistent. The printed item appears to expect an error in this segment.",
+      "explanation": "The sentence is acceptable: “I wanted a little more than what I have got” can express a past desire compared with what the speaker has obtained up to now. No error.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -708,7 +708,7 @@
       ],
       "answerIndex": 3,
       "transcriptionStatus": "transcribed",
-      "explanation": "“Draw out a sample pattern on the layout plan” is acceptable usage; no clear grammatical error is present.",
+      "explanation": "“Draw out a sample pattern on the layout plan” is acceptable in this context. No error.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -776,9 +776,9 @@
         "₹400, ₹500, ₹600",
         "None of the above"
       ],
-      "answerIndex": 3,
+      "answerIndex": 0,
       "transcriptionStatus": "transcribed",
-      "explanation": "A and B together complete 5/6 of the work in five days, leaving 1/6 for C. Their work contributions are A=1/2, B=1/3, C=1/6, so the total wages should be shared 3:2:1 (₹3,000, ₹2,000, ₹1,000). None of the listed options matches these shares; the item/options need review.",
+      "explanation": "The daily work rates are A=1/10, B=1/15 and C=1/12, in the ratio 6:4:5. A and B work 5 days, while C works 2 days. If daily wages are 600k, 400k and 500k, total wages are 5(600k+400k)+2(500k)=6,000k. Since the total is ₹6,000, k=1; daily wages are ₹600, ₹400 and ₹500.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -811,27 +811,31 @@
     },
     {
       "number": 58,
-      "text": "The positions of dice are given in the source figure. Identify the number at the bottom when the top is 5.",
+      "text": "The positions of dice are given below. Identify the number at the bottom when the top is 5.",
       "options": [
         "6",
         "3",
         "2",
         "4"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_figure"
+      "answerIndex": 3,
+      "transcriptionStatus": "transcribed_verified_from_source_figure",
+      "explanation": "From the four dice views, the opposite pairs are 3–6, 1–2 and 4–5. Therefore, when 5 is on top, 4 is at the bottom.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 59,
-      "text": "Find the number of triangles in the given source figure.",
+      "text": "Find the number of triangles in the given figure.",
       "options": [
         "16",
         "23",
         "22",
         "18"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_figure"
+      "answerIndex": 3,
+      "transcriptionStatus": "transcribed_verified_from_source_figure",
+      "explanation": "Counting the triangles of every size in the figure gives 18 triangles. The count includes the small triangles, combined triangles and the complete outer triangle.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 60,
@@ -1019,14 +1023,14 @@
       "number": 73,
       "text": "What is the probability of getting a sum of 9 from two throws of a die?",
       "options": [
-        "4/11",
-        "1/5",
+        "1/6",
+        "1/8",
         "1/9",
         "1/4"
       ],
       "answerIndex": 2,
-      "transcriptionStatus": "needs_visual_check",
-      "explanation": "With two dice there are 36 equally likely outcomes. Four give a sum of 9: (3,6), (4,5), (5,4), (6,3). Probability = 4/36 = 1/9.",
+      "transcriptionStatus": "transcribed_verified_from_source_scan",
+      "explanation": "Two throws of a die have 36 equally likely ordered outcomes. Four outcomes total 9: (3,6), (4,5), (5,4) and (6,3). Probability = 4/36 = 1/9.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1045,15 +1049,17 @@
     },
     {
       "number": 75,
-      "text": "Find the number of non-negative integer solutions to the equation shown in the source paper (OCR appears as x₁ + x₂ + x₃ + x₄ = 15).",
+      "text": "Find the number of non-negative integer solutions to the inequality x₁ + x₂ + x₃ + x₄ ≤ 15.",
       "options": [
         "3145",
         "4845",
         "3060",
         "3876"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_visual_check"
+      "answerIndex": 3,
+      "transcriptionStatus": "transcribed_verified_from_source_scan",
+      "explanation": "For x₁+x₂+x₃+x₄≤15 with all variables non-negative integers, introduce a non-negative slack variable x₅ so the sum equals 15. By stars and bars, the number is C(19,4)=3,876.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 76,
@@ -1766,7 +1772,7 @@
       ],
       "answerIndex": 3,
       "transcriptionStatus": "transcribed_verified_from_high_resolution_source_scan",
-      "explanation": "Convert to thirty-thirds: 4 5/6 = 29/6, 7 1/2 = 15/2, and 5 8/11 = 63/11. Their sum and difference is 29/6 + 15/2 − 63/11 = 218/33 = 6 20/33.",
+      "explanation": "The scan reads 4 5/6 + 7 1/2 − 5 8/11. Converting to denominator 66 gives 29/6 + 15/2 − 63/11 = 218/33 = 6 20/33.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -2088,7 +2094,7 @@
       ],
       "answerIndex": 0,
       "transcriptionStatus": "transcribed_verified_from_high_resolution_source_scan",
-      "explanation": "The scan reads (78)². If n²−78²=6460, then n²=6460+6084=12,544=112². Therefore n=112.",
+      "explanation": "The source scan reads (78)². If n²−78²=6460, then n²=6460+6084=12,544=112², so n=112.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
