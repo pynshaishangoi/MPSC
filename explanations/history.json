@@ -648,8 +648,32 @@
       "exam": "1919 Act = dyarchy in provinces. 1935 Act = provincial autonomy. Do not state that the 1919 Act introduced dyarchy at the Centre.",
       "source": "UK Parliament House of Lords Library, Lord Sinha and the Government of India Act 1919",
       "url": "https://lordslibrary.parliament.uk/research-briefings/lln-2019-0153/"
+    },
+    "7307": {
+      "title": "Vernacular Press Act, 1878 — control of the vernacular press",
+      "overview": "The Vernacular Press Act of 1878 was a colonial law aimed at controlling publications in Indian languages. It is often remembered as the Gagging Act.",
+      "context": "The Act was enacted during Lord Lytton's viceroyalty. English-language newspapers were outside its scope, while vernacular publications faced special restrictions.",
+      "who": "Lord Lytton was Viceroy when the Act was passed in 1878. Lord Ripon later repealed it in 1882.",
+      "what": "The law empowered colonial authorities to require undertakings and take action against vernacular publications considered objectionable by the administration.",
+      "why": "The colonial government sought to restrain criticism and what it regarded as seditious writing in Indian-language newspapers.",
+      "significance": "The Act became a symbol of restrictions on press freedom and of the unequal treatment of English and vernacular publications under colonial rule.",
+      "exam": "1878 Vernacular Press Act = Lord Lytton; repeal = Lord Ripon. It targeted the vernacular press, not English-language newspapers.",
+      "source": "1911 Encyclopaedia Britannica, Press Laws; Cambridge University Press, research on the Indian press, 1870–1880.",
+      "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Press_Laws"
+    },
+    "7308": {
+      "title": "Ilbert Bill controversy, 1883 — racial jurisdiction",
+      "overview": "The Ilbert Bill controversy concerned whether qualified Indian judges could exercise criminal jurisdiction over European British subjects in India.",
+      "context": "The proposal was introduced in 1883 during Lord Ripon's viceroyalty. It challenged a racial restriction in the colonial judicial system and provoked strong opposition from much of the European community.",
+      "who": "Sir Courtenay Ilbert, the Law Member of the Viceroy's Council, was associated with the bill. Lord Ripon was Viceroy.",
+      "what": "The bill sought to remove the bar that prevented qualified Indian magistrates and judges from trying European British subjects in specified criminal cases. The final measure was passed in a compromised form in 1884.",
+      "why": "The controversy exposed the conflict between the principle of equal justice and racial privilege within British colonial administration.",
+      "significance": "It became a major example of racial discrimination in colonial India and showed the limits of liberal reform under imperial rule.",
+      "exam": "Ilbert Bill = 1883; Indian judges and European British subjects; controversy over racial equality before the law. Do not confuse the proposal with the compromised 1884 enactment.",
+      "source": "Cambridge University Press, Law and History Review, “Constitutional Panic in British India: The Ilbert Bill Controversy of 1883”.",
+      "url": "https://www.cambridge.org/core/journals/law-and-history-review/article/constitutional-panic-in-british-india-how-the-ilbert-bill-controversy-of-1883-revealed-the-constitutive-character-of-racial-discrimination-in-the-british-empire/BF8625028C2B41509A4249F76B8CC29D"
     }
   },
-  "questionCount": 52,
-  "updatedAt": "2026-11-16"
+  "questionCount": 54,
+  "updatedAt": "2026-11-17"
 }
