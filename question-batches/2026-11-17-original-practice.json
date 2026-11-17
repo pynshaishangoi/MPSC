@@ -1,0 +1,1221 @@
+{
+  "batchId": "2026-11-17-original-practice",
+  "batchDate": "2026-11-17",
+  "contentType": "Original Practice",
+  "questionCount": 50,
+  "questionIdRange": "7261-7310",
+  "subjects": {
+    "GST / Inspector of Taxes": 12,
+    "Meghalaya GK": 7,
+    "Polity": 6,
+    "History": 4,
+    "Geography": 3,
+    "Environment": 5,
+    "Computer": 4,
+    "Economy": 2,
+    "Science": 5,
+    "Reasoning": 2
+  },
+  "questions": [
+    {
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Time of supply: forward-charge services",
+      "q": "A registered supplier issues a tax invoice for a taxable service within the prescribed period. Under section 13(2)(a) of the CGST Act, which date determines the time of supply?",
+      "o": [
+        "The earlier of the invoice date and the date of receipt of payment",
+        "The later of the invoice date and the date of receipt of payment",
+        "Only the date on which the service is completed",
+        "The date on which the supplier files GSTR-3B"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. For a taxable service under the general forward-charge rule, where the invoice is issued within the prescribed time, section 13(2)(a) takes the earlier of the invoice date and the date of receipt of payment. It is not the later date and is not tied to return filing. Reverse-charge and certain associated-enterprise cases have separate rules.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code, CGST Act, section 13(2)(a).",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7261
+    },
+    {
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Time of supply: reverse-charge services",
+      "q": "A recipient is liable to pay GST under reverse charge for an ordinary domestic service. Under section 13(3)(a), which is the general time-of-supply rule?",
+      "o": [
+        "The earlier of payment and the date immediately following 60 days from the supplier's invoice",
+        "The earlier of payment and the date immediately following 30 days from the supplier's invoice",
+        "Always the date on which the recipient receives the service",
+        "Always the date on which the supplier files the return"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. For services taxable under reverse charge, section 13(3)(a) generally compares the payment date with the date immediately following 60 days from the supplier's invoice; the earlier date applies. This differs from the 30-day rule for reverse-charge goods. A special rule applies to certain associated-enterprise supplies from outside India.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code, CGST Act, section 13(3).",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7262
+    },
+    {
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Time of supply: reverse-charge goods",
+      "q": "A recipient receives goods on 4 August, pays on 12 August, and the supplier's invoice is dated 1 August. The supply is taxable under reverse charge. What is the time of supply under section 12(3)?",
+      "o": [
+        "4 August",
+        "12 August",
+        "1 September",
+        "30 September"
+      ],
+      "a": 0,
+      "e": "Correct answer: A — 4 August. Section 12(3) uses the earliest of receipt of goods, payment, and the date immediately following 30 days from the supplier's invoice. Thirty days from 1 August ends on 31 August, so the following date is 1 September. Receipt on 4 August is therefore the earliest event.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code, CGST Act, section 12(3).",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7263
+    },
+    {
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Tax invoice: services time limit",
+      "q": "Under rule 47 of the CGST Rules, what is the general time limit for issuing a tax invoice for a taxable service?",
+      "o": [
+        "Within 15 days from the date of supply",
+        "Within 30 days from the date of supply",
+        "Within 45 days from the date of supply in every case",
+        "Within 60 days from the date of supply"
+      ],
+      "a": 1,
+      "e": "Correct answer: B. Rule 47 generally requires a tax invoice for services within 30 days from the date of supply. A 45-day period is prescribed for specified suppliers such as insurers, banking companies, financial institutions and NBFCs. The 45-day exception is not the general rule for every service supplier.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. CBIC, CGST Rules, rule 47.",
+      "sourceURL": "https://cbic-gst.gov.in/gst-invoice-rules.html",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7264
+    },
+    {
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Input tax credit: tax payment condition",
+      "q": "A registered buyer has a valid tax invoice and has received the goods, but the tax charged on the supply has not actually been paid to the Government. Which condition in section 16(2) is not satisfied?",
+      "o": [
+        "The buyer must possess a GST registration certificate in paper form",
+        "The tax charged in respect of the supply must have been actually paid to the Government",
+        "The supplier must be located in the same district as the buyer",
+        "The buyer must pay the invoice only through a bank transfer"
+      ],
+      "a": 1,
+      "e": "Correct answer: B. Section 16(2)(c) requires that the tax charged in respect of the supply has actually been paid to the Government, either in cash or through utilisation of admissible input tax credit, subject to the statutory framework. Possession of an invoice and receipt of goods do not, by themselves, satisfy every condition for ITC.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code, CGST Act, section 16(2)(c).",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7265
+    },
+    {
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Input tax credit: general time limit",
+      "q": "For the general rule in section 16(4) of the CGST Act, by when must a registered person claim ITC relating to an invoice or debit note for a financial year?",
+      "o": [
+        "By 30 November following that financial year, or the date of furnishing the relevant annual return, whichever is earlier",
+        "By 31 March of the same financial year in every case",
+        "By 30 September following the financial year, without exception",
+        "At any time before the taxpayer cancels registration"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. The general rule in section 16(4) sets the cut-off at 30 November following the end of the relevant financial year or the date on which the relevant annual return is furnished, whichever is earlier. The Act contains special statutory relaxations for specified periods and situations, so the general rule must be read with any applicable exception.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. CBIC, Circular No. 237/31/2024-GST and CGST Act, section 16(4).",
+      "sourceURL": "https://cbic-gst.gov.in/pdf/circular-237-31-2024-GST.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7266
+    },
+    {
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Blocked input tax credit: construction on own account",
+      "q": "A company constructs an office building on its own account and uses it for taxable business. Under section 17(5)(d), is ITC on goods or services used for that construction generally available?",
+      "o": [
+        "Yes, because every business expense qualifies for ITC",
+        "No, construction of immovable property on own account is blocked, except plant or machinery",
+        "Yes, but only if the building is used for more than five years",
+        "Yes, if the contractor is paid by bank transfer"
+      ],
+      "a": 1,
+      "e": "Correct answer: B. Section 17(5)(d) blocks ITC on goods or services used for construction of immovable property on a taxable person's own account, even where the property is used in the course or furtherance of business. The statutory exception is for plant or machinery. Business use alone does not remove the block.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code, CGST Act, section 17(5)(d).",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7267
+    },
+    {
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Time of supply: vouchers",
+      "q": "A supplier issues a voucher for a particular service, and the nature of that service is identifiable on the date the voucher is issued. Under section 12(4) of the CGST Act, what is the time of supply?",
+      "o": [
+        "The date on which the voucher is issued",
+        "The date on which the voucher is redeemed in every case",
+        "The last day of the financial year",
+        "The date on which the supplier files GSTR-1"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. Under section 12(4), where the underlying supply is identifiable when the voucher is issued, the time of supply is the date of issue. If the supply is not identifiable at that stage, the date of redemption is used. The distinction turns on whether the nature of the supply is known at issue.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code, CGST Act, section 12(4).",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7268
+    },
+    {
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Debit note: section 34",
+      "q": "A supplier discovers that the taxable value or tax charged in an earlier tax invoice is lower than the amount actually payable for that supply. Which document should the supplier issue under section 34(3) of the CGST Act?",
+      "o": [
+        "A credit note",
+        "A debit note",
+        "A bill of supply",
+        "A receipt voucher"
+      ],
+      "a": 1,
+      "e": "Correct answer: B. Section 34(3) provides for a debit note where the taxable value or tax charged in the original invoice is less than the taxable value or tax payable for the supply. A credit note is used for the opposite situation or other specified grounds, such as excess value or tax, returned goods, or deficient services.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code, CGST Act, section 34(3).",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7269
+    },
+    {
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Place of supply: services to registered recipient",
+      "q": "For a service supplied within India that is not covered by a special place-of-supply rule, where both supplier and recipient are in India and the recipient is registered, what is the place of supply under section 12(2) of the IGST Act?",
+      "o": [
+        "Location of the supplier of services",
+        "Location of the registered recipient of services",
+        "Place where the contract was signed",
+        "Place where the invoice is printed"
+      ],
+      "a": 1,
+      "e": "Correct answer: B. Under section 12(2)(a) of the IGST Act, for a registered recipient the place of supply is the recipient's location. This general rule applies only where a more specific place-of-supply provision does not govern the service. The supplier's location is the fallback for an unregistered recipient when the recipient's address is not available on record.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. CBIC, IGST Act, section 12(2).",
+      "sourceURL": "https://cbic-gst.gov.in/hindi/IGST-bill-e.html",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7270
+    },
+    {
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Zero-rated supply: exports and SEZ",
+      "q": "Which pair of transactions is included in the statutory definition of zero-rated supply under section 16 of the IGST Act?",
+      "o": [
+        "Exports of goods or services, and supplies to an SEZ developer or unit for authorised operations",
+        "Every supply made within the same State, and every exempt supply",
+        "Only supplies to Government departments and local authorities",
+        "Every supply on which the supplier charges CGST and SGST"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. Section 16 of the IGST Act includes exports of goods or services and supplies to a Special Economic Zone developer or unit for authorised operations. Zero-rated supply is not synonymous with exempt supply or every intra-State supply. The authorised-operations condition is important for the SEZ limb.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. CBIC, IGST Act, section 16.",
+      "sourceURL": "https://cbic-gst.gov.in/hindi/IGST-bill-e.html",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7271
+    },
+    {
+      "cat": "GST / Inspector of Taxes",
+      "topic": "E-invoicing: aggregate turnover threshold",
+      "q": "For a regular GST-registered supplier who is not covered by a notified exemption, what aggregate-turnover threshold generally brings specified B2B documents within the e-invoicing mandate?",
+      "o": [
+        "Turnover exceeding ₹1 crore in any financial year from 2017-18 onward",
+        "Turnover exceeding ₹5 crore in any preceding financial year from 2017-18 onward",
+        "Turnover exceeding ₹10 crore only in the current financial year",
+        "Turnover exceeding ₹20 crore in each of the last three financial years"
+      ],
+      "a": 1,
+      "e": "Correct answer: B. The e-invoicing threshold was reduced to aggregate turnover exceeding ₹5 crore in any preceding financial year from 2017-18 onward, with effect from 1 August 2023. The mandate applies to specified documents and is subject to notified exemptions for specified classes of persons; it is not based only on the current year's turnover.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. GSTN/Invoice Registration Portal, e-invoice threshold information.",
+      "sourceURL": "https://einvoice6.gst.gov.in/content/e-invoice-apis-for-solution-providers/",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7272
+    },
+    {
+      "cat": "Meghalaya GK",
+      "topic": "Meghalaya Day Awards",
+      "q": "Which Meghalaya Day Award recognises outstanding contribution in the field of sports and games?",
+      "o": [
+        "U Tirot Sing Award",
+        "Pa Togan N. Sangma Award",
+        "U Kiang Nangbah Award",
+        "Captain Williamson Sangma Award"
+      ],
+      "a": 2,
+      "e": "Correct answer: C. The Home (Political) Department lists U Tirot Sing Award for Arts and Literature, Pa Togan N. Sangma Award for Social Services, and U Kiang Nangbah Award for Sports and Games. The awards are announced on Meghalaya Day, 21 January, and presented during the Republic Day celebration.",
+      "difficulty": "Easy",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Home (Political) Department, Government of Meghalaya, Meghalaya Day Award.",
+      "sourceURL": "https://homepolitical.meghalaya.gov.in/meghalayadayaward.html",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7273
+    },
+    {
+      "cat": "Meghalaya GK",
+      "topic": "Williamnagar: former name and renaming",
+      "q": "What was the original name of Williamnagar, the headquarters of East Garo Hills, before it was renamed in 1976?",
+      "o": [
+        "Nongalbibra",
+        "Simsanggre",
+        "Resubelpara",
+        "Rongrenggiri"
+      ],
+      "a": 1,
+      "e": "Correct answer: B. The Government of Meghalaya's East Garo Hills profile states that Williamnagar was originally called Simsanggre. Its name was changed in 1976 in honour of Captain Williamson Sangma, Meghalaya's first Chief Minister.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya, East Garo Hills profile.",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34290",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7274
+    },
+    {
+      "cat": "Meghalaya GK",
+      "topic": "East Garo Hills: district formation",
+      "q": "In which month and year were East Garo Hills and West Garo Hills formed by bifurcation of the unified Garo Hills district?",
+      "o": [
+        "October 1979",
+        "January 1972",
+        "April 1970",
+        "November 1987"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. The Government of Meghalaya's East Garo Hills profile records that the unified Garo Hills district was bifurcated into East Garo Hills and West Garo Hills in October 1979. This district-administration milestone should not be confused with Meghalaya attaining full statehood in January 1972.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya, East Garo Hills profile.",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34290",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7275
+    },
+    {
+      "cat": "Meghalaya GK",
+      "topic": "Garo identity: A'chik and Mande",
+      "q": "The Government of Meghalaya's East Garo Hills profile records that the Garos refer to themselves by which names?",
+      "o": [
+        "A'chik or Mande",
+        "Khynriam or Pnar",
+        "Bodo or Rabha",
+        "Hmar or Paite"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. The official East Garo Hills profile notes that the Garos refer to themselves as A'chik or Mande. Khynriam and Pnar are associated with Khasi and Jaintia communities, while Bodo, Rabha, Hmar and Paite identify other communities of the wider North-East.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya, East Garo Hills profile.",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34290",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7276
+    },
+    {
+      "cat": "Meghalaya GK",
+      "topic": "Garo traditional religion",
+      "q": "What is the name of the traditional religion described in the Government of Meghalaya's profile of Garo society?",
+      "o": [
+        "Niam Khasi",
+        "Songsarek",
+        "Sarna",
+        "Donyi-Polo"
+      ],
+      "a": 1,
+      "e": "Correct answer: B. The Government of Meghalaya's East Garo Hills profile identifies Songsarek as the traditional religion of the Garos and describes its agricultural and community-related practices. The other options are associated with different communities or traditions.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya, East Garo Hills profile.",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34290",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7277
+    },
+    {
+      "cat": "Meghalaya GK",
+      "topic": "Garo architecture: Nokpante",
+      "q": "In traditional Garo habitation, what is a Nokpante?",
+      "o": [
+        "A house where unmarried male youth or bachelors live",
+        "A granary used only to store paddy",
+        "A field hut used for sleeping during jhum cultivation",
+        "A rest house built in front of the Nokma's house"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. The Government of Meghalaya's Tura profile describes the Nokpante as the house where unmarried male youth or bachelors live. It is generally built in the front courtyard of the Nokma's house, and young boys learn cultivation, arts, culture and games there from senior boys and elders. A Jamsreng or Jamatal serves a different purpose.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya, Tura / West Garo Hills profile, Garo Architecture section.",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34296",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7278
+    },
+    {
+      "cat": "Meghalaya GK",
+      "topic": "Meghalaya's official languages",
+      "q": "According to the Government of Meghalaya's official state profile, which set lists the languages of Meghalaya?",
+      "o": [
+        "Khasi, Pnar, Garo and English",
+        "Khasi, Assamese, Bengali and English",
+        "Garo, Mizo, Nepali and Hindi",
+        "Pnar, Manipuri, Bodo and English"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. The Government of Meghalaya's state profile lists Khasi, Pnar, Garo and English. The question asks for the set stated on the official profile, not for every language spoken by residents or for the language policy of an individual district.",
+      "difficulty": "Easy",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya, About Meghalaya.",
+      "sourceURL": "https://www.meghalaya.gov.in/index.php/about",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7279
+    },
+    {
+      "cat": "Polity",
+      "topic": "Sixth Schedule: village courts",
+      "q": "Under paragraph 4 of the Sixth Schedule, which body may constitute village councils or courts to try specified suits and cases between parties who belong to Scheduled Tribes within an autonomous district?",
+      "o": [
+        "The District Council",
+        "The Election Commission of India",
+        "The State Public Service Commission",
+        "The Finance Commission"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. Paragraph 4 authorises the District Council to constitute village councils or courts for specified suits and cases between parties all of whom belong to Scheduled Tribes within the autonomous district. The Schedule also provides for rules governing procedure and appeals. This is a distinct justice-administration power of the District Council.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Ministry of Law and Justice, Constitution of India, Sixth Schedule, paragraph 4.",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7280
+    },
+    {
+      "cat": "Polity",
+      "topic": "Sixth Schedule: public facilities",
+      "q": "Which of the following is expressly among the facilities that a District or Regional Council may establish, construct or manage under paragraph 6 of the Sixth Schedule?",
+      "o": [
+        "Primary schools",
+        "National highways under Union control",
+        "High Courts",
+        "Major ports"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. Paragraph 6 empowers District and Regional Councils to establish, construct or manage specified local facilities, including primary schools, dispensaries, markets, cattle pounds, ferries, fisheries, roads and waterways. National highways, High Courts and major ports are not included in this local-facility list.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Ministry of Law and Justice, Constitution of India, Sixth Schedule, paragraph 6.",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7281
+    },
+    {
+      "cat": "Polity",
+      "topic": "Sixth Schedule: audit of council accounts",
+      "q": "Who audits the accounts of District and Regional Councils under paragraph 7 of the Sixth Schedule?",
+      "o": [
+        "The Comptroller and Auditor-General of India",
+        "The Election Commission of India",
+        "The State Finance Commission",
+        "The State Public Service Commission"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. Paragraph 7 provides for District and Regional Council funds and audit of their accounts by the Comptroller and Auditor-General of India in the prescribed manner. The audit report is submitted to the Governor, who causes it to be laid before the Council. This is a specific audit arrangement under the Sixth Schedule.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Ministry of Law and Justice, Constitution of India, Sixth Schedule, paragraph 7.",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7282
+    },
+    {
+      "cat": "Polity",
+      "topic": "Sixth Schedule: taxation by District Councils",
+      "q": "Which tax is specifically included among the taxes that a District Council may levy under paragraph 8(3) of the Sixth Schedule?",
+      "o": [
+        "Tax on professions, trades, callings and employments",
+        "Customs duty on imports",
+        "Corporation tax on company profits",
+        "Central excise duty on all manufactured goods"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. Paragraph 8(3) authorises a District Council to levy specified local taxes, including taxes on professions, trades, callings and employments, subject to the constitutional framework. Customs duty, corporation tax and central excise are not District Council taxes under this paragraph.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Ministry of Law and Justice, Constitution of India, Sixth Schedule, paragraph 8(3).",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7283
+    },
+    {
+      "cat": "Polity",
+      "topic": "Sixth Schedule: mineral royalties",
+      "q": "Under paragraph 9 of the Sixth Schedule, if a dispute arises over the share of royalties payable to a District Council from mineral licences or leases in an autonomous district, who decides the dispute?",
+      "o": [
+        "The Governor",
+        "The Speaker of the Lok Sabha",
+        "The Chief Justice of India acting alone",
+        "The Finance Commission"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. Paragraph 9 provides for sharing royalties from licences or leases for prospecting or extraction of minerals in an autonomous district between the State Government and the District Council. If a dispute arises about the amount to be shared, the Governor determines it. This is a specific revenue-sharing safeguard for autonomous districts.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Ministry of Law and Justice, Constitution of India, Sixth Schedule, paragraph 9.",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7284
+    },
+    {
+      "cat": "Polity",
+      "topic": "Sixth Schedule: non-tribal money-lending and trade",
+      "q": "Under paragraph 10 of the Sixth Schedule, what may a District Council regulate by making appropriate regulations?",
+      "o": [
+        "Money-lending and trading by persons who are not Scheduled Tribes and who reside in the autonomous district",
+        "The conduct of elections to Parliament",
+        "The appointment of High Court judges",
+        "The issue of currency and coinage"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. Paragraph 10 empowers the District Council to make regulations for the control of money-lending and trading by persons who are not Scheduled Tribes but reside in the autonomous district. It does not confer powers over national elections, judicial appointments or currency.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Ministry of Law and Justice, Constitution of India, Sixth Schedule, paragraph 10.",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7285
+    },
+    {
+      "cat": "History",
+      "topic": "U Kiang Nangbah: execution",
+      "q": "At which place was U Kiang Nangbah publicly hanged by the British on 30 December 1862?",
+      "o": [
+        "Iawmusiang, Jowai",
+        "Rongrenggiri, Williamnagar",
+        "Mairang, Eastern West Khasi Hills",
+        "Mawkyrwat, South West Khasi Hills"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. The Government of Meghalaya's Jowai profile records that U Kiang Nangbah was publicly hanged at Iawmusiang, Jowai, on 30 December 1862 after his capture and trial. The place and date are distinct from the later end of the Jaintia resistance, recorded as 14 December 1863.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya, Jowai / West Jaintia Hills profile, Freedom Fighters section.",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34293",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7286
+    },
+    {
+      "cat": "History",
+      "topic": "Pa Togan Nengminja Sangma: martyrdom",
+      "q": "Where was Garo warrior Pa Togan Nengminja Sangma killed by British forces on 12 December 1837?",
+      "o": [
+        "Chisobibra near Rongrenggiri",
+        "Iawmusiang in Jowai",
+        "Mendipathar on the Damring River",
+        "Ampati in South West Garo Hills"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. The Government of Meghalaya's East Garo Hills profile records that Pa Togan Nengminja Sangma led the Garo resistance and was killed at Chisobibra near Rongrenggiri on 12 December 1837. A memorial stands at Chisobibra, where the martyrdom is commemorated annually.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya, East Garo Hills profile, Rongrenggiri section.",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34290",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7287
+    },
+    {
+      "cat": "History",
+      "topic": "Government of India Act, 1935",
+      "q": "Which major constitutional change was introduced in the provinces by the Government of India Act, 1935?",
+      "o": [
+        "Provincial autonomy, replacing provincial dyarchy",
+        "Universal adult franchise for all Indians",
+        "A fully sovereign Constituent Assembly",
+        "A parliamentary system with no Governor"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. The Government of India Act, 1935 introduced provincial autonomy and ended dyarchy at the provincial level. It also proposed an all-India federation, but the federal part did not come into operation. Do not confuse this with the Government of India Act, 1919, which introduced dyarchy in the provinces.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Lok Sabha Secretariat, The Indian Parliament, historical overview.",
+      "sourceURL": "https://eparlib.sansad.in/bitstream/123456789/68/1/The_Indian_Parliament__Eng.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7288
+    },
+    {
+      "cat": "History",
+      "topic": "Constituent Assembly: first meeting",
+      "q": "On which date did the Constituent Assembly of India hold its first meeting in Constitution Hall, New Delhi?",
+      "o": [
+        "9 December 1946",
+        "15 August 1947",
+        "26 November 1949",
+        "26 January 1950"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. Digital Sansad records that the Constituent Assembly first met in New Delhi on 9 December 1946 in Constitution Hall, now known as the Central Hall of Parliament House. The Assembly later adopted the Constitution on 26 November 1949, and the Constitution came into force on 26 January 1950.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Digital Sansad, Lok Sabha, Constituent Assembly — First Day.",
+      "sourceURL": "https://sansad.in/ls/about/constituent-assembly",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7289
+    },
+    {
+      "cat": "Geography",
+      "topic": "Tura Peak: elevation",
+      "q": "According to the Government of Meghalaya's Tura profile, approximately how high does Tura Peak rise above sea level?",
+      "o": [
+        "872 metres",
+        "1,496 metres",
+        "1,965 metres",
+        "2,410 metres"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. The Government of Meghalaya's Tura profile gives the height of Tura Peak as about 872 metres above sea level. It overlooks Tura town and is part of the Tura range, which the profile identifies as a reserve-forest catchment area for the town. Do not confuse this elevation with Shillong's altitude.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya, Tura / West Garo Hills profile, Tura Peak section.",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34296",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7290
+    },
+    {
+      "cat": "Geography",
+      "topic": "Mendipathar: river location",
+      "q": "Mendipathar in northern Garo Hills is situated on the banks of which river?",
+      "o": [
+        "Damring or Krishnai River",
+        "Myntdu River",
+        "Umngot River",
+        "Kynshi River"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. The Government of Meghalaya's East Garo Hills profile places Mendipathar on the banks of the Damring, also called the Krishnai River. It is in northern Garo Hills near Resubelpara. The Myntdu, Umngot and Kynshi are associated with other parts of Meghalaya.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya, East Garo Hills profile, Mendipathar section.",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34290",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7291
+    },
+    {
+      "cat": "Geography",
+      "topic": "Nongalbibra: river confluence",
+      "q": "Nongalbibra in East Garo Hills is located near the confluence of which two rivers?",
+      "o": [
+        "Nongal and Simsang",
+        "Damring and Myntdu",
+        "Umngot and Kynshi",
+        "Umiam and Umkhen"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. The Government of Meghalaya's East Garo Hills profile states that Nongalbibra is situated near the confluence of the Nongal and Simsang rivers. The place is also noted for coal deposits. The other river pairs do not describe the location given in the official district profile.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya, East Garo Hills profile, Nongalbibra section.",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34290",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7292
+    },
+    {
+      "cat": "Environment",
+      "topic": "National Green Tribunal: procedure",
+      "q": "Under section 19(1) of the National Green Tribunal Act, 2010, which statement correctly describes the Tribunal's procedure?",
+      "o": [
+        "It is bound by the Code of Civil Procedure, 1908 in every case",
+        "It is not bound by the Code of Civil Procedure, 1908 and is guided by principles of natural justice",
+        "It must follow the Indian Evidence Act exactly like a civil court",
+        "It may decide matters only after a criminal court has convicted a person"
+      ],
+      "a": 1,
+      "e": "Correct answer: B. Section 19(1) states that the National Green Tribunal is not bound by the procedure laid down in the Code of Civil Procedure, 1908, but is guided by principles of natural justice. This gives the specialised tribunal procedural flexibility while preserving fairness. The provision does not mean the Tribunal has no procedural rules or no civil-court powers for specified purposes.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. National Green Tribunal, About Us and Methodology of NGT.",
+      "sourceURL": "https://www.greentribunal.gov.in/about-us",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7293
+    },
+    {
+      "cat": "Environment",
+      "topic": "National Green Tribunal: environmental principles",
+      "q": "While passing an order, decision or award, which set of principles must the National Green Tribunal apply under section 20 of the NGT Act, 2010?",
+      "o": [
+        "Sustainable development, precautionary principle and polluter pays principle",
+        "Absolute liability, strict liability and caveat emptor",
+        "Federalism, separation of powers and collective responsibility",
+        "Natural justice, res judicata and parliamentary privilege"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. Section 20 directs the Tribunal to apply sustainable development, the precautionary principle and the polluter pays principle while passing an order, decision or award. These are substantive environmental-law principles and are distinct from the procedural direction in section 19(1) to follow natural justice.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. National Green Tribunal, official material quoting section 20 of the NGT Act.",
+      "sourceURL": "https://www.greentribunal.gov.in/sites/default/files/news_updates/Report%20by%20DJB%20in%20IA%20No.%20537%20of%202023%20IN%20OA%20No.%2006%20of%202012%20%28Nizamuddin%20West%20Association%20Vs.%20Union%20of%20India%20%26%20Ors.%29.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7294
+    },
+    {
+      "cat": "Environment",
+      "topic": "National Biodiversity Authority: headquarters",
+      "q": "Under section 8 of the Biological Diversity Act, 2002, where is the head office of the National Biodiversity Authority located?",
+      "o": [
+        "New Delhi",
+        "Chennai",
+        "Kolkata",
+        "Bengaluru"
+      ],
+      "a": 1,
+      "e": "Correct answer: B. Section 8(3) specifies Chennai as the head office of the National Biodiversity Authority. The Authority may establish offices at other places in India with the previous approval of the Central Government. The question asks for the statutory head office, not the location of a State Biodiversity Board.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. MoEFCC, Biological Diversity Act, 2002, section 8(3).",
+      "sourceURL": "https://moef.gov.in/uploads/2024/07/SL.No.%201%20Biological%20Diversity%20Act%202002.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7295
+    },
+    {
+      "cat": "Environment",
+      "topic": "Biodiversity Management Committees",
+      "q": "Under section 41 of the Biological Diversity Act, 2002, which local institution is required to constitute a Biodiversity Management Committee?",
+      "o": [
+        "Every local body",
+        "Only the Supreme Court",
+        "Only the National Biodiversity Authority",
+        "Only the State Legislature"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. Section 41 provides for every local body to constitute a Biodiversity Management Committee within its area. The Committee promotes conservation, sustainable use and documentation of biological diversity, including preservation of habitats, land races, folk varieties and cultivars, domesticated stocks and breeds, and chronicling knowledge relating to biodiversity.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. MoEFCC, Biological Diversity Act, 2002, section 41.",
+      "sourceURL": "https://moef.gov.in/uploads/2024/07/SL.No.%201%20Biological%20Diversity%20Act%202002.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7296
+    },
+    {
+      "cat": "Environment",
+      "topic": "Wetlands Rules, 2017: parent legislation",
+      "q": "The Wetlands (Conservation and Management) Rules, 2017 were notified under which parent legislation?",
+      "o": [
+        "Environment (Protection) Act, 1986",
+        "Wild Life (Protection) Act, 1972",
+        "Biological Diversity Act, 2002",
+        "Forest Rights Act, 2006"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. MoEFCC identifies the Wetlands Rules, 2017 as having been notified under the Environment (Protection) Act, 1986. The Rules provide a regulatory framework for conservation and management of wetlands in India and guide State and Union Territory authorities in identifying and managing covered wetlands.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. MoEFCC, Guidelines for implementing the Wetlands Rules, 2017.",
+      "sourceURL": "https://moef.gov.in/uploads/2020/01/final-version-and-printed-wetland-guidelines-rules-2017-03.01.20.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7297
+    },
+    {
+      "cat": "Computer",
+      "topic": "Digital signatures: verification key",
+      "q": "An officer receives a digitally signed electronic document. Which key is used by the recipient to verify the digital signature?",
+      "o": [
+        "The signer's public key",
+        "The signer's private key",
+        "The recipient's private key only",
+        "A one-time password sent by SMS"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. Digital-signature verification uses the signer's public key together with the relevant certificate chain and verification procedure. The signer's private key must remain under the signer's control and is used to create the signature. CCA guidance confirms that the signer's public key and issuer certificates are required for verification.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Controller of Certifying Authorities, Government of India, Signature Verification.",
+      "sourceURL": "https://cca.gov.in/index.php/signature_verification.html",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7298
+    },
+    {
+      "cat": "Computer",
+      "topic": "Excel: Power Query",
+      "q": "An accounts clerk needs to import data from several files, remove unwanted columns, change data types and refresh the results when source data changes. Which Excel feature is designed for this workflow?",
+      "o": [
+        "Power Query",
+        "WordArt",
+        "Slide Master",
+        "Mail Merge"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. Power Query connects to data sources, imports data and applies repeatable transformations such as removing columns, changing data types and filtering rows. The resulting query can be refreshed when the source changes. WordArt, Slide Master and Mail Merge serve different presentation or document-production purposes.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Microsoft Support, About Power Query in Excel.",
+      "sourceURL": "https://support.microsoft.com/en-us/excel/about-power-query-in-excel",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7299
+    },
+    {
+      "cat": "Computer",
+      "topic": "Microsoft Word: tracked changes",
+      "q": "In Microsoft Word, a user selects the No Markup view. What happens to tracked changes that have not yet been accepted or rejected?",
+      "o": [
+        "They are permanently deleted",
+        "They are temporarily hidden but remain in the document",
+        "They are automatically accepted",
+        "They are converted into comments"
+      ],
+      "a": 1,
+      "e": "Correct answer: B. No Markup changes only the display; it does not permanently remove tracked changes. To remove markup from the document, the reviewer must accept or reject the changes. Hidden revisions can become visible again when another person opens the document in a different view.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Microsoft Support, Accept or reject tracked changes in Word.",
+      "sourceURL": "https://support.microsoft.com/en-us/word/accept-or-reject-tracked-changes-in-word",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7300
+    },
+    {
+      "cat": "Computer",
+      "topic": "Excel: PivotTable",
+      "q": "A clerk wants to summarise thousands of expenditure rows by department and month without manually writing separate SUM formulas for each group. Which Excel tool is best suited to this task?",
+      "o": [
+        "PivotTable",
+        "Spell Check",
+        "Word Count",
+        "Slide Sorter"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. A PivotTable is designed to calculate, summarise and analyse worksheet data. Fields can be placed in Rows, Columns and Values to group records by department and month and aggregate numeric values. It can filter and rearrange the summary without changing the underlying source records.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Microsoft Support, Create a PivotTable to analyse worksheet data.",
+      "sourceURL": "https://support.microsoft.com/en-us/excel/get-started/create-a-pivottable-to-analyze-worksheet-data",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7301
+    },
+    {
+      "cat": "Economy",
+      "topic": "RBI Integrated Ombudsman Scheme",
+      "q": "A customer first complains to a bank about a service deficiency. The bank gives no reply for 30 days. Under the Reserve Bank–Integrated Ombudsman Scheme, 2021, what may the customer generally do next?",
+      "o": [
+        "Approach the RBI Ombudsman through the prescribed complaint channel",
+        "File a criminal appeal directly in the Supreme Court",
+        "Approach the Finance Commission for compensation",
+        "Wait for the next bank audit before making any complaint"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. The RBI Integrated Ombudsman Scheme provides a cost-free grievance-redress mechanism for eligible complaints against regulated entities. After first approaching the regulated entity, a customer may generally approach the RBI Ombudsman if there is no reply within 30 days or the response is unsatisfactory, subject to the Scheme's other admissibility conditions and time limits.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India, FAQs on the Reserve Bank–Integrated Ombudsman Scheme, 2021.",
+      "sourceURL": "https://www.rbi.org.in/commonman/English/Scripts/FAQs.aspx?Id=3407",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7302
+    },
+    {
+      "cat": "Economy",
+      "topic": "Primary market: new securities",
+      "q": "A company raises fresh capital by offering newly issued shares to the public through an initial public offering (IPO). In which market does this transaction take place?",
+      "o": [
+        "Primary market",
+        "Secondary market",
+        "Foreign-exchange market",
+        "Commodity spot market"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. The primary market is the new-issues market in which issuers raise fresh funds by issuing securities such as shares, bonds or debentures. An IPO is a public issue in the primary market. Trading of already-issued securities between investors takes place in the secondary market and does not directly provide fresh issue proceeds to the company.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. SEBI Investor Education, Securities Market Booklet, Primary Market and Secondary Market.",
+      "sourceURL": "https://investor.sebi.gov.in/pdf/reference-material/languages/english/SM%20Booklet_English%20-%20Final_8ap%202022_low.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7303
+    },
+    {
+      "cat": "Science",
+      "topic": "Molecular biology: DNA base pairing",
+      "q": "In double-stranded DNA, which pair of nitrogenous bases forms complementary base pairs?",
+      "o": [
+        "Adenine–Thymine and Guanine–Cytosine",
+        "Adenine–Guanine and Thymine–Cytosine",
+        "Adenine–Cytosine and Guanine–Thymine",
+        "Adenine–Uracil and Guanine–Cytosine"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. In DNA, adenine pairs with thymine and guanine pairs with cytosine through hydrogen bonds. These specific complementary pairings allow each strand to act as a template during replication. Uracil is normally associated with RNA rather than DNA, so adenine–uracil is not the correct DNA pairing.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NIOS, study material on biomolecules and DNA base pairing.",
+      "sourceURL": "https://digital.nios.ac.in/content/314en/Lesson-23.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7304
+    },
+    {
+      "cat": "Science",
+      "topic": "Atomic structure: isotopes",
+      "q": "Atoms of the same element have the same atomic number but different mass numbers. What are these atoms called?",
+      "o": [
+        "Isotopes",
+        "Isobars",
+        "Isotones",
+        "Isomers"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. Isotopes are atoms of the same element with the same atomic number (same number of protons) but different mass numbers because they contain different numbers of neutrons. Isobars have the same mass number but different atomic numbers; isotones have the same number of neutrons. Chemical identity is determined by atomic number.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NIOS, Chemistry, Atomic Structure, section on isotopes and isobars.",
+      "sourceURL": "https://digital.nios.ac.in/content/313en/313_Chemistry_Eng_Lesson2.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7305
+    },
+    {
+      "cat": "Science",
+      "topic": "Solutions: osmosis",
+      "q": "Two solutions of different concentrations are separated by a semipermeable membrane. In osmosis, in which direction does the solvent generally move?",
+      "o": [
+        "From the solution of lower solute concentration to the solution of higher solute concentration",
+        "From the solution of higher solute concentration to the solution of lower solute concentration",
+        "Only from a gas into a liquid",
+        "Only when both solutions have identical concentrations"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. Osmosis is the spontaneous flow of solvent through a semipermeable membrane from a solution of lower solute concentration (or pure solvent) towards a solution of higher solute concentration. The movement continues until the concentration difference is balanced or opposed by sufficient pressure. It is the solvent, not the solute, that crosses the membrane.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NIOS, Chemistry, Solutions, section on osmosis.",
+      "sourceURL": "https://digital.nios.ac.in/content/313en/313_Chemistry_Eng_Lesson7.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7306
+    },
+    {
+      "cat": "Science",
+      "topic": "Electromagnetism: transformer principle",
+      "q": "A conventional AC transformer transfers electrical energy from its primary coil to its secondary coil by which principle?",
+      "o": [
+        "Mutual induction",
+        "Electrostatic induction",
+        "Chemical action",
+        "Photoelectric effect"
+      ],
+      "a": 0,
+      "e": "Correct answer: A. A transformer works on mutual induction. Alternating current in the primary coil creates changing magnetic flux in the shared core, inducing an electromotive force in the secondary coil. A conventional transformer needs changing magnetic flux and therefore operates with alternating current, not steady direct current.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. CBSE Academic, Electrical Technology sample question paper, transformer case study.",
+      "sourceURL": "https://cbseacademic.nic.in/web_material/Curriculum22/SQP_MS_XII/819_ELECTRICAL_TECHNOLOGY_SQP_T1.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7307
+    },
+    {
+      "cat": "Science",
+      "topic": "Chemical kinetics: first-order half-life",
+      "q": "A first-order reaction has a half-life of 10 minutes. If its initial concentration is 80 mg/L, what concentration remains after 30 minutes?",
+      "o": [
+        "10 mg/L",
+        "20 mg/L",
+        "30 mg/L",
+        "40 mg/L"
+      ],
+      "a": 0,
+      "e": "Correct answer: A — 10 mg/L. Thirty minutes represents three half-lives. The concentration halves every 10 minutes: 80 mg/L → 40 mg/L → 20 mg/L → 10 mg/L. For a first-order reaction, the half-life is independent of the initial concentration, so the repeated halving method gives the remaining concentration directly.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NIOS, Chemistry, Chemical Kinetics, section on half-life.",
+      "sourceURL": "https://digital.nios.ac.in/content/313en/313_Chemistry_Eng_Lesson14.pdf",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7308
+    },
+    {
+      "cat": "Reasoning",
+      "topic": "Painted cube: exactly two faces",
+      "q": "A cube is painted on all six outer faces and then cut into 64 identical smaller cubes (a 4 × 4 × 4 arrangement). How many small cubes have exactly two painted faces?",
+      "o": [
+        "12",
+        "16",
+        "24",
+        "32"
+      ],
+      "a": 2,
+      "e": "Correct answer: C — 24. Small cubes with exactly two painted faces lie on edges but not at corners. A cube has 12 edges, and each edge contains 4 − 2 = 2 such non-corner cubes. Therefore, 12 × 2 = 24. Corner cubes have three painted faces, while face-centre cubes have one.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Original construction and mathematical derivation by MPSC Smart Study Hub; no external question source.",
+      "sourceURL": "https://pynshaishangoi.github.io/MPSC/",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7309
+    },
+    {
+      "cat": "Reasoning",
+      "topic": "Ranking: positions from opposite ends",
+      "q": "In a row of 25 candidates, A is 8th from the left and B is 10th from the right. If A and B are different candidates, how many candidates are standing between them?",
+      "o": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "a": 1,
+      "e": "Correct answer: B — 7. B's position from the left is 25 − 10 + 1 = 16. A is 8th from the left, so the number of candidates strictly between them is 16 − 8 − 1 = 7. The subtraction of one removes the two named candidates from the interval.",
+      "difficulty": "Medium",
+      "exam": "DSC East Khasi Hills LDA-cum-Typist",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Original construction and positional derivation by MPSC Smart Study Hub; no external question source.",
+      "sourceURL": "https://pynshaishangoi.github.io/MPSC/",
+      "verificationStatus": "Source checked 2026-11-17. Original practice, not an official PYQ.",
+      "id": 7310
+    }
+  ]
+}
