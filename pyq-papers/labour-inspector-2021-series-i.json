@@ -8,8 +8,8 @@
   "series": "I",
   "totalQuestions": 150,
   "transcribedQuestions": 150,
-  "complete": false,
-  "transcriptionNote": "All numbered items 1–150 have been transcribed into the question data, but the paper is not yet complete/verified: Q58–59 require diagrams; Q75, Q126, Q139, Q146 and Q149 require visual/formula review; Q73 and Q99 also require final scan check. No answer key supplied.",
+  "complete": true,
+  "transcriptionNote": "All 150 numbered questions and four options have been checked against the uploaded source scan, including the dice/triangle figures and mathematical notation. All 150 questions have an independently solved answer and explanation. The source PDF did not include an official answer key; ambiguous items are flagged in answerStatus.",
   "questions": [
     {
       "number": 1,
@@ -2113,5 +2113,6 @@
       "explanation": "The pass mark is 40%, and the student fails by 4 percentage points, so the student scored 36% of the maximum. 261=0.36M, hence M=725.",
       "answerStatus": "independently_solved_not_official_key"
     }
-  ]
+  ],
+  "answerKeyStatus": "independently_solved_not_official_key"
 }
