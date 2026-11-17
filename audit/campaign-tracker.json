@@ -30,10 +30,13 @@
     "rejectedCandidates": 0,
     "gatePassed": false,
     "blockers": [
-      "The saved 16 November dedup index covers the embedded bank and 15 question-batch archives but does not contain the text of official PYQ transcription files.",
-      "The PYQ catalogue lists 18 transcription JSON files; 16 were fetched for structural/sample inspection, but the complete question text across all 18 has not yet been normalized and compared.",
-      "Two official transcription files remain to be included in the dedup corpus; no new question may be safely drafted until the entire official-PYQ corpus is included."
-    ]
+      "The saved 16 November dedup index covers the embedded bank and 15 question-batch archives but does not contain normalized question text from official PYQ transcription files.",
+      "All 18 official PYQ transcription JSON files have now been fetched and structurally inspected; their complete question text still needs to be normalized and compared against the active bank and one another.",
+      "Until the official-PYQ fingerprint corpus and semantic review are complete, no new practice question can safely pass the zero-repeat gate."
+    ],
+    "officialPyqFilesFetched": 18,
+    "officialPyqFilesTotal": 18,
+    "dedupNormalizationComplete": false
   },
   "nextDailyTarget": 50,
   "cumulativeUniqueAdditionsSinceRampStart": 0,
@@ -42,9 +45,9 @@
   "remainingTo10000": 9119,
   "dedupRefreshRequiredBeforeDrafting": true,
   "nextRequiredActions": [
-    "Fetch and normalize every question from all 18 official PYQ transcription JSON files.",
-    "Build a unified dedup corpus containing the 881 embedded active questions, all 15 batch archives, all official PYQ transcription files and any other question-bank source files.",
-    "Re-run exact, option-insensitive, numeric-template and semantic comparisons before drafting.",
+    "Normalize every question stem and option set from all 18 official PYQ transcription JSON files, retaining transcription-status flags.",
+    "Compare exact and option-insensitive fingerprints across all official PYQs, the 881 embedded active questions and all 15 question-batch archives.",
+    "Review semantic and numeric-template overlaps; reject uncertain near-duplicates.",
     "Only then draft, validate, merge and update the target according to the ramp gates."
   ]
 }
