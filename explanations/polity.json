@@ -1,8 +1,8 @@
 {
   "subject": "Indian Polity",
-  "date": "2026-11-03",
-  "questionCount": 83,
-  "coverage": "All active Polity and Polity • PYQ IDs in the 3 November 2026 question-bank snapshot, including twelve new original practice questions.",
+  "date": "2026-11-17",
+  "questionCount": 88,
+  "coverage": "Structured explanations cover all 88 active Polity questions as of 17 November 2026.",
   "explanations": {
     "1": {
       "title": "Article 14 — Equality before law",
@@ -975,8 +975,68 @@
       "exam": "Article 105 = Parliament; Article 194 = State Legislatures. Article 102 concerns disqualification of members of Parliament.",
       "source": "Legislative Department, Constitution of India, Articles 105 and 194",
       "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+    },
+    "7268": {
+      "title": "Article 143 — advisory opinion of the Supreme Court",
+      "overview": "Article 143(1) allows the President to refer a question of law or fact of public importance to the Supreme Court for its opinion.",
+      "context": "The provision creates an advisory jurisdiction in addition to the Court's ordinary contentious jurisdiction. It is the President, not a private litigant, who makes the reference under clause (1).",
+      "who": "The President makes the reference; the Supreme Court considers the question and may report its opinion.",
+      "what": "Under Article 143(1), the Court may, after such hearing as it thinks fit, report its opinion to the President on the referred question.",
+      "why": "The mechanism allows the Union executive to obtain the Court's considered view on a matter of public importance before acting on it.",
+      "significance": "It is a distinctive constitutional advisory process. It should not be confused with an appeal, review petition or a writ petition.",
+      "exam": "Article 143 = President's reference and Supreme Court's advisory opinion. Clause (1) uses “may”; distinguish it from the separate wording of clause (2).",
+      "source": "Legislative Department, Constitution of India, Article 143.",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+    },
+    "7269": {
+      "title": "Article 131 — original jurisdiction of the Supreme Court",
+      "overview": "Article 131 gives the Supreme Court original jurisdiction over specified federal disputes involving the Union and States.",
+      "context": "The jurisdiction is designed for disputes between constitutional governments, rather than ordinary private claims or appeals from lower courts.",
+      "who": "The parties specified by the Article are the Government of India and one or more States, or two or more States.",
+      "what": "The dispute must involve the existence or extent of a legal right. The Article contains constitutional limits and exclusions.",
+      "why": "A single national court provides an authoritative forum for resolving certain legal disputes within India's federal structure.",
+      "significance": "Article 131 is an original-jurisdiction provision. It is not the same as the Supreme Court's appellate, advisory or writ jurisdiction.",
+      "exam": "Article 131 = specified Union–State and inter-State disputes involving a legal right; Article 143 = advisory opinion on a Presidential reference.",
+      "source": "Legislative Department, Constitution of India, Article 131.",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+    },
+    "7270": {
+      "title": "Article 243-I — State Finance Commission for Panchayats",
+      "overview": "Article 243-I provides for a State Finance Commission to review the financial position of Panchayats.",
+      "context": "The Governor constitutes the Commission within the period stated in the Constitution and thereafter at the expiration of every fifth year.",
+      "who": "The Governor constitutes the Commission; the State Legislature may provide for its composition, qualifications and manner of selection.",
+      "what": "The Commission reviews the financial position of Panchayats and makes recommendations on the distribution of specified revenues, grants and measures to improve their finances.",
+      "why": "Local bodies need predictable financial resources to perform functions assigned to them under the constitutional framework.",
+      "significance": "The five-year cycle is a recurring constitutional feature and links local-government finance to the wider system of fiscal devolution.",
+      "exam": "Article 243-I = State Finance Commission for Panchayats, ordinarily every five years. Applicability note: Article 243M(2)(a) excludes Meghalaya from Part IX unless the State extends it by law under Article 243M(4)(a); do not assume Part IX applies automatically to Meghalaya.",
+      "source": "Legislative Department, Constitution of India, Articles 243-I and 243-M.",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+    },
+    "7271": {
+      "title": "Article 243-J — maintenance and audit of Panchayat accounts",
+      "overview": "Article 243-J concerns the maintenance of accounts by Panchayats and the auditing of those accounts.",
+      "context": "The Constitution leaves the detailed accounting and audit arrangements to provisions made by the State Legislature, subject to the Article.",
+      "who": "The State Legislature may make the relevant provisions for Panchayat accounts and their audit.",
+      "what": "The Article authorises State legislation on how Panchayat accounts are maintained and audited; it does not itself prescribe a single detailed audit manual for every State.",
+      "why": "Proper accounts and audit create financial accountability for local self-government institutions.",
+      "significance": "Article 243-J is about accounts and audit, while Article 243-I concerns the State Finance Commission and Article 243-K concerns Panchayat elections.",
+      "exam": "Article 243-J = Panchayat accounts and audit. Applicability note: Article 243M(2)(a) excludes Meghalaya from Part IX unless extended by State law under Article 243M(4)(a); this is a general constitutional provision, not an automatic description of Meghalaya's traditional local institutions.",
+      "source": "Legislative Department, Constitution of India, Articles 243-J and 243-M.",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
+    },
+    "7272": {
+      "title": "Article 243-O — bar to court interference in Panchayat elections",
+      "overview": "Article 243-O limits court interference in Panchayat electoral matters and channels election challenges through election petitions.",
+      "context": "The provision forms part of the constitutional framework for Panchayats. It addresses both delimitation/allotment questions and challenges to a Panchayat election.",
+      "who": "The authority designated by State law receives an election petition in the manner provided by that law.",
+      "what": "A Panchayat election may be called in question only by an election petition presented to the prescribed authority and in the prescribed manner.",
+      "why": "The rule supports an orderly election-dispute process and prevents ordinary court proceedings from interrupting the electoral process at every stage.",
+      "significance": "Article 243-O is an election-dispute safeguard, not the provision that establishes the State Finance Commission or provides for audit of accounts.",
+      "exam": "Article 243-O = election petition route for Panchayat election challenges. Applicability note: Article 243M(2)(a) excludes Meghalaya from Part IX unless extended by State law under Article 243M(4)(a); do not assume it applies automatically in Meghalaya.",
+      "source": "Legislative Department, Constitution of India, Articles 243-O and 243-M.",
+      "url": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf"
     }
   },
   "explanationSourceVersion": "Constitution of India, Legislative Department, Ministry of Law and Justice, published 23 December 2025 (text as on November 2025); topic-specific official CAG, ECI, Finance Commission, Panchayati Raj, MoHUA and Rajya Sabha sources where relevant.",
-  "updatedAt": "2026-11-16"
+  "updatedAt": "2026-11-17"
 }
