@@ -25,18 +25,18 @@
     "MPSC Secretariat LDA"
   ],
   "label": "Original Practice — none of these records is an official PYQ",
-  "sourcePolicy": "Original wording and worked explanations; official statutes and government sources for legal and current facts; no copied question-bank text.",
+  "sourcePolicy": "Original wording and worked explanations; Meghalaya MGST Act and current amendments index cross-checked with the consolidated CGST Act; official government sources for current facts; no copied question-bank text.",
   "questions": [
     {
       "id": 7261,
       "cat": "GST / Inspector of Taxes",
-      "topic": "Section 32: collection of tax on non-taxable supplies",
-      "q": "A registered dealer adds an amount described as GST to an invoice for a supply on which no tax is payable under the CGST Act. Which rule in section 32(2) applies?",
+      "topic": "Section 32(1): unregistered persons cannot collect tax",
+      "q": "A person who is not registered under the Meghalaya GST Act collects an amount described as State tax on an intra-State supply. Which rule in section 32(1) applies?",
       "o": [
-        "No person may collect an amount by way of tax on a supply on which tax is not payable under the Act",
-        "A dealer may collect GST if the amount is shown separately",
-        "Only the recipient may decide whether GST is collected",
-        "The amount may be collected until the annual return is filed"
+        "An unregistered person must not collect any amount by way of tax under the Act",
+        "Any person may collect tax if the supply is intra-State",
+        "An unregistered person may collect tax if the recipient agrees in writing",
+        "An unregistered person may collect tax but must remit it with the annual return"
       ],
       "a": 0,
       "difficulty": "Medium",
@@ -46,11 +46,15 @@
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
-      "e": "Section 32(2) prohibits any person from collecting an amount by way of tax in respect of a supply of goods or services on which no tax is payable under the Act. Printing “GST” on an invoice does not make a non-taxable supply taxable. Keep this restriction distinct from the rule that a registered person must collect tax only in accordance with the Act and Rules under section 32(1).",
-      "source": "Original practice; not an official PYQ. India Code, CGST Act, 2017, section 32.",
-      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
-      "verificationStatus": "Checked against the consolidated India Code CGST Act text published 11 June 2026 on 2026-11-17; original practice, not an official PYQ.",
-      "label": "Original Practice"
+      "e": "Section 32(1) prohibits a person who is not registered under the Act from collecting any amount by way of tax in respect of a supply of goods or services. Section 32(2) separately provides that a registered person shall not collect tax except in accordance with the Act or Rules. Do not confuse the restriction on an unregistered person with the rule governing how a registered person collects tax.",
+      "source": "Original statutory practice; not an official PYQ. Meghalaya Goods and Services Tax Act, 2017, section 32; cross-checked against India Code, Central Goods and Services Tax Act, 2017, section 32, and the Meghalaya Taxation Department's Acts and amendments index.",
+      "sourceURL": "https://meggst.gov.in/gst/Acts_rules/Meghalaya%20GST%20Act%202017%20.pdf",
+      "verificationStatus": "MGST Act 2017 text and Meghalaya Taxation Department amendments index checked on 2026-11-17; corresponding CGST provision cross-checked against the consolidated India Code text. No 2026 reform scheduled for 1 April 2027 is treated as effective law; original practice, not an official PYQ.",
+      "label": "Original Practice",
+      "additionalSourceURLs": [
+        "https://meggst.gov.in/gst/acts.html",
+        "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile"
+      ]
     },
     {
       "id": 7262,
@@ -72,10 +76,14 @@
         "MPSC Secretariat LDA"
       ],
       "e": "Section 59 provides that every registered person shall self-assess the taxes payable under the Act and furnish a return for each tax period as specified in section 39. The taxpayer therefore calculates and declares the liability in the prescribed return; this is different from best-judgment assessment or an audit conducted by the department.",
-      "source": "Original practice; not an official PYQ. India Code, CGST Act, 2017, section 59.",
-      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
-      "verificationStatus": "Checked against the consolidated India Code CGST Act text published 11 June 2026 on 2026-11-17; original practice, not an official PYQ.",
-      "label": "Original Practice"
+      "source": "Original statutory practice; not an official PYQ. Meghalaya Goods and Services Tax Act, 2017, section 59; cross-checked against India Code, Central Goods and Services Tax Act, 2017, section 59, and the Meghalaya Taxation Department's Acts and amendments index.",
+      "sourceURL": "https://meggst.gov.in/gst/Acts_rules/Meghalaya%20GST%20Act%202017%20.pdf",
+      "verificationStatus": "MGST Act 2017 text and Meghalaya Taxation Department amendments index checked on 2026-11-17; corresponding CGST provision cross-checked against the consolidated India Code text. No 2026 reform scheduled for 1 April 2027 is treated as effective law; original practice, not an official PYQ.",
+      "label": "Original Practice",
+      "additionalSourceURLs": [
+        "https://meggst.gov.in/gst/acts.html",
+        "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile"
+      ]
     },
     {
       "id": 7263,
@@ -97,10 +105,14 @@
         "MPSC Secretariat LDA"
       ],
       "e": "Section 68(1) empowers the Government to require the person in charge of a conveyance carrying a consignment above the prescribed value to carry the prescribed documents and devices. The detailed document and e-way-bill requirements are supplied by the Rules. The question tests the statutory responsibility holder, not the person who owns the goods.",
-      "source": "Original practice; not an official PYQ. India Code, CGST Act, 2017, section 68.",
-      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
-      "verificationStatus": "Checked against the consolidated India Code CGST Act text published 11 June 2026 on 2026-11-17; original practice, not an official PYQ.",
-      "label": "Original Practice"
+      "source": "Original statutory practice; not an official PYQ. Meghalaya Goods and Services Tax Act, 2017, section 68; cross-checked against India Code, Central Goods and Services Tax Act, 2017, section 68, and the Meghalaya Taxation Department's Acts and amendments index.",
+      "sourceURL": "https://meggst.gov.in/gst/Acts_rules/Meghalaya%20GST%20Act%202017%20.pdf",
+      "verificationStatus": "MGST Act 2017 text and Meghalaya Taxation Department amendments index checked on 2026-11-17; corresponding CGST provision cross-checked against the consolidated India Code text. No 2026 reform scheduled for 1 April 2027 is treated as effective law; original practice, not an official PYQ.",
+      "label": "Original Practice",
+      "additionalSourceURLs": [
+        "https://meggst.gov.in/gst/acts.html",
+        "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile"
+      ]
     },
     {
       "id": 7264,
@@ -122,10 +134,14 @@
         "MPSC Secretariat LDA"
       ],
       "e": "Section 76(1) requires a person who has collected an amount as representing tax to pay that amount to the Government, irrespective of whether the supplies in respect of which it was collected are taxable. The provision prevents a person from retaining money collected from another person under the description of tax merely by arguing that no tax was actually payable.",
-      "source": "Original practice; not an official PYQ. India Code, CGST Act, 2017, section 76.",
-      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
-      "verificationStatus": "Checked against the consolidated India Code CGST Act text published 11 June 2026 on 2026-11-17; original practice, not an official PYQ.",
-      "label": "Original Practice"
+      "source": "Original statutory practice; not an official PYQ. Meghalaya Goods and Services Tax Act, 2017, section 76; cross-checked against India Code, Central Goods and Services Tax Act, 2017, section 76, and the Meghalaya Taxation Department's Acts and amendments index.",
+      "sourceURL": "https://meggst.gov.in/gst/Acts_rules/Meghalaya%20GST%20Act%202017%20.pdf",
+      "verificationStatus": "MGST Act 2017 text and Meghalaya Taxation Department amendments index checked on 2026-11-17; corresponding CGST provision cross-checked against the consolidated India Code text. No 2026 reform scheduled for 1 April 2027 is treated as effective law; original practice, not an official PYQ.",
+      "label": "Original Practice",
+      "additionalSourceURLs": [
+        "https://meggst.gov.in/gst/acts.html",
+        "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile"
+      ]
     },
     {
       "id": 7265,
@@ -147,10 +163,14 @@
         "MPSC Secretariat LDA"
       ],
       "e": "Section 155 places the burden of proving eligibility for input tax credit on the person who claims the credit. A claim should therefore be supported by the relevant records and evidence. This rule does not remove the officer's duty to follow the Act and natural justice; it identifies who must establish the statutory entitlement to ITC.",
-      "source": "Original practice; not an official PYQ. India Code, CGST Act, 2017, section 155.",
-      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
-      "verificationStatus": "Checked against the consolidated India Code CGST Act text published 11 June 2026 on 2026-11-17; original practice, not an official PYQ.",
-      "label": "Original Practice"
+      "source": "Original statutory practice; not an official PYQ. Meghalaya Goods and Services Tax Act, 2017, section 155; cross-checked against India Code, Central Goods and Services Tax Act, 2017, section 155, and the Meghalaya Taxation Department's Acts and amendments index.",
+      "sourceURL": "https://meggst.gov.in/gst/Acts_rules/Meghalaya%20GST%20Act%202017%20.pdf",
+      "verificationStatus": "MGST Act 2017 text and Meghalaya Taxation Department amendments index checked on 2026-11-17; corresponding CGST provision cross-checked against the consolidated India Code text. No 2026 reform scheduled for 1 April 2027 is treated as effective law; original practice, not an official PYQ.",
+      "label": "Original Practice",
+      "additionalSourceURLs": [
+        "https://meggst.gov.in/gst/acts.html",
+        "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile"
+      ]
     },
     {
       "id": 7266,
@@ -172,10 +192,14 @@
         "MPSC Secretariat LDA"
       ],
       "e": "Section 169(1) lists several recognised modes for serving decisions, orders, summons, notices and other communications. One of them is making the communication available on the common portal. The Act also recognises other prescribed methods, so personal delivery or registered post is not the only possible route.",
-      "source": "Original practice; not an official PYQ. India Code, CGST Act, 2017, section 169.",
-      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
-      "verificationStatus": "Checked against the consolidated India Code CGST Act text published 11 June 2026 on 2026-11-17; original practice, not an official PYQ.",
-      "label": "Original Practice"
+      "source": "Original statutory practice; not an official PYQ. Meghalaya Goods and Services Tax Act, 2017, section 169; cross-checked against India Code, Central Goods and Services Tax Act, 2017, section 169, and the Meghalaya Taxation Department's Acts and amendments index.",
+      "sourceURL": "https://meggst.gov.in/gst/Acts_rules/Meghalaya%20GST%20Act%202017%20.pdf",
+      "verificationStatus": "MGST Act 2017 text and Meghalaya Taxation Department amendments index checked on 2026-11-17; corresponding CGST provision cross-checked against the consolidated India Code text. No 2026 reform scheduled for 1 April 2027 is treated as effective law; original practice, not an official PYQ.",
+      "label": "Original Practice",
+      "additionalSourceURLs": [
+        "https://meggst.gov.in/gst/acts.html",
+        "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile"
+      ]
     },
     {
       "id": 7267,
@@ -197,10 +221,14 @@
         "MPSC Secretariat LDA"
       ],
       "e": "Section 170 requires amounts payable or refundable under the Act to be rounded to the nearest rupee. A fraction of 50 paise or more is increased to the next rupee; a smaller fraction is ignored. Since 67 paise is at least 50 paise, ₹12,345.67 becomes ₹12,346.",
-      "source": "Original practice; not an official PYQ. India Code, CGST Act, 2017, section 170.",
-      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
-      "verificationStatus": "Checked against the consolidated India Code CGST Act text published 11 June 2026 on 2026-11-17; original practice, not an official PYQ.",
-      "label": "Original Practice"
+      "source": "Original statutory practice; not an official PYQ. Meghalaya Goods and Services Tax Act, 2017, section 170; cross-checked against India Code, Central Goods and Services Tax Act, 2017, section 170, and the Meghalaya Taxation Department's Acts and amendments index.",
+      "sourceURL": "https://meggst.gov.in/gst/Acts_rules/Meghalaya%20GST%20Act%202017%20.pdf",
+      "verificationStatus": "MGST Act 2017 text and Meghalaya Taxation Department amendments index checked on 2026-11-17; corresponding CGST provision cross-checked against the consolidated India Code text. No 2026 reform scheduled for 1 April 2027 is treated as effective law; original practice, not an official PYQ.",
+      "label": "Original Practice",
+      "additionalSourceURLs": [
+        "https://meggst.gov.in/gst/acts.html",
+        "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile"
+      ]
     },
     {
       "id": 7268,
