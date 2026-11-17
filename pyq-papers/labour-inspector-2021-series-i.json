@@ -645,13 +645,13 @@
       "number": 46,
       "text": "She has been residing in this locality for the last four years.",
       "options": [
-        "She has been residing in this locality",
+        "She has been",
+        "residing in this locality",
         "for the last four years",
-        "No error",
-        ""
+        "No error"
       ],
       "answerIndex": 3,
-      "transcriptionStatus": "transcribed",
+      "transcriptionStatus": "transcribed_verified_from_source_scan",
       "explanation": "The sentence is grammatically acceptable: “has been residing” is present perfect continuous, and “for the last four years” gives the duration. No error.",
       "answerStatus": "independently_solved_not_official_key"
     },
@@ -778,7 +778,7 @@
       ],
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
-      "explanation": "The daily work rates are A=1/10, B=1/15 and C=1/12, in the ratio 6:4:5. A and B work 5 days, while C works 2 days. If daily wages are 600k, 400k and 500k, total wages are 5(600k+400k)+2(500k)=6,000k. Since the total is ₹6,000, k=1; daily wages are ₹600, ₹400 and ₹500.",
+      "explanation": "The daily work rates are A=1/10, B=1/15 and C=1/12, in the ratio 6:4:5. A and B work 5 days, while C works 2 days. If daily wages are ₹600, ₹400 and ₹500, total wages are 5(600+400)+2(500)=₹6,000. Hence option A.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1869,7 +1869,7 @@
         "9 27/37 hours"
       ],
       "answerIndex": 3,
-      "transcriptionStatus": "transcribed",
+      "transcriptionStatus": "transcribed_verified_from_source_scan",
       "explanation": "Adding the three pair-work rates gives 2(A+B+C)=1/18+1/12+1/15=37/180. Their combined rate is 37/360, so time = 360/37 = 9 27/37 hours. Option D in the scan is 9 27/37 hours.",
       "answerStatus": "independently_solved_not_official_key"
     },
