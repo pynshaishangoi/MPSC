@@ -671,9 +671,10 @@
         "22 years",
         "23 years"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 0,
+      "explanation": "Let the present ages be F and S. F+S=60 and F−6=5(S−6). Solving gives S=14; after six years the son will be 20.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 52,
@@ -684,9 +685,10 @@
         "12 km/hr",
         "10 km/hr"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 1,
+      "explanation": "Speed in still water is the average of downstream and upstream speeds: (14+8)/2 = 11 km/h.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 53,
@@ -697,9 +699,10 @@
         "24",
         "48"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 1,
+      "explanation": "The hands are opposite in direction 11 times in 12 hours, so they are opposite 22 times in 24 hours.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 54,
@@ -710,9 +713,10 @@
         "80°",
         "70°"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 0,
+      "explanation": "At 8:30 the minute hand is at 180°. The hour hand is at 255°. The smaller angle is 75°.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 55,
@@ -723,9 +727,10 @@
         "₹400, ₹500, ₹600",
         "None of the above"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 3,
+      "explanation": "A and B together complete 5/6 of the work in five days, leaving 1/6 for C. Their work contributions are A=1/2, B=1/3, C=1/6, so the total wages should be shared 3:2:1 (₹3,000, ₹2,000, ₹1,000). None of the listed options matches these shares; the item/options need review.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 56,
@@ -736,9 +741,10 @@
         "8:9:24",
         "4:9:16"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 2,
+      "explanation": "A/B:B/C:C/A = 2/3:3/4:4/2. Multiplying by 12 gives 8:9:24.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 57,
@@ -749,9 +755,10 @@
         "175 m",
         "170 m"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 2,
+      "explanation": "90 km/h = 25 m/s. In 7 seconds the train travels 25×7 = 175 m.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 60,
@@ -762,9 +769,10 @@
         "21",
         "19"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 0,
+      "explanation": "After interchange, Alisha is 10th from the left and 17th from the right. Total = 10+17−1 = 26 girls.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 61,
@@ -775,9 +783,10 @@
         "Father-in-law",
         "Cannot be determined"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 1,
+      "explanation": "F is the mother of E and therefore the mother of E's sibling D. Since D is C's son, F is C's wife; as C is H's child, F is H's daughter-in-law.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 62,
@@ -788,9 +797,10 @@
         "Y",
         "V"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 1,
+      "explanation": "X is shorter than Z, and W is taller than X. Since Z is taller than X and V is taller than Z, while Y is taller than V, X is the shortest.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 63,
@@ -801,9 +811,10 @@
         "17th",
         "16th"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 1,
+      "explanation": "Anokhi is 18th from the bottom in a class of 42, so she is 25th from the top. Zara is six places ahead: 25−6 = 19th.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 64,
@@ -814,9 +825,10 @@
         "30",
         "35"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 0,
+      "explanation": "Let x be 10-paisa coins and y be 20-paisa coins. x+y=40 and 10x+20y=550 paise. Solving gives y=15.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 65,
@@ -827,9 +839,10 @@
         "42",
         "46"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 3,
+      "explanation": "Let c be correct and w wrong. c+w=90 and 4c−w=140. Substituting w=90−c gives 5c=230, so c=46.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 66,
@@ -840,9 +853,10 @@
         "Sea",
         "Cloud"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 2,
+      "explanation": "Airplanes fly in the sky. In the question's code, “sky” is called “sea,” so the answer is Sea.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 67,
@@ -853,9 +867,10 @@
         "15 meters",
         "20 meters"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 1,
+      "explanation": "The net movement is 10 metres south: 30 m north, 40 m east, 40 m south and 40 m west. Distance from the start is 10 m.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 68,
@@ -866,9 +881,10 @@
         "40 meters",
         "45 meters"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 3,
+      "explanation": "The north and south movements of 15 m cancel. The eastward movements total 20+25=45 m.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 69,
@@ -879,9 +895,10 @@
         "451",
         "415"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 3,
+      "explanation": "The differences are 15, 28, 54 and 106; each difference doubles and subtracts 2. The next difference is 210, giving 205+210=415.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 70,
@@ -892,9 +909,10 @@
         "200",
         "220"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 0,
+      "explanation": "The successive differences are −272, −136, −68 and −34. The next difference is −17, so 257−17=240.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 71,
@@ -905,9 +923,10 @@
         "216",
         "343"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 1,
+      "explanation": "All terms except 100 are perfect cubes: 2³, 3³, 4³, 5³, 6³ and 7³. Therefore 100 is the odd one out.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 72,
@@ -918,9 +937,10 @@
         "X will win the race by 15 meters",
         "Both X and Y will reach the finish line at the same time"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 0,
+      "explanation": "X starts 140 m ahead, so X runs 360 m while Y runs 500 m. With speed ratio 3:4, their times are 360/3=120 and 500/4=125 units. X wins; when X finishes, Y is 20 m short.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 74,
@@ -931,9 +951,10 @@
         "55 minutes past 3",
         "2 minutes past 4"
       ],
-      "answerIndex": null,
-      "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "answerIndex": 1,
+      "explanation": "The watch gains 5 seconds every 180 true seconds, so it runs at 185/180. When it shows 9 h 15 min elapsed (555 min), true elapsed time is 555×180/185 = 540 min = 9 hours. The true time is 4 p.m.",
+      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 76,
