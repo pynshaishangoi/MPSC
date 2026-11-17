@@ -576,14 +576,14 @@
       "number": 46,
       "text": "She has been residing in this locality for the last four years.",
       "options": [
-        "She has been residing in this locality",
+        "She has been",
+        "residing in this locality",
         "for the last four years",
-        "No error",
-        ""
+        "No error"
       ],
       "answerIndex": null,
       "explanation": "",
-      "sourceStatus": "Transcribed from the uploaded original paper; no official answer key supplied."
+      "sourceStatus": "Transcription corrected against original PDF page 8; answer key not yet verified."
     },
     {
       "number": 47,
