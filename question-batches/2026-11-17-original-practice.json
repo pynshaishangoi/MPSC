@@ -1,0 +1,1285 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-17",
+  "title": "Daily ramp-up: 50 original cross-subject practice questions",
+  "questionCount": 50,
+  "questionIdRange": "7261-7310",
+  "subjects": {
+    "GST / Inspector of Taxes": 7,
+    "Polity": 5,
+    "Meghalaya GK": 5,
+    "Arithmetic": 6,
+    "Reasoning": 5,
+    "Computer": 4,
+    "English": 4,
+    "Science": 3,
+    "Geography": 3,
+    "Environment": 2,
+    "Economy": 2,
+    "History": 2,
+    "Current Affairs": 2
+  },
+  "examTracks": [
+    "MPSC Inspector of Taxes",
+    "DSC East Khasi Hills LDA-cum-Typist",
+    "MPSC Secretariat LDA"
+  ],
+  "label": "Original Practice — none of these records is an official PYQ",
+  "sourcePolicy": "Original wording and worked explanations; official statutes and government sources for legal and current facts; no copied question-bank text.",
+  "questions": [
+    {
+      "id": 7261,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Section 32: collection of tax on non-taxable supplies",
+      "q": "A registered dealer adds an amount described as GST to an invoice for a supply on which no tax is payable under the CGST Act. Which rule in section 32(2) applies?",
+      "o": [
+        "No person may collect an amount by way of tax on a supply on which tax is not payable under the Act",
+        "A dealer may collect GST if the amount is shown separately",
+        "Only the recipient may decide whether GST is collected",
+        "The amount may be collected until the annual return is filed"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Section 32(2) prohibits any person from collecting an amount by way of tax in respect of a supply of goods or services on which no tax is payable under the Act. Printing “GST” on an invoice does not make a non-taxable supply taxable. Keep this restriction distinct from the rule that a registered person must collect tax only in accordance with the Act and Rules under section 32(1).",
+      "source": "Original practice; not an official PYQ. India Code, CGST Act, 2017, section 32.",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "Checked against the consolidated India Code CGST Act text published 11 June 2026 on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7262,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Section 59: self-assessment",
+      "q": "A regular registered supplier determines the tax payable for a tax period and furnishes the prescribed return. Which statutory principle under section 59 describes this ordinary process?",
+      "o": [
+        "Assessment by a special audit team",
+        "Self-assessment by the registered person",
+        "Assessment only by the Appellate Authority",
+        "Automatic assessment by the GST Network"
+      ],
+      "a": 1,
+      "difficulty": "Easy",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Section 59 provides that every registered person shall self-assess the taxes payable under the Act and furnish a return for each tax period as specified in section 39. The taxpayer therefore calculates and declares the liability in the prescribed return; this is different from best-judgment assessment or an audit conducted by the department.",
+      "source": "Original practice; not an official PYQ. India Code, CGST Act, 2017, section 59.",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "Checked against the consolidated India Code CGST Act text published 11 June 2026 on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7263,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Section 68: inspection of goods in movement",
+      "q": "A consignment of goods is being transported and the prescribed value threshold is crossed. Under section 68(1) of the CGST Act, who may be required to carry the prescribed documents and devices?",
+      "o": [
+        "The person in charge of the conveyance",
+        "Only the consignor's auditor",
+        "The recipient's bank manager",
+        "The jurisdictional Appellate Authority"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Section 68(1) empowers the Government to require the person in charge of a conveyance carrying a consignment above the prescribed value to carry the prescribed documents and devices. The detailed document and e-way-bill requirements are supplied by the Rules. The question tests the statutory responsibility holder, not the person who owns the goods.",
+      "source": "Original practice; not an official PYQ. India Code, CGST Act, 2017, section 68.",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "Checked against the consolidated India Code CGST Act text published 11 June 2026 on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7264,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Section 76: amount collected as tax",
+      "q": "A dealer collects an amount from a customer as GST but later argues that the underlying supply was exempt. What is the general rule under section 76(1) for the amount collected as tax?",
+      "o": [
+        "It may be retained because the supply was exempt",
+        "It must be paid to the Government even if the underlying supply is not taxable",
+        "It must automatically be refunded by the customer",
+        "It becomes the dealer's income after the tax period ends"
+      ],
+      "a": 1,
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Section 76(1) requires a person who has collected an amount as representing tax to pay that amount to the Government, irrespective of whether the supplies in respect of which it was collected are taxable. The provision prevents a person from retaining money collected from another person under the description of tax merely by arguing that no tax was actually payable.",
+      "source": "Original practice; not an official PYQ. India Code, CGST Act, 2017, section 76.",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "Checked against the consolidated India Code CGST Act text published 11 June 2026 on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7265,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Section 155: burden of proof for input tax credit",
+      "q": "During proceedings, a registered person asserts that a disputed amount qualifies as input tax credit. Under section 155 of the CGST Act, who bears the burden of proving eligibility for that credit?",
+      "o": [
+        "The proper officer in every case",
+        "The person who claims the input tax credit",
+        "The supplier's bank",
+        "The GST Council"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Section 155 places the burden of proving eligibility for input tax credit on the person who claims the credit. A claim should therefore be supported by the relevant records and evidence. This rule does not remove the officer's duty to follow the Act and natural justice; it identifies who must establish the statutory entitlement to ITC.",
+      "source": "Original practice; not an official PYQ. India Code, CGST Act, 2017, section 155.",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "Checked against the consolidated India Code CGST Act text published 11 June 2026 on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7266,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Section 169: service of notices",
+      "q": "A notice issued under the CGST Act is made available to a registered person on the common portal. Which statement best reflects section 169(1)?",
+      "o": [
+        "Portal availability is a recognised mode of service under the Act",
+        "A notice is valid only if delivered personally by the Commissioner",
+        "Portal service is valid only after the recipient replies",
+        "A notice can be served only through registered post"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Section 169(1) lists several recognised modes for serving decisions, orders, summons, notices and other communications. One of them is making the communication available on the common portal. The Act also recognises other prescribed methods, so personal delivery or registered post is not the only possible route.",
+      "source": "Original practice; not an official PYQ. India Code, CGST Act, 2017, section 169.",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "Checked against the consolidated India Code CGST Act text published 11 June 2026 on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7267,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Section 170: rounding off of tax amounts",
+      "q": "A sum payable under the CGST Act is calculated as ₹12,345.67. Under section 170, what amount results from statutory rounding to the nearest rupee?",
+      "o": [
+        "₹12,345",
+        "₹12,345.50",
+        "₹12,346",
+        "₹12,350"
+      ],
+      "a": 2,
+      "difficulty": "Easy",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Section 170 requires amounts payable or refundable under the Act to be rounded to the nearest rupee. A fraction of 50 paise or more is increased to the next rupee; a smaller fraction is ignored. Since 67 paise is at least 50 paise, ₹12,345.67 becomes ₹12,346.",
+      "source": "Original practice; not an official PYQ. India Code, CGST Act, 2017, section 170.",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "verificationStatus": "Checked against the consolidated India Code CGST Act text published 11 June 2026 on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7268,
+      "cat": "Polity",
+      "topic": "Article 143: advisory jurisdiction of the Supreme Court",
+      "q": "The President refers a question of law or fact of public importance to the Supreme Court under Article 143(1). What may the Supreme Court do?",
+      "o": [
+        "Report its opinion to the President after such hearing as it thinks fit",
+        "Dissolve the Lok Sabha",
+        "Issue a money bill",
+        "Appoint the Governor of the State"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Article 143(1) permits the President to refer a question of law or fact that has arisen or is likely to arise and is of such public importance that it is expedient to obtain the Supreme Court's opinion. The Court may, after such hearing as it thinks fit, report its opinion to the President. This is advisory jurisdiction, distinct from ordinary contentious litigation.",
+      "source": "Original practice; not an official PYQ. Legislative Department, Constitution of India, Article 143.",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "verificationStatus": "Checked against the Legislative Department Constitution edition dated 10 September 2026 on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7269,
+      "cat": "Polity",
+      "topic": "Article 131: original jurisdiction of the Supreme Court",
+      "q": "A legal dispute arises between the Government of India and one or more States concerning a legal right. Which jurisdiction of the Supreme Court is ordinarily relevant under Article 131?",
+      "o": [
+        "Advisory jurisdiction",
+        "Original jurisdiction",
+        "Review jurisdiction",
+        "Writ jurisdiction of a District Court"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Article 131 gives the Supreme Court original jurisdiction, to the exclusion of other courts, in specified disputes between the Government of India and one or more States, or between States, where the existence or extent of a legal right is involved. The Article contains constitutional limits and exclusions; it is not a general appeal provision.",
+      "source": "Original practice; not an official PYQ. Legislative Department, Constitution of India, Article 131.",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "verificationStatus": "Checked against the Legislative Department Constitution edition dated 10 September 2026 on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7270,
+      "cat": "Polity",
+      "topic": "Article 243-I: State Finance Commission",
+      "q": "In a State to which Part IX applies, how often must the Governor constitute a State Finance Commission under Article 243-I to review the financial position of Panchayats?",
+      "o": [
+        "Every two years",
+        "Every three years",
+        "Every five years",
+        "Every ten years"
+      ],
+      "a": 2,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Article 243-I requires the Governor to constitute a Finance Commission within one year from the commencement of the Constitution (Seventy-third Amendment) Act, 1992, and thereafter at the expiration of every fifth year. The Commission reviews the financial position of Panchayats and makes recommendations on the matters specified in the Article.",
+      "source": "Original practice; not an official PYQ. Legislative Department, Constitution of India, Article 243-I.",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "verificationStatus": "Checked against the Legislative Department Constitution edition dated 10 September 2026 on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7271,
+      "cat": "Polity",
+      "topic": "Article 243-J: audit of Panchayat accounts",
+      "q": "Which constitutional provision authorises the State Legislature to make provisions concerning the maintenance and audit of Panchayat accounts?",
+      "o": [
+        "Article 243-G",
+        "Article 243-I",
+        "Article 243-J",
+        "Article 243-K"
+      ],
+      "a": 2,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Article 243-J provides that, subject to provisions made by the State Legislature, the Legislature may make provisions with respect to the maintenance of accounts by Panchayats and the auditing of those accounts. Do not confuse it with Article 243-I, which concerns the State Finance Commission, or Article 243-K, which concerns Panchayat elections.",
+      "source": "Original practice; not an official PYQ. Legislative Department, Constitution of India, Article 243-J.",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "verificationStatus": "Checked against the Legislative Department Constitution edition dated 10 September 2026 on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7272,
+      "cat": "Polity",
+      "topic": "Article 243-O: bar to interference in Panchayat elections",
+      "q": "Which Article bars ordinary court interference in Panchayat electoral matters and provides that a Panchayat election may be challenged only by an election petition in the manner provided by State law?",
+      "o": [
+        "Article 243-D",
+        "Article 243-K",
+        "Article 243-M",
+        "Article 243-O"
+      ],
+      "a": 3,
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Article 243-O restricts court interference in matters relating to Panchayat elections. It also provides that an election to a Panchayat may be called in question only by an election petition presented to the authority and in the manner provided by a law made by the State Legislature. The Article deals with election disputes, not reservation, election supervision or the applicability of Part IX.",
+      "source": "Original practice; not an official PYQ. Legislative Department, Constitution of India, Article 243-O.",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "verificationStatus": "Checked against the Legislative Department Constitution edition dated 10 September 2026 on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7273,
+      "cat": "Meghalaya GK",
+      "topic": "Eastern West Khasi Hills: district headquarters",
+      "q": "Which town is listed by the Meghalaya Government as the headquarters of Eastern West Khasi Hills district?",
+      "o": [
+        "Nongstoin",
+        "Mairang",
+        "Mawkyrwat",
+        "Nongpoh"
+      ],
+      "a": 1,
+      "difficulty": "Easy",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "The Meghalaya Government's district profile lists Mairang as the headquarters of Eastern West Khasi Hills. Nongstoin is the headquarters of West Khasi Hills, Mawkyrwat of South West Khasi Hills and Nongpoh of Ri Bhoi. The district-headquarters distinction is useful for Meghalaya administrative and local-GK questions.",
+      "source": "Original practice; not an official PYQ. Meghalaya Government, About Meghalaya and district-headquarters profile.",
+      "sourceURL": "https://www.meghalaya.gov.in/index.php/about",
+      "verificationStatus": "Checked against the Meghalaya Government portal and district profiles on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7274,
+      "cat": "Meghalaya GK",
+      "topic": "East Garo Hills geography: Simsang River",
+      "q": "Williamnagar, the headquarters of East Garo Hills, is situated on the upper reaches of which river?",
+      "o": [
+        "Umngot",
+        "Kynshi",
+        "Simsang",
+        "Umiam"
+      ],
+      "a": 2,
+      "difficulty": "Easy",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "The Meghalaya Government's Williamnagar profile states that the town lies on the upper reaches of the Simsang River. It was originally called Simsanggre; its name was changed to Williamnagar in 1976 in honour of Captain Williamson Sangma, Meghalaya's first Chief Minister. The river-town association is the key fact.",
+      "source": "Original practice; not an official PYQ. Meghalaya Government, Williamnagar district profile.",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34290",
+      "verificationStatus": "Checked against the Meghalaya Government portal and district profiles on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7275,
+      "cat": "Meghalaya GK",
+      "topic": "Garo history: Pa Togan Nengminja Sangma",
+      "q": "According to the Meghalaya Government's East Garo Hills profile, at which site did Garo warrior Pa Togan Nengminja Sangma fall during the resistance to British expansion in 1837?",
+      "o": [
+        "Nartiang",
+        "Chisobibra",
+        "Mawsynram",
+        "Mendipathar"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "The Meghalaya Government's profile records that Pa Togan Nengminja Sangma led the last major Garo resistance and fell at Chisobibra near Rongrengiri on 12 December 1837. A memorial stands at the site in Rongrengiri Reserve Forest. The question tests the recorded location, not a general association with the Garo Hills.",
+      "source": "Original practice; not an official PYQ. Meghalaya Government, Williamnagar and East Garo Hills profile.",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34290",
+      "verificationStatus": "Checked against the Meghalaya Government portal and district profiles on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7276,
+      "cat": "Meghalaya GK",
+      "topic": "Ri Bhoi communities: the Bhoi subgroup",
+      "q": "The Meghalaya Government's Ri Bhoi district profile describes the Bhois as a subgroup of which major community?",
+      "o": [
+        "Khasi",
+        "Garo",
+        "Karbis",
+        "Hajong"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "The official Ri Bhoi profile describes the Bhois as a subgroup of the Khasi tribe and notes their settlement in the northern low and fertile lands of the Khasi Hills. The district has a diverse population, but the question asks specifically about the Bhoi community described in the profile.",
+      "source": "Original practice; not an official PYQ. Meghalaya Government, Nongpoh and Ri Bhoi district profile.",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34294",
+      "verificationStatus": "Checked against the Meghalaya Government portal and district profiles on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7277,
+      "cat": "Meghalaya GK",
+      "topic": "East Garo Hills geography: Nongalbibra river confluence",
+      "q": "The Meghalaya Government's East Garo Hills profile places Nongalbibra near the confluence of which two rivers?",
+      "o": [
+        "Nongal and Simsang",
+        "Umngot and Myntdu",
+        "Kynshi and Umngot",
+        "Umiam and Umkhen"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "The official East Garo Hills profile places Nongalbibra near the confluence of the Nongal and Simsang rivers. This is a specific river-geography fact for the district and should not be confused with Williamnagar, which is separately described as lying on the upper reaches of the Simsang River.",
+      "source": "Original practice; not an official PYQ. Meghalaya Government, Williamnagar and East Garo Hills profile.",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34290",
+      "verificationStatus": "Checked against the Meghalaya Government portal and district profiles on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7278,
+      "cat": "Arithmetic",
+      "topic": "Partnership: capital multiplied by time",
+      "q": "A invests ₹40,000 in a business for 6 months, while B invests ₹30,000 for 8 months. If the total profit is ₹24,000, how much should A receive?",
+      "o": [
+        "₹8,000",
+        "₹10,000",
+        "₹12,000",
+        "₹14,000"
+      ],
+      "a": 2,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "In partnership, profit is divided in the ratio of capital multiplied by time. A's contribution is 40,000 × 6 = 2,40,000 and B's is 30,000 × 8 = 2,40,000, so the ratio is 1:1. A therefore receives half of ₹24,000, which is ₹12,000. Always account for the duration as well as the amount invested.",
+      "source": "Original quantitative aptitude practice; not an official PYQ. NCERT Mathematics textbook portal; calculation independently checked.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Worked solution, units and reverse check completed on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7279,
+      "cat": "Arithmetic",
+      "topic": "Boats and streams: speed of the current",
+      "q": "A boat covers 18 km downstream in 2 hours and 12 km upstream in 2 hours. What is the speed of the stream?",
+      "o": [
+        "1 km/h",
+        "1.5 km/h",
+        "2 km/h",
+        "3 km/h"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Downstream speed = 18 ÷ 2 = 9 km/h; upstream speed = 12 ÷ 2 = 6 km/h. The stream speed is half the difference between these speeds: (9 − 6) ÷ 2 = 1.5 km/h. The still-water boat speed would be their average, 7.5 km/h, which is not what the question asks.",
+      "source": "Original quantitative aptitude practice; not an official PYQ. NCERT Mathematics textbook portal; calculation independently checked.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Worked solution, units and reverse check completed on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7280,
+      "cat": "Arithmetic",
+      "topic": "Algebraic identities: reciprocal expressions",
+      "q": "If x − 1/x = 3, where x is non-zero, what is the value of x² + 1/x²?",
+      "o": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "a": 3,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Square both sides: (x − 1/x)² = 9. Expanding gives x² − 2 + 1/x² = 9. Therefore x² + 1/x² = 9 + 2 = 11. The common error is to forget the middle term −2 when expanding the square of a difference.",
+      "source": "Original quantitative aptitude practice; not an official PYQ. NCERT Mathematics textbook portal; calculation independently checked.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Worked solution, units and reverse check completed on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7281,
+      "cat": "Arithmetic",
+      "topic": "Probability: drawing without replacement",
+      "q": "A bag contains 4 red balls and 3 blue balls. Two balls are drawn one after another without replacement. What is the probability that both are red?",
+      "o": [
+        "1/7",
+        "2/7",
+        "3/7",
+        "4/7"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "There are 7 balls initially. The probability that the first is red is 4/7. After one red ball is removed, 3 red balls remain among 6, so the probability that the second is red is 3/6. Multiply: (4/7) × (3/6) = 12/42 = 2/7. “Without replacement” changes the second denominator and numerator.",
+      "source": "Original quantitative aptitude practice; not an official PYQ. NCERT Mathematics textbook portal; calculation independently checked.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Worked solution, units and reverse check completed on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7282,
+      "cat": "Arithmetic",
+      "topic": "Combinations: selecting a committee",
+      "q": "A committee of 3 members is to be selected from 8 eligible employees. If order does not matter, how many different committees can be formed?",
+      "o": [
+        "24",
+        "36",
+        "48",
+        "56"
+      ],
+      "a": 3,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Because the order of selection does not matter, use combinations: ⁸C₃ = 8! ÷ (3! × 5!) = (8 × 7 × 6) ÷ (3 × 2 × 1) = 56. Multiplication by 3! would count the same committee in six different orders, so permutations are not appropriate.",
+      "source": "Original quantitative aptitude practice; not an official PYQ. NCERT Mathematics textbook portal; calculation independently checked.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Worked solution, units and reverse check completed on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7283,
+      "cat": "Arithmetic",
+      "topic": "Mensuration: area of a trapezium",
+      "q": "A trapezium has parallel sides of 14 cm and 22 cm and a perpendicular height of 9 cm. What is its area?",
+      "o": [
+        "144 cm²",
+        "153 cm²",
+        "162 cm²",
+        "171 cm²"
+      ],
+      "a": 2,
+      "difficulty": "Easy",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Area of a trapezium = ½ × (sum of the parallel sides) × perpendicular height. Substitute: ½ × (14 + 22) × 9 = ½ × 36 × 9 = 18 × 9 = 162 cm². Use the perpendicular height, not the slant length of a non-parallel side.",
+      "source": "Original quantitative aptitude practice; not an official PYQ. NCERT Mathematics textbook portal; calculation independently checked.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Worked solution, units and reverse check completed on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7284,
+      "cat": "Reasoning",
+      "topic": "Clock reasoning: angle between the hands",
+      "q": "At 4:30, what is the smaller angle between the hour hand and minute hand of a correctly running analogue clock?",
+      "o": [
+        "30°",
+        "45°",
+        "60°",
+        "75°"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "At 4:30, the minute hand is at 180° from 12. The hour hand has moved halfway between 4 and 5, so its position is (4 × 30°) + (30 × 0.5°) = 135°. The smaller angle is 180° − 135° = 45°. Remember that the hour hand moves continuously, not in jumps between hour numbers.",
+      "source": "Original reasoning practice; not an official PYQ. Independently checked solution and constraints.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Reasoning steps independently checked on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7285,
+      "cat": "Reasoning",
+      "topic": "Ranking: total number from opposite ranks",
+      "q": "In a merit list, Rina is ranked 17th from the top and 24th from the bottom. How many candidates are on the list?",
+      "o": [
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "a": 1,
+      "difficulty": "Easy",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "When the same person is counted from opposite ends, total candidates = rank from top + rank from bottom − 1. Thus 17 + 24 − 1 = 40. Subtract one because Rina is included in both counts; without the subtraction she would be counted twice.",
+      "source": "Original reasoning practice; not an official PYQ. Independently checked solution and constraints.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Reasoning steps independently checked on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7286,
+      "cat": "Reasoning",
+      "topic": "Calendar: day after a leap year",
+      "q": "If 1 January 2024 was a Monday, what day of the week was 1 January 2025?",
+      "o": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "The year 2024 was a leap year and therefore contained 366 days. Since 366 leaves a remainder of 2 when divided by 7, the same calendar date in the next year moves forward by two weekdays. Monday + 2 days = Wednesday.",
+      "source": "Original reasoning practice; not an official PYQ. Independently checked solution and constraints.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Reasoning steps independently checked on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7287,
+      "cat": "Reasoning",
+      "topic": "Linear seating: arranging five officers",
+      "q": "Five officers A, B, C, D and E sit in a row facing north. A is at the left end. D sits two places to the left of B, and C sits immediately to the right of B. E occupies the remaining seat. Who sits in the middle?",
+      "o": [
+        "A",
+        "D",
+        "E",
+        "B"
+      ],
+      "a": 2,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Number the seats 1 to 5 from left to right. A occupies seat 1. D must be two places to the left of B, while C is immediately to B's right. The only arrangement that fits all five seats is A–D–E–B–C. The third seat is therefore occupied by E.",
+      "source": "Original reasoning practice; not an official PYQ. Independently checked solution and constraints.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Reasoning steps independently checked on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7288,
+      "cat": "Reasoning",
+      "topic": "Alphabet series: increasing intervals",
+      "q": "Find the next letter in the series: A, C, F, J, O, ___.",
+      "o": [
+        "T",
+        "U",
+        "V",
+        "W"
+      ],
+      "a": 1,
+      "difficulty": "Easy",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Convert the letters to their alphabet positions: A=1, C=3, F=6, J=10 and O=15. The increases are +2, +3, +4 and +5. The next increase is +6, giving 21, which is U. The pattern is a steadily increasing interval, not a fixed jump.",
+      "source": "Original reasoning practice; not an official PYQ. Independently checked solution and constraints.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Reasoning steps independently checked on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7289,
+      "cat": "Computer",
+      "topic": "Excel: data validation drop-down list",
+      "q": "A clerk wants a cell in Excel to accept only one of the entries “Pending”, “Paid” or “Rejected”. Which feature should be used to create the in-cell drop-down list?",
+      "o": [
+        "Conditional Formatting",
+        "Data Validation with the List setting",
+        "Freeze Panes",
+        "Goal Seek"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Use Data Validation and choose List under the Allow setting. The allowed values can be entered as a comma-separated source or supplied from a worksheet range. This restricts or guides data entry; Conditional Formatting changes appearance, while Freeze Panes and Goal Seek serve different purposes.",
+      "source": "Original practice; not an official PYQ. Microsoft Support, Apply data validation to cells.",
+      "sourceURL": "https://support.microsoft.com/en-us/excel/get-started/apply-data-validation-to-cells",
+      "verificationStatus": "Checked against Microsoft Support documentation on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7290,
+      "cat": "Computer",
+      "topic": "Excel: filtering records without deleting them",
+      "q": "An office clerk applies a filter to show only records marked “Pending” in an Excel table. What happens to rows that do not meet the filter condition?",
+      "o": [
+        "They are permanently deleted",
+        "They are hidden from the filtered view but remain in the data",
+        "They are moved to a new workbook automatically",
+        "Their cell values are replaced with blanks"
+      ],
+      "a": 1,
+      "difficulty": "Easy",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Filtering displays only the rows that meet the selected criteria; rows that do not match are hidden from the current view, not deleted. Clearing the filter makes the hidden rows visible again. Sorting is different: it rearranges the order of records rather than hiding records that fail a condition.",
+      "source": "Original practice; not an official PYQ. Microsoft Support, Filter data in a range or table in Excel.",
+      "sourceURL": "https://support.microsoft.com/en-us/excel/get-started/filter-data-in-a-range-or-table-in-excel",
+      "verificationStatus": "Checked against Microsoft Support documentation on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7291,
+      "cat": "Computer",
+      "topic": "Word: tracked changes and No Markup view",
+      "q": "In Microsoft Word, a reviewer selects “No Markup” from the display options. What does this action do to tracked changes?",
+      "o": [
+        "Permanently accepts every change",
+        "Permanently rejects every change",
+        "Temporarily hides the markup without accepting or rejecting the changes",
+        "Deletes the document's revision history"
+      ],
+      "a": 2,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "No Markup changes how the document is displayed; it does not permanently remove tracked changes. The insertions and deletions remain in the document and can appear again when another markup view is selected. To remove them permanently, the reviewer must accept or reject the tracked changes.",
+      "source": "Original practice; not an official PYQ. Microsoft Support, Accept or reject tracked changes in Word.",
+      "sourceURL": "https://support.microsoft.com/en-us/word/accept-or-reject-tracked-changes-in-word",
+      "verificationStatus": "Checked against Microsoft Support documentation on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7292,
+      "cat": "Computer",
+      "topic": "PowerPoint: purpose of the Slide Master",
+      "q": "A presentation needs the same organisation logo, theme fonts and recurring design elements on many slides. Which PowerPoint feature is designed to manage these shared elements centrally?",
+      "o": [
+        "Slide Sorter",
+        "Slide Master",
+        "Animation Pane",
+        "Notes Page"
+      ],
+      "a": 1,
+      "difficulty": "Easy",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "The Slide Master lets the author make shared design changes in one place. Slides based on that master inherit its common fonts, images, layouts and other design elements. The Slide Sorter rearranges slides, the Animation Pane manages effects, and Notes Page is used for speaker notes.",
+      "source": "Original practice; not an official PYQ. Microsoft Support, What is a slide master in PowerPoint?",
+      "sourceURL": "https://support.microsoft.com/en-us/powerpoint/training/what-is-a-slide-master-in-powerpoint",
+      "verificationStatus": "Checked against Microsoft Support documentation on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7293,
+      "cat": "English",
+      "topic": "Parallel structure in a series of verbs",
+      "q": "Choose the word that completes the sentence with correct parallel structure: “The officer was instructed to verify the vouchers, reconcile the ledger, and ___ the report.”",
+      "o": [
+        "file",
+        "filing",
+        "to filing",
+        "filed"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "The three coordinated actions share the infinitive marker “to”: to verify, (to) reconcile and (to) file. The final verb should therefore remain in the base form, “file”. “Filing” changes the grammatical form, while “filed” is past tense and breaks the parallel construction.",
+      "source": "Original English grammar practice; not an official PYQ. British Council LearnEnglish and Cambridge Dictionary Grammar references.",
+      "sourceURL": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference",
+      "verificationStatus": "Grammar and punctuation rules independently checked on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7294,
+      "cat": "English",
+      "topic": "Dangling modifiers: identifying the doer",
+      "q": "Choose the sentence that correctly attaches the opening phrase “After checking the entries” to the person who performed the action.",
+      "o": [
+        "After checking the entries, the discrepancy was found by the clerk.",
+        "After checking the entries, the clerk found a discrepancy.",
+        "The discrepancy, after checking the entries, was found.",
+        "After the entries checked, the clerk found a discrepancy."
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "The opening phrase describes the person who checked the entries. In option B, “the clerk” immediately follows the introductory phrase and is the person who performed the checking. In option A, the grammatical subject is “the discrepancy”, which cannot check entries; that creates a dangling modifier.",
+      "source": "Original English grammar practice; not an official PYQ. British Council LearnEnglish and Cambridge Dictionary Grammar references.",
+      "sourceURL": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference",
+      "verificationStatus": "Grammar and punctuation rules independently checked on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7295,
+      "cat": "English",
+      "topic": "Gerunds after prepositions",
+      "q": "Choose the correct form: “The officer apologised for ___ the appointment letter late.”",
+      "o": [
+        "send",
+        "to send",
+        "sending",
+        "sent"
+      ],
+      "a": 2,
+      "difficulty": "Easy",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "The word “for” is a preposition, and a preposition is followed by a noun or a gerund when a verb is used. Therefore “sending” is correct. “To send” is an infinitive and does not fit directly after the preposition “for” in this construction.",
+      "source": "Original English grammar practice; not an official PYQ. British Council LearnEnglish and Cambridge Dictionary Grammar references.",
+      "sourceURL": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference",
+      "verificationStatus": "Grammar and punctuation rules independently checked on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7296,
+      "cat": "English",
+      "topic": "Punctuation: semicolon with a conjunctive adverb",
+      "q": "Choose the correctly punctuated sentence.",
+      "o": [
+        "The file was complete, however, the annexure was missing.",
+        "The file was complete; however, the annexure was missing.",
+        "The file was complete however; the annexure was missing.",
+        "The file was complete; however the annexure, was missing."
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "The sentence contains two independent clauses. A semicolon can separate them, and the conjunctive adverb “however” is followed by a comma: “The file was complete; however, the annexure was missing.” A single comma between the two independent clauses in option A creates a comma splice.",
+      "source": "Original practice; not an official PYQ. Cambridge Dictionary Grammar, punctuation reference.",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/punctuation",
+      "verificationStatus": "Grammar and punctuation rules independently checked on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7297,
+      "cat": "Science",
+      "topic": "Biology: osmosis in plant root hairs",
+      "q": "Water enters a plant root-hair cell from the surrounding soil mainly through which process?",
+      "o": [
+        "Diffusion of mineral salts",
+        "Osmosis",
+        "Active transport of water molecules",
+        "Transpiration pull through the xylem"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Osmosis is the movement of water through a selectively permeable membrane from a region of higher water potential to a region of lower water potential. When the soil solution has a higher water potential than the root-hair cell sap, water enters the cell by osmosis. Mineral-ion uptake may involve active transport, but that is not the process asked here.",
+      "source": "Original science practice; not an official PYQ. NCERT Science, Biology and Physics textbooks.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Scientific concepts checked against NCERT textbook material on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7298,
+      "cat": "Science",
+      "topic": "Physics: electromagnetic induction",
+      "q": "A bar magnet is moved towards a coil connected to a sensitive galvanometer, and the galvanometer shows a deflection. Which phenomenon explains the induced current?",
+      "o": [
+        "Electrostatic induction",
+        "Electromagnetic induction",
+        "Photoelectric effect",
+        "Thermionic emission"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Moving the magnet changes the magnetic flux linked with the coil. By Faraday's law, a change in magnetic flux induces an electromotive force; if the circuit is closed, an induced current flows and the galvanometer deflects. A stationary magnet with no change in flux does not produce the same continuing induced effect.",
+      "source": "Original science practice; not an official PYQ. NCERT Science, Biology and Physics textbooks.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Scientific concepts checked against NCERT textbook material on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7299,
+      "cat": "Science",
+      "topic": "Biology: complementary DNA base pairing",
+      "q": "In a double-stranded DNA molecule, which nitrogenous base pairs with cytosine?",
+      "o": [
+        "Adenine",
+        "Thymine",
+        "Guanine",
+        "Uracil"
+      ],
+      "a": 2,
+      "difficulty": "Easy",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "In DNA, complementary base pairing is specific: adenine pairs with thymine, while cytosine pairs with guanine. A cytosine–guanine pair is held together by three hydrogen bonds. Uracil is normally found in RNA in place of thymine, so it is not the correct DNA partner.",
+      "source": "Original science practice; not an official PYQ. NCERT Science, Biology and Physics textbooks.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Scientific concepts checked against NCERT textbook material on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7300,
+      "cat": "Geography",
+      "topic": "Map reading: contour lines",
+      "q": "On a topographical map, what do contour lines normally join?",
+      "o": [
+        "Places receiving equal annual rainfall",
+        "Points having equal elevation above a stated datum",
+        "Places with the same population density",
+        "Points having equal magnetic declination"
+      ],
+      "a": 1,
+      "difficulty": "Easy",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "A contour line joins points of equal elevation, usually measured above mean sea level or another stated vertical datum. The spacing and pattern of contours help a map reader interpret slope and relief: close contours indicate a steep slope, while widely spaced contours indicate a gentler slope.",
+      "source": "Original geography practice; not an official PYQ. NCERT Geography textbooks and map-reading material.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Geographical principles checked against NCERT Geography material on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7301,
+      "cat": "Geography",
+      "topic": "Physical geography: Coriolis effect",
+      "q": "Because of the Coriolis effect, a freely moving air mass is deflected towards which side of its direction of travel in the Northern Hemisphere?",
+      "o": [
+        "Left",
+        "Right",
+        "Directly towards the equator",
+        "It is never deflected"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Earth's rotation produces the Coriolis effect. In the Northern Hemisphere, moving air and other freely moving objects are deflected to the right of their direction of travel; in the Southern Hemisphere, the deflection is to the left. The effect influences large-scale winds and ocean currents, not the initial direction of motion.",
+      "source": "Original geography practice; not an official PYQ. NCERT Geography textbooks and map-reading material.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Geographical principles checked against NCERT Geography material on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7302,
+      "cat": "Geography",
+      "topic": "Oceanography: spring tides",
+      "q": "Spring tides generally occur when the Sun, Earth and Moon are aligned during which lunar phases?",
+      "o": [
+        "First quarter and third quarter",
+        "New moon and full moon",
+        "Only at perigee",
+        "Only during a lunar eclipse"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Spring tides occur around the new-moon and full-moon phases, when the gravitational effects of the Sun and Moon act along approximately the same line and produce a larger tidal range. The term “spring” refers to the stronger tidal range, not to the season of spring. Neap tides occur near the quarter phases.",
+      "source": "Original geography practice; not an official PYQ. NCERT Geography textbooks and map-reading material.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Geographical principles checked against NCERT Geography material on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7303,
+      "cat": "Environment",
+      "topic": "Ecological succession: pioneer species on bare rock",
+      "q": "During primary succession on newly exposed bare rock, which organisms commonly act as pioneer species by helping to initiate soil formation?",
+      "o": [
+        "Large mammals",
+        "Lichens",
+        "Mature forest trees",
+        "Large fish"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Lichens are common pioneer organisms on bare rock. They can colonise exposed surfaces, contribute to weathering and add organic matter as they grow and decompose. Over time, these processes help create conditions in which mosses, herbs, shrubs and eventually larger plant communities may establish. This is primary succession because soil is initially absent.",
+      "source": "Original environment practice; not an official PYQ. NCERT Biology and Environment textbooks.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Ecological concepts checked against NCERT Biology/Environment material on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7304,
+      "cat": "Environment",
+      "topic": "Ecology: biomagnification of persistent pollutants",
+      "q": "In a food chain, the concentration of a persistent pollutant such as DDT becomes progressively higher in organisms at successive trophic levels. What is this process called?",
+      "o": [
+        "Biodegradation",
+        "Biomagnification",
+        "Nitrogen fixation",
+        "Primary succession"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Biomagnification is the increase in concentration of a persistent substance in organisms at higher trophic levels of a food chain. A pollutant that is not readily broken down or excreted can accumulate in organisms and become more concentrated in predators that consume many contaminated prey. It is different from bioaccumulation within one organism.",
+      "source": "Original environment practice; not an official PYQ. NCERT Biology and Environment textbooks.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Ecological concepts checked against NCERT Biology/Environment material on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7305,
+      "cat": "Economy",
+      "topic": "Banking: Cash Reserve Ratio",
+      "q": "Under the RBI's Cash Reserve Ratio framework, a scheduled bank is required to maintain the prescribed cash reserve as a percentage of which base?",
+      "o": [
+        "Its total fixed assets",
+        "Its net demand and time liabilities in India",
+        "Its annual profit after tax",
+        "Its total number of branches"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "The RBI's directions describe CRR as a cash reserve maintained by a bank as a specified percentage of its net demand and time liabilities (NDTL) in India. CRR is maintained with the Reserve Bank for scheduled banks. Do not confuse it with SLR, which is maintained in specified liquid assets rather than solely as a cash balance with RBI.",
+      "source": "Original practice; not an official PYQ. Reserve Bank of India, Master Directions on Cash Reserve Ratio.",
+      "sourceURL": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13031",
+      "verificationStatus": "Economic concepts independently checked against the cited reference on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7306,
+      "cat": "Economy",
+      "topic": "Basic economics: opportunity cost",
+      "q": "A department uses an unused room as a records store instead of renting it to a training provider. In economic terms, what is the opportunity cost of using the room as a store?",
+      "o": [
+        "The value of the next-best alternative forgone, such as the rent that could have been earned",
+        "The total historical cost of constructing the building",
+        "The amount of GST charged on office stationery",
+        "The accounting depreciation of every asset in the building"
+      ],
+      "a": 0,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "Opportunity cost is the value of the next-best alternative that is given up when a choice is made. If renting the room was the best alternative use, the rent that could have been earned is the relevant opportunity cost. It is not necessarily a cash payment and should not be confused with historical cost or depreciation.",
+      "source": "Original economy practice; not an official PYQ. NCERT Economics textbooks and Reserve Bank of India references.",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "verificationStatus": "Economic concepts independently checked against the cited reference on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7307,
+      "cat": "History",
+      "topic": "Colonial India: Vernacular Press Act",
+      "q": "The Vernacular Press Act of 1878, directed at publications in Indian languages, was enacted during the viceroyalty of whom?",
+      "o": [
+        "Lord Ripon",
+        "Lord Lytton",
+        "Lord Curzon",
+        "Lord Dalhousie"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "The Vernacular Press Act was passed in 1878 during Lord Lytton's viceroyalty. It imposed controls on the vernacular press, while English-language publications were exempt. The measure became known as the “Gagging Act” and was later repealed under Lord Ripon. Remember the sequence: Lytton—Act of 1878; Ripon—repeal.",
+      "source": "Original practice; not an official PYQ. 1911 Encyclopaedia Britannica, Press Laws; Cambridge University Press, Indian Press 1870–1880.",
+      "sourceURL": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Press_Laws",
+      "verificationStatus": "Historical facts checked against the cited research/reference sources on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7308,
+      "cat": "History",
+      "topic": "Colonial India: Ilbert Bill controversy",
+      "q": "What was the central legal issue addressed by the Ilbert Bill controversy of 1883 in British India?",
+      "o": [
+        "Whether Indian judges could try European British subjects in criminal cases",
+        "Whether the East India Company could issue its own currency",
+        "Whether Indian newspapers could publish in English",
+        "Whether provincial legislatures could levy income tax"
+      ],
+      "a": 0,
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "The Ilbert Bill sought to remove a racial restriction that prevented qualified Indian magistrates and judges from exercising criminal jurisdiction over European British subjects in specified circumstances. The proposal triggered strong opposition from much of the European community and a major controversy over racial equality before the law. The final measure was passed in a compromised form in 1884.",
+      "source": "Original practice; not an official PYQ. Cambridge University Press, Law and History Review, “Constitutional Panic in British India: The Ilbert Bill Controversy of 1883”.",
+      "sourceURL": "https://www.cambridge.org/core/journals/law-and-history-review/article/constitutional-panic-in-british-india-how-the-ilbert-bill-controversy-of-1883-revealed-the-constitutive-character-of-racial-discrimination-in-the-british-empire/BF8625028C2B41509A4249F76B8CC29D",
+      "verificationStatus": "Historical facts checked against the cited research/reference sources on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice"
+    },
+    {
+      "id": 7309,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya AI Job Fair: venue and date",
+      "q": "According to the Meghalaya Government's press release dated 12 November 2026, where was the Eastern India's First AI Job Fair scheduled to be held on 17 November 2026?",
+      "o": [
+        "NEHU campus, Shillong",
+        "State Convention Centre, Shillong",
+        "Polo Grounds, Shillong",
+        "District Library Auditorium, Tura"
+      ],
+      "a": 1,
+      "difficulty": "Easy",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "The Meghalaya Government announced that the AI Job Fair would be held on 17 November 2026 at the State Convention Centre (SCC), Shillong. The release described 125 job openings in Shillong and expected more than 400 candidates and institutional heads. The event schedule listed registration from 11:30 a.m. to 12:45 p.m. and inauguration from 1:00 p.m. to 2:00 p.m.",
+      "source": "Original practice; not an official PYQ. Government of Meghalaya press release, 12-11-2026, “Meghalaya to Host Eastern India's First AI Job Fair”.",
+      "sourceURL": "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_ITC.pdf",
+      "verificationStatus": "Scheduled event details checked against the official Meghalaya Government release on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice",
+      "publishedDate": "2026-11-12",
+      "currentAffairsDate": "2026-11-17"
+    },
+    {
+      "id": 7310,
+      "cat": "Current Affairs",
+      "topic": "North Eastern Council: Meghalaya share of October 2026 releases",
+      "q": "According to the Meghalaya Government's release dated 7 November 2026, how much did Meghalaya receive from the North Eastern Council's fund releases during October 2026?",
+      "o": [
+        "₹15.00 crore",
+        "₹26.56 crore",
+        "₹46.08 crore",
+        "₹79.53 crore"
+      ],
+      "a": 1,
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "e": "The release reports total North Eastern Council releases of ₹79.53 crore across the Northeast during October 2026, of which Meghalaya received ₹26.56 crore. A major share in Meghalaya was directed towards rehabilitation and strengthening of the 46.08-km Chokpot–Kharukol road under NESIDS-Roads, expected to benefit 78 villages and more than 15,000 residents. Do not confuse the State share with the regional total or road length.",
+      "source": "Original practice; not an official PYQ. Government of Meghalaya, Information & Public Relations Department, release 07-11-2026.",
+      "sourceURL": "https://meghalaya.gov.in/index.php/press/content/52291",
+      "verificationStatus": "Scheduled event details checked against the official Meghalaya Government release on 2026-11-17; original practice, not an official PYQ.",
+      "label": "Original Practice",
+      "publishedDate": "2026-11-07",
+      "currentAffairsDate": "2026-11-07"
+    }
+  ]
+}
