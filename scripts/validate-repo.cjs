@@ -26,7 +26,7 @@ const script = scriptMatch[1];
 try { new vm.Script(script, { filename: 'index.html inline script' }); }
 catch (error) { fail('inline JavaScript syntax: ' + error.message); }
 
-const qMatch = script.match(/const Q=(\[[\s\S]*?\]);const high=/);
+const qMatch = script.match(/const Q=(\[[\s\S]*?\]);(?:document\.getElementById\(["']qCount["']\)\.textContent=Q\.length;)?const high=/);
 if (!qMatch) fail('could not locate embedded question array');
 let embedded;
 try { embedded = JSON.parse(qMatch[1]); }
