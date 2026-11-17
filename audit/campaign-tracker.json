@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "campaign": "MPSC Smart Study Hub — original practice question ramp-up",
+  "updatedDate": "2026-11-17",
+  "repository": "pynshaishangoi/MPSC",
+  "repositoryVisibility": "public",
+  "mainShaAtAudit": "322ca7da13b81ad43b122dea3ac33fdbe6a534cd",
+  "rampPolicy": "Start at 50; normally add 10 to next day's target; add 20 only after >=90% of target and all quality, deduplication, source, repository and merge gates pass; hold target after any failed gate; cap 250.",
+  "rampStartTarget": 50,
+  "currentDailyTarget": 50,
+  "previousRampRun": null,
+  "legacyPreRampRun": {
+    "date": "2026-11-16",
+    "targetUnderSupersededPolicy": 250,
+    "validated": 33,
+    "merged": 33,
+    "shortfall": 217,
+    "notUsedForRampGate": true
+  },
+  "latestRun": {
+    "date": "2026-11-17",
+    "status": "preflight_blocked_before_drafting",
+    "startingActiveQuestions": 881,
+    "draftedCandidates": 0,
+    "validatedQuestions": 0,
+    "mergedQuestions": 0,
+    "activeUniqueAdditions": 0,
+    "exactCollisionChecks": "not run; no candidates drafted",
+    "semanticCollisionChecks": "not run; no candidates drafted",
+    "rejectedCandidates": 0,
+    "gatePassed": false,
+    "blockers": [
+      "The saved 16 November dedup index covers the embedded bank and 15 question-batch archives but does not contain the text of official PYQ transcription files.",
+      "The PYQ catalogue lists 18 transcription JSON files; 16 were fetched for structural/sample inspection, but the complete question text across all 18 has not yet been normalized and compared.",
+      "Two official transcription files remain to be included in the dedup corpus; no new question may be safely drafted until the entire official-PYQ corpus is included."
+    ]
+  },
+  "nextDailyTarget": 50,
+  "cumulativeUniqueAdditionsSinceRampStart": 0,
+  "targetActiveQuestions": 10000,
+  "currentActiveQuestions": 881,
+  "remainingTo10000": 9119,
+  "dedupRefreshRequiredBeforeDrafting": true,
+  "nextRequiredActions": [
+    "Fetch and normalize every question from all 18 official PYQ transcription JSON files.",
+    "Build a unified dedup corpus containing the 881 embedded active questions, all 15 batch archives, all official PYQ transcription files and any other question-bank source files.",
+    "Re-run exact, option-insensitive, numeric-template and semantic comparisons before drafting.",
+    "Only then draft, validate, merge and update the target according to the ramp gates."
+  ]
+}
