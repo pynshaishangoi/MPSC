@@ -63,14 +63,30 @@
       "date": "2018-08-04",
       "series": "I",
       "totalQuestions": 180,
-      "transcribedQuestions": 0,
+      "transcribedQuestions": 23,
       "complete": false,
-      "status": "queued",
+      "status": "in_progress",
       "sourceFileName": "04082018MCS2017PRELIMS.pdf",
       "sourcePageCount": 23,
       "questionsPath": null,
       "answerKeyStatus": "not_verified",
-      "notes": "Source booklet contains two separate papers: Paper I (100 questions) and Paper II (80 questions), confirmed from the original instructions pages. Transcription has not yet begun; retain as queued until question text and options are entered and checked."
+      "notes": "Source PDF contains two separate booklets: Paper I (100 questions) and Paper II (80 questions). Paper II Q1–28 first-pass transcribed; Q1–5 and Q25–28 flagged for visual/source wording verification. Paper II Q29–80 and Paper I Q1–100 remain pending.",
+      "paperParts": [
+        {
+          "part": "Paper I — General Studies, Series IV",
+          "totalQuestions": 100,
+          "transcribedQuestions": 0,
+          "questionsPath": null,
+          "status": "queued"
+        },
+        {
+          "part": "Paper II — General Studies, Series III",
+          "totalQuestions": 80,
+          "transcribedQuestions": 23,
+          "questionsPath": "pyq-papers/mcs-prelims-2017-paper-ii-series-iii.json",
+          "status": "in_progress"
+        }
+      ]
     },
     {
       "id": "meghalaya-pyq-005",
