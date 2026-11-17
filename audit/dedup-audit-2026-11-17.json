@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-17",
+  "runType": "ramp-up preflight and repository integrity check",
+  "repository": {
+    "fullName": "pynshaishangoi/MPSC",
+    "visibility": "public",
+    "defaultBranch": "main",
+    "mainSha": "322ca7da13b81ad43b122dea3ac33fdbe6a534cd"
+  },
+  "baseline": {
+    "activeEmbeddedQuestions": 881,
+    "uniqueEmbeddedIds": 881,
+    "remainingTo10000": 9119
+  },
+  "sourceInventory": {
+    "embeddedBank": "index.html const Q array; 881 records and 881 unique IDs verified directly from current main",
+    "questionBatchArchives": 15,
+    "savedDedupIndex": "audit/dedup-index-2026-11-16.json; 881 records covering embedded bank and all 15 question-batch archives",
+    "officialPyqCatalogueRecords": 49,
+    "officialPyqTranscriptionJsonFiles": 18,
+    "officialPyqFilesFetchedForStructuralInspection": 16,
+    "officialPyqFilesNotYetFetched": [
+      "pyq-papers/typist-hod-2020-series-ii.json",
+      "pyq-papers/ty-hod-2023-series-i.json"
+    ],
+    "pyqDedupCoverage": "incomplete; saved dedup index does not include official PYQ transcription question text"
+  },
+  "dailyRun": {
+    "target": 50,
+    "reason": "First day under the superseding ramp-up plan; the previous 33/250 run used the superseded policy and does not qualify for a ramp increase.",
+    "drafted": 0,
+    "validated": 0,
+    "merged": 0,
+    "activeUniqueAdditions": 0,
+    "exactCollisionsFound": null,
+    "nearOrSemanticCollisionsFound": null,
+    "rejectedCandidates": 0,
+    "subjectsCovered": [],
+    "examTracksCovered": [],
+    "qualityGate": "failed before drafting",
+    "reasonForHold": "Complete official-PYQ dedup coverage is not yet established; publishing candidates would violate the zero-repeat requirement.",
+    "nextTarget": 50
+  },
+  "repositoryChecks": {
+    "visibility": "public",
+    "embeddedCountAndUniqueIds": "passed",
+    "questionBatchArchiveInventory": "15 files identified; previous dedup index contains all 15",
+    "officialPyqCorpusDedup": "blocked/incomplete",
+    "loaderAndServiceWorker": "not changed or revalidated in this preflight",
+    "repositoryTests": "not run because no question-bank changes were proposed",
+    "pullRequest": "preflight tracker and audit only"
+  },
+  "deployment": "not checked; no deployment claim"
+}
