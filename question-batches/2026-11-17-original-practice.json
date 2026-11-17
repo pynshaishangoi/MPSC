@@ -271,7 +271,7 @@
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
-      "e": "Article 243-I requires the Governor to constitute a Finance Commission within one year from the commencement of the Constitution (Seventy-third Amendment) Act, 1992, and thereafter at the expiration of every fifth year. The Commission reviews the financial position of Panchayats and makes recommendations on the matters specified in the Article.",
+      "e": "Article 243-I requires the Governor to constitute a Finance Commission within one year from the commencement of the Constitution (Seventy-third Amendment) Act, 1992, and thereafter at the expiration of every fifth year. The Commission reviews the financial position of Panchayats and makes recommendations on the matters specified in the Article. Applicability note for Meghalaya: Article 243M(2)(a) excludes Meghalaya from Part IX, so this is a general constitutional provision and should not be assumed to govern Meghalaya's traditional local institutions.",
       "source": "Original practice; not an official PYQ. Legislative Department, Constitution of India, Article 243-I.",
       "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
       "verificationStatus": "Checked against the Legislative Department Constitution edition dated 10 September 2026 on 2026-11-17; original practice, not an official PYQ.",
@@ -296,7 +296,7 @@
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
-      "e": "Article 243-J provides that, subject to provisions made by the State Legislature, the Legislature may make provisions with respect to the maintenance of accounts by Panchayats and the auditing of those accounts. Do not confuse it with Article 243-I, which concerns the State Finance Commission, or Article 243-K, which concerns Panchayat elections.",
+      "e": "Article 243-J provides that, subject to provisions made by the State Legislature, the Legislature may make provisions with respect to the maintenance of accounts by Panchayats and the auditing of those accounts. Do not confuse it with Article 243-I, which concerns the State Finance Commission, or Article 243-K, which concerns Panchayat elections. Applicability note for Meghalaya: Article 243M(2)(a) excludes Meghalaya from Part IX; this question tests the general Part IX framework, not the law governing Meghalaya's traditional local institutions.",
       "source": "Original practice; not an official PYQ. Legislative Department, Constitution of India, Article 243-J.",
       "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
       "verificationStatus": "Checked against the Legislative Department Constitution edition dated 10 September 2026 on 2026-11-17; original practice, not an official PYQ.",
@@ -321,7 +321,7 @@
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
-      "e": "Article 243-O restricts court interference in matters relating to Panchayat elections. It also provides that an election to a Panchayat may be called in question only by an election petition presented to the authority and in the manner provided by a law made by the State Legislature. The Article deals with election disputes, not reservation, election supervision or the applicability of Part IX.",
+      "e": "Article 243-O restricts court interference in matters relating to Panchayat elections. It also provides that an election to a Panchayat may be called in question only by an election petition presented to the authority and in the manner provided by a law made by the State Legislature. The Article deals with election disputes, not reservation, election supervision or the applicability of Part IX. Applicability note for Meghalaya: Article 243M(2)(a) excludes Meghalaya from Part IX; this is a general constitutional rule and not a statement that Part IX governs Meghalaya's traditional local institutions.",
       "source": "Original practice; not an official PYQ. Legislative Department, Constitution of India, Article 243-O.",
       "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
       "verificationStatus": "Checked against the Legislative Department Constitution edition dated 10 September 2026 on 2026-11-17; original practice, not an official PYQ.",
@@ -1147,9 +1147,9 @@
         "MPSC Secretariat LDA"
       ],
       "e": "The RBI's directions describe CRR as a cash reserve maintained by a bank as a specified percentage of its net demand and time liabilities (NDTL) in India. CRR is maintained with the Reserve Bank for scheduled banks. Do not confuse it with SLR, which is maintained in specified liquid assets rather than solely as a cash balance with RBI.",
-      "source": "Original practice; not an official PYQ. Reserve Bank of India, Master Directions on Cash Reserve Ratio.",
-      "sourceURL": "https://www.rbi.org.in/scripts/BS_ViewMasDirections.aspx?id=13031",
-      "verificationStatus": "Economic concepts independently checked against the cited reference on 2026-11-17; original practice, not an official PYQ.",
+      "source": "Original banking and economy practice; not an official PYQ. Reserve Bank of India, Commercial Banks – Cash Reserve Ratio and Statutory Liquidity Ratio Directions, 2025 (updated 9 October 2026).",
+      "sourceURL": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13160",
+      "verificationStatus": "Checked against RBI Commercial Banks CRR/SLR Directions updated 9 October 2026 on 2026-11-17; no current CRR rate is asserted; original practice, not an official PYQ.",
       "label": "Original Practice"
     },
     {
