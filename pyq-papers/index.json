@@ -63,7 +63,7 @@
       "date": "2018-08-04",
       "series": "I",
       "totalQuestions": 180,
-      "transcribedQuestions": 23,
+      "transcribedQuestions": 19,
       "complete": false,
       "status": "in_progress",
       "sourceFileName": "04082018MCS2017PRELIMS.pdf",
@@ -82,7 +82,7 @@
         {
           "part": "Paper II — General Studies, Series III",
           "totalQuestions": 80,
-          "transcribedQuestions": 23,
+          "transcribedQuestions": 19,
           "questionsPath": "pyq-papers/mcs-prelims-2017-paper-ii-series-iii.json",
           "status": "in_progress"
         }
