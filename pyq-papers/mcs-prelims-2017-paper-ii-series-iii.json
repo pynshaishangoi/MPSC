@@ -7,9 +7,9 @@
   "date": "2018-08-04",
   "series": "III",
   "totalQuestions": 80,
-  "transcribedQuestions": 9,
+  "transcribedQuestions": 23,
   "complete": false,
-  "transcriptionNote": "First-pass transcription begins with Q1–14. Q1–5 require visual confirmation because the source scan's left column is partly faded. Remaining questions Q15–80 are pending. No answer key supplied or invented.",
+  "transcriptionNote": "First-pass transcription currently covers Q1–28. Q1–5 and Q25–28 need visual/source wording verification. Q29–80 remain pending. No answer key supplied or invented.",
   "questions": [
     {
       "number": 1,
@@ -178,6 +178,174 @@
       ],
       "answerIndex": null,
       "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 15,
+      "text": "Which of the following qualities of Dhiru helped him to overpower the witch?",
+      "options": [
+        "Courage and anxiety",
+        "Wisdom and intelligence",
+        "Curiosity and intelligence",
+        "Courage"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 16,
+      "text": "According to the author, people play different tricks in order to",
+      "options": [
+        "Frighten others who are feeble minded",
+        "Earn their bread",
+        "Connect both ends",
+        "Sympathize with others"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 17,
+      "text": "What made Dhiru curious?",
+      "options": [
+        "The fearful appearance of the witch",
+        "The fact that the witch lives in the forest",
+        "The fact that the witch was taking away belongings of people",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 18,
+      "text": "Why did Govind's father give him large tracts of land?",
+      "options": [
+        "It was his way of installing a sense of responsibility in his son",
+        "Govind was his only son and sole heir",
+        "To provide Govind with sufficient funds to pursue his interest of discovering a magic potion",
+        "He wanted Govind to continue to look after the tenants"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 19,
+      "text": "Which of the following can be said about the sage?",
+      "options": [
+        "He was cunning and plotted with Govind's wife to cheat him",
+        "He had no magical powers as such and used to swindle people",
+        "He was a good judge of people",
+        "He did not deserve his good reputation"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 20,
+      "text": "Why was Govind's wife worried?",
+      "options": [
+        "Govind had no knowledge of farming and could not cultivate the land he had inherited from his father",
+        "Govind had no friends because he was obsessed with finding a potion which would turn anything into gold",
+        "Govind was only interested in studying under different sages and neglected his family duties",
+        "Since Govind had devoted all his time and wealth to finding a magic potion they would soon be poor"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 21,
+      "text": "Why did Govind's wife help him in the fields?",
+      "options": [
+        "To support her husband in his endeavour to find a magic potion",
+        "The sage had advised her to help her husband succeed",
+        "Both (i) and (ii)",
+        "None of the above"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 22,
+      "text": "Consider the following statements: (i) Species extinction rates have increased uniquely over the past couple of hundred years. (ii) The scientific community has underestimated the dangers of biodiversity loss. Which of the above statements are valid according to the passage?",
+      "options": [
+        "Only (i)",
+        "Only (ii)",
+        "Both (i) and (ii)",
+        "Neither (i) nor (ii)"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 23,
+      "text": "According to the passage, contemporary environmentalists have",
+      "options": [
+        "Not grasped extinction's severity",
+        "Fared better than language conservationists",
+        "Not made a noticeable contribution to containing species extinction",
+        "Been supported by the scientific community"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 24,
+      "text": "The passage thematically centres on",
+      "options": [
+        "How diversity is getting reduced at an alarming rate",
+        "How ecological webs can be protected",
+        "The role of science in checking biodiversity loss",
+        "The way ahead for contemporary conservationists"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "transcribed"
+    },
+    {
+      "number": 25,
+      "text": "This paragraph is about",
+      "options": [
+        "Children's innate desire for knowledge",
+        "The happiness of seeking pure knowledge",
+        "The desire for knowledge inherent in all women",
+        "The need for practical knowledge"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 26,
+      "text": "“Everyone has tasted it” is mentioned in the paragraph. It refers to",
+      "options": [
+        "Directed thinking",
+        "Cooking is pure knowing",
+        "Happiness",
+        "Pure knowing"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 27,
+      "text": "According to the writer, very little human time is spent",
+      "options": [
+        "In pragmatic thinking",
+        "In problem solving",
+        "In acquiring knowledge per se",
+        "In the purposeful study of various projects"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
+    },
+    {
+      "number": 28,
+      "text": "“To spend 50 or 60 years ... in which to learn and still more.” The illustrations in this passage are examples of habits that",
+      "options": [
+        "Have no direct relevance to the welfare of man",
+        "May be studied for their practical relevance for the sake of knowledge",
+        "Have direct relevance to the welfare of man",
+        "Can be studied only for the sake of knowledge"
+      ],
+      "answerIndex": null,
+      "transcriptionStatus": "needs_source_visual_check"
     }
   ]
 }
