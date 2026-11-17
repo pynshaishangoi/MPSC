@@ -18,12 +18,9 @@
     "savedDedupIndex": "audit/dedup-index-2026-11-16.json; 881 records covering embedded bank and all 15 question-batch archives",
     "officialPyqCatalogueRecords": 49,
     "officialPyqTranscriptionJsonFiles": 18,
-    "officialPyqFilesFetchedForStructuralInspection": 16,
-    "officialPyqFilesNotYetFetched": [
-      "pyq-papers/typist-hod-2020-series-ii.json",
-      "pyq-papers/ty-hod-2023-series-i.json"
-    ],
-    "pyqDedupCoverage": "incomplete; saved dedup index does not include official PYQ transcription question text"
+    "officialPyqFilesFetchedForStructuralInspection": 18,
+    "officialPyqFilesNotYetFetched": [],
+    "pyqDedupCoverage": "incomplete; all 18 files fetched and structurally inspected, but full question-text normalization and cross-corpus comparisons remain outstanding"
   },
   "dailyRun": {
     "target": 50,
