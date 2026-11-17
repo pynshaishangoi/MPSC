@@ -6,24 +6,23 @@
   "papers": [
     {
       "id": "meghalaya-pyq-001",
-      "title": "Labour Inspector — Labour Department — December 2021 • Series I (139-question partial practice)",
+      "title": "Labour Inspector — Labour Department — December 2021 • Series I (Complete 150-question PYQ)",
       "exam": "Labour Inspector — Labour Department",
       "year": "2021",
       "date": "2021-12",
       "series": "I",
       "totalQuestions": 150,
-      "transcribedQuestions": 139,
-      "complete": false,
-      "status": "partial_ready",
+      "transcribedQuestions": 150,
+      "complete": true,
+      "status": "complete",
       "sourceFileName": "[LABOUR INSPT(DEC 2021)]07112026.pdf",
       "sourcePageCount": 20,
       "questionsPath": "pyq-papers/labour-inspector-2021-series-i.json",
-      "answerKeyStatus": "not_supplied",
-      "notes": "139 questions with transcriptionStatus=transcribed are available for partial online practice. The remaining 11 entries with source/visual/formula flags are excluded. Original numbering is retained; this is not a complete 150-question paper. No official answer key supplied.",
-      "partialReady": true,
-      "availableQuestions": 139,
-      "partialQuestionsPath": "pyq-papers/labour-inspector-2021-series-i-partial.json",
-      "durationMinutes": 139
+      "answerKeyStatus": "independently_solved_not_official_key",
+      "notes": "All 150 questions transcribed and independently solved with explanations. The source PDF did not include an official answer key. Questions with ambiguous options are flagged in their answerStatus. Original diagram content for Q58 and Q59 is represented in the online practice interface.",
+      "partialReady": false,
+      "availableQuestions": 150,
+      "durationMinutes": 150
     },
     {
       "id": "meghalaya-pyq-002",
