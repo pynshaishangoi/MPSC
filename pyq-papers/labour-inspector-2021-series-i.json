@@ -20,8 +20,10 @@
         "stooped",
         "strolled"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Ambled means walked slowly and casually; “strolled” is the closest option.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 2,
@@ -32,8 +34,10 @@
         "covered",
         "assimilated"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Flocked means gathered together in a group; “congregated” has the same meaning.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 3,
@@ -44,8 +48,10 @@
         "scarcity",
         "[illegible in source scan]"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_source_visual_check"
+      "answerIndex": 2,
+      "transcriptionStatus": "needs_source_visual_check",
+      "explanation": "Paucity means a shortage or scarcity. The fourth option is readable in the original scan as “price rise”.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 4,
@@ -56,8 +62,10 @@
         "fallacy",
         "cowardice"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_source_visual_check"
+      "answerIndex": 0,
+      "transcriptionStatus": "needs_source_visual_check",
+      "explanation": "Perfidy means deliberate betrayal or treachery. “Treason” is the closest option given.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 5,
@@ -68,8 +76,10 @@
         "delightful",
         "admirable"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Adorable means lovable or delightful. “Delightful” is the closest available option, though “amiable” is also related to pleasant character.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 6,
@@ -80,8 +90,10 @@
         "advised",
         "appointed"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "transcribed",
+      "explanation": "To admonish someone is to reprimand or warn them firmly.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 7,
@@ -92,8 +104,10 @@
         "against",
         "in spite of"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Vis-à-vis means in relation to or with reference to.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 8,
@@ -104,8 +118,10 @@
         "brilliance",
         "turbulence"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Opulence means great wealth or luxury.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 9,
@@ -116,8 +132,10 @@
         "gibberish",
         "notorious"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Puerile means childish or immature.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 10,
@@ -128,8 +146,10 @@
         "persistence",
         "surety"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Prudence means careful, sensible judgment; caution is the closest option.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 11,
@@ -140,8 +160,10 @@
         "justification",
         "disharmony"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Perseverance is steady determination; vacillation means wavering or being indecisive, its opposite.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 12,
@@ -152,8 +174,10 @@
         "excess",
         "loss"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Surplus means an excess; its opposite is dearth, meaning scarcity.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 13,
@@ -164,8 +188,10 @@
         "outnumbered",
         "romantic"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Contemporary means belonging to the present time; old-fashioned is its opposite. “Antiquated” is also close, so the item has two near-equivalent distractors.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 14,
@@ -176,8 +202,10 @@
         "confusing",
         "enforcing"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "The underlined word in the scan is “solving”; among the given choices, “complicating” is the closest opposite in sense, although the item is awkwardly worded.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 15,
@@ -188,8 +216,10 @@
         "renounced",
         "unvowed"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "To vow is to make a solemn promise; to renounce is to formally give up or reject a commitment.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 16,
@@ -200,8 +230,10 @@
         "rational",
         "occasional"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Frequent means happening often; occasional means happening sometimes, not often.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 17,
@@ -212,8 +244,10 @@
         "abstained",
         "refrained"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "transcribed",
+      "explanation": "To claim a share is to assert a right to it; to disclaim is to deny or renounce a claim.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 18,
@@ -224,8 +258,10 @@
         "rudderless",
         "undisturbed"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Apprehensive means anxious or worried; unconcerned is the opposite.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 19,
@@ -236,8 +272,10 @@
         "modify",
         "subjugate"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "transcribed",
+      "explanation": "To pacify is to calm; to aggravate is to make a situation worse or more intense.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 20,
@@ -248,8 +286,10 @@
         "lowly",
         "self-assertive"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Self-complacent means smug or overly satisfied with oneself; demure suggests modest or reserved behaviour.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 21,
@@ -260,8 +300,10 @@
         "in",
         "down"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "transcribed",
+      "explanation": "The correct collocation is “go on a trip”.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 22,
@@ -272,8 +314,10 @@
         "on",
         "about"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "The correct phrase is “set/start on a quest”.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 23,
@@ -284,8 +328,10 @@
         "before",
         "around"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "“By the river” means beside or near the river.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 24,
@@ -296,8 +342,10 @@
         "over",
         "under"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "The usual construction is “indignant over” something.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 25,
@@ -308,8 +356,10 @@
         "up",
         "out"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "transcribed",
+      "explanation": "An epidemic “breaks out,” meaning it begins suddenly or spreads.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 26,
