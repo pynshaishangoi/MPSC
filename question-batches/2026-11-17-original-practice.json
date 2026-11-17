@@ -609,11 +609,11 @@
       "q": "At 4:30, what is the smaller angle between the hour hand and minute hand of a correctly running analogue clock?",
       "o": [
         "30°",
+        "40°",
         "45°",
-        "60°",
-        "75°"
+        "60°"
       ],
-      "a": 1,
+      "a": 2,
       "difficulty": "Medium",
       "exam": "MPSC Inspector of Taxes / DSC East Khasi Hills LDA-cum-Typist / MPSC Secretariat LDA",
       "examTags": [
