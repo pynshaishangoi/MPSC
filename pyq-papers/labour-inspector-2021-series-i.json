@@ -190,8 +190,8 @@
       ],
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
-      "explanation": "Contemporary means belonging to the present time; old-fashioned is its opposite. “Antiquated” is also close, so the item has two near-equivalent distractors.",
-      "answerStatus": "independently_solved_not_official_key"
+      "explanation": "Contemporary means belonging to the present time. “Old-fashioned” is the best-fit opposite (A), although “antiquated” (B) is also a near-synonym of old-fashioned, making this question ambiguous.",
+      "answerStatus": "independently_solved_ambiguous_options"
     },
     {
       "number": 14,
@@ -288,8 +288,8 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "Self-complacent means smug or overly satisfied with oneself; demure suggests modest or reserved behaviour.",
-      "answerStatus": "independently_solved_not_official_key"
+      "explanation": "Self-complacent means smug or overly pleased with oneself. “Demure” suggests modest or reserved behaviour and is the closest available opposite.",
+      "answerStatus": "independently_solved_best_fit_not_official_key"
     },
     {
       "number": 21,
@@ -496,9 +496,9 @@
         "listened to",
         "harrowed"
       ],
-      "answerIndex": 0,
+      "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "“Walk after” here means follow behind someone; “ran after” is the closest option among those supplied.",
+      "explanation": "In this idiomatic context, “walked after his teacher” means followed the teacher's example or imitated the teacher. Option B is the closest intended meaning.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -821,7 +821,8 @@
       "answerIndex": 3,
       "transcriptionStatus": "transcribed_verified_from_source_figure",
       "explanation": "From the four dice views, the opposite pairs are 3–6, 1–2 and 4–5. Therefore, when 5 is on top, 4 is at the bottom.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "diagramDescription": "The four dice views show (top, left face, right face): (4, 3, 2), (3, 1, 5), (1, 4, 6), and (2, 3, 5)."
     },
     {
       "number": 59,
@@ -835,7 +836,8 @@
       "answerIndex": 3,
       "transcriptionStatus": "transcribed_verified_from_source_figure",
       "explanation": "Counting the triangles of every size in the figure gives 18 triangles. The count includes the small triangles, combined triangles and the complete outer triangle.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "diagramSvg": "triangle-count-source-figure"
     },
     {
       "number": 60,
