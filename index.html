@@ -544,11 +544,11 @@ function submitExactPyq(){
  const runner=document.getElementById('exactPyqRunner');
  if(runner)runner.innerHTML='';
  if(result){
-  const scoreText=verified?'<div class="result">Score: '+correct+' / '+verified+' verified answers ('+Math.round(correct/verified*100)+'%)</div>':'<div class="note">No verified answer key is available for this paper, so a score cannot be calculated yet. Your responses are shown below.</div>';
-  result.innerHTML='<div class="card"><h3>Examination result</h3>'+scoreText+'<p>Answered: '+answered+' / '+questions.length+' • Unanswered: '+(questions.length-answered)+' • Questions with verified keys: '+verified+' / '+questions.length+(autoSubmit?' • Automatically submitted when time expired.':'')+'</p><h3>Answer review</h3>'+questions.map(function(q){
+  const scoreText=verified?'<div class="result">Score: '+correct+' / '+verified+' independently solved answers ('+Math.round(correct/verified*100)+'%)</div>':'<div class="note">No verified answer key is available for this paper, so a score cannot be calculated yet. Your responses are shown below.</div>';
+  result.innerHTML='<div class="card"><h3>Examination result</h3>'+scoreText+'<p>Answered: '+answered+' / '+questions.length+' • Unanswered: '+(questions.length-answered)+' • Questions with independently solved keys: '+verified+' / '+questions.length+(autoSubmit?' • Automatically submitted when time expired.':'')+'</p><h3>Answer review</h3><p class="small muted">Answer key independently solved from the paper; no official answer key was supplied.</p>'+questions.map(function(q){
    const selected=EXACT_PYQ_ANSWERS[q.number];
    const key=Number.isInteger(q.answerIndex)?String.fromCharCode(65+q.answerIndex)+'. '+esc(q.options[q.answerIndex]):'Not verified';
-   return '<div class="q review"><b>Q'+q.number+'. '+esc(q.text)+'</b><p>Your answer: '+(selected===undefined?'Not answered':String.fromCharCode(65+selected)+'. '+esc(q.options[selected]))+'</p><p>Verified answer: '+key+'</p>'+(q.explanation?'<div class="ex" style="display:block">'+esc(q.explanation)+'</div>':'')+'</div>';
+   return '<div class="q review"><b>Q'+q.number+'. '+esc(q.text)+'</b><p>Your answer: '+(selected===undefined?'Not answered':String.fromCharCode(65+selected)+'. '+esc(q.options[selected]))+'</p><p>Suggested answer: '+key+'</p>'+(q.explanation?'<div class="ex" style="display:block">'+esc(q.explanation)+'</div>':'')+'</div>';
   }).join('')+'</div>';
  }
  EXACT_PYQ_ACTIVE=null;
