@@ -442,7 +442,7 @@ function loadExactPyqCatalogue(){
   const pending=all.filter(function(p){return p.status!=='duplicate_upload'&&!(p.complete===true&&p.transcribedQuestions===p.totalQuestions)});
   select.innerHTML=EXACT_PYQ_PAPERS.length?'<option value="">Select a PYQ paper or partial practice set</option>'+EXACT_PYQ_PAPERS.map(function(p,i){return '<option value="'+i+'">'+(p.partialReady?'[PARTIAL] ':'')+esc(p.title||p.exam+' — '+p.year+' Series '+p.series)+'</option>'}).join(''):'<option value="">No PYQ practice sets ready yet</option>';
   if(startButton)startButton.disabled=true;
-  select.onchange=function(){if(startButton)startButton.disabled=select.value===''};
+  select.onchange=function(){if(startButton)startButton.disabled=select.value==='';if(select.value!=='')startExactPyq();};
   info.textContent='Collection: '+(data.uploadedPdfCount||all.length)+' uploaded PDFs • '+(data.distinctPaperCount||all.length)+' distinct papers • '+EXACT_PYQ_PAPERS.length+' selectable papers/practice sets (including partial sets) • '+pending.length+' awaiting transcription or verification.';
   if(queue){
    queue.innerHTML='<div class="note"><b>PYQ processing queue</b><p>'+pending.length+' papers are registered below. They will become selectable only after the full question set is transcribed and checked against the original PDF.</p><ol>'+pending.map(function(p){return '<li><b>'+esc(p.exam||p.title)+'</b> — '+esc(String(p.date||p.year||'Date to confirm'))+' · '+esc(p.status==='transcription_review'?'Transcription review':p.status==='in_progress'?'In progress':'Awaiting transcription')+' · '+(Number(p.transcribedQuestions)||0)+'/'+(Number(p.totalQuestions)||'?')+' questions</li>'}).join('')+'</ol><p class="small muted">Duplicate uploads are retained in the source register but excluded from the distinct-paper count.</p></div>';
@@ -489,6 +489,7 @@ function startExactPyq(){
   if(EXACT_PYQ_INTERVAL)clearInterval(EXACT_PYQ_INTERVAL);
   if(result)result.innerHTML='';
   renderExactPyqRunner();
+  if(runner&&typeof runner.scrollIntoView==='function')runner.scrollIntoView({behavior:'smooth',block:'start'});
   EXACT_PYQ_INTERVAL=setInterval(function(){
    if(!EXACT_PYQ_ACTIVE)return;
    EXACT_PYQ_REMAINING=Math.max(0,EXACT_PYQ_REMAINING-1);
