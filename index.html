@@ -438,12 +438,12 @@ function loadExactPyqCatalogue(){
  fetch('./pyq-papers/index.json',{cache:'no-store'}).then(function(r){if(!r.ok)throw new Error('PYQ catalogue unavailable');return r.json()}).then(function(data){
   if(data.schemaVersion!==1||!Array.isArray(data.papers))throw new Error('Invalid PYQ catalogue');
   const all=data.papers;
-  EXACT_PYQ_PAPERS=all.filter(function(p){return p.complete===true&&p.transcribedQuestions===p.totalQuestions&&p.questionsPath});
+  EXACT_PYQ_PAPERS=all.filter(function(p){return (p.complete===true&&p.transcribedQuestions===p.totalQuestions&&p.questionsPath)||(p.partialReady===true&&p.partialQuestionsPath&&Number(p.availableQuestions)>0)});
   const pending=all.filter(function(p){return p.status!=='duplicate_upload'&&!(p.complete===true&&p.transcribedQuestions===p.totalQuestions)});
-  select.innerHTML=EXACT_PYQ_PAPERS.length?'<option value="">Select a verified examination paper</option>'+EXACT_PYQ_PAPERS.map(function(p,i){return '<option value="'+i+'">'+esc(p.title||p.exam+' — '+p.year+' Series '+p.series)+'</option>'}).join(''):'<option value="">No fully verified papers yet</option>';
+  select.innerHTML=EXACT_PYQ_PAPERS.length?'<option value="">Select a PYQ paper or partial practice set</option>'+EXACT_PYQ_PAPERS.map(function(p,i){return '<option value="'+i+'">'+(p.partialReady?'[PARTIAL] ':'')+esc(p.title||p.exam+' — '+p.year+' Series '+p.series)+'</option>'}).join(''):'<option value="">No PYQ practice sets ready yet</option>';
   if(startButton)startButton.disabled=true;
   select.onchange=function(){if(startButton)startButton.disabled=select.value===''};
-  info.textContent='Collection: '+(data.uploadedPdfCount||all.length)+' uploaded PDFs • '+(data.distinctPaperCount||all.length)+' distinct papers • '+EXACT_PYQ_PAPERS.length+' fully verified and ready • '+pending.length+' awaiting transcription or verification.';
+  info.textContent='Collection: '+(data.uploadedPdfCount||all.length)+' uploaded PDFs • '+(data.distinctPaperCount||all.length)+' distinct papers • '+EXACT_PYQ_PAPERS.length+' selectable papers/practice sets (including partial sets) • '+pending.length+' awaiting transcription or verification.';
   if(queue){
    queue.innerHTML='<div class="note"><b>PYQ processing queue</b><p>'+pending.length+' papers are registered below. They will become selectable only after the full question set is transcribed and checked against the original PDF.</p><ol>'+pending.map(function(p){return '<li><b>'+esc(p.exam||p.title)+'</b> — '+esc(String(p.date||p.year||'Date to confirm'))+' · '+esc(p.status==='transcription_review'?'Transcription review':p.status==='in_progress'?'In progress':'Awaiting transcription')+' · '+(Number(p.transcribedQuestions)||0)+'/'+(Number(p.totalQuestions)||'?')+' questions</li>'}).join('')+'</ol><p class="small muted">Duplicate uploads are retained in the source register but excluded from the distinct-paper count.</p></div>';
   }
@@ -460,26 +460,30 @@ function startExactPyq(){
  const result=document.getElementById('exactPyqResult');
  const paper=select&&select.value!==''?EXACT_PYQ_PAPERS[Number(select.value)]:null;
  if(!paper){if(info)info.textContent='Please select a paper first.';return}
- if(paper.complete!==true||paper.transcribedQuestions!==paper.totalQuestions){
+ const isPartial=paper.partialReady===true;
+ if(!isPartial&&(paper.complete!==true||paper.transcribedQuestions!==paper.totalQuestions)){
   if(info)info.textContent='This paper is incomplete and cannot start as a full timed examination.';
   return;
  }
- if(!String(paper.questionsPath||'').startsWith('pyq-papers/')||String(paper.questionsPath).includes('..')){
+ const dataPath=isPartial?paper.partialQuestionsPath:paper.questionsPath;
+ if(!String(dataPath||'').startsWith('pyq-papers/')||String(dataPath).includes('..')){
   if(info)info.textContent='The paper data path is not permitted.';
   return;
  }
  if(info)info.textContent='Checking the transcribed paper…';
- fetch('./'+paper.questionsPath).then(function(r){if(!r.ok)throw new Error('Paper data file unavailable');return r.json()}).then(function(data){
+ fetch('./'+dataPath).then(function(r){if(!r.ok)throw new Error('Paper data file unavailable');return r.json()}).then(function(data){
   const questions=data.questions;
-  if(!Array.isArray(questions)||questions.length!==paper.totalQuestions)throw new Error('Question count does not match the catalogue.');
-  const numbers=new Set();
+  const expectedCount=isPartial?Number(paper.availableQuestions):Number(paper.totalQuestions);
+  if(!Array.isArray(questions)||questions.length!==expectedCount)throw new Error('Question count does not match the catalogue.');
+  const numbers=new Set();let previousNumber=0;
   questions.forEach(function(q,i){
-   if(!Number.isInteger(q.number)||q.number!==i+1||numbers.has(q.number))throw new Error('Printed question numbering is incomplete or out of order at position '+(i+1)+'.');
+   if(!Number.isInteger(q.number)||q.number<=previousNumber||numbers.has(q.number)||(!isPartial&&q.number!==i+1))throw new Error('Printed question numbering is incomplete or out of order at position '+(i+1)+'.');
+   previousNumber=q.number;
    numbers.add(q.number);
    if(typeof q.text!=='string'||!q.text.trim()||!Array.isArray(q.options)||q.options.length!==4||q.options.some(function(o){return typeof o!=='string'||!o.trim()}))throw new Error('Question '+q.number+' is not a complete four-option MCQ.');
    if(q.answerIndex!==null&&q.answerIndex!==undefined&&(!Number.isInteger(q.answerIndex)||q.answerIndex<0||q.answerIndex>3))throw new Error('Question '+q.number+' has an invalid answer-key entry.');
   });
-  EXACT_PYQ_ACTIVE={paper:paper,questions:questions,startedAt:Date.now()};
+  EXACT_PYQ_ACTIVE={paper:paper,questions:questions,partial:isPartial,startedAt:Date.now()};
   EXACT_PYQ_ANSWERS={};
   EXACT_PYQ_REMAINING=Math.max(1,Number(paper.durationMinutes)||150)*60;
   if(EXACT_PYQ_INTERVAL)clearInterval(EXACT_PYQ_INTERVAL);
@@ -492,7 +496,7 @@ function startExactPyq(){
    if(clock)clock.textContent=formatExactPyqTime(EXACT_PYQ_REMAINING);
    if(EXACT_PYQ_REMAINING===0)submitExactPyq(true);
   },1000);
-  if(info)info.textContent='Paper checked: '+questions.length+' questions. The original question and option order is preserved.';
+  if(info)info.textContent=(isPartial?'Partial practice set ready: ':'Paper checked: ')+questions.length+' questions. Original numbering, question order and option order are preserved. '+(isPartial?'This is not the complete 150-question paper.':'');
  }).catch(function(err){if(info)info.textContent='Cannot start this paper: '+err.message;});
 }
 function formatExactPyqTime(seconds){
@@ -511,7 +515,7 @@ function renderExactPyqRunner(){
  const runner=document.getElementById('exactPyqRunner');
  if(!runner||!EXACT_PYQ_ACTIVE)return;
  const paper=EXACT_PYQ_ACTIVE.paper;
- runner.innerHTML='<div class="card"><div class="sectionTitle"><h3>'+esc(paper.title||paper.exam)+'</h3><span class="timer" id="exactPyqClock">'+formatExactPyqTime(EXACT_PYQ_REMAINING)+'</span></div><p class="small muted">'+esc(paper.exam)+' • '+esc(String(paper.year))+' • Series '+esc(String(paper.series))+' • '+paper.totalQuestions+' questions</p><p id="exactPyqProgress" class="small muted">0 / '+paper.totalQuestions+' answered</p><div class="progress"><div id="exactPyqBar" style="width:0%"></div></div><div id="exactPyqQuestions"></div><button class="btn good" type="button" onclick="submitExactPyq(false)">Submit examination</button></div>';
+ runner.innerHTML='<div class="card"><div class="sectionTitle"><h3>'+esc(paper.title||paper.exam)+'</h3><span class="timer" id="exactPyqClock">'+formatExactPyqTime(EXACT_PYQ_REMAINING)+'</span></div><p class="small muted">'+esc(paper.exam)+' • '+esc(String(paper.year))+' • Series '+esc(String(paper.series))+' • '+EXACT_PYQ_ACTIVE.questions.length+' available questions'+(EXACT_PYQ_ACTIVE.partial?' of '+paper.totalQuestions+' original questions':'')+'</p>'+(EXACT_PYQ_ACTIVE.partial?'<div class="note"><b>Partial PYQ practice:</b> Only transcribed questions are included. Some original questions are excluded pending source/diagram checks. This is not a complete official examination.</div>':'')+'<p id="exactPyqProgress" class="small muted">0 / '+EXACT_PYQ_ACTIVE.questions.length+' answered</p><div class="progress"><div id="exactPyqBar" style="width:0%"></div></div><div id="exactPyqQuestions"></div><button class="btn good" type="button" onclick="submitExactPyq(false)">Submit examination</button></div>';
  const list=document.getElementById('exactPyqQuestions');
  list.innerHTML=EXACT_PYQ_ACTIVE.questions.map(function(q){
   return '<div class="q" id="exactPyqQ'+q.number+'"><b>Q'+q.number+'. '+esc(q.text)+'</b>'+q.options.map(function(option,index){
