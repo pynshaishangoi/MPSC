@@ -2,11 +2,11 @@
 
 A mobile-friendly GitHub Pages study hub for Meghalaya competitive examinations. Priority tracks: MPSC Inspector of Taxes, DSC East Khasi Hills LDA-cum-Typist and MPSC Secretariat LDA.
 
-## Verified repository snapshot — 16 November 2026
+## Verified repository snapshot — 17 November 2026
 
-- **881 active unique question records**: 592 embedded questions plus 15 loaded question batches.
+- **931 active unique question records**, all embedded directly in the canonical `Q` array in `index.html`. The 16 `question-batches/*.json` files preserve 339 source/archive records (289 from earlier batches plus 50 from 17 November) as exact-parity archives, not runtime dependencies. The complete bank is available immediately and offline.
 - **111 records tagged PYQ**. A PYQ tag is not the same as a complete paper.
-- **219 structured detailed explanations** across eight libraries: 52 History, 83 Polity, 20 English, 11 Arithmetic, 20 Meghalaya GK, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **24.9% of the active bank**; 662 active IDs still need structured library explanations. The new Meghalaya GK library explains 20 of 62 active regional questions (32.3%); 42 remain. The Arithmetic library adds worked solutions for 11 active questions (compound interest, percentages, ratio, simple interest, average, profit, time-and-work and speed); coverage is audited by ID in `audit/explanation-coverage-2026-11-06.json`.
+- **226 structured detailed explanations** across eight libraries: 54 History, 88 Polity, 20 English, 11 Arithmetic, 20 Meghalaya GK, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **24.3% of the active bank**; 705 active IDs still need structured library explanations. The Meghalaya GK library explains 20 of 67 active regional questions (29.9%); 47 remain. The Arithmetic library provides worked solutions for 11 of 167 active Arithmetic questions (6.6%); 156 remain.
 - **Study Notes:** 18 subject collections and 64 revision chapters (including 4 newly integrated collections from the 6 November uploaded-note analysis).
 - **MPSC Secretariat LDA May 2025 recruitment-cycle Series I:** 91 of 150 questions transcribed and checked against the official final answer key dated 17 December 2025; 59 remain.
 
@@ -36,22 +36,22 @@ Editorial classification of the 75 English questions: 4 reading-comprehension, 6
 
 | Subject | Active records |
 |---|---:|
-| Arithmetic | 161 |
-| English | 148 |
-| Polity | 83 |
-| Meghalaya GK | 62 |
-| Science | 48 |
-| Economy | 50 |
-| Current Affairs | 44 |
-| Geography | 47 |
+| Arithmetic | 167 |
+| English | 152 |
+| Polity | 88 |
+| Meghalaya GK | 67 |
+| Science | 51 |
+| Economy | 52 |
+| Current Affairs | 46 |
+| Geography | 50 |
 | Aptitude | 32 |
-| Environment | 32 |
+| Environment | 34 |
 | Officer Technical | 17 |
-| GST / Inspector of Taxes | 38 |
-| Reasoning | 36 |
+| GST / Inspector of Taxes | 45 |
+| Reasoning | 41 |
 | General Science | 10 |
-| Computer | 15 |
-| History | 52 |
+| Computer | 19 |
+| History | 54 |
 | Static GK | 3 |
 | Art & Culture | 1 |
 | International Organisations | 1 |
@@ -124,7 +124,7 @@ The 3 November 2026 feed contains six dated items: Exercise Tiger Triumph, India
 - Do not infer exam frequency from the size of question-bank categories.
 - Do not enable exact-paper mode until the complete paper, options and official key are verified.
 - Preserve the `mpscV4` local progress key, bookmarks, notes and study logs.
-- Validate question IDs, four-option structure, answer indices, explanation coverage, loader paths, JSON, JavaScript and service-worker cache.
+- Validate the embedded `Q` array, unique IDs, four-option structure, answer indices, source links, exact/number-normalized/option-insensitive/near-semantic deduplication, archive parity, JavaScript, responsive layout and service-worker cache. Question-batch archives must never be a runtime dependency for question visibility.
 
 
 ## Uploaded Study Notes integration — 6 November 2026
@@ -136,13 +136,23 @@ The analysis corrected the Cabinet Mission provincial grouping (Group B: Punjab,
 
 ## Cross-subject question expansion — 14 November 2026
 
-Added 12 original, source-linked practice questions across Arithmetic, English, Meghalaya GK, Polity, History, Geography, Science, Economy, Environment, Reasoning, Computer and GST / Inspector of Taxes. The batch is loaded by the practice-bank loader and precached by the service worker. All 12 are explicitly labelled original practice, not official PYQs. Explanations include the key reasoning or statutory distinction; legal and policy questions must always be read with the latest official text. See `question-batches/2026-11-14-subject-expansion.json`.
+Added 12 original, source-linked practice questions across Arithmetic, English, Meghalaya GK, Polity, History, Geography, Science, Economy, Environment, Reasoning, Computer and GST / Inspector of Taxes. All 12 records are embedded in the canonical `Q` array in `index.html`; the JSON batch is retained as an exact-parity archive and precached only for archival access. All 12 are explicitly labelled original practice, not official PYQs. Explanations include the key reasoning or statutory distinction; legal and policy questions must always be read with the latest official text. See `question-batches/2026-11-14-subject-expansion.json`.
 
 
 ## Original practice expansion — 16 November 2026
 
-Added **33 original, source-linked questions** (IDs 7228–7260) across GST / Inspector of Taxes, Meghalaya GK, Polity, History, Geography, Environment, Economy, Computer and English. The statutory GST items were checked against the consolidated India Code CGST Act published 11 June 2026; constitutional items were checked against the Legislative Department edition dated 10 September 2026. All items are labelled Original Practice, not PYQ. The batch is loaded by the application and precached by the service worker. See [question-batches/2026-11-16-original-practice.json](question-batches/2026-11-16-original-practice.json), [audit/dedup-index-2026-11-16.json](audit/dedup-index-2026-11-16.json) and [audit/dedup-audit-2026-11-16.json](audit/dedup-audit-2026-11-16.json).
+Added **33 original, source-linked questions** (IDs 7228–7260) across GST / Inspector of Taxes, Meghalaya GK, Polity, History, Geography, Environment, Economy, Computer and English. The statutory GST items were checked against the consolidated India Code CGST Act published 11 June 2026; constitutional items were checked against the Legislative Department edition dated 10 September 2026. All items are labelled Original Practice, not PYQ. All 33 records are embedded in the canonical `Q` array in `index.html`; the JSON batch is retained as an exact-parity archive and precached only for archival access. See [question-batches/2026-11-16-original-practice.json](question-batches/2026-11-16-original-practice.json), [audit/dedup-index-2026-11-16.json](audit/dedup-index-2026-11-16.json) and [audit/dedup-audit-2026-11-16.json](audit/dedup-audit-2026-11-16.json).
 
-## 30-day expansion tracker — 16 November 2026
+## Original practice expansion — 17 November 2026
 
-The agreed pace remains **250 genuinely new questions per run**. Starting from the verified 833-question baseline after the 14 November merge, 15 unique questions were added on 15 November and 33 on 16 November: **48 cumulative additions**, for 881 active questions. This run is 217 below the daily target; no filler questions were added. At exactly 250 per day for 30 days, the baseline projects to 8,333, still 1,667 short of the 10,000 ambition. The current remaining gap is 9,119. The GitHub Actions validator passed; live deployment has not yet been independently verified.
+Added **50 original, source-linked questions** (IDs 7261–7310) across GST / Inspector of Taxes (7), Polity (5), Meghalaya GK (5), Arithmetic (6), Reasoning (5), Computer (4), English (4), Science (3), Geography (3), Environment (2), Economy (2), History (2) and Current Affairs (2). All are labelled Original Practice, have four options, a verified answer index and teaching explanations of at least 120 characters. The questions are tagged for MPSC Inspector of Taxes, DSC East Khasi Hills LDA-cum-Typist and MPSC Secretariat LDA.
+
+The batch was screened against the 881-question active bank and all 17 official PYQ transcription files (2,405 transcribed records), as well as within the proposed batch. The final candidates produced zero exact-stem, number-normalized, exact-option-set or near-semantic collisions at the recorded review thresholds. The existing 35 historical exact-stem clusters, 56 historical near-similarity pairs and 70 pre-existing exact overlaps with official PYQ transcriptions were recorded separately and left unchanged. Legal questions use the consolidated India Code CGST Act text published 11 June 2026; constitutional questions use the Legislative Department edition dated 10 September 2026; Meghalaya facts use official district profiles; CRR uses RBI's Commercial Banks Directions updated 9 October 2026; dated current-affairs questions use Meghalaya Government releases. No private uploads or protected question-bank text were published.
+
+## Canonical question-bank delivery
+
+The live bank is the full **931-question embedded `Q` array in `index.html`**. The dashboard count is set from `Q.length`, and the status panel reports the embedded bank before the optional explanation libraries finish loading. Explanation libraries use non-blocking loading and do not gate question visibility or practice/mock rendering. The 16 batch JSON files (339 records) are retained as source/archive copies and are checked for exact record parity with the embedded array. The page does not fetch `question-batches/*.json` to populate the bank. The service worker cache is versioned as `mpsc-smart-study-v5-48-20261117`.
+
+## Daily ramp tracker — 17 November 2026
+
+The new ramp-up policy starts at **50 validated original questions per run**, increases by 10 by default, permits a 20-question increase only after the specified 90% and all-gates test, and caps the target at 250. The 16 November legacy run added 33 questions against the superseded 250-question target; that result is recorded but does not reset or accelerate the new ramp. Today's 50-question batch meets the new 50-question target. The next target is held at 50 while the PR merge is pending; once the merge is confirmed with all quality and repository gates passed, the next run advances to **60**. After this batch merges, the active count will be 931 and the remaining distance to 10,000 will be 9,069. Live GitHub Pages deployment remains unverified until the published URL serves the new build.
