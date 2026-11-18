@@ -1,0 +1,1408 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-11-18-original-practice",
+  "date": "2026-11-18",
+  "title": "18 November 2026 — Original Practice Questions",
+  "questionCount": 42,
+  "questionIdRange": "9001-9050",
+  "subjects": {
+    "Polity": 10,
+    "Meghalaya GK": 7,
+    "Computer": 11,
+    "GST / Inspector of Taxes": 5,
+    "Geography": 7,
+    "Environment": 1,
+    "General Science": 1
+  },
+  "candidateCount": 50,
+  "rejectedCandidates": 8,
+  "qualityNote": "42 questions passed schema, source, exact/option-insensitive and semantic review. Eight candidates were rejected rather than weakening the zero-repeat standard.",
+  "questions": [
+    {
+      "id": 9001,
+      "cat": "Polity",
+      "topic": "Sixth Schedule—District Council composition",
+      "q": "Under paragraph 2(1) of the Sixth Schedule, what is the maximum number of persons who may be nominated by the Governor to a District Council?",
+      "o": [
+        "Two",
+        "Four",
+        "Six",
+        "Ten"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Paragraph 2(1) caps a District Council at 30 members. Of these, not more than four may be nominated by the Governor; the remaining members are elected on the basis of adult suffrage.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Sixth Schedule—District Council composition",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Constitution of India (2024 edition), Sixth Schedule.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Constitution of India (2024 edition), Sixth Schedule",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9002,
+      "cat": "Polity",
+      "topic": "Sixth Schedule—Council tenure",
+      "q": "Under paragraph 2(6) of the Sixth Schedule, what is the normal term of an elected District Council member, unless the Council is sooner dissolved?",
+      "o": [
+        "Three years",
+        "Four years",
+        "Five years",
+        "Six years"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The normal term is five years, counted from the date appointed for the Council's first meeting after the general election. The Schedule also permits earlier dissolution in specified circumstances.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Sixth Schedule—Council tenure",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Constitution of India (2024 edition), Sixth Schedule.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Constitution of India (2024 edition), Sixth Schedule",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9003,
+      "cat": "Polity",
+      "topic": "Sixth Schedule—Village justice",
+      "q": "Two parties to a local dispute both belong to Scheduled Tribes and live within an autonomous district. Under paragraph 4(1), which body may be constituted to try such a case, subject to the Schedule's exceptions?",
+      "o": [
+        "A village council or court constituted under the District Council",
+        "The State Public Service Commission",
+        "The State Finance Commission",
+        "A municipal tribunal"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Paragraph 4(1) allows the Regional Council or District Council to constitute village councils or courts for suits and cases where all parties belong to Scheduled Tribes within the relevant autonomous area. Cases covered by paragraph 5(1) are excluded.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Sixth Schedule—Village justice",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Constitution of India (2024 edition), Sixth Schedule.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Constitution of India (2024 edition), Sixth Schedule",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9004,
+      "cat": "Polity",
+      "topic": "Sixth Schedule—Appellate jurisdiction",
+      "q": "A case is first tried by a village council or court under paragraph 4(1). Which institution ordinarily exercises appellate power under paragraph 4(2)?",
+      "o": [
+        "The Governor personally",
+        "The relevant District or Regional Council, or a court constituted by it",
+        "The State Cabinet",
+        "The District Magistrate"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Paragraph 4(2) gives appellate power to the Regional Council or a court constituted by it; where there is no Regional Council for the area, the District Council or its constituted court exercises that role. The paragraph preserves the specified High Court and Supreme Court jurisdiction.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Sixth Schedule—Appellate jurisdiction",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Constitution of India (2024 edition), Sixth Schedule.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Constitution of India (2024 edition), Sixth Schedule",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9005,
+      "cat": "Polity",
+      "topic": "Sixth Schedule—Local public services",
+      "q": "Which activity is expressly included in a District Council's powers under paragraph 6(1) of the Sixth Schedule?",
+      "o": [
+        "Establishing and managing primary schools",
+        "Constructing national highways",
+        "Operating inter-State railways",
+        "Issuing passports"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Paragraph 6(1) specifically lists primary schools, dispensaries, markets, cattle pounds, ferries, fisheries, roads, road transport and waterways. It also permits the Council, with the Governor's prior approval, to regulate and control these facilities.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Sixth Schedule—Local public services",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Constitution of India (2024 edition), Sixth Schedule.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Constitution of India (2024 edition), Sixth Schedule",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9006,
+      "cat": "Polity",
+      "topic": "Sixth Schedule—Audit of Council accounts",
+      "q": "Under paragraph 7(4) of the Sixth Schedule, which constitutional authority audits the accounts of District and Regional Councils?",
+      "o": [
+        "Reserve Bank of India",
+        "Comptroller and Auditor-General of India",
+        "Finance Commission of India",
+        "Election Commission of India"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Paragraph 7(4) assigns the audit of District and Regional Council accounts to the Comptroller and Auditor-General. The audit reports are submitted to the Governor, who causes them to be laid before the Council.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Sixth Schedule—Audit of Council accounts",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Constitution of India (2024 edition), Sixth Schedule.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Constitution of India (2024 edition), Sixth Schedule",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9007,
+      "cat": "Polity",
+      "topic": "Sixth Schedule—Market-entry taxation",
+      "q": "A District Council proposes to levy a tax on goods entering a market for sale there. Which provision expressly lists this taxing power?",
+      "o": [
+        "Paragraph 3(1)",
+        "Paragraph 4(1)",
+        "Paragraph 8(3)(c)",
+        "Paragraph 10(1)"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Paragraph 8(3)(c) expressly includes taxes on the entry of goods into a market for sale there, along with tolls on passengers and goods carried in ferries. This is distinct from the Council's law-making subjects under paragraph 3.",
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Sixth Schedule—Market-entry taxation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Constitution of India (2024 edition), Sixth Schedule.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Constitution of India (2024 edition), Sixth Schedule",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9008,
+      "cat": "Polity",
+      "topic": "Sixth Schedule—Mineral royalties",
+      "q": "The State Government and a District Council disagree over the share of royalties from a mineral lease in an autonomous district. Who determines the disputed amount under paragraph 9(2)?",
+      "o": [
+        "The Governor",
+        "The President",
+        "The Comptroller and Auditor-General",
+        "The Union Finance Minister"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Under paragraph 9(2), a dispute over the royalty share is referred to the Governor. The amount determined by the Governor is treated as payable to the District Council, and the decision is final under that paragraph.",
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Sixth Schedule—Mineral royalties",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Constitution of India (2024 edition), Sixth Schedule.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Constitution of India (2024 edition), Sixth Schedule",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9009,
+      "cat": "Polity",
+      "topic": "Sixth Schedule—Trading and money-lending regulations",
+      "q": "What minimum majority of the total membership of a District Council is required to pass regulations under paragraph 10 of the Sixth Schedule?",
+      "o": [
+        "A simple majority",
+        "Two-thirds",
+        "Three-fourths",
+        "Unanimity"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The proviso to paragraph 10(2) requires a majority of not less than three-fourths of the total membership. The paragraph concerns regulations controlling money-lending and trading by persons other than Scheduled Tribes resident in the district.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Sixth Schedule—Trading and money-lending regulations",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Constitution of India (2024 edition), Sixth Schedule.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Constitution of India (2024 edition), Sixth Schedule",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9010,
+      "cat": "Polity",
+      "topic": "Sixth Schedule—Publication of Council laws",
+      "q": "Under paragraph 11 of the Sixth Schedule, when do laws, rules and regulations made by a District or Regional Council acquire the force of law?",
+      "o": [
+        "Immediately after the Council votes",
+        "On publication in the Official Gazette of the State",
+        "After approval by the Lok Sabha",
+        "Thirty days after being sent to the Governor"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Paragraph 11 requires these laws, rules and regulations to be published forthwith in the State's Official Gazette. They acquire the force of law on that publication.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Sixth Schedule—Publication of Council laws",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Constitution of India (2024 edition), Sixth Schedule.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Constitution of India (2024 edition), Sixth Schedule",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9011,
+      "cat": "Meghalaya GK",
+      "topic": "District Council Affairs Department—Coordination",
+      "q": "Which Meghalaya department coordinates the work of the Autonomous District Councils with other State Government departments and the Government of India?",
+      "o": [
+        "District Council Affairs Department",
+        "Department of Personnel and Administrative Reforms",
+        "Revenue and Disaster Management Department",
+        "Home (Police) Department"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Meghalaya Government portal states that the District Council Affairs Department coordinates the work between the District Councils, other State Government departments and the Government of India. This is an administrative coordination function, not direct implementation of every Council scheme.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "District Council Affairs Department—Coordination",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya—District Council Affairs Department.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Government of Meghalaya—District Council Affairs Department",
+      "sourceURL": "https://www.meghalaya.gov.in/dept/10",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9012,
+      "cat": "Meghalaya GK",
+      "topic": "District Council Affairs Department—Legislative scrutiny",
+      "q": "An Autonomous District Council submits a Bill or regulation to the State. If the Department finds it legally in order under the Sixth Schedule and the applicable Council rules, what does the Meghalaya District Council Affairs Department do next?",
+      "o": [
+        "Recommends it to the Governor for assent or approval",
+        "Sends it directly to the Supreme Court",
+        "Publishes it as a Central Act",
+        "Places it before the Union Public Service Commission"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Department examines Council Bills, regulations and rules for legality under the Sixth Schedule and the Assam and Meghalaya Autonomous Districts (Constitution of District Councils) Rules, 1951, as amended. If the proposal is in order, it is recommended to the Governor for assent or approval.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "District Council Affairs Department—Legislative scrutiny",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya—District Council Affairs Department.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Government of Meghalaya—District Council Affairs Department",
+      "sourceURL": "https://www.meghalaya.gov.in/dept/10",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9014,
+      "cat": "Meghalaya GK",
+      "topic": "Nokrek Biosphere Reserve—Gene sanctuary",
+      "q": "Which rare citrus species is protected by the gene sanctuary located in the buffer zone of the Nokrek Biosphere Reserve?",
+      "o": [
+        "Citrus indica",
+        "Citrus limon",
+        "Citrus reticulata",
+        "Citrus sinensis"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Meghalaya Biodiversity Board identifies Citrus indica, locally known as Memang Narang, as the rare citrus conserved in the gene sanctuary in Nokrek's buffer zone. The question tests the species-level conservation fact rather than the general location of Nokrek.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Nokrek Biosphere Reserve—Gene sanctuary",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Biodiversity Board—Protected Areas.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Biodiversity Board—Protected Areas",
+      "sourceURL": "https://megbiodiversity.nic.in/protected-areas",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9018,
+      "cat": "Meghalaya GK",
+      "topic": "Nokrek Peak—Elevation",
+      "q": "According to the Meghalaya Biodiversity Board, what is the elevation of Nokrek Peak, the highest point in the Tura Mountain Range?",
+      "o": [
+        "1,218 metres",
+        "1,318 metres",
+        "1,418 metres",
+        "1,618 metres"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The Meghalaya Biodiversity Board gives Nokrek Peak's elevation as 1,418 metres above sea level. The page also identifies Nokrek Ridge National Park as the core of the Nokrek Biosphere Reserve.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Nokrek Peak—Elevation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Biodiversity Board—Protected Areas.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Biodiversity Board—Protected Areas",
+      "sourceURL": "https://megbiodiversity.nic.in/protected-areas",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9019,
+      "cat": "Meghalaya GK",
+      "topic": "Meghalaya Important Bird Areas—Number",
+      "q": "How many Important Bird Area (IBA) sites does the Meghalaya Biodiversity Board identify in the State?",
+      "o": [
+        "Seven",
+        "Eight",
+        "Nine",
+        "Twelve"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The Board's Important Bird Areas page states that nine IBA sites have been identified in Meghalaya. The list includes sites in the Khasi, Jaintia and Garo Hills regions.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Meghalaya Important Bird Areas—Number",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Biodiversity Board—Important Bird Areas.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Biodiversity Board—Important Bird Areas",
+      "sourceURL": "https://megbiodiversity.nic.in/important-bird-areas",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9020,
+      "cat": "Meghalaya GK",
+      "topic": "Tawny-breasted Wren Babbler—Range",
+      "q": "The Meghalaya Biodiversity Board describes the Tawny-breasted Wren Babbler as restricted to which broad geographical range?",
+      "o": [
+        "Khasi Hills of Meghalaya and Manipur",
+        "Garo Hills and western Assam",
+        "Jaintia Hills and Tripura",
+        "Arunachal Pradesh and Sikkim"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Board reports the species from the Khasi Hills of Meghalaya and Manipur, generally at elevations of about 1,000–2,000 metres. It inhabits the understorey of broadleaved evergreen forests, forest edges and nearby scrub.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Tawny-breasted Wren Babbler—Range",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Biodiversity Board—Important Bird Areas.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Biodiversity Board—Important Bird Areas",
+      "sourceURL": "https://megbiodiversity.nic.in/important-bird-areas",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9022,
+      "cat": "Meghalaya GK",
+      "topic": "Mawphlang Sacred Grove—IBA status",
+      "q": "Which Meghalaya site is specifically listed by the State Biodiversity Board as an Important Bird Area and is also a well-known sacred grove?",
+      "o": [
+        "Mawphlang Sacred Grove",
+        "Elephant Falls",
+        "Shillong Peak",
+        "Ward's Lake"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Mawphlang Sacred Grove appears in the Meghalaya Biodiversity Board's list of nine Important Bird Areas. The other options are well-known places, but they are not the site identified in that IBA list.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Mawphlang Sacred Grove—IBA status",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Biodiversity Board—Important Bird Areas.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Biodiversity Board—Important Bird Areas",
+      "sourceURL": "https://megbiodiversity.nic.in/important-bird-areas",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9023,
+      "cat": "Computer",
+      "topic": "CERT-In Directions—Statutory basis",
+      "q": "The CERT-In Cyber Security Directions dated 28 April 2022 were issued under which provision of the Information Technology Act, 2000?",
+      "o": [
+        "Section 43A",
+        "Section 66",
+        "Section 70B(6)",
+        "Section 79"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "CERT-In's official Directions page identifies the directions as issued under Section 70B of the Information Technology Act, 2000. The 2022 directions specifically invoke the power under sub-section (6).",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Computer",
+        "CERT-In Directions—Statutory basis",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. CERT-In—Directions under Section 70B.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "CERT-In—Directions under Section 70B",
+      "sourceURL": "https://cert-in.org.in/Directions70B.jsp",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9024,
+      "cat": "Computer",
+      "topic": "CERT-In Directions—Covered entities",
+      "q": "Which group correctly lists the entities expressly named in the 28 April 2022 CERT-In Directions for mandatory reporting of specified cyber incidents?",
+      "o": [
+        "Service providers, intermediaries, data centres, body corporates and government organisations",
+        "Only banks and stock exchanges",
+        "Only Central Government ministries",
+        "Only internet service providers and telecom operators"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Direction (ii) names service providers, intermediaries, data centres, body corporates and government organisations. The reporting requirement is not confined to banks or to government ministries alone.",
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Computer",
+        "CERT-In Directions—Covered entities",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. CERT-In—Directions under Section 70B.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "CERT-In—Directions under Section 70B",
+      "sourceURL": "https://cert-in.org.in/Directions70B.jsp",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9025,
+      "cat": "Computer",
+      "topic": "CERT-In Directions—Six-hour reporting clock",
+      "q": "A covered organisation becomes aware of a cyber incident listed in Annexure I at 10:15 a.m. By what time must it report the incident to CERT-In under the 2022 Directions?",
+      "o": [
+        "By 12:15 p.m.",
+        "By 4:15 p.m.",
+        "By 10:15 p.m.",
+        "Within 24 hours"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Directions require the specified incidents to be reported within six hours of noticing the incident or being brought to notice of it. Six hours after 10:15 a.m. is 4:15 p.m.; the clock does not wait for a completed forensic investigation.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Computer",
+        "CERT-In Directions—Six-hour reporting clock",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. CERT-In—Directions under Section 70B.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "CERT-In—Directions under Section 70B",
+      "sourceURL": "https://cert-in.org.in/Directions70B.jsp",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9026,
+      "cat": "Computer",
+      "topic": "CERT-In Directions—Incomplete incident information",
+      "q": "An organisation cannot obtain every detail requested in CERT-In's incident-reporting form before the six-hour deadline. What does the official CERT-In FAQ advise?",
+      "o": [
+        "Wait until every field is confirmed before reporting",
+        "Report only after the incident is fully closed",
+        "Provide the information available at the time and send additional details later within a reasonable time",
+        "Report only to the cloud vendor"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "CERT-In's FAQ says the entity may provide the information available at the time of reporting and submit additional information later within a reasonable time. Missing details do not justify delaying the initial report beyond the prescribed period.",
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Computer",
+        "CERT-In Directions—Incomplete incident information",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. CERT-In—FAQ on Cyber Security Directions.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "CERT-In—FAQ on Cyber Security Directions",
+      "sourceURL": "https://www.cert-in.org.in/PDF/FAQs_on_CyberSecurityDirections_May2022.pdf",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9027,
+      "cat": "Computer",
+      "topic": "CERT-In Directions—Log retention period",
+      "q": "For how long must covered entities securely maintain logs of all their ICT systems under the 2022 CERT-In Directions?",
+      "o": [
+        "30 days",
+        "90 days",
+        "180 days",
+        "365 days"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Direction (iv) requires logs of all ICT systems to be enabled and securely maintained for a rolling period of 180 days, within Indian jurisdiction. This is a log-retention requirement, not the six-hour incident-reporting deadline.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Computer",
+        "CERT-In Directions—Log retention period",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. CERT-In—Directions under Section 70B.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "CERT-In—Directions under Section 70B",
+      "sourceURL": "https://cert-in.org.in/Directions70B.jsp",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9028,
+      "cat": "Computer",
+      "topic": "CERT-In Directions—Scope of logs",
+      "q": "Which systems are covered by the log-enablement requirement in Direction (iv) of CERT-In's 2022 Directions?",
+      "o": [
+        "Only public websites",
+        "All ICT systems of the covered entity",
+        "Only servers located outside India",
+        "Only systems that have already suffered an incident"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The direction refers to logs of all ICT systems, not merely internet-facing servers or systems already known to be compromised. The logs must also be securely retained for the prescribed rolling period.",
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Computer",
+        "CERT-In Directions—Scope of logs",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. CERT-In—Directions under Section 70B.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "CERT-In—Directions under Section 70B",
+      "sourceURL": "https://cert-in.org.in/Directions70B.jsp",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9029,
+      "cat": "Computer",
+      "topic": "CERT-In Directions—Clock synchronisation",
+      "q": "Which time sources are specified by CERT-In for synchronising ICT system clocks under the 2022 Directions?",
+      "o": [
+        "Any public social-media timestamp",
+        "NIC or NPL time servers, or servers traceable to them",
+        "A server chosen independently by each employee",
+        "The device manufacturer's factory clock only"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Directions require covered entities to synchronise their ICT system clocks with the Network Time Protocol servers of NIC or NPL, or with servers traceable to those time sources. Consistent timestamps help correlate events during incident response.",
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Computer",
+        "CERT-In Directions—Clock synchronisation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. CERT-In—Directions under Section 70B.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "CERT-In—Directions under Section 70B",
+      "sourceURL": "https://cert-in.org.in/Directions70B.jsp",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9030,
+      "cat": "Computer",
+      "topic": "CERT-In Directions—Point of contact",
+      "q": "What organisational arrangement must a covered entity make under the CERT-In Directions so that CERT-In can communicate about cyber incidents and compliance?",
+      "o": [
+        "Designate a Point of Contact",
+        "Appoint a separate judge",
+        "Register every employee as a CERT-In officer",
+        "Create a new statutory audit committee"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Directions require each covered entity to designate a Point of Contact. CERT-In communications seeking information or issuing directions are routed to that designated contact, whose details are furnished in the prescribed format.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Computer",
+        "CERT-In Directions—Point of contact",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. CERT-In—Directions under Section 70B.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "CERT-In—Directions under Section 70B",
+      "sourceURL": "https://cert-in.org.in/Directions70B.jsp",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9031,
+      "cat": "Computer",
+      "topic": "CERT-In Directions—Third-party hosted data",
+      "q": "A government organisation's data is stored on a third-party cloud platform, and a cyber incident affects that data. Does use of the third-party platform by itself remove the organisation's CERT-In reporting obligation?",
+      "o": [
+        "Yes, the cloud provider alone must report",
+        "Yes, if the data centre is outside the State",
+        "No; the FAQ says the Directions apply to entities for reporting even where their data is affected in a third party's system",
+        "Only if the organisation owns the physical server"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "CERT-In's FAQ addresses incidents affecting data stored in a third party's systems and states that the Directions apply to all entities insofar as reporting of a cyber incident is concerned. Outsourcing storage does not by itself remove the entity's reporting duty.",
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Computer",
+        "CERT-In Directions—Third-party hosted data",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. CERT-In—FAQ on Cyber Security Directions.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "CERT-In—FAQ on Cyber Security Directions",
+      "sourceURL": "https://www.cert-in.org.in/PDF/FAQs_on_CyberSecurityDirections_May2022.pdf",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9032,
+      "cat": "Computer",
+      "topic": "CERT-In Directions—Reportable incident type",
+      "q": "Which of the following is expressly included among the cyber incidents listed in Annexure I of CERT-In's 2022 Directions?",
+      "o": [
+        "A routine software update completed successfully",
+        "A data breach or data leak",
+        "A scheduled printer replacement",
+        "A staff member changing a desktop wallpaper"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Annexure I includes data breaches and data leaks among the cyber incidents that must be reported by covered entities within the prescribed time. Routine maintenance without a cyber incident is not, by itself, the incident described in this option.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Computer",
+        "CERT-In Directions—Reportable incident type",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. CERT-In—Directions under Section 70B.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "CERT-In—Directions under Section 70B",
+      "sourceURL": "https://cert-in.org.in/Directions70B.jsp",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9034,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "GST TDS—Credit ledger",
+      "q": "When tax deducted under Section 51 is reflected in the deductor's return, in which electronic ledger does the deductee claim the credit under Section 51(5)?",
+      "o": [
+        "Electronic credit ledger",
+        "Electronic cash ledger",
+        "Electronic liability register",
+        "Input Service Distributor ledger"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 51(5) provides that the deductee claims the amount deducted as tax in the electronic cash ledger when it is reflected in the deductor's return. GST TDS credit should not be confused with input tax credit in the electronic credit ledger.",
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "GST TDS—Credit ledger",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. CBIC—CGST Act, 2017, Section 51.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "CBIC—CGST Act, 2017, Section 51",
+      "sourceURL": "https://cbic-gst.gov.in/hindi/CGST-bill-e.html",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9036,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "E-way bill—Ordinary cargo validity",
+      "q": "A regular vehicle (not carrying over-dimensional cargo) is expected to travel 310 km. Under the ordinary-cargo distance rule, how many days of e-way bill validity are allowed?",
+      "o": [
+        "One day",
+        "Two days",
+        "Three days",
+        "Four days"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "For ordinary cargo, one day of validity is allowed for every 200 km or part of the distance. A 310 km journey includes the first 200 km plus part of the next 200 km, so two days are allowed.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "E-way bill—Ordinary cargo validity",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. National E-Way Bill System—Official FAQ on validity.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "National E-Way Bill System—Official FAQ on validity",
+      "sourceURL": "https://docs.ewaybillgst.gov.in/html/faq1.html",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9037,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "E-way bill—Document-age validation",
+      "q": "From 1 January 2025, the National E-Way Bill System's API validation generally prevents generation of an e-way bill when the underlying document date is more than how many days before the generation date?",
+      "o": [
+        "90 days",
+        "120 days",
+        "180 days",
+        "365 days"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The official E-Way Bill System validation note states that, from 1 January 2025, an e-way bill cannot be generated through the API for a document date more than 180 days before the generation date. This is a portal validation, distinct from the distance-based validity period.",
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "E-way bill—Document-age validation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. National E-Way Bill System—Additional Validations (18 December 2024).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "National E-Way Bill System—Additional Validations (18 December 2024)",
+      "sourceURL": "https://docs.ewaybillgst.gov.in/apidocs/downloads/Additional_Validations_20241217.pdf",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9038,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "E-way bill—Maximum extension horizon",
+      "q": "Under the National E-Way Bill System validation effective from 1 January 2025, an e-way bill cannot be extended beyond how many days from its original generation date?",
+      "o": [
+        "180 days",
+        "270 days",
+        "360 days",
+        "540 days"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The official validation note sets a 360-day cap measured from the e-way bill's generation date. Even where an extension is otherwise permitted, the resulting validity cannot go beyond that maximum horizon.",
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "E-way bill—Maximum extension horizon",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. National E-Way Bill System—Additional Validations (18 December 2024).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "National E-Way Bill System—Additional Validations (18 December 2024)",
+      "sourceURL": "https://docs.ewaybillgst.gov.in/apidocs/downloads/Additional_Validations_20241217.pdf",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9039,
+      "cat": "Computer",
+      "topic": "E-way bill portal—Two-factor authentication",
+      "q": "According to the National E-Way Bill System's official updates, from which date did two-factor authentication become mandatory for all taxpayers and transporters using the system?",
+      "o": [
+        "1 January 2025",
+        "1 April 2025",
+        "1 July 2025",
+        "1 April 2026"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The official E-Way Bill System updates record that two-factor authentication became mandatory for all taxpayers and transporters from 1 April 2025. This is an operational portal-security requirement, not a change to the GST tax rate.",
+      "difficulty": "Medium",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Computer",
+        "E-way bill portal—Two-factor authentication",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. National E-Way Bill System—Latest Updates.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "National E-Way Bill System—Latest Updates",
+      "sourceURL": "https://docs.ewaybillgst.gov.in/ewb.html",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9040,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "E-way bill portal—2026 changes on hold",
+      "q": "As recorded in the National E-Way Bill System release notes dated 30 July 2026, what was the status of the proposed EWB Closure functionality and mandatory Ship-to GSTIN changes?",
+      "o": [
+        "Both were fully implemented",
+        "Both were kept on hold",
+        "Both were permanently cancelled by Parliament",
+        "They applied only to composition taxpayers"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The official release notes updated on 30 July 2026 state that the recent changes concerning EWB Closure and mandatory Ship-to GSTIN were kept on hold. This is a dated operational-status question; verify the release notes again before using it after the verification date.",
+      "difficulty": "Hard",
+      "exam": "MPSC Inspector of Taxes",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "E-way bill portal—2026 changes on hold",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. National E-Way Bill System—Release Notes (30 July 2026).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "National E-Way Bill System—Release Notes (30 July 2026)",
+      "sourceURL": "https://docs.ewaybillgst.gov.in/apidocs/release-notes.html",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_time_sensitive_2026-11-18"
+    },
+    {
+      "id": 9041,
+      "cat": "Geography",
+      "topic": "Meghalaya geology—Basement complex",
+      "q": "Which geological unit is identified by the Geological Survey of India as part of the principal basement geology of Meghalaya beneath the Shillong Group?",
+      "o": [
+        "Precambrian Gneissic Complex",
+        "Deccan Trap Basalt",
+        "Indo-Gangetic Alluvium",
+        "Siwalik Conglomerate"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Geological Survey of India's North Eastern Region briefing book describes Meghalaya as comprising mainly the Precambrian Gneissic Complex and the Shillong Group of sedimentary rocks. The Gneissic Complex is the older basement unit in the relationship described.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Meghalaya geology—Basement complex",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Geological Survey of India—North Eastern Region Briefing Book, Meghalaya section.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Geological Survey of India—North Eastern Region Briefing Book, Meghalaya section",
+      "sourceURL": "https://www.gsi.gov.in/webcenter/ShowProperty%3Bjsessionid%3D_AJ64d8DFhXwS-kMDCTgXNXUYZSXuMPrB9mUU13GNlZ2nL9ENyyF%21-68022989%21-107032927?nodeId=%2FUCM%2FDCPORT1GSIGOVI063331%2F%2FidcPrimaryFile&revision=latestreleased",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_static_geology_2026-11-18"
+    },
+    {
+      "id": 9042,
+      "cat": "Geography",
+      "topic": "Meghalaya geology—Shillong Group sequence",
+      "q": "Which rock sequence does the Geological Survey of India identify as characteristic of the Shillong Group in Meghalaya?",
+      "o": [
+        "Sandstone–shale–limestone",
+        "Conglomerate–quartzite–phyllite",
+        "Basalt–tuff–rhyolite",
+        "Granite–gneiss–marble"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The GSI briefing book describes the Shillong Group as a conglomerate-quartzite-phyllite sequence. It is a sedimentary/metasedimentary sequence, not the basaltic or granitic alternatives listed.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Meghalaya geology—Shillong Group sequence",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Geological Survey of India—North Eastern Region Briefing Book, Meghalaya section.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Geological Survey of India—North Eastern Region Briefing Book, Meghalaya section",
+      "sourceURL": "https://www.gsi.gov.in/webcenter/ShowProperty%3Bjsessionid%3D_AJ64d8DFhXwS-kMDCTgXNXUYZSXuMPrB9mUU13GNlZ2nL9ENyyF%21-68022989%21-107032927?nodeId=%2FUCM%2FDCPORT1GSIGOVI063331%2F%2FidcPrimaryFile&revision=latestreleased",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_static_geology_2026-11-18"
+    },
+    {
+      "id": 9044,
+      "cat": "Geography",
+      "topic": "Meghalaya geology—Tertiary sediments and Sylhet Traps",
+      "q": "Along which margins of the Meghalaya Plateau does GSI describe a near-complete sequence of Tertiary sediments overlying the volcanic suite of the Sylhet Traps?",
+      "o": [
+        "Northern and western margins",
+        "Eastern and southern margins",
+        "Only the central plateau",
+        "Only the western Garo Hills"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The GSI briefing book places the near-complete Tertiary sediment sequence along the eastern and southern rims of the plateau, overlying the volcanic suite of the Sylhet Traps. The question tests the spatial relationship rather than simply naming a rock type.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Meghalaya geology—Tertiary sediments and Sylhet Traps",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Geological Survey of India—North Eastern Region Briefing Book, Meghalaya section.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Geological Survey of India—North Eastern Region Briefing Book, Meghalaya section",
+      "sourceURL": "https://www.gsi.gov.in/webcenter/ShowProperty%3Bjsessionid%3D_AJ64d8DFhXwS-kMDCTgXNXUYZSXuMPrB9mUU13GNlZ2nL9ENyyF%21-68022989%21-107032927?nodeId=%2FUCM%2FDCPORT1GSIGOVI063331%2F%2FidcPrimaryFile&revision=latestreleased",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_static_geology_2026-11-18"
+    },
+    {
+      "id": 9045,
+      "cat": "Environment",
+      "topic": "Meghalaya geology—Landslide susceptibility",
+      "q": "Which natural hazard does the Geological Survey of India specifically identify as affecting the southern flank of the Meghalaya Plateau?",
+      "o": [
+        "Avalanches",
+        "Landslides",
+        "Volcanic eruptions",
+        "Coastal storm surges"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The GSI briefing book states that the southern flank of the plateau is prone to landslides. This is a regional geological-hazard observation; it does not mean that every slope or site has the same level of risk.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Meghalaya geology—Landslide susceptibility",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Geological Survey of India—North Eastern Region Briefing Book, Meghalaya section.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Geological Survey of India—North Eastern Region Briefing Book, Meghalaya section",
+      "sourceURL": "https://www.gsi.gov.in/webcenter/ShowProperty%3Bjsessionid%3D_AJ64d8DFhXwS-kMDCTgXNXUYZSXuMPrB9mUU13GNlZ2nL9ENyyF%21-68022989%21-107032927?nodeId=%2FUCM%2FDCPORT1GSIGOVI063331%2F%2FidcPrimaryFile&revision=latestreleased",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_static_geology_2026-11-18"
+    },
+    {
+      "id": 9046,
+      "cat": "Geography",
+      "topic": "Meghalaya mineral geology—Limestone occurrence",
+      "q": "The Geological Survey of India describes Meghalaya's major limestone resources as occurring particularly in Tertiary rocks across which hill regions?",
+      "o": [
+        "Jaintia, Khasi and Garo Hills",
+        "Only the Garo Hills",
+        "Only the Khasi Hills",
+        "Only the Jaintia Hills"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The GSI briefing book identifies substantial limestone resources in Tertiary rocks of the Jaintia, Khasi and Garo Hills. It lists deposits at several localities across all three regions.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Meghalaya mineral geology—Limestone occurrence",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Geological Survey of India—North Eastern Region Briefing Book, Meghalaya section.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Geological Survey of India—North Eastern Region Briefing Book, Meghalaya section",
+      "sourceURL": "https://www.gsi.gov.in/webcenter/ShowProperty%3Bjsessionid%3D_AJ64d8DFhXwS-kMDCTgXNXUYZSXuMPrB9mUU13GNlZ2nL9ENyyF%21-68022989%21-107032927?nodeId=%2FUCM%2FDCPORT1GSIGOVI063331%2F%2FidcPrimaryFile&revision=latestreleased",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_static_geology_2026-11-18"
+    },
+    {
+      "id": 9047,
+      "cat": "Geography",
+      "topic": "Meghalaya mineral geology—Largest limestone deposit",
+      "q": "According to the GSI briefing book, the largest limestone deposit in Meghalaya occurs in which geological unit and locality?",
+      "o": [
+        "Shella Formation of the Jaintia Group around the Litang River Valley",
+        "Tura Sandstone around the Simsang River",
+        "Shillong Group quartzite around Umiam",
+        "Sylhet Traps around Nongpoh"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "GSI identifies the largest limestone deposit in Meghalaya in the Shella Formation rocks of the Jaintia Group, of Eocene age, around the Litang River Valley in Jaintia Hills. The answer combines the formation, group and locality to avoid confusion with other mineral occurrences.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Meghalaya mineral geology—Largest limestone deposit",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Geological Survey of India—North Eastern Region Briefing Book, Meghalaya section.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Geological Survey of India—North Eastern Region Briefing Book, Meghalaya section",
+      "sourceURL": "https://www.gsi.gov.in/webcenter/ShowProperty%3Bjsessionid%3D_AJ64d8DFhXwS-kMDCTgXNXUYZSXuMPrB9mUU13GNlZ2nL9ENyyF%21-68022989%21-107032927?nodeId=%2FUCM%2FDCPORT1GSIGOVI063331%2F%2FidcPrimaryFile&revision=latestreleased",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_static_geology_2026-11-18"
+    },
+    {
+      "id": 9048,
+      "cat": "General Science",
+      "topic": "Mawjymbuin Cave—Stalagmite composition",
+      "q": "The Meghalaya Government portal explains that the stalagmite in Mawjymbuin Cave formed through deposition from mineralised solutions. Which compound is deposited to build this feature?",
+      "o": [
+        "Calcium carbonate",
+        "Sodium chloride",
+        "Silicon dioxide",
+        "Iron sulphide"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The State portal attributes the Mawjymbuin Cave stalagmite to deposition of calcium carbonate from dripping mineralised solutions. Calcium carbonate accumulates over time to build the cave formation; it is not salt or iron sulphide.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "General Science",
+        "Mawjymbuin Cave—Stalagmite composition",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya—Shillong district profile, Mawjymbuin Cave.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Government of Meghalaya—Shillong district profile, Mawjymbuin Cave",
+      "sourceURL": "https://meghalaya.gov.in/node/34292",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_2026-11-18"
+    },
+    {
+      "id": 9049,
+      "cat": "Geography",
+      "topic": "Meghalaya geology—Basic-ultrabasic intrusives",
+      "q": "Which rock is specifically named by GSI as one of the Khasi Basic-Ultrabasic Intrusives occurring in Meghalaya?",
+      "o": [
+        "Metagabbro",
+        "Laterite",
+        "Alluvial clay",
+        "Chalk"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The GSI briefing book lists epidiorite, metagabbro and metadolerite among the basic intrusives in Meghalaya. Metagabbro is the only listed intrusive rock among these options.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Meghalaya geology—Basic-ultrabasic intrusives",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Geological Survey of India—North Eastern Region Briefing Book, Meghalaya section.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Geological Survey of India—North Eastern Region Briefing Book, Meghalaya section",
+      "sourceURL": "https://www.gsi.gov.in/webcenter/ShowProperty%3Bjsessionid%3D_AJ64d8DFhXwS-kMDCTgXNXUYZSXuMPrB9mUU13GNlZ2nL9ENyyF%21-68022989%21-107032927?nodeId=%2FUCM%2FDCPORT1GSIGOVI063331%2F%2FidcPrimaryFile&revision=latestreleased",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_static_geology_2026-11-18"
+    },
+    {
+      "id": 9050,
+      "cat": "Geography",
+      "topic": "Meghalaya coal geology—Singrimari Basin",
+      "q": "The Gondwana coalfields of Meghalaya are exposed in which basin in the north-western corner of the Garo Hills?",
+      "o": [
+        "Singrimari Basin",
+        "Litang Basin",
+        "Umiam Basin",
+        "Simsang Basin"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "GSI states that Meghalaya's Gondwana coalfields are restricted to the Garo Hills and exposed in the Singrimari Basin near the north-western corner of the hills, bordering Dhubri district of Assam. The report distinguishes these from the Tertiary coalfields elsewhere in the Garo Hills.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Meghalaya coal geology—Singrimari Basin",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Geological Survey of India—North Eastern Region Briefing Book, Meghalaya section.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Geological Survey of India—North Eastern Region Briefing Book, Meghalaya section",
+      "sourceURL": "https://www.gsi.gov.in/webcenter/ShowProperty%3Bjsessionid%3D_AJ64d8DFhXwS-kMDCTgXNXUYZSXuMPrB9mUU13GNlZ2nL9ENyyF%21-68022989%21-107032927?nodeId=%2FUCM%2FDCPORT1GSIGOVI063331%2F%2FidcPrimaryFile&revision=latestreleased",
+      "sourceVerifiedDate": "2026-11-18",
+      "verificationStatus": "verified_primary_source_static_geology_2026-11-18"
+    }
+  ]
+}
