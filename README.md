@@ -2,11 +2,11 @@
 
 A mobile-friendly GitHub Pages study hub for Meghalaya competitive examinations. Priority tracks: MPSC Inspector of Taxes, DSC East Khasi Hills LDA-cum-Typist and MPSC Secretariat LDA.
 
-## Verified repository snapshot — 16 November 2026
+## Verified repository snapshot — 18 November 2026
 
-- **881 active unique question records**: 592 embedded questions plus 15 loaded question batches.
+- **923 active unique question records**: 592 legacy embedded questions plus 331 questions mirrored in 16 archived batches. All 923 are embedded in `index.html` for immediate offline availability; the archives are preserved for audit and are not a runtime dependency.
 - **111 records tagged PYQ**. A PYQ tag is not the same as a complete paper.
-- **219 structured detailed explanations** across eight libraries: 52 History, 83 Polity, 20 English, 11 Arithmetic, 20 Meghalaya GK, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **24.9% of the active bank**; 662 active IDs still need structured library explanations. The new Meghalaya GK library explains 20 of 62 active regional questions (32.3%); 42 remain. The Arithmetic library adds worked solutions for 11 active questions (compound interest, percentages, ratio, simple interest, average, profit, time-and-work and speed); coverage is audited by ID in `audit/explanation-coverage-2026-11-06.json`.
+- **219 structured detailed explanations** across eight libraries: 52 History, 83 Polity, 20 English, 11 Arithmetic, 20 Meghalaya GK, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **23.7% of the active bank**; 704 active IDs still need structured library explanations. The Meghalaya GK library explains 20 of 69 active regional questions (29.0%); 49 remain. The Arithmetic library adds worked solutions for 11 active questions (compound interest, percentages, ratio, simple interest, average, profit, time-and-work and speed); coverage is audited by ID in `audit/explanation-coverage-2026-11-06.json`.
 - **Study Notes:** 18 subject collections and 64 revision chapters (including 4 newly integrated collections from the 6 November uploaded-note analysis).
 - **MPSC Secretariat LDA May 2025 recruitment-cycle Series I:** 91 of 150 questions transcribed and checked against the official final answer key dated 17 December 2025; 59 remain.
 
@@ -88,7 +88,7 @@ The new `explanations/arithmetic.json` library provides formula-first teaching f
 
 ## Meghalaya GK explanation update — 6 November 2026
 
-The new `explanations/meghalaya-gk.json` library adds 20 source-checked teaching explanations for active IDs 11, 12, 14, 15, 17, 18, 127, 128, 183, 186, 188, 189, 195, 3003, 4006, 4008, 4010, 5004, 5089 and 5090. Topics include State formation, district headquarters, the Sixth Schedule, living root bridges, indigenous communities, Wangala, Khasi matriliny, Nartiang heritage, Nokrek Biosphere Reserve, language classification, Nohsngithiang Falls and Mawsynram rainfall. The library distinguishes autonomous-state status (2 April 1970) from full statehood (21 January 1972), and explains the official meteorological caveat attached to Mawsynram rainfall rankings. Source references prioritise Meghalaya Government, district administrations, the Legislative Department, Meghalaya Biodiversity Board, Meghalaya Tourism, UNESCO and academic research. The active Meghalaya GK bank contains 62 questions; 20 now have structured explanations and 42 remain.
+The new `explanations/meghalaya-gk.json` library adds 20 source-checked teaching explanations for active IDs 11, 12, 14, 15, 17, 18, 127, 128, 183, 186, 188, 189, 195, 3003, 4006, 4008, 4010, 5004, 5089 and 5090. Topics include State formation, district headquarters, the Sixth Schedule, living root bridges, indigenous communities, Wangala, Khasi matriliny, Nartiang heritage, Nokrek Biosphere Reserve, language classification, Nohsngithiang Falls and Mawsynram rainfall. The library distinguishes autonomous-state status (2 April 1970) from full statehood (21 January 1972), and explains the official meteorological caveat attached to Mawsynram rainfall rankings. Source references prioritise Meghalaya Government, district administrations, the Legislative Department, Meghalaya Biodiversity Board, Meghalaya Tourism, UNESCO and academic research. The active Meghalaya GK bank contains 69 questions; 20 have structured explanations and 49 remain.
 
 ## Dated current affairs
 
@@ -143,6 +143,6 @@ Added 12 original, source-linked practice questions across Arithmetic, English, 
 
 Added **33 original, source-linked questions** (IDs 7228–7260) across GST / Inspector of Taxes, Meghalaya GK, Polity, History, Geography, Environment, Economy, Computer and English. The statutory GST items were checked against the consolidated India Code CGST Act published 11 June 2026; constitutional items were checked against the Legislative Department edition dated 10 September 2026. All items are labelled Original Practice, not PYQ. The batch is loaded by the application and precached by the service worker. See [question-batches/2026-11-16-original-practice.json](question-batches/2026-11-16-original-practice.json), [audit/dedup-index-2026-11-16.json](audit/dedup-index-2026-11-16.json) and [audit/dedup-audit-2026-11-16.json](audit/dedup-audit-2026-11-16.json).
 
-## 30-day expansion tracker — 16 November 2026
+## Ramp-up tracker — 18 November 2026
 
-The agreed pace remains **250 genuinely new questions per run**. Starting from the verified 833-question baseline after the 14 November merge, 15 unique questions were added on 15 November and 33 on 16 November: **48 cumulative additions**, for 881 active questions. This run is 217 below the daily target; no filler questions were added. At exactly 250 per day for 30 days, the baseline projects to 8,333, still 1,667 short of the 10,000 ambition. The current remaining gap is 9,119. The GitHub Actions validator passed; live deployment has not yet been independently verified.
+The revised ramp starts at **50 validated original questions per day**. On 18 November, 50 candidates were drafted; 42 passed full-bank deduplication, source and schema review (84%), while eight near-duplicates were rejected. Because 84% is below the 90% increase threshold, the next daily target remains **50**. The 42 questions bring the active bank to 923 after merge; 9,077 remain to reach 10,000. The canonical bank remains embedded for offline use. Live deployment is not yet verified.
