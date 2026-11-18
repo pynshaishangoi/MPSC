@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-18",
+  "target": 50,
+  "startingActiveQuestions": 881,
+  "draftedCandidates": 50,
+  "validatedUniqueQuestions": 42,
+  "mergedQuestions": 0,
+  "projectedActiveUniqueQuestions": 923,
+  "fullDedupScan": {
+    "activeEmbeddedQuestions": 881,
+    "archiveFiles": 15,
+    "archiveQuestions": 289,
+    "archiveIdsUnique": 289,
+    "archiveParityWithEmbeddedQ": true,
+    "officialPyqFiles": 18,
+    "officialPyqQuestions": 2433,
+    "partialDuplicateTranscriptionFiles": 1,
+    "partialDuplicateQuestions": 139,
+    "partialDuplicateExactMatches": 139,
+    "uniqueComparisonCorpus": 3314
+  },
+  "collisions": {
+    "candidateExactStemCollisions": 0,
+    "candidateExactStemAndOptionCollisions": 0,
+    "candidateNearSemanticCollisionsRejected": 8,
+    "unresolvedSemanticCollisions": 0,
+    "withinBatchNearDuplicatePairsRejected": 2,
+    "existingBankNearDuplicateCandidatesRejected": 6
+  },
+  "rejectedCandidates": [
+    {
+      "id": 9013,
+      "reason": "Same core Nepenthes khasiana identification objective as an existing official PYQ."
+    },
+    {
+      "id": 9015,
+      "reason": "Near-duplicate district-location recall pattern; high similarity to existing Meghalaya location questions."
+    },
+    {
+      "id": 9016,
+      "reason": "Same district-location recall pattern as other proposed sanctuary-location candidates; rejected conservatively."
+    },
+    {
+      "id": 9017,
+      "reason": "Near-duplicate district-location recall pattern; high similarity to existing Meghalaya location questions."
+    },
+    {
+      "id": 9021,
+      "reason": "Same bird-range recall objective as proposed Tawny-breasted Wren Babbler question; retained only one species-range item."
+    },
+    {
+      "id": 9033,
+      "reason": "Duplicates the existing GST TDS contract-threshold concept in active question 7221."
+    },
+    {
+      "id": 9035,
+      "reason": "Duplicates the existing GST TCS net-value concept in active question 7234."
+    },
+    {
+      "id": 9043,
+      "reason": "Near-duplicate of the proposed basement/overlying-unit geology questions 9041 and 9042."
+    }
+  ],
+  "acceptedQuestionIds": [
+    9001,
+    9002,
+    9003,
+    9004,
+    9005,
+    9006,
+    9007,
+    9008,
+    9009,
+    9010,
+    9011,
+    9012,
+    9014,
+    9018,
+    9019,
+    9020,
+    9022,
+    9023,
+    9024,
+    9025,
+    9026,
+    9027,
+    9028,
+    9029,
+    9030,
+    9031,
+    9032,
+    9034,
+    9036,
+    9037,
+    9038,
+    9039,
+    9040,
+    9041,
+    9042,
+    9044,
+    9045,
+    9046,
+    9047,
+    9048,
+    9049,
+    9050
+  ],
+  "subjects": {
+    "Polity": 10,
+    "Meghalaya GK": 7,
+    "Computer": 11,
+    "GST / Inspector of Taxes": 5,
+    "Geography": 7,
+    "Environment": 1,
+    "General Science": 1
+  },
+  "examTracks": [
+    "MPSC Inspector of Taxes",
+    "DSC East Khasi Hills LDA-cum-Typist",
+    "MPSC Secretariat LDA"
+  ],
+  "sourcesVerified": [
+    "Legislative Department—Constitution of India, Sixth Schedule",
+    "Government of Meghalaya—District Council Affairs Department",
+    "Meghalaya Biodiversity Board—Protected Areas and Important Bird Areas",
+    "CERT-In—Directions under Section 70B and official FAQ",
+    "CBIC—CGST Act, Section 51",
+    "National E-Way Bill System—official FAQ, release notes and validation PDF",
+    "Geological Survey of India—North Eastern Region Briefing Book",
+    "Government of Meghalaya—Shillong profile, Mawjymbuin Cave"
+  ],
+  "copyrightAndPrivacy": "All 42 questions are newly authored original practice items. No uploaded PDFs, official PYQ stems/options, private files or personal data were published. Official PYQ comparison fingerprints are hashes only.",
+  "validation": {
+    "schema": "passed",
+    "ids": "42 unique IDs",
+    "explanations": "all 42 explanations >=120 characters",
+    "sources": "42 HTTPS source links",
+    "archiveParity": "verified by updated repository test",
+    "githubActions": "pending",
+    "mobileUsability": "existing responsive layout preserved; not independently visual-tested"
+  },
+  "repository": {
+    "visibility": "public",
+    "branch": "daily/original-practice-2026-11-18",
+    "baseMainSha": "eccde30fa6fb804beee79c14e55b2c61a77af4c0",
+    "mergeStatus": "pending"
+  },
+  "deployment": {
+    "verified": false,
+    "status": "not independently verified"
+  }
+}
