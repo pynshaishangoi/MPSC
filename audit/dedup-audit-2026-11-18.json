@@ -5,7 +5,7 @@
   "startingActiveQuestions": 881,
   "draftedCandidates": 50,
   "validatedUniqueQuestions": 42,
-  "mergedQuestions": 0,
+  "mergedQuestions": 42,
   "projectedActiveUniqueQuestions": 923,
   "fullDedupScan": {
     "activeEmbeddedQuestions": 881,
@@ -137,17 +137,45 @@
     "explanations": "all 42 explanations >=120 characters",
     "sources": "42 HTTPS source links",
     "archiveParity": "verified by updated repository test",
-    "githubActions": "pending",
-    "mobileUsability": "existing responsive layout preserved; not independently visual-tested"
+    "githubActions": "passed",
+    "mobileUsability": "existing responsive layout preserved; not independently visual-tested",
+    "githubActionsRun": 44233287087,
+    "githubActionsUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44233287087"
   },
   "repository": {
     "visibility": "public",
-    "branch": "daily/original-practice-2026-11-18",
+    "branch": "main",
     "baseMainSha": "eccde30fa6fb804beee79c14e55b2c61a77af4c0",
-    "mergeStatus": "pending"
+    "mergeStatus": "merged",
+    "sourceBranch": "daily/original-practice-2026-11-18",
+    "pullRequest": 104,
+    "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/104",
+    "mergeCommitSha": "5ced94c1c213357aa17a7af1b576ca2d515267e4",
+    "mainShaAtCompletion": "5ced94c1c213357aa17a7af1b576ca2d515267e4"
   },
   "deployment": {
     "verified": false,
-    "status": "not independently verified"
+    "status": "not independently verified from the live GitHub Pages URL"
+  },
+  "activeUniqueQuestionsAfterMerge": 923,
+  "postMergeAudit": {
+    "canonicalEmbeddedQuestions": 923,
+    "canonicalUniqueIds": 923,
+    "archiveFiles": 16,
+    "archiveQuestions": 331,
+    "archiveIdsUnique": true,
+    "archiveMatchesCanonicalEmbeddedQ": true,
+    "runtimeArchiveFetchDependency": false,
+    "dashboardCountDerivedFromQLength": true,
+    "serviceWorkerCacheVersion": "mpsc-smart-study-v5-52-20261118"
+  },
+  "rampDecision": {
+    "previousTarget": 50,
+    "validatedAndMerged": 42,
+    "targetAchievement": 0.84,
+    "increaseThreshold": 0.9,
+    "nextTarget": 50,
+    "decision": "hold",
+    "reason": "42/50 is 84%, below the 90% ramp threshold; all quality, dedup, source, repository and merge checks passed, but the target-achievement gate did not."
   }
 }
