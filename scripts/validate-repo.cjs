@@ -196,7 +196,7 @@ if (!sw.includes('./question-batches/2026-11-02-lda-pyq.json') || !sw.includes('
 if (!sw.includes('./question-batches/2026-11-03-polity.json') || !sw.includes('./explanations/polity.json') || !sw.includes('./explanations/general-studies.json') || !sw.includes('./explanations/gst.json') || !sw.includes('./explanations/current-affairs.json') || !sw.includes('./explanations/english.json') || !sw.includes('./explanations/arithmetic.json') || !sw.includes('./explanations/meghalaya-gk.json')) fail('service worker does not precache all detailed explanation libraries');
 const detailUrlsMatch = script.match(/const detailUrls=\[([\s\S]*?)\];/);
 if (!detailUrlsMatch) fail('could not locate optional detailed explanation URL list');
-const detailUrls = [...detailUrlsMatch[1].matchAll(/'([^']+\\.json)'/g)].map(match=>match[1]);
+const detailUrls = [...detailUrlsMatch[1].matchAll(/'([^']+\.json)'/g)].map(match=>match[1]);
 const requiredDetailUrls = ['./explanations/history.json','./explanations/polity.json','./explanations/general-studies.json','./explanations/gst.json','./explanations/current-affairs.json','./explanations/english.json','./explanations/arithmetic.json','./explanations/meghalaya-gk.json'];
 if (requiredDetailUrls.some(url=>!detailUrls.includes(url)) || !script.includes('Promise.allSettled(detailUrls.map') || !script.includes('Q.length.toLocaleString()') || !script.includes('Question bank ready:')) fail('optional explanation libraries must load independently without blocking the embedded question bank');
 for (const file of ['manifest.json', ...walkJson('question-batches'), ...walkJson('current-affairs'), ...walkJson('audit'), ...walkJson('data'), ...walkJson('explanations')]) jsonFile(file);
