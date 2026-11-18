@@ -32,42 +32,55 @@ let embedded;
 try { embedded = JSON.parse(qMatch[1]); }
 catch (error) { fail('embedded question array is not valid JSON: ' + error.message); }
 
-const loaderStart = script.indexOf('Promise.all([');
-const loaderEnd = script.indexOf('].map(function(u)', loaderStart);
-if (loaderStart < 0 || loaderEnd < 0) fail('could not locate additive question-batch loader');
-const loaderText = script.slice(loaderStart, loaderEnd);
-const batchFiles = [...loaderText.matchAll(/'\.\/question-batches\/([^']+\.json)'/g)].map(match => match[1]);
-if (!batchFiles.length) fail('question-batch loader has no files');
-
 const sw = fs.readFileSync('sw.js', 'utf8');
 const cacheVersion = (sw.match(/const CACHE="([^"]+)"/) || [])[1];
 if (!cacheVersion || !/^mpsc-smart-study-v5-\d+-\d{8}$/.test(cacheVersion)) fail('service-worker cache version is missing or malformed');
+const qCountMarkup = html.match(/id=["']qCount["'][^>]*>([^<]*)</);
+if (!qCountMarkup || /^\d+$/.test(qCountMarkup[1].trim())) fail('dashboard question count must not be hardcoded');
+if (!/qCount[^;]*Q\.length/.test(script)) fail('dashboard count must be derived from Q.length');
+if (/fetch\(['"]\.\/question-batches\//.test(script)) fail('runtime question visibility must not depend on fetching question-batch archives');
 
+const batchFiles = walkJson('question-batches').map(file => path.basename(file)).sort();
 const active = [...embedded];
 const idSet = new Set();
+const embeddedById = new Map();
 for (const question of embedded) {
   const id = String(question.id);
   if (idSet.has(id)) fail('duplicate embedded question ID ' + id);
   idSet.add(id);
+  embeddedById.set(id, question);
 }
+function stable(value) {
+  if (Array.isArray(value)) return value.map(stable);
+  if (value && typeof value === 'object') return Object.fromEntries(Object.keys(value).sort().map(key => [key, stable(value[key])]));
+  return value;
+}
+const archiveIdSet = new Set();
+let archiveCount = 0;
 for (const name of batchFiles) {
   const file = path.join('question-batches', name);
-  if (!fs.existsSync(file)) fail('loader references missing file ' + file);
-  if (!sw.includes('./question-batches/' + name)) fail('service worker does not precache ' + name);
+  if (!sw.includes('./question-batches/' + name)) fail('service worker does not precache archive ' + name);
   const batch = jsonFile(file);
   if (!Array.isArray(batch.questions) || batch.questionCount !== batch.questions.length) fail(name + ' questionCount does not match its records');
   if (batch.subjects && Object.values(batch.subjects).reduce((sum, value) => sum + value, 0) !== batch.questions.length) fail(name + ' subject totals do not match its records');
   for (const question of batch.questions) {
     const id = String(question.id);
-    if (idSet.has(id)) fail('duplicate active question ID ' + id + ' in ' + name);
-    idSet.add(id);
-    active.push(question);
+    if (archiveIdSet.has(id)) fail('duplicate ID across question-batch archives: ' + id);
+    archiveIdSet.add(id);
+    const live = embeddedById.get(id);
+    if (!live) fail('archive question ' + id + ' is missing from canonical embedded Q');
+    if (JSON.stringify(stable(live)) !== JSON.stringify(stable(question))) fail('archive record does not exactly match embedded Q for ID ' + id);
   }
+  archiveCount += batch.questions.length;
 }
+if (embedded.length !== 923) fail('canonical embedded Q must contain 923 questions');
+if (batchFiles.length !== 16 || archiveIdSet.size !== 331 || archiveCount !== 331) fail('all 16 question-batch archives must contain 331 unique mirrored records');
 for (const question of active) {
   if (!question.q || !Array.isArray(question.o) || question.o.length !== 4) fail('question ' + question.id + ' must have a prompt and exactly four options');
   if (!Number.isInteger(question.a) || question.a < 0 || question.a >= question.o.length) fail('question ' + question.id + ' has an invalid answer index');
+  if (!question.e) fail('question ' + question.id + ' is missing its inline explanation');
 }
+
 const newBatch = jsonFile('question-batches/2026-11-01.json');
 if (newBatch.questions.length !== 8 || newBatch.questionIdRange !== '6241-6248') fail('1 November practice batch count or ID range is incorrect');
 for (const question of newBatch.questions) {
@@ -102,15 +115,15 @@ if (gkBatch.questions.length !== 16 || gkBatch.questionIdRange !== '7101-7116' |
 for (const question of gkBatch.questions) {
   if (!question.e || question.e.length < 120 || !question.source || !question.sourceURL || !question.sourceURL.startsWith('https://') || !question.verificationStatus || question.difficulty === 'PYQ') fail('GKToday-inspired question ' + question.id + ' needs a substantial explanation, source and non-PYQ verification label');
 }
-if (!script.includes("2026-11-03-gktoday-gs.json") || !sw.includes('./question-batches/2026-11-03-gktoday-gs.json')) fail('GKToday-inspired GS batch is not loaded and precached');
+if (!sw.includes('./question-batches/2026-11-03-gktoday-gs.json')) fail('service worker does not precache GKToday-inspired GS archive');
 const expansionBatch = jsonFile('question-batches/2026-11-14-subject-expansion.json');
 if (expansionBatch.questions.length !== 12 || expansionBatch.questionIdRange !== '7201-7212' || Object.values(expansionBatch.subjects).reduce((sum,value)=>sum+value,0)!==12) fail('14 November subject expansion batch count, ID range or subject totals are incorrect');
 for (const question of expansionBatch.questions) if (!question.e || question.e.length < 120 || !question.sourceURL || !question.verificationStatus || question.difficulty === 'PYQ') fail('14 November practice question needs a substantial explanation, source and non-PYQ label');
-if (!script.includes('2026-11-14-subject-expansion.json') || !sw.includes('./question-batches/2026-11-14-subject-expansion.json')) fail('14 November subject expansion batch is not loaded and precached');
+if (!sw.includes('./question-batches/2026-11-14-subject-expansion.json')) fail('service worker does not precache 14 November subject expansion archive');
 const currentBatch = jsonFile('question-batches/2026-11-04-current-affairs.json');
 if (currentBatch.questions.length !== 6 || currentBatch.questions.map(q=>q.id).join(',') !== '7137,7138,7139,7140,7141,7142') fail('4 November current-affairs batch count or ID range is incorrect');
 for (const question of currentBatch.questions) if (!question.e || question.e.length < 100 || !question.sourceURL || !question.verificationStatus || question.difficulty === 'PYQ') fail('current-affairs practice question ' + question.id + ' needs explanation, source and non-PYQ label');
-if (!script.includes("2026-11-04-current-affairs.json") || !sw.includes('./question-batches/2026-11-04-current-affairs.json')) fail('4 November current-affairs batch is not loaded and precached');
+if (!sw.includes('./question-batches/2026-11-04-current-affairs.json')) fail('service worker does not precache 4 November current-affairs archive');
 if (!script.includes('x.sourceURL||x.sourceUrl')) fail('question source links are not rendered in explanations');
 
 const taxBatch = jsonFile('question-batches/2026-11-15-inspector-tax-technical.json');
@@ -125,7 +138,21 @@ if (expansionBatch16.questions.length !== 33 || expansionBatch16.questionIdRange
 for (const question of expansionBatch16.questions) {
   if (!question.topic || !question.exam || !Array.isArray(question.examTags) || question.examTags.length !== 2 || !question.e || question.e.length < 120 || !question.source || !question.source.includes('not an official PYQ') || question.label !== 'Original Practice' || !question.sourceURL || !question.sourceURL.startsWith('https://') || !question.verificationStatus || !question.verificationStatus.includes('2026-11-16') || question.difficulty === 'PYQ') fail('16 November practice question ' + question.id + ' needs a distinct topic, exam tags, teaching explanation, source and Original Practice label');
 }
-if (!script.includes('2026-11-16-original-practice.json') || !sw.includes('./question-batches/2026-11-16-original-practice.json')) fail('16 November original-practice batch is not loaded and precached');
+if (!sw.includes('./question-batches/2026-11-16-original-practice.json')) fail('service worker does not precache 16 November original-practice archive');
+const expansionBatch18 = jsonFile('question-batches/2026-11-18-original-practice.json');
+if (expansionBatch18.questions.length !== 42 || expansionBatch18.questionIdRange !== '9001-9050' || Object.values(expansionBatch18.subjects).reduce((sum,value)=>sum+value,0)!==42) fail('18 November original-practice batch count, ID range or subject totals are incorrect');
+for (const question of expansionBatch18.questions) {
+  if (!question.topic || !question.exam || !Array.isArray(question.examTags) || question.examTags.length !== 2 || !question.e || question.e.length < 120 || !question.source || !question.source.includes('not an official PYQ') || question.label !== 'Original Practice' || !question.sourceURL || !question.sourceURL.startsWith('https://') || !question.sourceVerifiedDate || question.sourceVerifiedDate !== '2026-11-18' || !question.verificationStatus || !question.verificationStatus.includes('2026-11-18') || question.difficulty === 'PYQ' || question.answerIndex !== question.a) fail('18 November question ' + question.id + ' needs topic/exam tags, explanation, source, date and Original Practice label');
+}
+if (!sw.includes('./question-batches/2026-11-18-original-practice.json')) fail('service worker does not precache 18 November original-practice archive');
+const dedupIndex18 = jsonFile('audit/dedup-index-2026-11-18.json');
+if (dedupIndex18.schemaVersion !== 3 || dedupIndex18.canonical.questionCount !== 923 || dedupIndex18.canonical.activeFingerprints.length !== 923 || dedupIndex18.officialPyq.questionCount !== 2433 || !dedupIndex18.officialPyq.fingerprints || dedupIndex18.archive.fileCount !== 16 || dedupIndex18.archive.questionCount !== 331) fail('18 November compact dedup index totals are incorrect');
+if (new Set(dedupIndex18.canonical.activeFingerprints.map(record=>record.i)).size !== 923 || dedupIndex18.canonical.activeFingerprints.some(record=>!record.s || !record.o || !record.k)) fail('18 November active dedup index has duplicate IDs or missing fingerprints');
+const dedupAudit18 = jsonFile('audit/dedup-audit-2026-11-18.json');
+if (dedupAudit18.target !== 50 || dedupAudit18.draftedCandidates !== 50 || dedupAudit18.validatedUniqueQuestions !== 42 || dedupAudit18.collisions.candidateExactStemCollisions !== 0 || dedupAudit18.collisions.unresolvedSemanticCollisions !== 0 || dedupAudit18.rejectedCandidates.length !== 8) fail('18 November candidate/dedup audit totals are incorrect');
+const rampTracker = jsonFile('audit/campaign-tracker.json');
+if (rampTracker.currentDailyTarget !== 50 || rampTracker.nextDailyTarget !== 50 || rampTracker.latestRun.validatedQuestions !== 42 || rampTracker.latestRun.targetGatePassed !== false) fail('18 November ramp tracker must hold the next target at 50 after an 84% run');
+
 const dedupIndex16 = jsonFile('audit/dedup-index-2026-11-16.json');
 if (dedupIndex16.schemaVersion !== 2 || dedupIndex16.questionCount !== 881 || dedupIndex16.records.length !== 881 || dedupIndex16.candidateBatchQuestionCount !== 33) fail('16 November deduplication index totals are incorrect');
 if (new Set(dedupIndex16.records.map(record=>record.id)).size !== 881 || dedupIndex16.records.some(record=>!record.stemHash || !record.optionsHash || !record.conceptFingerprint)) fail('16 November deduplication index has duplicate IDs or missing fingerprints');
@@ -145,11 +172,9 @@ for (let number = 1; number <= 91; number++) {
 }
 if (!paperQuestions.find(q=>q.paperNo===27).o[3].includes('why IS she sketching')) fail('Q27 source/key anomaly must remain visible');
 if (!paperQuestions.find(q=>q.paperNo===30).verificationStatus.includes('unusual reporting verb')) fail('Q30 official-key anomaly must remain flagged');
-if (active.length !== 881 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
-if (batchFiles.length !== 15) fail('expected exactly 15 loaded question batches');
-const orphanBatchFiles = walkJson('question-batches').map(file => path.basename(file)).filter(name => !batchFiles.includes(name));
-if (orphanBatchFiles.length) fail('orphaned question-batch files are not loaded: ' + orphanBatchFiles.join(', '));
-const expectedSubjectCounts = {"Aptitude":32,"Arithmetic":161,"Art & Culture":1,"Books & Authors":1,"Computer":15,"Current Affairs":44,"Economy":50,"English":148,"Environment":32,"General Science":10,"Geography":47,"GST / Inspector of Taxes":38,"History":52,"International Organisations":1,"Meghalaya GK":62,"Officer Technical":17,"Polity":83,"Reasoning":36,"Science":48,"Static GK":3};
+if (active.length !== 923 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
+if (batchFiles.length !== 16) fail('expected exactly 16 archived question batches');
+const expectedSubjectCounts = {"Aptitude":32,"Arithmetic":161,"Art & Culture":1,"Books & Authors":1,"Computer":26,"Current Affairs":44,"Economy":50,"English":148,"Environment":33,"General Science":11,"Geography":54,"GST / Inspector of Taxes":43,"History":52,"International Organisations":1,"Meghalaya GK":69,"Officer Technical":17,"Polity":93,"Reasoning":36,"Science":48,"Static GK":3};
 const actualSubjectCounts = {};
 for (const question of active) {
   const subject = question.cat.replace(/ • PYQ$/, '');
@@ -175,8 +200,11 @@ const historyLibrary = jsonFile('explanations/history.json');
 const polityLibrary = jsonFile('explanations/polity.json');
 const historyIds = active.filter(q => /^History/.test(q.cat)).map(q => String(q.id));
 const polityIds = active.filter(q => /^Polity/.test(q.cat)).map(q => String(q.id));
-if (Object.keys(historyLibrary.explanations || {}).length !== historyIds.length || historyIds.some(id => !historyLibrary.explanations[id])) fail('History explanations do not cover every active History question ID');
-if (Object.keys(polityLibrary.explanations || {}).length !== polityIds.length || polityIds.some(id => !polityLibrary.explanations[id])) fail('Polity explanations do not cover every active Polity question ID');
+const activeIdSet = new Set(active.map(q => String(q.id)));
+for (const [name, library] of [['History', historyLibrary], ['Polity', polityLibrary]]) {
+  for (const id of Object.keys(library.explanations || {})) if (!activeIdSet.has(id)) fail(name + ' explanation library contains inactive question ID ' + id);
+}
+if (historyIds.some(id => !active.some(q => String(q.id) === id && q.e)) || polityIds.some(id => !active.some(q => String(q.id) === id && q.e))) fail('History and Polity questions must retain inline explanations; optional libraries do not block question visibility');
 const gsLibrary = jsonFile('explanations/general-studies.json');
 const gstLibrary = jsonFile('explanations/gst.json');
 const caLibrary = jsonFile('explanations/current-affairs.json');
@@ -193,7 +221,7 @@ for (const [name,library,ids] of [['General Studies',gsLibrary,gsIds],['GST',gst
   if (Object.keys(library.explanations || {}).length !== ids.length || ids.some(id => !library.explanations[id])) fail(name + ' explanation library does not cover its audited question IDs');
 }
 const allStructured = new Set([...Object.keys(historyLibrary.explanations),...Object.keys(polityLibrary.explanations),...Object.keys(gsLibrary.explanations),...Object.keys(gstLibrary.explanations),...Object.keys(caLibrary.explanations),...Object.keys(englishLibrary.explanations),...Object.keys(arithmeticLibrary.explanations),...Object.keys(meghalayaLibrary.explanations)]);
-if (allStructured.size !== 219) fail('structured explanation total must be 211 unique active IDs');
+if (allStructured.size !== 219) fail('structured explanation total must be 219 unique active IDs');
 if (arithmeticLibrary.questionCount !== 11 || arithmeticIds.some(id=>!active.some(q=>String(q.id)===id&&q.cat==='Arithmetic'))) fail('Arithmetic library must cover the 11 selected active Arithmetic IDs');
 for (const id of arithmeticIds) { const d=arithmeticLibrary.explanations[id]; if (!d.formula || !d.steps || !d.check || !d.commonMistakes || !Array.isArray(d.references) || !d.references.length || d.references.some(r=>!r.label || !r.url || !r.url.startsWith('https://'))) fail('Arithmetic explanation '+id+' is missing a formula, worked steps, check, common-mistake note or valid HTTPS reference'); }
 if (englishLibrary.questionCount !== 20 || englishIds.some(id=>!active.some(q=>String(q.id)===id&&/^English/.test(q.cat)))) fail('English explanation library must cover the 20 selected active English question IDs');
@@ -262,7 +290,7 @@ if (!html.includes('Predicted Mock — original practice questions only')) fail(
 
 console.log('Validation passed.');
 console.log('Embedded questions: ' + embedded.length);
-console.log('Loaded batches: ' + batchFiles.length + ' (' + batchFiles.join(', ') + ')');
+console.log('Archived batches: ' + batchFiles.length + ' files / ' + archiveCount + ' mirrored questions (not runtime-loaded)');
 console.log('Active unique question records: ' + active.length);
 console.log('PYQ-tagged active records: ' + active.filter(q => q.difficulty === 'PYQ').length + ' (not complete papers)');
 console.log('LDA Secretariat Series I: ' + paperQuestions.length + '/150 transcribed and key-checked; 59 remain');
