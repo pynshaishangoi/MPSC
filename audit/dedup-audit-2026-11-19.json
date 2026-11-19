@@ -218,7 +218,7 @@
       "runId": 44456418682,
       "note": "The repository validator passed, including embedded/archive parity, unique IDs, four-option/answer-index schema, subject totals, offline loader and service-worker JavaScript syntax."
     },
-    "deployment": "not independently verified; Pages workflow run 44456418230 was still in progress when the post-merge audit was prepared"
+    "deployment": "GitHub Pages deployment workflow succeeded (run 44456418230), but the live URL could not be independently fetched to confirm the build marker; deployment remains unverified."
   },
   "repository": {
     "visibility": "public",
@@ -243,8 +243,9 @@
     "verified": false,
     "status": "not independently verified from the live GitHub Pages URL",
     "pagesWorkflowRunId": 44456418230,
-    "pagesWorkflowStatus": "in_progress",
-    "buildMarker": "2026-11-19-original-practice-50"
+    "pagesWorkflowStatus": "success",
+    "buildMarker": "2026-11-19-original-practice-50",
+    "pagesWorkflowUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44456418230"
   },
   "activeUniqueQuestionsAfterMerge": 973,
   "postMergeAudit": true,
