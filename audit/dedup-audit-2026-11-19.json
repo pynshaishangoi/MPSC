@@ -212,7 +212,8 @@
       "status": "pending"
     },
     "repositoryTests": {
-      "status": "pending"
+      "status": "pending",
+      "note": "PR validation is being rerun after service-worker syntax correction."
     },
     "deployment": "not independently verified"
   },
@@ -249,5 +250,6 @@
     "increaseBy20EligibleAfterMerge": true,
     "mergeGatePassed": false,
     "deploymentGatePassed": false
-  }
+  },
+  "mergeStatus": "pending"
 }
