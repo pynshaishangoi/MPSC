@@ -5,7 +5,7 @@
   "startingActiveQuestions": 923,
   "draftedCandidates": 62,
   "validatedUniqueQuestions": 50,
-  "mergedQuestions": 0,
+  "mergedQuestions": 50,
   "projectedActiveUniqueQuestions": 973,
   "fullDedupScan": {
     "activeQuestions": 923,
@@ -209,13 +209,16 @@
       "originalPracticeLabels": 50
     },
     "githubActions": {
-      "status": "pending"
+      "status": "success",
+      "runId": 44456418682,
+      "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/44456418682"
     },
     "repositoryTests": {
-      "status": "pending",
-      "note": "PR validation is being rerun after service-worker syntax correction."
+      "status": "success",
+      "runId": 44456418682,
+      "note": "The repository validator passed, including embedded/archive parity, unique IDs, four-option/answer-index schema, subject totals, offline loader and service-worker JavaScript syntax."
     },
-    "deployment": "not independently verified"
+    "deployment": "not independently verified; Pages workflow run 44456418230 was still in progress when the post-merge audit was prepared"
   },
   "repository": {
     "visibility": "public",
@@ -228,14 +231,23 @@
     "loader": "canonical Q embedded in index.html",
     "dashboardCount": "derived from Q.length",
     "serviceWorkerCache": "mpsc-smart-study-v5-53-20261119",
-    "newArchivePrecached": true
+    "newArchivePrecached": true,
+    "mainShaAfter": "0023cc226bd58dbdb271fa3b38bdb16c5e75c561",
+    "canonicalCountAfter": 973,
+    "archiveFilesAfter": 17,
+    "archiveRecordsAfter": 381,
+    "pullRequest": 106,
+    "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/106"
   },
   "deployment": {
     "verified": false,
-    "status": "not independently verified from the live GitHub Pages URL"
+    "status": "not independently verified from the live GitHub Pages URL",
+    "pagesWorkflowRunId": 44456418230,
+    "pagesWorkflowStatus": "in_progress",
+    "buildMarker": "2026-11-19-original-practice-50"
   },
-  "activeUniqueQuestionsAfterMerge": null,
-  "postMergeAudit": false,
+  "activeUniqueQuestionsAfterMerge": 973,
+  "postMergeAudit": true,
   "rampDecision": {
     "previousRunDate": "2026-11-18",
     "previousTarget": 50,
@@ -246,10 +258,11 @@
     "todayValidated": 50,
     "todayPassRate": 1,
     "proposedNextTargetAfterAllGates": 70,
-    "nextDailyTargetUntilMergeAndLiveCheck": 50,
+    "nextDailyTargetUntilMergeAndLiveCheck": 70,
     "increaseBy20EligibleAfterMerge": true,
-    "mergeGatePassed": false,
-    "deploymentGatePassed": false
+    "mergeGatePassed": true,
+    "deploymentGatePassed": false,
+    "nextDailyTarget": 70
   },
-  "mergeStatus": "pending"
+  "mergeStatus": "merged"
 }
