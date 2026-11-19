@@ -1,0 +1,1678 @@
+{
+  "schemaVersion": 1,
+  "batchId": "original-practice-2026-11-19",
+  "date": "2026-11-19",
+  "title": "Original Practice Expansion — 19 November 2026",
+  "questionCount": 50,
+  "questionIdRange": "9051-9100",
+  "subjects": {
+    "History": 5,
+    "Economy": 6,
+    "Science": 7,
+    "Environment": 5,
+    "Reasoning": 8,
+    "English": 6,
+    "Arithmetic": 6,
+    "Geography": 2,
+    "Computer": 2,
+    "Current Affairs": 3
+  },
+  "candidateCount": 62,
+  "rejectedCandidates": 12,
+  "qualityNote": "62 candidate drafts were reviewed; 12 were rejected or superseded for concept/near-duplicate, option-set or overly coupled topic overlap. The 50 retained records passed schema, answer, explanation, source and final full-bank exact/option-insensitive/semantic checks. Every record is Original Practice, not an official PYQ.",
+  "questions": [
+    {
+      "id": 9051,
+      "cat": "History",
+      "topic": "Sangam Age — Muvendar",
+      "q": "In early Tamil sources, which three dynasties were collectively called the Muvendar?",
+      "o": [
+        "Pallavas, Chalukyas and Rashtrakutas",
+        "Cholas, Cheras and Pandyas",
+        "Guptas, Mauryas and Kushanas",
+        "Satavahanas, Vakatakas and Hoysalas"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Muvendar refers to the three crowned kings of early Tamilakam: the Cholas, Cheras and Pandyas. Sangam poems and related early Tamil sources describe their territories, rivalries and patronage; the term does not refer to later northern dynasties.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Sangam Age — Muvendar",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Kerala SCERT, Standard VI Social Science Part II — Sangam Age.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Kerala SCERT, Standard VI Social Science Part II — Sangam Age",
+      "sourceURL": "https://samagra.kite.kerala.gov.in/files/samagra-resource/uploads2/tbookscmq/eng/6/15/Social%20Science-2_1760783194840_392074302.pdf",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9052,
+      "cat": "History",
+      "topic": "Chola Administration — Kudavolai",
+      "q": "What did the Kudavolai method in Chola village administration refer to?",
+      "o": [
+        "A hereditary system for appointing the village headman",
+        "A land-revenue assessment based on crop rotation",
+        "A ballot-based method used to select members of village committees",
+        "A military levy collected from coastal merchants"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Kudavolai is associated with Chola-period village self-government and the selection of committee members through a ballot or ticket procedure. It illustrates local administration; it was not a hereditary appointment, a land tax or a military levy.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Chola Administration — Kudavolai",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Tamil Nadu Rural Development and Panchayat Raj Department — village self-government reference.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Tamil Nadu Rural Development and Panchayat Raj Department — village self-government reference",
+      "sourceURL": "https://tnrd.tn.gov.in/rdweb_newsite/project/reports/Public/public_page_table_content_getpdf.php?pdf_download_id=MTQ5",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9053,
+      "cat": "History",
+      "topic": "Vijayanagara — Amara-Nayaka System",
+      "q": "In the Vijayanagara Empire, what was the main obligation of an amara-nayaka who received an amaram territory?",
+      "o": [
+        "Maintain troops and remit dues while administering the assigned territory",
+        "Serve only as a temple priest",
+        "Collect customs duty exclusively at seaports",
+        "Act as the emperor's ambassador to foreign courts"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Amara-nayakas were military chiefs who held assigned territories called amaram. They collected revenue, maintained troops and fulfilled obligations to the Vijayanagara ruler; the position combined territorial administration with military service.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "History",
+        "Vijayanagara — Amara-Nayaka System",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT, Themes in Indian History II — Vijayanagara chapter.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT, Themes in Indian History II — Vijayanagara chapter",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9054,
+      "cat": "History",
+      "topic": "Ahom Polity — Paik System",
+      "q": "Which description best captures a paik in the Ahom kingdom?",
+      "o": [
+        "A hereditary temple accountant exempt from state duties",
+        "A foreign merchant who paid customs but no land dues",
+        "A cavalry commander paid only in cash",
+        "An adult male liable for compulsory civil and military service, often serving as peasant, soldier or labourer"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "Under the Ahom paik system, adult male subjects were organised for compulsory service to the state. A paik could be mobilised for labour or military duty, linking the kingdom's manpower organisation with its administration and defence.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Ahom Polity — Paik System",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Archaeological Survey of India, Guwahati Circle — The Military System of the Ahoms.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Archaeological Survey of India, Guwahati Circle — The Military System of the Ahoms",
+      "sourceURL": "https://asiguwahaticircle.gov.in/publication/The%20Military%20System%20of%20Ahoms.pdf",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9055,
+      "cat": "History",
+      "topic": "Bhakti and Sufi Traditions — Khanqah",
+      "q": "What was a khanqah in the medieval Sufi tradition?",
+      "o": [
+        "A fortified royal treasury",
+        "A tax office attached to a market",
+        "A hospice or centre where a Sufi master and disciples lived and met",
+        "A military camp used by cavalry"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "A khanqah was a Sufi hospice or residential centre associated with a spiritual master and disciples. It provided a setting for instruction, devotional gatherings and community life; it was not a treasury, tax office or army camp.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Bhakti and Sufi Traditions — Khanqah",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT, Our Pasts II — devotional and Sufi traditions chapter.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT, Our Pasts II — devotional and Sufi traditions chapter",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9056,
+      "cat": "Economy",
+      "topic": "Banking — CRR and SLR",
+      "q": "Which statement correctly distinguishes the Cash Reserve Ratio (CRR) from the Statutory Liquidity Ratio (SLR)?",
+      "o": [
+        "CRR is held only in gold; SLR is held only as cash with RBI",
+        "CRR is maintained as cash balances with RBI; SLR is maintained in specified liquid assets",
+        "Both are deposits that banks place with the Finance Ministry",
+        "CRR applies to borrowers; SLR applies only to exporters"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "CRR is the prescribed share of a bank's net demand and time liabilities maintained as a cash balance with the Reserve Bank. SLR is maintained by the bank itself in prescribed liquid assets such as cash, gold and eligible securities, so the two requirements are not interchangeable.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Economy",
+        "Banking — CRR and SLR",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — Cash Reserve Ratio and Statutory Liquidity Ratio directions.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Reserve Bank of India — Cash Reserve Ratio and Statutory Liquidity Ratio directions",
+      "sourceURL": "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13160",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9057,
+      "cat": "Economy",
+      "topic": "Monetary Policy — Open Market Operations",
+      "q": "When the RBI purchases government securities outright through an open-market operation, what is the immediate liquidity effect on the banking system?",
+      "o": [
+        "Liquidity is absorbed from the banking system",
+        "The money supply is automatically reduced to zero",
+        "The transaction has no effect on banking-system liquidity",
+        "Liquidity is injected into the banking system"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "An outright RBI purchase of government securities pays funds into the banking system and increases reserves or liquidity. A sale has the opposite direction and absorbs funds. The question asks about a purchase, so the immediate effect is an injection.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Monetary Policy — Open Market Operations",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — Monetary Policy Instruments and liquidity management.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Reserve Bank of India — Monetary Policy Instruments and liquidity management",
+      "sourceURL": "https://www.rbi.org.in/Scripts/FS_Overview.aspx?fn=2752",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9058,
+      "cat": "Economy",
+      "topic": "Monetary Policy — Standing Deposit Facility",
+      "q": "In the RBI's liquidity framework, the Standing Deposit Facility (SDF) primarily allows the Reserve Bank to:",
+      "o": [
+        "Absorb overnight liquidity from eligible participants without providing collateral",
+        "Lend long-term project finance directly to companies",
+        "Guarantee deposits held by cooperative societies",
+        "Purchase foreign currency only from exporters"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The SDF is a collateral-free facility through which eligible participants can place overnight funds with the RBI. It helps the Reserve Bank absorb surplus liquidity and operates as the floor of the liquidity adjustment facility corridor.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Monetary Policy — Standing Deposit Facility",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — Monetary Policy Instruments and liquidity management.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Reserve Bank of India — Monetary Policy Instruments and liquidity management",
+      "sourceURL": "https://www.rbi.org.in/Scripts/FS_Overview.aspx?fn=2752",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9059,
+      "cat": "Economy",
+      "topic": "Money Supply — M1 Narrow Money",
+      "q": "In India's monetary statistics, which combination constitutes M1, or narrow money?",
+      "o": [
+        "Currency with the public + all time deposits with banks + post-office term deposits",
+        "Only notes and coins held by the public",
+        "Currency with the public + demand deposits with the banking system + other deposits with RBI",
+        "Currency in circulation + banks' cash balances + government securities"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "M1 is the narrow-money measure: currency with the public, demand deposits with the banking system and other deposits with the RBI. Time deposits with banks are added when calculating M3, so they are not part of M1.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Economy",
+        "Money Supply — M1 Narrow Money",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — Monetary Aggregates, M1 and M3 definitions.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Reserve Bank of India — Monetary Aggregates, M1 and M3 definitions",
+      "sourceURL": "https://www.rbi.org.in/scripts/PublicationsView.aspx?Id=24095",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9060,
+      "cat": "Economy",
+      "topic": "Financial Inclusion — Self-Help Groups",
+      "q": "In the Self-Help Group (SHG)-bank linkage model, which feature helps members who may not individually possess conventional collateral obtain formal credit?",
+      "o": [
+        "A government guarantee of every member's private debt",
+        "Regular group savings and collective responsibility for deciding and repaying loans",
+        "A requirement that every member own agricultural land",
+        "A rule that banks lend only to the group leader"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "SHG members save regularly into a common fund and decide loans collectively. Group records, peer monitoring and shared repayment responsibility help banks assess the group and can widen access to formal credit for members who lack individual collateral.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Financial Inclusion — Self-Help Groups",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT Class X Economics — Money and Credit chapter.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Class X Economics — Money and Credit chapter",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9061,
+      "cat": "Economy",
+      "topic": "Banking Ratios — Credit-Deposit Ratio",
+      "q": "A bank reports total credit of ₹720 crore and total deposits of ₹900 crore. What is its credit-deposit ratio?",
+      "o": [
+        "80%",
+        "125%",
+        "20%",
+        "75%"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Credit-deposit ratio = total credit divided by total deposits, multiplied by 100. Here 720 ÷ 900 = 0.8, and 0.8 × 100 = 80%. It indicates the proportion of deposit resources deployed as credit.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Banking Ratios — Credit-Deposit Ratio",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — Banking and monetary statistics, credit-deposit ratio.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Reserve Bank of India — Banking and monetary statistics, credit-deposit ratio",
+      "sourceURL": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?Id=24094",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9062,
+      "cat": "Science",
+      "topic": "Human Eye — Myopia Correction",
+      "q": "A student can see nearby objects clearly, but distant objects appear blurred. Which lens is normally used to correct this defect?",
+      "o": [
+        "Convex lens",
+        "Cylindrical lens only",
+        "Plane glass plate",
+        "Concave lens"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "Myopia, or short-sightedness, causes distant objects to focus in front of the retina. A concave (diverging) lens spreads incoming rays before they enter the eye and shifts the focus back onto the retina.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Science",
+        "Human Eye — Myopia Correction",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT Class X Science — Human Eye and the Colourful World.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Class X Science — Human Eye and the Colourful World",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9063,
+      "cat": "Science",
+      "topic": "Heredity — Monohybrid Cross",
+      "q": "In a Mendelian monohybrid cross between two heterozygous tall pea plants, what phenotypic ratio is expected in the F2 generation if tallness is completely dominant?",
+      "o": [
+        "1 tall : 1 dwarf",
+        "3 tall : 1 dwarf",
+        "1 tall : 2 intermediate : 1 dwarf",
+        "All plants dwarf"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "In a Tt × Tt cross, the genotypic ratio is 1 TT : 2 Tt : 1 tt. With complete dominance, TT and Tt are tall while tt is dwarf, producing the 3:1 phenotypic ratio.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Heredity — Monohybrid Cross",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT Class X Science — Heredity chapter.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Class X Science — Heredity chapter",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9064,
+      "cat": "Science",
+      "topic": "Electricity — Electromagnetic Induction",
+      "q": "The production of an electric current in a coil when the magnetic flux linked with it changes is called:",
+      "o": [
+        "Electrolysis",
+        "Static charging",
+        "Electromagnetic induction",
+        "Thermal expansion"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Faraday's law states that a changing magnetic flux through a coil induces an electromotive force. In an electric generator, relative motion between the coil and magnetic field changes the flux and produces current.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Electricity — Electromagnetic Induction",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT Class X Science — Magnetic Effects of Electric Current.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Class X Science — Magnetic Effects of Electric Current",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9065,
+      "cat": "Science",
+      "topic": "Plant Physiology — Guard Cells and Stomata",
+      "q": "Which specialised cells regulate the opening and closing of stomatal pores in leaves?",
+      "o": [
+        "Guard cells",
+        "Root hairs",
+        "Xylem vessels",
+        "Palisade fibres"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Guard cells are specialised cells that flank each stomatal pore. Changes in their turgor pressure open or close the pore, regulating carbon-dioxide entry for photosynthesis and water-vapour loss through transpiration.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Science",
+        "Plant Physiology — Guard Cells and Stomata",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT Class X Science — Life Processes and stomatal regulation.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Class X Science — Life Processes and stomatal regulation",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9066,
+      "cat": "Science",
+      "topic": "Heat — Radiation",
+      "q": "Which mode of heat transfer can occur through a vacuum without requiring a material medium?",
+      "o": [
+        "Conduction",
+        "Convection",
+        "Diffusion",
+        "Radiation"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "Radiation transfers energy by electromagnetic waves and does not require matter. This is why heat from the Sun can cross the near-vacuum of space, whereas conduction and convection require a material medium.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Heat — Radiation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT Science textbooks — heat transfer and radiation.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Science textbooks — heat transfer and radiation",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9067,
+      "cat": "Science",
+      "topic": "Human Digestion — Pepsin",
+      "q": "Which enzyme in gastric juice begins the chemical digestion of proteins in the human stomach?",
+      "o": [
+        "Salivary amylase",
+        "Pepsin",
+        "Lipase from saliva",
+        "Maltase"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Pepsin is a protease released as inactive pepsinogen and activated in the acidic stomach environment. It begins breaking proteins into smaller peptides; salivary amylase acts mainly on starch rather than protein.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Human Digestion — Pepsin",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT Class X Science — Life Processes and digestion.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Class X Science — Life Processes and digestion",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9068,
+      "cat": "Science",
+      "topic": "Optics — Rayleigh Scattering",
+      "q": "Why does a clear daytime sky usually appear blue to an observer on Earth?",
+      "o": [
+        "The oceans reflect blue light uniformly into the atmosphere",
+        "Ozone emits blue light during daylight",
+        "Air molecules scatter shorter visible wavelengths more strongly than longer wavelengths",
+        "Cloud droplets absorb every colour except blue"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Air molecules scatter shorter visible wavelengths more strongly than longer wavelengths. This wavelength-dependent process is called Rayleigh scattering, which sends more blue light across the sky; the colour is not simply reflected from oceans.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Science",
+        "Optics — Rayleigh Scattering",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT Class X Science — Human Eye and the Colourful World.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Class X Science — Human Eye and the Colourful World",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9069,
+      "cat": "Environment",
+      "topic": "Ecology — Keystone Species",
+      "q": "A species whose effect on ecosystem structure is disproportionately large compared with its abundance is known as a:",
+      "o": [
+        "Keystone species",
+        "Pioneer species",
+        "Indicator species",
+        "Endemic species"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A keystone species has an ecological effect much greater than its abundance would suggest. Its removal can reorganise food webs or habitat structure and cause major community changes; endemic describes geographic restriction instead.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Ecology — Keystone Species",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. U.S. National Park Service — biodiversity glossary and keystone species.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "U.S. National Park Service — biodiversity glossary and keystone species",
+      "sourceURL": "https://www.nps.gov/articles/ParkScience31-1_eckert-plumb.htm",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9070,
+      "cat": "Environment",
+      "topic": "Ecological Succession — Pioneer Species",
+      "q": "Primary ecological succession on newly exposed bare rock usually begins with which pioneer organisms?",
+      "o": [
+        "Mature forest trees",
+        "Large grazing mammals",
+        "Flowering crop plants",
+        "Lichens"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "Primary succession starts where soil is absent, such as newly exposed rock. Lichens can colonise bare surfaces, help weather the rock and add organic matter, supporting gradual soil formation and the establishment of later plant communities.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Ecological Succession — Pioneer Species",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. OpenStax Concepts of Biology — community ecology and succession.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "OpenStax Concepts of Biology — community ecology and succession",
+      "sourceURL": "https://openstax.org/books/concepts-biology/pages/19-4-community-ecology",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9071,
+      "cat": "Environment",
+      "topic": "Biodiversity — Invasive Alien Species",
+      "q": "A non-native species spreads rapidly in a new region and causes ecological or economic harm. It is best described as:",
+      "o": [
+        "An endemic species",
+        "A keystone species by definition",
+        "An invasive alien species",
+        "A domesticated variety"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "An alien species is introduced beyond its natural range; it is considered invasive when its introduction or spread threatens biodiversity, ecosystem functioning or human interests. Not every non-native species is automatically invasive.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Environment",
+        "Biodiversity — Invasive Alien Species",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Convention on Biological Diversity — invasive alien species.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Convention on Biological Diversity — invasive alien species",
+      "sourceURL": "https://www.cbd.int/invasive/",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9072,
+      "cat": "Environment",
+      "topic": "Conservation — Ex-situ Methods",
+      "q": "Which example represents ex-situ conservation rather than in-situ conservation?",
+      "o": [
+        "A national park protecting wildlife in its natural habitat",
+        "A seed bank preserving plant genetic material outside its natural habitat",
+        "A biosphere reserve conserving an ecosystem",
+        "A sacred grove protected in its original location"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Ex-situ conservation protects organisms or genetic material outside their natural habitats, for example in seed banks, botanical gardens and zoos. National parks, biosphere reserves and sacred groves conserve species in situ, within their ecosystems.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Conservation — Ex-situ Methods",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Convention on Biological Diversity — Article 9, Ex-situ Conservation.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Convention on Biological Diversity — Article 9, Ex-situ Conservation",
+      "sourceURL": "https://www.cbd.int/convention/articles/?a=cbd-09",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9073,
+      "cat": "Environment",
+      "topic": "Meghalaya Biodiversity Governance — People's Biodiversity Register",
+      "q": "Under India's biodiversity framework, what is the principal documentary function of a People's Biodiversity Register prepared by a Biodiversity Management Committee?",
+      "o": [
+        "Record local biological resources and associated traditional knowledge",
+        "List only species already declared extinct worldwide",
+        "Record every wildlife offence registered by the police",
+        "Register only commercially imported crop varieties"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A People's Biodiversity Register documents biological resources found in the local area and associated traditional knowledge. It supports local biodiversity documentation and planning; it is not a police register or merely a list of imported crop varieties.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Meghalaya Biodiversity Governance — People's Biodiversity Register",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. National Biodiversity Authority — Meghalaya Biological Diversity Rules and PBR framework.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "National Biodiversity Authority — Meghalaya Biological Diversity Rules and PBR framework",
+      "sourceURL": "https://www.nbaindia.nic.in/sites/default/files/2026-05/Meghalaya0001.pdf",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9074,
+      "cat": "Reasoning",
+      "topic": "Set Theory — Inclusion and Exclusion",
+      "q": "In a group of 60 candidates, 35 know Excel, 28 know Word and 12 know both. How many candidates know neither Excel nor Word?",
+      "o": [
+        "7",
+        "12",
+        "15",
+        "9"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "By inclusion–exclusion, candidates knowing at least one = 35 + 28 − 12 = 51. Those knowing neither = 60 − 51 = 9. Subtract the overlap once because it was counted in both groups.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Reasoning",
+        "Set Theory — Inclusion and Exclusion",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original reasoning problem; independently constructed and solution-checked for Meghalaya PSC aptitude practice.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original reasoning problem; independently constructed and solution-checked for Meghalaya PSC aptitude practice",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/syllabus.html",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_original_solution_2026-11-19"
+    },
+    {
+      "id": 9075,
+      "cat": "Reasoning",
+      "topic": "Ranking — Position from Both Ends",
+      "q": "A candidate is ranked 12th from the top and 19th from the bottom in a merit list. How many candidates are in the list?",
+      "o": [
+        "31",
+        "30",
+        "29",
+        "32"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The candidate is counted in both rank positions, so subtract one duplicate: total = rank from top + rank from bottom − 1 = 12 + 19 − 1 = 30. Adding the two ranks without subtracting one would count the candidate twice.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Ranking — Position from Both Ends",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original reasoning problem; independently constructed and solution-checked for Meghalaya PSC aptitude practice.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original reasoning problem; independently constructed and solution-checked for Meghalaya PSC aptitude practice",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/syllabus.html",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_original_solution_2026-11-19"
+    },
+    {
+      "id": 9076,
+      "cat": "Reasoning",
+      "topic": "Deductive Logic — Switch and Bulb Puzzle",
+      "q": "Three switches are outside a closed room. Exactly one controls a working incandescent bulb inside. You may operate the switches as you wish but may enter the room only once. The bulb becomes warm when it is on. Which method identifies the correct switch?",
+      "o": [
+        "Turn all three switches on together, then enter and identify the hottest switch",
+        "Turn switch 1 on and enter immediately; if the bulb is off, switch 2 is correct",
+        "Turn switch 1 on for several minutes, turn it off, turn switch 2 on, then enter: lit means 2, warm but unlit means 1, cold and unlit means 3",
+        "Turn switch 1 and switch 2 on together, then turn both off before entering"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Switch 1 leaves residual heat after being turned off; switch 2 leaves the bulb lit; switch 3 leaves it cold and unlit. Entering once lets you use both light and residual heat to distinguish all three switches.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Deductive Logic — Switch and Bulb Puzzle",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original reasoning problem; independently constructed and solution-checked for Meghalaya PSC aptitude practice.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original reasoning problem; independently constructed and solution-checked for Meghalaya PSC aptitude practice",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/syllabus.html",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_original_solution_2026-11-19"
+    },
+    {
+      "id": 9077,
+      "cat": "Reasoning",
+      "topic": "Conditional Logic — Modus Tollens",
+      "q": "A system follows this rule: if the server is down, the dashboard is unavailable. The dashboard is currently available. Which conclusion must follow from the rule?",
+      "o": [
+        "The server is not down",
+        "The server must be down",
+        "The dashboard is unavailable",
+        "No conclusion about the server is possible"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The rule states that server down implies dashboard unavailable. Because the dashboard is available, the antecedent cannot be true. This is modus tollens: if P implies Q and Q is false, infer that P is false.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Reasoning",
+        "Conditional Logic — Modus Tollens",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original reasoning problem; independently constructed and solution-checked for Meghalaya PSC aptitude practice.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original reasoning problem; independently constructed and solution-checked for Meghalaya PSC aptitude practice",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/syllabus.html",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_original_solution_2026-11-19"
+    },
+    {
+      "id": 9078,
+      "cat": "Reasoning",
+      "topic": "Balance-Scale Logic — Three-Outcome Decision Tree",
+      "q": "A balance scale has three possible outcomes in each weighing: left heavier, right heavier or balance. Exactly one of several identical-looking balls is heavier. What is the maximum number of balls from which the heavier one can always be identified in two weighings?",
+      "o": [
+        "8",
+        "12",
+        "6",
+        "9"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "Divide nine balls into three groups of three and weigh two groups. If balanced, the heavier ball is in the third group; otherwise it is in the heavier group. A second weighing of two balls identifies it. Two three-outcome weighings distinguish at most 3² = 9 cases.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Balance-Scale Logic — Three-Outcome Decision Tree",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original reasoning problem; independently constructed and solution-checked for Meghalaya PSC aptitude practice.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original reasoning problem; independently constructed and solution-checked for Meghalaya PSC aptitude practice",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/syllabus.html",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_original_solution_2026-11-19"
+    },
+    {
+      "id": 9079,
+      "cat": "Reasoning",
+      "topic": "Spatial Reasoning — Painted Cube",
+      "q": "A cube is painted on all six faces and cut into 27 identical smaller cubes. How many smaller cubes have exactly two painted faces?",
+      "o": [
+        "8",
+        "6",
+        "12",
+        "16"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Small cubes with exactly two painted faces lie at the middle of each edge, excluding the corner cubes. A cube has 12 edges, and a 3 × 3 × 3 division contributes one such middle cube per edge, giving 12.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Spatial Reasoning — Painted Cube",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original reasoning problem; independently constructed and solution-checked for Meghalaya PSC aptitude practice.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original reasoning problem; independently constructed and solution-checked for Meghalaya PSC aptitude practice",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/syllabus.html",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_original_solution_2026-11-19"
+    },
+    {
+      "id": 9080,
+      "cat": "Reasoning",
+      "topic": "Logical Deduction — Incorrect Box Labels",
+      "q": "Three boxes contain only red balls, only blue balls, or a mixture of both. Their labels are 'Red', 'Blue' and 'Mixed', but every label is wrong. A ball drawn from the box labelled 'Mixed' is red. What must that box contain?",
+      "o": [
+        "Only blue balls",
+        "Only red balls",
+        "Both red and blue balls",
+        "The result cannot be determined"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Because every label is wrong, the box marked Mixed cannot contain both colours. Drawing a red ball proves it contains red; therefore it must be the all-red box. The contents of the other two boxes can then be resolved by elimination.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Reasoning",
+        "Logical Deduction — Incorrect Box Labels",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original reasoning problem; independently constructed and solution-checked for Meghalaya PSC aptitude practice.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original reasoning problem; independently constructed and solution-checked for Meghalaya PSC aptitude practice",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/syllabus.html",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_original_solution_2026-11-19"
+    },
+    {
+      "id": 9081,
+      "cat": "Reasoning",
+      "topic": "Truth-Teller Logic — Exactly One True Statement",
+      "q": "Exactly one of A, B and C tells the truth. A says, 'B is lying.' B says, 'C is lying.' C says, 'A and B are both lying.' Who tells the truth?",
+      "o": [
+        "B",
+        "A",
+        "C",
+        "None of them"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "If A were truthful, B would be lying; that would make C truthful, whose claim would then force A to be lying, a contradiction. If B is truthful, C is lying and A is lying, so exactly one statement is true: B.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Truth-Teller Logic — Exactly One True Statement",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original reasoning problem; independently constructed and solution-checked for Meghalaya PSC aptitude practice.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original reasoning problem; independently constructed and solution-checked for Meghalaya PSC aptitude practice",
+      "sourceURL": "https://mpsc.meghalaya.gov.in/syllabus.html",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_original_solution_2026-11-19"
+    },
+    {
+      "id": 9082,
+      "cat": "English",
+      "topic": "Grammar — Parallel Structure",
+      "q": "The duties of the clerk include preparing the monthly return, checking the ledger and ___ notices to taxpayers.",
+      "o": [
+        "to issue",
+        "issued",
+        "issuance",
+        "issuing"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "The three duties must use parallel grammatical forms: preparing, checking and issuing. Each item in the list is a gerund. Mixing in an infinitive or a past-tense verb breaks the parallel structure.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Grammar — Parallel Structure",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Purdue OWL — Parallel Structure.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Purdue OWL — Parallel Structure",
+      "sourceURL": "https://owl.purdue.edu/owl/general_writing/mechanics/parallel_structure.html",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9083,
+      "cat": "English",
+      "topic": "Grammar — Mandative Subjunctive",
+      "q": "The committee recommended that every applicant ___ the prescribed form personally.",
+      "o": [
+        "submits",
+        "submit",
+        "submitted",
+        "will submit"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "After verbs such as recommend, insist or suggest, formal English often uses the mandative subjunctive: subject + base form of the verb. Therefore 'that every applicant submit' is correct even though the subject is singular.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "English",
+        "Grammar — Mandative Subjunctive",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. British Council LearnEnglish — Reporting verbs and that-clauses.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "British Council LearnEnglish — Reporting verbs and that-clauses",
+      "sourceURL": "https://learnenglish.britishcouncil.org/free-resources/grammar/c1/patterns-reporting-verbs",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9084,
+      "cat": "English",
+      "topic": "Grammar — Dangling Modifier",
+      "q": "Choose the revision that removes the dangling modifier from this sentence: 'After reviewing the file, the discrepancy was corrected by the clerk.'",
+      "o": [
+        "After reviewing the file, the discrepancy corrected the clerk.",
+        "The discrepancy, after reviewing the file, was corrected.",
+        "After reviewing the file, the clerk corrected the discrepancy.",
+        "The clerk corrected, after the file reviewing, the discrepancy."
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The introductory phrase 'After reviewing the file' must describe the person who reviewed it. In the original, 'discrepancy' appears to be the reviewer. Making 'the clerk' the subject removes the dangling modifier.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Grammar — Dangling Modifier",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Purdue OWL — Dangling Modifiers and How to Correct Them.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Purdue OWL — Dangling Modifiers and How to Correct Them",
+      "sourceURL": "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_correct_them.html",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9085,
+      "cat": "English",
+      "topic": "Grammar — Gerund after a Preposition",
+      "q": "The officer objected to ___ the records before the inspection.",
+      "o": [
+        "destroying",
+        "destroy",
+        "to destroy",
+        "destroyed"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "In 'objected to', the word 'to' is a preposition, not part of an infinitive. A preposition is followed by a noun or a gerund, so 'objected to destroying' is correct.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Grammar — Gerund after a Preposition",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Purdue OWL — Gerunds, Participles and Infinitives.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Purdue OWL — Gerunds, Participles and Infinitives",
+      "sourceURL": "https://owl.purdue.edu/owl/general_writing/grammar/gerunds_participles_and_infinitives.html",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9086,
+      "cat": "English",
+      "topic": "Vocabulary — Phrasal Verb Look Into",
+      "q": "The audit team will ___ the unexplained difference before signing the report.",
+      "o": [
+        "look after",
+        "look up",
+        "look out",
+        "look into"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "'Look into' means investigate or examine the cause of something. 'Look after' means care for, 'look up' means search for information, and 'look out' means be alert.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "English",
+        "Vocabulary — Phrasal Verb Look Into",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. British Council LearnEnglish — Phrasal verbs.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "British Council LearnEnglish — Phrasal verbs",
+      "sourceURL": "https://learnenglish.britishcouncil.org/vocabulary/phrasal-verbs",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9087,
+      "cat": "English",
+      "topic": "Punctuation — Plural Possessive Apostrophe",
+      "q": "The files belong to several officers. Which phrase correctly expresses this plural possession?",
+      "o": [
+        "the officer's files",
+        "the officers files",
+        "the officers' files",
+        "the officer files"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "For a regular plural noun ending in -s, form the possessive by adding only an apostrophe: officers'. The singular possessive is officer's, so 'the officers' files' means files belonging to several officers.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Punctuation — Plural Possessive Apostrophe",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Purdue OWL — Apostrophe rules and exercises.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Purdue OWL — Apostrophe rules and exercises",
+      "sourceURL": "https://owl.purdue.edu/owl_exercises/punctuation_exercises/apostrophes/apostrophes_exercise.html",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9088,
+      "cat": "Arithmetic",
+      "topic": "Number Theory — Trailing Zeroes in a Factorial",
+      "q": "How many trailing zeroes are there in 100! (100 factorial)?",
+      "o": [
+        "20",
+        "24",
+        "25",
+        "22"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Each factor of 5 in 100! pairs with a factor of 2 to create a trailing zero. Count multiples of 5 and the extra factors supplied by multiples of 25: floor(100/5) + floor(100/25) = 20 + 4 = 24.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Number Theory — Trailing Zeroes in a Factorial",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original number-theory problem; factorial prime-factorisation independently checked against NCERT Mathematics reference.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original number-theory problem; factorial prime-factorisation independently checked against NCERT Mathematics reference",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_original_solution_2026-11-19"
+    },
+    {
+      "id": 9089,
+      "cat": "Arithmetic",
+      "topic": "Mensuration — Volume of a Cylinder",
+      "q": "A cylindrical tank has an internal radius of 2 metres and a height of 3.5 metres. What is its volume in cubic metres?",
+      "o": [
+        "14π m³",
+        "7π m³",
+        "12π m³",
+        "28π m³"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The volume of a cylinder is πr²h. With internal radius r = 2 m and height h = 3.5 m, V = π × 2² × 3.5 = 14π m³, approximately 43.98 m³. The internal radius gives the usable capacity.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Mensuration — Volume of a Cylinder",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT Mathematics — mensuration reference; original calculation independently checked.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Mathematics — mensuration reference; original calculation independently checked",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_original_solution_2026-11-19"
+    },
+    {
+      "id": 9090,
+      "cat": "Arithmetic",
+      "topic": "Combinatorics — Combinations",
+      "q": "A committee of 3 members is to be selected from 8 applicants. How many distinct committees can be formed if the order of selection does not matter?",
+      "o": [
+        "24",
+        "336",
+        "64",
+        "56"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "Order does not matter for a committee, so use combinations: 8C3 = 8! ÷ (3! × 5!) = (8 × 7 × 6) ÷ (3 × 2 × 1) = 56. Counting arrangements would overcount the same group in different orders.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Combinatorics — Combinations",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT Mathematics — permutations and combinations reference; original calculation independently checked.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Mathematics — permutations and combinations reference; original calculation independently checked",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_original_solution_2026-11-19"
+    },
+    {
+      "id": 9091,
+      "cat": "Arithmetic",
+      "topic": "Mensuration — Area of a Trapezium",
+      "q": "A trapezium has parallel sides of 12 cm and 18 cm, and a perpendicular height of 7 cm. What is its area?",
+      "o": [
+        "84 cm²",
+        "105 cm²",
+        "210 cm²",
+        "90 cm²"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Area of a trapezium = half the sum of its parallel sides multiplied by perpendicular height. Here, ½ × (12 + 18) × 7 = ½ × 30 × 7 = 105 cm².",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Mensuration — Area of a Trapezium",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT Mathematics — mensuration reference; original calculation independently checked.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Mathematics — mensuration reference; original calculation independently checked",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_original_solution_2026-11-19"
+    },
+    {
+      "id": 9092,
+      "cat": "Arithmetic",
+      "topic": "Geometry — Pythagorean Theorem",
+      "q": "A 13-metre ladder rests against a vertical wall with its foot 5 metres from the wall. How high up the wall does it reach?",
+      "o": [
+        "8 metres",
+        "10 metres",
+        "12 metres",
+        "18 metres"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The wall, ground and ladder form a right triangle. By Pythagoras, height² + 5² = 13², so height² = 169 − 25 = 144 and height = 12 metres.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Geometry — Pythagorean Theorem",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT Mathematics — right-triangle reference; original calculation independently checked.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Mathematics — right-triangle reference; original calculation independently checked",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_original_solution_2026-11-19"
+    },
+    {
+      "id": 9093,
+      "cat": "Arithmetic",
+      "topic": "Statistics — Median of an Odd-Sized Dataset",
+      "q": "Find the median of the numbers 7, 12, 9, 15, 10, 14 and 8.",
+      "o": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "First arrange the values in ascending order: 7, 8, 9, 10, 12, 14, 15. With seven observations, the fourth value is the middle observation and therefore the median: 10.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Statistics — Median of an Odd-Sized Dataset",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT Mathematics — statistics reference; original calculation independently checked.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Mathematics — statistics reference; original calculation independently checked",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_original_solution_2026-11-19"
+    },
+    {
+      "id": 9094,
+      "cat": "Geography",
+      "topic": "Plate Tectonics — Divergent Boundaries",
+      "q": "At a divergent plate boundary, two neighbouring lithospheric plates move away from each other. Which process commonly forms new oceanic crust there?",
+      "o": [
+        "Subduction of one plate beneath the other",
+        "Continental collision and crustal folding",
+        "Horizontal sliding along a transform fault",
+        "Seafloor spreading as magma rises and solidifies"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "At a divergent boundary, plates move apart and mantle-derived magma rises into the gap. It cools and solidifies to form new oceanic crust. Subduction and collision are associated with convergent boundaries, while transform boundaries slide past one another.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Plate Tectonics — Divergent Boundaries",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. U.S. Geological Survey — Understanding plate tectonics.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "U.S. Geological Survey — Understanding plate tectonics",
+      "sourceURL": "https://pubs.usgs.gov/gip/dynamic/understanding.html",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9095,
+      "cat": "Geography",
+      "topic": "Climate — El Niño",
+      "q": "El Niño refers to an unusual warming of which ocean region?",
+      "o": [
+        "The northern Indian Ocean",
+        "The central and eastern equatorial Pacific",
+        "The western Mediterranean Sea",
+        "The Arctic Ocean"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "El Niño is the warm phase of the El Niño–Southern Oscillation and is marked by unusual sea-surface warming in the central and eastern equatorial Pacific. It is not a warming of the Indian, Mediterranean or Arctic Ocean.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Geography",
+        "Climate — El Niño",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NOAA Pacific Marine Environmental Laboratory — El Niño definitions.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NOAA Pacific Marine Environmental Laboratory — El Niño definitions",
+      "sourceURL": "https://pmel.noaa.gov/elnino/definitions/",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9096,
+      "cat": "Computer",
+      "topic": "Networking — TCP versus UDP",
+      "q": "Which statement best distinguishes TCP from UDP in computer networking?",
+      "o": [
+        "UDP always guarantees delivery and ordering, while TCP does not",
+        "Both protocols require a prior connection and provide identical error control",
+        "TCP is connection-oriented and supports reliable, ordered delivery; UDP is connectionless and does not guarantee delivery",
+        "TCP is used only for email, while UDP is used only for web pages"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "TCP establishes a connection and uses sequencing, acknowledgements and retransmission to support reliable ordered delivery. UDP sends datagrams without a connection and does not itself guarantee delivery or order, which reduces protocol overhead.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Networking — TCP versus UDP",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NIELIT — networking and Internet protocols study material.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIELIT — networking and Internet protocols study material",
+      "sourceURL": "https://www.nielit.gov.in/gorakhpur/sites/default/files/Gorakhpur/OLevel_2_ICT_25June2020_AM.pdf",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9097,
+      "cat": "Computer",
+      "topic": "Cybersecurity — IDS and IPS",
+      "q": "What is the main functional difference between an intrusion detection system (IDS) and an intrusion prevention system (IPS)?",
+      "o": [
+        "An IDS detects and alerts; an IPS can also take action to block or prevent detected activity",
+        "An IDS encrypts files; an IPS assigns IP addresses",
+        "An IDS replaces a router; an IPS replaces a database",
+        "An IDS prevents all attacks automatically, while an IPS only records them"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "An IDS monitors traffic or events and raises alerts when it detects suspicious activity. An IPS is deployed to act on detections and can block or drop traffic automatically. Neither system guarantees that every attack will be stopped.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Cybersecurity — IDS and IPS",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NIELIT Shillong — cyber security and intrusion detection/prevention study material.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIELIT Shillong — cyber security and intrusion detection/prevention study material",
+      "sourceURL": "https://www.nielit.gov.in/sites/default/files/Shillong/CHM_O_Level_22.9.2016.pdf",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_2026-11-19"
+    },
+    {
+      "id": 9098,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya — MeghGo Mobility Platform",
+      "q": "According to the Meghalaya Government's press release dated 17 November 2026, what is a defining feature of the MeghGo unified mobility platform for local transport operators?",
+      "o": [
+        "A toll collection system for national highways",
+        "A cash-only booking service for inter-State buses",
+        "A vehicle insurance scheme restricted to government employees",
+        "A commission-free app platform for taxi, auto and two-wheeler operators"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "The State's 17 November 2026 release describes MeghGo as a commission-free mobility app platform supporting local taxi drivers, including auto and two-wheeler operators. The stated aim is to simplify passenger access; it is not a toll, insurance or cash-only bus scheme.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Current Affairs",
+        "Meghalaya — MeghGo Mobility Platform",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — CM launches MEGHGO, Meghalaya's Unified Mobility Platform (17 November 2026).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Government of Meghalaya — CM launches MEGHGO, Meghalaya's Unified Mobility Platform (17 November 2026)",
+      "sourceURL": "https://meghalaya.gov.in/meghalaya/index.php/press/content/52330",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_dynamic_2026-11-19",
+      "sourceDate": "2026-11-17"
+    },
+    {
+      "id": 9099,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya — First AI Job Fair",
+      "q": "According to the Meghalaya Government's press release of 12 November 2026, how many job openings in Shillong were announced for the first AI Job Fair?",
+      "o": [
+        "75",
+        "125",
+        "250",
+        "500"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Meghalaya Government's 12 November 2026 release for the first AI Job Fair in Shillong announced 125 job openings and anticipated more than 400 candidates and institutional heads. The figure is tied to that dated event announcement, not a permanent employment statistic.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "Meghalaya — First AI Job Fair",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — First AI Job Fair press release (12 November 2026).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Government of Meghalaya — First AI Job Fair press release (12 November 2026)",
+      "sourceURL": "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_ITC.pdf",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_dynamic_2026-11-19",
+      "sourceDate": "2026-11-12"
+    },
+    {
+      "id": 9100,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya — Senior National Archery Championships",
+      "q": "Which three Senior National Archery Championships were hosted together in Meghalaya in November 2026?",
+      "o": [
+        "32nd NTPC Senior Indian Round, 21st NTPC Senior Compound and 45th NTPC Senior Recurve",
+        "33rd NTPC Junior Indian Round, 22nd NTPC Junior Compound and 46th NTPC Junior Recurve",
+        "33rd NTPC Senior Indian Round, 22nd NTPC Senior Compound and 46th NTPC Senior Recurve",
+        "33rd NTPC Senior Indian Round, 22nd NTPC Senior Recurve and 46th NTPC Senior Compound"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The State's 17 November 2026 release identifies the combined events as the 33rd Senior Indian Round, 22nd Senior Compound and 46th Senior Recurve championships, each under NTPC. The senior category and the event order distinguish them from junior events.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "Meghalaya — Senior National Archery Championships",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — Medal Ceremony of the Senior National Archery Championships (17 November 2026).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Government of Meghalaya — Medal Ceremony of the Senior National Archery Championships (17 November 2026)",
+      "sourceURL": "https://meghalaya.gov.in/press/content/52332",
+      "sourceVerifiedDate": "2026-11-19",
+      "verificationStatus": "verified_primary_source_dynamic_2026-11-19",
+      "sourceDate": "2026-11-17"
+    }
+  ]
+}
