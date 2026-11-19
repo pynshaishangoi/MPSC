@@ -81,7 +81,7 @@
     "targetGatePassed": true,
     "gatePassed": true,
     "blockers": [
-      "Live GitHub Pages deployment is not independently verified; the deployment workflow status is being checked."
+      "The GitHub Pages deployment workflow succeeded, but the live URL could not be independently fetched to confirm that it serves build marker 2026-11-19-original-practice-50."
     ],
     "officialPyqFilesFetched": 18,
     "officialPyqFilesTotal": 18,
@@ -101,9 +101,9 @@
     "githubActionsRun": 44456418682,
     "githubActionsConclusion": "success",
     "deploymentVerified": false,
-    "deploymentStatus": "not independently verified from the live GitHub Pages URL",
+    "deploymentStatus": "GitHub Pages workflow succeeded; live build marker could not be independently fetched, so deployment remains unverified.",
     "pagesDeploymentRunId": 44456418230,
-    "pagesDeploymentStatus": "in_progress"
+    "pagesDeploymentStatus": "success"
   },
   "nextDailyTarget": 70,
   "cumulativeUniqueAdditionsSinceRampStart": 92,
