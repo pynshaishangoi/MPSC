@@ -9,7 +9,7 @@
   "totalQuestions": 150,
   "transcribedQuestions": 150,
   "complete": false,
-  "transcriptionNote": "Q1–150 first-pass transcription present. This review pass independently solved Q1–6, Q8, Q11–13, Q15, Q17–24, Q27–30 (23 items); Q7, Q9, Q10, Q14, Q16 and Q25 explicitly flagged as ambiguous, defective or source-incomplete. Remaining questions require independent solution and source review. No official answer key supplied.",
+  "transcriptionNote": "Source PDF pages 2–6 reviewed. Independently solved with explanations: Q1–6, Q8, Q11–13, Q15, Q17–24, Q27–39, Q41–43, Q45, Q47–48 and Q50. Ambiguity/source flags: Q7, Q9, Q10, Q14, Q16, Q25, Q40, Q44, Q46 and Q49. Q26 and Q51–150 still need review. No official answer key supplied; no guessed answers.",
   "questions": [
     {
       "number": 1,
@@ -438,8 +438,10 @@
         "(i) and (ii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Statements (i) and (ii) are grammatically sound. Statement (iii) wrongly describes the bulldozer as irritated; it should refer to the people.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 32,
@@ -450,8 +452,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "transcribed",
+      "explanation": "All three sentences are grammatically correct and form a coherent sequence about the dinner party.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 33,
@@ -462,8 +466,10 @@
         "(ii) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Sentences (i) and (iii) are correct. “Invited to speech on the meeting” in (ii) is not grammatical; it would be “invited to speak at the meeting.”",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 34,
@@ -474,8 +480,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Sentences (ii) and (iii) are correct. In (i), the adverb “smoothly” is required instead of the adjective “smooth.”",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 35,
@@ -486,8 +494,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Sentences (i) and (iii) are correct. After the modal “could,” the base form “swim,” not “swam,” is required in (ii).",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 36,
@@ -498,8 +508,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "transcribed",
+      "explanation": "All three sentences are grammatical: the question, the report of his integrity, and the statement about his balanced leadership.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 37,
@@ -510,8 +522,10 @@
         "(i) and (ii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Sentences (ii) and (iii) are acceptable. Sentence (i) is missing the article in “do me a favor.”",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 38,
@@ -522,8 +536,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Sentences (i) and (iii) are correct. In (ii), “interesting listeners” should be “interested listeners.”",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 39,
@@ -534,8 +550,10 @@
         "(ii) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Sentences (i) and (ii) use correct question word order. Sentence (iii) places “how many” incorrectly.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 40,
@@ -547,7 +565,9 @@
         "(i), (ii) and (iii)"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "explanation": "The distinction between “monitor in class” and “class monitor” is not decisive enough to exclude (i); the intended grammar criterion is unclear.",
+      "answerStatus": "unresolved_source_or_ambiguous"
     },
     {
       "number": 41,
@@ -558,8 +578,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "transcribed",
+      "explanation": "All three expressions—“at close range,” “this close,” and “close up”—are acceptable ways to describe seeing a tiger nearby.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 42,
@@ -570,8 +592,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Sentences (i) and (iii) are correct. “She's a famous actress yesterday” in (ii) is ungrammatical.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 43,
@@ -582,8 +606,10 @@
         "(ii) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Sentences (i) and (ii) are natural and grammatical. “Went happy to bed” in (iii) is not the usual grammatical placement.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 44,
@@ -595,7 +621,9 @@
         "(i), (ii) and (iii)"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "explanation": "“Too wide to cross” can describe the width of a water current/channel in context, so the item does not securely distinguish the intended pair.",
+      "answerStatus": "unresolved_source_or_ambiguous"
     },
     {
       "number": 45,
@@ -606,8 +634,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Sentences (ii) and (iii) are correct. “Too heat” in (i) incorrectly uses the noun “heat” where the adjective “hot” is needed.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 46,
@@ -619,7 +649,9 @@
         "(i), (ii) and (iii)"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "explanation": "All three sentences can be acceptable in context; sentence (ii) is less idiomatic but not clearly ungrammatical.",
+      "answerStatus": "unresolved_source_or_ambiguous"
     },
     {
       "number": 47,
@@ -630,8 +662,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Sentences (i) and (iii) are correct. After “stop,” the gerund “wasting” is required in this construction.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 48,
@@ -642,8 +676,10 @@
         "(ii) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Sentences (i) and (iii) are correct. “Exudes confident” is incorrect because the noun “confidence” is required.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 49,
@@ -655,7 +691,9 @@
         "(i), (ii) and (iii)"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "explanation": "Each construction can be grammatical depending on whether the speaker is asking about multiple pairs, one pair, or a set of pairs; context is missing.",
+      "answerStatus": "unresolved_source_or_ambiguous"
     },
     {
       "number": 50,
@@ -666,8 +704,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Sentences (i) and (ii) express regular or continuous opening hours correctly. “Is opening at all times” is not idiomatic for a regular schedule.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 51,
