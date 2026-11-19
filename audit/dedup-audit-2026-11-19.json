@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-19",
+  "target": 50,
+  "startingActiveQuestions": 923,
+  "draftedCandidates": 62,
+  "validatedUniqueQuestions": 50,
+  "mergedQuestions": 0,
+  "projectedActiveUniqueQuestions": 973,
+  "fullDedupScan": {
+    "activeQuestions": 923,
+    "officialPyqFilesFetched": 18,
+    "officialPyqFilesTotal": 18,
+    "officialPyqQuestionRecords": 2433,
+    "partialDuplicateQuestionsVerified": 139,
+    "archiveFilesBeforeRun": 16,
+    "archiveRecordsBeforeRun": 331,
+    "comparisonCorpusRecords": 3356,
+    "normalizedStemChecksCompleted": true,
+    "optionInsensitiveChecksCompleted": true,
+    "semanticChecksCompleted": true,
+    "withinBatchChecksCompleted": true,
+    "exactStemCollisions": 0,
+    "exactStemAndOptionCollisions": 0,
+    "optionSetCollisionsInFinalBatch": 0,
+    "nearSemanticCollisionsInFinalBatch": 0,
+    "withinBatchNearPairs": 0,
+    "unresolvedSemanticCollisions": 0,
+    "lowScoringLexicalFalsePositivesReviewed": 6,
+    "semanticMethod": "Normalized stem token Jaccard screening plus order-insensitive option-set signatures and manual topic/concept/learning-objective review."
+  },
+  "collisions": {
+    "candidateExactStemCollisions": 0,
+    "candidateExactStemOptionCollisions": 0,
+    "candidateOptionSetCollisions": 0,
+    "candidateNearSemanticCollisionsRejected": 10,
+    "candidateConceptOverlapRejected": 1,
+    "candidateOptionSetCollisionsRejected": 1,
+    "withinBatchNearPairs": 0,
+    "unresolvedSemanticCollisions": 0,
+    "reviewedLexicalFalsePositives": 6,
+    "historicalClusters": {
+      "activeNormalizedStemClusters": 43,
+      "officialPyqNormalizedStemClusters": 19,
+      "officialPyqExtraCopies": 25,
+      "officialPyqExactStemAndOptionClusters": 12,
+      "officialPyqExactStemAndOptionExtraCopies": 14,
+      "activeToPyqStemMatches": 67,
+      "activeToPyqStemAndOptionMatches": 61
+    }
+  },
+  "rejectedCandidates": [
+    {
+      "draftKey": "draft-biomagnification-v1",
+      "reason": "Near-semantic overlap with an official PYQ testing a food-chain trophic-level fact; replaced with keystone-species ecology."
+    },
+    {
+      "draftKey": "draft-seating-arrangement-v1",
+      "reason": "Same linear seating-arrangement skill as an official PYQ; replaced with inclusion-exclusion set counting."
+    },
+    {
+      "draftKey": "draft-family-relationship-v1",
+      "reason": "Family-relationship reasoning overlaps an official PYQ; replaced with switch-state deduction."
+    },
+    {
+      "draftKey": "draft-letter-series-v1",
+      "reason": "Series-completion skill overlaps existing number-series bank questions; replaced with conditional inference."
+    },
+    {
+      "draftKey": "draft-clock-angle-v1",
+      "reason": "Repeated clock-angle calculation found in an official PYQ; replaced with a balance-scale decision-tree problem."
+    },
+    {
+      "draftKey": "draft-partnership-v1",
+      "reason": "Partnership profit-share calculation overlaps an official PYQ; replaced with factorial trailing-zero counting."
+    },
+    {
+      "draftKey": "draft-age-equation-v1",
+      "reason": "Father/son age-equation pattern overlaps an official PYQ; replaced with combinations."
+    },
+    {
+      "draftKey": "draft-modular-remainder-v1",
+      "reason": "Order-insensitive option-set collision with an existing remainder PYQ; replaced with a committee-combination problem."
+    },
+    {
+      "draftKey": "draft-average-speed-v1",
+      "reason": "Equal-distance average-speed calculation repeats an official PYQ's reasoning path; replaced with trapezium area."
+    },
+    {
+      "draftKey": "draft-coriolis-v1",
+      "reason": "Coriolis-effect fact already appears in the active bank; replaced with divergent plate-boundary formation."
+    },
+    {
+      "draftKey": "draft-commercial-paper-v1",
+      "reason": "Too close to an official money-market-instrument PYQ; replaced with the distinct M1 monetary-aggregate definition."
+    },
+    {
+      "draftKey": "draft-msf-v1",
+      "reason": "Superseded to avoid a tightly coupled MSF/SDF pair in the same batch; replaced with a distinct monetary-aggregate question."
+    }
+  ],
+  "acceptedQuestionIds": [
+    9051,
+    9052,
+    9053,
+    9054,
+    9055,
+    9056,
+    9057,
+    9058,
+    9059,
+    9060,
+    9061,
+    9062,
+    9063,
+    9064,
+    9065,
+    9066,
+    9067,
+    9068,
+    9069,
+    9070,
+    9071,
+    9072,
+    9073,
+    9074,
+    9075,
+    9076,
+    9077,
+    9078,
+    9079,
+    9080,
+    9081,
+    9082,
+    9083,
+    9084,
+    9085,
+    9086,
+    9087,
+    9088,
+    9089,
+    9090,
+    9091,
+    9092,
+    9093,
+    9094,
+    9095,
+    9096,
+    9097,
+    9098,
+    9099,
+    9100
+  ],
+  "subjects": {
+    "History": 5,
+    "Economy": 6,
+    "Science": 7,
+    "Environment": 5,
+    "Reasoning": 8,
+    "English": 6,
+    "Arithmetic": 6,
+    "Geography": 2,
+    "Computer": 2,
+    "Current Affairs": 3
+  },
+  "examTracks": [
+    "MPSC Inspector of Taxes",
+    "DSC East Khasi Hills LDA-cum-Typist",
+    "MPSC Secretariat LDA"
+  ],
+  "sourcesVerified": {
+    "questionCount": 50,
+    "distinctSourceUrls": 27,
+    "domains": [
+      "samagra.kite.kerala.gov.in",
+      "tnrd.tn.gov.in",
+      "ncert.nic.in",
+      "asiguwahaticircle.gov.in",
+      "www.rbi.org.in",
+      "www.nps.gov",
+      "openstax.org",
+      "www.cbd.int",
+      "www.nbaindia.nic.in",
+      "mpsc.meghalaya.gov.in",
+      "owl.purdue.edu",
+      "learnenglish.britishcouncil.org",
+      "pubs.usgs.gov",
+      "pmel.noaa.gov",
+      "www.nielit.gov.in",
+      "meghalaya.gov.in"
+    ],
+    "verifiedDate": "2026-11-19",
+    "dynamicFacts": [
+      "MeghGo platform — source dated 17 November 2026",
+      "First AI Job Fair — source dated 12 November 2026",
+      "Senior National Archery Championships — source dated 17 November 2026"
+    ]
+  },
+  "copyrightAndPrivacy": "All 50 records are Original Practice and independently authored. No official PYQ text, uploaded PDFs, private correspondence, personal data or private user material is included.",
+  "validation": {
+    "schema": {
+      "passed": true,
+      "questions": 50,
+      "fourOptions": 50,
+      "answerIndices": 50,
+      "explanationsOver120Chars": 50,
+      "sourceUrls": 50,
+      "sourceVerificationDates": 50,
+      "originalPracticeLabels": 50
+    },
+    "githubActions": {
+      "status": "pending"
+    },
+    "repositoryTests": {
+      "status": "pending",
+      "note": "PR validation is being rerun after service-worker syntax correction."
+    },
+    "deployment": "not independently verified"
+  },
+  "repository": {
+    "visibility": "public",
+    "mainShaBefore": "6d5f2a232ac697b6b6bcbda1afec87303436d1d6",
+    "canonicalCountBefore": 923,
+    "projectedCanonicalCount": 973,
+    "archiveFilesBefore": 16,
+    "projectedArchiveFiles": 17,
+    "projectedArchiveRecords": 381,
+    "loader": "canonical Q embedded in index.html",
+    "dashboardCount": "derived from Q.length",
+    "serviceWorkerCache": "mpsc-smart-study-v5-53-20261119",
+    "newArchivePrecached": true
+  },
+  "deployment": {
+    "verified": false,
+    "status": "not independently verified from the live GitHub Pages URL"
+  },
+  "activeUniqueQuestionsAfterMerge": null,
+  "postMergeAudit": false,
+  "rampDecision": {
+    "previousRunDate": "2026-11-18",
+    "previousTarget": 50,
+    "previousValidated": 42,
+    "previousPassRate": 0.84,
+    "previousNextTarget": 50,
+    "todayTarget": 50,
+    "todayValidated": 50,
+    "todayPassRate": 1,
+    "proposedNextTargetAfterAllGates": 70,
+    "nextDailyTargetUntilMergeAndLiveCheck": 50,
+    "increaseBy20EligibleAfterMerge": true,
+    "mergeGatePassed": false,
+    "deploymentGatePassed": false
+  },
+  "mergeStatus": "pending"
+}
