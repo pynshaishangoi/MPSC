@@ -33,6 +33,8 @@ try { embedded = JSON.parse(qMatch[1]); }
 catch (error) { fail('embedded question array is not valid JSON: ' + error.message); }
 
 const sw = fs.readFileSync('sw.js', 'utf8');
+try { new vm.Script(sw, { filename: 'sw.js' }); }
+catch (error) { fail('service-worker JavaScript syntax: ' + error.message); }
 const cacheVersion = (sw.match(/const CACHE="([^"]+)"/) || [])[1];
 if (!cacheVersion || !/^mpsc-smart-study-v5-\d+-\d{8}$/.test(cacheVersion)) fail('service-worker cache version is missing or malformed');
 const qCountMarkup = html.match(/id=["']qCount["'][^>]*>([^<]*)</);
