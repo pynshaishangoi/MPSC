@@ -9,7 +9,7 @@
   "totalQuestions": 150,
   "transcribedQuestions": 150,
   "complete": false,
-  "transcriptionNote": "Questions 1–150 first-pass transcribed. Q25, Q61–62 and Q121–122, Q128–130, Q132, Q134, Q137, Q139, Q141 and Q150 require source image/logic review. No answer key supplied.",
+  "transcriptionNote": "Q1–150 first-pass transcription present. This review pass independently solved Q1–6, Q8, Q11–13, Q15, Q17–24, Q27–30 (23 items); Q7, Q9, Q10, Q14, Q16 and Q25 explicitly flagged as ambiguous, defective or source-incomplete. Remaining questions require independent solution and source review. No official answer key supplied.",
   "questions": [
     {
       "number": 1,
@@ -20,8 +20,10 @@
         "a",
         "Zero article"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "transcribed",
+      "explanation": "“Mud” is an uncountable noun used generally here, so it takes no article.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 2,
@@ -32,8 +34,10 @@
         "to",
         "into"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "The verb “welcome” takes “to” when naming the destination: welcome someone to the school.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 3,
@@ -44,8 +48,10 @@
         "a",
         "Zero article"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "transcribed",
+      "explanation": "The plural noun “eggs” is used generically, so no article is needed.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 4,
@@ -56,8 +62,10 @@
         "many",
         "a group"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "transcribed",
+      "explanation": "“A lot of” is the natural quantifier before the plural count noun “things”.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 5,
@@ -68,8 +76,10 @@
         "met",
         "had met"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "transcribed",
+      "explanation": "“Members” is plural, so the present-simple verb is “meet”.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 6,
@@ -80,8 +90,10 @@
         "through",
         "mainly"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "The standard expression is “of European stock,” indicating ancestry or origin.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 7,
@@ -93,7 +105,9 @@
         "sad"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "explanation": "Both “surprised” and “amazed” are grammatically possible with “at”; no unique answer can be justified from the item as transcribed.",
+      "answerStatus": "unresolved_source_or_ambiguous"
     },
     {
       "number": 8,
@@ -104,8 +118,10 @@
         "has",
         "could"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "“An event has never happened” uses the present perfect to describe experience up to now.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 9,
@@ -117,7 +133,9 @@
         "unmatched"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "explanation": "All four options are near-synonyms and can grammatically complete the sentence; context does not uniquely select one.",
+      "answerStatus": "unresolved_source_or_ambiguous"
     },
     {
       "number": 10,
@@ -129,7 +147,9 @@
         "waiting"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "explanation": "The natural construction is “have been waiting since morning”; that option is absent, so no listed option is fully correct.",
+      "answerStatus": "unresolved_source_or_ambiguous"
     },
     {
       "number": 11,
@@ -140,8 +160,10 @@
         "into",
         "below"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "“Into the sea” expresses movement from the surface to a position inside the sea.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 12,
@@ -152,8 +174,10 @@
         "had been",
         "has been"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "The past perfect “had been” places the children’s state of being asleep before the concert ended.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 13,
@@ -164,8 +188,10 @@
         "his hard-heartedness",
         "his busyness"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "“Despite his hard-heartedness” contrasts his lack of sympathy with the judge’s eventual pity.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 14,
@@ -177,7 +203,9 @@
         "softly"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "explanation": "Both “loudly” and “wildly” can naturally describe cheering; the sentence does not establish a unique choice.",
+      "answerStatus": "unresolved_source_or_ambiguous"
     },
     {
       "number": 15,
@@ -188,8 +216,10 @@
         "have you not",
         "aren't you"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "The positive statement “You have understood” takes the negative question tag “haven’t you?”",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 16,
@@ -201,7 +231,9 @@
         "are showing up"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "explanation": "“Showed up” is plausible in past narration, while “shows up” can be generic; the isolated sentence gives insufficient time context.",
+      "answerStatus": "unresolved_source_or_ambiguous"
     },
     {
       "number": 17,
@@ -212,8 +244,10 @@
         "Food",
         "Munching"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "The established expression is “food and lodging.”",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 18,
@@ -224,8 +258,10 @@
         "may be",
         "is"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "transcribed",
+      "explanation": "A gerund phrase used as the subject takes a singular verb: “Walking is…”",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 19,
@@ -236,8 +272,10 @@
         "has",
         "have"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "“Has changed” is present perfect, describing a change from the past with relevance to the present.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 20,
@@ -248,8 +286,10 @@
         "alright",
         "funny"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "Without freedom, democracy loses its essential meaning; “meaningless” completes the sentence.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 21,
@@ -260,8 +300,10 @@
         "an expert",
         "a powerful man"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "transcribed",
+      "explanation": "“A man on a mission” describes someone strongly driven by a purpose, matching the context of passion.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 22,
@@ -272,8 +314,10 @@
         "are wanting",
         "wants"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "transcribed",
+      "explanation": "“Who” is the subject of the singular verb “wants” in this question.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 23,
@@ -284,8 +328,10 @@
         "but",
         "either"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "transcribed",
+      "explanation": "“Or” connects the two alternatives: eating at the café or ordering takeout.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 24,
@@ -296,8 +342,10 @@
         "while",
         "and"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "“Where” introduces the contrasting circumstance/place in which she succeeded while others failed.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 25,
@@ -309,7 +357,9 @@
         "find"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "needs_visual_check"
+      "transcriptionStatus": "needs_visual_check",
+      "explanation": "The source sentence/prompt is missing or illegible in the transcription; answer cannot be determined safely.",
+      "answerStatus": "unresolved_source_or_ambiguous"
     },
     {
       "number": 26,
@@ -332,8 +382,10 @@
         "above",
         "in"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "transcribed",
+      "explanation": "The standard collocation is “walk on the grass.”",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 28,
@@ -344,8 +396,10 @@
         "fly",
         "flew"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "“How time flies!” is the fixed exclamation expressing how quickly time passes.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 29,
@@ -356,8 +410,10 @@
         "hefty",
         "beautiful"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "explanation": "“Hefty” means large or substantial, commonly used to describe a generous pay package.",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 30,
@@ -368,8 +424,10 @@
         "am calling",
         "was calling"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "transcribed",
+      "explanation": "“Last night” sets a past time; the completed action is expressed by “called.”",
+      "answerStatus": "independently_solved_not_official_key"
     },
     {
       "number": 31,
