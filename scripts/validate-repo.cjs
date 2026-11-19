@@ -73,8 +73,8 @@ for (const name of batchFiles) {
   }
   archiveCount += batch.questions.length;
 }
-if (embedded.length !== 923) fail('canonical embedded Q must contain 923 questions');
-if (batchFiles.length !== 16 || archiveIdSet.size !== 331 || archiveCount !== 331) fail('all 16 question-batch archives must contain 331 unique mirrored records');
+if (embedded.length !== 973) fail('canonical embedded Q must contain 973 questions');
+if (batchFiles.length !== 17 || archiveIdSet.size !== 381 || archiveCount !== 381) fail('all 17 question-batch archives must contain 381 unique mirrored records');
 for (const question of active) {
   if (!question.q || !Array.isArray(question.o) || question.o.length !== 4) fail('question ' + question.id + ' must have a prompt and exactly four options');
   if (!Number.isInteger(question.a) || question.a < 0 || question.a >= question.o.length) fail('question ' + question.id + ' has an invalid answer index');
@@ -151,7 +151,21 @@ if (new Set(dedupIndex18.canonical.activeFingerprints.map(record=>record.i)).siz
 const dedupAudit18 = jsonFile('audit/dedup-audit-2026-11-18.json');
 if (dedupAudit18.target !== 50 || dedupAudit18.draftedCandidates !== 50 || dedupAudit18.validatedUniqueQuestions !== 42 || dedupAudit18.collisions.candidateExactStemCollisions !== 0 || dedupAudit18.collisions.unresolvedSemanticCollisions !== 0 || dedupAudit18.rejectedCandidates.length !== 8) fail('18 November candidate/dedup audit totals are incorrect');
 const rampTracker = jsonFile('audit/campaign-tracker.json');
-if (rampTracker.currentDailyTarget !== 50 || rampTracker.nextDailyTarget !== 50 || rampTracker.latestRun.validatedQuestions !== 42 || rampTracker.latestRun.targetGatePassed !== false) fail('18 November ramp tracker must hold the next target at 50 after an 84% run');
+if (rampTracker.currentDailyTarget !== 50 || rampTracker.previousRun?.validatedQuestions !== 42 || rampTracker.latestRun?.target !== 50 || rampTracker.latestRun?.validatedQuestions !== 50 || ![0,50].includes(rampTracker.latestRun?.mergedQuestions) || !['pending_merge','merged'].includes(rampTracker.latestRun?.status) || ![50,70].includes(rampTracker.nextDailyTarget) || rampTracker.latestRun?.targetGatePassed !== true) fail('19 November ramp tracker is inconsistent with the 50-question run or its merge gate');
+
+
+const expansionBatch19 = jsonFile('question-batches/2026-11-19-original-practice.json');
+if (expansionBatch19.questions.length !== 50 || expansionBatch19.questionIdRange !== '9051-9100' || expansionBatch19.candidateCount !== 62 || expansionBatch19.rejectedCandidates !== 12 || Object.values(expansionBatch19.subjects).reduce((sum,value)=>sum+value,0)!==50) fail('19 November original-practice batch count, ID range, candidate or subject totals are incorrect');
+for (const question of expansionBatch19.questions) {
+  if (!question.topic || !question.exam || !Array.isArray(question.examTags) || question.examTags.length !== 2 || !question.e || question.e.length < 120 || !question.source || !question.source.includes('not an official PYQ') || question.label !== 'Original Practice' || question.sourceType !== 'Original Practice' || !question.sourceURL || !question.sourceURL.startsWith('https://') || question.sourceVerifiedDate !== '2026-11-19' || !question.verificationStatus || !question.verificationStatus.includes('2026-11-19') || question.difficulty === 'PYQ' || question.answerIndex !== question.a || question.o.length !== 4) fail('19 November question ' + question.id + ' needs topic/exam tags, four options, answer, teaching explanation, source and Original Practice label');
+}
+if (!sw.includes('./question-batches/2026-11-19-original-practice.json')) fail('service worker does not precache 19 November original-practice archive');
+if (!html.includes('mpsc-build') || !html.includes('2026-11-19-original-practice-50')) fail('19 November canonical build marker is missing');
+const dedupIndex19 = jsonFile('audit/dedup-index-2026-11-19.json');
+if (dedupIndex19.schemaVersion !== 4 || dedupIndex19.canonical.questionCount !== 973 || dedupIndex19.canonical.activeFingerprints.length !== 973 || dedupIndex19.officialPyq.questionCount !== 2433 || dedupIndex19.archive.fileCount !== 17 || dedupIndex19.archive.questionCount !== 381) fail('19 November compact dedup index totals are incorrect');
+if (new Set(dedupIndex19.canonical.activeFingerprints.map(record=>record.i)).size !== 973 || dedupIndex19.canonical.activeFingerprints.some(record=>!record.s || !record.o || !record.k)) fail('19 November active dedup index has duplicate IDs or missing fingerprints');
+const dedupAudit19 = jsonFile('audit/dedup-audit-2026-11-19.json');
+if (dedupAudit19.target !== 50 || dedupAudit19.draftedCandidates !== 62 || dedupAudit19.validatedUniqueQuestions !== 50 || dedupAudit19.rejectedCandidates.length !== 12 || dedupAudit19.collisions.candidateExactStemCollisions !== 0 || dedupAudit19.collisions.candidateOptionSetCollisions !== 0 || dedupAudit19.collisions.unresolvedSemanticCollisions !== 0 || dedupAudit19.collisions.withinBatchNearPairs !== 0 || ![0,50].includes(dedupAudit19.mergedQuestions) || !['pending','merged'].includes(dedupAudit19.mergeStatus)) fail('19 November candidate/dedup audit totals are incorrect');
 
 const dedupIndex16 = jsonFile('audit/dedup-index-2026-11-16.json');
 if (dedupIndex16.schemaVersion !== 2 || dedupIndex16.questionCount !== 881 || dedupIndex16.records.length !== 881 || dedupIndex16.candidateBatchQuestionCount !== 33) fail('16 November deduplication index totals are incorrect');
@@ -172,9 +186,9 @@ for (let number = 1; number <= 91; number++) {
 }
 if (!paperQuestions.find(q=>q.paperNo===27).o[3].includes('why IS she sketching')) fail('Q27 source/key anomaly must remain visible');
 if (!paperQuestions.find(q=>q.paperNo===30).verificationStatus.includes('unusual reporting verb')) fail('Q30 official-key anomaly must remain flagged');
-if (active.length !== 923 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
-if (batchFiles.length !== 16) fail('expected exactly 16 archived question batches');
-const expectedSubjectCounts = {"Aptitude":32,"Arithmetic":161,"Art & Culture":1,"Books & Authors":1,"Computer":26,"Current Affairs":44,"Economy":50,"English":148,"Environment":33,"General Science":11,"Geography":54,"GST / Inspector of Taxes":43,"History":52,"International Organisations":1,"Meghalaya GK":69,"Officer Technical":17,"Polity":93,"Reasoning":36,"Science":48,"Static GK":3};
+if (active.length !== 973 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
+if (batchFiles.length !== 17) fail('expected exactly 17 archived question batches');
+const expectedSubjectCounts = {"Aptitude":32,"Arithmetic":167,"Art & Culture":1,"Books & Authors":1,"Computer":28,"Current Affairs":47,"Economy":56,"English":154,"Environment":38,"General Science":11,"Geography":56,"GST / Inspector of Taxes":43,"History":57,"International Organisations":1,"Meghalaya GK":69,"Officer Technical":17,"Polity":93,"Reasoning":44,"Science":55,"Static GK":3};
 const actualSubjectCounts = {};
 for (const question of active) {
   const subject = question.cat.replace(/ • PYQ$/, '');
