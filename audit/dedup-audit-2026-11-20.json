@@ -30,7 +30,9 @@
     "allPyqQuestionFiles": 19,
     "allPyqQuestionRecords": 2572,
     "comparisonCorpusRecords": 3615,
-    "archivesAreMirrors": true
+    "archivesAreMirrors": true,
+    "preDraftActiveQuestions": 973,
+    "postMergeActiveQuestions": 1043
   },
   "collisions": {
     "candidateExactStemCollisionsInAcceptedBatch": 0,
@@ -53,7 +55,8 @@
       "activeToAllPyqExactStemClusters": 68,
       "activeToAllPyqExactStemAndOptionClusters": 62,
       "partialDuplicateFileExactStemAndOptionMatches": 139
-    }
+    },
+    "method": "NFKD-normalized stem and order-insensitive option-set checks; token Jaccard screening at 0.34 plus manual topic, concept, reasoning-path and learning-objective review. Candidate pool compared against the 973 pre-existing active questions and all 19 PYQ transcription files (18 official papers plus the 139-record partial duplicate subset); the retained 70 were also checked pairwise within the batch. Post-merge active count is 1,043."
   },
   "rejectedCandidates": [
     {
@@ -157,7 +160,9 @@
     "validatorConclusion": "success",
     "pullRequest": 108,
     "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/108",
-    "mergeCommitSha": "04cf3b2fe21c6fddbb62c2b322332884a59cfa88"
+    "mergeCommitSha": "04cf3b2fe21c6fddbb62c2b322332884a59cfa88",
+    "pagesDeploymentWorkflowRunId": 44669365354,
+    "pagesDeploymentWorkflowConclusion": "success"
   },
   "deployment": {
     "workflowRunId": 44669365354,
@@ -165,7 +170,7 @@
     "liveUrl": "https://pynshaishangoi.github.io/MPSC/",
     "buildMarker": "2026-11-20-original-practice-70",
     "verified": false,
-    "status": "GitHub Pages build/deployment workflow succeeded; the live URL could not be independently fetched to confirm the new marker."
+    "status": "GitHub Pages build/deployment workflow succeeded; the live URL could not be independently fetched to confirm the new build marker."
   },
   "privacy": "No personal data, private correspondence, private uploaded PDFs, copyrighted PYQ text or private user material was published."
 }
