@@ -9,7 +9,7 @@
   "totalQuestions": 150,
   "transcribedQuestions": 150,
   "complete": false,
-  "transcriptionNote": "All 150 printed question numbers have been aligned to the uploaded 20-page Series I booklet. A missing Q117 (wound watch spring) was restored and the previous one-place numbering shift from Q117 onward was corrected. Source scan corrections: Q61 Punctilious, Q62 Mendacious, Q76 Jital, Q131 HOTEL=12, Q133 train speed 60 km/h, Q143 equation 8*8*1*7=8 and operator options, Q150 powers 2²⁵⁰, 3¹⁵⁰, 5¹⁰⁰, 4²⁰⁰. Answered items are independently solved, not official-key answers. Q7, Q9, Q10, Q14, Q16, Q25, Q26, Q111, Q139 and Q141 remain explicitly unresolved; no guesses have been inserted.",
+  "transcriptionNote": "All 150 printed question numbers have been aligned to the uploaded 20-page Series I booklet. A missing Q117 (wound watch spring) was restored and the previous one-place numbering shift from Q117 onward was corrected. Source scan corrections: Q61 Punctilious, Q62 Mendacious, Q76 Jital, Q131 HOTEL=12, Q133 train speed 60 km/h, Q143 equation 8*8*1*7=8 and operator options, Q150 powers 2²⁵⁰, 3¹⁵⁰, 5¹⁰⁰, 4²⁰⁰. Answered items are independently solved, not official-key answers. Q7, Q9, Q10, Q14, Q16, Q25, Q26, Q111 and Q141 remain explicitly unresolved; no guesses have been inserted.",
   "questions": [
     {
       "number": 1,
@@ -2090,10 +2090,10 @@
         "55",
         "30"
       ],
-      "answerIndex": null,
+      "answerIndex": 3,
       "transcriptionStatus": "transcribed",
-      "explanation": "The printed sequence 21, 30, 37, 55, 85, 131, 197 does not establish a unique, consistent numerical rule. No answer is assigned.",
-      "answerStatus": "unresolved_source_or_ambiguous",
+      "explanation": "The first differences should be 6, 10, 18, 30, 46 and 66; their second differences are 4, 8, 12, 16 and 20, an arithmetic progression. Starting from 21 gives 27, 37, 55, 85, 131, 197. Therefore the printed 30 is the wrong number (option D).",
+      "answerStatus": "independently_solved_not_official_key",
       "sourceStatus": "checked_against_uploaded_question_booklet"
     },
     {
