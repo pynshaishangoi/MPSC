@@ -2,11 +2,11 @@
 
 A mobile-friendly GitHub Pages study hub for Meghalaya competitive examinations. Priority tracks: MPSC Inspector of Taxes, DSC East Khasi Hills LDA-cum-Typist and MPSC Secretariat LDA.
 
-## Verified repository snapshot — 18 November 2026
+## Verified repository snapshot — 20 November 2026
 
-- **923 active unique question records**: 592 legacy embedded questions plus 331 questions mirrored in 16 archived batches. All 923 are embedded in `index.html` for immediate offline availability; the archives are preserved for audit and are not a runtime dependency.
+- **1,043 active unique question records**: 592 legacy embedded questions plus 451 records mirrored in 18 archived batches. All 1,043 are embedded directly in `index.html` for immediate offline availability; the archives are preserved for audit and are not a runtime dependency.
 - **111 records tagged PYQ**. A PYQ tag is not the same as a complete paper.
-- **219 structured detailed explanations** across eight libraries: 52 History, 83 Polity, 20 English, 11 Arithmetic, 20 Meghalaya GK, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **23.7% of the active bank**; 704 active IDs still need structured library explanations. The Meghalaya GK library explains 20 of 69 active regional questions (29.0%); 49 remain. The Arithmetic library adds worked solutions for 11 active questions (compound interest, percentages, ratio, simple interest, average, profit, time-and-work and speed); coverage is audited by ID in `audit/explanation-coverage-2026-11-06.json`.
+- **219 structured detailed explanations** across eight libraries: 52 History, 83 Polity, 20 English, 11 Arithmetic, 20 Meghalaya GK, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **21.0% of the active bank**; 824 active IDs still need structured library explanations. The Meghalaya GK library explains 20 of 74 active regional questions (27.0%); 54 remain. The Arithmetic library adds worked solutions for 11 of 171 active questions (compound interest, percentages, ratio, simple interest, average, profit, time-and-work and speed); 160 remain. Coverage is audited by ID in `audit/explanation-coverage-2026-11-06.json`.
 - **Study Notes:** 18 subject collections and 64 revision chapters (including 4 newly integrated collections from the 6 November uploaded-note analysis).
 - **MPSC Secretariat LDA May 2025 recruitment-cycle Series I:** 91 of 150 questions transcribed and checked against the official final answer key dated 17 December 2025; 59 remain.
 
@@ -36,22 +36,22 @@ Editorial classification of the 75 English questions: 4 reading-comprehension, 6
 
 | Subject | Active records |
 |---|---:|
-| Arithmetic | 161 |
-| English | 148 |
-| Polity | 83 |
-| Meghalaya GK | 62 |
-| Science | 48 |
-| Economy | 50 |
-| Current Affairs | 44 |
-| Geography | 47 |
+| Arithmetic | 171 |
+| English | 161 |
+| Polity | 99 |
+| Meghalaya GK | 74 |
+| Science | 58 |
+| Economy | 61 |
+| Current Affairs | 48 |
+| Geography | 62 |
 | Aptitude | 32 |
-| Environment | 32 |
+| Environment | 41 |
 | Officer Technical | 17 |
-| GST / Inspector of Taxes | 38 |
-| Reasoning | 36 |
-| General Science | 10 |
-| Computer | 15 |
-| History | 52 |
+| GST / Inspector of Taxes | 56 |
+| Reasoning | 48 |
+| General Science | 11 |
+| Computer | 35 |
+| History | 63 |
 | Static GK | 3 |
 | Art & Culture | 1 |
 | International Organisations | 1 |
@@ -143,6 +143,10 @@ Added 12 original, source-linked practice questions across Arithmetic, English, 
 
 Added **33 original, source-linked questions** (IDs 7228–7260) across GST / Inspector of Taxes, Meghalaya GK, Polity, History, Geography, Environment, Economy, Computer and English. The statutory GST items were checked against the consolidated India Code CGST Act published 11 June 2026; constitutional items were checked against the Legislative Department edition dated 10 September 2026. All items are labelled Original Practice, not PYQ. The batch is loaded by the application and precached by the service worker. See [question-batches/2026-11-16-original-practice.json](question-batches/2026-11-16-original-practice.json), [audit/dedup-index-2026-11-16.json](audit/dedup-index-2026-11-16.json) and [audit/dedup-audit-2026-11-16.json](audit/dedup-audit-2026-11-16.json).
 
-## Ramp-up tracker — 18 November 2026
+## Original practice expansion and ramp-up — 20 November 2026
 
-The revised ramp starts at **50 validated original questions per day**. On 18 November, 50 candidates were drafted; 42 passed full-bank deduplication, source and schema review (84%), while eight near-duplicates were rejected. Because 84% is below the 90% increase threshold, the next daily target remains **50**. The 42 questions bring the active bank to 923 after merge; 9,077 remain to reach 10,000. The canonical bank remains embedded for offline use. Live deployment is not yet verified.
+The 20 November batch adds **70 newly authored Original Practice questions** (IDs 9101–9170) across 13 subject areas. Eighty-one candidate concepts/stems were screened; 11 were rejected for exact, near-semantic, same-skill or coupled-concept overlap. The retained 70 passed schema, answer, explanation, source and full-bank deduplication checks and were merged in PR [#108](https://github.com/pynshaishangoi/MPSC/pull/108). The batch is archived in `question-batches/2026-11-20-original-practice.json` and all 70 records are embedded in the canonical offline-first `Q` array.
+
+The pre-draft comparison included 973 active questions, 451 mirrored archive records, all 18 official PYQ transcription files (2,433 records), and the 139-record partial Labour Inspector file verified as an exact subset of the complete paper. No official PYQ text or private uploaded source material was published. A follow-up source review corrected three mismatched NCERT subject references (questions 9164–9166) and clarified the Class XII Ecosystem source label (question 9167); stems and answers were unchanged.
+
+The revised ramp started at **50 questions per day**. The 19 November run passed 50/50 and merged, raising the target to 70. On 20 November, 70/70 passed and merged, so the next target is **90**. The active bank contains 1,043 unique questions; **8,957** remain to reach 10,000. GitHub Actions validation and the GitHub Pages build/deploy workflow succeeded, but the live URL build marker has not been independently fetched, so live deployment remains unverified.

@@ -169,6 +169,19 @@ for (const question of expansionBatch20.questions) {
   if (!question.topic || !question.exam || !Array.isArray(question.examTags) || question.examTags.length !== 2 || !question.e || question.e.length < 120 || !question.source || !question.source.includes('not an official PYQ') || question.label !== 'Original Practice' || question.sourceType !== 'Original Practice' || !question.sourceURL || !question.sourceURL.startsWith('https://') || question.sourceVerifiedDate !== '2026-11-20' || !question.verificationStatus || !question.verificationStatus.includes('2026-11-20') || question.difficulty === 'PYQ' || question.answerIndex !== question.a || question.o.length !== 4 || new Set(question.o).size !== 4 || !Number.isInteger(question.a) || question.a < 0 || question.a > 3) fail('20 November question ' + question.id + ' needs topic/exam tags, four options, answer, teaching explanation, source and Original Practice label');
   if (question.cat === 'GST / Inspector of Taxes' && !question.sourceURL.startsWith('https://www.indiacode.nic.in/')) fail('20 November GST question ' + question.id + ' must use the official India Code statutory source');
 }
+const sourceCorrections20 = {
+  9164: { name: 'NCERT Class XI Biology — Chapter 10: Cell Cycle and Cell Division', url: 'https://ncert.nic.in/textbook.php?kebo1=1-22' },
+  9165: { name: 'NCERT Class XI Biology Exemplar Problems — Chapter 11: Transport in Plants', url: 'https://www.ncert.nic.in/pdf/publication/exemplarproblem/classXI/biology/keep411.pdf' },
+  9166: { name: 'NCERT Science, Class X — Chapter 9: Light – Reflection and Refraction', url: 'https://ncert.nic.in/textbook/pdf/jesc109.pdf' },
+  9167: { name: 'NCERT Biology, Class XII — Chapter 12: Ecosystem', url: 'https://ncert.nic.in/textbook.php?lebo1=10-16' }
+};
+for (const [id, expected] of Object.entries(sourceCorrections20)) {
+  const archived = expansionBatch20.questions.find(question => String(question.id) === id);
+  const embeddedQuestion = active.find(question => String(question.id) === id);
+  for (const question of [archived, embeddedQuestion]) {
+    if (!question || question.sourceName !== expected.name || question.sourceURL !== expected.url || !question.source.includes(expected.name)) fail('20 November question ' + id + ' has an incorrect NCERT source mapping');
+  }
+}
 if (expansionBatch20.questions[69].id !== 9170 || !expansionBatch20.questions[69].sourceURL.includes('final-notification-mawtneng')) fail('20 November Meghalaya current-affairs question must cite the official Mawtneng BHS notification page');
 if (!sw.includes('./question-batches/2026-11-20-original-practice.json')) fail('service worker does not precache 20 November original-practice archive');
 if (!html.includes('mpsc-build') || !html.includes('2026-11-20-original-practice-70')) fail('20 November canonical build marker is missing');
