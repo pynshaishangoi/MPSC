@@ -114,7 +114,12 @@
     "postMergeActiveQuestions": 1043,
     "comparedPyqFiles": 19,
     "comparedPyqRecords": 2572,
-    "preDraftComparisonCorpusRecords": 3545
+    "preDraftComparisonCorpusRecords": 3545,
+    "sourceCorrection": {
+      "questionId": 9170,
+      "description": "Clarified that 21 January 2026 is the MBB notice-board listing date; the final notification PDF is dated 2 January 2026. The site is in Ri-Bhoi district. No question count or ramp target changed.",
+      "sourceGatePassed": true
+    }
   },
   "nextDailyTarget": 90,
   "cumulativeUniqueAdditionsSinceRampStart": 162,
