@@ -23,7 +23,9 @@
       "answerIndex": 3,
       "transcriptionStatus": "transcribed",
       "explanation": "Ambled means walked slowly and casually; “strolled” is the closest option.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "ambled",
+      "sectionInstruction": "Direction (Q. Nos. 1–10): In these sentences, out of the four alternatives given, choose the one which best expresses the meaning of the word in italics."
     },
     {
       "number": 2,
@@ -37,7 +39,8 @@
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
       "explanation": "Flocked means gathered together in a group; “congregated” has the same meaning.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "flocked"
     },
     {
       "number": 3,
@@ -51,7 +54,8 @@
       "answerIndex": 2,
       "transcriptionStatus": "transcribed_verified_from_source_scan",
       "explanation": "Paucity means scarcity or shortage. Option C is the direct synonym.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "paucity"
     },
     {
       "number": 4,
@@ -65,7 +69,8 @@
       "answerIndex": 0,
       "transcriptionStatus": "transcribed_verified_from_source_scan",
       "explanation": "Perfidy means deliberate betrayal or treachery. “Treason” is the closest option supplied.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "perfidy"
     },
     {
       "number": 5,
@@ -79,7 +84,8 @@
       "answerIndex": 2,
       "transcriptionStatus": "transcribed",
       "explanation": "Adorable means lovable or delightful. “Delightful” is the closest available option, though “amiable” is also related to pleasant character.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "adorable"
     },
     {
       "number": 6,
@@ -93,7 +99,8 @@
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
       "explanation": "To admonish someone is to reprimand or warn them firmly.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "admonished"
     },
     {
       "number": 7,
@@ -107,7 +114,8 @@
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
       "explanation": "Vis-à-vis means in relation to or with reference to.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "vis-à-vis"
     },
     {
       "number": 8,
@@ -121,7 +129,8 @@
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
       "explanation": "Opulence means great wealth or luxury.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "opulence"
     },
     {
       "number": 9,
@@ -135,7 +144,8 @@
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
       "explanation": "Puerile means childish or immature.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "puerile"
     },
     {
       "number": 10,
@@ -149,7 +159,8 @@
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
       "explanation": "Prudence means careful, sensible judgment; caution is the closest option.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "prudence"
     },
     {
       "number": 11,
@@ -163,7 +174,9 @@
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
       "explanation": "Perseverance is steady determination; vacillation means wavering or being indecisive, its opposite.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "perseverance",
+      "sectionInstruction": "Direction (Q. Nos. 11–20): In these sentences, out of the four alternatives given, choose the one which is opposite in meaning of the word in italics."
     },
     {
       "number": 12,
@@ -177,7 +190,8 @@
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
       "explanation": "Surplus means an excess; its opposite is dearth, meaning scarcity.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "surplus"
     },
     {
       "number": 13,
@@ -191,7 +205,8 @@
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
       "explanation": "Contemporary means belonging to the present time. “Old-fashioned” is the best-fit opposite (A), although “antiquated” (B) is also a near-synonym of old-fashioned, making this question ambiguous.",
-      "answerStatus": "independently_solved_ambiguous_options"
+      "answerStatus": "independently_solved_ambiguous_options",
+      "targetWord": "contemporary"
     },
     {
       "number": 14,
@@ -205,7 +220,8 @@
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
       "explanation": "The underlined word in the scan is “solving”; among the given choices, “complicating” is the closest opposite in sense, although the item is awkwardly worded.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "solving"
     },
     {
       "number": 15,
@@ -219,7 +235,8 @@
       "answerIndex": 2,
       "transcriptionStatus": "transcribed",
       "explanation": "To vow is to make a solemn promise; to renounce is to formally give up or reject a commitment.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "vowed"
     },
     {
       "number": 16,
@@ -233,7 +250,8 @@
       "answerIndex": 3,
       "transcriptionStatus": "transcribed",
       "explanation": "Frequent means happening often; occasional means happening sometimes, not often.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "frequent"
     },
     {
       "number": 17,
@@ -247,7 +265,8 @@
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
       "explanation": "To claim a share is to assert a right to it; to disclaim is to deny or renounce a claim.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "claimed"
     },
     {
       "number": 18,
@@ -261,7 +280,8 @@
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
       "explanation": "Apprehensive means anxious or worried; unconcerned is the opposite.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "apprehensive"
     },
     {
       "number": 19,
@@ -275,7 +295,8 @@
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
       "explanation": "To pacify is to calm; to aggravate is to make a situation worse or more intense.",
-      "answerStatus": "independently_solved_not_official_key"
+      "answerStatus": "independently_solved_not_official_key",
+      "targetWord": "pacify"
     },
     {
       "number": 20,
@@ -289,7 +310,8 @@
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
       "explanation": "Self-complacent means smug or overly pleased with oneself. “Demure” suggests modest or reserved behaviour and is the closest available opposite.",
-      "answerStatus": "independently_solved_best_fit_not_official_key"
+      "answerStatus": "independently_solved_best_fit_not_official_key",
+      "targetWord": "self-complacent"
     },
     {
       "number": 21,
