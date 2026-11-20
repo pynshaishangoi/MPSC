@@ -10584,7 +10584,7 @@
     "unresolved": 0,
     "comparisonCorpus": 3615,
     "semanticThreshold": 0.34,
-    "method": "NFKD-normalized stem and order-insensitive option-set checks; token Jaccard screening at 0.34 plus manual topic, concept, reasoning-path and learning-objective review. Candidate pool checked against all 1,043 active questions and all 19 PYQ transcription files (18 official papers plus the 139-record partial duplicate subset).",
+    "method": "NFKD-normalized stem and order-insensitive option-set checks; token Jaccard screening at 0.34 plus manual topic, concept, reasoning-path and learning-objective review. Candidate pool compared against the 973 pre-existing active questions and all 19 PYQ transcription files (18 official papers plus the 139-record partial duplicate subset); the retained 70 were also checked pairwise within the batch. Post-merge active count is 1,043.",
     "acceptedIds": [
       9101,
       9102,
@@ -10702,7 +10702,12 @@
         "draftKey": "candidate-76-living-root-bridges",
         "reason": "Near-semantic overlap with an existing living-root-bridge question."
       }
-    ]
+    ],
+    "preDraftActiveQuestions": 973,
+    "postMergeActiveQuestions": 1043,
+    "comparedPyqFiles": 19,
+    "comparedPyqRecords": 2572,
+    "preDraftComparisonCorpusRecords": 3545
   },
   "sourceInventory": {
     "officialPyqFilesFetched": 18,
@@ -10729,5 +10734,6 @@
   "postMergeAudit": true,
   "postMergeVerifiedMainSha": "04cf3b2fe21c6fddbb62c2b322332884a59cfa88",
   "pagesDeploymentWorkflowRunId": 44669365354,
-  "pagesDeploymentWorkflowStatus": "success"
+  "pagesDeploymentWorkflowStatus": "success",
+  "sourceFilesUnchangedFromPriorAudit": false
 }
