@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-20",
+  "campaign": "MPSC Smart Study Hub",
+  "target": 70,
+  "draftedCandidates": 81,
+  "validatedUniqueQuestions": 70,
+  "mergedQuestions": 70,
+  "startingActiveQuestions": 973,
+  "activeUniqueQuestionsAfterMerge": 1043,
+  "cumulativeUniqueAdditionsSinceRampStart": 162,
+  "remainingTo10000": 8957,
+  "ramp": {
+    "previousTarget": 50,
+    "previousValidatedQuestions": 50,
+    "previousMergedQuestions": 50,
+    "previousPassRate": 1,
+    "nextTarget": 90,
+    "allGatesPassed": true,
+    "reason": "The 19 November run passed 50/50 and merged; today's 70/70 also passed every gate, so the next target increases by the permitted 20."
+  },
+  "sourceCorpus": {
+    "activeEmbeddedQuestions": 1043,
+    "questionBatchArchiveFiles": 18,
+    "questionBatchArchiveRecords": 451,
+    "officialPyqFiles": 18,
+    "officialPyqQuestionRecords": 2433,
+    "partialDuplicateFiles": 1,
+    "partialDuplicateRecords": 139,
+    "allPyqQuestionFiles": 19,
+    "allPyqQuestionRecords": 2572,
+    "comparisonCorpusRecords": 3615,
+    "archivesAreMirrors": true
+  },
+  "collisions": {
+    "candidateExactStemCollisionsInAcceptedBatch": 0,
+    "candidateOptionSetCollisionsInAcceptedBatch": 0,
+    "nearSemanticCollisionsRejected": 3,
+    "conceptOverlapRejected": 7,
+    "exactStemCollisionRejected": 1,
+    "optionSetCollisionRejected": 0,
+    "withinBatchNearPairs": 0,
+    "unresolvedSemanticCollisions": 0,
+    "semanticThreshold": 0.34,
+    "historicalClusters": {
+      "normalization": "NFKD, lowercase, punctuation-insensitive alphanumeric stems; option sets sorted order-insensitively",
+      "activeNormalizedStemClusters": 35,
+      "activeNormalizedStemExtraCopies": 44,
+      "allPyqFilesNormalizedStemClusters": 158,
+      "allPyqFilesNormalizedStemExtraCopies": 164,
+      "allPyqFilesExactStemAndOptionClusters": 151,
+      "allPyqFilesExactStemAndOptionExtraCopies": 153,
+      "activeToAllPyqExactStemClusters": 68,
+      "activeToAllPyqExactStemAndOptionClusters": 62,
+      "partialDuplicateFileExactStemAndOptionMatches": 139
+    }
+  },
+  "rejectedCandidates": [
+    {
+      "draftKey": "candidate-03-bhs-compensation",
+      "reason": "Same Section 37/Biodiversity Heritage Site statutory concept as retained notification question; removed to avoid two coupled questions from the same provision."
+    },
+    {
+      "draftKey": "candidate-20-half-yearly-compound-interest",
+      "reason": "Near-semantic overlap with an existing compound-interest question."
+    },
+    {
+      "draftKey": "candidate-22-weighted-mean",
+      "reason": "Overlapped an existing weighted-average/mean calculation skill."
+    },
+    {
+      "draftKey": "candidate-24-successive-percentage-change",
+      "reason": "Exact normalized-stem collision with the active bank."
+    },
+    {
+      "draftKey": "candidate-26-compound-ratio",
+      "reason": "Near-semantic overlap with an existing ratio-of-ratios problem."
+    },
+    {
+      "draftKey": "candidate-27-calendar-odd-days",
+      "reason": "Same calendar/odd-days reasoning path as an existing leap-year calendar item."
+    },
+    {
+      "draftKey": "candidate-28-syllogism",
+      "reason": "Same syllogistic inference pattern as an existing reasoning item."
+    },
+    {
+      "draftKey": "candidate-39-state-finance-commission",
+      "reason": "Too close to the existing constitutional Finance Commission question."
+    },
+    {
+      "draftKey": "candidate-64-newton-third-law",
+      "reason": "Same action–reaction mechanics learning objective as an existing science item."
+    },
+    {
+      "draftKey": "candidate-68-ozone-depletion",
+      "reason": "Near-semantic overlap with an existing ozone-layer question."
+    },
+    {
+      "draftKey": "candidate-76-living-root-bridges",
+      "reason": "Near-semantic overlap with an existing living-root-bridge question."
+    }
+  ],
+  "subjects": {
+    "Meghalaya GK": 5,
+    "GST / Inspector of Taxes": 13,
+    "English": 7,
+    "Arithmetic": 4,
+    "Reasoning": 4,
+    "Computer": 7,
+    "Polity": 6,
+    "History": 6,
+    "Geography": 6,
+    "Economy": 5,
+    "Science": 3,
+    "Environment": 3,
+    "Current Affairs": 1
+  },
+  "examTracks": [
+    "MPSC Inspector of Taxes",
+    "DSC East Khasi Hills LDA-cum-Typist",
+    "MPSC Secretariat LDA"
+  ],
+  "sourceVerification": {
+    "verifiedDate": "2026-11-20",
+    "primarySources": [
+      "India Code — CGST Act consolidated text",
+      "Meghalaya Biodiversity Board",
+      "Government of India Legislative Department — Constitution",
+      "NCERT",
+      "India Meteorological Department",
+      "Union Budget 2025–26",
+      "USGS",
+      "US EPA",
+      "NIST",
+      "IETF RFCs",
+      "ICANN",
+      "PostgreSQL documentation",
+      "Cambridge Dictionary",
+      "Purdue OWL"
+    ],
+    "changingFacts": [
+      "Mawtneng BHS final notification dated 21 January 2026, Ri-Bhoi district"
+    ],
+    "all70HaveSourceNameUrlAndVerificationDate": true
+  },
+  "repositoryValidation": {
+    "repository": "pynshaishangoi/MPSC",
+    "visibility": "public",
+    "mainSha": "04cf3b2fe21c6fddbb62c2b322332884a59cfa88",
+    "canonicalBankEmbedded": true,
+    "questionCountDerivedFromQLength": true,
+    "offlineFirst": true,
+    "archiveMirrorsVerifiedByValidator": true,
+    "serviceWorkerUpdated": true,
+    "validatorRunId": 44669365874,
+    "validatorConclusion": "success",
+    "pullRequest": 108,
+    "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/108",
+    "mergeCommitSha": "04cf3b2fe21c6fddbb62c2b322332884a59cfa88"
+  },
+  "deployment": {
+    "workflowRunId": 44669365354,
+    "workflowConclusion": "success",
+    "liveUrl": "https://pynshaishangoi.github.io/MPSC/",
+    "buildMarker": "2026-11-20-original-practice-70",
+    "verified": false,
+    "status": "GitHub Pages build/deployment workflow succeeded; the live URL could not be independently fetched to confirm the new marker."
+  },
+  "privacy": "No personal data, private correspondence, private uploaded PDFs, copyrighted PYQ text or private user material was published."
+}
