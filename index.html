@@ -548,7 +548,7 @@ function submitExactPyq(){
  if(runner)runner.innerHTML='';
  if(result){
   const incorrect=answered-correct,unanswered=questions.length-answered,percent=verified?Math.round(correct/verified*100):0;
-  const marksPerQuestion=active.paperId==='meghalaya-pyq-001'?2:1;
+  const marksPerQuestion=active.paper&&active.paper.id==='meghalaya-pyq-001'?2:1;
   const totalMarks=verified*marksPerQuestion,marksObtained=correct*marksPerQuestion;
   const scoreText=verified?'<div class="result">Score: '+marksObtained+' / '+totalMarks+' marks ('+percent+'%)</div>':'<div class="note">No verified answer key is available for this paper, so a score cannot be calculated yet. Your responses are shown below.</div>';
   result.innerHTML='<div class="card"><h3>Full examination score card</h3>'+scoreText+'<div class="grid two"><div class="topic"><b>Total questions</b><span>'+questions.length+'</span></div><div class="topic"><b>Attempted</b><span>'+answered+'</span></div><div class="topic"><b>Correct</b><span>'+correct+'</span></div><div class="topic"><b>Incorrect</b><span>'+incorrect+'</span></div><div class="topic"><b>Unanswered</b><span>'+unanswered+'</span></div><div class="topic"><b>Accuracy</b><span>'+percent+'%</span></div><div class="topic"><b>Marks obtained</b><span>'+marksObtained+' / '+totalMarks+'</span></div><div class="topic"><b>Result basis</b><span>Independently solved key</span></div></div><p>'+(autoSubmit?'Automatically submitted when time expired.':'Submitted by candidate.')+'</p><h3>Answer review</h3><p class="small muted">Answer key independently solved from the paper; no official answer key was supplied.</p>'+questions.map(function(q){
