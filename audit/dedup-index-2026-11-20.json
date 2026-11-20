@@ -10584,7 +10584,7 @@
     "unresolved": 0,
     "comparisonCorpus": 3615,
     "semanticThreshold": 0.34,
-    "method": "NFKD-normalized stem and order-insensitive option-set checks; token Jaccard screening at 0.34 plus manual topic, concept, reasoning-path and learning-objective review. Candidate pool compared against the 973 pre-existing active questions and all 19 PYQ transcription files (18 official papers plus the 139-record partial duplicate subset); the retained 70 were also checked pairwise within the batch. Post-merge active count is 1,043.",
+    "method": "NFKD-normalized stem and order-insensitive option-set checks; token Jaccard screening at 0.34 plus manual topic, concept, reasoning-path and learning-objective review. Candidate pool compared against the 973 pre-existing active questions and all 19 PYQ transcription files (18 official papers plus the 139-record partial duplicate subset); the retained 70 were also checked pairwise within the batch. Post-merge active count is 1,043. Supporting current-affairs, explanation-library, PYQ-transcription-audit and official-source metadata files were also inspected; they contain source notes, explanation mappings or transcription metadata rather than separate question stems/options.",
     "acceptedIds": [
       9101,
       9102,
@@ -10720,7 +10720,14 @@
     "questionBatchArchives": 18,
     "questionBatchArchiveRecords": 451,
     "unlistedQuestionBatchFiles": 0,
-    "comparisonCorpusRecords": 3615
+    "comparisonCorpusRecords": 3615,
+    "supportingDataFilesReviewed": 15,
+    "currentAffairsFilesReviewed": 4,
+    "currentAffairsSourceItemsReviewed": 19,
+    "explanationLibraryFilesReviewed": 8,
+    "pyqTranscriptionAuditFilesReviewed": 3,
+    "officialSourcesIndexReviewed": true,
+    "otherQuestionBankFilesOutsideCanonicalArchivesAndPyq": 0
   },
   "copyrightAndPrivacy": "Only hashes/fingerprints of official PYQ records are stored in the dedup index; no official PYQ stems/options, uploaded PDFs, private files, personal data or private correspondence are reproduced. All 70 new records are independently authored Original Practice questions.",
   "mergeStatus": "merged",
