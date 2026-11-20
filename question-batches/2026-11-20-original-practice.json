@@ -2305,7 +2305,7 @@
       "id": 9170,
       "cat": "Current Affairs",
       "topic": "Mawtneng Biodiversity Heritage Site — district",
-      "q": "The Meghalaya Biodiversity Board's final notification of Mawtneng Biodiversity Heritage Site, dated 21 January 2026, identifies the site in which district?",
+      "q": "The Meghalaya Biodiversity Board's notice board lists the final notification of Mawtneng Biodiversity Heritage Site on 21 January 2026. In which district is the site located?",
       "o": [
         "West Jaintia Hills",
         "Ri-Bhoi",
@@ -2314,7 +2314,7 @@
       ],
       "a": 1,
       "answerIndex": 1,
-      "e": "The Meghalaya Biodiversity Board's final-notification page identifies Mawtneng Biodiversity Heritage Site at Bhoirymbong in Ri-Bhoi district. The page records the notification date as 21 January 2026; this is a date-sensitive local current-affairs fact and should be rechecked if the notification is superseded.",
+      "e": "The Board's final-notification page identifies Mawtneng BHS at Bhoirymbong in Ri-Bhoi district. Its notice board lists the final-notification item on 21 January 2026; the notification PDF itself is dated 2 January 2026. The question's 21 January date refers to the Board's notice-board entry, not the document date.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -2326,10 +2326,10 @@
         "Mawtneng Biodiversity Heritage Site — district",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Meghalaya Biodiversity Board — Final Notification of Mawtneng Biodiversity Heritage Site, 21 January 2026.",
+      "source": "Original Practice — not an official PYQ. Meghalaya Biodiversity Board — Final Notification of Mawtneng BHS, Bhoirymbong, Ri-Bhoi District (notice-board listing 21 January 2026; notification dated 2 January 2026).",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Meghalaya Biodiversity Board — Final Notification of Mawtneng Biodiversity Heritage Site, 21 January 2026",
+      "sourceName": "Meghalaya Biodiversity Board — Final Notification of Mawtneng BHS, Bhoirymbong, Ri-Bhoi District (notice-board listing 21 January 2026; notification dated 2 January 2026)",
       "sourceURL": "https://megbiodiversity.nic.in/final-notification-mawtneng-biodiversity-heritage-site-bhs-bhoirymbong-ri-bhoi-district",
       "sourceVerifiedDate": "2026-11-20",
       "verificationStatus": "verified_primary_source_2026-11-20"
