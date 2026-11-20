@@ -150,9 +150,10 @@
       "Purdue OWL"
     ],
     "changingFacts": [
-      "Mawtneng BHS final notification dated 21 January 2026, Ri-Bhoi district"
+      "Mawtneng BHS is in Bhoirymbong, Ri-Bhoi district; MBB notice-board entry for final notification is dated 21 January 2026, while the final notification PDF itself is dated 2 January 2026."
     ],
-    "all70HaveSourceNameUrlAndVerificationDate": true
+    "all70HaveSourceNameUrlAndVerificationDate": true,
+    "dateClarification": "The current-affairs question explicitly distinguishes the MBB notice-board listing date from the date printed on the final notification PDF."
   },
   "repositoryValidation": {
     "repository": "pynshaishangoi/MPSC",
