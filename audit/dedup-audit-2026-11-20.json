@@ -152,7 +152,47 @@
     "changingFacts": [
       "Mawtneng BHS final notification dated 21 January 2026, Ri-Bhoi district"
     ],
-    "all70HaveSourceNameUrlAndVerificationDate": true
+    "all70HaveSourceNameUrlAndVerificationDate": true,
+    "postMergeSourceReview": {
+      "date": "2026-11-20",
+      "status": "corrections_prepared_for_validation",
+      "issueCount": 3,
+      "correctedQuestionIds": [
+        9164,
+        9165,
+        9166
+      ],
+      "clarifiedQuestionIds": [
+        9167
+      ],
+      "details": [
+        {
+          "questionId": 9164,
+          "issue": "The prior generic NCERT Class XII Biology portal did not support the Class XI meiosis topic.",
+          "sourceName": "NCERT Class XI Biology — Chapter 10: Cell Cycle and Cell Division",
+          "sourceURL": "https://ncert.nic.in/textbook.php?kebo1=1-22"
+        },
+        {
+          "questionId": 9165,
+          "issue": "The prior NCERT Class XII Biology portal did not support the Class XI osmosis topic.",
+          "sourceName": "NCERT Class XI Biology Exemplar Problems — Chapter 11: Transport in Plants",
+          "sourceURL": "https://www.ncert.nic.in/pdf/publication/exemplarproblem/classXI/biology/keep411.pdf"
+        },
+        {
+          "questionId": 9166,
+          "issue": "The prior NCERT Biology portal was not an appropriate source for light refraction.",
+          "sourceName": "NCERT Science, Class X — Chapter 9: Light – Reflection and Refraction",
+          "sourceURL": "https://ncert.nic.in/textbook/pdf/jesc109.pdf"
+        },
+        {
+          "questionId": 9167,
+          "issue": "The prior source URL was relevant but the source label was too generic.",
+          "sourceName": "NCERT Biology, Class XII — Chapter 12: Ecosystem",
+          "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=10-16"
+        }
+      ],
+      "questionStemsOrAnswersChanged": false
+    }
   },
   "repositoryValidation": {
     "repository": "pynshaishangoi/MPSC",
