@@ -1796,7 +1796,7 @@
       ],
       "answerIndex": 3,
       "transcriptionStatus": "transcribed_verified_from_high_resolution_source_scan",
-      "explanation": "The scan reads 4 5/6 + 7 1/2 − 5 8/11. Converting to denominator 66 gives 29/6 + 15/2 − 63/11 = 218/33 = 6 20/33.",
+      "explanation": "Convert each mixed number into an improper fraction: 4 5/6=29/6, 7 1/2=15/2 and 5 8/11=63/11. The expression becomes 29/6+15/2−63/11. The LCM of 6, 2 and 11 is 66, so this is 319/66+495/66−378/66=436/66=218/33. Converting back to a mixed number gives 6 20/33. Option D is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1810,7 +1810,7 @@
       ],
       "answerIndex": 2,
       "transcriptionStatus": "transcribed",
-      "explanation": "Let the ages seven years ago be 3k and 4k. Then (3k+16)/(4k+16)=7/8, giving 24k+128=28k+112, so k=4. B's present age is 4k+7=23 years.",
+      "explanation": "Let the ages of A and B seven years ago be 3x and 4x respectively. Their present ages are therefore 3x+7 and 4x+7. Nine years from now their ages will be 3x+16 and 4x+16. Using the given ratio: (3x+16)/(4x+16)=7/8. Cross-multiplying gives 24x+128=28x+112, so 4x=16 and x=4. B's present age is 4x+7=16+7=23 years. Option C is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1824,7 +1824,7 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "Marked price = ₹5,600×1.12 = ₹6,272. Discount = 5% of ₹6,272 = ₹313.60.",
+      "explanation": "First calculate the marked price. A 12% increase on ₹5,600 is ₹5,600×12/100=₹672, so marked price=₹5,600+₹672=₹6,272. The discount is 5% of the marked price: ₹6,272×5/100=₹313.60. Therefore, option B is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1838,7 +1838,7 @@
       ],
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
-      "explanation": "Car speed = 520/8 = 65 km/h. Train speed = 3×65 = 195 km/h. In 13 hours it covers 195×13 = 2,535 km.",
+      "explanation": "The car's average speed is distance divided by time: 520÷8=65 km/h. The train's speed is three times the car's speed, so 3×65=195 km/h. In 13 hours the train covers 195×13=2,535 km. Option A is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1852,7 +1852,7 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "Square side = 224/4 = 56 cm. Its area is 56² = 3,136 cm². Half of this is 1,568 cm².",
+      "explanation": "The square's perimeter is 224 cm. Since a square has four equal sides, each side is 224÷4=56 cm. Its area is 56×56=3,136 cm². The triangle's area is half the square's area, so 3,136÷2=1,568 cm². Option B is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1866,7 +1866,7 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "Compound interest = 8,500[(1.10)²−1] = ₹1,785.",
+      "explanation": "For compound interest compounded annually, amount after two years is P(1+r/100)². Here P=₹8,500 and r=10%. Amount=8,500×1.1²=8,500×1.21=₹10,285. Compound interest=amount−principal=₹10,285−₹8,500=₹1,785. Option B is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1880,7 +1880,7 @@
       ],
       "answerIndex": 3,
       "transcriptionStatus": "transcribed",
-      "explanation": "Five consecutive odd numbers centred on their average 95 are 91, 93, 95, 97 and 99. In descending order, the fourth is 93.",
+      "explanation": "Five consecutive odd numbers have a constant difference of 2. Because there are five numbers, their average is the middle (third) number, 95. The sequence in ascending order is 91, 93, 95, 97, 99. In descending order it is 99, 97, 95, 93, 91, so the fourth number is 93. Option D is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1894,7 +1894,7 @@
       ],
       "answerIndex": 3,
       "transcriptionStatus": "transcribed_verified_from_source_scan",
-      "explanation": "Adding the three pair-work rates gives 2(A+B+C)=1/18+1/12+1/15=37/180. Their combined rate is 37/360, so time = 360/37 = 9 27/37 hours. Option D in the scan is 9 27/37 hours.",
+      "explanation": "Let the one-hour work rates of A, B and C be a, b and c. The question gives a+b=1/18, b+c=1/12 and a+c=1/15. Adding all three equations gives 2(a+b+c)=1/18+1/12+1/15. With denominator 180, the right side is 10/180+15/180+12/180=37/180. Therefore, a+b+c=37/360 of the work per hour. Time for the whole work=1÷(37/360)=360/37 hours=9 27/37 hours. Option D is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1908,7 +1908,7 @@
       ],
       "answerIndex": 2,
       "transcriptionStatus": "transcribed",
-      "explanation": "Let train length be L. From passing a man, speed=L/10. Passing a 100 m platform takes 15 s: (L+100)/15=L/10, giving L=200 m and speed=20 m/s=72 km/h.",
+      "explanation": "Let the train's length be L metres and its speed be v metres per second. When it passes a man, it covers its own length in 10 seconds, so v=L/10. When it passes a 100 m platform, it covers L+100 metres in 15 seconds, so v=(L+100)/15. Equating: L/10=(L+100)/15. Thus 15L=10L+1,000, giving L=200 m. Speed=200/10=20 m/s. Convert to km/h: 20×18/5=72 km/h. Option C is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1922,7 +1922,7 @@
       ],
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
-      "explanation": "The difference between a 10% loss and a 5% profit is 15% of cost price. Thus CP=₹45/0.15=₹300 and selling price at 10% loss=₹270.",
+      "explanation": "A 10% loss means the first selling price is 90% of cost price (CP). A 5% profit means the alternative selling price would be 105% of CP. The difference between these selling prices is 15% of CP, and the question says this difference is ₹45. Thus 0.15×CP=45, so CP=₹300. The actual selling price at 10% loss is 90% of ₹300=₹270. Option A is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1936,7 +1936,7 @@
       ],
       "answerIndex": 3,
       "transcriptionStatus": "transcribed",
-      "explanation": "Let the first amount be x and the second y. Equal interests give 5%×2×x = 10%×4×y, so x=4y. Since x+y=625, y=₹125.",
+      "explanation": "Let x be the first amount lent at 5% simple interest and y be the second amount lent at 10%. The interest on the first amount for two years is x×5×2/100=0.10x. The interest on the second for four years is y×10×4/100=0.40y. Since the interests are equal, 0.10x=0.40y, so x=4y. Also x+y=625. Therefore 4y+y=625, 5y=625 and y=₹125. The second sum is option D.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1950,7 +1950,7 @@
       ],
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
-      "explanation": "Let the younger son's present share be x. Equal values at age 20 mean x(1.05)³=(16,400−x)(1.05)². Hence 1.05x=16,400−x, giving x=₹8,000.",
+      "explanation": "The younger son is 17, so his share earns compound interest for three years until he is 20. The older son is 18, so his share earns interest for two years. Let the younger son's present share be x; the older son's share is ₹16,400−x. Equal amounts at age 20 give x(1.05)³=(16,400−x)(1.05)². Divide both sides by (1.05)²: 1.05x=16,400−x. Thus 2.05x=16,400 and x=₹8,000. Option A is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1964,7 +1964,7 @@
       ],
       "answerIndex": 2,
       "transcriptionStatus": "transcribed",
-      "explanation": "Let the original numbers be 7k and 3k. After 18 move across, (7k−18)/(3k+18)=3/2. Solving gives k=18, so total strength=10k=180.",
+      "explanation": "Let the original numbers of ruling and opposition members be 7x and 3x. After 18 members leave the ruling party and join the opposition, the numbers become 7x−18 and 3x+18. The new ratio is 3:2, so (7x−18)/(3x+18)=3/2. Cross-multiply: 14x−36=9x+54, so 5x=90 and x=18. Original total strength=(7x+3x)=10×18=180. Option C is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1978,7 +1978,7 @@
       ],
       "answerIndex": 2,
       "transcriptionStatus": "needs_visual_or_math_review",
-      "explanation": "x²∝y³, so x²=ky³. Using x=3 and y=5 gives k=9/125. Therefore 125x²−9y³=0.",
+      "explanation": "The symbol x²∝y³ means x²=ky³ for some constant k. Substitute x=3 and y=5: 9=k×125, so k=9/125. Hence x²=(9/125)y³. Multiplying both sides by 125 gives 125x²=9y³, or 125x²−9y³=0. Option C is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1992,7 +1992,7 @@
       ],
       "answerIndex": 3,
       "transcriptionStatus": "transcribed",
-      "explanation": "Let total capital be T. A=T/3 and B=A+C. From A+B+C=T, C=T/6. Capital ratio is 2:3:1, so C receives 1/6×₹840=₹140.",
+      "explanation": "Let the total capital invested be T. A contributes T/3. B contributes as much as A and C together, so B=A+C. Since A+B+C=T, substitute B: A+(A+C)+C=T, hence 2A+2C=T. With A=T/3, 2T/3+2C=T, so 2C=T/3 and C=T/6. Profit is divided in the ratio of capital, so C receives 1/6 of ₹840=₹140. Option D is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -2006,7 +2006,7 @@
       ],
       "answerIndex": 3,
       "transcriptionStatus": "transcribed",
-      "explanation": "X+Y+Z=3×45=135; X+Y=80 and Y+Z=86. Adding the latter two and subtracting the total gives Y=80+86−135=31 kg.",
+      "explanation": "The average weight of X, Y and Z is 45 kg, so their total is 3×45=135 kg. The average of X and Y is 40 kg, so X+Y=2×40=80 kg. The average of Y and Z is 43 kg, so Y+Z=2×43=86 kg. Add the last two equations: X+2Y+Z=166. Subtract the total X+Y+Z=135 to obtain Y=31 kg. Option D is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -2020,7 +2020,7 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "For fractions, LCM = LCM of numerators divided by HCF of denominators: LCM(2,4)/HCF(3,9)=4/3.",
+      "explanation": "For fractions in lowest terms, the LCM is found by taking the LCM of the numerators and dividing by the HCF of the denominators. The numerators are 2 and 4, whose LCM is 4. The denominators are 3 and 9, whose HCF is 3. Therefore, LCM=4/3. It is also the smallest positive number that is an integer multiple of both 2/3 and 4/9. Option B is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -2034,7 +2034,7 @@
       ],
       "answerIndex": 2,
       "transcriptionStatus": "transcribed",
-      "explanation": "At ₹1.50 per 100 m², ₹1,350 represents an area of 90,000 m². The square's side is 300 m, so perimeter is 1,200 m. Fencing at ₹0.50 per metre costs ₹600.",
+      "explanation": "The field's produce earns ₹1.50 for every 100 m². Total revenue is ₹1,350, so the area is (1,350÷1.50)×100=900×100=90,000 m². For a square, side length is the square root of the area: √90,000=300 m. Perimeter=4×300=1,200 m. Fencing costs 50 paise=₹0.50 per metre, so total cost=1,200×₹0.50=₹600. Option C is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -2048,7 +2048,7 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "The longest straight pencil fits along the space diagonal: √(8²+6²+2²)=√104 cm.",
+      "explanation": "The longest straight object that fits inside a rectangular box is its space diagonal, joining two opposite corners. Apply the three-dimensional Pythagorean theorem: diagonal=√(length²+width²+height²)=√(8²+6²+2²)=√(64+36+4)=√104 cm. Therefore, option B is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -2062,7 +2062,7 @@
       ],
       "answerIndex": 2,
       "transcriptionStatus": "transcribed",
-      "explanation": "For cube side a, the inscribed cylinder has radius a/2 and height a. Volume ratio cube:cylinder = a³:(πa³/4)=4:π.",
+      "explanation": "Let the cube's side be a. The cylinder touches the two opposite faces, so its height is a. Its circular base is inscribed in the square face of the cube, so its diameter is a and its radius is a/2. Cube volume=a³. Cylinder volume=π(a/2)²×a=πa³/4. The ratio cube:cylinder=a³:(πa³/4)=4:π. Option C is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -2076,7 +2076,7 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "needs_visual_or_math_review",
-      "explanation": "The fruit is 10/3−2=4/3 m above the person's hand. Horizontal distance is 4/√3 m. Thus tanθ=(4/3)/(4/√3)=1/√3, so θ=30°.",
+      "explanation": "The fruit is at the top of a 10/3 m pole, while the person's hand is at a height of 2 m. The vertical distance the stone must rise is 10/3−2=4/3 m. The horizontal distance is 4/√3 m. In the right triangle, tan θ=opposite/adjacent=(4/3)/(4/√3)=√3/3=1/√3. The angle whose tangent is 1/√3 is 30°. Option B is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -2090,7 +2090,7 @@
       ],
       "answerIndex": 2,
       "transcriptionStatus": "transcribed",
-      "explanation": "The ten rainfall values sum to 744 cm. Mean = 744/10 = 74.4 cm, which is less than 100 cm.",
+      "explanation": "To calculate the mean, add all ten yearly rainfall values: 89+95+70+102+29+79+63+95+72+50=744 cm. Divide by the number of years, 10: mean=744÷10=74.4 cm. This is less than 100 cm, so option C is correct. The question does not require choosing a more precise interval.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -2104,7 +2104,7 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "Discriminant = [−2tanα]²−4(1)(−1)=4tan²α+4, which is always positive. Therefore the quadratic has real and distinct roots.",
+      "explanation": "For a quadratic equation ax²+bx+c=0, the discriminant is Δ=b²−4ac. Here a=1, b=−2tanα and c=−1. Therefore Δ=(−2tanα)²−4(1)(−1)=4tan²α+4. Since tan²α is non-negative for the given range 0°<α<90°, Δ is always positive. A positive discriminant means two real and distinct roots. Option B is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -2118,7 +2118,7 @@
       ],
       "answerIndex": 0,
       "transcriptionStatus": "transcribed_verified_from_high_resolution_source_scan",
-      "explanation": "The source scan reads (78)². If n²−78²=6460, then n²=6460+6084=12,544=112², so n=112.",
+      "explanation": "Let the required positive number be n. The statement gives n²−78²=6,460. First calculate 78²=6,084. Therefore n²=6,460+6,084=12,544. Since 112²=12,544, n=112. The question asks for the number (normally the positive value), so option A is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -2132,7 +2132,7 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "The pass mark is 40%, and the student fails by 4 percentage points, so the student scored 36% of the maximum. 261=0.36M, hence M=725.",
+      "explanation": "The pass requirement is 40% of the maximum marks. The student is short of the pass mark by 4 percentage points, so the student's score is 40%−4%=36% of the maximum. Let the maximum marks be M. Then 0.36M=261, so M=261÷0.36=725. Therefore, the maximum marks are 725, option B. This interpretation treats “fails by 4% marks” as four percentage points below the pass threshold.",
       "answerStatus": "independently_solved_not_official_key"
     }
   ],
