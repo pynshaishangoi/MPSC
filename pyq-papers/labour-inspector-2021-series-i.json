@@ -744,7 +744,7 @@
       ],
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
-      "explanation": "Let the present ages be F and S. F+S=60 and F−6=5(S−6). Solving gives S=14; after six years the son will be 20.",
+      "explanation": "Let the father's present age be F and the son's present age be S. Their present ages add to 60: F+S=60. Six years ago, F−6=5(S−6). Substituting F=60−S gives 60−S−6=5S−30, so 84=6S and S=14. After six years the son will be 14+6=20 years old. Option A is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -758,7 +758,7 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "Speed in still water is the average of downstream and upstream speeds: (14+8)/2 = 11 km/h.",
+      "explanation": "A boat's downstream speed equals its still-water speed plus stream speed; its upstream speed equals still-water speed minus stream speed. When we add the two speeds, the stream's effect cancels. Still-water speed = (14+8)÷2 = 22÷2 = 11 km/h. Option B is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -772,7 +772,7 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "The hands are opposite in direction 11 times in 12 hours, so they are opposite 22 times in 24 hours.",
+      "explanation": "The minute and hour hands are exactly opposite when the angle between them is 180°. This happens 11 times in every 12-hour period (not 12 times, because the hands' relative positions repeat after each hour but do not produce 12 separate opposite positions). A full day has two 12-hour periods, so the number is 11×2=22. Option B is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -786,7 +786,7 @@
       ],
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
-      "explanation": "At 8:30 the minute hand is at 180°. The hour hand is at 255°. The smaller angle is 75°.",
+      "explanation": "At 8:30, the minute hand points at 6, which is 180° from 12. The hour hand moves 30° per hour and 0.5° per minute: 8×30+30×0.5=255°. The difference is 255°−180°=75°. This is already the smaller angle, so option A is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -800,7 +800,7 @@
       ],
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
-      "explanation": "The daily work rates are A=1/10, B=1/15 and C=1/12, in the ratio 6:4:5. A and B work 5 days, while C works 2 days. If daily wages are ₹600, ₹400 and ₹500, total wages are 5(600+400)+2(500)=₹6,000. Hence option A.",
+      "explanation": "A's one-day work rate is 1/10 and B's is 1/15. Together they complete 1/10+1/15=1/6 of the work per day. In five days they complete 5/6, leaving 1/6 for C. C completes that remaining 1/6 in two days, so C's daily rate is 1/12. The daily work-rate ratio is 1/10:1/15:1/12 = 6:4:5. If the daily wages are ₹600, ₹400 and ₹500 respectively, the total paid is A: 5×600=₹3,000; B: 5×400=₹2,000; C: 2×500=₹1,000. Total = ₹6,000, matching the question. Thus option A gives the daily wages.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -814,7 +814,7 @@
       ],
       "answerIndex": 2,
       "transcriptionStatus": "transcribed",
-      "explanation": "A/B:B/C:C/A = 2/3:3/4:4/2. Multiplying by 12 gives 8:9:24.",
+      "explanation": "Given A:B:C=2:3:4, take A=2, B=3 and C=4. Then A/B=2/3, B/C=3/4 and C/A=4/2. To express these as a whole-number ratio, multiply each by the LCM of the denominators, 12: 8:9:24. Option C is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -828,7 +828,7 @@
       ],
       "answerIndex": 2,
       "transcriptionStatus": "transcribed",
-      "explanation": "90 km/h = 25 m/s. In 7 seconds the train travels 25×7 = 175 m.",
+      "explanation": "When a train crosses a pole, it travels a distance equal to its own length. Convert 90 km/h to metres per second: 90×1000÷3600=25 m/s. In 7 seconds, distance = speed×time = 25×7=175 metres. Therefore, the train is 175 m long, option C.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -842,7 +842,7 @@
       ],
       "answerIndex": 3,
       "transcriptionStatus": "transcribed_verified_from_source_figure",
-      "explanation": "From the four dice views, the opposite pairs are 3–6, 1–2 and 4–5. Therefore, when 5 is on top, 4 is at the bottom.",
+      "explanation": "In a standard six-faced die, opposite faces do not touch in any view. Comparing the four arrangements in the source figure, the opposite pairs are 3–6, 1–2 and 4–5. Since 5 is on the top, its opposite face, 4, must be at the bottom. Option D is correct.",
       "answerStatus": "independently_solved_not_official_key",
       "diagramDescription": "The four dice views show (top, left face, right face): (4, 3, 2), (3, 1, 5), (1, 4, 6), and (2, 3, 5)."
     },
@@ -857,7 +857,7 @@
       ],
       "answerIndex": 3,
       "transcriptionStatus": "transcribed_verified_from_source_figure",
-      "explanation": "Counting the triangles of every size in the figure gives 18 triangles. The count includes the small triangles, combined triangles and the complete outer triangle.",
+      "explanation": "The question depends on counting every triangle in the printed diagram, including the smallest triangles and larger triangles formed by combining smaller regions. Count each distinct triangular outline once, working from the smallest regions to the composite shapes and finally the outer triangle. The total in the source figure is 18, so option D is selected. This answer should be checked against the original figure during the final visual audit because a diagram transcription error would change the count.",
       "answerStatus": "independently_solved_not_official_key",
       "diagramSvg": "triangle-count-source-figure"
     },
@@ -872,7 +872,7 @@
       ],
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
-      "explanation": "After interchange, Alisha is 10th from the left and 17th from the right. Total = 10+17−1 = 26 girls.",
+      "explanation": "After Alisha and Cinthya exchange places, Alisha takes Cinthya's original position, which was 10th from the left. She is then 17th from the right. For a person counted from both ends, total number = left rank + right rank − 1. Therefore, total girls = 10+17−1=26. Option A is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -886,7 +886,7 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "F is the mother of E and therefore the mother of E's sibling D. Since D is C's son, F is C's wife; as C is H's child, F is H's daughter-in-law.",
+      "explanation": "A is the mother of B, and B and C are siblings, so A is also C's mother. D is C's son, and E is D's brother; F is E's mother, so F is also the mother of D and is C's wife. H has only two children, B and C, so C is H's child. Therefore, F is H's daughter-in-law. Option B is correct. The extra statement about G does not affect the required relationship.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -900,7 +900,7 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "X is shorter than Z, and W is taller than X. Since Z is taller than X and V is taller than Z, while Y is taller than V, X is the shortest.",
+      "explanation": "The statements give these comparisons: Y>Z>X; also Z>W>X; and V>Z while Y>V. The key fact is that X is shorter than Z and also shorter than W. Since W is taller than X and Z is taller than X, while V is taller than Z, none of the other people is below X. Therefore X is the shortest. Option B is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -914,7 +914,7 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "Anokhi is 18th from the bottom in a class of 42, so she is 25th from the top. Zara is six places ahead: 25−6 = 19th.",
+      "explanation": "Anokhi is 18th from the last in a class of 42. Her rank from the start is 42−18+1=25th. Zara is six places ahead, so her rank is 25−6=19th from the start. Option B is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -928,7 +928,7 @@
       ],
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
-      "explanation": "Let x be 10-paisa coins and y be 20-paisa coins. x+y=40 and 10x+20y=550 paise. Solving gives y=15.",
+      "explanation": "Let x be the number of 10-paisa coins and y the number of 20-paisa coins. There are 40 coins, so x+y=40. Their total value is ₹5.50=550 paise, so 10x+20y=550. Divide the value equation by 10: x+2y=55. Subtract x+y=40 to get y=15. Thus there are 15 twenty-paisa coins, option A.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -942,7 +942,7 @@
       ],
       "answerIndex": 3,
       "transcriptionStatus": "transcribed",
-      "explanation": "Let c be correct and w wrong. c+w=90 and 4c−w=140. Substituting w=90−c gives 5c=230, so c=46.",
+      "explanation": "Let c be the number of correct answers and w the number of wrong answers. All 90 questions are attempted, so c+w=90. The score is 4 for each correct and −1 for each wrong: 4c−w=140. Substitute w=90−c: 4c−(90−c)=140, so 5c=230 and c=46. Option D is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -956,7 +956,7 @@
       ],
       "answerIndex": 2,
       "transcriptionStatus": "transcribed",
-      "explanation": "Airplanes fly in the sky. In the question's code, “sky” is called “sea,” so the answer is Sea.",
+      "explanation": "The question changes the names of things. In reality, aeroplanes fly in the sky. The code says that the word “sky” is called “sea”. Therefore, under the given naming rule, the answer must be “Sea”, option C. Do not confuse the real object with the substituted code word.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -970,7 +970,7 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "The net movement is 10 metres south: 30 m north, 40 m east, 40 m south and 40 m west. Distance from the start is 10 m.",
+      "explanation": "Track each movement on a simple north-east-south-west grid. Robert walks 30 m north, 40 m east, 40 m south and 40 m west. The east and west movements cancel. The southward movement is 40 m, which exceeds the 30 m northward movement by 10 m. He finishes 10 m south of the starting point, so the distance is 10 m. Option B is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -984,7 +984,7 @@
       ],
       "answerIndex": 3,
       "transcriptionStatus": "transcribed",
-      "explanation": "The north and south movements of 15 m cancel. The eastward movements total 20+25=45 m.",
+      "explanation": "Shobha starts facing east and walks 20 m east. Turning left from east means north, so she walks 15 m north. Turning right from north means east, so she walks another 25 m east. Turning right from east means south, so she walks 15 m south. The 15 m north and 15 m south cancel, while the eastward distance is 20+25=45 m. She is 45 m from the start, option D.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -998,7 +998,7 @@
       ],
       "answerIndex": 3,
       "transcriptionStatus": "transcribed",
-      "explanation": "The differences are 15, 28, 54 and 106; each difference doubles and subtracts 2. The next difference is 210, giving 205+210=415.",
+      "explanation": "The series is 2, 17, 45, 99, 205, ?. Examine the differences: 17−2=15; 45−17=28; 99−45=54; 205−99=106. Each difference is obtained by doubling the previous difference and subtracting 2: 15→28→54→106. The next difference is 106×2−2=210. Add this to 205: 205+210=415. Option D is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1012,7 +1012,7 @@
       ],
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
-      "explanation": "The successive differences are −272, −136, −68 and −34. The next difference is −17, so 257−17=240.",
+      "explanation": "Find the differences between consecutive terms: 767−495=272; 495−359=136; 359−291=68; 291−257=34. Each difference is half the preceding difference. The next difference is 17, so subtract 17 from 257: 257−17=240. Option A is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1026,7 +1026,7 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "All terms except 100 are perfect cubes: 2³, 3³, 4³, 5³, 6³ and 7³. Therefore 100 is the odd one out.",
+      "explanation": "The numbers 8, 27, 64, 125, 216 and 343 are consecutive perfect cubes: 2³, 3³, 4³, 5³, 6³ and 7³. However, 100 is not a perfect cube and does not fit the pattern. Therefore, 100 is the odd one out, option B.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1040,7 +1040,7 @@
       ],
       "answerIndex": 0,
       "transcriptionStatus": "transcribed",
-      "explanation": "X starts 140 m ahead, so X runs 360 m while Y runs 500 m. With speed ratio 3:4, their times are 360/3=120 and 500/4=125 units. X wins; when X finishes, Y is 20 m short.",
+      "explanation": "In a 500 m race, X receives a 140 m head start, so X needs to run only 500−140=360 m. Y must run the full 500 m. Their speed ratio X:Y is 3:4. If X's speed is 3 units per second, Y's is 4 units per second. Their times are X: 360/3=120 units; Y: 500/4=125 units. X finishes first. In 120 units of time Y covers 4×120=480 m, leaving 20 m. X wins by 20 m, option A.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1054,7 +1054,7 @@
       ],
       "answerIndex": 2,
       "transcriptionStatus": "transcribed_verified_from_source_scan",
-      "explanation": "Two throws of a die have 36 equally likely ordered outcomes. Four outcomes total 9: (3,6), (4,5), (5,4) and (6,3). Probability = 4/36 = 1/9.",
+      "explanation": "Two throws of a fair die produce 6×6=36 equally likely ordered outcomes. The pairs that add to 9 are (3,6), (4,5), (5,4) and (6,3): four outcomes. Probability = favourable outcomes/total outcomes = 4/36=1/9. Option C is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1068,7 +1068,7 @@
       ],
       "answerIndex": 1,
       "transcriptionStatus": "transcribed",
-      "explanation": "The watch gains 5 seconds every 180 true seconds, so it runs at 185/180. When it shows 9 h 15 min elapsed (555 min), true elapsed time is 555×180/185 = 540 min = 9 hours. The true time is 4 p.m.",
+      "explanation": "The watch gains 5 seconds for every 180 seconds of true time. Therefore, when the watch shows 185 seconds, only 180 true seconds have passed. From 7:00 a.m. to the indicated 4:15 p.m. is 9 hours 15 minutes = 555 minutes of watch time. True elapsed time = 555×180/185=540 minutes=9 hours. Nine hours after 7:00 a.m. is 4:00 p.m. Option B is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
@@ -1082,7 +1082,7 @@
       ],
       "answerIndex": 3,
       "transcriptionStatus": "transcribed_verified_from_source_scan",
-      "explanation": "For x₁+x₂+x₃+x₄≤15 with all variables non-negative integers, introduce a non-negative slack variable x₅ so the sum equals 15. By stars and bars, the number is C(19,4)=3,876.",
+      "explanation": "We need non-negative integer solutions of x₁+x₂+x₃+x₄≤15. Introduce a fifth non-negative integer s=15−(x₁+x₂+x₃+x₄). Then x₁+x₂+x₃+x₄+s=15. By the stars-and-bars formula, the number of non-negative solutions in five variables is C(15+5−1,5−1)=C(19,4)=3,876. Option D is correct.",
       "answerStatus": "independently_solved_not_official_key"
     },
     {
