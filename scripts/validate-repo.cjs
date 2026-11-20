@@ -170,6 +170,7 @@ for (const question of expansionBatch20.questions) {
   if (question.cat === 'GST / Inspector of Taxes' && !question.sourceURL.startsWith('https://www.indiacode.nic.in/')) fail('20 November GST question ' + question.id + ' must use the official India Code statutory source');
 }
 if (expansionBatch20.questions[69].id !== 9170 || !expansionBatch20.questions[69].sourceURL.includes('final-notification-mawtneng')) fail('20 November Meghalaya current-affairs question must cite the official Mawtneng BHS notification page');
+if (!expansionBatch20.questions[69].q.includes('notice board lists') || !expansionBatch20.questions[69].e.includes('2 January 2026') || !expansionBatch20.questions[69].e.includes('21 January 2026')) fail('Mawtneng question must distinguish notice-board listing date from the final notification document date');
 if (!sw.includes('./question-batches/2026-11-20-original-practice.json')) fail('service worker does not precache 20 November original-practice archive');
 if (!html.includes('mpsc-build') || !html.includes('2026-11-20-original-practice-70')) fail('20 November canonical build marker is missing');
 const dedupIndex19 = jsonFile('audit/dedup-index-2026-11-19.json');
