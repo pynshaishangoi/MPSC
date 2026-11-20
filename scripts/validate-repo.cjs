@@ -75,8 +75,8 @@ for (const name of batchFiles) {
   }
   archiveCount += batch.questions.length;
 }
-if (embedded.length !== 973) fail('canonical embedded Q must contain 973 questions');
-if (batchFiles.length !== 17 || archiveIdSet.size !== 381 || archiveCount !== 381) fail('all 17 question-batch archives must contain 381 unique mirrored records');
+if (embedded.length !== 1043) fail('canonical embedded Q must contain 1043 questions');
+if (batchFiles.length !== 18 || archiveIdSet.size !== 451 || archiveCount !== 451) fail('all 18 question-batch archives must contain 451 unique mirrored records');
 for (const question of active) {
   if (!question.q || !Array.isArray(question.o) || question.o.length !== 4) fail('question ' + question.id + ' must have a prompt and exactly four options');
   if (!Number.isInteger(question.a) || question.a < 0 || question.a >= question.o.length) fail('question ' + question.id + ' has an invalid answer index');
@@ -162,7 +162,16 @@ for (const question of expansionBatch19.questions) {
   if (!question.topic || !question.exam || !Array.isArray(question.examTags) || question.examTags.length !== 2 || !question.e || question.e.length < 120 || !question.source || !question.source.includes('not an official PYQ') || question.label !== 'Original Practice' || question.sourceType !== 'Original Practice' || !question.sourceURL || !question.sourceURL.startsWith('https://') || question.sourceVerifiedDate !== '2026-11-19' || !question.verificationStatus || !question.verificationStatus.includes('2026-11-19') || question.difficulty === 'PYQ' || question.answerIndex !== question.a || question.o.length !== 4) fail('19 November question ' + question.id + ' needs topic/exam tags, four options, answer, teaching explanation, source and Original Practice label');
 }
 if (!sw.includes('./question-batches/2026-11-19-original-practice.json')) fail('service worker does not precache 19 November original-practice archive');
-if (!html.includes('mpsc-build') || !html.includes('2026-11-19-original-practice-50')) fail('19 November canonical build marker is missing');
+if (!html.includes('mpsc-build') || !html.includes('2026-11-20-original-practice-70')) fail('20 November canonical build marker is missing');
+const expansionBatch20 = jsonFile('question-batches/2026-11-20-original-practice.json');
+if (expansionBatch20.questions.length !== 70 || expansionBatch20.questionIdRange !== '9101-9170' || expansionBatch20.candidateCount !== 81 || expansionBatch20.rejectedCandidates !== 11 || Object.values(expansionBatch20.subjects).reduce((sum,value)=>sum+value,0)!==70) fail('20 November original-practice batch count, ID range, candidate or subject totals are incorrect');
+for (const question of expansionBatch20.questions) {
+  if (!question.topic || !question.exam || !Array.isArray(question.examTags) || question.examTags.length !== 2 || !question.e || question.e.length < 120 || !question.source || !question.source.includes('not an official PYQ') || question.label !== 'Original Practice' || question.sourceType !== 'Original Practice' || !question.sourceURL || !question.sourceURL.startsWith('https://') || question.sourceVerifiedDate !== '2026-11-20' || !question.verificationStatus || !question.verificationStatus.includes('2026-11-20') || question.difficulty === 'PYQ' || question.answerIndex !== question.a || question.o.length !== 4 || new Set(question.o).size !== 4 || !Number.isInteger(question.a) || question.a < 0 || question.a > 3) fail('20 November question ' + question.id + ' needs topic/exam tags, four options, answer, teaching explanation, source and Original Practice label');
+  if (question.cat === 'GST / Inspector of Taxes' && !question.sourceURL.startsWith('https://www.indiacode.nic.in/')) fail('20 November GST question ' + question.id + ' must use the official India Code statutory source');
+}
+if (expansionBatch20.questions[69].id !== 9170 || !expansionBatch20.questions[69].sourceURL.includes('final-notification-mawtneng')) fail('20 November Meghalaya current-affairs question must cite the official Mawtneng BHS notification page');
+if (!sw.includes('./question-batches/2026-11-20-original-practice.json')) fail('service worker does not precache 20 November original-practice archive');
+if (!html.includes('mpsc-build') || !html.includes('2026-11-20-original-practice-70')) fail('20 November canonical build marker is missing');
 const dedupIndex19 = jsonFile('audit/dedup-index-2026-11-19.json');
 if (dedupIndex19.schemaVersion !== 4 || dedupIndex19.canonical.questionCount !== 973 || dedupIndex19.canonical.activeFingerprints.length !== 973 || dedupIndex19.officialPyq.questionCount !== 2433 || dedupIndex19.archive.fileCount !== 17 || dedupIndex19.archive.questionCount !== 381) fail('19 November compact dedup index totals are incorrect');
 if (new Set(dedupIndex19.canonical.activeFingerprints.map(record=>record.i)).size !== 973 || dedupIndex19.canonical.activeFingerprints.some(record=>!record.s || !record.o || !record.k)) fail('19 November active dedup index has duplicate IDs or missing fingerprints');
@@ -189,9 +198,9 @@ for (let number = 1; number <= 91; number++) {
 }
 if (!paperQuestions.find(q=>q.paperNo===27).o[3].includes('why IS she sketching')) fail('Q27 source/key anomaly must remain visible');
 if (!paperQuestions.find(q=>q.paperNo===30).verificationStatus.includes('unusual reporting verb')) fail('Q30 official-key anomaly must remain flagged');
-if (active.length !== 973 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
-if (batchFiles.length !== 17) fail('expected exactly 17 archived question batches');
-const expectedSubjectCounts = {"Aptitude":32,"Arithmetic":167,"Art & Culture":1,"Books & Authors":1,"Computer":28,"Current Affairs":47,"Economy":56,"English":154,"Environment":38,"General Science":11,"Geography":56,"GST / Inspector of Taxes":43,"History":57,"International Organisations":1,"Meghalaya GK":69,"Officer Technical":17,"Polity":93,"Reasoning":44,"Science":55,"Static GK":3};
+if (active.length !== 1043 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
+if (batchFiles.length !== 18) fail('expected exactly 18 archived question batches');
+const expectedSubjectCounts = {"Aptitude":32,"Arithmetic":171,"Art & Culture":1,"Books & Authors":1,"Computer":35,"Current Affairs":48,"Economy":61,"English":161,"Environment":41,"General Science":11,"Geography":62,"GST / Inspector of Taxes":56,"History":63,"International Organisations":1,"Meghalaya GK":74,"Officer Technical":17,"Polity":99,"Reasoning":48,"Science":58,"Static GK":3};
 const actualSubjectCounts = {};
 for (const question of active) {
   const subject = question.cat.replace(/ • PYQ$/, '');
