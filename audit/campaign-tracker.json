@@ -109,7 +109,12 @@
     "deploymentVerified": false,
     "deploymentStatus": "GitHub Pages build/deployment workflow succeeded; live URL build marker not independently verified.",
     "pagesDeploymentRunId": 44669365354,
-    "pagesDeploymentStatus": "success"
+    "pagesDeploymentStatus": "success",
+    "preDraftActiveQuestions": 973,
+    "postMergeActiveQuestions": 1043,
+    "comparedPyqFiles": 19,
+    "comparedPyqRecords": 2572,
+    "preDraftComparisonCorpusRecords": 3545
   },
   "nextDailyTarget": 90,
   "cumulativeUniqueAdditionsSinceRampStart": 162,
