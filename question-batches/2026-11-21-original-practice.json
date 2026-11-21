@@ -123,17 +123,17 @@
     {
       "id": 9172,
       "cat": "Arithmetic",
-      "topic": "Modular arithmetic / remainders",
-      "q": "A positive integer leaves a remainder of 5 when divided by 8. What remainder will its square leave when divided by 8?",
+      "topic": "Digit reversal / algebraic number problems",
+      "q": "A two-digit number has digits whose sum is 9. When the digits are reversed, the new number is 27 greater than the original. What is the original number?",
       "o": [
-        "1",
-        "3",
-        "5",
-        "7"
+        "27",
+        "36",
+        "45",
+        "63"
       ],
-      "a": 0,
-      "answerIndex": 0,
-      "e": "Write the integer as 8k + 5. Its square is 64k² + 80k + 25 = 8(8k² + 10k + 3) + 1. Therefore the remainder after division by 8 is 1, regardless of k.",
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Let the tens digit be a and the units digit be b. Then a+b=9. Reversing the digits changes the number by 9(b−a)=27, so b−a=3. Solving gives a=3 and b=6; the original number is 36.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -142,7 +142,7 @@
       ],
       "tags": [
         "Arithmetic",
-        "Modular arithmetic / remainders",
+        "Digit reversal / algebraic number problems",
         "Original Practice"
       ],
       "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
@@ -189,17 +189,17 @@
     {
       "id": 9174,
       "cat": "Arithmetic",
-      "topic": "Arithmetic progression / sum of terms",
-      "q": "What is the sum of the first 20 terms of the arithmetic progression 5, 9, 13, 17, …?",
+      "topic": "Factorials / trailing zeroes",
+      "q": "How many trailing zeroes are there in 100! (100 factorial)?",
       "o": [
-        "780",
-        "820",
-        "860",
-        "900"
+        "20",
+        "22",
+        "24",
+        "25"
       ],
       "a": 2,
       "answerIndex": 2,
-      "e": "Here a = 5, d = 4 and n = 20. Sₙ = n/2[2a + (n−1)d] = 10[10 + 76] = 10×86 = 860. The formula adds the terms without listing each one.",
+      "e": "A trailing zero is produced by each factor of 10, so count the number of pairs of 2 and 5. There are more factors of 2 than 5, so count the 5s: floor(100/5)=20 and floor(100/25)=4. Total = 24 trailing zeroes.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -208,7 +208,7 @@
       ],
       "tags": [
         "Arithmetic",
-        "Arithmetic progression / sum of terms",
+        "Factorials / trailing zeroes",
         "Original Practice"
       ],
       "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
@@ -718,16 +718,16 @@
       "id": 9190,
       "cat": "Polity",
       "topic": "State budget / Article 202",
-      "q": "Article 202 of the Constitution requires the State Government to lay before the Legislature an annual statement of what?",
+      "q": "The constitutional document that presents a State Government’s estimated receipts and expenditure for a financial year is called the ______.",
       "o": [
-        "Only the State’s tax receipts",
-        "Estimated receipts and expenditure of the State for a financial year",
-        "Only capital expenditure on public works",
-        "The audited accounts of the previous five years"
+        "Annual Financial Statement",
+        "Appropriation Account",
+        "Finance Commission Report",
+        "Audit Report"
       ],
-      "a": 1,
-      "answerIndex": 1,
-      "e": "Article 202 calls this statement the Annual Financial Statement. It sets out the estimated receipts and expenditure of the State for each financial year and forms the constitutional basis of the State Budget.",
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 202 calls the State’s annual statement of estimated receipts and expenditure the Annual Financial Statement. It is the constitutional basis of the State Budget and is laid before the Legislature for each financial year.",
       "difficulty": "Easy",
       "exam": "Common MPSC",
       "examTags": [
@@ -2202,17 +2202,17 @@
     {
       "id": 9235,
       "cat": "GST / Inspector of Taxes",
-      "topic": "CGST Act Section 70 / power to summon",
-      "q": "During an inquiry under Section 70 of the CGST Act, what may the proper officer require a person to do?",
+      "topic": "CGST Act Section 132 / previous sanction for prosecution",
+      "q": "Which CGST Act provision requires the Commissioner’s previous sanction before a person may be prosecuted for an offence under Section 132?",
       "o": [
-        "Attend to give evidence or produce a document or other thing",
-        "Pay the tax demanded before receiving a summons",
-        "Transfer ownership of the business to the Government",
-        "Obtain approval from the GST Council for each document"
+        "Section 70(2)",
+        "Section 107(1)",
+        "Section 132(6)",
+        "Section 169(1)"
       ],
-      "a": 0,
-      "answerIndex": 0,
-      "e": "Section 70 empowers the proper officer to summon any person whose attendance is considered necessary to give evidence or produce a document or other thing in an inquiry. The power is exercised in the manner provided for civil-court summons under the Code of Civil Procedure.",
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Section 132(6) states that no person shall be prosecuted for an offence under that section except with the previous sanction of the Commissioner. The sanction requirement is a statutory precondition to prosecution, not a summons power.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -2221,7 +2221,7 @@
       ],
       "tags": [
         "GST / Inspector of Taxes",
-        "CGST Act Section 70 / power to summon",
+        "CGST Act Section 132 / previous sanction for prosecution",
         "Original Practice"
       ],
       "source": "Original Practice — not an official PYQ. Source: India Code — CGST Act 2017 consolidated text as on 11 June 2026.",
@@ -2301,8 +2301,8 @@
     {
       "id": 9238,
       "cat": "GST / Inspector of Taxes",
-      "topic": "CGST Act Section 64 / summary assessment",
-      "q": "A proper officer has evidence of a tax liability and believes that delay in assessment may adversely affect revenue. Whose prior permission is required before a summary assessment under Section 64?",
+      "topic": "CGST Act Section 64 / summary assessment permission",
+      "q": "Which senior officer must authorise the exceptional summary-assessment procedure under Section 64 before the proper officer proceeds?",
       "o": [
         "An Additional Commissioner or Joint Commissioner",
         "The local police station",
@@ -2311,7 +2311,7 @@
       ],
       "a": 0,
       "answerIndex": 0,
-      "e": "Section 64 is an exceptional summary-assessment power. Before exercising it, the proper officer must obtain prior permission from an Additional Commissioner or Joint Commissioner; the provision is not a routine substitute for ordinary assessment.",
+      "e": "Section 64 is an exceptional summary-assessment power. Before exercising it, the proper officer must obtain prior permission from an Additional Commissioner or Joint Commissioner; it is not a routine substitute for ordinary assessment.",
       "difficulty": "Hard",
       "exam": "Common MPSC",
       "examTags": [
@@ -2320,7 +2320,7 @@
       ],
       "tags": [
         "GST / Inspector of Taxes",
-        "CGST Act Section 64 / summary assessment",
+        "CGST Act Section 64 / summary assessment permission",
         "Original Practice"
       ],
       "source": "Original Practice — not an official PYQ. Source: India Code — CGST Act 2017 consolidated text as on 11 June 2026.",
@@ -2334,17 +2334,17 @@
     {
       "id": 9239,
       "cat": "GST / Inspector of Taxes",
-      "topic": "CGST Act Section 68 / inspection of goods in movement",
-      "q": "When goods are being transported, Section 68 allows the proper officer to require the person in charge of the conveyance to present which items for verification?",
+      "topic": "CGST Act Section 68 / person in charge of conveyance",
+      "q": "A truck carrying goods is stopped during transit. Under Section 68, which person must be ready to produce the prescribed documents or electronic devices for verification?",
       "o": [
-        "Prescribed documents or devices relating to the goods",
-        "The driver’s personal income-tax return",
-        "A bank guarantee in every case",
-        "A court decree for each consignment"
+        "The consignor’s bank manager",
+        "The person in charge of the conveyance",
+        "The recipient’s auditor",
+        "The local village headman"
       ],
-      "a": 0,
-      "answerIndex": 0,
-      "e": "Section 68 requires the person in charge of a conveyance carrying goods to carry prescribed documents or devices and produce them for verification when required. The goods may also be inspected in the prescribed manner.",
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 68 requires the person in charge of a conveyance carrying goods to carry prescribed documents or devices and produce them for verification when required. The proper officer may also inspect the goods in the prescribed manner.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -2353,7 +2353,7 @@
       ],
       "tags": [
         "GST / Inspector of Taxes",
-        "CGST Act Section 68 / inspection of goods in movement",
+        "CGST Act Section 68 / person in charge of conveyance",
         "Original Practice"
       ],
       "source": "Original Practice — not an official PYQ. Source: India Code — CGST Act 2017 consolidated text as on 11 June 2026.",
