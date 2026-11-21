@@ -83,7 +83,7 @@
     "nextDailyTarget": 90,
     "blockers": [
       "54 of 90 target questions passed (60%), below the 90% progression threshold; the next target remains 90.",
-      "Merge and live deployment are pending; unmerged questions are not counted as additions."
+      "GitHub Pages build/deployment workflow succeeded, but the live URL could not be independently fetched to confirm build marker 2026-11-21-original-practice-54; live deployment remains unverified."
     ],
     "officialPyqFilesFetched": 18,
     "officialPyqFilesTotal": 18,
@@ -135,7 +135,49 @@
         "IPCC assessment-report glossaries",
         "NIELIT CCC Plus course material"
       ],
-      "legalCaveat": "The consolidated CGST Act located was current through 11 June 2026; check later Gazette amendments before operational reliance."
+      "legalCaveat": "The consolidated CGST Act located was current through 11 June 2026; check later Gazette amendments before operational reliance.",
+      "postRunLegalReview": {
+        "verifiedDate": "2026-11-21",
+        "sectionsReviewed": [
+          76,
+          77,
+          78,
+          85,
+          86,
+          87,
+          88,
+          90,
+          93
+        ],
+        "result": "The nine CGST provisions used in questions 9181–9189 were rechecked against current section texts dated 15 October to 17 November 2026. The questions remain accurate.",
+        "recentAmendmentCheck": {
+          "notification": "Notification No. 03/2026–Central Tax dated 26 October 2026",
+          "effectiveDate": "2026-11-01",
+          "financeActSections": [
+            153,
+            154,
+            155
+          ],
+          "affectedCGSTSections": [
+            15,
+            34,
+            54
+          ],
+          "overlapWithNewQuestions": false
+        },
+        "referenceURLs": [
+          "https://indiacode.ecourtsindia.com/cgst-act/section/76/",
+          "https://indiacode.ecourtsindia.com/cgst-act/section/77/",
+          "https://indiacode.ecourtsindia.com/cgst-act/section/78/",
+          "https://indiacode.ecourtsindia.com/cgst-act/section/85/",
+          "https://indiacode.ecourtsindia.com/cgst-act/section/86/",
+          "https://indiacode.ecourtsindia.com/cgst-act/section/87/",
+          "https://indiacode.ecourtsindia.com/cgst-act/section/88/",
+          "https://indiacode.ecourtsindia.com/cgst-act/section/90/",
+          "https://indiacode.ecourtsindia.com/cgst-act/section/93/",
+          "https://egazette.gov.in/WriteReadData/2026/277441.pdf"
+        ]
+      }
     },
     "activeUniqueQuestionsAfterMerge": 1097,
     "pushValidationRunId": 44867679591,
@@ -147,7 +189,8 @@
     "canonicalEmbeddedParityVerified": true,
     "currentActiveQuestionsAfterMerge": 1097,
     "cumulativeUniqueAdditionsSinceRampStart": 216,
-    "remainingTo10000": 8903
+    "remainingTo10000": 8903,
+    "candidateValidationRate": 0.9
   },
   "nextDailyTarget": 90,
   "cumulativeUniqueAdditionsSinceRampStart": 216,
