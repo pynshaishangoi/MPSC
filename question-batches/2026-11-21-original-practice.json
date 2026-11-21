@@ -1,0 +1,3039 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-21",
+  "label": "Original Practice",
+  "questionIdRange": "9171-9260",
+  "candidateCount": 108,
+  "rejectedCandidates": 18,
+  "validatedQuestions": 90,
+  "subjects": {
+    "GST / Inspector of Taxes": 18,
+    "Polity": 10,
+    "Meghalaya GK": 10,
+    "Geography": 10,
+    "Economy": 8,
+    "Science": 8,
+    "Computer": 8,
+    "Environment": 8,
+    "History": 4,
+    "Current Affairs": 6
+  },
+  "rejectionLog": [
+    "Which GST return reports outward supplies? — duplicate of existing GSTR-1 question.",
+    "What is the purpose of GSTR-3B? — near-duplicate of existing GST return and payment questions.",
+    "Which section provides for scrutiny of returns? — duplicate of existing Section 61 question.",
+    "Which officer may issue a summons under Section 70? — duplicate of existing summons question.",
+    "How long must GST records be retained? — near-duplicate of existing Section 36 question.",
+    "Post-supply discount under new CGST Section 15(3)(b) — excluded because the Central amendment commenced 1 Nov 2026 but the corresponding Meghalaya MGST amendment remained a Bill on the official Acts listing as of 21 Nov 2026.",
+    "What is the capital of Meghalaya? — duplicate of existing Meghalaya GK questions.",
+    "When did Meghalaya become a full State? — duplicate of existing statehood-date questions.",
+    "Which trees form living root bridges? — near-duplicate of existing living-root-bridge questions.",
+    "Which Article guarantees equality before law? — duplicate of existing Article 14 questions.",
+    "Which Article provides for the CAG? — duplicate of existing CAG questions.",
+    "Which Indian states are crossed by the Tropic of Cancer? — near-duplicate of existing questions.",
+    "Which force deflects winds in the Northern Hemisphere? — near-duplicate of existing Coriolis question.",
+    "Which institution is India's central bank? — duplicate of existing RBI questions.",
+    "What does inflation mean? — near-duplicate of existing inflation questions.",
+    "What is the SI unit of force? — duplicate of existing Science questions.",
+    "What does HTTPS provide? — near-duplicate of existing HTTPS/TLS questions.",
+    "Which app did Meghalaya launch for integrated mobility? — duplicate of the existing MeghGo current-affairs question."
+  ],
+  "questions": [
+    {
+      "id": 9171,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Composition levy — no collection and no ITC",
+      "q": "A registered person validly paying tax under the composition scheme makes a taxable domestic supply. Which treatment is required by Section 10(4) of the CGST Act?",
+      "o": [
+        "He may collect GST but cannot claim ITC",
+        "He may claim ITC but must not collect GST",
+        "He must neither collect tax from the recipient nor claim input tax credit",
+        "He may collect GST only where the buyer is unregistered"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Section 10(4) imposes both restrictions together: a composition taxpayer cannot collect tax from recipients on supplies and cannot take input tax credit. The composition rate is paid by the supplier under the scheme.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Composition levy — no collection and no ITC",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9172,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Time of supply of goods — forward charge",
+      "q": "A normal taxable supply of goods is made under forward charge. Ignoring special cases, which event determines the time of supply under Section 12(2)?",
+      "o": [
+        "The date the recipient files GSTR-3B",
+        "The earlier of the invoice date (or last date on which it must be issued) and receipt of payment",
+        "The date the goods reach the recipient's warehouse in every case",
+        "The date on which the supplier files the annual return"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 12(2) generally uses the earlier of the invoice date or the last date on which the invoice is required to be issued, and the date the supplier receives payment. The rule identifies when liability arises, not the return-filing date.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Time of supply of goods — forward charge",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9173,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Interest on delayed refund — Section 56",
+      "q": "A complete refund application is received under Section 54(1), and a refund is ordered under Section 54(5), but the amount is not paid within sixty days. Under Section 56, when does interest generally begin?",
+      "o": [
+        "From the original supply date",
+        "Only from the end of the financial year",
+        "From the day immediately after expiry of sixty days until the refund is made",
+        "Only after the taxpayer files an appeal"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Section 56 provides for interest where a refund ordered under Section 54(5) is not made within sixty days from receipt of the application under Section 54(1). Interest generally runs from the day immediately after that sixty-day period until the refund is made.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Interest on delayed refund — Section 56",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9174,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Value of supply — transaction value condition",
+      "q": "Two unrelated businesses enter into a taxable supply agreement. The stated price is the sole consideration and no special valuation rule applies. Which amount is ordinarily the transaction value under Section 15(1)?",
+      "o": [
+        "The price actually paid or payable for the supply",
+        "The supplier's estimated replacement cost",
+        "The recipient's resale price",
+        "The highest price charged by any competing supplier"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 15(1) starts with the transaction value: the price actually paid or payable, provided the supplier and recipient are not related and price is the sole consideration. Prescribed valuation rules apply when those conditions are not met.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Value of supply — transaction value condition",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9175,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Value of supply — incidental expenses",
+      "q": "A supplier charges the buyer separately for packing and commission in connection with a taxable supply before delivery. How are those charges generally treated under Section 15(2)?",
+      "o": [
+        "They are always excluded because they are shown separately",
+        "They are included in the value of supply",
+        "They are treated only as exempt income",
+        "They reduce the taxable value as a discount"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 15(2)(c) includes incidental expenses such as commission and packing charged by the supplier at or before delivery or supply of the service. Separate presentation on an invoice does not by itself make them excludable.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Value of supply — incidental expenses",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9176,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Wrong tax classification — intra-State treated as inter-State",
+      "q": "A registered supplier pays CGST and State GST on a transaction believed to be intra-State. It is later held to be an inter-State supply. What relief is provided by Section 77(1) of the CGST Act?",
+      "o": [
+        "The supplier keeps both taxes as input credit",
+        "The recipient receives a cash refund automatically",
+        "The supplier is refunded the central and State taxes so paid, subject to prescribed procedure",
+        "The transaction is permanently treated as intra-State"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Section 77(1) addresses a registered person who paid central and State tax on a transaction considered intra-State but later held to be inter-State. The person is entitled to refund of the taxes so paid in the prescribed manner and subject to conditions.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Wrong tax classification — intra-State treated as inter-State",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9177,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Blocked credit — passenger motor vehicle",
+      "q": "A company purchases a five-seat passenger car for the general use of its directors. It is not used for further supply of vehicles, passenger transportation or driving instruction. What is the normal Section 17(5)(a) position?",
+      "o": [
+        "Input tax credit is blocked",
+        "Full input tax credit is automatically available",
+        "Credit is available only if the car is purchased in cash",
+        "Credit is available only when the car is used outside the State"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 17(5)(a) generally blocks ITC on a motor vehicle for transportation of persons with approved seating capacity of not more than thirteen, including the driver, unless a specified exception applies. General director use is not one of those exceptions.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Blocked credit — passenger motor vehicle",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9178,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Unauthorised collection of tax — Section 32",
+      "q": "A person who is not registered under GST issues a bill showing an amount as CGST on a taxable supply. Which statutory principle applies?",
+      "o": [
+        "An unregistered person may collect tax if the amount is small",
+        "An unregistered person may collect tax if the buyer agrees",
+        "The amount automatically becomes input tax credit",
+        "An unregistered person must not collect an amount by way of tax under the CGST Act"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "Section 32(1) prohibits a person who is not registered from collecting an amount by way of tax under the CGST Act. A buyer's consent or the small size of the amount does not create registration or collection authority.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Unauthorised collection of tax — Section 32",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9179,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Tax invoice — separate indication of tax",
+      "q": "A taxable supply is made for consideration. What does Section 33 require the person liable to pay tax to do in the relevant assessment and supply documents?",
+      "o": [
+        "Hide the tax component inside the price in every document",
+        "Prominently indicate the amount of tax forming part of the price",
+        "Show only the supplier's profit margin",
+        "Mention tax only in the annual return"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 33 requires the amount of tax forming part of the price to be prominently indicated in assessment documents, the tax invoice and other like documents. This supports transparency about the tax component of the transaction.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Tax invoice — separate indication of tax",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9180,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Self-assessment — Section 59",
+      "q": "Under Section 59 of the CGST Act, who is responsible for self-assessing the tax payable for each tax period and furnishing the corresponding return?",
+      "o": [
+        "The registered person",
+        "The recipient's bank",
+        "The GST Council",
+        "The jurisdictional appellate authority"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 59 places the self-assessment responsibility on every registered person. The person must assess the tax payable under the Act and furnish the return for each tax period as required by Section 39.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Self-assessment — Section 59",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9181,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Provisional assessment — uncertainty of value or rate",
+      "q": "A taxable person cannot determine the correct value of a supply or the applicable tax rate. What is the statutory first step to seek provisional assessment under Section 60(1)?",
+      "o": [
+        "Wait until the annual audit is completed",
+        "Ask the recipient to choose a rate",
+        "Make a written request to the proper officer, explaining the reasons",
+        "File a refund application"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Section 60(1) allows a taxable person who cannot determine the value or applicable rate to request provisional assessment in writing, giving reasons. The proper officer may then specify the provisional value or rate subject to statutory conditions.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Provisional assessment — uncertainty of value or rate",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9182,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Assessment of non-filers — Section 62",
+      "q": "A registered person fails to furnish a return under Section 39 even after receiving a notice under Section 46. Which assessment power may the proper officer use under Section 62?",
+      "o": [
+        "Assessment based on the taxpayer's preferred estimate only",
+        "Best-judgment assessment using relevant available or gathered material",
+        "Automatic cancellation without any assessment",
+        "Assessment by the recipient's bank"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 62 addresses registered persons who do not file the required return even after notice under Section 46. The proper officer may determine liability to the best of judgment using relevant material available or gathered.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Assessment of non-filers — Section 62",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9183,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Assessment of unregistered taxable persons — Section 63",
+      "q": "A person was liable to obtain GST registration but failed to do so. Which provision specifically allows the proper officer to assess that taxable person's liability to the best of judgment?",
+      "o": [
+        "Section 59",
+        "Section 61",
+        "Section 63",
+        "Section 70"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Section 63 deals with assessment of taxable persons who were liable to obtain registration but did not do so, and certain persons whose registration was cancelled but who remained liable. The proper officer may assess liability to the best of judgment, subject to the statutory hearing requirement.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Assessment of unregistered taxable persons — Section 63",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9184,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Summary assessment — prior permission",
+      "q": "Evidence of a person's tax liability comes to the proper officer's notice and immediate action is considered necessary to protect revenue. Under Section 64, whose prior permission is required for summary assessment?",
+      "o": [
+        "The jurisdictional bank manager",
+        "The recipient of the supply",
+        "The State Election Commissioner",
+        "The Additional Commissioner or Joint Commissioner"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "Section 64 permits summary assessment in certain special cases to protect revenue, but the proper officer must first obtain permission from an Additional Commissioner or Joint Commissioner. It is an exceptional assessment route, not the routine scrutiny process.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Summary assessment — prior permission",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9185,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Adjudication — opportunity of hearing",
+      "q": "During GST adjudication, the person receiving the notice makes a written request for a hearing. What does Section 75(4) require?",
+      "o": [
+        "An opportunity of hearing must be granted",
+        "The request must be rejected if the amount is small",
+        "The officer must decide only from the return",
+        "The matter must automatically go to the High Court"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 75(4) requires an opportunity of hearing where the person to whom notice was issued requests it in writing. It also requires a hearing where an adverse decision is contemplated against that person.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Adjudication — opportunity of hearing",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9186,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Adjudication — limits of the final order",
+      "q": "A show-cause notice proposes a tax demand of ₹2 lakh on stated grounds. The adjudication order confirms ₹3 lakh on a new ground not mentioned in the notice. Which Section 75(7) principle is violated?",
+      "o": [
+        "An order must always be lower than the tax invoice",
+        "The order cannot demand more than the amount specified in the notice or confirm a demand on grounds outside the notice",
+        "The officer must use the electronic cash ledger",
+        "A demand can be confirmed only after an annual return"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 75(7) limits the adjudication order to the amount specified in the notice and prohibits confirming a demand on grounds other than those specified in the notice. The notice therefore defines the boundaries of the demand adjudication.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Adjudication — limits of the final order",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9187,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Tax collected but not paid — Section 76",
+      "q": "A person collects ₹18,000 from a customer as an amount representing GST but does not deposit it with the Government. What does Section 76 generally require?",
+      "o": [
+        "The person may retain it until the annual audit",
+        "The amount becomes the customer's ITC automatically",
+        "The collected amount must be paid forthwith to the Government",
+        "The amount is treated as a discount"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Section 76 requires a person who has collected an amount representing tax and has not paid it to the Government to pay that amount forthwith. The rule prevents a person from retaining money collected from another person as tax.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Tax collected but not paid — Section 76",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9188,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "Electronic cash ledger — permitted payments",
+      "q": "Which set of liabilities may generally be discharged using the balance in the electronic cash ledger under Section 49(3)?",
+      "o": [
+        "Only output tax, never any other amount",
+        "Only input tax credit",
+        "Only late fee",
+        "Tax, interest, penalty, fees and other amounts payable under the Act or Rules"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "Section 49(3) allows the electronic cash ledger balance to be used for tax, interest, penalty, fees and other amounts payable under the Act or Rules, subject to prescribed conditions. It is broader than the electronic credit ledger.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "Electronic cash ledger — permitted payments",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Central Goods and Services Tax Act, 2017 — relevant provisions checked against Finance Act 2026 and current Central Tax commencement notifications",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceAdditionalURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_current_cgst_and_meghalaya_status_2026-11-21"
+    },
+    {
+      "id": 9189,
+      "cat": "Polity",
+      "topic": "Article 315 — Public Service Commissions",
+      "q": "Which constitutional article provides for a Public Service Commission for the Union and a Public Service Commission for each State?",
+      "o": [
+        "Article 315",
+        "Article 320",
+        "Article 324",
+        "Article 338"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 315 provides for the Union Public Service Commission and a Public Service Commission for each State, subject to the constitutional arrangements that allow a Joint State Public Service Commission. It is the constitutional foundation for public service commissions.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Polity",
+        "Article 315 — Public Service Commissions",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024)",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9190,
+      "cat": "Polity",
+      "topic": "Article 320 — functions of Public Service Commissions",
+      "q": "Which article sets out the functions of Union and State Public Service Commissions, including conducting examinations for appointments to services?",
+      "o": [
+        "Article 312",
+        "Article 320",
+        "Article 326",
+        "Article 350A"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 320 describes the functions of Public Service Commissions. These include conducting examinations for appointments to services and advising on specified recruitment, promotion and disciplinary matters, subject to constitutional provisions and applicable rules.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 320 — functions of Public Service Commissions",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024)",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9191,
+      "cat": "Polity",
+      "topic": "Article 325 — non-discriminatory electoral rolls",
+      "q": "A citizen is otherwise eligible for inclusion in an electoral roll. Which constitutional article bars exclusion from a general electoral roll solely on grounds of religion, race, caste or sex?",
+      "o": [
+        "Article 324",
+        "Article 326",
+        "Article 325",
+        "Article 330"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Article 325 provides one general electoral roll for every territorial constituency and prohibits exclusion from that roll or a claim to a special electoral roll solely on grounds of religion, race, caste or sex.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 325 — non-discriminatory electoral rolls",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024)",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9192,
+      "cat": "Polity",
+      "topic": "Article 330 — reservation in the Lok Sabha",
+      "q": "Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People is principally provided under which article?",
+      "o": [
+        "Article 332",
+        "Article 338A",
+        "Article 342",
+        "Article 330"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "Article 330 provides for reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People. Article 332 deals with reservation in State Legislative Assemblies, so the two provisions must not be confused.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Polity",
+        "Article 330 — reservation in the Lok Sabha",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024)",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9193,
+      "cat": "Polity",
+      "topic": "Article 335 — claims of SCs and STs in services",
+      "q": "Article 335 requires the claims of which communities to be taken into consideration in appointments to services and posts, consistently with the maintenance of administrative efficiency?",
+      "o": [
+        "Scheduled Castes and Scheduled Tribes",
+        "Only religious minorities",
+        "Only linguistic minorities",
+        "All residents of border districts"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 335 directs that the claims of Scheduled Castes and Scheduled Tribes be taken into consideration in appointments to services and posts, consistently with the maintenance of efficiency of administration. It is not a general reservation provision for every category.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 335 — claims of SCs and STs in services",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024)",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9194,
+      "cat": "Polity",
+      "topic": "Article 338A — National Commission for Scheduled Tribes",
+      "q": "The National Commission for Scheduled Tribes is specifically established by which article of the Constitution?",
+      "o": [
+        "Article 338",
+        "Article 338A",
+        "Article 338B",
+        "Article 339"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 338A establishes the National Commission for Scheduled Tribes. The Commission monitors constitutional and legal safeguards for Scheduled Tribes, inquires into complaints and advises on their socio-economic development.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 338A — National Commission for Scheduled Tribes",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024)",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9195,
+      "cat": "Polity",
+      "topic": "Article 338B — National Commission for Backward Classes",
+      "q": "Which constitutional article establishes the National Commission for Backward Classes?",
+      "o": [
+        "Article 338A",
+        "Article 339",
+        "Article 338B",
+        "Article 342"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Article 338B establishes the National Commission for Backward Classes. It is distinct from Article 338A, which concerns the National Commission for Scheduled Tribes.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Polity",
+        "Article 338B — National Commission for Backward Classes",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024)",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9196,
+      "cat": "Polity",
+      "topic": "Article 339(1) — Scheduled Areas and ST welfare",
+      "q": "Under Article 339(1), who may appoint a commission to report on the administration of Scheduled Areas and the welfare of Scheduled Tribes?",
+      "o": [
+        "The Chief Justice of India",
+        "The Speaker of the Lok Sabha",
+        "The Finance Commission",
+        "The President of India"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "Article 339(1) empowers the President to appoint a commission to report on the administration of Scheduled Areas and the welfare of Scheduled Tribes. The provision concerns Union oversight and does not itself create an Autonomous District Council.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 339(1) — Scheduled Areas and ST welfare",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024)",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9197,
+      "cat": "Polity",
+      "topic": "Article 342 — specification of Scheduled Tribes",
+      "q": "How are Scheduled Tribes specified in relation to a particular State or Union Territory under Article 342?",
+      "o": [
+        "The President specifies them by public notification, and Parliament may include or exclude groups by law",
+        "Each District Council independently creates the list",
+        "The Election Commission prepares the list",
+        "The State Public Service Commission issues the list"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 342 provides for the President to specify Scheduled Tribes in relation to a State or Union Territory by public notification. Parliament may by law include or exclude a group from the notified list; a State executive order alone cannot amend it.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 342 — specification of Scheduled Tribes",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024)",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9198,
+      "cat": "Polity",
+      "topic": "Article 350A — mother-tongue instruction",
+      "q": "Which constitutional provision asks States and local authorities to endeavour to provide adequate facilities for instruction in the mother tongue at the primary stage for children belonging to linguistic minority groups?",
+      "o": [
+        "Article 343",
+        "Article 350A",
+        "Article 350B",
+        "Article 351"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 350A concerns facilities for instruction in the mother tongue at the primary stage for children belonging to linguistic minority groups. It is particularly relevant in a linguistically diverse State such as Meghalaya.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Polity",
+        "Article 350A — mother-tongue instruction",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "The Constitution of India, Legislative Department, Government of India (text as at 1 May 2024)",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/7af1daa22d65f9d04c00ae9b9aa5a799.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9199,
+      "cat": "Meghalaya GK",
+      "topic": "Khasi alphabet — Thomas Jones",
+      "q": "According to the Meghalaya Government's historical profile, who formulated a Khasi alphabet in 1842?",
+      "o": [
+        "William Carey",
+        "David Scott",
+        "Thomas Jones",
+        "J. J. M. Nichols-Roy"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The Meghalaya Government profile records that the Khasi alphabet was formulated in 1842 by Thomas Jones, a Welsh missionary. This is a distinct milestone in the history of formal education and written-language development in the State.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Khasi alphabet — Thomas Jones",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — About Meghalaya.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal — About Meghalaya",
+      "sourceURL": "https://meghalaya.gov.in/index.php/22429-sq-km",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9200,
+      "cat": "Meghalaya GK",
+      "topic": "Garo alphabet — Roman script",
+      "q": "The Meghalaya Government profile records that a Garo alphabet was evolved in 1902 using which script?",
+      "o": [
+        "Devanagari",
+        "Bengali",
+        "Perso-Arabic",
+        "Roman"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "The State profile notes that American missionaries evolved a Garo alphabet in 1902 using the Roman script. This fact is separate from the earlier 1842 formulation of a Khasi alphabet by Thomas Jones.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Garo alphabet — Roman script",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — About Meghalaya.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal — About Meghalaya",
+      "sourceURL": "https://meghalaya.gov.in/index.php/22429-sq-km",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9201,
+      "cat": "Meghalaya GK",
+      "topic": "Shillong — first college",
+      "q": "In which year was the first college in Shillong established, according to the Meghalaya Government profile?",
+      "o": [
+        "1924",
+        "1842",
+        "1902",
+        "1972"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Meghalaya Government profile states that the first college in Shillong was established in 1924 by the Christian Brothers of Ireland. The year should not be confused with the 1842 Khasi alphabet milestone or the 1902 Garo alphabet milestone.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Shillong — first college",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — About Meghalaya.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal — About Meghalaya",
+      "sourceURL": "https://meghalaya.gov.in/index.php/22429-sq-km",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9202,
+      "cat": "Meghalaya GK",
+      "topic": "Jaintia traditional polity — Doloi",
+      "q": "In the traditional Jaintia Hills administrative system described by the Meghalaya Government, what is the chief of an elaka called?",
+      "o": [
+        "Syiem",
+        "Doloi",
+        "Nokma",
+        "Laskar"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Meghalaya Government's Jowai profile explains that the chief of an elaka is called a Doloi. The Doloi represents the elaka in the wider Jaintia political system and has both administrative and traditional functions.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Jaintia traditional polity — Doloi",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — Jowai and Jaintia Hills traditional administration.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal — Jowai and Jaintia Hills traditional administration",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34293",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9203,
+      "cat": "Meghalaya GK",
+      "topic": "Jaintia traditional polity — Durbars",
+      "q": "According to the Meghalaya Government's description of Jaintia Hills governance, what role did the respective Durbars play in relation to the Raja and Dolois?",
+      "o": [
+        "They replaced all village institutions",
+        "They were only religious festivals",
+        "They checked the functions of the Raja and Dolois and provided opportunities for public participation",
+        "They served only as tax-collection offices"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The Jowai profile explains that village, Elaka and Syiem Durbars checked the functions of the Raja and Dolois and gave people opportunities to participate in their own affairs. This describes a traditional accountability mechanism.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Jaintia traditional polity — Durbars",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — Jowai and Jaintia Hills traditional administration.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal — Jowai and Jaintia Hills traditional administration",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34293",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9204,
+      "cat": "Meghalaya GK",
+      "topic": "Ri-Bhoi district — administrative formation",
+      "q": "East Khasi Hills District was further divided on 4 June 1992 to create which district?",
+      "o": [
+        "West Khasi Hills",
+        "South West Khasi Hills",
+        "Eastern West Khasi Hills",
+        "Ri-Bhoi"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "The East Khasi Hills district profile records that on 4 June 1992 East Khasi Hills was further divided into East Khasi Hills and Ri-Bhoi. Shillong remained the headquarters of East Khasi Hills, while Nongpoh became the headquarters of Ri-Bhoi.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Ri-Bhoi district — administrative formation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. East Khasi Hills District Administration — District Profile.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "East Khasi Hills District Administration — District Profile",
+      "sourceURL": "https://eastkhasihills.gov.in/district-profile/",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9205,
+      "cat": "Meghalaya GK",
+      "topic": "Shillong — former capital of Assam",
+      "q": "Before Meghalaya became a full-fledged State in January 1972, Shillong had served as the capital of which province or State?",
+      "o": [
+        "Assam",
+        "Mizoram",
+        "Sikkim",
+        "Arunachal Pradesh"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Meghalaya Government profile records that Shillong became the capital of Assam in 1874 and continued in that role until January 1972, following the formation of Meghalaya. This is a historical-geography fact, not the date of Meghalaya's autonomous-state status.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Shillong — former capital of Assam",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — About Meghalaya.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal — About Meghalaya",
+      "sourceURL": "https://meghalaya.gov.in/index.php/22429-sq-km",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9206,
+      "cat": "Meghalaya GK",
+      "topic": "Megha I and Megha II — cold-tolerant rice",
+      "q": "Megha I and Megha II, cold-tolerant rice varieties mentioned in the Meghalaya Government profile, were developed by which institution or research region?",
+      "o": [
+        "ICAR Central Rice Research Institute in Cuttack only",
+        "ICAR North East Region at Umroi near Shillong",
+        "Meghalaya State Legislative Assembly",
+        "North Eastern Council Secretariat"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Meghalaya Government profile states that Megha I and Megha II were developed by the ICAR North East Region at Umroi near Shillong and released in 1991–92 for higher-altitude areas. Their distinguishing feature is cold tolerance.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Megha I and Megha II — cold-tolerant rice",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — About Meghalaya.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal — About Meghalaya",
+      "sourceURL": "https://meghalaya.gov.in/index.php/22429-sq-km",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9207,
+      "cat": "Meghalaya GK",
+      "topic": "Meghalaya — geographical area",
+      "q": "What is the geographical area of Meghalaya as stated on the State Government's official portal?",
+      "o": [
+        "15,000 square kilometres",
+        "18,500 square kilometres",
+        "22,429 square kilometres",
+        "30,000 square kilometres"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The Meghalaya Government portal identifies the State's area as 22,429 square kilometres. This is a basic geographical profile figure and should not be confused with population, forest cover or the area of any one district.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Meghalaya — geographical area",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — About Meghalaya.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal — About Meghalaya",
+      "sourceURL": "https://meghalaya.gov.in/index.php/22429-sq-km",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9208,
+      "cat": "Meghalaya GK",
+      "topic": "Eastern West Khasi Hills — headquarters",
+      "q": "What is the district headquarters of Eastern West Khasi Hills, as listed on the Meghalaya Government's district portal?",
+      "o": [
+        "Nongstoin",
+        "Mawkyrwat",
+        "Nongpoh",
+        "Mairang"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "The Meghalaya Government district list identifies Mairang as the headquarters of Eastern West Khasi Hills. Nongstoin is listed for West Khasi Hills, Mawkyrwat for South West Khasi Hills and Nongpoh for Ri-Bhoi.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Eastern West Khasi Hills — headquarters",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — Districts.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal — Districts",
+      "sourceURL": "https://www.meghalaya.gov.in/districts",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9209,
+      "cat": "Geography",
+      "topic": "Seismology — P waves and S waves",
+      "q": "Seismic records from an earthquake show that a wave has travelled through the Earth's liquid outer core. Which type of body wave can do this?",
+      "o": [
+        "P waves",
+        "S waves",
+        "Love waves only",
+        "Rayleigh waves only"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Primary waves are compressional body waves and can travel through solids, liquids and gases. Secondary waves are shear waves and cannot travel through liquids, which is why P-wave and S-wave behaviour helps scientists infer Earth's internal structure.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Seismology — P waves and S waves",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography, Class XI.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Fundamentals of Physical Geography, Class XI",
+      "sourceURL": "https://ncert.nic.in/textbook.php?kegy2=ps-10",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9210,
+      "cat": "Geography",
+      "topic": "Weather maps — isobars",
+      "q": "On a synoptic weather map, what do isobars join?",
+      "o": [
+        "Places with equal rainfall",
+        "Places with equal atmospheric pressure",
+        "Places with equal humidity",
+        "Places with equal wind speed"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Isobars are lines joining places that have the same atmospheric pressure at a specified time. Their spacing and pattern help meteorologists interpret pressure gradients and likely wind conditions.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Geography",
+        "Weather maps — isobars",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography, Class XI.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Fundamentals of Physical Geography, Class XI",
+      "sourceURL": "https://ncert.nic.in/textbook.php?kegy2=ps-10",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9211,
+      "cat": "Geography",
+      "topic": "Weather instruments — anemometer",
+      "q": "Which instrument is used to measure wind speed at a weather station?",
+      "o": [
+        "Barometer",
+        "Hygrometer",
+        "Anemometer",
+        "Rain gauge"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "An anemometer measures wind speed. A barometer measures atmospheric pressure, a hygrometer measures humidity and a rain gauge measures precipitation, so the instruments should not be interchanged.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Weather instruments — anemometer",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography, Class XI.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Fundamentals of Physical Geography, Class XI",
+      "sourceURL": "https://ncert.nic.in/textbook.php?kegy2=ps-10",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9212,
+      "cat": "Geography",
+      "topic": "Drainage basins — watershed divide",
+      "q": "A ridge separates streams that flow into two different river systems. What is this boundary called?",
+      "o": [
+        "Meander",
+        "Floodplain",
+        "Delta",
+        "Watershed or drainage divide"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "A watershed divide is the elevated boundary separating neighbouring drainage basins. Rain falling on opposite sides of the divide generally drains towards different river systems.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Drainage basins — watershed divide",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography, Class XI.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Fundamentals of Physical Geography, Class XI",
+      "sourceURL": "https://ncert.nic.in/textbook.php?kegy2=ps-10",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9213,
+      "cat": "Geography",
+      "topic": "Drainage patterns — dendritic",
+      "q": "A river network resembles the branches of a tree and develops over relatively uniform rock with little structural control. Which drainage pattern is this?",
+      "o": [
+        "Dendritic",
+        "Trellis",
+        "Radial",
+        "Rectangular"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A dendritic drainage pattern resembles tree branches. It commonly develops where the underlying rock has relatively uniform resistance and there is no strong structural control forcing streams into parallel or right-angled courses.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Geography",
+        "Drainage patterns — dendritic",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography, Class XI.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Fundamentals of Physical Geography, Class XI",
+      "sourceURL": "https://ncert.nic.in/textbook.php?kegy2=ps-10",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9214,
+      "cat": "Geography",
+      "topic": "Fluvial landforms — oxbow lake",
+      "q": "A river meander is cut off from the main channel after erosion and deposition narrow its neck. What landform may remain?",
+      "o": [
+        "Alluvial fan",
+        "Oxbow lake",
+        "Moraine",
+        "Sea stack"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "An oxbow lake forms when a river cuts through the narrow neck of a meander and abandons the loop. The isolated curved water body is a depositional and erosional feature of a meandering river system.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Fluvial landforms — oxbow lake",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography, Class XI.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Fundamentals of Physical Geography, Class XI",
+      "sourceURL": "https://ncert.nic.in/textbook.php?kegy2=ps-10",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9215,
+      "cat": "Geography",
+      "topic": "Tides — spring tide",
+      "q": "When are spring tides generally produced?",
+      "o": [
+        "Only at the first and third quarter moons",
+        "Only when the Moon is at its farthest distance from Earth",
+        "When the Sun, Earth and Moon are approximately aligned at new moon or full moon",
+        "Only during a solar eclipse"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Spring tides occur around new moon and full moon when the gravitational effects of the Sun and Moon act along approximately the same line. The tidal range is greater than during neap tides.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Tides — spring tide",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography, Class XI.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Fundamentals of Physical Geography, Class XI",
+      "sourceURL": "https://ncert.nic.in/textbook.php?kegy2=ps-10",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9216,
+      "cat": "Geography",
+      "topic": "Local winds — daytime sea breeze",
+      "q": "During a clear daytime, a coastal area experiences a breeze blowing from the sea towards the land. What is the main cause?",
+      "o": [
+        "The sea heats faster than the land",
+        "The Coriolis force reverses direction every afternoon",
+        "The land remains cooler than the sea throughout the day",
+        "Land heats faster, air rises over it and cooler air moves inland from the sea"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "Land generally warms faster than the sea during the day. Air over the warmer land rises, creating relatively lower pressure near the surface, and cooler air flows from the sea towards the land as a sea breeze.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Geography",
+        "Local winds — daytime sea breeze",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography, Class XI.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Fundamentals of Physical Geography, Class XI",
+      "sourceURL": "https://ncert.nic.in/textbook.php?kegy2=ps-10",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9217,
+      "cat": "Geography",
+      "topic": "Rainfall types — convectional rainfall",
+      "q": "A hot surface warms moist air, which rises, expands and cools until condensation produces showers. Which rainfall mechanism is described?",
+      "o": [
+        "Convectional rainfall",
+        "Relief rainfall",
+        "Frontal rainfall",
+        "Cyclonic storm surge"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Convectional rainfall begins when surface heating causes warm, moist air to rise. As it expands and cools, water vapour condenses into clouds and may produce heavy showers or thunderstorms.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Rainfall types — convectional rainfall",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography, Class XI.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Fundamentals of Physical Geography, Class XI",
+      "sourceURL": "https://ncert.nic.in/textbook.php?kegy2=ps-10",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9218,
+      "cat": "Geography",
+      "topic": "Igneous rocks — intrusive formation",
+      "q": "A rock contains relatively large interlocking crystals because molten material cooled slowly beneath the Earth's surface. How is it classified?",
+      "o": [
+        "Extrusive igneous rock",
+        "Intrusive igneous rock",
+        "Chemical sedimentary rock",
+        "Foliated metamorphic rock"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Intrusive igneous rocks form when magma cools slowly below the surface. Slow cooling gives crystals more time to grow, producing a coarse-grained texture, as in granite.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Igneous rocks — intrusive formation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography, Class XI.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Fundamentals of Physical Geography, Class XI",
+      "sourceURL": "https://ncert.nic.in/textbook.php?kegy2=ps-10",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9219,
+      "cat": "Economy",
+      "topic": "National income — GVA and GDP relationship",
+      "q": "At market prices, how is GDP related to Gross Value Added at basic prices in the standard national-accounts identity?",
+      "o": [
+        "GDP equals GVA minus all wages",
+        "GDP equals GVA plus depreciation only",
+        "GDP equals GVA plus product taxes minus product subsidies",
+        "GDP equals GVA minus exports"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The standard relationship is GDP at market prices = GVA at basic prices + product taxes − product subsidies. Product taxes raise the market-price measure, while product subsidies are deducted to avoid overstating the market value.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Economy",
+        "National income — GVA and GDP relationship",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Introductory Macroeconomics, Class XII.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Introductory Macroeconomics, Class XII",
+      "sourceURL": "https://ncert.nic.in/textbook.php?leec1=ps-6",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9220,
+      "cat": "Economy",
+      "topic": "Price indices — CPI and WPI",
+      "q": "Which statement best distinguishes the Consumer Price Index from the Wholesale Price Index?",
+      "o": [
+        "CPI measures only export prices",
+        "WPI measures only household rent",
+        "CPI measures only industrial output",
+        "CPI tracks prices faced by consumers, while WPI tracks prices at the wholesale level"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "The Consumer Price Index measures changes in prices of a basket relevant to consumers and is used to assess retail inflation. The Wholesale Price Index tracks price movements at the wholesale stage and has a different coverage and purpose.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Price indices — CPI and WPI",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Introductory Macroeconomics, Class XII.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Introductory Macroeconomics, Class XII",
+      "sourceURL": "https://ncert.nic.in/textbook.php?leec1=ps-6",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9221,
+      "cat": "Economy",
+      "topic": "Balance of Payments — capital account",
+      "q": "In the standard Balance of Payments framework, which item is recorded in the capital account rather than the current account?",
+      "o": [
+        "Capital transfers and acquisition or disposal of non-produced non-financial assets",
+        "Exports of software services",
+        "Imports of crude oil",
+        "Remittances received by households"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The capital account records capital transfers and transactions in non-produced, non-financial assets. Goods, services, primary income and secondary income are recorded in the current account, while most financial investment flows are recorded in the financial account.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Balance of Payments — capital account",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — Foreign Exchange Reserves and Handbook of Statistics.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Reserve Bank of India — Foreign Exchange Reserves and Handbook of Statistics",
+      "sourceURL": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=24095",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9222,
+      "cat": "Economy",
+      "topic": "Exchange rates — depreciation and devaluation",
+      "q": "Under a flexible exchange-rate system, the market-driven fall in the value of a currency is generally called:",
+      "o": [
+        "Revaluation",
+        "Depreciation",
+        "Devaluation",
+        "Sterilisation"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Depreciation is a fall in a currency's value arising from market forces under a flexible exchange-rate system. Devaluation usually refers to an official downward adjustment by the monetary authority under a fixed or managed parity arrangement.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Economy",
+        "Exchange rates — depreciation and devaluation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Introductory Macroeconomics, Class XII.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Introductory Macroeconomics, Class XII",
+      "sourceURL": "https://ncert.nic.in/textbook.php?leec1=ps-6",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9223,
+      "cat": "Economy",
+      "topic": "Interest rates — approximate real rate",
+      "q": "A deposit offers a nominal annual interest rate of 7%, while annual inflation is 4%. Using the common approximation, what is the real interest rate?",
+      "o": [
+        "11%",
+        "7%",
+        "3%",
+        "4%"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The approximate real interest rate is the nominal interest rate minus the inflation rate. Here, 7% − 4% = 3%. The exact Fisher relationship is multiplicative, but the subtraction is the standard approximation for modest rates.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Interest rates — approximate real rate",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Introductory Macroeconomics, Class XII.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Introductory Macroeconomics, Class XII",
+      "sourceURL": "https://ncert.nic.in/textbook.php?leec1=ps-6",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9224,
+      "cat": "Economy",
+      "topic": "Public finance — tax buoyancy",
+      "q": "Tax revenue rises by 12% while nominal GDP rises by 8%. Using the standard tax-buoyancy ratio, what is the buoyancy?",
+      "o": [
+        "0.67",
+        "1.00",
+        "1.25",
+        "1.50"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "Tax buoyancy is the ratio of the percentage growth in tax revenue to the percentage growth in the corresponding tax base, commonly nominal GDP. Here it is 12 ÷ 8 = 1.5, meaning tax revenue grew one and a half times as fast as the base.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Public finance — tax buoyancy",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Department of Economic Affairs — FRBM Report, Estimation of Tax Buoyancies.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Department of Economic Affairs — FRBM Report, Estimation of Tax Buoyancies",
+      "sourceURL": "https://www.dea.gov.in/files/other_reports_documents/FRBM_report.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9225,
+      "cat": "Economy",
+      "topic": "External trade — merchandise trade deficit",
+      "q": "For a given period, a country's merchandise imports are ₹12 lakh crore and merchandise exports are ₹10 lakh crore. What does this indicate?",
+      "o": [
+        "A merchandise trade deficit of ₹2 lakh crore",
+        "A merchandise trade surplus of ₹2 lakh crore",
+        "A balanced merchandise trade account",
+        "A current-account surplus of ₹22 lakh crore"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A merchandise trade deficit occurs when the value of merchandise imports exceeds merchandise exports. Here the deficit is ₹12 lakh crore − ₹10 lakh crore = ₹2 lakh crore; this alone does not determine the entire current-account balance.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Economy",
+        "External trade — merchandise trade deficit",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — Foreign Exchange Reserves and Handbook of Statistics.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Reserve Bank of India — Foreign Exchange Reserves and Handbook of Statistics",
+      "sourceURL": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=24095",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9226,
+      "cat": "Economy",
+      "topic": "Foreign exchange reserves — components",
+      "q": "Which set correctly lists the main components of India's official foreign exchange reserves?",
+      "o": [
+        "Only US-dollar cash held by commercial banks",
+        "Foreign currency assets, gold, Special Drawing Rights and the reserve position in the IMF",
+        "Only government securities issued in India",
+        "Only export earnings held by private companies"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Reserve Bank's foreign-exchange-reserve presentation includes foreign currency assets, gold, Special Drawing Rights and India's reserve tranche position in the IMF. It is not limited to dollars or to private exporters' balances.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Foreign exchange reserves — components",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — Foreign Exchange Reserves and Handbook of Statistics.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Reserve Bank of India — Foreign Exchange Reserves and Handbook of Statistics",
+      "sourceURL": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=24095",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9227,
+      "cat": "Science",
+      "topic": "Atomic structure — isotopes",
+      "q": "Two atoms have the same number of protons but different numbers of neutrons. What is their correct relationship?",
+      "o": [
+        "They are isobars",
+        "They are ions of different elements",
+        "They are isotopes of the same element",
+        "They are molecules of the same compound"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Isotopes are atoms of the same element with the same atomic number but different mass numbers because they contain different numbers of neutrons. Their chemical properties are broadly similar because they have the same proton and electron arrangement in neutral atoms.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Atomic structure — isotopes",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Science, Class X.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science, Class X",
+      "sourceURL": "https://ncert.nic.in/textbook.php?gesc1=ps-10",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9228,
+      "cat": "Science",
+      "topic": "Redox reactions — electron transfer",
+      "q": "In terms of electron transfer, which statement correctly defines oxidation?",
+      "o": [
+        "Gain of electrons",
+        "Gain of neutrons",
+        "Loss of protons",
+        "Loss of electrons"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "Oxidation is loss of electrons, while reduction is gain of electrons. The two processes occur together in a redox reaction because electrons lost by one species are gained by another.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Science",
+        "Redox reactions — electron transfer",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Science, Class X.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science, Class X",
+      "sourceURL": "https://ncert.nic.in/textbook.php?gesc1=ps-10",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9229,
+      "cat": "Science",
+      "topic": "Electrochemistry — electrolysis",
+      "q": "What happens during electrolysis of an electrolyte?",
+      "o": [
+        "Electrical energy drives a non-spontaneous chemical change",
+        "A catalyst changes the reaction rate without current",
+        "A liquid changes to gas only by heating",
+        "A neutral atom becomes an isotope"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Electrolysis uses an external electric current to drive a chemical reaction that would not proceed spontaneously under the same conditions. It is used in processes such as electroplating and the decomposition of compounds.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Electrochemistry — electrolysis",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Science, Class X.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science, Class X",
+      "sourceURL": "https://ncert.nic.in/textbook.php?gesc1=ps-10",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9230,
+      "cat": "Science",
+      "topic": "Chemical kinetics — catalyst",
+      "q": "Which statement best describes the role of a catalyst in a chemical reaction?",
+      "o": [
+        "It permanently increases the amount of product by changing the equilibrium constant",
+        "It changes the reaction rate by providing an alternative pathway and is not consumed overall",
+        "It must become the main product",
+        "It always raises the temperature of the reaction"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A catalyst provides an alternative reaction pathway with a different activation energy and changes the reaction rate. It is regenerated in the overall reaction and does not change the equilibrium constant of the reaction.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Chemical kinetics — catalyst",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Science, Class X.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science, Class X",
+      "sourceURL": "https://ncert.nic.in/textbook.php?gesc1=ps-10",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9231,
+      "cat": "Science",
+      "topic": "Human physiology — nephron",
+      "q": "Which structure is regarded as the structural and functional unit of the human kidney?",
+      "o": [
+        "Alveolus",
+        "Neuron",
+        "Nephron",
+        "Villus"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The nephron is the structural and functional unit of the kidney. It filters blood at the renal corpuscle and modifies the filtrate through selective reabsorption and secretion along the renal tubule to help form urine.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Science",
+        "Human physiology — nephron",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Biology, Class XII.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Biology, Class XII",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=10-16",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9232,
+      "cat": "Science",
+      "topic": "Human physiology — cochlea",
+      "q": "Which part of the inner ear converts mechanical sound vibrations into electrical nerve signals?",
+      "o": [
+        "Semicircular canals",
+        "Eardrum",
+        "Auditory nerve alone",
+        "Cochlea"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "The cochlea contains sensory hair cells that convert mechanical vibrations into electrical signals carried by the auditory nerve. The semicircular canals are mainly involved in balance rather than hearing.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Human physiology — cochlea",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Biology, Class XII.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Biology, Class XII",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=10-16",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9233,
+      "cat": "Science",
+      "topic": "Immunology — vaccination",
+      "q": "The main purpose of vaccination is to:",
+      "o": [
+        "Stimulate the immune system to develop a protective response and memory",
+        "Destroy every microorganism in the body immediately",
+        "Replace red blood cells",
+        "Increase body temperature permanently"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Vaccines expose the immune system to an antigen or instructions for producing an antigen, allowing it to develop a protective response and immunological memory. This prepares the body to respond more effectively to later exposure.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Immunology — vaccination",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Biology, Class XII.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Biology, Class XII",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=10-16",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9234,
+      "cat": "Science",
+      "topic": "Antimicrobial medicines — antibiotics",
+      "q": "Why are ordinary antibacterial antibiotics not effective against influenza viruses?",
+      "o": [
+        "Influenza viruses have thicker cell walls than bacteria",
+        "Viruses lack the bacterial structures and processes targeted by antibacterial antibiotics",
+        "Antibiotics work only below 10°C",
+        "Influenza is caused by a fungus"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Antibacterial antibiotics act on bacterial structures or processes, such as cell-wall synthesis or bacterial ribosomes. Influenza is caused by a virus, so antibiotics do not treat the viral infection itself and should not be used without a bacterial indication.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Science",
+        "Antimicrobial medicines — antibiotics",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Science, Class X.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science, Class X",
+      "sourceURL": "https://ncert.nic.in/textbook.php?gesc1=ps-10",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9235,
+      "cat": "Computer",
+      "topic": "Email — blind carbon copy",
+      "q": "An office clerk sends one email to several external recipients but does not want recipients to see one another's addresses. Which email field is appropriate?",
+      "o": [
+        "To",
+        "CC",
+        "BCC",
+        "Subject"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "BCC means blind carbon copy. Addresses placed in BCC are not displayed to other ordinary recipients, making it useful when sending a message to a group whose members should not see one another's email addresses.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Email — blind carbon copy",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Microsoft Support — Show, hide and view the Bcc field in Outlook.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Microsoft Support — Show, hide and view the Bcc field in Outlook",
+      "sourceURL": "https://support.microsoft.com/en-au/outlook/mail/show-hide-and-view-the-bcc-blind-carbon-copy-field-in-outlook-for-windows",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9236,
+      "cat": "Computer",
+      "topic": "Spreadsheets — PivotTable",
+      "q": "A clerk has thousands of transaction rows and wants a quick summary of total payments by district and month without changing the source data. Which spreadsheet feature is most suitable?",
+      "o": [
+        "Spell Check",
+        "Mail Merge",
+        "Slide Master",
+        "PivotTable"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "A PivotTable summarises and reorganises a larger table by fields such as district and month. It can calculate totals, counts and other summaries without manually rewriting the underlying transaction records.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Spreadsheets — PivotTable",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Microsoft Support — Create a PivotTable to analyse worksheet data.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Microsoft Support — Create a PivotTable to analyse worksheet data",
+      "sourceURL": "https://support.microsoft.com/en-us/excel/get-started/create-a-pivottable-to-analyze-worksheet-data",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9237,
+      "cat": "Computer",
+      "topic": "Spreadsheets — conditional formatting",
+      "q": "A spreadsheet should automatically highlight overdue dates in red whenever a date meets a specified rule. Which feature should be used?",
+      "o": [
+        "Conditional formatting",
+        "Data validation",
+        "Mail merge",
+        "Track changes"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Conditional formatting applies a visual format automatically when cell values satisfy a rule. It is suitable for highlighting overdue dates, duplicates or values outside a defined range without manually colouring each cell.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Computer",
+        "Spreadsheets — conditional formatting",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Microsoft Support — Use conditional formatting in Excel.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Microsoft Support — Use conditional formatting in Excel",
+      "sourceURL": "https://support.microsoft.com/en-us/excel/use-conditional-formatting-to-highlight-information-in-excel",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9238,
+      "cat": "Computer",
+      "topic": "Spreadsheets — data validation",
+      "q": "A data-entry sheet must allow only dates within a specified financial year in a particular column. Which feature is designed to restrict such entries?",
+      "o": [
+        "Page orientation",
+        "Data validation",
+        "Slide transition",
+        "Word count"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Data validation restricts the type or range of values users may enter into spreadsheet cells. A date rule can limit entries to a specified period and reduce inconsistent or invalid data in office registers.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Spreadsheets — data validation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Microsoft Support — Apply data validation to cells in Excel.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Microsoft Support — Apply data validation to cells in Excel",
+      "sourceURL": "https://support.microsoft.com/en-us/excel/get-started/apply-data-validation-to-cells",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9239,
+      "cat": "Computer",
+      "topic": "Presentations — Slide Master",
+      "q": "In presentation software, which feature controls common fonts, logos, placeholders and layout elements across multiple slides?",
+      "o": [
+        "Speaker Notes",
+        "Animation Pane",
+        "Slide Master",
+        "Reading View"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The Slide Master controls the shared design and layout elements used by slides in a presentation. Changing the master can update consistent fonts, logos, colours and placeholders without editing each slide separately.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Presentations — Slide Master",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Microsoft Support — PowerPoint slide layouts and Slide Master.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Microsoft Support — PowerPoint slide layouts and Slide Master",
+      "sourceURL": "https://support.microsoft.com/en-us/powerpoint/what-is-a-slide-layout",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9240,
+      "cat": "Computer",
+      "topic": "File formats — CSV",
+      "q": "Which description best matches a CSV file?",
+      "o": [
+        "A compiled operating-system program",
+        "A compressed video file",
+        "A database backup that can only be opened by one vendor",
+        "A plain-text table format in which fields are separated by delimiters, commonly commas"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "CSV stands for comma-separated values. It stores tabular data as plain text, with records on separate lines and fields separated by commas or another specified delimiter, making it useful for data exchange between applications.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Computer",
+        "File formats — CSV",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. IETF RFC 4180 — Common Format and MIME Type for CSV Files.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "IETF RFC 4180 — Common Format and MIME Type for CSV Files",
+      "sourceURL": "https://www.rfc-editor.org/rfc/rfc4180",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9241,
+      "cat": "Computer",
+      "topic": "Digital preservation — PDF/A",
+      "q": "Which file format is specifically designed as a PDF profile for long-term electronic document preservation?",
+      "o": [
+        "PDF/A",
+        "JPEG",
+        "MP3",
+        "GIF"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "PDF/A is an archival-oriented PDF standard designed to preserve documents over the long term. It restricts certain features that may depend on external resources and requires reliable embedding of important document components such as fonts.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Digital preservation — PDF/A",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Library of Congress — PDF/A Family, Digital Formats.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Library of Congress — PDF/A Family, Digital Formats",
+      "sourceURL": "https://www.loc.gov/preservation/digital/formats/fdd/fdd000318.shtml",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9242,
+      "cat": "Computer",
+      "topic": "Spreadsheet file formats — .xlsx",
+      "q": "Which file extension is used by default for a modern Excel workbook that is not macro-enabled?",
+      "o": [
+        ".docx",
+        ".pptx",
+        ".xlsx",
+        ".accdb"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The standard Excel workbook format in modern Office versions uses the .xlsx extension. A macro-enabled Excel workbook normally uses .xlsm, while .docx is a Word document and .pptx is a PowerPoint presentation.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Spreadsheet file formats — .xlsx",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Microsoft Support — Save a workbook in another file format.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Microsoft Support — Save a workbook in another file format",
+      "sourceURL": "https://support.microsoft.com/en-au/excel/save-a-workbook-in-another-file-format",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9243,
+      "cat": "Environment",
+      "topic": "Ecology — biomagnification",
+      "q": "A persistent pollutant is present in small amounts in water but reaches a much higher concentration in top predatory fish. Which ecological process explains this increase across trophic levels?",
+      "o": [
+        "Primary succession",
+        "Nitrogen fixation",
+        "Biomagnification",
+        "Pollination"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Biomagnification is the increase in concentration of a persistent substance at successively higher trophic levels in a food chain. Top predators may therefore accumulate much higher concentrations than organisms lower in the chain.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Environment",
+        "Ecology — biomagnification",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Biology, Class XII.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Biology, Class XII",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=10-16",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9244,
+      "cat": "Environment",
+      "topic": "Ecology — ecological niche",
+      "q": "In ecology, what does the term 'ecological niche' most accurately describe?",
+      "o": [
+        "Only the physical shelter where an animal sleeps",
+        "The total number of species in a forest",
+        "The geographical coordinates of a protected area",
+        "A species' functional role, resource use and interactions within its ecosystem"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "An ecological niche describes how a species functions within an ecosystem, including the resources it uses, the conditions it tolerates and its interactions with other organisms. It is broader than simply the physical place where the species is found.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Ecology — ecological niche",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Biology, Class XII.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Biology, Class XII",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=10-16",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9245,
+      "cat": "Environment",
+      "topic": "Climate change — carbon sink",
+      "q": "A forest absorbs more carbon dioxide from the atmosphere than it releases over a defined period. In climate science, the forest is functioning as a:",
+      "o": [
+        "Carbon sink",
+        "Carbon source",
+        "Primary pollutant",
+        "Greenhouse gas"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A carbon sink removes or stores more carbon over a period than it releases. Forests and oceans can act as sinks, although their effectiveness depends on ecosystem condition, disturbance, land use and the time period considered.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Climate change — carbon sink",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NOAA — West Coast National Marine Sanctuaries, Blue Carbon Facts.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NOAA — West Coast National Marine Sanctuaries, Blue Carbon Facts",
+      "sourceURL": "https://sanctuaries.noaa.gov/media/docs/20240326-blue-carbon-fact-sheet.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9246,
+      "cat": "Environment",
+      "topic": "Marine environment — ocean acidification",
+      "q": "What is the principal chemical cause of ocean acidification associated with rising atmospheric carbon dioxide?",
+      "o": [
+        "Seawater loses all dissolved oxygen",
+        "Dissolved carbon dioxide forms carbonic acid and lowers seawater pH",
+        "Salt is converted directly into sulphuric acid",
+        "Ocean water becomes more alkaline because of evaporation"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Some atmospheric carbon dioxide dissolves in seawater and reacts with water to form carbonic acid, which releases hydrogen ions and lowers pH. This chemical change can reduce the availability of carbonate ions needed by many shell-forming organisms.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Environment",
+        "Marine environment — ocean acidification",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NOAA — What is Ocean Acidification?.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NOAA — What is Ocean Acidification?",
+      "sourceURL": "https://oceanservice.noaa.gov/facts/acidification.html",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9247,
+      "cat": "Environment",
+      "topic": "Sustainability — ecological footprint",
+      "q": "The ecological footprint of a population is intended to estimate:",
+      "o": [
+        "The biologically productive land and water area needed to provide its resources and absorb its wastes",
+        "The number of endangered species in one national park",
+        "The height of the tallest tree in a forest",
+        "The annual rainfall of a city"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "An ecological footprint estimates the biologically productive area required to supply the resources a population consumes and absorb the wastes it generates, under prevailing technology. It is an indicator of pressure on ecological capacity.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Sustainability — ecological footprint",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Global Footprint Network — Ecological Footprint FAQ.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Global Footprint Network — Ecological Footprint FAQ",
+      "sourceURL": "https://footprintnetwork.org/faq/",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9248,
+      "cat": "Environment",
+      "topic": "Ecosystem services — pollination",
+      "q": "In the ecosystem-services framework, pollination by insects that supports crop production is generally classified as which type of service?",
+      "o": [
+        "Cultural service",
+        "Regulating service",
+        "Provisioning service only",
+        "Disservice"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Pollination is generally classified as a regulating ecosystem service because organisms help regulate an essential ecological process. It supports crop production and wild-plant reproduction, but the service itself is the ecological regulation of pollination.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Ecosystem services — pollination",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Biology, Class XII.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Biology, Class XII",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=10-16",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9249,
+      "cat": "Environment",
+      "topic": "Environmental governance — EIA",
+      "q": "Under India's Environmental Impact Assessment framework, why must listed development projects obtain prior environmental clearance before construction or land preparation begins?",
+      "o": [
+        "To determine the market value of the project land",
+        "To certify that the project will make a profit",
+        "To examine potential environmental impacts and impose appropriate conditions before the project proceeds",
+        "To replace all local building permissions"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The EIA Notification 2006 requires prior environmental clearance for listed projects because their potential environmental impacts must be considered before construction or land preparation begins. The process allows the regulatory authority to assess proposals and set environmental conditions.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Environment",
+        "Environmental governance — EIA",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. MoEFCC / PARIVESH — EIA Notification 2006 and subsequent amendments (consolidated through January 2026).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "MoEFCC / PARIVESH — EIA Notification 2006 and subsequent amendments (consolidated through January 2026)",
+      "sourceURL": "https://parivesh.nic.in/publicdocument/UPLOAD_OM_NOTIFICATION/IA_DOCS/1018_12032026061714.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9250,
+      "cat": "Environment",
+      "topic": "Ecosystem restoration — recovery of degraded systems",
+      "q": "Which action best matches the UN Decade on Ecosystem Restoration's meaning of ecosystem restoration?",
+      "o": [
+        "Replacing every natural habitat with commercial plantations",
+        "Removing all human communities from every ecosystem",
+        "Increasing extraction of natural resources from degraded land",
+        "Assisting the recovery of ecosystems that have been degraded or destroyed"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "Ecosystem restoration means assisting the recovery of ecosystems that have been degraded or destroyed. Actions may include restoring forests, rivers, wetlands, farmlands and coastal systems while supporting biodiversity and benefits to people.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Ecosystem restoration — recovery of degraded systems",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. UN Decade on Ecosystem Restoration — Ecosystem Restoration Playbook.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "UN Decade on Ecosystem Restoration — Ecosystem Restoration Playbook",
+      "sourceURL": "https://www.decadeonrestoration.org/ecosystem-restoration-playbook",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9251,
+      "cat": "History",
+      "topic": "Social reform — Satyashodhak Samaj",
+      "q": "Which organisation, established in 1873, challenged caste-based inequality and promoted social reform, including marriages conducted without priests and dowry?",
+      "o": [
+        "Servants of India Society",
+        "Prarthana Samaj",
+        "Satyashodhak Samaj",
+        "Theosophical Society"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The Satyashodhak Samaj was established in 1873 and became associated with Jotirao Phule's challenge to caste hierarchy and social inequality. NCERT's Savitribai Phule memorial lecture also records the Samaj's initiative for marriages without priests, dowry and high costs.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Social reform — Satyashodhak Samaj",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Savitribai Phule Memorial Lecture Series.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Savitribai Phule Memorial Lecture Series",
+      "sourceURL": "https://www.ncert.nic.in/pdf/publication/otherpublications/Memorial-Lectures-Series/FINAL%20COVER%20OF%20SAVIRTIBAI%20PHULE.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9252,
+      "cat": "History",
+      "topic": "Social reform — Prarthana Samaj",
+      "q": "The Prarthana Samaj is identified in IGNOU study material as a reform organisation established in 1867 in which region?",
+      "o": [
+        "Punjab",
+        "Madras Presidency",
+        "Bengal",
+        "Maharashtra"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "IGNOU's study material places the establishment of the Prarthana Samaj in Maharashtra in 1867. It formed part of a wider nineteenth-century reform current addressing social and religious practices.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "History",
+        "Social reform — Prarthana Samaj",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. IGNOU eGyanKosh — Prarthana Samaj and nineteenth-century social reform.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "IGNOU eGyanKosh — Prarthana Samaj and nineteenth-century social reform",
+      "sourceURL": "https://egyankosh.ac.in/bitstream/123456789/57318/3/Unit-6.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9253,
+      "cat": "History",
+      "topic": "Constitutional history — Government of India Act 1858",
+      "q": "What major constitutional change followed the Government of India Act, 1858?",
+      "o": [
+        "The administration of India was transferred from the East India Company to the British Crown",
+        "Provincial dyarchy was introduced",
+        "The Indian National Congress was created",
+        "Separate electorates were first introduced"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Government of India Act, 1858 transferred the governance of India from the East India Company to the British Crown after the Revolt of 1857. It established direct Crown rule and created the office of Secretary of State for India.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Constitutional history — Government of India Act 1858",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Government of India Act 1858, UK Legislation.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Government of India Act 1858, UK Legislation",
+      "sourceURL": "https://www.legislation.gov.uk/ukpga/Vict/21-22/106/contents/enacted",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9254,
+      "cat": "History",
+      "topic": "Constitutional history — Charter Act 1833",
+      "q": "Which important change was made by the Charter Act of 1833?",
+      "o": [
+        "It introduced provincial autonomy",
+        "The Governor-General of Bengal became the Governor-General of India",
+        "It transferred power to the Crown",
+        "It created separate electorates"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Charter Act of 1833 centralised legislative authority and provided that the Governor-General of Bengal would become the Governor-General of India. Lord William Bentinck became the first holder of that office under the new arrangement.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Constitutional history — Charter Act 1833",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. East India Company Act 1833 (Charter Act), UK Legislation.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "East India Company Act 1833 (Charter Act), UK Legislation",
+      "sourceURL": "https://www.legislation.gov.uk/ukpga/Will4/3-4/85/pdfs/ukpga_18330085_en.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9255,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya tourism — BBC Travel 2027 list",
+      "q": "According to the Meghalaya Government's press release dated 19 November 2026, Meghalaya was the only destination from which country included on BBC Travel's '20 Best Places to Travel in 2027' list?",
+      "o": [
+        "Japan",
+        "Australia",
+        "India",
+        "France"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The Meghalaya Tourism Department's 19 November 2026 press release described Meghalaya as the sole destination from India on BBC Travel's 20 Best Places to Travel in 2027 list. The question concerns the Government's reported recognition, not a general ranking of all Indian destinations.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Current Affairs",
+        "Meghalaya tourism — BBC Travel 2027 list",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government — Press Release dated 19 November 2026: BBC Travel 20 Best Places to Travel in 2027.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government — Press Release dated 19 November 2026: BBC Travel 20 Best Places to Travel in 2027",
+      "sourceURL": "https://meghalaya.gov.in/press/content/52347",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "time_sensitive_verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9256,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya tourism — community homestays",
+      "q": "The Meghalaya Government's 19 November 2026 tourism release highlighted a plan to support the opening and upgrading of how many community-run homestays ahead of the 39th National Games?",
+      "o": [
+        "600",
+        "800",
+        "1,000",
+        "1,200"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The Government release highlighted support for 1,000 community-run homestays as part of a community-powered hospitality approach ahead of the 39th National Games. The stated aim is to help tourism income reach local families and rural communities.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "Meghalaya tourism — community homestays",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government — Press Release dated 19 November 2026: BBC Travel 20 Best Places to Travel in 2027.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government — Press Release dated 19 November 2026: BBC Travel 20 Best Places to Travel in 2027",
+      "sourceURL": "https://meghalaya.gov.in/press/content/52347",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "time_sensitive_verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9257,
+      "cat": "Current Affairs",
+      "topic": "Sports — 39th National Games",
+      "q": "The Meghalaya Government's tourism release of 19 November 2026 referred to the State preparing to host which edition of the National Games in March 2027?",
+      "o": [
+        "39th",
+        "38th",
+        "40th",
+        "41st"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The 19 November 2026 release referred to Meghalaya's preparations for the 39th National Games in March 2027. The fact is time-sensitive and should be checked against subsequent official sports and Government announcements before reuse after the event.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "Sports — 39th National Games",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government — Press Release dated 19 November 2026: BBC Travel 20 Best Places to Travel in 2027.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government — Press Release dated 19 November 2026: BBC Travel 20 Best Places to Travel in 2027",
+      "sourceURL": "https://meghalaya.gov.in/press/content/52347",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "time_sensitive_verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9258,
+      "cat": "Current Affairs",
+      "topic": "Living Heritage workshop — Mawphlang",
+      "q": "The Meghalaya Government announced a 21 November 2026 field-based workshop titled 'Living Heritage: Workshop on Eco-Museums & Community Archives'. At which site was it scheduled?",
+      "o": [
+        "Nokrek Biosphere Reserve",
+        "Nartiang Monolith Park",
+        "Mawphlang Sacred Grove",
+        "Balpakram National Park"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The 17 November 2026 Arts and Culture Department release scheduled the Living Heritage workshop at Mawphlang Sacred Grove in East Khasi Hills on 21 November. Its focus was community-led preservation of living traditions, sacred landscapes and local archives.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Current Affairs",
+        "Living Heritage workshop — Mawphlang",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government — Press Release dated 17 November 2026: Janjatiya Gaurav Divas and Living Heritage Workshop.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government — Press Release dated 17 November 2026: Janjatiya Gaurav Divas and Living Heritage Workshop",
+      "sourceURL": "https://meghalaya.gov.in/press/content/52346",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "time_sensitive_verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9259,
+      "cat": "Current Affairs",
+      "topic": "Agriculture infrastructure — North-East regional conference",
+      "q": "The Meghalaya Government's Agriculture and Farmers' Welfare Department reported a regional conference of North Eastern States on which scheme on 19 November 2026?",
+      "o": [
+        "Pradhan Mantri Fasal Bima Yojana",
+        "PM-KISAN",
+        "Rashtriya Krishi Vikas Yojana",
+        "Agriculture Infrastructure Fund"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "The 19 November 2026 release identifies the event as the Regional Conference of North Eastern States on the Agriculture Infrastructure Fund scheme. Discussions covered project sanctions, credit disbursements, convergence with other initiatives and regional implementation challenges.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "Agriculture infrastructure — North-East regional conference",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government — Regional Conference of North Eastern States on Agriculture Infrastructure Fund, 19 November 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government — Regional Conference of North Eastern States on Agriculture Infrastructure Fund, 19 November 2026",
+      "sourceURL": "https://www.meghalaya.gov.in/meghalaya/index.php/press/content/52353",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "time_sensitive_verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9260,
+      "cat": "Current Affairs",
+      "topic": "Electoral rolls — Special Summary Revision 2027",
+      "q": "According to the Meghalaya Government's Deputy Commissioner orders page in November 2026, the Special Summary Revision 2027 notice was issued for which district?",
+      "o": [
+        "East Jaintia Hills",
+        "West Garo Hills",
+        "South West Khasi Hills",
+        "Ri-Bhoi"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Meghalaya Government's Deputy Commissioner orders listing identifies the Special Summary Revision 2027 notice for East Jaintia Hills. Electoral-roll revision is intended to help eligible electors verify details, correct entries and ensure eligible citizens are included.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "Electoral rolls — Special Summary Revision 2027",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government — Deputy Commissioner Orders, Special Summary Revision 2027, East Jaintia Hills.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government — Deputy Commissioner Orders, Special Summary Revision 2027, East Jaintia Hills",
+      "sourceURL": "https://meghalaya.gov.in/announce/dcorders",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "time_sensitive_verified_primary_source_2026-11-21"
+    }
+  ],
+  "taxLawReview": {
+    "checkedOn": "2026-11-21",
+    "centralLaw": "Finance Act 2026 amendments to CGST sections 15, 34 and 54 were checked with Notification No. 03/2026-Central Tax effective 2026-11-01; questions on changed discount/refund provisions were excluded. The batch uses other sections checked against the Act and notification.",
+    "meghalayaLaw": "The Meghalaya Goods and Services Tax (Amendment) Bill 2026 was published in the Gazette on 2026-08-26. As of 2026-11-21 the official Meghalaya Taxation Acts and Rules list still lists the MGST Second Amendment Act 2025 as its latest MGST amendment, not a 2026 Act. No question treats proposed Section 15/34/54 changes as operative in Meghalaya.",
+    "officialCentralTaxNotificationURL": "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+    "officialMeghalayaMGSTActsURL": "https://meggst.gov.in/gst/acts.html",
+    "MeghalayaBillURL": "https://megpns.gov.in/gazette/2026/08/26-08-2026-X.pdf"
+  }
+}
