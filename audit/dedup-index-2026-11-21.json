@@ -20400,7 +20400,8 @@
     "fingerprintAlgorithm": "FNV-1a 32-bit over NFKD/lowercase/punctuation-normalized text; stem hash over normalized stem; option hash over sorted normalized options joined by spaces; answer hash over normalized correct option; topic hash over normalized topic; concept hash over category, topic and sorted non-stopword stem tokens; w contains sorted token hashes.",
     "source": "index.html embedded Q array",
     "offlineFirst": true,
-    "runtimeArchiveFetchRequired": false
+    "runtimeArchiveFetchRequired": false,
+    "postMergeParityVerified": true
   },
   "officialPyq": {
     "fileCount": 18,
@@ -20412,9 +20413,10 @@
   "archive": {
     "fileCount": 19,
     "questionCount": 505,
-    "mirrorParityVerified": "pending PR validator",
+    "mirrorParityVerified": true,
     "archiveRecordsAreMirrors": true,
-    "excludedFromUniqueComparisonCount": true
+    "excludedFromUniqueComparisonCount": true,
+    "postMergeParityVerified": true
   },
   "allPyqFiles": {
     "fileCount": 19,
@@ -20481,10 +20483,10 @@
     "partialDuplicateQuestionRecords": 139,
     "allPyqQuestionFiles": 19,
     "allPyqQuestionRecords": 2572,
-    "questionBatchArchives": 18,
-    "questionBatchArchiveRecords": 451,
+    "questionBatchArchives": 19,
+    "questionBatchArchiveRecords": 505,
     "unlistedQuestionBatchFiles": 0,
-    "comparisonCorpusRecords": 3615,
+    "comparisonCorpusRecords": 3669,
     "supportingDataFilesReviewed": 15,
     "currentAffairsFilesReviewed": 4,
     "currentAffairsSourceItemsReviewed": 19,
@@ -20500,7 +20502,8 @@
     "questionBatchArchiveRecordsInProposedBuild": 505,
     "comparisonCorpusRecordsBeforeRun": 3615,
     "comparisonCorpusRecordsAfterMerge": 3669,
-    "questionTextChangedSincePriorAudit": false
+    "questionTextChangedSincePriorAudit": false,
+    "activeQuestions": 1097
   },
   "sourceChangesSincePriorAudit": {
     "questionStemsOptionsAnswersUnchanged": true,
@@ -20510,8 +20513,8 @@
     ],
     "dedupEffect": "No prior active/PYQ stem, option or answer fingerprints changed."
   },
-  "mergeStatus": "pending_merge",
-  "mergedMainSha": null,
-  "postMergeAudit": false,
+  "mergeStatus": "merged",
+  "mergedMainSha": "8f05820b99000d740d0bd7f28db7ba3f0f092f36",
+  "postMergeAudit": true,
   "liveDeploymentVerified": false
 }
