@@ -123,17 +123,17 @@
     {
       "id": 9172,
       "cat": "Arithmetic",
-      "topic": "Coordinate geometry / midpoint formula",
-      "q": "What is the midpoint of the line segment joining A(−4, 6) and B(2, −2)?",
+      "topic": "Prime factorisation / least multiplier for a perfect square",
+      "q": "What is the smallest positive integer by which 540 must be multiplied to obtain a perfect square?",
       "o": [
-        "(−1, 2)",
-        "(1, −1)",
-        "(−2, 4)",
-        "(2, 2)"
+        "3",
+        "5",
+        "10",
+        "15"
       ],
-      "a": 0,
-      "answerIndex": 0,
-      "e": "The midpoint formula is ((x₁+x₂)/2, (y₁+y₂)/2). Substituting the coordinates gives ((−4+2)/2, (6−2)/2) = (−1, 2). The midpoint lies halfway between the two endpoints in both coordinate directions.",
+      "a": 3,
+      "answerIndex": 3,
+      "e": "Prime-factorise 540 = 2²×3³×5. For a perfect square, every prime exponent must be even. Multiplying by 3×5 adds one factor of each, giving 2²×3⁴×5² = 90². The smallest multiplier is therefore 15.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -142,7 +142,7 @@
       ],
       "tags": [
         "Arithmetic",
-        "Coordinate geometry / midpoint formula",
+        "Prime factorisation / least multiplier for a perfect square",
         "Original Practice"
       ],
       "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
