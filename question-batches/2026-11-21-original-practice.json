@@ -2793,5 +2793,17 @@
       "sourceVerifiedDate": "2026-11-21",
       "verificationStatus": "time_sensitive_verified_2026-11-21_primary_press_release"
     }
-  ]
+  ],
+  "questionIdRange": "9171-9252",
+  "validationSummary": {
+    "questionCount": 82,
+    "uniqueIds": 82,
+    "allFourOptions": true,
+    "answerIndicesValid": true,
+    "explanationsAtLeast120Chars": true,
+    "allSourcesHttps": true,
+    "allLabelsOriginalPractice": true,
+    "allVerificationDates": "2026-11-21",
+    "manualSemanticReview": "complete after exact, option-insensitive, number-normalised and token-similarity scans"
+  }
 }
