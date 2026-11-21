@@ -123,17 +123,17 @@
     {
       "id": 9172,
       "cat": "Arithmetic",
-      "topic": "Divisibility rules / divisibility by 11",
-      "q": "What is the smallest positive integer that must be added to 4387 to make the result divisible by 11?",
+      "topic": "Coordinate geometry / midpoint formula",
+      "q": "What is the midpoint of the line segment joining A(−4, 6) and B(2, −2)?",
       "o": [
-        "1",
-        "2",
-        "3",
-        "4"
+        "(−1, 2)",
+        "(1, −1)",
+        "(−2, 4)",
+        "(2, 2)"
       ],
-      "a": 1,
-      "answerIndex": 1,
-      "e": "Divide 4387 by 11: 11×398 = 4378, leaving remainder 9. To reach the next multiple of 11, add 11−9 = 2. Indeed, 4387 + 2 = 4389 = 11×399.",
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The midpoint formula is ((x₁+x₂)/2, (y₁+y₂)/2). Substituting the coordinates gives ((−4+2)/2, (6−2)/2) = (−1, 2). The midpoint lies halfway between the two endpoints in both coordinate directions.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -142,7 +142,7 @@
       ],
       "tags": [
         "Arithmetic",
-        "Divisibility rules / divisibility by 11",
+        "Coordinate geometry / midpoint formula",
         "Original Practice"
       ],
       "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
