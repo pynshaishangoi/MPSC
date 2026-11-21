@@ -1017,33 +1017,33 @@
     {
       "id": 9200,
       "cat": "Meghalaya GK",
-      "topic": "Garo alphabet — Roman script",
-      "q": "The Meghalaya Government profile records that a Garo alphabet was evolved in 1902 using which script?",
+      "topic": "Higher education — NEHU notification date",
+      "q": "The official North-Eastern Hill University website states that NEHU was set up by an Act of Parliament and notified on which date?",
       "o": [
-        "Devanagari",
-        "Bengali",
-        "Perso-Arabic",
-        "Roman"
+        "19 July 1973",
+        "1 August 1973",
+        "15 August 1973",
+        "26 May 1973"
       ],
-      "a": 3,
-      "answerIndex": 3,
-      "e": "The State profile notes that American missionaries evolved a Garo alphabet in 1902 using the Roman script. This fact is separate from the earlier 1842 formulation of a Khasi alphabet by Thomas Jones.",
+      "a": 0,
+      "answerIndex": 0,
+      "e": "NEHU's official website states that the University was set up by an Act of Parliament and notified on 19 July 1973. This is the notification date; a separate University Day notice records 26 May 1973 as the University's commemorative day.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
-        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes",
         "MPSC Secretariat LDA"
       ],
       "tags": [
         "Meghalaya GK",
-        "Garo alphabet — Roman script",
+        "Higher education — NEHU notification date",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — About Meghalaya.",
+      "source": "Original Practice — not an official PYQ. North-Eastern Hill University, official Department of Geography, University profile.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Meghalaya Government Portal — About Meghalaya",
-      "sourceURL": "https://meghalaya.gov.in/index.php/22429-sq-km",
+      "sourceName": "North-Eastern Hill University — Official University Profile",
+      "sourceURL": "https://nehu.ac.in/nehu_geog/",
       "sourceVerifiedDate": "2026-11-21",
       "verificationStatus": "verified_primary_source_2026-11-21"
     },
