@@ -45,14 +45,14 @@
     "finalBatchNearPairs": 0,
     "unresolvedSemanticCollisions": 0
   },
-  "mergedQuestions": 0,
+  "mergedQuestions": 54,
   "activeUniqueQuestionsBeforeRun": 1043,
-  "activeUniqueQuestionsAfterMerge": null,
+  "activeUniqueQuestionsAfterMerge": 1097,
   "comparisonCorpusRecords": 3615,
   "archiveMirrorRecordsBeforeRun": 451,
   "archiveMirrorRecordsAfterRun": 505,
-  "mergeStatus": "pending_merge",
-  "postMergeAudit": false,
+  "mergeStatus": "merged",
+  "postMergeAudit": true,
   "subjects": {
     "Meghalaya GK": 6,
     "History": 4,
@@ -94,9 +94,19 @@
     "sourceURLs": true,
     "originalPracticeLabels": true,
     "fullBankDedup": true,
-    "archiveParity": "pending PR validation",
-    "canonicalEmbeddedParity": "pending PR validation",
-    "serviceWorker": "updated",
-    "repositoryTests": "pending"
+    "archiveParity": true,
+    "canonicalEmbeddedParity": true,
+    "serviceWorker": "updated and validated",
+    "repositoryTests": "passed"
+  },
+  "comparisonCorpusRecordsAfterMerge": 3669,
+  "postMergeCommitSha": "8f05820b99000d740d0bd7f28db7ba3f0f092f36",
+  "pullRequest": 112,
+  "workflows": {
+    "pullRequestValidation": 44867627135,
+    "pushValidation": 44867679591,
+    "pagesBuildAndDeployment": 44867679068,
+    "pagesBuildConclusion": "success",
+    "liveContentVerified": false
   }
 }
