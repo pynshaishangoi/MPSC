@@ -123,17 +123,17 @@
     {
       "id": 9172,
       "cat": "Arithmetic",
-      "topic": "Digit reversal / algebraic number problems",
-      "q": "A two-digit number has digits whose sum is 9. When the digits are reversed, the new number is 27 greater than the original. What is the original number?",
+      "topic": "Divisibility rules / divisibility by 11",
+      "q": "What is the smallest positive integer that must be added to 4387 to make the result divisible by 11?",
       "o": [
-        "27",
-        "36",
-        "45",
-        "63"
+        "1",
+        "2",
+        "3",
+        "4"
       ],
       "a": 1,
       "answerIndex": 1,
-      "e": "Let the tens digit be a and the units digit be b. Then a+b=9. Reversing the digits changes the number by 9(b−a)=27, so b−a=3. Solving gives a=3 and b=6; the original number is 36.",
+      "e": "Divide 4387 by 11: 11×398 = 4378, leaving remainder 9. To reach the next multiple of 11, add 11−9 = 2. Indeed, 4387 + 2 = 4389 = 11×399.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -142,7 +142,7 @@
       ],
       "tags": [
         "Arithmetic",
-        "Digit reversal / algebraic number problems",
+        "Divisibility rules / divisibility by 11",
         "Original Practice"
       ],
       "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
@@ -189,17 +189,17 @@
     {
       "id": 9174,
       "cat": "Arithmetic",
-      "topic": "Factorials / trailing zeroes",
-      "q": "How many trailing zeroes are there in 100! (100 factorial)?",
+      "topic": "Space diagonal of a cuboid",
+      "q": "A cuboid has length 3 cm, breadth 4 cm and height 12 cm. What is the length of its space diagonal?",
       "o": [
-        "20",
-        "22",
-        "24",
-        "25"
+        "12 cm",
+        "13 cm",
+        "14 cm",
+        "15 cm"
       ],
-      "a": 2,
-      "answerIndex": 2,
-      "e": "A trailing zero is produced by each factor of 10, so count the number of pairs of 2 and 5. There are more factors of 2 than 5, so count the 5s: floor(100/5)=20 and floor(100/25)=4. Total = 24 trailing zeroes.",
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The space diagonal of a cuboid is √(l²+b²+h²). Substituting gives √(3²+4²+12²) = √(9+16+144) = √169 = 13 cm. This applies the three-dimensional Pythagorean theorem.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -208,7 +208,7 @@
       ],
       "tags": [
         "Arithmetic",
-        "Factorials / trailing zeroes",
+        "Space diagonal of a cuboid",
         "Original Practice"
       ],
       "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
