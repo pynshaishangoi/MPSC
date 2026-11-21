@@ -123,17 +123,17 @@
     {
       "id": 9172,
       "cat": "Arithmetic",
-      "topic": "Prime factorisation / least multiplier for a perfect square",
-      "q": "What is the smallest positive integer by which 540 must be multiplied to obtain a perfect square?",
+      "topic": "Mensuration / comparison of cylinder and cone volumes",
+      "q": "A cylinder and a cone have the same circular base radius and the same height. What is the ratio of their volumes (cylinder : cone)?",
       "o": [
-        "3",
-        "5",
-        "10",
-        "15"
+        "1 : 3",
+        "2 : 1",
+        "3 : 1",
+        "1 : 1"
       ],
-      "a": 3,
-      "answerIndex": 3,
-      "e": "Prime-factorise 540 = 2²×3³×5. For a perfect square, every prime exponent must be even. Multiplying by 3×5 adds one factor of each, giving 2²×3⁴×5² = 90². The smallest multiplier is therefore 15.",
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The cylinder’s volume is πr²h, while the cone’s volume is (1/3)πr²h. With the same radius and height, the cylinder holds three times the volume of the cone. Therefore the ratio is 3 : 1.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -142,7 +142,7 @@
       ],
       "tags": [
         "Arithmetic",
-        "Prime factorisation / least multiplier for a perfect square",
+        "Mensuration / comparison of cylinder and cone volumes",
         "Original Practice"
       ],
       "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
