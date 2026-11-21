@@ -190,7 +190,7 @@
       "id": 9174,
       "cat": "Arithmetic",
       "topic": "Space diagonal of a cuboid",
-      "q": "A cuboid has length 3 cm, breadth 4 cm and height 12 cm. What is the length of its space diagonal?",
+      "q": "A box measures 3 cm by 4 cm by 12 cm. What is the straight-line distance between two opposite vertices?",
       "o": [
         "12 cm",
         "13 cm",
@@ -388,7 +388,7 @@
       "id": 9180,
       "cat": "English",
       "topic": "Confusable words / imminent and eminent",
-      "q": "Choose the correct word: “The weather office warned that a severe storm was ______.”",
+      "q": "A warning says that a cyclone is likely to strike within the next few hours. Which adjective best describes the danger?",
       "o": [
         "eminent",
         "imminent",
@@ -487,7 +487,7 @@
       "id": 9183,
       "cat": "English",
       "topic": "Confusable words / principal and principle",
-      "q": "Choose the correct word: “The ______ reason for returning the file was the missing signature.”",
+      "q": "Which word completes the phrase “the ______ reason for rejecting the application” when the intended meaning is “the main reason”?",
       "o": [
         "principle",
         "principal",
