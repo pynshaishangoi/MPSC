@@ -1,0 +1,2797 @@
+{
+  "batchId": "original-practice-2026-11-21",
+  "title": "Original Practice Expansion — 21 November 2026",
+  "createdAt": "2026-11-21",
+  "sourceType": "Original Practice",
+  "questionCount": 82,
+  "candidateCount": 96,
+  "rejectedCandidates": 14,
+  "subjects": {
+    "Arithmetic": 6,
+    "English": 7,
+    "Meghalaya GK": 4,
+    "Polity": 6,
+    "History": 7,
+    "Geography": 6,
+    "Economy": 6,
+    "Science": 5,
+    "Environment": 5,
+    "Reasoning": 6,
+    "Computer": 5,
+    "GST / Inspector of Taxes": 8,
+    "Officer Technical": 6,
+    "Current Affairs": 5
+  },
+  "examTracks": [
+    "MPSC Inspector of Taxes",
+    "DSC East Khasi Hills LDA-cum-Typist",
+    "MPSC Secretariat LDA"
+  ],
+  "sourcePolicy": "Newly authored questions only; no official PYQ text or private uploaded material copied.",
+  "rejectedCandidateNotes": [
+    [
+      "weighted-mean replacement",
+      "overlapped the existing average/weighted-average skill cluster"
+    ],
+    [
+      "half-yearly compound-interest variant",
+      "same compound-interest reasoning path as existing active questions"
+    ],
+    [
+      "successive-discount calculation",
+      "near-duplicate of existing discount-chain problems"
+    ],
+    [
+      "calendar odd-days puzzle",
+      "same calendar-counting concept already present"
+    ],
+    [
+      "State Finance Commission Article 243I",
+      "concept collision with existing Finance Commission questions"
+    ],
+    [
+      "Money Bill Article 110 variant",
+      "repeats the existing definition/authority concept"
+    ],
+    [
+      "Newton third-law example",
+      "same action-reaction concept already covered"
+    ],
+    [
+      "ozone-layer depletion variant",
+      "near-duplicate of existing ozone-depletion questions"
+    ],
+    [
+      "living-root-bridge location",
+      "existing Meghalaya GK coverage already tests this site and its construction"
+    ],
+    [
+      "GSTR-1 versus GSTR-3B mismatch case",
+      "same reconciliation objective as existing GST practice"
+    ],
+    [
+      "GST TDS cash-ledger question",
+      "exact concept already covered in active GST practice"
+    ],
+    [
+      "GSTIN length question",
+      "basic identifier fact already present in PYQ/active material"
+    ],
+    [
+      "DHCP versus DNS distinction",
+      "DNS service concept already covered; rejected to avoid adjacent network-service repetition"
+    ],
+    [
+      "Meghalaya state-bird fact",
+      "source verification was not strong enough for a new state-symbol item"
+    ]
+  ],
+  "questions": [
+    {
+      "id": 9171,
+      "cat": "Arithmetic",
+      "topic": "Euclidean algorithm / HCF",
+      "q": "Using the Euclidean algorithm, what is the highest common factor of 252 and 198?",
+      "o": [
+        "6",
+        "9",
+        "18",
+        "36"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Apply repeated division: 252 = 198 + 54; 198 = 3×54 + 36; 54 = 36 + 18; 36 = 2×18. The last non-zero remainder is 18, so HCF = 18.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Euclidean algorithm / HCF",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Mathematics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9172,
+      "cat": "Arithmetic",
+      "topic": "Modular arithmetic / remainders",
+      "q": "A positive integer leaves a remainder of 5 when divided by 8. What remainder will its square leave when divided by 8?",
+      "o": [
+        "1",
+        "3",
+        "5",
+        "7"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Write the integer as 8k + 5. Its square is 64k² + 80k + 25 = 8(8k² + 10k + 3) + 1. Therefore the remainder after division by 8 is 1, regardless of k.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Modular arithmetic / remainders",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Mathematics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9173,
+      "cat": "Arithmetic",
+      "topic": "Quadratic equations / factorisation",
+      "q": "What are the roots of 2x² − 5x + 3 = 0?",
+      "o": [
+        "1 and 3/2",
+        "−1 and −3/2",
+        "1/2 and 3",
+        "−1/2 and −3"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Factorise 2x² − 5x + 3 as (2x − 3)(x − 1) = 0. Therefore x = 3/2 or x = 1. Substitution confirms both values satisfy the original equation.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Quadratic equations / factorisation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Mathematics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9174,
+      "cat": "Arithmetic",
+      "topic": "Arithmetic progression / sum of terms",
+      "q": "What is the sum of the first 20 terms of the arithmetic progression 5, 9, 13, 17, …?",
+      "o": [
+        "780",
+        "820",
+        "860",
+        "900"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Here a = 5, d = 4 and n = 20. Sₙ = n/2[2a + (n−1)d] = 10[10 + 76] = 10×86 = 860. The formula adds the terms without listing each one.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Arithmetic progression / sum of terms",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Mathematics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9175,
+      "cat": "Arithmetic",
+      "topic": "Coordinate geometry / distance formula",
+      "q": "What is the distance between the points (2, −1) and (8, 7) on a Cartesian plane?",
+      "o": [
+        "8 units",
+        "9 units",
+        "10 units",
+        "12 units"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Use √[(x₂−x₁)²+(y₂−y₁)²]. The horizontal and vertical differences are 6 and 8, so distance = √(36+64) = √100 = 10 units. This is the Pythagorean theorem applied to the coordinate differences.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Coordinate geometry / distance formula",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Mathematics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9176,
+      "cat": "Arithmetic",
+      "topic": "Geometry / regular polygon interior angles",
+      "q": "What is the measure of each interior angle of a regular decagon?",
+      "o": [
+        "120°",
+        "135°",
+        "140°",
+        "144°"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "A decagon has 10 sides. The sum of its interior angles is (10−2)×180° = 1,440°. In a regular decagon all angles are equal, so each angle is 1,440°÷10 = 144°.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Geometry / regular polygon interior angles",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Mathematics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9177,
+      "cat": "English",
+      "topic": "Confusable words / discreet and discrete",
+      "q": "Choose the correct word: “The officer was asked to be ______ while discussing the taxpayer’s confidential information.”",
+      "o": [
+        "discrete",
+        "discreet",
+        "discreetly",
+        "discretion"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Discreet is an adjective meaning careful, tactful or prudent in speech and conduct. Discrete means separate or distinct. The sentence needs the adjective describing the officer’s conduct: discreet.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Confusable words / discreet and discrete",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Cambridge Dictionary — English Usage.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — English Usage",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/discreet",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9178,
+      "cat": "English",
+      "topic": "Confusable words / complement and compliment",
+      "q": "Choose the correct word: “The new index will ______ the existing records by adding missing cross-references.”",
+      "o": [
+        "compliment",
+        "complement",
+        "complimentary",
+        "complementary"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Complement means to complete, improve or go well with something. Compliment means an expression of praise. Because the index adds something useful to the existing records, complement is correct.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Confusable words / complement and compliment",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Cambridge Dictionary — English Usage.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — English Usage",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/complement",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9179,
+      "cat": "English",
+      "topic": "Relative pronouns / objective case",
+      "q": "Choose the correct pronoun: “The officer to ______ the complaint was addressed forwarded it for examination.”",
+      "o": [
+        "who",
+        "whose",
+        "whom",
+        "which"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The preposition “to” requires an object. Whom is the objective form of who, so “to whom the complaint was addressed” is grammatically correct.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Relative pronouns / objective case",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: British Council LearnEnglish — Relative Pronouns.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "British Council LearnEnglish — Relative Pronouns",
+      "sourceURL": "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/relative-pronouns",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9180,
+      "cat": "English",
+      "topic": "Confusable words / imminent and eminent",
+      "q": "Choose the correct word: “The weather office warned that a severe storm was ______.”",
+      "o": [
+        "eminent",
+        "imminent",
+        "immanent",
+        "eminently"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Imminent means about to happen or likely to occur very soon. Eminent means distinguished or famous, while immanent has a different philosophical meaning. An approaching storm is imminent.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Confusable words / imminent and eminent",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Cambridge Dictionary — English Usage.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — English Usage",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/imminent",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9181,
+      "cat": "English",
+      "topic": "Confusable words / elicit and illicit",
+      "q": "Choose the correct word: “The investigator used follow-up questions to ______ further details from the witness.”",
+      "o": [
+        "illicit",
+        "elicit",
+        "elided",
+        "elusive"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Elicit is a verb meaning to draw out or obtain information, a response or a reaction. Illicit is an adjective meaning illegal or not permitted. Follow-up questions are intended to elicit details.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Confusable words / elicit and illicit",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Cambridge Dictionary — English Usage.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — English Usage",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/elicit",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9182,
+      "cat": "English",
+      "topic": "Confusable words / stationary and stationery",
+      "q": "Choose the correct word: “The inspection vehicle remained ______ while the documents were checked.”",
+      "o": [
+        "stationery",
+        "stationary",
+        "stationed",
+        "stationing"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Stationary means not moving. Stationery refers to writing materials such as paper, envelopes and pens. Since the sentence describes a vehicle that did not move, stationary is correct.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Confusable words / stationary and stationery",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Cambridge Dictionary — English Usage.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — English Usage",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/stationary",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9183,
+      "cat": "English",
+      "topic": "Confusable words / principal and principle",
+      "q": "Choose the correct word: “The ______ reason for returning the file was the missing signature.”",
+      "o": [
+        "principle",
+        "principal",
+        "principally",
+        "principality"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Principal can function as an adjective meaning main or most important. Principle is a noun meaning a rule, standard or fundamental belief. The sentence needs the adjective “principal reason”.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Confusable words / principal and principle",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Cambridge Dictionary — English Usage.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — English Usage",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/principal",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9184,
+      "cat": "Meghalaya GK",
+      "topic": "Traditional institutions / Dorbar Shnong",
+      "q": "Under the Khasi Hills Autonomous District Council’s Administration of Elaka (Amendment) Act 2023, what is a Dorbar Shnong?",
+      "o": [
+        "A traditional village institution composed of adult inhabitants",
+        "A court consisting only of district judges",
+        "A State Cabinet committee",
+        "A village-level school management board"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The KHADC Act defines a Dorbar Shnong as a traditional institution of a village or shnong, composed of adult inhabitants according to customary practices. It is convened as required and presided over by the Rangbah Shnong or recognised village headman.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Traditional institutions / Dorbar Shnong",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: KHADC — Administration of Elaka (Amendment) Act 2023.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "KHADC — Administration of Elaka (Amendment) Act 2023",
+      "sourceURL": "https://www.khadc.nic.in/acts_rules_regulations_bills/Acts_Rules_arranged/Administration_of%20Elaka_Amendment_Act%202023.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9185,
+      "cat": "Meghalaya GK",
+      "topic": "Physical geography / river island formation",
+      "q": "Which two channels are formed when the Kynshi River bifurcates to create Nongkhnum River Island?",
+      "o": [
+        "Umngi and Kynshi",
+        "Phanliang and Namliang",
+        "Simsang and Ganol",
+        "Umiam and Umngot"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Meghalaya Tourism explains that Nongkhnum River Island is formed where the Kynshi splits into the Phanliang and Namliang rivers. The bifurcation encloses the island in West Khasi Hills.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Physical geography / river island formation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Meghalaya Tourism — Nongkhnum River Island.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Tourism — Nongkhnum River Island",
+      "sourceURL": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/nongkhnum-river-island/",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9186,
+      "cat": "Meghalaya GK",
+      "topic": "Geological landmarks / Kyllang Rock",
+      "q": "How does Meghalaya Tourism describe Kyllang Rock in the Khasi Hills?",
+      "o": [
+        "A limestone cave system",
+        "A river island",
+        "A natural monolith shaped like a giant grey dome",
+        "A volcanic crater lake"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Kyllang Rock is described by Meghalaya Tourism as an impressive natural monolith, a giant grey dome rising from pine forests in the Khasi Hills. It is a geological landform, not a cave or lake.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Geological landmarks / Kyllang Rock",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Meghalaya Tourism — Kyllang Rock.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Tourism — Kyllang Rock",
+      "sourceURL": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/kyllang-rock/",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9187,
+      "cat": "Meghalaya GK",
+      "topic": "Caves and limestone geology / Siju",
+      "q": "Siju Cave in South Garo Hills is primarily known as which type of cave?",
+      "o": [
+        "Sandstone cave",
+        "Limestone cave",
+        "Lava tube",
+        "Glacial cave"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Meghalaya Tourism identifies Siju as a limestone cave, also known as Dobakkol or the Bat Cave. Its stalactites, stalagmites and underground passages are characteristic limestone cave features.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Caves and limestone geology / Siju",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Meghalaya Tourism — Siju Cave.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Tourism — Siju Cave",
+      "sourceURL": "https://www.meghalayatourism.in/explore/destinations/by-interest/cave-exploration/siju-cave/",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9188,
+      "cat": "Polity",
+      "topic": "State executive / Article 165",
+      "q": "Under Article 165 of the Constitution, who appoints the Advocate-General for a State?",
+      "o": [
+        "The President",
+        "The Governor",
+        "The Chief Minister",
+        "The Chief Justice of the High Court"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 165 provides that the Governor of each State appoints a person qualified to be appointed as a High Court judge to be Advocate-General for the State. The Advocate-General holds office during the pleasure of the Governor.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "State executive / Article 165",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Government of India, Legislative Department — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Government of India, Legislative Department — Constitution of India",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9189,
+      "cat": "Polity",
+      "topic": "State legislature / Article 169",
+      "q": "After a State Legislative Assembly passes the special resolution required by Article 169, which body may create or abolish that State’s Legislative Council by law?",
+      "o": [
+        "The Governor alone",
+        "The State Cabinet",
+        "Parliament",
+        "The Election Commission of India"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Article 169 empowers Parliament to provide by law for the creation or abolition of a State Legislative Council, but only after the State Assembly passes the prescribed special-majority resolution. The resolution itself does not create or abolish the Council.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "State legislature / Article 169",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Government of India, Legislative Department — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Government of India, Legislative Department — Constitution of India",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9190,
+      "cat": "Polity",
+      "topic": "State budget / Article 202",
+      "q": "Article 202 of the Constitution requires the State Government to lay before the Legislature an annual statement of what?",
+      "o": [
+        "Only the State’s tax receipts",
+        "Estimated receipts and expenditure of the State for a financial year",
+        "Only capital expenditure on public works",
+        "The audited accounts of the previous five years"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 202 calls this statement the Annual Financial Statement. It sets out the estimated receipts and expenditure of the State for each financial year and forms the constitutional basis of the State Budget.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "State budget / Article 202",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Government of India, Legislative Department — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Government of India, Legislative Department — Constitution of India",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9191,
+      "cat": "Polity",
+      "topic": "Demands for grants / Article 203",
+      "q": "Under Article 203, a demand for a grant in a State Legislative Assembly cannot be made except on whose recommendation?",
+      "o": [
+        "The Speaker",
+        "The Governor",
+        "The Chief Justice of the High Court",
+        "The State Finance Commission"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 203(3) provides that no demand for a grant shall be made except on the recommendation of the Governor. The Legislative Assembly then votes on the demands, subject to the constitutional rules.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Demands for grants / Article 203",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Government of India, Legislative Department — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Government of India, Legislative Department — Constitution of India",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9192,
+      "cat": "Polity",
+      "topic": "Judicial independence / Article 211",
+      "q": "Which subject is expressly protected from discussion in a State Legislature by Article 211?",
+      "o": [
+        "The annual State Budget",
+        "The conduct of a Supreme Court or High Court judge in discharge of judicial duties",
+        "A report of the State Public Service Commission",
+        "A motion of no confidence in the Council of Ministers"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 211 bars discussion in a State Legislature with respect to the conduct of a Judge of the Supreme Court or a High Court in the discharge of duties. It protects judicial independence from legislative debate on individual judicial conduct.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Judicial independence / Article 211",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Government of India, Legislative Department — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Government of India, Legislative Department — Constitution of India",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9193,
+      "cat": "Polity",
+      "topic": "Chief Minister / Article 167",
+      "q": "Which of the following is a constitutional duty of a Chief Minister under Article 167?",
+      "o": [
+        "To appoint High Court judges",
+        "To communicate decisions of the Council of Ministers to the Governor and furnish information when required",
+        "To certify every Money Bill",
+        "To audit the accounts of the State Government"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 167 requires the Chief Minister to communicate to the Governor the decisions of the Council of Ministers relating to administration and legislative proposals, furnish information requested by the Governor, and submit specified matters for Council consideration.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Chief Minister / Article 167",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Government of India, Legislative Department — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Government of India, Legislative Department — Constitution of India",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9194,
+      "cat": "History",
+      "topic": "Mauryan sources / Megasthenes",
+      "q": "Which Greek envoy is traditionally associated with the work Indica, an account of India during the Mauryan period?",
+      "o": [
+        "Fa-Hien",
+        "Megasthenes",
+        "Xuanzang",
+        "Al-Biruni"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Megasthenes served as an envoy of Seleucus I to the court of Chandragupta Maurya. His work Indica is an important literary source for reconstructing aspects of Mauryan society and administration, although it survives mainly through later quotations.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Mauryan sources / Megasthenes",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT History Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT History Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9195,
+      "cat": "History",
+      "topic": "Gupta inscriptions / Harisena",
+      "q": "Who composed the Allahabad Pillar inscription (Prayaga Prashasti) praising Samudragupta?",
+      "o": [
+        "Banabhatta",
+        "Harisena",
+        "Kalidasa",
+        "Vishakhadatta"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Prayaga Prashasti on the Allahabad Pillar was composed by Harisena, a court poet and official of Samudragupta. The inscription records the ruler’s achievements and is a major source for Gupta political history.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Gupta inscriptions / Harisena",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT History Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT History Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9196,
+      "cat": "History",
+      "topic": "Medieval sources / Kitab-ul-Hind",
+      "q": "The book Kitab-ul-Hind, which discusses Indian society, religion and knowledge, was written by whom?",
+      "o": [
+        "Ibn Battuta",
+        "Amir Khusrau",
+        "Al-Biruni",
+        "Abul Fazl"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Al-Biruni, the Central Asian scholar, wrote Kitab-ul-Hind after studying Indian texts and traditions. His work is valued for its analytical descriptions of Indian learning, customs and religious ideas.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Medieval sources / Kitab-ul-Hind",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT History Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT History Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9197,
+      "cat": "History",
+      "topic": "Delhi Sultanate / Iqta system",
+      "q": "In the Delhi Sultanate, what did an iqta primarily represent?",
+      "o": [
+        "A hereditary private ownership grant of all land",
+        "An assignment of revenue from a territory to an official in return for service",
+        "A tax-free religious endowment only",
+        "A village elected by peasants"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "An iqta was principally a revenue assignment given to an officer or military commander. It did not ordinarily make the holder the private owner of the land; the holder collected assigned revenue under the Sultanate’s administrative system.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Delhi Sultanate / Iqta system",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT History Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT History Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9198,
+      "cat": "History",
+      "topic": "Mughal administration / Mansabdari",
+      "q": "In the Mughal mansabdari system, what did the rank zat indicate?",
+      "o": [
+        "The number of horses maintained",
+        "The personal rank and status of the mansabdar",
+        "The land revenue of a province",
+        "The number of villages under direct ownership"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Zat indicated the mansabdar’s personal rank and position in the imperial hierarchy. Sawar related to the cavalry obligation or number of horsemen to be maintained. The two figures served different administrative purposes.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Mughal administration / Mansabdari",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT History Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT History Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9199,
+      "cat": "History",
+      "topic": "Khasi resistance / U Tirot Singh",
+      "q": "Which Khasi leader is associated with Hima Khatsaw Phra and the resistance against British expansion in the early nineteenth century?",
+      "o": [
+        "U Kiang Nangbah",
+        "U Tirot Singh",
+        "Pa Togan Nengminza Sangma",
+        "U Soso Tham"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Meghalaya Tourism identifies Hima Khatsaw Phra as the ancestral home of U Tirot Singh, who led a rebellion against British forces. His resistance began in 1829 and remains an important part of Khasi history.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Khasi resistance / U Tirot Singh",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Meghalaya Tourism — Hima Khatsaw Phra.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Tourism — Hima Khatsaw Phra",
+      "sourceURL": "https://www.meghalayatourism.in/explore/destinations/by-region/khasi-hills/hima-khatsaw-phra/",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9200,
+      "cat": "History",
+      "topic": "National movement / Poona Pact 1932",
+      "q": "What was the central electoral arrangement agreed under the Poona Pact of 1932 for the Depressed Classes?",
+      "o": [
+        "Separate electorates without reserved seats",
+        "Reserved seats within joint electorates",
+        "Universal adult franchise immediately",
+        "Nomination of all representatives by the Governor-General"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Poona Pact replaced the separate-electorate arrangement proposed for the Depressed Classes with reserved seats in joint electorates. It was concluded between B. R. Ambedkar and representatives of the caste-Hindu leadership in September 1932.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "National movement / Poona Pact 1932",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT History Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT History Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9201,
+      "cat": "Geography",
+      "topic": "Fluvial landforms / oxbow lakes",
+      "q": "An oxbow lake is most commonly formed when which river feature is cut off from the main channel?",
+      "o": [
+        "A waterfall plunge pool",
+        "A meander loop",
+        "A delta distributary",
+        "A V-shaped valley"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A river meander may become increasingly curved until the river cuts through the narrow neck during high flow. Deposition seals the old loop from the main channel, leaving an oxbow lake.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Fluvial landforms / oxbow lakes",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Geography Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Geography Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9202,
+      "cat": "Geography",
+      "topic": "Drainage patterns / radial",
+      "q": "A radial drainage pattern is most likely to develop where streams flow outward from which type of landform?",
+      "o": [
+        "A central dome or volcanic cone",
+        "A uniformly sloping coastal plain",
+        "A long parallel mountain ridge",
+        "A flat basin with no central highland"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "In a radial pattern, streams diverge outward from a central elevated feature such as a dome, volcanic cone or isolated hill. The direction of flow radiates away from the high point.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Drainage patterns / radial",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Geography Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Geography Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9203,
+      "cat": "Geography",
+      "topic": "Drainage patterns / dendritic",
+      "q": "A dendritic drainage pattern generally develops where the underlying rock has which characteristic?",
+      "o": [
+        "Strongly alternating bands of hard and soft rock",
+        "Relatively uniform resistance with little structural control",
+        "A series of parallel folds",
+        "A circular basin surrounded by hills"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Dendritic drainage resembles the branching pattern of a tree. It commonly develops on relatively uniform rock or unconstrained terrain where streams are not strongly guided by joints, faults or alternating resistant strata.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Drainage patterns / dendritic",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Geography Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Geography Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9204,
+      "cat": "Geography",
+      "topic": "Tropical cyclones / Coriolis force",
+      "q": "Why do tropical cyclones rarely originate very close to the Equator?",
+      "o": [
+        "Sea surface temperatures are always too low",
+        "The Coriolis force is too weak to provide sufficient initial rotation",
+        "Air pressure is always higher than elsewhere",
+        "There is no moisture in equatorial air"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Coriolis force is zero at the Equator and increases with latitude. A tropical cyclone needs sufficient initial rotation to organise its circulation, so it rarely forms within a few degrees of the Equator.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Tropical cyclones / Coriolis force",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Geography Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Geography Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9205,
+      "cat": "Geography",
+      "topic": "Ocean tides / spring tides",
+      "q": "Spring tides occur when the Sun, Earth and Moon are approximately aligned at which lunar phases?",
+      "o": [
+        "First and third quarter",
+        "New moon and full moon",
+        "Only at perigee",
+        "Only at apogee"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "At new moon and full moon, the gravitational effects of the Sun and Moon act along nearly the same line. Their combined effect produces a larger tidal range, called a spring tide.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Ocean tides / spring tides",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Geography Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Geography Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9206,
+      "cat": "Geography",
+      "topic": "Ocean salinity / evaporation and precipitation",
+      "q": "Why are surface waters in many subtropical ocean belts relatively saline?",
+      "o": [
+        "Rainfall greatly exceeds evaporation",
+        "Evaporation commonly exceeds precipitation and freshwater input is limited",
+        "Large rivers discharge freshwater continuously",
+        "Sea ice melts throughout the year"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "In many subtropical high-pressure belts, dry descending air suppresses rainfall while evaporation remains substantial. With limited freshwater input, surface salinity tends to be relatively high.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Ocean salinity / evaporation and precipitation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Geography Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Geography Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9207,
+      "cat": "Economy",
+      "topic": "National income / net domestic product",
+      "q": "How is Net Domestic Product (NDP) calculated from Gross Domestic Product (GDP)?",
+      "o": [
+        "GDP plus depreciation",
+        "GDP minus depreciation",
+        "GDP plus net exports",
+        "GDP minus indirect taxes only"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Depreciation, also called consumption of fixed capital, measures the loss in value of fixed assets through use and obsolescence. Subtracting it from GDP gives NDP: NDP = GDP − depreciation.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "National income / net domestic product",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Economics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Economics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9208,
+      "cat": "Economy",
+      "topic": "International trade / terms of trade",
+      "q": "The net barter terms of trade are commonly measured as which ratio multiplied by 100?",
+      "o": [
+        "Import price index divided by export price index",
+        "Export price index divided by import price index",
+        "Export volume divided by import volume",
+        "Foreign exchange reserves divided by imports"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Net barter terms of trade compare export prices with import prices: (Export Price Index ÷ Import Price Index) × 100. An improvement means a given quantity of exports can purchase relatively more imports.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "International trade / terms of trade",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Economics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Economics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9209,
+      "cat": "Economy",
+      "topic": "Public finance / public goods",
+      "q": "Which pair of characteristics defines a pure public good?",
+      "o": [
+        "Rivalry and excludability",
+        "Non-rivalry and non-excludability",
+        "Rivalry and non-excludability",
+        "Non-rivalry and excludability"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A pure public good is non-rival, so one person’s use does not reduce the amount available to others, and non-excludable, so people cannot readily be prevented from benefiting. National defence is a standard example.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Public finance / public goods",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Economics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Economics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9210,
+      "cat": "Economy",
+      "topic": "Price controls / price ceiling",
+      "q": "If the Government fixes a binding price ceiling below the market equilibrium price, what is the likely immediate market result, other things being equal?",
+      "o": [
+        "A surplus because supply exceeds demand",
+        "A shortage because demand exceeds supply",
+        "No change in quantity demanded",
+        "An automatic increase in equilibrium price"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A binding ceiling prevents the price from rising to equilibrium. At the lower controlled price, consumers want to buy more while producers are willing to supply less, creating excess demand or a shortage.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Price controls / price ceiling",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Economics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Economics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9211,
+      "cat": "Economy",
+      "topic": "Income distribution / Gini coefficient",
+      "q": "On the conventional 0-to-1 scale, what does a Gini coefficient of 0 represent?",
+      "o": [
+        "Maximum income inequality",
+        "Perfect income equality",
+        "A negative national income",
+        "Equal government expenditure in every district"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A Gini coefficient of 0 represents perfect equality, while a value of 1 represents maximal inequality on the conventional scale. Some publications multiply the coefficient by 100, but the interpretation remains the same.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Income distribution / Gini coefficient",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Economics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Economics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9212,
+      "cat": "Economy",
+      "topic": "Exchange rates / currency depreciation",
+      "q": "If the Indian rupee depreciates against the US dollar, what is the usual direct effect on the rupee cost of an unchanged dollar-priced import?",
+      "o": [
+        "It falls",
+        "It rises",
+        "It becomes zero",
+        "It is unaffected by the exchange rate"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Depreciation means more rupees are required to buy one US dollar. Therefore, an import priced in dollars costs more in rupees, assuming the foreign-currency price and other costs remain unchanged.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Exchange rates / currency depreciation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Economics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Economics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9213,
+      "cat": "Science",
+      "topic": "Human physiology / nephron filtration",
+      "q": "In a human nephron, where does blood filtration first produce the filtrate that enters Bowman’s capsule?",
+      "o": [
+        "Loop of Henle",
+        "Glomerulus",
+        "Collecting duct",
+        "Distal convoluted tubule"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The glomerulus is a tuft of capillaries enclosed by Bowman’s capsule. Blood pressure drives water and small dissolved substances through the filtration barrier into the capsular space, while blood cells and most large proteins remain in the blood.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Human physiology / nephron filtration",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Science and Biology Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Science and Biology Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9214,
+      "cat": "Science",
+      "topic": "Human physiology / alveoli",
+      "q": "Which structural feature makes the alveoli of human lungs efficient sites for gas exchange?",
+      "o": [
+        "Thick dry walls with little blood supply",
+        "Very thin moist walls and a dense capillary network",
+        "A rigid cartilage lining",
+        "A large muscular layer that pumps oxygen"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Alveoli provide a large surface area. Their thin, moist walls and close contact with capillaries create a short diffusion distance, allowing oxygen to enter blood and carbon dioxide to leave it efficiently.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Human physiology / alveoli",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Science and Biology Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Science and Biology Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9215,
+      "cat": "Science",
+      "topic": "Atomic structure / isotopes",
+      "q": "Atoms of the same element are called isotopes when they have the same number of ______ but different numbers of ______.",
+      "o": [
+        "Neutrons; protons",
+        "Protons; neutrons",
+        "Electrons; protons",
+        "Nucleons; electrons"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "An element is defined by its proton number (atomic number). Isotopes share that number but have different neutron counts, so their mass numbers differ. Their chemical behaviour is broadly similar because their electronic structure is similar.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Atomic structure / isotopes",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Science and Biology Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Science and Biology Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9216,
+      "cat": "Science",
+      "topic": "Chemical kinetics / catalysts",
+      "q": "What is the main way a catalyst increases the rate of a chemical reaction?",
+      "o": [
+        "It permanently increases the amount of reactants",
+        "It provides an alternative pathway with lower activation energy",
+        "It changes the equilibrium constant in every reaction",
+        "It is consumed completely as a reactant"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A catalyst provides an alternative reaction pathway with lower activation energy. It increases the rate at which equilibrium is reached but is not consumed overall and does not change the equilibrium constant at a fixed temperature.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Chemical kinetics / catalysts",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Science and Biology Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Science and Biology Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9217,
+      "cat": "Science",
+      "topic": "Thermal physics / specific heat capacity",
+      "q": "Specific heat capacity is the heat energy required to raise the temperature of what amount of a substance by one kelvin?",
+      "o": [
+        "One mole by one kelvin",
+        "One kilogram by one kelvin",
+        "One gram by ten kelvin",
+        "One cubic metre by one degree Celsius"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Specific heat capacity is energy required to raise the temperature of unit mass by one kelvin. In SI units it is expressed in joules per kilogram per kelvin (J kg⁻¹ K⁻¹).",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Thermal physics / specific heat capacity",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Science and Biology Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Science and Biology Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9218,
+      "cat": "Environment",
+      "topic": "Ecotoxicology / biomagnification",
+      "q": "A persistent pollutant is found at a higher concentration in the tissues of top predators than in organisms lower in the food chain. What is this process called?",
+      "o": [
+        "Eutrophication",
+        "Biomagnification",
+        "Nitrogen fixation",
+        "Primary succession"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Biomagnification is the increase in concentration of a persistent substance at successive trophic levels. Organisms at higher levels consume many contaminated organisms and may accumulate greater concentrations of substances such as DDT or methylmercury.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Ecotoxicology / biomagnification",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Science and Biology Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Science and Biology Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9219,
+      "cat": "Environment",
+      "topic": "Climate mitigation / blue carbon",
+      "q": "Which group of ecosystems is most directly associated with coastal blue carbon storage?",
+      "o": [
+        "Alpine meadows, deserts and tundra",
+        "Mangroves, salt marshes and seagrass beds",
+        "Coral reefs, glaciers and conifer forests",
+        "Open-ocean plankton only"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "NOAA describes coastal blue carbon as carbon captured and stored by coastal ecosystems, especially mangroves, salt marshes and seagrass beds. Much of this carbon is stored for long periods in waterlogged coastal soils and sediments.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Climate mitigation / blue carbon",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NOAA National Ocean Service — Blue Carbon.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NOAA National Ocean Service — Blue Carbon",
+      "sourceURL": "https://oceanservice.noaa.gov/facts/bluecarbon.html",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9220,
+      "cat": "Environment",
+      "topic": "Conservation / biosphere reserve zones",
+      "q": "In UNESCO’s biosphere-reserve zonation, which zone is intended for strict long-term protection of ecosystems and biodiversity?",
+      "o": [
+        "Transition area",
+        "Buffer zone",
+        "Core area",
+        "Settlement zone"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The core area is the legally protected zone devoted to long-term conservation of biodiversity. The buffer zone allows compatible activities around or next to it, while the transition area supports sustainable human and economic activity with local communities.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Conservation / biosphere reserve zones",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: UNESCO Man and the Biosphere Programme — Biosphere Reserve Zonation.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "UNESCO Man and the Biosphere Programme — Biosphere Reserve Zonation",
+      "sourceURL": "https://www.unesco.org/en/mab/wnbr/about?hub=405",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9221,
+      "cat": "Environment",
+      "topic": "Pollution control / bioremediation",
+      "q": "Which approach best describes bioremediation of contaminated soil or groundwater?",
+      "o": [
+        "Using microorganisms to degrade or detoxify contaminants",
+        "Covering the site with concrete without treatment",
+        "Increasing the concentration of pollutants to precipitate them",
+        "Using only mechanical filtration to remove all soil"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Bioremediation uses microorganisms, commonly bacteria and sometimes fungi or other microbes, to degrade or detoxify contaminants. EPA guidance explains that conditions may be managed to encourage microbial activity in soil or groundwater.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Pollution control / bioremediation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: US EPA — Introduction to In Situ Bioremediation of Groundwater.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "US EPA — Introduction to In Situ Bioremediation of Groundwater",
+      "sourceURL": "https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P100K804.TXT",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9222,
+      "cat": "Environment",
+      "topic": "Environmental impact assessment / public consultation",
+      "q": "Under the EIA public-consultation framework, which two components are generally recognised?",
+      "o": [
+        "A public hearing and written responses from other concerned persons",
+        "A court trial and a parliamentary vote",
+        "A wildlife census and a forest settlement report",
+        "A social-media poll and a referendum"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The EIA public-consultation process includes a public hearing at or near the project site to ascertain local concerns and written responses from other concerned persons with a plausible stake. It is a consultation mechanism, not a court trial or referendum.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Environmental impact assessment / public consultation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: MoEFCC — EIA Notification 2006 and Public Consultation guidance.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "MoEFCC — EIA Notification 2006 and Public Consultation guidance",
+      "sourceURL": "https://environmentclearance.nic.in/writereaddata/OMs-2004-2021/54_OM_19_04_2010.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9223,
+      "cat": "Reasoning",
+      "topic": "Spatial reasoning / counting rectangles",
+      "q": "A rectangular grid has 3 rows and 2 columns of equal small rectangles. How many rectangles of all sizes can be formed using the grid lines?",
+      "o": [
+        "12",
+        "15",
+        "18",
+        "24"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Choose any two of the four horizontal grid lines and any two of the three vertical grid lines. That gives C(4,2)×C(3,2) = 6×3 = 18 possible rectangles, including the six smallest cells.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Spatial reasoning / counting rectangles",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Mathematics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9224,
+      "cat": "Reasoning",
+      "topic": "Propositional logic / conditional statements",
+      "q": "In classical propositional logic, what is the truth value of the implication P → Q when P is false and Q is true?",
+      "o": [
+        "False",
+        "True",
+        "Both true and false",
+        "Undefined"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A material implication P → Q is false only when P is true and Q is false. If the antecedent P is false, the implication is true regardless of Q; therefore it is true in the stated case.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Propositional logic / conditional statements",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: OpenStax — Contemporary Mathematics: Conditional Statements.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "OpenStax — Contemporary Mathematics: Conditional Statements",
+      "sourceURL": "https://openstax.org/books/contemporary-mathematics/pages/2-3-conditional-statements",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9225,
+      "cat": "Reasoning",
+      "topic": "Linear seating / ordering constraints",
+      "q": "Five clerks A, B, C, D and E sit in a row facing north. C is immediately to the right of A, E is at the far right, B is immediately to the left of E, and D sits to the left of A. Who occupies the middle seat?",
+      "o": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "E must be fifth and B fourth. Since C is immediately right of A and D is to the left of A, the remaining positions force D–A–C–B–E. The middle, third seat is occupied by C.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Linear seating / ordering constraints",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Mathematics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9226,
+      "cat": "Reasoning",
+      "topic": "Inequalities / transitive relation",
+      "q": "If M > N, N > P and P > Q, which statement must be true?",
+      "o": [
+        "Q > M",
+        "N < Q",
+        "M > Q",
+        "P > M"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The inequalities form a descending chain M > N > P > Q. By transitivity, M is greater than Q. The other statements reverse or contradict the given order.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Inequalities / transitive relation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Mathematics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9227,
+      "cat": "Reasoning",
+      "topic": "Input-output / alphabetical arrangement",
+      "q": "A machine moves the alphabetically earliest remaining word to the leftmost unfilled position at each step. If the input is “mango, apple, guava, banana”, what is the arrangement after the second step?",
+      "o": [
+        "apple, banana, mango, guava",
+        "banana, apple, guava, mango",
+        "apple, mango, banana, guava",
+        "guava, apple, banana, mango"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Step 1 moves apple to the first position. Among the remaining words, banana is alphabetically earliest, so step 2 places it second. The unfilled positions retain mango and guava in their original relative order.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Input-output / alphabetical arrangement",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Mathematics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9228,
+      "cat": "Reasoning",
+      "topic": "Statement and course of action",
+      "q": "Statement: Several streetlights in a town have remained unlit for weeks despite complaints. Actions: I. Inspect the reported locations and repair defective lights. II. Switch off all streetlights in the town to reduce electricity use. Which action logically follows?",
+      "o": [
+        "Only I",
+        "Only II",
+        "Both I and II",
+        "Neither I nor II"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The problem is failure of specific streetlights. Inspecting and repairing the affected units directly addresses the stated problem. Shutting down all streetlights would worsen public safety and is not a reasonable response to the complaints.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Statement and course of action",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Mathematics Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Mathematics Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9229,
+      "cat": "Computer",
+      "topic": "Networking / DHCP",
+      "q": "What is the primary role of a DHCP server on an IP network?",
+      "o": [
+        "To encrypt every file stored on a computer",
+        "To automatically provide network configuration such as an IP address to a client",
+        "To convert domain names into IP addresses",
+        "To filter spam messages from email accounts"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "DHCP follows a client-server model and provides host configuration parameters, including dynamically allocated network addresses. It reduces manual configuration and can reuse addresses when a client no longer needs them.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Networking / DHCP",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: IETF RFC 2131 — Dynamic Host Configuration Protocol.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "IETF RFC 2131 — Dynamic Host Configuration Protocol",
+      "sourceURL": "https://www.rfc-editor.org/rfc/rfc2131",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9230,
+      "cat": "Computer",
+      "topic": "Networking / IPv6 addressing",
+      "q": "How many bits are used in an IPv6 address?",
+      "o": [
+        "32 bits",
+        "64 bits",
+        "96 bits",
+        "128 bits"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "RFC 8200 specifies that IPv6 expands the IP address size from IPv4’s 32 bits to 128 bits. The larger address space supports far more addressable nodes and more flexible addressing hierarchy.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Networking / IPv6 addressing",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: IETF RFC 8200 — Internet Protocol Version 6.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "IETF RFC 8200 — Internet Protocol Version 6",
+      "sourceURL": "https://www.rfc-editor.org/rfc/rfc8200",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9231,
+      "cat": "Computer",
+      "topic": "OSI model / network layer",
+      "q": "In the OSI reference model, which layer is principally associated with logical addressing and routing packets between networks?",
+      "o": [
+        "Physical layer",
+        "Data Link layer",
+        "Network layer",
+        "Presentation layer"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The Network layer is responsible for logical addressing and routing packets across interconnected networks. The Data Link layer handles local frame delivery on a link, while the Physical layer transmits raw bits.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "OSI model / network layer",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: ITU-T Recommendation X.200 — OSI Basic Reference Model.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "ITU-T Recommendation X.200 — OSI Basic Reference Model",
+      "sourceURL": "https://www.itu.int/rec/T-REC-X.200/en",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9232,
+      "cat": "Computer",
+      "topic": "Cybersecurity / digital signatures",
+      "q": "Which security property is directly supported by a valid digital signature?",
+      "o": [
+        "Confidentiality of the entire message by itself",
+        "Authenticity of the signer and detection of unauthorised data changes",
+        "Automatic recovery of deleted files",
+        "Guaranteed anonymity of the signer"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A digital signature can authenticate the signatory and help detect unauthorised modification of signed data; it can also support non-repudiation. It does not, by itself, encrypt the message or guarantee confidentiality.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Cybersecurity / digital signatures",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NIST FIPS 186-5 — Digital Signature Standard.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIST FIPS 186-5 — Digital Signature Standard",
+      "sourceURL": "https://csrc.nist.gov/pubs/fips/186-5/final",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9233,
+      "cat": "Computer",
+      "topic": "Spreadsheet / absolute cell reference",
+      "q": "In a spreadsheet formula, what does the reference $B$4 indicate?",
+      "o": [
+        "Both the column and row are fixed when the formula is copied",
+        "Only the row changes when copied",
+        "Only the column changes when copied",
+        "Both the row and column change automatically"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The dollar signs make both the column B and row 4 absolute. When a formula containing $B$4 is copied to another cell, that reference remains $B$4 instead of shifting relative to the new location.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Spreadsheet / absolute cell reference",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Microsoft Support — Absolute and Relative Excel References.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Microsoft Support — Absolute and Relative Excel References",
+      "sourceURL": "https://support.microsoft.com/en-us/office/switch-between-relative-absolute-and-mixed-references-7f8e6c2c-1f7f-4c5e-9b2d-0c0b2a5f4e2b",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9234,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 18 / credit in special circumstances",
+      "q": "A person becomes liable for GST registration and applies within the statutory 30-day period. Under Section 18(1)(a) of the CGST Act, which stock-related credit may be available once registration is granted?",
+      "o": [
+        "Only credit on capital goods purchased after registration",
+        "Credit on eligible inputs in stock and inputs contained in semi-finished or finished goods held immediately before the liability date",
+        "Credit on all personal purchases made during the previous year",
+        "Credit on every exempt supply made before registration"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 18(1)(a) allows eligible input tax credit on inputs in stock and inputs contained in semi-finished or finished goods held on the day immediately preceding the date the person becomes liable to pay tax, provided the statutory registration conditions and time limit are met.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 18 / credit in special circumstances",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: India Code — CGST Act 2017 consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act 2017 consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9235,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 70 / power to summon",
+      "q": "During an inquiry under Section 70 of the CGST Act, what may the proper officer require a person to do?",
+      "o": [
+        "Attend to give evidence or produce a document or other thing",
+        "Pay the tax demanded before receiving a summons",
+        "Transfer ownership of the business to the Government",
+        "Obtain approval from the GST Council for each document"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 70 empowers the proper officer to summon any person whose attendance is considered necessary to give evidence or produce a document or other thing in an inquiry. The power is exercised in the manner provided for civil-court summons under the Code of Civil Procedure.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 70 / power to summon",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: India Code — CGST Act 2017 consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act 2017 consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9236,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 62 / non-filer assessment",
+      "q": "Under the amended Section 62(2) of the CGST Act, within what period may a registered person furnish a valid return after service of a best-judgment assessment order to have that assessment deemed withdrawn?",
+      "o": [
+        "15 days",
+        "30 days",
+        "60 days",
+        "120 days"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The consolidated CGST Act as on 11 June 2026 provides 60 days from service of the assessment order for furnishing a valid return under Section 62(2). The person remains liable for applicable interest and late fee; the older 30-day wording is outdated.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 62 / non-filer assessment",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: India Code — CGST Act 2017 consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act 2017 consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9237,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 63 / unregistered-person assessment",
+      "q": "Before making a best-judgment assessment under Section 63 of the CGST Act against a person liable to registration but not registered, what procedural safeguard must the proper officer provide?",
+      "o": [
+        "A prior vote of the GST Council",
+        "An opportunity of being heard",
+        "Approval from the High Court",
+        "A compulsory audit by the Comptroller and Auditor General"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 63 authorises best-judgment assessment of a person liable to register but not registered. The person must be given an opportunity of being heard before the assessment is made, preserving procedural fairness.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 63 / unregistered-person assessment",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: India Code — CGST Act 2017 consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act 2017 consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9238,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 64 / summary assessment",
+      "q": "A proper officer has evidence of a tax liability and believes that delay in assessment may adversely affect revenue. Whose prior permission is required before a summary assessment under Section 64?",
+      "o": [
+        "An Additional Commissioner or Joint Commissioner",
+        "The local police station",
+        "The State Legislative Assembly",
+        "The taxpayer’s auditor"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 64 is an exceptional summary-assessment power. Before exercising it, the proper officer must obtain prior permission from an Additional Commissioner or Joint Commissioner; the provision is not a routine substitute for ordinary assessment.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 64 / summary assessment",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: India Code — CGST Act 2017 consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act 2017 consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9239,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 68 / inspection of goods in movement",
+      "q": "When goods are being transported, Section 68 allows the proper officer to require the person in charge of the conveyance to present which items for verification?",
+      "o": [
+        "Prescribed documents or devices relating to the goods",
+        "The driver’s personal income-tax return",
+        "A bank guarantee in every case",
+        "A court decree for each consignment"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 68 requires the person in charge of a conveyance carrying goods to carry prescribed documents or devices and produce them for verification when required. The goods may also be inspected in the prescribed manner.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 68 / inspection of goods in movement",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: India Code — CGST Act 2017 consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act 2017 consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9240,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 127 / residual penalty procedure",
+      "q": "Where the CGST Act makes a penalty imposable but does not provide a separate procedure for that penalty, what safeguard does Section 127 require before the penalty is imposed?",
+      "o": [
+        "A reasonable opportunity of being heard",
+        "Automatic recovery without notice",
+        "Approval by the GST Council in every individual case",
+        "A criminal conviction in every case"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 127 allows the proper officer to impose a penalty in cases not covered by a separate penalty procedure, but only after giving the person concerned a reasonable opportunity of being heard. The provision is a residual procedural safeguard.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 127 / residual penalty procedure",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: India Code — CGST Act 2017 consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act 2017 consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9241,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 128 / waiver of penalty or late fee",
+      "q": "Under Section 128 of the CGST Act, which authority may waive specified penalties or late fees by notification on the recommendation of the GST Council?",
+      "o": [
+        "The Commissioner acting alone in an individual file",
+        "The Government",
+        "The GST Appellate Tribunal",
+        "The jurisdictional police authority"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 128 empowers the Government, on the recommendation of the GST Council and by notification, to waive specified penalties or late fees for classes of taxpayers subject to conditions and limitations. It is not an individual discretionary waiver by a field officer.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 128 / waiver of penalty or late fee",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: India Code — CGST Act 2017 consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act 2017 consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9242,
+      "cat": "Officer Technical",
+      "topic": "Accounting / accounting equation",
+      "q": "A business has total assets of ₹8,40,000 and total liabilities of ₹3,10,000. Using the accounting equation, what is the owner’s capital?",
+      "o": [
+        "₹3,10,000",
+        "₹5,30,000",
+        "₹8,40,000",
+        "₹11,50,000"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The accounting equation is Assets = Liabilities + Capital. Rearranging gives Capital = Assets − Liabilities = ₹8,40,000 − ₹3,10,000 = ₹5,30,000. The equation must remain balanced after each recorded transaction.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Officer Technical",
+        "Accounting / accounting equation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Accountancy Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Accountancy Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9243,
+      "cat": "Officer Technical",
+      "topic": "Bookkeeping / double-entry journal entry",
+      "q": "A trader receives ₹12,000 from a customer who previously owed that amount. Which journal entry correctly records the receipt?",
+      "o": [
+        "Debit Customer; Credit Cash",
+        "Debit Cash; Credit Customer",
+        "Debit Sales; Credit Cash",
+        "Debit Purchases; Credit Customer"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Cash increases, so the Cash Account is debited. The customer’s outstanding receivable decreases, so the Customer or Debtor Account is credited. The entry is Debit Cash ₹12,000 and Credit Customer ₹12,000.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Officer Technical",
+        "Bookkeeping / double-entry journal entry",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Accountancy Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Accountancy Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9244,
+      "cat": "Officer Technical",
+      "topic": "Accounting controls / trial balance limitations",
+      "q": "A trial balance shows equal debit and credit totals. Which conclusion is justified?",
+      "o": [
+        "The books are guaranteed to be completely error-free",
+        "Some types of error may still exist despite equal totals",
+        "Every transaction has been recorded in the correct account",
+        "No transaction has been omitted"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Agreement of a trial balance is a useful arithmetic check, but it does not detect every error. Complete omission, errors of principle and compensating errors can leave debit and credit totals equal while the accounts remain incorrect.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Officer Technical",
+        "Accounting controls / trial balance limitations",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Accountancy Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Accountancy Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9245,
+      "cat": "Officer Technical",
+      "topic": "Bank reconciliation / cash book control",
+      "q": "What is the main purpose of preparing a Bank Reconciliation Statement?",
+      "o": [
+        "To calculate depreciation on bank equipment",
+        "To explain differences between the bank balance in the cash book and the balance shown by the bank statement",
+        "To determine taxable profit directly",
+        "To replace the cash book with the passbook"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A Bank Reconciliation Statement reconciles the bank-column balance in the cash book with the balance shown by the bank statement or passbook on a particular date. Timing differences and recording errors commonly explain the difference.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Officer Technical",
+        "Bank reconciliation / cash book control",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Accountancy Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Accountancy Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9246,
+      "cat": "Officer Technical",
+      "topic": "Depreciation / straight-line method",
+      "q": "A machine costs ₹1,20,000, has an estimated residual value of ₹20,000 and a useful life of five years. Under the straight-line method, what is the annual depreciation charge?",
+      "o": [
+        "₹10,000",
+        "₹15,000",
+        "₹20,000",
+        "₹24,000"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Straight-line depreciation = (Cost − Residual Value) ÷ Useful Life. Here (₹1,20,000 − ₹20,000) ÷ 5 = ₹1,00,000 ÷ 5 = ₹20,000 per year, assuming no change in estimates.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Officer Technical",
+        "Depreciation / straight-line method",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Accountancy Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Accountancy Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9247,
+      "cat": "Officer Technical",
+      "topic": "Financial accounting / capital and revenue expenditure",
+      "q": "A department purchases a new computer server expected to be used for several years. How should the purchase price normally be classified in the accounts?",
+      "o": [
+        "Revenue expenditure",
+        "Capital expenditure",
+        "A contingent liability",
+        "A personal drawing"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The purchase of a durable asset expected to provide benefits over more than one accounting period is normally capital expenditure. Routine maintenance and small repairs that merely keep an asset operating are generally revenue expenditure.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Officer Technical",
+        "Financial accounting / capital and revenue expenditure",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: NCERT Accountancy Textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT Accountancy Textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_2026-11-21"
+    },
+    {
+      "id": 9248,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya tourism / BBC Travel 2027 list",
+      "q": "According to the Meghalaya Government press release of 19 November 2026, which international travel publication included Meghalaya as India’s sole representative in its “20 Best Places to Travel in 2027” list?",
+      "o": [
+        "Lonely Planet",
+        "BBC Travel",
+        "National Geographic Traveller",
+        "Condé Nast Traveller"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Meghalaya Tourism Department announced on 19 November 2026 that Meghalaya was India’s sole representative on BBC Travel’s “20 Best Places to Travel in 2027” list. The release highlighted community-led tourism and living root bridges.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "Meghalaya tourism / BBC Travel 2027 list",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Meghalaya Government Press Release 19 November 2026 — BBC Travel 20 Best Places 2027.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Press Release 19 November 2026 — BBC Travel 20 Best Places 2027",
+      "sourceURL": "https://meghalaya.gov.in/press/content/52347",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "time_sensitive_verified_2026-11-21_primary_press_release"
+    },
+    {
+      "id": 9249,
+      "cat": "Current Affairs",
+      "topic": "Agriculture Infrastructure Fund / North-East regional conference",
+      "q": "The Meghalaya Government’s 19 November 2026 regional conference on the Agriculture Infrastructure Fund emphasised stronger engagement with which institutions to improve timely credit sanctions?",
+      "o": [
+        "Banks and financial institutions",
+        "Only school management committees",
+        "Municipal transport corporations",
+        "Foreign tourism boards"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The official conference summary says technical sessions focused on strengthening engagement of banks and financial institutions to facilitate timely credit sanctions and improve access to institutional finance for agricultural infrastructure projects.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "Agriculture Infrastructure Fund / North-East regional conference",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: Meghalaya Government Press Release 19 November 2026 — Regional AIF Conference.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Press Release 19 November 2026 — Regional AIF Conference",
+      "sourceURL": "https://meghalaya.gov.in/press/content/52353",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "time_sensitive_verified_2026-11-21_primary_press_release"
+    },
+    {
+      "id": 9250,
+      "cat": "Current Affairs",
+      "topic": "Consumer Price Index / October 2026 inflation",
+      "q": "According to MoSPI’s provisional all-India CPI release for October 2026, what was the combined year-on-year retail inflation rate?",
+      "o": [
+        "4.09%",
+        "5.41%",
+        "6.09%",
+        "8.94%"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "MoSPI’s PIB release posted on 12 November 2026 reports combined all-India CPI inflation of 6.09% year-on-year for October 2026, provisional. The separate combined food inflation rate was 8.94%, so the two figures should not be confused.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "Consumer Price Index / October 2026 inflation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: PIB, MoSPI — CPI October 2026, base 2024=100.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "PIB, MoSPI — CPI October 2026, base 2024=100",
+      "sourceURL": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2335416&lang=1&reg=1",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "time_sensitive_verified_2026-11-21_primary_press_release"
+    },
+    {
+      "id": 9251,
+      "cat": "Current Affairs",
+      "topic": "World Toilet Day 2026 / sanitation theme",
+      "q": "What was the United Nations theme for World Toilet Day 2026, referenced in India’s Swachh Shauchalay – Garimamay Bhavishya campaign?",
+      "o": [
+        "Clean water. Healthy cities.",
+        "Safe toilets. Equal futures.",
+        "Sanitation for all by 2030.",
+        "Water security and climate resilience."
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Ministry of Jal Shakti’s 20 November 2026 PIB release identifies the UN theme as “Safe toilets. Equal futures.” It links sanitation to gender equality and the campaign’s focus on accessible rural community and institutional toilets.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "World Toilet Day 2026 / sanitation theme",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: PIB, Ministry of Jal Shakti — SSGB campaign / World Toilet Day 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "PIB, Ministry of Jal Shakti — SSGB campaign / World Toilet Day 2026",
+      "sourceURL": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2338851&lang=1&reg=3",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "time_sensitive_verified_2026-11-21_primary_press_release"
+    },
+    {
+      "id": 9252,
+      "cat": "Current Affairs",
+      "topic": "Project Cheetah / population update",
+      "q": "After four cubs were born in the wild to the Botswana-born cheetah KOMG 3 on 20 November 2026, what total cheetah population did the PIB report for India?",
+      "o": [
+        "43",
+        "54",
+        "62",
+        "70"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The Ministry of Environment, Forest and Climate Change reported on 20 November 2026 that the four cubs brought India’s cheetah population to 62, including 43 Indian-born individuals. The figures refer to the reported national population at that date.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "Project Cheetah / population update",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Source: PIB, MoEFCC — Project Cheetah population update, 20 November 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "PIB, MoEFCC — Project Cheetah population update, 20 November 2026",
+      "sourceURL": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2338867&lang=1&reg=3",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "time_sensitive_verified_2026-11-21_primary_press_release"
+    }
+  ]
+}
