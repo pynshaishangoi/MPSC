@@ -1281,33 +1281,33 @@
     {
       "id": 9208,
       "cat": "Meghalaya GK",
-      "topic": "Eastern West Khasi Hills — headquarters",
-      "q": "What is the district headquarters of Eastern West Khasi Hills, as listed on the Meghalaya Government's district portal?",
+      "topic": "Rail connectivity — Mendipathar station",
+      "q": "According to the Ministry of Railways' PIB release dated 17 March 2023, which is the only railway station in operation in Meghalaya, serving since 2014?",
       "o": [
-        "Nongstoin",
-        "Mawkyrwat",
-        "Nongpoh",
-        "Mairang"
+        "Mendipathar",
+        "Dudhnoi",
+        "Boko",
+        "Rangapara North"
       ],
-      "a": 3,
-      "answerIndex": 3,
-      "e": "The Meghalaya Government district list identifies Mairang as the headquarters of Eastern West Khasi Hills. Nongstoin is listed for West Khasi Hills, Mawkyrwat for South West Khasi Hills and Nongpoh for Ri-Bhoi.",
-      "difficulty": "Easy",
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Ministry of Railways reported that Mendipathar is the only railway station in operation in Meghalaya and has been operating since 2014. The 2023 release also recorded the commissioning of the Dudhnai–Mendipathar section's electrification.",
+      "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
         "MPSC Inspector of Taxes",
-        "MPSC Secretariat LDA"
+        "DSC East Khasi Hills LDA-cum-Typist"
       ],
       "tags": [
         "Meghalaya GK",
-        "Eastern West Khasi Hills — headquarters",
+        "Rail connectivity — Mendipathar station",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — Districts.",
+      "source": "Original Practice — not an official PYQ. Ministry of Railways, Press Information Bureau, 17 March 2023.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Meghalaya Government Portal — Districts",
-      "sourceURL": "https://www.meghalaya.gov.in/districts",
+      "sourceName": "Ministry of Railways, PIB — Meghalaya gets Electric trains for the first time (17 March 2023)",
+      "sourceURL": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1907978&lang=2&reg=48",
       "sourceVerifiedDate": "2026-11-21",
       "verificationStatus": "verified_primary_source_2026-11-21"
     },
