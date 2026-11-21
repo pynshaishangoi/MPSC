@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-21",
+  "target": 90,
+  "draftedCandidates": 60,
+  "validatedUniqueQuestions": 54,
+  "rejectedCandidates": [
+    {
+      "candidate": 13,
+      "topic": "CGST Act Section 77(2) — wrong IGST classification interest treatment",
+      "reason": "Near-semantic overlap with Section 77(1) in the same batch; rejected to avoid repeating the wrong-tax-classification concept."
+    },
+    {
+      "candidate": 28,
+      "topic": "CRR and SLR distinction",
+      "reason": "Near-semantic overlap with an existing active-bank question; rejected."
+    },
+    {
+      "candidate": 35,
+      "topic": "Coriolis force and wind deflection",
+      "reason": "Same tested learning objective as an existing active-bank question; rejected."
+    },
+    {
+      "candidate": 38,
+      "topic": "Alluvial fan deposition",
+      "reason": "Same tested landform-formation concept as an existing active-bank question; rejected."
+    },
+    {
+      "candidate": 53,
+      "topic": "Permutations with repeated letters",
+      "reason": "Near-duplicate of an existing active-bank permutation question; rejected."
+    },
+    {
+      "candidate": 54,
+      "topic": "Modular arithmetic with powers",
+      "reason": "Near-semantic overlap with an official Typist HOD 2020 PYQ; rejected."
+    }
+  ],
+  "collisions": {
+    "candidateExactStemCollisions": 0,
+    "candidateOptionSetCollisions": 0,
+    "nearSemanticCandidatesRejected": 5,
+    "withinBatchNearPairs": 1,
+    "finalBatchExactStemCollisions": 0,
+    "finalBatchOptionSetCollisions": 0,
+    "finalBatchNearPairs": 0,
+    "unresolvedSemanticCollisions": 0
+  },
+  "mergedQuestions": 0,
+  "activeUniqueQuestionsBeforeRun": 1043,
+  "activeUniqueQuestionsAfterMerge": null,
+  "comparisonCorpusRecords": 3615,
+  "archiveMirrorRecordsBeforeRun": 451,
+  "archiveMirrorRecordsAfterRun": 505,
+  "mergeStatus": "pending_merge",
+  "postMergeAudit": false,
+  "subjects": {
+    "Meghalaya GK": 6,
+    "History": 4,
+    "GST / Inspector of Taxes": 9,
+    "Polity": 6,
+    "Economy": 5,
+    "Geography": 4,
+    "Science": 6,
+    "Environment": 4,
+    "Computer": 4,
+    "Arithmetic": 2,
+    "Reasoning": 2,
+    "English": 2
+  },
+  "examTracks": [
+    "MPSC Inspector of Taxes",
+    "DSC East Khasi Hills LDA-cum-Typist",
+    "MPSC Secretariat LDA"
+  ],
+  "sourceVerification": {
+    "verifiedDate": "2026-11-21",
+    "primarySources": [
+      "Meghalaya Government district and history pages",
+      "Meghalaya Directorate of Economics and Statistics",
+      "India Code CGST Act consolidated text as on 11 June 2026",
+      "Legislative Department Constitution of India as on 10 September 2026",
+      "Reserve Bank of India",
+      "NCERT",
+      "IPCC",
+      "NIELIT"
+    ],
+    "legalNote": "GST items are for examination study; operational decisions should be checked against later Gazette notifications."
+  },
+  "validation": {
+    "schema": true,
+    "fourOptions": true,
+    "answerIndices": true,
+    "explanations": true,
+    "sourceURLs": true,
+    "originalPracticeLabels": true,
+    "fullBankDedup": true,
+    "archiveParity": "pending PR validation",
+    "canonicalEmbeddedParity": "pending PR validation",
+    "serviceWorker": "updated",
+    "repositoryTests": "pending"
+  }
+}

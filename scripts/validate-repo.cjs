@@ -75,8 +75,8 @@ for (const name of batchFiles) {
   }
   archiveCount += batch.questions.length;
 }
-if (embedded.length !== 1043) fail('canonical embedded Q must contain 1043 questions');
-if (batchFiles.length !== 18 || archiveIdSet.size !== 451 || archiveCount !== 451) fail('all 18 question-batch archives must contain 451 unique mirrored records');
+if (embedded.length !== 1097) fail('canonical embedded Q must contain 1097 questions');
+if (batchFiles.length !== 19 || archiveIdSet.size !== 505 || archiveCount !== 505) fail('all 19 question-batch archives must contain 505 unique mirrored records');
 for (const question of active) {
   if (!question.q || !Array.isArray(question.o) || question.o.length !== 4) fail('question ' + question.id + ' must have a prompt and exactly four options');
   if (!Number.isInteger(question.a) || question.a < 0 || question.a >= question.o.length) fail('question ' + question.id + ' has an invalid answer index');
@@ -153,7 +153,7 @@ if (new Set(dedupIndex18.canonical.activeFingerprints.map(record=>record.i)).siz
 const dedupAudit18 = jsonFile('audit/dedup-audit-2026-11-18.json');
 if (dedupAudit18.target !== 50 || dedupAudit18.draftedCandidates !== 50 || dedupAudit18.validatedUniqueQuestions !== 42 || dedupAudit18.collisions.candidateExactStemCollisions !== 0 || dedupAudit18.collisions.unresolvedSemanticCollisions !== 0 || dedupAudit18.rejectedCandidates.length !== 8) fail('18 November candidate/dedup audit totals are incorrect');
 const rampTracker = jsonFile('audit/campaign-tracker.json');
-if (rampTracker.currentDailyTarget !== 70 || rampTracker.previousRun?.validatedQuestions !== 50 || rampTracker.previousRun?.mergedQuestions !== 50 || rampTracker.latestRun?.target !== 70 || rampTracker.latestRun?.validatedQuestions !== 70 || rampTracker.latestRun?.mergedQuestions !== 70 || rampTracker.latestRun?.status !== 'merged' || rampTracker.nextDailyTarget !== 90 || rampTracker.latestRun?.targetGatePassed !== true || rampTracker.latestRun?.mergeGatePassed !== true || rampTracker.latestRun?.gatePassed !== true || rampTracker.currentActiveQuestions !== 1043 || rampTracker.remainingTo10000 !== 8957 || rampTracker.cumulativeUniqueAdditionsSinceRampStart !== 162) fail('20 November post-merge ramp tracker or +20 progression is inconsistent');
+if (rampTracker.currentDailyTarget !== 90 || rampTracker.previousRun?.validatedQuestions !== 70 || rampTracker.previousRun?.mergedQuestions !== 70 || rampTracker.latestRun?.target !== 90 || rampTracker.latestRun?.validatedQuestions !== 54 || rampTracker.latestRun?.mergedQuestions !== 0 || rampTracker.latestRun?.status !== 'pending_merge' || rampTracker.nextDailyTarget !== 90 || rampTracker.latestRun?.targetGatePassed !== false || rampTracker.latestRun?.mergeGatePassed !== false || rampTracker.latestRun?.gatePassed !== false || rampTracker.currentActiveQuestions !== 1043 || rampTracker.remainingTo10000 !== 8957 || rampTracker.cumulativeUniqueAdditionsSinceRampStart !== 162 || rampTracker.latestRun?.projectedActiveUniqueCount !== 1097) fail('21 November pre-merge ramp tracker or held-target progression is inconsistent');
 
 
 const expansionBatch19 = jsonFile('question-batches/2026-11-19-original-practice.json');
@@ -162,7 +162,7 @@ for (const question of expansionBatch19.questions) {
   if (!question.topic || !question.exam || !Array.isArray(question.examTags) || question.examTags.length !== 2 || !question.e || question.e.length < 120 || !question.source || !question.source.includes('not an official PYQ') || question.label !== 'Original Practice' || question.sourceType !== 'Original Practice' || !question.sourceURL || !question.sourceURL.startsWith('https://') || question.sourceVerifiedDate !== '2026-11-19' || !question.verificationStatus || !question.verificationStatus.includes('2026-11-19') || question.difficulty === 'PYQ' || question.answerIndex !== question.a || question.o.length !== 4) fail('19 November question ' + question.id + ' needs topic/exam tags, four options, answer, teaching explanation, source and Original Practice label');
 }
 if (!sw.includes('./question-batches/2026-11-19-original-practice.json')) fail('service worker does not precache 19 November original-practice archive');
-if (!html.includes('mpsc-build') || !html.includes('2026-11-20-original-practice-70')) fail('20 November canonical build marker is missing');
+if (!html.includes('mpsc-build') || !html.includes('2026-11-21-original-practice-54')) fail('20 November canonical build marker is missing');
 const expansionBatch20 = jsonFile('question-batches/2026-11-20-original-practice.json');
 if (expansionBatch20.questions.length !== 70 || expansionBatch20.questionIdRange !== '9101-9170' || expansionBatch20.candidateCount !== 81 || expansionBatch20.rejectedCandidates !== 11 || Object.values(expansionBatch20.subjects).reduce((sum,value)=>sum+value,0)!==70) fail('20 November original-practice batch count, ID range, candidate or subject totals are incorrect');
 for (const question of expansionBatch20.questions) {
@@ -184,11 +184,28 @@ for (const [id, expected] of Object.entries(sourceCorrections20)) {
 }
 if (expansionBatch20.questions[69].id !== 9170 || !expansionBatch20.questions[69].sourceURL.includes('final-notification-mawtneng')) fail('20 November Meghalaya current-affairs question must cite the official Mawtneng BHS notification page');
 if (!sw.includes('./question-batches/2026-11-20-original-practice.json')) fail('service worker does not precache 20 November original-practice archive');
-if (!html.includes('mpsc-build') || !html.includes('2026-11-20-original-practice-70')) fail('20 November canonical build marker is missing');
+if (!html.includes('mpsc-build') || !html.includes('2026-11-21-original-practice-54')) fail('20 November canonical build marker is missing');
+
+const expansionBatch21 = jsonFile('question-batches/2026-11-21-original-practice.json');
+if (expansionBatch21.questions.length !== 54 || expansionBatch21.questionIdRange !== '9171-9224' || expansionBatch21.candidateCount !== 60 || expansionBatch21.rejectedCandidateCount !== 6 || Object.values(expansionBatch21.subjects).reduce((sum,value)=>sum+value,0)!==54) fail('21 November original-practice batch count, ID range, candidate or subject totals are incorrect');
+for (const question of expansionBatch21.questions) {
+  if (!question.topic || !question.exam || !Array.isArray(question.examTags) || question.examTags.length !== 2 || !question.e || question.e.length < 120 || !question.source || !question.source.includes('not an official PYQ') || question.label !== 'Original Practice' || question.sourceType !== 'Original Practice' || !question.sourceURL || !question.sourceURL.startsWith('https://') || question.sourceVerifiedDate !== '2026-11-21' || !question.verificationStatus || !question.verificationStatus.includes('2026-11-21') || question.difficulty === 'PYQ' || question.answerIndex !== question.a || question.o.length !== 4 || new Set(question.o.map(x=>x.toLowerCase())).size !== 4 || !Number.isInteger(question.a) || question.a < 0 || question.a > 3) fail('21 November question ' + question.id + ' has incomplete source, answer, explanation or Original Practice metadata');
+  if (question.cat === 'GST / Inspector of Taxes' && !question.sourceURL.startsWith('https://www.indiacode.nic.in/')) fail('21 November GST question ' + question.id + ' must use the official India Code statutory source');
+}
+if (!sw.includes('./question-batches/2026-11-21-original-practice.json')) fail('service worker does not precache 21 November original-practice archive');
+const dedupIndex21 = jsonFile('audit/dedup-index-2026-11-21.json');
+if (dedupIndex21.schemaVersion !== 6 || dedupIndex21.canonical.questionCount !== 1097 || dedupIndex21.canonical.activeFingerprints.length !== 1097 || dedupIndex21.officialPyq.fileCount !== 18 || dedupIndex21.officialPyq.questionCount !== 2433 || dedupIndex21.archive.fileCount !== 19 || dedupIndex21.archive.questionCount !== 505 || dedupIndex21.allPyqFiles.fileCount !== 19 || dedupIndex21.allPyqFiles.questionCount !== 2572) fail('21 November full-bank dedup index totals are incorrect');
+if (new Set(dedupIndex21.canonical.activeFingerprints.map(record=>record.i)).size !== 1097 || dedupIndex21.canonical.activeFingerprints.some(record=>!record.s || !record.o || !record.k || !Array.isArray(record.w))) fail('21 November active dedup index has duplicate IDs or incomplete stem/option/concept/token fingerprints');
+if (dedupIndex21.candidateScan.drafted !== 60 || dedupIndex21.candidateScan.accepted !== 54 || dedupIndex21.candidateScan.rejected !== 6 || dedupIndex21.candidateScan.exactStemCollisions !== 0 || dedupIndex21.candidateScan.optionSetCollisions !== 0 || dedupIndex21.candidateScan.nearSemanticRejected !== 5 || dedupIndex21.candidateScan.withinBatchNearPairsRejected !== 1 || dedupIndex21.candidateScan.finalBatchNearPairs !== 0 || dedupIndex21.candidateScan.unresolved !== 0) fail('21 November candidate collision audit is inconsistent');
+const dedupAudit21 = jsonFile('audit/dedup-audit-2026-11-21.json');
+if (dedupAudit21.target !== 90 || dedupAudit21.draftedCandidates !== 60 || dedupAudit21.validatedUniqueQuestions !== 54 || dedupAudit21.rejectedCandidates.length !== 6 || dedupAudit21.collisions.candidateExactStemCollisions !== 0 || dedupAudit21.collisions.candidateOptionSetCollisions !== 0 || dedupAudit21.collisions.unresolvedSemanticCollisions !== 0 || dedupAudit21.collisions.withinBatchNearPairs !== 1 || dedupAudit21.collisions.finalBatchNearPairs !== 0 || dedupAudit21.mergedQuestions !== 0 || dedupAudit21.mergeStatus !== 'pending_merge') fail('21 November pre-merge dedup audit totals are incorrect');
+const pyqFingerprints21 = jsonFile('audit/dedup-pyq-fingerprints-2026-11-21.json');
+if (pyqFingerprints21.count !== 2572 || pyqFingerprints21.files.length !== 19 || pyqFingerprints21.officialDistinctFileCount !== 18 || pyqFingerprints21.officialDistinctQuestionRecords !== 2433 || pyqFingerprints21.partialDuplicate.exactStemMatchesInFullPaper !== 139 || pyqFingerprints21.partialDuplicate.exactOptionMatchesInFullPaper !== 139 || pyqFingerprints21.fingerprints.length !== 82304) fail('21 November PYQ fingerprint file does not cover all 19 files and 2,572 records');
+
 const dedupIndex19 = jsonFile('audit/dedup-index-2026-11-19.json');
 if (dedupIndex19.schemaVersion !== 4 || dedupIndex19.canonical.questionCount !== 973 || dedupIndex19.canonical.activeFingerprints.length !== 973 || dedupIndex19.officialPyq.questionCount !== 2433 || dedupIndex19.archive.fileCount !== 17 || dedupIndex19.archive.questionCount !== 381) fail('19 November compact dedup index totals are incorrect');
 if (new Set(dedupIndex19.canonical.activeFingerprints.map(record=>record.i)).size !== 973 || dedupIndex19.canonical.activeFingerprints.some(record=>!record.s || !record.o || !record.k)) fail('19 November active dedup index has duplicate IDs or missing fingerprints');
-if (dedupIndex19.mergeStatus !== 'merged' || dedupIndex19.mergedMainSha !== rampTracker.previousRun?.mergeCommitSha || dedupIndex19.postMergeAudit !== true) fail('19 November dedup index does not record the prior merge SHA and post-merge audit');
+if (dedupIndex19.mergeStatus !== 'merged' || dedupIndex19.mergedMainSha !== rampTracker.previousRunBeforeLatest?.mergeCommitSha || dedupIndex19.postMergeAudit !== true) fail('19 November dedup index does not record the historical 19 November merge SHA and post-merge audit');
 const dedupAudit19 = jsonFile('audit/dedup-audit-2026-11-19.json');
 if (dedupAudit19.target !== 50 || dedupAudit19.draftedCandidates !== 62 || dedupAudit19.validatedUniqueQuestions !== 50 || dedupAudit19.rejectedCandidates.length !== 12 || dedupAudit19.collisions.candidateExactStemCollisions !== 0 || dedupAudit19.collisions.candidateOptionSetCollisions !== 0 || dedupAudit19.collisions.unresolvedSemanticCollisions !== 0 || dedupAudit19.collisions.withinBatchNearPairs !== 0 || dedupAudit19.mergedQuestions !== 50 || dedupAudit19.mergeStatus !== 'merged' || dedupAudit19.activeUniqueQuestionsAfterMerge !== 973 || dedupAudit19.postMergeAudit !== true) fail('19 November post-merge candidate/dedup audit totals are incorrect');
 
@@ -221,9 +238,9 @@ for (let number = 1; number <= 91; number++) {
 }
 if (!paperQuestions.find(q=>q.paperNo===27).o[3].includes('why IS she sketching')) fail('Q27 source/key anomaly must remain visible');
 if (!paperQuestions.find(q=>q.paperNo===30).verificationStatus.includes('unusual reporting verb')) fail('Q30 official-key anomaly must remain flagged');
-if (active.length !== 1043 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
-if (batchFiles.length !== 18) fail('expected exactly 18 archived question batches');
-const expectedSubjectCounts = {"Aptitude":32,"Arithmetic":171,"Art & Culture":1,"Books & Authors":1,"Computer":35,"Current Affairs":48,"Economy":61,"English":161,"Environment":41,"General Science":11,"Geography":62,"GST / Inspector of Taxes":56,"History":63,"International Organisations":1,"Meghalaya GK":74,"Officer Technical":17,"Polity":99,"Reasoning":48,"Science":58,"Static GK":3};
+if (active.length !== 1097 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
+if (batchFiles.length !== 19) fail('expected exactly 19 archived question batches');
+const expectedSubjectCounts = {"Aptitude":32,"Arithmetic":173,"Art & Culture":1,"Books & Authors":1,"Computer":39,"Current Affairs":48,"Economy":66,"English":163,"Environment":45,"General Science":11,"Geography":66,"GST / Inspector of Taxes":65,"History":67,"International Organisations":1,"Meghalaya GK":80,"Officer Technical":17,"Polity":105,"Reasoning":50,"Science":64,"Static GK":3};
 const actualSubjectCounts = {};
 for (const question of active) {
   const subject = question.cat.replace(/ • PYQ$/, '');

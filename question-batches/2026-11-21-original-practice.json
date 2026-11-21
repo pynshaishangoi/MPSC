@@ -1,0 +1,1826 @@
+{
+  "batchId": "mpsc-original-practice-2026-11-21",
+  "date": "2026-11-21",
+  "batchType": "Original Practice",
+  "title": "MPSC Original Practice Batch — 21 November 2026",
+  "questionCount": 54,
+  "questionIdRange": "9171-9224",
+  "candidateCount": 60,
+  "rejectedCandidateCount": 6,
+  "subjects": {
+    "Meghalaya GK": 6,
+    "History": 4,
+    "GST / Inspector of Taxes": 9,
+    "Polity": 6,
+    "Economy": 5,
+    "Geography": 4,
+    "Science": 6,
+    "Environment": 4,
+    "Computer": 4,
+    "Arithmetic": 2,
+    "Reasoning": 2,
+    "English": 2
+  },
+  "examTracks": [
+    "MPSC Inspector of Taxes",
+    "DSC East Khasi Hills LDA-cum-Typist",
+    "MPSC Secretariat LDA"
+  ],
+  "sourcePolicy": "All items are newly authored practice questions. No official PYQ wording or private uploaded source text is reproduced.",
+  "deduplication": {
+    "corpus": "1,043 canonical active questions plus 2,572 official-PYQ transcription records; 451 archive records were audited as mirrors and not double-counted",
+    "exactStemCollisions": 0,
+    "exactOptionSetCollisions": 0,
+    "nearSemanticCandidatesRejected": 5,
+    "withinBatchNearDuplicateCandidatesRejected": 1,
+    "unresolvedSemanticCollisions": 0
+  },
+  "notes": [
+    "54 of 60 candidates passed validation and full-bank deduplication. Six were rejected for existing-bank or within-batch semantic overlap.",
+    "The 2026-11-20 archive is preserved; this batch is a separate archive and the questions are also embedded in index.html."
+  ],
+  "questions": [
+    {
+      "id": 9171,
+      "cat": "Meghalaya GK",
+      "topic": "Eastern West Khasi Hills district formation",
+      "q": "Eastern West Khasi Hills District was carved out of which former district when it was inaugurated on 10 November 2021?",
+      "o": [
+        "Ri Bhoi District",
+        "West Khasi Hills District",
+        "East Khasi Hills District",
+        "South West Khasi Hills District"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The district administration records that Eastern West Khasi Hills was carved out of the erstwhile West Khasi Hills District and inaugurated on 10 November 2021. It was created by upgrading the Mairang Civil Sub-division.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Eastern West Khasi Hills district formation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Eastern West Khasi Hills District Administration — About District.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Eastern West Khasi Hills District Administration — About District",
+      "sourceURL": "https://easternwestkhasihills.meghalaya.gov.in/about-district/",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9172,
+      "cat": "Meghalaya GK",
+      "topic": "Eastern West Khasi Hills geographic coordinates",
+      "q": "Which coordinate range correctly describes the location of Eastern West Khasi Hills District?",
+      "o": [
+        "25°10′–25°51′ N and 91°10′–91°50′ E",
+        "24°10′–24°51′ N and 90°10′–90°50′ E",
+        "26°10′–26°51′ N and 92°10′–92°50′ E",
+        "25°10′–25°51′ N and 92°10′–92°50′ E"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The district portal gives its latitude as 25 degrees 10 minutes to 25 degrees 51 minutes north and longitude as 91 degrees 10 minutes to 91 degrees 50 minutes east. These are the district's geographic ranges, not the coordinates of one town.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Eastern West Khasi Hills geographic coordinates",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Eastern West Khasi Hills District Administration — About District.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Eastern West Khasi Hills District Administration — About District",
+      "sourceURL": "https://easternwestkhasihills.meghalaya.gov.in/about-district/",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9173,
+      "cat": "Meghalaya GK",
+      "topic": "Eastern West Khasi Hills boundary",
+      "q": "According to the district administration, which district lies to the north-east of Eastern West Khasi Hills?",
+      "o": [
+        "West Khasi Hills",
+        "South West Khasi Hills",
+        "Ri Bhoi",
+        "East Khasi Hills"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The official district description lists Ri Bhoi on the north-east, East Khasi Hills on the east, South West Khasi Hills on the south and West Khasi Hills on the west. The direction in the question is therefore decisive.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Eastern West Khasi Hills boundary",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Eastern West Khasi Hills District Administration — About District.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Eastern West Khasi Hills District Administration — About District",
+      "sourceURL": "https://easternwestkhasihills.meghalaya.gov.in/about-district/",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9174,
+      "cat": "Meghalaya GK",
+      "topic": "Mairang elevation",
+      "q": "At approximately what elevation above sea level does the Eastern West Khasi Hills district portal place Mairang?",
+      "o": [
+        "1,064 metres",
+        "1,264 metres",
+        "1,464 metres",
+        "1,564 metres"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "The district's topographical details give Mairang an elevation of 1,564 metres above sea level. This is the town's stated elevation, not the average elevation of every part of the district.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Mairang elevation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Eastern West Khasi Hills District Administration — About District.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Eastern West Khasi Hills District Administration — About District",
+      "sourceURL": "https://easternwestkhasihills.meghalaya.gov.in/about-district/",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9175,
+      "cat": "Meghalaya GK",
+      "topic": "DES publication function",
+      "q": "The Publication and Reference section of Meghalaya's Directorate of Economics and Statistics prepares reports using information collected from which sources?",
+      "o": [
+        "Only private market-research companies",
+        "State and Central Government departments, autonomous bodies and semi-government agencies",
+        "Only village councils and municipal boards",
+        "Only the Reserve Bank of India"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The DES says it collects secondary data from State and Central Government departments, autonomous bodies and semi-government agencies. It compiles and analyses the information for publications such as the Statistical Handbook and Statistical Abstract.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "DES publication function",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Directorate of Economics and Statistics, Meghalaya — Publication and Reference.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Directorate of Economics and Statistics, Meghalaya — Publication and Reference",
+      "sourceURL": "https://www.des.megplanning.gov.in/pub_ref.htm",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9176,
+      "cat": "Meghalaya GK",
+      "topic": "Meghalaya C&RD block count",
+      "q": "In the DES Portal's Brief Facts and Figures, what number of C&RD Blocks is recorded for Meghalaya for reference year 2022?",
+      "o": [
+        "45",
+        "50",
+        "55",
+        "60"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The DES Portal records 55 C&RD Blocks for reference year 2022. The reference year matters: this is a dated statistical figure and should not be presented as a newly verified 2026 administrative count.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Meghalaya C&RD block count",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Directorate of Economics and Statistics, Meghalaya — Brief Facts and Figures.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Directorate of Economics and Statistics, Meghalaya — Brief Facts and Figures",
+      "sourceURL": "https://www.des.megplanning.gov.in/portal.htm",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9177,
+      "cat": "History",
+      "topic": "Pa Togan Nengminja Sangma's last major resistance",
+      "q": "Where did the British expedition face the last major Garo resistance led by Pa Togan Nengminja Sangma in December 1837?",
+      "o": [
+        "Nongkhlaw",
+        "Rongrenggiri near Chisobibra",
+        "Syntu Ksiar",
+        "Mairangbah"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Meghalaya Government's Williamnagar account places the last major Garo resistance at Rongrenggiri. Pa Togan Nengminja Sangma was killed at Chisobibra near Rongrenggiri on 12 December 1837.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Pa Togan Nengminja Sangma's last major resistance",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — Williamnagar and Rongrenggiri.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal — Williamnagar and Rongrenggiri",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34290",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9178,
+      "cat": "History",
+      "topic": "U Kiang Nangbah's 1861 oath",
+      "q": "At which Jowai location did U Kiang Nangbah take the oath to lead the Jaintia people in their struggle against British rule in 1861?",
+      "o": [
+        "Madiah Kmai Blai",
+        "Chisobibra",
+        "Rongrenggiri",
+        "Mairangbah"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Meghalaya Government's Jowai history account identifies Madiah Kmai Blai as the field where Jaintia leaders met in 1861 and U Kiang Nangbah took the oath to lead the struggle. The place is distinct from the later site of his execution.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "U Kiang Nangbah's 1861 oath",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — Jowai and U Kiang Nangbah.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal — Jowai and U Kiang Nangbah",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34293",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9179,
+      "cat": "History",
+      "topic": "U Kiang Nangbah's execution",
+      "q": "On which date was U Kiang Nangbah publicly hanged at Iawmusiang in Jowai?",
+      "o": [
+        "27 December 1862",
+        "14 December 1863",
+        "30 December 1862",
+        "12 December 1837"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The official Jowai account records that U Kiang Nangbah was publicly hanged at Iawmusiang, Jowai, on 30 December 1862 after a summary trial. His capture had occurred three days earlier, on 27 December 1862.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "U Kiang Nangbah's execution",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — Jowai and U Kiang Nangbah.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal — Jowai and U Kiang Nangbah",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34293",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9180,
+      "cat": "History",
+      "topic": "End of the Jaintia resistance",
+      "q": "According to the Meghalaya Government's account, when did the Jaintia resistance finally end after U Kiang Nangbah's death?",
+      "o": [
+        "30 December 1862",
+        "14 December 1863",
+        "12 December 1837",
+        "31 July 1862"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The account says fighting continued after U Kiang Nangbah's execution and ended on 14 December 1863, when the Lieutenant Governor of Bengal removed the Special Commission and its power from the hilly Jaintia areas.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "End of the Jaintia resistance",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — Jowai and U Kiang Nangbah.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal — Jowai and U Kiang Nangbah",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34293",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9181,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 76 — tax collected but not paid",
+      "q": "A person collects an amount from a customer as representing GST but does not remit it. Under Section 76, which statement is correct even if the underlying supply is later found non-taxable?",
+      "o": [
+        "The amount may always be retained if the supply was exempt",
+        "The collected amount must be paid forthwith to Government",
+        "The amount becomes input tax credit automatically",
+        "The amount is payable only after a criminal conviction"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 76 requires a person who collected an amount as representing tax and did not pay it to Government to pay it forthwith. The obligation applies irrespective of whether the underlying supplies were taxable, so the collection cannot be justified merely by later claiming exemption.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 76 — tax collected but not paid",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. India Code — CGST Act, 2017, consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act, 2017, consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9182,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 77(1) — intra-State wrongly treated supply",
+      "q": "A registered person paid CGST and SGST on a transaction treated as intra-State, but the transaction is later held to be inter-State. What relief does Section 77(1) provide?",
+      "o": [
+        "Refund of the Central and State taxes paid, subject to prescribed manner and conditions",
+        "Automatic waiver of every tax liability for the financial year",
+        "A refund of only the State tax, with no Central tax adjustment",
+        "A permanent exemption from IGST registration"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 77(1) addresses tax paid under the wrong intra-State classification when the supply is later held to be inter-State. It provides for refund of the Central and State tax so paid, in the prescribed manner and subject to prescribed conditions.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 77(1) — intra-State wrongly treated supply",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. India Code — CGST Act, 2017, consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act, 2017, consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9183,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 78 — ordinary payment period",
+      "q": "After service of an order under the CGST Act, what is the ordinary period within which the taxable person must pay the amount before recovery proceedings are initiated under Section 78?",
+      "o": [
+        "30 days",
+        "60 days",
+        "Three months",
+        "Six months"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Section 78 ordinarily allows three months from the date of service of the order for payment. The proviso permits the proper officer, for reasons recorded in writing and in the interest of revenue, to require payment within a shorter specified period.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 78 — ordinary payment period",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. India Code — CGST Act, 2017, consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act, 2017, consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9184,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 85 — transfer of business",
+      "q": "A taxable person transfers an entire business by sale while tax dues relating to the period before transfer remain unpaid. Who is liable under Section 85(1)?",
+      "o": [
+        "Only the transferee, and only after a fresh assessment",
+        "The transferor and transferee jointly and severally, to the extent of the transfer",
+        "Only the transferor's former directors",
+        "Neither party once the sale deed is registered"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 85(1) makes the taxable person and the person to whom the business is transferred jointly and severally liable for tax, interest or penalty due up to the time of transfer, whether determined before transfer or determined later. Liability extends wholly or to the extent of the transfer.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 85 — transfer of business",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. India Code — CGST Act, 2017, consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act, 2017, consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9185,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 86 — agent and principal",
+      "q": "An agent supplies taxable goods on behalf of a principal. Which parties are jointly and severally liable for the tax payable on those goods under Section 86?",
+      "o": [
+        "Only the agent",
+        "Only the principal",
+        "The agent and the principal",
+        "The transporter and the recipient"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Section 86 covers an agent who supplies or receives taxable goods on behalf of a principal. Both agent and principal are jointly and severally liable for the tax payable on those goods; the provision should not be casually extended to every service transaction.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 86 — agent and principal",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. India Code — CGST Act, 2017, consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act, 2017, consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9186,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 87 — retrospective merger date",
+      "q": "Two companies merge under an order that takes effect from a date earlier than the order itself. For the intervening period, the companies made supplies to each other. How are those transactions treated under Section 87(1)?",
+      "o": [
+        "They are ignored because the merger date is retrospective",
+        "They are included in the respective companies' turnover of supply or receipt and taxed accordingly",
+        "They are treated only as exempt branch transfers",
+        "They are shifted entirely to the transferee's turnover after the order"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 87(1) requires supplies and receipts between the companies during the period from the earlier effective date to the date of the order to be included in the respective companies' turnover. This prevents the intervening transactions from disappearing merely because the merger order operates retrospectively.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 87 — retrospective merger date",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. India Code — CGST Act, 2017, consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act, 2017, consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9187,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 88 — liquidator's first intimation",
+      "q": "A liquidator is appointed when a company is being wound up. Within what period must the liquidator intimate the Commissioner of the appointment under Section 88(1)?",
+      "o": [
+        "Within 7 days",
+        "Within 15 days",
+        "Within 30 days",
+        "Within 90 days"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Section 88(1) requires the liquidator to give intimation of the appointment to the Commissioner within thirty days after appointment. The Commissioner then has a separate period of three months from receipt of the intimation to notify the liquidator of the amount considered sufficient for tax, interest or penalty.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 88 — liquidator's first intimation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. India Code — CGST Act, 2017, consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act, 2017, consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9188,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 90 — retiring partner",
+      "q": "A partner retires from a firm that has GST dues. The retirement date is not intimated to the Commissioner within one month. Until when does the retiring partner's liability under the first proviso to Section 90 continue?",
+      "o": [
+        "Only up to the date of the retirement deed",
+        "Until the firm files its next annual return",
+        "Until the intimation is received by the Commissioner",
+        "Until the firm is dissolved"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Section 90 keeps the retiring partner liable for dues up to the retirement date. If the required written intimation is not given within one month from retirement, the partner's liability under the first proviso continues until the Commissioner receives the intimation.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 90 — retiring partner",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. India Code — CGST Act, 2017, consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act, 2017, consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9189,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Act Section 93 — death and discontinued business",
+      "q": "A taxable person dies and the business is discontinued. Under Section 93(1)(b), how far is the legal representative liable for the deceased person's GST dues?",
+      "o": [
+        "Without limit from the legal representative's own property",
+        "Only out of the deceased's estate and to the extent that the estate can meet the charge",
+        "Only for dues assessed before death",
+        "No liability arises if the business has stopped"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Where the business is discontinued, Section 93(1)(b) makes the legal representative liable out of the deceased person's estate, limited to the extent the estate is capable of meeting the charge. The provision covers dues determined before death but unpaid and dues determined after death.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Act Section 93 — death and discontinued business",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. India Code — CGST Act, 2017, consolidated text as on 11 June 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — CGST Act, 2017, consolidated text as on 11 June 2026",
+      "sourceURL": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9190,
+      "cat": "Polity",
+      "topic": "Article 244A — autonomous State within Assam",
+      "q": "Which constitutional provision empowers Parliament to form an autonomous State within Assam and provide it with a legislature, a Council of Ministers, or both?",
+      "o": [
+        "Article 244A",
+        "Article 263",
+        "Article 280",
+        "Article 312"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 244A authorises Parliament, by law, to form an autonomous State within Assam comprising specified tribal areas and to provide for a legislature, a Council of Ministers, or both. It is distinct from the ordinary creation of a new State under Article 3.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Polity",
+        "Article 244A — autonomous State within Assam",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, as on 10 September 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Legislative Department — Constitution of India, as on 10 September 2026",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9191,
+      "cat": "Polity",
+      "topic": "Article 275(1) — grants for Scheduled Tribes",
+      "q": "Article 275(1) provides for grants-in-aid from the Union to States, including special provision for which purpose?",
+      "o": [
+        "Funding private universities only",
+        "Promoting the welfare of Scheduled Tribes and raising the level of administration of Scheduled Areas",
+        "Paying salaries of all municipal councillors",
+        "Financing only national highways"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 275(1) authorises grants-in-aid to States and includes provision for sums needed to meet the costs of schemes for promoting the welfare of Scheduled Tribes and raising the level of administration of Scheduled Areas. These are constitutional grants, not a direct tax-devolution formula.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Polity",
+        "Article 275(1) — grants for Scheduled Tribes",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, as on 10 September 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Legislative Department — Constitution of India, as on 10 September 2026",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9192,
+      "cat": "Polity",
+      "topic": "Article 338A — National Commission for Scheduled Tribes",
+      "q": "Which constitutional body is established under Article 338A?",
+      "o": [
+        "National Commission for Backward Classes",
+        "National Commission for Scheduled Tribes",
+        "National Human Rights Commission",
+        "Finance Commission"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 338A provides for the National Commission for Scheduled Tribes. Its constitutional role includes investigating and monitoring safeguards for Scheduled Tribes, inquiring into specific complaints and advising on their socio-economic development.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Polity",
+        "Article 338A — National Commission for Scheduled Tribes",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, as on 10 September 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Legislative Department — Constitution of India, as on 10 September 2026",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9193,
+      "cat": "Polity",
+      "topic": "Article 339 — Scheduled Areas oversight",
+      "q": "Under Article 339(1), who may appoint a Commission to report on the administration of Scheduled Areas and the welfare of Scheduled Tribes?",
+      "o": [
+        "The President",
+        "The Chief Justice of India",
+        "The Speaker of the Lok Sabha",
+        "The Governor acting alone"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 339(1) empowers the President to appoint a Commission to report on the administration of Scheduled Areas and the welfare of Scheduled Tribes in the States. It concerns Union oversight and is distinct from the National Commission for Scheduled Tribes under Article 338A.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Polity",
+        "Article 339 — Scheduled Areas oversight",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, as on 10 September 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Legislative Department — Constitution of India, as on 10 September 2026",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9194,
+      "cat": "Polity",
+      "topic": "Article 312 — creation of All India Services",
+      "q": "What special Rajya Sabha resolution is required before Parliament may create a new All India Service under Article 312?",
+      "o": [
+        "A simple majority of members present and voting",
+        "A majority of the total membership of both Houses",
+        "A resolution supported by not less than two-thirds of members present and voting",
+        "A unanimous resolution of all State Legislatures"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Article 312 requires the Council of States to declare by a resolution supported by not less than two-thirds of members present and voting that it is necessary or expedient in the national interest to create one or more All India Services. Parliament may then provide for their creation by law.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Polity",
+        "Article 312 — creation of All India Services",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, as on 10 September 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Legislative Department — Constitution of India, as on 10 September 2026",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9195,
+      "cat": "Polity",
+      "topic": "Article 342 — specification of Scheduled Tribes",
+      "q": "After the President issues a public notification specifying Scheduled Tribes for a State or Union Territory under Article 342, who may include or exclude a community from that list?",
+      "o": [
+        "The State Cabinet by executive order",
+        "The Governor by notification",
+        "Parliament by law",
+        "The National Commission for Scheduled Tribes by recommendation alone"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Article 342(2) reserves the power to include or exclude a community from the notified list of Scheduled Tribes to Parliament by law. A State executive order or a Commission recommendation by itself cannot amend the constitutional list.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Polity",
+        "Article 342 — specification of Scheduled Tribes",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, as on 10 September 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Legislative Department — Constitution of India, as on 10 September 2026",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9196,
+      "cat": "Economy",
+      "topic": "RBI open market operations",
+      "q": "If the Reserve Bank wants to inject durable liquidity into the banking system through an open market operation, which action is appropriate?",
+      "o": [
+        "Selling Government securities in the market",
+        "Buying Government securities from the market",
+        "Increasing the face value of currency notes",
+        "Reducing the statutory audit period of banks"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "An RBI purchase of Government securities injects durable liquidity because payment for the securities adds funds to the banking system. A sale absorbs liquidity. Open market operations are outright purchases or sales, distinct from short-term repo transactions.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Economy",
+        "RBI open market operations",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — Open Market Operations and CRR.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Reserve Bank of India — Open Market Operations and CRR",
+      "sourceURL": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=17618",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9197,
+      "cat": "Economy",
+      "topic": "Standing Deposit Facility corridor floor",
+      "q": "In the RBI's liquidity adjustment framework, which facility serves as the floor of the liquidity corridor?",
+      "o": [
+        "Marginal Standing Facility",
+        "Standing Deposit Facility",
+        "Bank Rate",
+        "Ways and Means Advances"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The RBI describes the Standing Deposit Facility as the floor of the liquidity corridor. It allows the RBI to absorb liquidity without providing collateral, while the Marginal Standing Facility is an overnight borrowing facility above the policy repo rate.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Economy",
+        "Standing Deposit Facility corridor floor",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — Liquidity Operations, SDF and MSF.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Reserve Bank of India — Liquidity Operations, SDF and MSF",
+      "sourceURL": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=24094",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9198,
+      "cat": "Economy",
+      "topic": "Marginal Standing Facility",
+      "q": "A scheduled bank faces a temporary overnight liquidity shortage and seeks to borrow from the RBI at a rate above the policy repo rate. Which facility is designed for this purpose?",
+      "o": [
+        "Standing Deposit Facility",
+        "Marginal Standing Facility",
+        "Open market sale",
+        "Ways and Means Advances"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Marginal Standing Facility is an overnight borrowing facility for eligible banks at a rate above the policy repo rate. It is not the same as the Standing Deposit Facility, which absorbs liquidity and forms the corridor floor.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Economy",
+        "Marginal Standing Facility",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — Liquidity Operations, SDF and MSF.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Reserve Bank of India — Liquidity Operations, SDF and MSF",
+      "sourceURL": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=24094",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9199,
+      "cat": "Economy",
+      "topic": "Payment and Settlement Systems Act, 2007",
+      "q": "Which institution is designated under the Payment and Settlement Systems Act, 2007 as the authority for regulating and supervising payment systems in India?",
+      "o": [
+        "Securities and Exchange Board of India",
+        "Reserve Bank of India",
+        "Competition Commission of India",
+        "National Payments Corporation of India acting as the statutory regulator"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The RBI's official FAQ explains that the Payment and Settlement Systems Act, 2007 provides the legal framework for regulation and supervision of payment systems and designates the Reserve Bank as the authority. NPCI operates several retail payment systems but is not the statutory regulator under the Act.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Economy",
+        "Payment and Settlement Systems Act, 2007",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — Payment and Settlement Systems Act FAQ, updated 20 October 2025.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Reserve Bank of India — Payment and Settlement Systems Act FAQ, updated 20 October 2025",
+      "sourceURL": "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQ20102025FUL.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9200,
+      "cat": "Economy",
+      "topic": "RTGS gross settlement",
+      "q": "What does the word 'gross' signify in Real Time Gross Settlement (RTGS)?",
+      "o": [
+        "All transactions are settled together at the end of the month",
+        "Each transfer is settled individually rather than being offset against other transfers",
+        "Only cash deposits are settled in real time",
+        "Transactions are settled only after a clearing-house netting cycle"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "In RTGS, each payment instruction is settled individually on a real-time basis. Gross settlement contrasts with net settlement, in which multiple obligations are offset and only the net amount is settled. The RBI FAQ describes RTGS as a gross settlement system.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Economy",
+        "RTGS gross settlement",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — Payment and Settlement Systems Act FAQ, updated 20 October 2025.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Reserve Bank of India — Payment and Settlement Systems Act FAQ, updated 20 October 2025",
+      "sourceURL": "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQ20102025FUL.pdf",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9201,
+      "cat": "Geography",
+      "topic": "Orographic rainfall",
+      "q": "Moist air is forced to rise over a mountain barrier, cools as it expands and produces rain on the windward slope. Which process is being described?",
+      "o": [
+        "Convectional rainfall",
+        "Orographic rainfall",
+        "Cyclonic subsidence",
+        "Frontal inversion"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Orographic rainfall occurs when relief forces moist air upward. As the air rises, it expands and cools adiabatically; water vapour condenses and precipitation is produced, often leaving a comparatively drier rain-shadow region on the leeward side.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Geography",
+        "Orographic rainfall",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Official Online Textbooks, Geography.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Official Online Textbooks, Geography",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9202,
+      "cat": "Geography",
+      "topic": "Daytime sea breeze",
+      "q": "On a sunny afternoon, wind blows from the sea towards the land. Which pressure pattern most directly explains this sea breeze?",
+      "o": [
+        "The sea heats faster and develops lower pressure",
+        "The land heats faster, air rises and surface pressure becomes relatively lower over land",
+        "The land cools faster and draws air from the sea",
+        "The Coriolis force creates a permanent high-pressure belt over the coast"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Land generally heats more quickly than the sea during the day. Air over the warmer land rises, producing relatively lower surface pressure; cooler air from the sea moves inland to replace it, creating a sea breeze.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Geography",
+        "Daytime sea breeze",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Official Online Textbooks, Geography.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Official Online Textbooks, Geography",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9203,
+      "cat": "Geography",
+      "topic": "Temperature inversion",
+      "q": "Which atmospheric condition is called a temperature inversion?",
+      "o": [
+        "Air temperature decreases with height at the normal environmental lapse rate",
+        "Air temperature increases with height through a layer of the atmosphere",
+        "Air pressure remains identical at every altitude",
+        "The atmosphere contains no water vapour"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A temperature inversion is a layer in which temperature increases with altitude rather than decreasing. It suppresses vertical mixing, so pollutants and fog may remain trapped close to the ground beneath the inversion layer.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Geography",
+        "Temperature inversion",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Official Online Textbooks, Geography.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Official Online Textbooks, Geography",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9204,
+      "cat": "Geography",
+      "topic": "Oxbow lake formation",
+      "q": "A river meander becomes increasingly narrow at its neck and is eventually cut off from the main channel. What landform may remain?",
+      "o": [
+        "Alluvial fan",
+        "Oxbow lake",
+        "Moraine",
+        "Yardang"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "When erosion narrows a meander neck and the river cuts through it, deposition may seal the former loop. The abandoned curved channel becomes an oxbow lake, a feature associated with river deposition and lateral erosion on floodplains.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Geography",
+        "Oxbow lake formation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Official Online Textbooks, Geography.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Official Online Textbooks, Geography",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9205,
+      "cat": "Science",
+      "topic": "Nephron glomerular filtration",
+      "q": "In a nephron, blood is filtered under pressure at the glomerulus. Into which structure does the initial filtrate pass?",
+      "o": [
+        "Collecting duct",
+        "Bowman's capsule",
+        "Loop of Henle",
+        "Ureter"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The glomerulus is a capillary tuft where ultrafiltration occurs. Water and small dissolved substances pass through the filtration barrier into Bowman's capsule, while blood cells and most large plasma proteins remain in the blood.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Science",
+        "Nephron glomerular filtration",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Official Online Textbooks, Biology and Science.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Official Online Textbooks, Biology and Science",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9206,
+      "cat": "Science",
+      "topic": "ADH and kidney water reabsorption",
+      "q": "Antidiuretic hormone activity increases the reabsorption of water in which part of the nephron?",
+      "o": [
+        "Distal nephron and collecting ducts",
+        "Glomerular capillaries only",
+        "Ureter",
+        "Renal artery"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Antidiuretic hormone increases the permeability of parts of the distal nephron and collecting ducts to water, allowing more water to be reabsorbed. Reduced ADH action therefore produces a larger volume of dilute urine.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Science",
+        "ADH and kidney water reabsorption",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Official Online Textbooks, Biology and Science.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Official Online Textbooks, Biology and Science",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9207,
+      "cat": "Science",
+      "topic": "Iodine and thyroid hormone",
+      "q": "Why can prolonged iodine deficiency lead to enlargement of the thyroid gland?",
+      "o": [
+        "Iodine is required for synthesis of thyroid hormones, and deficiency can stimulate thyroid enlargement",
+        "Iodine directly converts glucose into insulin",
+        "Iodine is the main structural component of red blood cells",
+        "Iodine prevents the kidney from filtering urea"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The thyroid gland requires iodine to synthesise thyroxine and related thyroid hormones. When iodine intake is insufficient, hormone production falls and compensatory stimulation can enlarge the gland, producing goitre.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Science",
+        "Iodine and thyroid hormone",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Official Online Textbooks, Biology and Science.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Official Online Textbooks, Biology and Science",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9208,
+      "cat": "Science",
+      "topic": "Synaptic transmission",
+      "q": "When a nerve impulse reaches the terminal of a neuron, how is the signal commonly transmitted across a chemical synapse to the next cell?",
+      "o": [
+        "By a continuous strand of cytoplasm joining the neurons",
+        "By neurotransmitter molecules released into the synaptic cleft",
+        "By red blood cells carrying the impulse",
+        "By changing the DNA sequence of the next neuron"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "At a chemical synapse, the arriving impulse triggers release of neurotransmitter molecules from the presynaptic terminal. These chemicals diffuse across the synaptic cleft and bind to receptors on the next cell, initiating a response.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Science",
+        "Synaptic transmission",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Official Online Textbooks, Biology and Science.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Official Online Textbooks, Biology and Science",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9209,
+      "cat": "Science",
+      "topic": "Auxin and phototropism",
+      "q": "A young shoot bends towards a window. Which explanation best describes the role of auxin in this response?",
+      "o": [
+        "Auxin accumulates on the illuminated side and stops all growth",
+        "Auxin accumulates more on the shaded side, causing greater cell elongation there",
+        "Auxin destroys the shoot tip on the shaded side",
+        "Auxin converts the shoot into a root"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "In a shoot exposed to directional light, auxin becomes more concentrated on the shaded side. Cells there elongate more than cells on the illuminated side, causing the shoot to bend towards the light; this is positive phototropism.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Science",
+        "Auxin and phototropism",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Official Online Textbooks, Biology and Science.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Official Online Textbooks, Biology and Science",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9210,
+      "cat": "Science",
+      "topic": "Bile and fat digestion",
+      "q": "Which statement correctly describes the role of bile in digestion?",
+      "o": [
+        "Bile contains the main enzyme that breaks proteins into amino acids",
+        "Bile emulsifies large fat globules into smaller droplets but is not itself a digestive enzyme",
+        "Bile converts starch directly into glucose",
+        "Bile is produced by the pancreas and stored in the kidney"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Bile is produced by the liver and stored in the gall bladder. Bile salts emulsify large fat globules into smaller droplets, increasing the surface area available to lipase; bile itself is not a digestive enzyme.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Science",
+        "Bile and fat digestion",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Official Online Textbooks, Biology and Science.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Official Online Textbooks, Biology and Science",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9211,
+      "cat": "Environment",
+      "topic": "Blue carbon ecosystems",
+      "q": "Which group of coastal ecosystems is commonly associated with the term 'blue carbon'?",
+      "o": [
+        "Deserts, alpine meadows and tundra",
+        "Mangroves, tidal marshes and seagrass meadows",
+        "Pine plantations, grasslands and savannas",
+        "Glaciers, rocky cliffs and sand dunes"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Blue carbon refers to biologically driven carbon storage in coastal and marine systems, especially rooted vegetation such as mangroves, tidal marshes and seagrasses. Their biomass and sediments can store substantial carbon over long periods.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Environment",
+        "Blue carbon ecosystems",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. IPCC — Sixth Assessment Report, Synthesis Report Glossary.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "IPCC — Sixth Assessment Report, Synthesis Report Glossary",
+      "sourceURL": "https://www.ipcc.ch/report/ar6/syr/annexes-and-index/",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9212,
+      "cat": "Environment",
+      "topic": "Climate mitigation versus adaptation",
+      "q": "A town builds flood-resilient drainage and raises critical facilities to cope with more intense rainfall. This is primarily an example of which climate response?",
+      "o": [
+        "Mitigation, because it directly removes carbon dioxide",
+        "Adaptation, because it adjusts to expected climate impacts",
+        "Carbon accounting, because it measures emissions",
+        "Geoengineering, because it changes the Earth's orbit"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Climate adaptation involves adjustment to actual or expected climate and its effects to moderate harm or exploit opportunities. Flood-resilient drainage responds to the consequences of climate change; mitigation instead reduces greenhouse-gas emissions or enhances sinks.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Environment",
+        "Climate mitigation versus adaptation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. IPCC — Sixth Assessment Report, Synthesis Report Glossary.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "IPCC — Sixth Assessment Report, Synthesis Report Glossary",
+      "sourceURL": "https://www.ipcc.ch/report/ar6/syr/annexes-and-index/",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9213,
+      "cat": "Environment",
+      "topic": "Bioaccumulation and biomagnification",
+      "q": "A persistent pollutant becomes more concentrated in organisms at successively higher trophic levels of a food chain. What is this process called?",
+      "o": [
+        "Biodegradation",
+        "Biomagnification",
+        "Nitrogen fixation",
+        "Primary succession"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Biomagnification describes an increase in pollutant concentration at higher trophic levels. Bioaccumulation is different: it refers to the build-up of a substance within an individual organism over time from its surroundings and food.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Environment",
+        "Bioaccumulation and biomagnification",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Official Online Textbooks, Biology and Science.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Official Online Textbooks, Biology and Science",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9214,
+      "cat": "Environment",
+      "topic": "Regulating ecosystem services",
+      "q": "Which of the following is best classified as a regulating ecosystem service rather than a provisioning service?",
+      "o": [
+        "Harvesting timber for construction",
+        "Collecting edible fruits from a forest",
+        "Wetlands reducing flood peaks and improving water quality",
+        "Gathering medicinal plants for household use"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Regulating services arise from the regulation of ecosystem processes, such as flood control, climate regulation, disease regulation and water purification. Timber, fruit and medicinal plants are examples of provisioning benefits obtained directly from ecosystems.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Environment",
+        "Regulating ecosystem services",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. IPCC — AR6 Working Group II Glossary.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "IPCC — AR6 Working Group II Glossary",
+      "sourceURL": "https://www.ipcc.ch/report/ar6/wg2/chapter/annex-ii/",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9215,
+      "cat": "Computer",
+      "topic": "Infrastructure as a Service",
+      "q": "A department rents virtual machines, storage and networking from a cloud provider but installs and manages its own operating system and applications. Which cloud service model is this?",
+      "o": [
+        "Software as a Service",
+        "Platform as a Service",
+        "Infrastructure as a Service",
+        "Desktop publishing as a Service"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Infrastructure as a Service supplies virtualised computing resources such as processing, storage and networking. The customer generally manages the operating system and deployed applications, while the provider manages the underlying physical infrastructure.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Computer",
+        "Infrastructure as a Service",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NIELIT — Course on Computer Concepts Plus (CCC Plus).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIELIT — Course on Computer Concepts Plus (CCC Plus)",
+      "sourceURL": "https://www.nielit.gov.in/agartala/agartala/calicut/content/course-computer-concepts-plus-ccc-plus",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9216,
+      "cat": "Computer",
+      "topic": "Pivot table purpose",
+      "q": "A clerk has thousands of transaction rows and wants a quick summary of total collections by tax circle and month without changing the original records. Which spreadsheet feature is most suitable?",
+      "o": [
+        "Mail merge",
+        "Pivot table",
+        "WordArt",
+        "Track Changes"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A pivot table groups and summarises tabular data by selected fields. It can aggregate values such as totals or counts by tax circle and month while leaving the underlying source records intact.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Computer",
+        "Pivot table purpose",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NIELIT — Course on Computer Concepts Plus (CCC Plus).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIELIT — Course on Computer Concepts Plus (CCC Plus)",
+      "sourceURL": "https://www.nielit.gov.in/agartala/agartala/calicut/content/course-computer-concepts-plus-ccc-plus",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9217,
+      "cat": "Computer",
+      "topic": "Spreadsheet data validation",
+      "q": "A spreadsheet cell should accept only dates within a specified financial year. Which feature is designed to restrict the type or range of values users may enter?",
+      "o": [
+        "Data validation",
+        "Spell check",
+        "Page break preview",
+        "Slide transition"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Data validation applies rules to cell entries, such as allowing only dates within a defined range or numbers within specified limits. It helps prevent invalid input at the point of entry rather than merely highlighting errors afterwards.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Computer",
+        "Spreadsheet data validation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NIELIT — Course on Computer Concepts Plus (CCC Plus).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIELIT — Course on Computer Concepts Plus (CCC Plus)",
+      "sourceURL": "https://www.nielit.gov.in/agartala/agartala/calicut/content/course-computer-concepts-plus-ccc-plus",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9218,
+      "cat": "Computer",
+      "topic": "Digital certificate authority",
+      "q": "In a public-key infrastructure, what is the principal role of a trusted Certifying Authority when issuing a digital certificate?",
+      "o": [
+        "To store every user's private key",
+        "To bind a verified identity to a public key in a digitally signed certificate",
+        "To guarantee that a document contains no spelling errors",
+        "To encrypt every file on the user's computer automatically"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A Certifying Authority verifies identity according to its certificate policy and digitally signs a certificate that binds the subject's identity to a public key. The private key remains with its holder; the CA does not need to take possession of it.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Computer",
+        "Digital certificate authority",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NIELIT — Course on Computer Concepts Plus (CCC Plus).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIELIT — Course on Computer Concepts Plus (CCC Plus)",
+      "sourceURL": "https://www.nielit.gov.in/agartala/agartala/calicut/content/course-computer-concepts-plus-ccc-plus",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9219,
+      "cat": "Arithmetic",
+      "topic": "Volume of a frustum",
+      "q": "A right circular cone is cut parallel to its base to form a frustum with larger radius 6 cm, smaller radius 3 cm and height 4 cm. What is its volume?",
+      "o": [
+        "42π cm³",
+        "63π cm³",
+        "84π cm³",
+        "108π cm³"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The volume of a conical frustum is V = (πh/3)(R² + r² + Rr). Substituting h = 4, R = 6 and r = 3 gives (4π/3)(36 + 9 + 18) = (4π/3) × 63 = 84π cm³.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Volume of a frustum",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original Practice — author-created problem for MPSC Smart Study Hub.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original Practice — author-created problem for MPSC Smart Study Hub",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9220,
+      "cat": "Arithmetic",
+      "topic": "Combinations with at least one woman",
+      "q": "A committee of three is selected from five men and four women. How many different committees contain at least one woman?",
+      "o": [
+        "54",
+        "64",
+        "74",
+        "84"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "There are nine people in total, so unrestricted committees number C(9,3) = 84. Committees containing no woman are all-men committees: C(5,3) = 10. Therefore committees with at least one woman = 84 − 10 = 74.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Combinations with at least one woman",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original Practice — author-created problem for MPSC Smart Study Hub.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original Practice — author-created problem for MPSC Smart Study Hub",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9221,
+      "cat": "Reasoning",
+      "topic": "Ordering with immediate adjacency",
+      "q": "Five files A, B, C, D and E are arranged in a row. A is before B, C is after A but before B, B is immediately before D, and E is after D. Which file occupies the middle position?",
+      "o": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The constraints force A before C before B, followed immediately by D, with E after D. The only possible order is A–C–B–D–E, so C occupies the third, or middle, position.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Reasoning",
+        "Ordering with immediate adjacency",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original Practice — author-created problem for MPSC Smart Study Hub.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original Practice — author-created problem for MPSC Smart Study Hub",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9222,
+      "cat": "Reasoning",
+      "topic": "Truth statement consistency",
+      "q": "Three clerks A, B and C each make one statement about who filed first. A says, 'B filed first.' B says, 'I did not file first.' C says, 'A did not file first.' If exactly one statement is true, who filed first?",
+      "o": [
+        "A",
+        "B",
+        "C",
+        "Cannot be determined"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "If A filed first, A's statement is false, B's statement is true and C's statement is false: exactly one statement is true. If B filed first, A and C are both true; if C filed first, B and C are both true. Therefore A must have filed first.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Reasoning",
+        "Truth statement consistency",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original Practice — author-created problem for MPSC Smart Study Hub.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original Practice — author-created problem for MPSC Smart Study Hub",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9223,
+      "cat": "English",
+      "topic": "Subjunctive mood after recommendation",
+      "q": "Choose the grammatically correct completion: 'The review committee recommended that the disputed entry ___ checked again before approval.'",
+      "o": [
+        "is",
+        "was",
+        "be",
+        "being"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "After verbs such as recommend, insist or demand, formal English commonly uses the mandative subjunctive: the base form of the verb. Therefore 'be checked' is correct, even though the subject is singular and the sentence refers to a future action.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Subjunctive mood after recommendation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original Practice — author-created problem for MPSC Smart Study Hub.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original Practice — author-created problem for MPSC Smart Study Hub",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    },
+    {
+      "id": 9224,
+      "cat": "English",
+      "topic": "Parallel structure in a series",
+      "q": "Which sentence maintains parallel grammatical structure?",
+      "o": [
+        "The clerk was asked to record the date, verifying the amount and the receipt was attached.",
+        "The clerk was asked to record the date, verify the amount and attach the receipt.",
+        "The clerk was asked recording the date, to verify the amount and attaching the receipt.",
+        "The clerk was asked to record the date, the amount was verified and attaching the receipt."
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The three actions should appear in the same grammatical form after 'to': to record, verify and attach. The second option keeps the verbs parallel. The other options mix infinitives, participles and full clauses, making the series uneven.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Parallel structure in a series",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original Practice — author-created problem for MPSC Smart Study Hub.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original Practice — author-created problem for MPSC Smart Study Hub",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-21",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-21"
+    }
+  ]
+}
