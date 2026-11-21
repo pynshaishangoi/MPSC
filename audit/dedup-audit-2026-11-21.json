@@ -82,9 +82,38 @@
       "Reserve Bank of India",
       "NCERT",
       "IPCC",
-      "NIELIT"
+      "NIELIT",
+      "Current CGST Act section texts for Sections 76, 77, 78, 85, 86, 87, 88, 90 and 93, reviewed 15 October–17 November 2026",
+      "Official Gazette Notification No. 03/2026–Central Tax, 26 October 2026"
     ],
-    "legalNote": "GST items are for examination study; operational decisions should be checked against later Gazette notifications."
+    "legalNote": "GST items are for examination study; operational decisions should be checked against later Gazette notifications.",
+    "postRunLegalReview": {
+      "verifiedDate": "2026-11-21",
+      "sectionsReviewed": [
+        76,
+        77,
+        78,
+        85,
+        86,
+        87,
+        88,
+        90,
+        93
+      ],
+      "result": "All nine statutory provisions used in GST questions 9181–9189 remain accurate in the current section texts reviewed. Finance Act 2026 Sections 153–155, effective 1 November 2026, amend CGST Sections 15, 34 and 54 and do not alter the nine provisions tested.",
+      "sourceURLs": [
+        "https://indiacode.ecourtsindia.com/cgst-act/section/76/",
+        "https://indiacode.ecourtsindia.com/cgst-act/section/77/",
+        "https://indiacode.ecourtsindia.com/cgst-act/section/78/",
+        "https://indiacode.ecourtsindia.com/cgst-act/section/85/",
+        "https://indiacode.ecourtsindia.com/cgst-act/section/86/",
+        "https://indiacode.ecourtsindia.com/cgst-act/section/87/",
+        "https://indiacode.ecourtsindia.com/cgst-act/section/88/",
+        "https://indiacode.ecourtsindia.com/cgst-act/section/90/",
+        "https://indiacode.ecourtsindia.com/cgst-act/section/93/",
+        "https://egazette.gov.in/WriteReadData/2026/277441.pdf"
+      ]
+    }
   },
   "validation": {
     "schema": true,
@@ -108,5 +137,33 @@
     "pagesBuildAndDeployment": 44867679068,
     "pagesBuildConclusion": "success",
     "liveContentVerified": false
+  },
+  "postMergeCrossCorpusReview": {
+    "verifiedDate": "2026-11-21",
+    "newQuestionId": 9221,
+    "optionOnlyFingerprintMatches": 2,
+    "matches": [
+      {
+        "pyqFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
+        "questionNumber": 126
+      },
+      {
+        "pyqFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
+        "questionNumber": 127
+      }
+    ],
+    "optionSet": "A, B, C, D",
+    "sourceFile": "20052023LDA(MPSC)23.PDF",
+    "sourcePage": 10,
+    "sourceImageVerified": true,
+    "reasoningComparison": {
+      "originalPracticeSkill": "Linear ordering of five distinct files under before/after and immediate-adjacency constraints",
+      "officialPyq126Skill": "Coordinate direction/distance reasoning",
+      "officialPyq127Skill": "Coordinate direction reasoning",
+      "normalizedStemHashMatches": 0,
+      "conceptHashMatches": 0
+    },
+    "decision": "Not duplicates. The two fingerprint matches arise only from generic A/B/C/D answer labels; the source image confirms different stems and different reasoning objectives.",
+    "unresolvedSemanticCollisions": 0
   }
 }
