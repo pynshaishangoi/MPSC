@@ -1182,17 +1182,17 @@
     {
       "id": 9205,
       "cat": "Meghalaya GK",
-      "topic": "Shillong — former capital of Assam",
-      "q": "Before Meghalaya became a full-fledged State in January 1972, Shillong had served as the capital of which province or State?",
+      "topic": "Air connectivity — Umroi Airport",
+      "q": "According to the Meghalaya Investment Promotion Authority's State Profile, at which locality is the airport serving Shillong situated, approximately 30 km from the city?",
       "o": [
-        "Assam",
-        "Mizoram",
-        "Sikkim",
-        "Arunachal Pradesh"
+        "Umroi",
+        "Nongpoh",
+        "Mairang",
+        "Sohra"
       ],
       "a": 0,
       "answerIndex": 0,
-      "e": "The Meghalaya Government profile records that Shillong became the capital of Assam in 1874 and continued in that role until January 1972, following the formation of Meghalaya. This is a historical-geography fact, not the date of Meghalaya's autonomous-state status.",
+      "e": "The Meghalaya Investment Promotion Authority lists the airport at Umroi, approximately 30 km from Shillong. The profile separately notes Guwahati airport as a farther alternative, so Umroi is the locality within Meghalaya serving Shillong.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -1201,14 +1201,14 @@
       ],
       "tags": [
         "Meghalaya GK",
-        "Shillong — former capital of Assam",
+        "Air connectivity — Umroi Airport",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — About Meghalaya.",
+      "source": "Original Practice — not an official PYQ. Meghalaya Investment Promotion Authority, State Profile — Connectivity.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Meghalaya Government Portal — About Meghalaya",
-      "sourceURL": "https://meghalaya.gov.in/index.php/22429-sq-km",
+      "sourceName": "Meghalaya Investment Promotion Authority — State Profile, Connectivity",
+      "sourceURL": "https://invest.meghalaya.gov.in/stateprofile.aspx",
       "sourceVerifiedDate": "2026-11-21",
       "verificationStatus": "verified_primary_source_2026-11-21"
     },
