@@ -582,7 +582,7 @@
       "id": 9241,
       "cat": "English",
       "topic": "Had better — bare infinitive",
-      "q": "Choose the grammatically correct sentence.",
+      "q": "Which option correctly completes this sentence using the expression 'had better': 'The clerk ___ the file today.'",
       "o": [
         "The clerk had better to submit the file today.",
         "The clerk had better submits the file today.",
@@ -650,7 +650,7 @@
       "id": 9243,
       "cat": "English",
       "topic": "Relative pronoun in object position",
-      "q": "Choose the correct sentence for formal standard English.",
+      "q": "In formal written English, which relative pronoun correctly functions as the object of 'invite' in the question about the committee?",
       "o": [
         "Whom did the committee invite to the meeting?",
         "Who did the committee invite to the meeting?",
@@ -2628,11 +2628,11 @@
         "Operating systems — deadlock conditions",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NIELIT — Course on Computer Concepts.",
+      "source": "Original Practice — not an official PYQ. NIELIT — Digital Literacy Courses and Course on Computer Concepts.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NIELIT — Course on Computer Concepts",
-      "sourceURL": "https://www.nielit.gov.in/calicut/calicut/content/pmkvy-ccc",
+      "sourceName": "NIELIT — Digital Literacy Courses and Course on Computer Concepts",
+      "sourceURL": "https://www.nielit.gov.in/calicut/content/digital-literacy-courses",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2662,11 +2662,11 @@
         "Database normalisation — first normal form",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NIELIT — Course on Computer Concepts.",
+      "source": "Original Practice — not an official PYQ. NIELIT — Digital Literacy Courses and Course on Computer Concepts.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NIELIT — Course on Computer Concepts",
-      "sourceURL": "https://www.nielit.gov.in/calicut/calicut/content/pmkvy-ccc",
+      "sourceName": "NIELIT — Digital Literacy Courses and Course on Computer Concepts",
+      "sourceURL": "https://www.nielit.gov.in/calicut/content/digital-literacy-courses",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2696,11 +2696,11 @@
         "SQL — WHERE versus HAVING",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NIELIT — Course on Computer Concepts.",
+      "source": "Original Practice — not an official PYQ. NIELIT — Digital Literacy Courses and Course on Computer Concepts.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NIELIT — Course on Computer Concepts",
-      "sourceURL": "https://www.nielit.gov.in/calicut/calicut/content/pmkvy-ccc",
+      "sourceName": "NIELIT — Digital Literacy Courses and Course on Computer Concepts",
+      "sourceURL": "https://www.nielit.gov.in/calicut/content/digital-literacy-courses",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2730,11 +2730,11 @@
         "Data backup — incremental backup",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NIELIT — Course on Computer Concepts.",
+      "source": "Original Practice — not an official PYQ. NIELIT — Digital Literacy Courses and Course on Computer Concepts.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NIELIT — Course on Computer Concepts",
-      "sourceURL": "https://www.nielit.gov.in/calicut/calicut/content/pmkvy-ccc",
+      "sourceName": "NIELIT — Digital Literacy Courses and Course on Computer Concepts",
+      "sourceURL": "https://www.nielit.gov.in/calicut/content/digital-literacy-courses",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2764,11 +2764,11 @@
         "Networking — IPv4 address length",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NIELIT — Course on Computer Concepts.",
+      "source": "Original Practice — not an official PYQ. NIELIT — Digital Literacy Courses and Course on Computer Concepts.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NIELIT — Course on Computer Concepts",
-      "sourceURL": "https://www.nielit.gov.in/calicut/calicut/content/pmkvy-ccc",
+      "sourceName": "NIELIT — Digital Literacy Courses and Course on Computer Concepts",
+      "sourceURL": "https://www.nielit.gov.in/calicut/content/digital-literacy-courses",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2798,11 +2798,11 @@
         "Email — BCC field",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NIELIT — Course on Computer Concepts.",
+      "source": "Original Practice — not an official PYQ. NIELIT — Digital Literacy Courses and Course on Computer Concepts.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NIELIT — Course on Computer Concepts",
-      "sourceURL": "https://www.nielit.gov.in/calicut/calicut/content/pmkvy-ccc",
+      "sourceName": "NIELIT — Digital Literacy Courses and Course on Computer Concepts",
+      "sourceURL": "https://www.nielit.gov.in/calicut/content/digital-literacy-courses",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
