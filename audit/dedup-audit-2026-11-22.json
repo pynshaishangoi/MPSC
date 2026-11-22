@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "target": 90,
-  "draftedCandidates": 104,
+  "draftedCandidates": 105,
   "validatedUniqueQuestions": 90,
   "rejectedCandidates": [
     {
@@ -87,12 +87,18 @@
       "topic": "Drainage pattern — trellis",
       "reason": "Removed after pairwise semantic review: it tested the same drainage-pattern identification skill and learning objective as question 9272, with only the tributary geometry/pattern label changed. Replaced with a distinct crust–mantle seismic-boundary concept.",
       "collisionReference": "question 9272 in the same candidate batch"
+    },
+    {
+      "candidateId": "draft-9235-municipality-duration",
+      "topic": "Municipalities — Article 243U five-year term",
+      "reason": "Removed after post-merge cross-bank semantic review: it tested the same recall skill and learning objective as active question 9002, which asks for the five-year normal term of an elected District Council member. The institutions differ, but both items test the same local-governing-body tenure fact. Replaced with Article 243ZC's exclusion of Scheduled and tribal areas from Part IX-A.",
+      "collisionReference": "active question 9002"
     }
   ],
   "collisions": {
     "candidateExactStemCollisions": 0,
     "candidateOptionSetCollisions": 0,
-    "nearSemanticCandidatesRejected": 14,
+    "nearSemanticCandidatesRejected": 15,
     "withinBatchNearPairs": 2,
     "finalBatchExactStemCollisions": 0,
     "finalBatchOptionSetCollisions": 0,
@@ -100,39 +106,108 @@
     "unresolvedSemanticCollisions": 0,
     "finalBatchExactStemMatches": 0,
     "finalBatchOptionSetMatches": 0,
-    "optionOnlyFingerprintMatchesReviewed": 4,
+    "optionOnlyFingerprintMatchesReviewed": 6,
     "optionOnlyFingerprintMatchDetails": [
       {
         "candidateId": 9226,
+        "referenceType": "active",
+        "referenceFile": "index.html",
+        "referenceQuestionNumber": 6174,
+        "referenceStem": "What is the least number to add to 563 to make it divisible by 9?",
+        "referenceOptions": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "reason": "Generic numeric option set 1, 2, 3, 4; the active question tests divisibility by 9, while Q9226 tests Meghalaya's Lok Sabha representation.",
+        "reviewedAsNonDuplicate": true
+      },
+      {
+        "candidateId": 9242,
+        "referenceType": "active",
+        "referenceFile": "index.html",
+        "referenceQuestionNumber": 9124,
+        "referenceStem": "Choose the correct completion: “Despite ___ the figures twice, the clerk overlooked the mismatch.”",
+        "referenceOptions": [
+          "checked",
+          "checking",
+          "to check",
+          "checks"
+        ],
+        "reason": "Same answer-option set, but the active question tests a gerund after the preposition 'despite'; Q9242 tests 'would rather' followed by a clause with a different subject.",
+        "reviewedAsNonDuplicate": true
+      },
+      {
+        "candidateId": 9226,
+        "referenceType": "official_pyq",
         "referenceFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
         "referenceQuestionNumber": 117,
         "referenceStem": "If 3x = 8, what is the value of x?",
+        "referenceOptions": [
+          "−1",
+          "3",
+          "4",
+          "2"
+        ],
         "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation.",
         "reviewedAsNonDuplicate": true
       },
       {
         "candidateId": 9230,
+        "referenceType": "official_pyq",
         "referenceFile": "pyq-papers/assistant-employment-officer-2025-series-i.json",
         "referenceQuestionNumber": 112,
         "referenceStem": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
+        "referenceOptions": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
         "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration.",
         "reviewedAsNonDuplicate": true
       },
       {
         "candidateId": 9230,
+        "referenceType": "official_pyq",
         "referenceFile": "pyq-papers/inspector-drugs-2019-series-i.json",
         "referenceQuestionNumber": 94,
         "referenceStem": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
+        "referenceOptions": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
         "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count.",
         "reviewedAsNonDuplicate": true
       },
       {
         "candidateId": 9230,
+        "referenceType": "official_pyq",
         "referenceFile": "pyq-papers/investigator-housing-2024-series-i.json",
         "referenceQuestionNumber": 145,
         "referenceStem": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
+        "referenceOptions": [
+          "11",
+          "12",
+          "10",
+          "13"
+        ],
         "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration.",
         "reviewedAsNonDuplicate": true
+      }
+    ],
+    "existingBankNearDuplicateCandidatesRejected": 1,
+    "existingBankNearDuplicateDetails": [
+      {
+        "candidateId": 9235,
+        "referenceType": "active",
+        "referenceFile": "index.html",
+        "referenceQuestionNumber": 9002,
+        "referenceStem": "Under paragraph 2(6) of the Sixth Schedule, what is the normal term of an elected District Council member, unless the Council is sooner dissolved?",
+        "reason": "Same five-year tenure recall and local-governing-body term learning objective as the candidate's Municipality-duration question; rejected to avoid an institution-name-only variant."
       }
     ]
   },
@@ -217,7 +292,8 @@
     "stablePrimarySources": [
       "Government of Meghalaya — current Districts directory",
       "Eastern West Khasi Hills District Administration — About District",
-      "U.S. Geological Survey — Earthquake Hazards Program glossary"
+      "U.S. Geological Survey — Earthquake Hazards Program glossary",
+      "India Code — Constitution of India, Article 243ZC"
     ],
     "currentMeghalayaReferences": [
       {
@@ -251,6 +327,18 @@
       {
         "questionId": 9273,
         "description": "Replaced the trellis drainage-pattern near-variant with the Moho crust–mantle boundary."
+      },
+      {
+        "questionId": 9235,
+        "description": "Replaced the five-year Municipality term item after identifying a same-learning-objective overlap with active Q9002; new item tests Article 243ZC and Scheduled/tribal-area exclusion."
+      }
+    ],
+    "constitutionalReferences": [
+      {
+        "source": "India Code — Constitution of India, Article 243ZC",
+        "url": "https://www.indiacode.nic.in/bitstream/123456789/19150/1/constitution_of_india.pdf?form=MG0AV3",
+        "verifiedDate": "2026-11-22",
+        "fact": "Article 243ZC(1) excludes Scheduled Areas under Article 244(1) and tribal areas under Article 244(2) from Part IX-A; clause (3) permits Parliament to extend the provisions by law."
       }
     ]
   },
@@ -322,7 +410,9 @@
     "Post-merge semantic review identified two additional same-skill candidate pairs; the rejected/replaced count is 14 rather than the original 12, while the accepted batch remains 90.",
     "Q9227 was replaced with the distinct Mairang/Mawthadraishan-to-Shillong Parliamentary Constituency mapping; Q9230 was corrected to 12 districts from the current Government directory; Q9273 was replaced with the Moho crust–mantle boundary.",
     "Four option-only fingerprint hits were reviewed and confirmed non-duplicates: one negative-sign normalization artifact and three generic 10–13 option sets. No matching stem or semantic learning objective was found.",
-    "Follow-up content corrections are in PR #117; the next daily target is held at 90 until that correction PR passes and merges."
+    "Follow-up content corrections are in PR #117; the next daily target is held at 90 until that correction PR passes and merges.",
+    "A third same-learning-objective overlap was found in the Municipality five-year term item versus active Q9002 on District Council member tenure; Q9235 was replaced with a distinct Article 243ZC applicability question.",
+    "Six option-only fingerprint hits were reviewed and confirmed non-duplicates; the Q9235/Q9002 overlap is separately recorded as a semantic rejection."
   ],
   "liveDeploymentVerified": false,
   "deploymentStatus": "unverified",
@@ -339,7 +429,8 @@
       9273,
       9297,
       9304,
-      9309
+      9309,
+      9235
     ],
     "finalBatchCount": 90,
     "finalExactStemMatches": 0,
@@ -350,35 +441,104 @@
     "optionOnlyFingerprintMatchesReviewed": [
       {
         "candidateId": 9226,
+        "referenceType": "active",
+        "referenceFile": "index.html",
+        "referenceQuestionNumber": 6174,
+        "referenceStem": "What is the least number to add to 563 to make it divisible by 9?",
+        "referenceOptions": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "reason": "Generic numeric option set 1, 2, 3, 4; the active question tests divisibility by 9, while Q9226 tests Meghalaya's Lok Sabha representation.",
+        "reviewedAsNonDuplicate": true
+      },
+      {
+        "candidateId": 9242,
+        "referenceType": "active",
+        "referenceFile": "index.html",
+        "referenceQuestionNumber": 9124,
+        "referenceStem": "Choose the correct completion: “Despite ___ the figures twice, the clerk overlooked the mismatch.”",
+        "referenceOptions": [
+          "checked",
+          "checking",
+          "to check",
+          "checks"
+        ],
+        "reason": "Same answer-option set, but the active question tests a gerund after the preposition 'despite'; Q9242 tests 'would rather' followed by a clause with a different subject.",
+        "reviewedAsNonDuplicate": true
+      },
+      {
+        "candidateId": 9226,
+        "referenceType": "official_pyq",
         "referenceFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
         "referenceQuestionNumber": 117,
         "referenceStem": "If 3x = 8, what is the value of x?",
+        "referenceOptions": [
+          "−1",
+          "3",
+          "4",
+          "2"
+        ],
         "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation.",
         "reviewedAsNonDuplicate": true
       },
       {
         "candidateId": 9230,
+        "referenceType": "official_pyq",
         "referenceFile": "pyq-papers/assistant-employment-officer-2025-series-i.json",
         "referenceQuestionNumber": 112,
         "referenceStem": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
+        "referenceOptions": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
         "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration.",
         "reviewedAsNonDuplicate": true
       },
       {
         "candidateId": 9230,
+        "referenceType": "official_pyq",
         "referenceFile": "pyq-papers/inspector-drugs-2019-series-i.json",
         "referenceQuestionNumber": 94,
         "referenceStem": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
+        "referenceOptions": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
         "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count.",
         "reviewedAsNonDuplicate": true
       },
       {
         "candidateId": 9230,
+        "referenceType": "official_pyq",
         "referenceFile": "pyq-papers/investigator-housing-2024-series-i.json",
         "referenceQuestionNumber": 145,
         "referenceStem": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
+        "referenceOptions": [
+          "11",
+          "12",
+          "10",
+          "13"
+        ],
         "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration.",
         "reviewedAsNonDuplicate": true
+      }
+    ],
+    "existingBankNearDuplicateCandidatesRejected": 1,
+    "existingBankNearDuplicateDetails": [
+      {
+        "candidateId": 9235,
+        "referenceType": "active",
+        "referenceFile": "index.html",
+        "referenceQuestionNumber": 9002,
+        "referenceStem": "Under paragraph 2(6) of the Sixth Schedule, what is the normal term of an elected District Council member, unless the Council is sooner dissolved?",
+        "reason": "Same five-year tenure recall and local-governing-body term learning objective as the candidate's Municipality-duration question; rejected to avoid an institution-name-only variant."
       }
     ]
   },
