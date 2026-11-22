@@ -82,7 +82,7 @@
     "gatePassed": false,
     "nextDailyTarget": 90,
     "blockers": [
-      "PR #115 passed repository validation but is not yet merged; the 90 questions are not counted as published additions.",
+      "PR #115 passed repository validation but remains unmerged; the 90 questions are not counted as published additions.",
       "Live deployment remains unverified until the live page serves build marker 2026-11-22-original-practice-90."
     ],
     "officialPyqFilesFetched": 18,
