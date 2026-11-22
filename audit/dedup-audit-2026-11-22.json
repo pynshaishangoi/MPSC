@@ -227,8 +227,10 @@
     "unresolvedSemanticCollisions": 0
   },
   "notes": [
-    "PR #115 repository validation passed on 22 November 2026; questions remain unmerged until the PR merge is confirmed.",
-    "PR #115 merged at 2347226f2f5e91ec481ae05a95ebc3b8d9140893. Repository validation passed; post-merge archive and canonical parity are verified. Live Pages content remains unverified."
+    "PR #115 merged at 2347226f2f5e91ec481ae05a95ebc3b8d9140893.",
+    "Repository validation passed in GitHub Actions run 44985252764; post-merge archive and canonical parity are verified.",
+    "Live GitHub Pages content remains unverified until the live site can be fetched and confirmed to serve build marker 2026-11-22-original-practice-90.",
+    "No private uploaded source files, personal data, private correspondence or copyrighted PYQ question-bank text were published."
   ],
   "liveDeploymentVerified": false,
   "deploymentStatus": "unverified"
