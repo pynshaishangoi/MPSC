@@ -5,8 +5,8 @@
   "title": "MPSC Original Practice Batch — 22 November 2026",
   "questionCount": 90,
   "questionIdRange": "9225-9314",
-  "candidateCount": 102,
-  "rejectedCandidateCount": 12,
+  "candidateCount": 105,
+  "rejectedCandidateCount": 15,
   "subjects": {
     "Meghalaya GK": 6,
     "Polity": 10,
@@ -30,7 +30,7 @@
   "sourcePolicy": "All items are newly authored practice questions. No official PYQ wording, copyrighted question-bank text or private uploaded source material is reproduced.",
   "deduplication": {
     "status": "passed_full_cross_corpus_scan",
-    "method": "Exact FNV-1a normalized-stem and sorted-option fingerprints; punctuation/case/diacritic-insensitive normalization; option-insensitive comparison; token-Jaccard screening against all official PYQ text; manual semantic review of closest matches and learning objectives; within-batch pairwise scan.",
+    "method": "Exact FNV-1a normalized-stem and sorted-option fingerprints; punctuation/case/diacritic-insensitive normalization; option-insensitive comparisons; token-Jaccard screening against all official PYQ text; pairwise within-batch screening; manual semantic review of closest matches, topic overlap, calculations and learning objectives. Option-only fingerprint hits were separately inspected and are not counted as duplicate questions without a matching stem or semantic concept.",
     "comparisonCorpusBeforeRun": {
       "canonicalActiveQuestions": 1097,
       "officialPyqFiles": 18,
@@ -52,18 +52,129 @@
     },
     "exactStemCollisions": 0,
     "optionSetCollisions": 0,
-    "nearSemanticCandidatesRejected": 12,
-    "withinBatchNearDuplicatePairs": 0,
+    "nearSemanticCandidatesRejected": 15,
+    "withinBatchNearDuplicatePairs": 2,
     "finalBatchExactStemCollisions": 0,
     "finalBatchOptionSetCollisions": 0,
     "finalBatchNearPairs": 0,
-    "unresolvedSemanticCollisions": 0
+    "unresolvedSemanticCollisions": 0,
+    "optionOnlyFingerprintMatchesReviewed": 6,
+    "optionOnlyFingerprintMatchDetails": [
+      {
+        "candidateId": 9226,
+        "referenceType": "active",
+        "referenceFile": "index.html",
+        "referenceQuestionNumber": 6174,
+        "referenceStem": "What is the least number to add to 563 to make it divisible by 9?",
+        "referenceOptions": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "reason": "Generic numeric option set 1, 2, 3, 4; the active question tests divisibility by 9, while Q9226 tests Meghalaya's Lok Sabha representation.",
+        "reviewedAsNonDuplicate": true
+      },
+      {
+        "candidateId": 9242,
+        "referenceType": "active",
+        "referenceFile": "index.html",
+        "referenceQuestionNumber": 9124,
+        "referenceStem": "Choose the correct completion: “Despite ___ the figures twice, the clerk overlooked the mismatch.”",
+        "referenceOptions": [
+          "checked",
+          "checking",
+          "to check",
+          "checks"
+        ],
+        "reason": "Same answer-option set, but the active question tests a gerund after the preposition 'despite'; Q9242 tests 'would rather' followed by a clause with a different subject.",
+        "reviewedAsNonDuplicate": true
+      },
+      {
+        "candidateId": 9226,
+        "referenceType": "official_pyq",
+        "referenceFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
+        "referenceQuestionNumber": 117,
+        "referenceStem": "If 3x = 8, what is the value of x?",
+        "referenceOptions": [
+          "−1",
+          "3",
+          "4",
+          "2"
+        ],
+        "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation.",
+        "reviewedAsNonDuplicate": true
+      },
+      {
+        "candidateId": 9230,
+        "referenceType": "official_pyq",
+        "referenceFile": "pyq-papers/assistant-employment-officer-2025-series-i.json",
+        "referenceQuestionNumber": 112,
+        "referenceStem": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
+        "referenceOptions": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration.",
+        "reviewedAsNonDuplicate": true
+      },
+      {
+        "candidateId": 9230,
+        "referenceType": "official_pyq",
+        "referenceFile": "pyq-papers/inspector-drugs-2019-series-i.json",
+        "referenceQuestionNumber": 94,
+        "referenceStem": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
+        "referenceOptions": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count.",
+        "reviewedAsNonDuplicate": true
+      },
+      {
+        "candidateId": 9230,
+        "referenceType": "official_pyq",
+        "referenceFile": "pyq-papers/investigator-housing-2024-series-i.json",
+        "referenceQuestionNumber": 145,
+        "referenceStem": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
+        "referenceOptions": [
+          "11",
+          "12",
+          "10",
+          "13"
+        ],
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration.",
+        "reviewedAsNonDuplicate": true
+      }
+    ],
+    "existingBankNearDuplicateCandidatesRejected": 1,
+    "existingBankNearDuplicateDetails": [
+      {
+        "candidateId": 9235,
+        "referenceType": "active",
+        "referenceFile": "index.html",
+        "referenceQuestionNumber": 9002,
+        "referenceStem": "Under paragraph 2(6) of the Sixth Schedule, what is the normal term of an elected District Council member, unless the Council is sooner dissolved?",
+        "reason": "Same five-year tenure recall and local-governing-body term learning objective as the candidate's Municipality-duration question; rejected to avoid an institution-name-only variant."
+      }
+    ]
   },
   "notes": [
     "All 90 accepted records are Original Practice, not Official PYQ.",
     "The rejected candidate log records 12 candidates removed before finalisation; rejected drafts are not counted as additions.",
     "All accepted questions are tagged for MPSC Inspector of Taxes, DSC East Khasi Hills LDA-cum-Typist and MPSC Secretariat LDA.",
-    "The archive is a mirror of the canonical records embedded in index.html; it is not a runtime source of truth."
+    "The archive is a mirror of the canonical records embedded in index.html; it is not a runtime source of truth.",
+    "Two additional same-skill candidates were rejected after pairwise review: Rajya Sabha seat-count recall (same parliamentary-representation count skill as Q9226) and trellis drainage-pattern identification (same pattern-classification skill as Q9272).",
+    "Question 9227 now tests the distinct mapping of Mairang and Mawthadraishan Assembly segments to Shillong Parliamentary Constituency, verified from the Eastern West Khasi Hills district portal.",
+    "Question 9230 was corrected from the stale 11-district figure to 12 using the current Government of Meghalaya district directory, which includes Eastern West Khasi Hills as the State's 12th district.",
+    "Question 9273 now tests the Moho crust–mantle boundary, replacing a near-variant drainage-pattern identification question.",
+    "Four option-only fingerprint hits were manually reviewed and documented; none had a matching stem or semantic learning objective, so none is counted as a duplicate.",
+    "A third near-semantic candidate was rejected after post-merge cross-bank review: the five-year Municipality term question duplicated the same tenure-recall learning objective as active question 9002 on District Council member tenure. It was replaced with an Article 243ZC question on the exclusion of Scheduled and tribal areas from Part IX-A.",
+    "Six option-only fingerprint hits were reviewed and confirmed non-duplicates; the Q9235/Q9002 tenure overlap is separately recorded as a semantic rejection."
   ],
   "questions": [
     {
@@ -137,18 +248,18 @@
     {
       "id": 9227,
       "cat": "Meghalaya GK",
-      "topic": "Parliamentary representation — Rajya Sabha",
-      "q": "The official Meghalaya election profile lists how many seats for the State in the Council of States (Rajya Sabha)?",
+      "topic": "Eastern West Khasi Hills — Lok Sabha constituency mapping",
+      "q": "According to the Eastern West Khasi Hills district administration, which Lok Sabha constituency includes the Mairang and Mawthadraishan Assembly segments?",
       "o": [
-        "1",
-        "2",
-        "3",
-        "4"
+        "Shillong",
+        "Tura",
+        "Guwahati",
+        "Diphu"
       ],
       "a": 0,
       "answerIndex": 0,
-      "e": "The CEO Meghalaya profile lists one Council of States constituency for Meghalaya. Do not confuse this with its two Lok Sabha constituencies.",
-      "difficulty": "Easy",
+      "e": "The Eastern West Khasi Hills district administration identifies Mairang (ST) and Mawthadraishan (ST) as the district's two Assembly constituencies and states that both are segments of the 1–Shillong Parliamentary Constituency. This tests constituency mapping from Assembly segments to their parliamentary constituency, rather than merely recalling the State's total number of Lok Sabha seats.",
+      "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
         "MPSC Inspector of Taxes",
@@ -157,16 +268,16 @@
       ],
       "tags": [
         "Meghalaya GK",
-        "Parliamentary representation — Rajya Sabha",
+        "Eastern West Khasi Hills — Lok Sabha constituency mapping",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Office of the Chief Electoral Officer, Meghalaya — About Us.",
+      "source": "Original Practice — not an official PYQ. Eastern West Khasi Hills District Administration — About District.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Office of the Chief Electoral Officer, Meghalaya — About Us",
-      "sourceURL": "https://ceomeghalaya.nic.in/about_us.html",
+      "sourceName": "Eastern West Khasi Hills District Administration — About District",
+      "sourceURL": "https://easternwestkhasihills.meghalaya.gov.in/about-district/",
       "sourceVerifiedDate": "2026-11-22",
-      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-22"
+      "verificationStatus": "verified_primary_source_2026-11-22"
     },
     {
       "id": 9228,
@@ -239,17 +350,17 @@
     {
       "id": 9230,
       "cat": "Meghalaya GK",
-      "topic": "Administrative divisions and districts",
-      "q": "According to the Chief Electoral Officer of Meghalaya, how many administrative divisions and districts does the State have?",
+      "topic": "Meghalaya — current number of districts",
+      "q": "How many districts are listed on the current Government of Meghalaya district directory?",
       "o": [
-        "2 divisions and 11 districts",
-        "2 divisions and 10 districts",
-        "3 divisions and 11 districts",
-        "3 divisions and 12 districts"
+        "10",
+        "11",
+        "12",
+        "13"
       ],
-      "a": 0,
-      "answerIndex": 0,
-      "e": "The CEO Meghalaya profile lists two divisions and eleven districts. It separately states that the Khasi and Jaintia Hills division has 36 Assembly constituencies and the Garo Hills division has 24.",
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The current Government of Meghalaya district directory lists 12 districts. It includes Eastern West Khasi Hills, which was carved out of West Khasi Hills and inaugurated on 10 November 2021 as the State's 12th district. An older Chief Electoral Officer profile still displays 11 districts, so the updated State district directory is the appropriate source for the current count.",
       "difficulty": "Easy",
       "exam": "Common MPSC",
       "examTags": [
@@ -259,16 +370,16 @@
       ],
       "tags": [
         "Meghalaya GK",
-        "Administrative divisions and districts",
+        "Meghalaya — current number of districts",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Office of the Chief Electoral Officer, Meghalaya — About Us.",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — Districts.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Office of the Chief Electoral Officer, Meghalaya — About Us",
-      "sourceURL": "https://ceomeghalaya.nic.in/about_us.html",
+      "sourceName": "Government of Meghalaya — Districts",
+      "sourceURL": "https://www.meghalaya.gov.in/districts",
       "sourceVerifiedDate": "2026-11-22",
-      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-22"
+      "verificationStatus": "verified_primary_source_2026-11-22"
     },
     {
       "id": 9231,
@@ -409,18 +520,18 @@
     {
       "id": 9235,
       "cat": "Polity",
-      "topic": "Article 243U — duration of municipalities",
-      "q": "What is the normal constitutional duration of a Municipality under Article 243U, unless it is sooner dissolved?",
+      "topic": "Municipalities — Article 243ZC exclusion",
+      "q": "Under Article 243ZC(1), which areas are excluded from Part IX-A of the Constitution unless Parliament extends the provisions by law?",
       "o": [
-        "Three years",
-        "Four years",
-        "Five years",
-        "Six years"
+        "Scheduled Areas and tribal areas referred to in Article 244",
+        "All municipal corporation areas",
+        "All Union Territories",
+        "All cantonment areas"
       ],
-      "a": 2,
-      "answerIndex": 2,
-      "e": "Article 243U fixes the normal duration of every Municipality at five years from the date appointed for its first meeting. An election to constitute the Municipality must ordinarily be completed before the expiry of that duration.",
-      "difficulty": "Easy",
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 243ZC(1) excludes the Scheduled Areas referred to in Article 244(1) and the tribal areas referred to in Article 244(2) from Part IX-A on Municipalities. Clause (3) allows Parliament to extend Part IX-A to these areas by law, subject to specified exceptions and modifications. Article 244(2) covers tribal areas in Meghalaya and certain other north-eastern States, making this provision relevant to the State's constitutional framework.",
+      "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
         "MPSC Inspector of Taxes",
@@ -429,16 +540,16 @@
       ],
       "tags": [
         "Polity",
-        "Article 243U — duration of municipalities",
+        "Municipalities — Article 243ZC exclusion",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, updated 20 May 2026.",
+      "source": "Original Practice — not an official PYQ. Legislative Department, Government of India — Constitution of India, Article 243ZC.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Legislative Department — Constitution of India, updated 20 May 2026",
-      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceName": "Legislative Department, Government of India — Constitution of India, Article 243ZC",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
       "sourceVerifiedDate": "2026-11-22",
-      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-22"
+      "verificationStatus": "verified_primary_source_2026-11-22"
     },
     {
       "id": 9236,
@@ -1701,17 +1812,17 @@
     {
       "id": 9273,
       "cat": "Geography",
-      "topic": "Drainage pattern — trellis",
-      "q": "A drainage pattern with long parallel main streams and short tributaries joining at nearly right angles is known as:",
+      "topic": "Earth's interior — Moho discontinuity",
+      "q": "Which seismic discontinuity marks the boundary between the Earth's crust and the mantle?",
       "o": [
-        "Dendritic",
-        "Trellis",
-        "Radial",
-        "Annular"
+        "Conrad discontinuity",
+        "Gutenberg discontinuity",
+        "Lehmann discontinuity",
+        "Mohorovičić discontinuity (Moho)"
       ],
-      "a": 1,
-      "answerIndex": 1,
-      "e": "A trellis pattern commonly develops in folded or alternating resistant and less-resistant rock structures. Main streams follow valleys while short tributaries descend from adjacent ridges and join at near-right angles.",
+      "a": 3,
+      "answerIndex": 3,
+      "e": "The Mohorovičić discontinuity, commonly called the Moho, marks the boundary between Earth's crust and mantle and is identified by a change in seismic-wave velocity. The Gutenberg discontinuity separates the mantle from the outer core, while the Lehmann discontinuity separates the outer core from the inner core. The Conrad discontinuity, where recognised, lies within continental crust.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -1721,16 +1832,16 @@
       ],
       "tags": [
         "Geography",
-        "Drainage pattern — trellis",
+        "Earth's interior — Moho discontinuity",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — Geography textbooks and learning resources.",
+      "source": "Original Practice — not an official PYQ. U.S. Geological Survey — Earthquake Hazards Program glossary.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — Geography textbooks and learning resources",
-      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceName": "U.S. Geological Survey — Earthquake Hazards Program glossary",
+      "sourceURL": "https://www.usgs.gov/glossary/earthquake-hazards-program",
       "sourceVerifiedDate": "2026-11-22",
-      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-22"
+      "verificationStatus": "verified_primary_source_2026-11-22"
     },
     {
       "id": 9274,
@@ -3248,6 +3359,24 @@
       "topic": "CGST Section 17(5)(d) construction on own account",
       "reason": "Too close to the adjacent works-contract blocked-credit question; replaced with the separate Section 17(5)(h) destroyed-goods category.",
       "collisionReference": "candidate question 9308"
+    },
+    {
+      "candidateId": "draft-9227-rajya-sabha-seat-count",
+      "topic": "Parliamentary representation — Rajya Sabha seat count",
+      "reason": "Removed after pairwise semantic review: it used the same simple seat-count recall skill and parliamentary-representation learning objective as question 9226, differing only in which House was named. The final replacement tests constituency mapping instead.",
+      "collisionReference": "question 9226 in the same candidate batch"
+    },
+    {
+      "candidateId": "draft-9273-trellis-drainage-pattern",
+      "topic": "Drainage pattern — trellis",
+      "reason": "Removed after pairwise semantic review: it tested the same drainage-pattern identification skill and learning objective as question 9272, with only the tributary geometry/pattern label changed. Replaced with a distinct crust–mantle seismic-boundary concept.",
+      "collisionReference": "question 9272 in the same candidate batch"
+    },
+    {
+      "candidateId": "draft-9235-municipality-duration",
+      "topic": "Municipalities — Article 243U five-year term",
+      "reason": "Removed after post-merge cross-bank semantic review: it tested the same recall skill and learning objective as active question 9002, which asks for the five-year normal term of an elected District Council member. The institutions differ, but both items test the same local-governing-body tenure fact. Replaced with Article 243ZC's exclusion of Scheduled and tribal areas from Part IX-A.",
+      "collisionReference": "active question 9002"
     }
   ],
   "revisions": [
@@ -3257,7 +3386,7 @@
     },
     {
       "questionId": 9230,
-      "change": "Replaced duplicate Governor-appointment item with the distinct 2-division/11-district administrative fact."
+      "change": "Corrected the outdated 11-district figure to 12 using the current Government of Meghalaya district directory, last updated 20 November 2026; the directory includes Eastern West Khasi Hills as the 12th district."
     },
     {
       "questionId": 9243,
@@ -3286,6 +3415,18 @@
     {
       "questionId": 9309,
       "change": "Replaced the overlapping own-account construction item with the separate Section 17(5)(h) destroyed-goods rule."
+    },
+    {
+      "questionId": 9227,
+      "change": "Replaced the Rajya Sabha seat-count recall item after detecting a same-skill pair with Q9226; the new question tests which Lok Sabha constituency contains the Mairang and Mawthadraishan Assembly segments."
+    },
+    {
+      "questionId": 9273,
+      "change": "Replaced the trellis drainage-pattern item after detecting a same-skill pair with Q9272; the new question tests the Moho crust–mantle seismic boundary."
+    },
+    {
+      "questionId": 9235,
+      "change": "Replaced the Municipality five-year term item after identifying the same tenure-recall learning objective as active question 9002; the new item tests Article 243ZC and the constitutional exclusion of Scheduled and tribal areas from Part IX-A."
     }
   ],
   "sourceVerification": {
@@ -3300,13 +3441,45 @@
       "CPCB",
       "NIELIT/technical documentation",
       "India Code",
-      "Reserve Bank of India"
+      "Reserve Bank of India",
+      "Government of Meghalaya — current Districts directory",
+      "Eastern West Khasi Hills District Administration — About District",
+      "U.S. Geological Survey — Earthquake Hazards Program glossary",
+      "Legislative Department, Government of India — Constitution of India, Article 243ZC"
     ],
     "currentLawChecks": [
       "CGST Act Sections 16(4), 17(5)(a), 17(5)(c), 17(5)(h), 18(1)(a) and 56 checked against consolidated Act text dated 11 June 2026.",
       "Finance Act 2026 Sections 153–155 effective 1 November 2026 amend CGST Sections 15, 34 and 54; these do not change the statutory provisions tested in this batch.",
       "NEFT FAQ dated 20 November 2026 and RTGS FAQ dated 14 October 2026 checked."
     ],
-    "sourceStatus": "all accepted questions have direct source URLs and verification date 2026-11-22"
+    "sourceStatus": "all accepted questions have direct source URLs and verification date 2026-11-22",
+    "currentMeghalayaReferences": [
+      {
+        "source": "Government of Meghalaya — Districts directory",
+        "url": "https://www.meghalaya.gov.in/districts",
+        "verifiedDate": "2026-11-22",
+        "fact": "Lists 12 districts, including Eastern West Khasi Hills; page last updated 20 November 2026."
+      },
+      {
+        "source": "Eastern West Khasi Hills District Administration — About District",
+        "url": "https://easternwestkhasihills.meghalaya.gov.in/about-district/",
+        "verifiedDate": "2026-11-22",
+        "fact": "Identifies Mairang and Mawthadraishan Assembly constituencies as segments of the 1–Shillong Parliamentary Constituency."
+      },
+      {
+        "source": "U.S. Geological Survey — Earthquake Hazards Program glossary",
+        "url": "https://www.usgs.gov/glossary/earthquake-hazards-program",
+        "verifiedDate": "2026-11-22",
+        "fact": "Defines the Moho as the boundary between Earth's crust and mantle."
+      }
+    ],
+    "constitutionalReferences": [
+      {
+        "source": "Legislative Department, Government of India — Constitution of India, Article 243ZC",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+        "verifiedDate": "2026-11-22",
+        "fact": "Article 243ZC(1) excludes Scheduled Areas under Article 244(1) and tribal areas under Article 244(2) from Part IX-A; clause (3) permits Parliament to extend the provisions by law."
+      }
+    ]
   }
 }
