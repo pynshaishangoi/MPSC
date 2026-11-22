@@ -4,7 +4,7 @@
   "updatedDate": "2026-11-22",
   "repository": "pynshaishangoi/MPSC",
   "repositoryVisibility": "public",
-  "mainShaAtAudit": "bebb1b5ce4cdf346861d009ca834c7a2d9036943",
+  "mainShaAtAudit": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
   "rampPolicy": "Start at 50; normally add 10 to next day's target; add 20 only after >=90% of target and all quality, deduplication, source, repository and merge gates pass; hold target after any failed gate; cap 250.",
   "rampStartTarget": 50,
   "currentDailyTarget": 90,
@@ -62,17 +62,17 @@
     "status": "pending_merge",
     "target": 90,
     "startingActiveQuestions": 1097,
-    "draftedCandidates": 102,
+    "draftedCandidates": 104,
     "validatedQuestions": 90,
     "mergedQuestions": 0,
     "activeUniqueAdditions": 0,
     "projectedActiveUniqueCount": 1187,
-    "passRate": 0.8823529411764706,
+    "passRate": 0.8653846153846154,
     "targetAchievementRate": 1,
     "exactCollisionChecks": 0,
-    "nearSemanticCollisionsRejected": 12,
-    "withinBatchNearDuplicateCandidatesRejected": 0,
-    "rejectedCandidates": 12,
+    "nearSemanticCollisionsRejected": 14,
+    "withinBatchNearDuplicateCandidatesRejected": 2,
+    "rejectedCandidates": 14,
     "qualityGatePassed": true,
     "dedupGatePassed": true,
     "sourceGatePassed": true,
@@ -82,8 +82,8 @@
     "gatePassed": false,
     "nextDailyTarget": 90,
     "blockers": [
-      "PR #115 passed repository validation but remains unmerged; the 90 questions are not counted as published additions.",
-      "Live deployment remains unverified until the live page serves build marker 2026-11-22-original-practice-90."
+      "PR #115 contains 90 validated questions but is not yet merged; unmerged questions are not counted as published additions.",
+      "Live deployment remains unverified until the live site serves build marker 2026-11-22-original-practice-90."
     ],
     "officialPyqFilesFetched": 18,
     "officialPyqFilesTotal": 18,
@@ -105,8 +105,8 @@
     "pullRequest": 115,
     "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/115",
     "mergeCommitSha": null,
-    "githubActionsRun": 44985129198,
-    "githubActionsConclusion": "success",
+    "githubActionsRun": null,
+    "githubActionsConclusion": "pending",
     "deploymentVerified": false,
     "deploymentStatus": "not yet verified",
     "preDraftActiveQuestions": 1097,
@@ -146,7 +146,9 @@
       "Clock-hand angle at 4:20",
       "Appointment of a State Governor",
       "Ramsar Convention wise use of wetlands",
-      "CGST Section 17(5)(d) construction on own account"
+      "CGST Section 17(5)(d) construction on own account",
+      "Rajya Sabha seat-count recall — same parliamentary-representation count skill as Q9226",
+      "Trellis drainage-pattern identification — same pattern-classification skill as Q9272"
     ],
     "sourceReview": {
       "verifiedDate": "2026-11-22",
@@ -170,7 +172,10 @@
         "Google Gmail Help",
         "India Code",
         "Government of India e-Gazette",
-        "Reserve Bank of India"
+        "Reserve Bank of India",
+        "Government of Meghalaya — current Districts directory",
+        "Eastern West Khasi Hills District Administration — About District",
+        "U.S. Geological Survey — Earthquake Hazards Program glossary"
       ],
       "legalNote": "GST questions were checked against the consolidated CGST Act text dated 11 June 2026 and the 26 October 2026 commencement notification. Finance Act 2026 amendments to CGST Sections 15, 34 and 54 effective 1 November 2026 do not change the tested Sections 16, 17, 18 and 56.",
       "postRunLegalReview": {
@@ -196,7 +201,32 @@
           "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQNEFT20112026.pdf",
           "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQRTGS15102026.pdf"
         ]
-      }
+      },
+      "currentMeghalayaReferences": [
+        {
+          "source": "Government of Meghalaya — Districts directory",
+          "url": "https://www.meghalaya.gov.in/districts",
+          "verifiedDate": "2026-11-22",
+          "fact": "Lists 12 districts, including Eastern West Khasi Hills; page last updated 20 November 2026."
+        },
+        {
+          "source": "Eastern West Khasi Hills District Administration — About District",
+          "url": "https://easternwestkhasihills.meghalaya.gov.in/about-district/",
+          "verifiedDate": "2026-11-22",
+          "fact": "Identifies Mairang and Mawthadraishan Assembly constituencies as segments of the 1–Shillong Parliamentary Constituency."
+        },
+        {
+          "source": "U.S. Geological Survey — Earthquake Hazards Program glossary",
+          "url": "https://www.usgs.gov/glossary/earthquake-hazards-program",
+          "verifiedDate": "2026-11-22",
+          "fact": "Defines the Moho as the boundary between Earth's crust and mantle."
+        }
+      ],
+      "contentCorrections": [
+        "Q9227 replaced with distinct Shillong Parliamentary Constituency mapping.",
+        "Q9230 corrected to 12 districts from the current Government of Meghalaya directory.",
+        "Q9273 replaced with the Moho crust–mantle boundary."
+      ]
     },
     "postRunCrossCorpusReview": {
       "verifiedDate": "2026-11-22",
@@ -204,9 +234,11 @@
       "officialPyqFilesCompared": 19,
       "officialPyqRecordsCompared": 2572,
       "updatedCandidateIds": [
+        9227,
         9229,
         9230,
         9263,
+        9273,
         9297,
         9304,
         9309
@@ -216,21 +248,81 @@
       "finalOptionSetMatches": 0,
       "finalNearSemanticMatches": 0,
       "withinBatchNearPairs": 0,
-      "unresolvedSemanticCollisions": 0
+      "unresolvedSemanticCollisions": 0,
+      "optionOnlyFingerprintMatchesReviewed": [
+        {
+          "candidateId": 9226,
+          "referenceFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
+          "referenceQuestionNumber": 117,
+          "referenceStem": "If 3x = 8, what is the value of x?",
+          "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation."
+        },
+        {
+          "candidateId": 9230,
+          "referenceFile": "pyq-papers/assistant-employment-officer-2025-series-i.json",
+          "referenceQuestionNumber": 112,
+          "referenceStem": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
+          "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration."
+        },
+        {
+          "candidateId": 9230,
+          "referenceFile": "pyq-papers/inspector-drugs-2019-series-i.json",
+          "referenceQuestionNumber": 94,
+          "referenceStem": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
+          "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count."
+        },
+        {
+          "candidateId": 9230,
+          "referenceFile": "pyq-papers/investigator-housing-2024-series-i.json",
+          "referenceQuestionNumber": 145,
+          "referenceStem": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
+          "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration."
+        }
+      ]
     },
     "liveBuildMarker": "2026-11-22-original-practice-90",
     "serviceWorkerCache": "mpsc-smart-study-v5-58-20261122",
     "activeUniqueQuestionsAfterMerge": 1097,
     "cumulativeUniqueAdditionsSinceRampStart": 216,
     "remainingTo10000": 8903,
-    "candidateValidationRate": 0.8823529411764706,
+    "candidateValidationRate": 0.8653846153846154,
     "postMergeAudit": false,
     "archiveParityVerified": false,
     "canonicalEmbeddedParityVerified": false,
     "liveDeploymentVerified": false,
-    "validationRunId": 44985129198,
-    "validationRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985129198",
-    "repositoryTestsPassed": true
+    "validationRunId": null,
+    "validationRunUrl": null,
+    "repositoryTestsPassed": false,
+    "optionOnlyFingerprintMatchesReviewed": [
+      {
+        "candidateId": 9226,
+        "referenceFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
+        "referenceQuestionNumber": 117,
+        "referenceStem": "If 3x = 8, what is the value of x?",
+        "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation."
+      },
+      {
+        "candidateId": 9230,
+        "referenceFile": "pyq-papers/assistant-employment-officer-2025-series-i.json",
+        "referenceQuestionNumber": 112,
+        "referenceStem": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration."
+      },
+      {
+        "candidateId": 9230,
+        "referenceFile": "pyq-papers/inspector-drugs-2019-series-i.json",
+        "referenceQuestionNumber": 94,
+        "referenceStem": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count."
+      },
+      {
+        "candidateId": 9230,
+        "referenceFile": "pyq-papers/investigator-housing-2024-series-i.json",
+        "referenceQuestionNumber": 145,
+        "referenceStem": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration."
+      }
+    ]
   },
   "nextDailyTarget": 90,
   "cumulativeUniqueAdditionsSinceRampStart": 216,
@@ -267,26 +359,34 @@
     "dedupNormalizationComplete": false
   },
   "activeBankDistribution": {
-    "Polity": 105,
-    "Meghalaya GK": 80,
-    "English": 163,
-    "History": 67,
-    "Science": 64,
-    "Economy": 66,
-    "Geography": 66,
-    "Aptitude": 32,
-    "Environment": 45,
-    "Officer Technical": 17,
+    "Aptitude": 30,
+    "Aptitude • PYQ": 2,
     "Arithmetic": 173,
-    "GST / Inspector of Taxes": 65,
-    "General Science": 11,
-    "Reasoning": 50,
-    "Computer": 39,
-    "Static GK": 3,
-    "Current Affairs": 48,
     "Art & Culture": 1,
+    "Books & Authors": 1,
+    "Computer": 39,
+    "Current Affairs": 48,
+    "Economy": 63,
+    "Economy • PYQ": 3,
+    "English": 82,
+    "English • PYQ": 81,
+    "Environment": 43,
+    "Environment • PYQ": 2,
+    "General Science": 11,
+    "Geography": 59,
+    "Geography • PYQ": 7,
+    "GST / Inspector of Taxes": 65,
+    "History": 60,
+    "History • PYQ": 7,
     "International Organisations": 1,
-    "Books & Authors": 1
+    "Meghalaya GK": 80,
+    "Officer Technical": 17,
+    "Polity": 103,
+    "Polity • PYQ": 2,
+    "Reasoning": 50,
+    "Science": 57,
+    "Science • PYQ": 7,
+    "Static GK": 3
   },
   "previousRun": {
     "date": "2026-11-21",
@@ -424,26 +524,34 @@
     "candidateValidationRate": 0.9
   },
   "projectedBankDistribution": {
-    "Polity": 115,
-    "Meghalaya GK": 86,
-    "English": 171,
-    "History": 77,
-    "Science": 73,
-    "Economy": 74,
-    "Geography": 75,
-    "Aptitude": 32,
-    "Environment": 52,
-    "Officer Technical": 17,
+    "Aptitude": 30,
+    "Aptitude • PYQ": 2,
     "Arithmetic": 178,
-    "GST / Inspector of Taxes": 71,
-    "General Science": 11,
-    "Reasoning": 53,
-    "Computer": 46,
-    "Static GK": 3,
-    "Current Affairs": 50,
     "Art & Culture": 1,
+    "Books & Authors": 1,
+    "Computer": 46,
+    "Current Affairs": 50,
+    "Economy": 71,
+    "Economy • PYQ": 3,
+    "English": 90,
+    "English • PYQ": 81,
+    "Environment": 50,
+    "Environment • PYQ": 2,
+    "General Science": 11,
+    "Geography": 68,
+    "Geography • PYQ": 7,
+    "GST / Inspector of Taxes": 71,
+    "History": 70,
+    "History • PYQ": 7,
     "International Organisations": 1,
-    "Books & Authors": 1
+    "Meghalaya GK": 86,
+    "Officer Technical": 17,
+    "Polity": 113,
+    "Polity • PYQ": 2,
+    "Reasoning": 53,
+    "Science": 66,
+    "Science • PYQ": 7,
+    "Static GK": 3
   },
   "sourceInventory": {
     "officialPyqFilesFetched": 18,
@@ -468,9 +576,20 @@
     "officialSourcesIndexReviewed": true,
     "otherQuestionBankFilesOutsideCanonicalArchivesAndPyq": 0,
     "activeQuestions": 1097,
-    "projectedActiveQuestions": 1187
+    "projectedActiveQuestions": 1187,
+    "activeQuestionsBeforeRun": 1097,
+    "activeQuestionsInProposedBuild": 1187,
+    "activeQuestionsAfterMerge": 1097,
+    "questionBatchArchivesBeforeRun": 19,
+    "questionBatchArchiveRecordsBeforeRun": 505,
+    "questionBatchArchivesAfterRun": 20,
+    "questionBatchArchiveRecordsAfterRun": 595,
+    "questionBatchArchivesInProposedBuild": 20,
+    "questionBatchArchiveRecordsInProposedBuild": 595,
+    "comparisonCorpusRecordsBeforeRun": 3669,
+    "comparisonCorpusRecordsAfterMerge": 3759
   },
-  "mainShaAtStartOfLatestRun": "bebb1b5ce4cdf346861d009ca834c7a2d9036943",
+  "mainShaAtStartOfLatestRun": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
   "previousRunBeforeLatest": {
     "date": "2026-11-20",
     "status": "merged",
@@ -548,7 +667,7 @@
       "questionStemsOrAnswersChanged": false
     }
   },
-  "latestMainShaAtAudit": "bebb1b5ce4cdf346861d009ca834c7a2d9036943",
+  "latestMainShaAtAudit": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
   "previousRunTwoBack": {
     "date": "2026-11-19",
     "target": 50,
