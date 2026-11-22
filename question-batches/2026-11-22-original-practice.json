@@ -164,11 +164,11 @@
         "District administration — Deputy Commissioner",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — Shillong District Administrative Setup.",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — Government and district administration.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Meghalaya Government Portal — Shillong District Administrative Setup",
-      "sourceURL": "https://meghalaya.gov.in/index.php/node/34292",
+      "sourceName": "Government of Meghalaya — Government and district administration",
+      "sourceURL": "https://meghalaya.gov.in/index.php/government",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1011,10 +1011,10 @@
         "Meiji Restoration — Japan, 1868",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — Class XI History, Themes in World History.",
+      "source": "Original Practice — not an official PYQ. NCERT — Themes in World History, Paths to Modernisation.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — Class XI History, Themes in World History",
+      "sourceName": "NCERT — Themes in World History, Paths to Modernisation",
       "sourceURL": "https://ncert.nic.in/textbook/pdf/kehs107.pdf",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
@@ -1327,16 +1327,16 @@
       "id": 9263,
       "cat": "Reasoning",
       "topic": "Scheduling — identify the only feasible order",
-      "q": "Four files P, Q, R and S are processed one at a time. P is processed before R; S is processed immediately after Q; and R is processed last. Which order is possible?",
+      "q": "Four files P, Q, R and S are processed one at a time. P is processed immediately before Q; S is processed immediately after Q; and R is processed last. Which order is possible?",
       "o": [
-        "Q, S, P, R",
-        "P, Q, S, R",
         "Q, P, S, R",
-        "S, Q, P, R"
+        "P, Q, S, R",
+        "P, S, Q, R",
+        "R, P, Q, S"
       ],
       "a": 1,
       "answerIndex": 1,
-      "e": "The pair Q–S must be consecutive and in that order. R must be last, and P must occur before R. Option B satisfies all three conditions: P first, Q immediately followed by S, and R last. The other options either reverse Q–S or break the immediate-adjacency condition.",
+      "e": "P must be immediately before Q, and S must be immediately after Q. These two conditions create the consecutive sequence P–Q–S. Since R must be last, the only possible order is P, Q, S, R.",
       "difficulty": "Hard",
       "exam": "Common MPSC",
       "examTags": [
@@ -1712,11 +1712,11 @@
         "Tides — spring tide",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NOAA Ocean Service — Tides and spring-neap cycles.",
+      "source": "Original Practice — not an official PYQ. NOAA — Tides and the alignment of the Sun, Moon and Earth.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NOAA Ocean Service — Tides and spring-neap cycles",
-      "sourceURL": "https://oceanservice.noaa.gov/education/tutorial_tides/tides07_cycles.html",
+      "sourceName": "NOAA — Tides and the alignment of the Sun, Moon and Earth",
+      "sourceURL": "https://www.noaa.gov/education/resource-collections/ocean-coasts/tides",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1877,11 +1877,11 @@
         "Continental shelf — marine geography",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NOAA Ocean Service — Continental shelf.",
+      "source": "Original Practice — not an official PYQ. NOAA — Ocean floor features and continental shelf.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NOAA Ocean Service — Continental shelf",
-      "sourceURL": "https://oceanservice.noaa.gov/facts/continental-shelf.html",
+      "sourceName": "NOAA — Ocean floor features and continental shelf",
+      "sourceURL": "https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-floor-features",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2421,11 +2421,11 @@
         "Environmental Impact Assessment — scoping",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Ministry of Environment, Forest and Climate Change / India Code.",
+      "source": "Original Practice — not an official PYQ. Ministry of Environment, Forest and Climate Change — EIA Notification and amendments, including scoping stage.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Ministry of Environment, Forest and Climate Change / India Code",
-      "sourceURL": "https://www.moef.gov.in/",
+      "sourceName": "Ministry of Environment, Forest and Climate Change — EIA Notification and amendments, including scoping stage",
+      "sourceURL": "https://parivesh.nic.in/publicdocument/UPLOAD_OM_NOTIFICATION/IA_DOCS/1001_02062025020000.pdf",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2455,11 +2455,11 @@
         "EIA — public consultation",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Ministry of Environment, Forest and Climate Change / India Code.",
+      "source": "Original Practice — not an official PYQ. Ministry of Environment, Forest and Climate Change — EIA Notification and amendments, including public consultation.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Ministry of Environment, Forest and Climate Change / India Code",
-      "sourceURL": "https://www.moef.gov.in/",
+      "sourceName": "Ministry of Environment, Forest and Climate Change — EIA Notification and amendments, including public consultation",
+      "sourceURL": "https://parivesh.nic.in/publicdocument/UPLOAD_OM_NOTIFICATION/IA_DOCS/1001_02062025020000.pdf",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2727,10 +2727,10 @@
         "Data backup — incremental backup",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Microsoft Learn — Azure VM Backup.",
+      "source": "Original Practice — not an official PYQ. Microsoft Learn — Azure VM Backup and incremental backup.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Microsoft Learn — Azure VM Backup",
+      "sourceName": "Microsoft Learn — Azure VM Backup and incremental backup",
       "sourceURL": "https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
@@ -2761,10 +2761,10 @@
         "Networking — IPv4 address length",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. IETF — RFC 791, Internet Protocol.",
+      "source": "Original Practice — not an official PYQ. Internet Engineering Task Force — RFC 791, Internet Protocol.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "IETF — RFC 791, Internet Protocol",
+      "sourceName": "Internet Engineering Task Force — RFC 791, Internet Protocol",
       "sourceURL": "https://www.rfc-editor.org/rfc/rfc791",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
