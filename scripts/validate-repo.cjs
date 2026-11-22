@@ -212,7 +212,7 @@ if (!q9227 || !q9227.q.includes('Mairang and Mawthadraishan') || !q9227.q.includ
 if (!q9230 || q9230.o[q9230.a] !== '12' || q9230.sourceURL !== 'https://www.meghalaya.gov.in/districts') fail('22 November Q9230 current 12-district correction is missing');
 if (!q9273 || !q9273.q.includes('seismic discontinuity') || q9273.o[q9273.a] !== 'Mohorovičić discontinuity (Moho)' || q9273.sourceURL !== 'https://www.usgs.gov/glossary/earthquake-hazards-program') fail('22 November Q9273 Moho replacement is missing');
 const q9235=expansionBatch22.questions.find(q=>q.id===9235);
-if (!q9235 || !q9235.q.includes('Article 243ZC') || q9235.o[q9235.a] !== 'Scheduled Areas and tribal areas referred to in Article 244' || !q9235.sourceURL.includes('indiacode.nic.in')) fail('22 November Q9235 Article 243ZC replacement is missing');
+if (!q9235 || !q9235.q.includes('Article 243ZC') || q9235.o[q9235.a] !== 'Scheduled Areas and tribal areas referred to in Article 244' || q9235.sourceURL !== 'https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf') fail('22 November Q9235 Article 243ZC replacement is missing');
 
 if (expansionBatch22.questions.length !== 90 || expansionBatch22.questionIdRange !== '9225-9314' || expansionBatch22.candidateCount !== 105 || expansionBatch22.rejectedCandidateCount !== 15 || expansionBatch22.acceptedUniqueQuestionCount !== 90 || Object.values(expansionBatch22.subjects).reduce((sum,value)=>sum+value,0)!==90 || expansionBatch22.rejectedCandidates.length !== 15) fail('22 November original-practice batch count, ID range, candidate or subject totals are incorrect');
 const optionNorm22 = value => value.normalize('NFKD').toLowerCase().replace(/[^\p{L}\p{N}\s]/gu,'').replace(/\s+/g,' ').trim();
