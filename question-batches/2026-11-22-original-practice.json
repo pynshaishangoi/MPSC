@@ -890,8 +890,8 @@
       "o": [
         "7",
         "12",
-        "−7",
-        "−12"
+        "−5",
+        "18"
       ],
       "a": 1,
       "answerIndex": 1,
@@ -2316,10 +2316,10 @@
       "topic": "Optics — power of a lens",
       "q": "A convex lens has a focal length of 0.5 metre. What is its power?",
       "o": [
-        "+0.5 dioptre",
-        "+1 dioptre",
-        "+2 dioptres",
-        "−2 dioptres"
+        "+0.5",
+        "+1",
+        "+2",
+        "−4"
       ],
       "a": 2,
       "answerIndex": 2,
