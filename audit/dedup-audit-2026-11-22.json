@@ -1,7 +1,7 @@
 {
   "date": "2026-11-22",
   "target": 90,
-  "draftedCandidates": 102,
+  "draftedCandidates": 104,
   "validatedUniqueQuestions": 90,
   "rejectedCandidates": [
     {
@@ -75,17 +75,62 @@
       "topic": "CGST Section 17(5)(d) construction on own account",
       "reason": "Too close to the adjacent works-contract blocked-credit question; replaced with the separate Section 17(5)(h) destroyed-goods category.",
       "collisionReference": "candidate question 9308"
+    },
+    {
+      "candidateId": "draft-9227-rajya-sabha-seat-count",
+      "topic": "Parliamentary representation — Rajya Sabha seat count",
+      "reason": "Removed after pairwise semantic review: it used the same simple seat-count recall skill and parliamentary-representation learning objective as question 9226, differing only in which House was named. The final replacement tests constituency mapping instead.",
+      "collisionReference": "question 9226 in the same candidate batch"
+    },
+    {
+      "candidateId": "draft-9273-trellis-drainage-pattern",
+      "topic": "Drainage pattern — trellis",
+      "reason": "Removed after pairwise semantic review: it tested the same drainage-pattern identification skill and learning objective as question 9272, with only the tributary geometry/pattern label changed. Replaced with a distinct crust–mantle seismic-boundary concept.",
+      "collisionReference": "question 9272 in the same candidate batch"
     }
   ],
   "collisions": {
     "candidateExactStemCollisions": 0,
     "candidateOptionSetCollisions": 0,
-    "nearSemanticCandidatesRejected": 12,
-    "withinBatchNearPairs": 0,
+    "nearSemanticCandidatesRejected": 14,
+    "withinBatchNearPairs": 2,
     "finalBatchExactStemCollisions": 0,
     "finalBatchOptionSetCollisions": 0,
     "finalBatchNearPairs": 0,
-    "unresolvedSemanticCollisions": 0
+    "unresolvedSemanticCollisions": 0,
+    "finalBatchExactStemMatches": 0,
+    "finalBatchOptionSetMatches": 0,
+    "optionOnlyFingerprintMatchesReviewed": 4,
+    "optionOnlyFingerprintMatchDetails": [
+      {
+        "candidateId": 9226,
+        "referenceFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
+        "referenceQuestionNumber": 117,
+        "referenceStem": "If 3x = 8, what is the value of x?",
+        "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation."
+      },
+      {
+        "candidateId": 9230,
+        "referenceFile": "pyq-papers/assistant-employment-officer-2025-series-i.json",
+        "referenceQuestionNumber": 112,
+        "referenceStem": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration."
+      },
+      {
+        "candidateId": 9230,
+        "referenceFile": "pyq-papers/inspector-drugs-2019-series-i.json",
+        "referenceQuestionNumber": 94,
+        "referenceStem": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count."
+      },
+      {
+        "candidateId": 9230,
+        "referenceFile": "pyq-papers/investigator-housing-2024-series-i.json",
+        "referenceQuestionNumber": 145,
+        "referenceStem": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration."
+      }
+    ]
   },
   "mergedQuestions": 0,
   "activeUniqueQuestionsBeforeRun": 1097,
@@ -164,7 +209,46 @@
         "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQNEFT20112026.pdf",
         "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQRTGS15102026.pdf"
       ]
-    }
+    },
+    "stablePrimarySources": [
+      "Government of Meghalaya — current Districts directory",
+      "Eastern West Khasi Hills District Administration — About District",
+      "U.S. Geological Survey — Earthquake Hazards Program glossary"
+    ],
+    "currentMeghalayaReferences": [
+      {
+        "source": "Government of Meghalaya — Districts directory",
+        "url": "https://www.meghalaya.gov.in/districts",
+        "verifiedDate": "2026-11-22",
+        "fact": "Lists 12 districts, including Eastern West Khasi Hills; page last updated 20 November 2026."
+      },
+      {
+        "source": "Eastern West Khasi Hills District Administration — About District",
+        "url": "https://easternwestkhasihills.meghalaya.gov.in/about-district/",
+        "verifiedDate": "2026-11-22",
+        "fact": "Identifies Mairang and Mawthadraishan Assembly constituencies as segments of the 1–Shillong Parliamentary Constituency."
+      },
+      {
+        "source": "U.S. Geological Survey — Earthquake Hazards Program glossary",
+        "url": "https://www.usgs.gov/glossary/earthquake-hazards-program",
+        "verifiedDate": "2026-11-22",
+        "fact": "Defines the Moho as the boundary between Earth's crust and mantle."
+      }
+    ],
+    "sourceCorrections": [
+      {
+        "questionId": 9227,
+        "description": "Changed to a distinct constituency-mapping question; the district portal identifies Mairang and Mawthadraishan as segments of Shillong Parliamentary Constituency."
+      },
+      {
+        "questionId": 9230,
+        "description": "Corrected the current district count to 12 using the Government of Meghalaya district directory updated 20 November 2026."
+      },
+      {
+        "questionId": 9273,
+        "description": "Replaced the trellis drainage-pattern near-variant with the Moho crust–mantle boundary."
+      }
+    ]
   },
   "validation": {
     "schema": true,
@@ -177,10 +261,10 @@
     "archiveParity": true,
     "canonicalEmbeddedParity": true,
     "serviceWorker": "passed",
-    "repositoryTests": "passed",
-    "workflowRunId": 44985129198,
-    "workflowRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985129198",
-    "workflowConclusion": "success"
+    "repositoryTests": "pending",
+    "workflowRunId": null,
+    "workflowRunUrl": null,
+    "workflowConclusion": "pending"
   },
   "pullRequest": {
     "number": 115,
@@ -191,9 +275,9 @@
   "postMergeCommitSha": null,
   "workflows": {
     "pullRequestValidation": {
-      "runId": 44985129198,
-      "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985129198",
-      "conclusion": "success"
+      "runId": null,
+      "url": null,
+      "conclusion": "pending"
     },
     "pushValidation": null,
     "pagesBuildAndDeployment": {
@@ -223,6 +307,62 @@
     "unresolvedSemanticCollisions": 0
   },
   "notes": [
-    "PR #115 repository validation passed on 22 November 2026; questions remain unmerged until the PR merge is confirmed."
-  ]
+    "PR #115 repository validation passed on 22 November 2026; questions remain unmerged until the PR merge is confirmed.",
+    "Two additional same-skill candidate pairs were rejected after manual semantic review; the accepted batch remains 90 questions after replacements.",
+    "The 11-district statement on the older CEO profile was superseded for current-count purposes by the Government of Meghalaya district directory, updated 20 November 2026, which lists 12 districts.",
+    "Four option-only fingerprint hits were reviewed: one numeric-sign normalization artifact and three generic 10–13 option sets. Their stems, concepts and learning objectives differ; no option-only hit was treated as a duplicate.",
+    "Question 9227 now tests the Mairang/Mawthadraishan to Shillong Parliamentary Constituency mapping; question 9273 tests the Moho boundary."
+  ],
+  "postRunCrossCorpusReview": {
+    "verifiedDate": "2026-11-22",
+    "activeQuestionsCompared": 1097,
+    "officialPyqFilesCompared": 19,
+    "officialPyqRecordsCompared": 2572,
+    "updatedCandidateIds": [
+      9227,
+      9229,
+      9230,
+      9263,
+      9273,
+      9297,
+      9304,
+      9309
+    ],
+    "finalBatchCount": 90,
+    "finalExactStemMatches": 0,
+    "finalOptionSetMatches": 0,
+    "finalNearSemanticMatches": 0,
+    "withinBatchNearPairs": 0,
+    "unresolvedSemanticCollisions": 0,
+    "optionOnlyFingerprintMatchesReviewed": [
+      {
+        "candidateId": 9226,
+        "referenceFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
+        "referenceQuestionNumber": 117,
+        "referenceStem": "If 3x = 8, what is the value of x?",
+        "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation."
+      },
+      {
+        "candidateId": 9230,
+        "referenceFile": "pyq-papers/assistant-employment-officer-2025-series-i.json",
+        "referenceQuestionNumber": 112,
+        "referenceStem": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration."
+      },
+      {
+        "candidateId": 9230,
+        "referenceFile": "pyq-papers/inspector-drugs-2019-series-i.json",
+        "referenceQuestionNumber": 94,
+        "referenceStem": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count."
+      },
+      {
+        "candidateId": 9230,
+        "referenceFile": "pyq-papers/investigator-housing-2024-series-i.json",
+        "referenceQuestionNumber": 145,
+        "referenceStem": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration."
+      }
+    ]
+  }
 }
