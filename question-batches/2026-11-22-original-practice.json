@@ -1,0 +1,3026 @@
+{
+  "batchId": "mpsc-original-practice-2026-11-22",
+  "date": "2026-11-22",
+  "batchType": "Original Practice",
+  "title": "MPSC Original Practice Batch — 22 November 2026",
+  "questionCount": 90,
+  "questionIdRange": "9225-9314",
+  "candidateCount": 126,
+  "rejectedCandidateCount": 36,
+  "subjects": {
+    "Meghalaya GK": 8,
+    "Polity": 12,
+    "History": 6,
+    "Geography": 10,
+    "Economy": 10,
+    "Science": 10,
+    "Environment": 8,
+    "Computer": 8,
+    "Arithmetic": 6,
+    "Reasoning": 5,
+    "English": 7
+  },
+  "examTracks": [
+    "MPSC Inspector of Taxes",
+    "DSC East Khasi Hills LDA-cum-Typist",
+    "MPSC Secretariat LDA"
+  ],
+  "sourcePolicy": "All items are newly authored practice questions. No official PYQ wording, copyrighted question-bank text or private uploaded source text is reproduced.",
+  "deduplication": {
+    "corpus": "1,097 canonical active questions, 2,572 official-PYQ transcription records across 19 files (18 distinct papers plus one partial duplicate), and 505 archived mirror records; archive mirrors were not double-counted.",
+    "exactStemCollisions": 0,
+    "exactOptionSetCollisions": 0,
+    "activeBankSemanticOrTopicCandidatesRejected": 24,
+    "officialPYQSemanticCandidatesRejected": 12,
+    "withinBatchNearDuplicateCandidatesRejected": 0,
+    "unresolvedSemanticCollisions": 0,
+    "rejectedCandidateTopics": [
+      "CAG appointment and audit-report route",
+      "Article 110/131/262 and already-covered Finance Commission/Inter-State Council provisions",
+      "primary/current-account/real-GDP/deflator and repeated deficit concepts",
+      "Faraday/Ohm/pH/enzyme/Mendel overlaps",
+      "Ramsar/primary-succession/keystone/invasive-species overlaps",
+      "DNS/TCP/HTTPS/RAM overlaps",
+      "mixture/boat-stream/average-speed/work-rate/successive-percentage calculations",
+      "syllogism, less/fewer, despite, subject-verb agreement and repeated phrasal-verb usage",
+      "Mawjymbuin cave and karst/cave-formation overlaps"
+    ]
+  },
+  "notes": [
+    "90 of 126 candidates passed the full-bank exact, option-set, topic and semantic screening. Thirty-six overlapping candidates were rejected and not published.",
+    "The comparison covered the full 1,097-question embedded bank. Official PYQ text was not copied; official PYQ files remain separate.",
+    "Questions are embedded in index.html and preserved in this separate archive. They are all Original Practice, never Official PYQ."
+  ],
+  "questions": [
+    {
+      "id": 9225,
+      "cat": "Meghalaya GK",
+      "topic": "District headquarters",
+      "q": "Which option contains only correctly matched Meghalaya districts and their headquarters?",
+      "o": [
+        "North Garo Hills—Resubelpara; East Jaintia Hills—Khliehriat; South West Khasi Hills—Mawkyrwat; West Jaintia Hills—Jowai",
+        "North Garo Hills—Baghmara; East Jaintia Hills—Jowai; South West Khasi Hills—Nongpoh; West Jaintia Hills—Khliehriat",
+        "North Garo Hills—Williamnagar; East Jaintia Hills—Mawkyrwat; South West Khasi Hills—Jowai; West Jaintia Hills—Resubelpara",
+        "North Garo Hills—Ampati; East Jaintia Hills—Nongstoin; South West Khasi Hills—Baghmara; West Jaintia Hills—Khliehriat"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Meghalaya Government's district table lists Resubelpara for North Garo Hills, Khliehriat for East Jaintia Hills, Mawkyrwat for South West Khasi Hills and Jowai for West Jaintia Hills. The other options interchange headquarters from different districts.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "District headquarters",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Meghalaya Government — Districts and headquarters (Statistical Handbook 2022).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government — Districts and headquarters (Statistical Handbook 2022)",
+      "sourceURL": "https://meghalaya.gov.in/districts",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9226,
+      "cat": "Meghalaya GK",
+      "topic": "Assembly constituency distribution",
+      "q": "Meghalaya has 60 Legislative Assembly constituencies. How are they distributed between the Khasi-Jaintia Hills and Garo Hills divisions?",
+      "o": [
+        "36 in Khasi-Jaintia Hills and 24 in Garo Hills",
+        "24 in Khasi-Jaintia Hills and 36 in Garo Hills",
+        "30 in each division",
+        "40 in Khasi-Jaintia Hills and 20 in Garo Hills"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Elections Department profile records 36 Assembly constituencies in the Khasi-Jaintia Hills division and 24 in the Garo Hills division. These figures add to the State Assembly's total of 60 seats and are a division-wise distribution.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Assembly constituency distribution",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Meghalaya Government — Elections Department / Chief Electoral Officer.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government — Elections Department / Chief Electoral Officer",
+      "sourceURL": "https://meghalaya.gov.in/index.php/dept/12",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9227,
+      "cat": "Meghalaya GK",
+      "topic": "Nongkhnum river island",
+      "q": "The Kynshi River forms Nongkhnum island by diverging into which two named streams?",
+      "o": [
+        "Namliang to the north and Phanliang to the south",
+        "Phanliang to the north and Namliang to the south",
+        "Rilang to the north and Kynshi to the south",
+        "Umiam to the north and Myntdu to the south"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The official West Khasi Hills profile states that the Kynshi diverges near Diangsyiang and Diligim villages. Its northern branch is Namliang and its southern branch is Phanliang; the island lies between the channels.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Nongkhnum river island",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Meghalaya Government — West Khasi Hills / Nongstoin district profile.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government — West Khasi Hills / Nongstoin district profile",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34297",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9228,
+      "cat": "Meghalaya GK",
+      "topic": "Community and Rural Development blocks",
+      "q": "How many Community and Rural Development blocks does the Meghalaya Government's East Khasi Hills district profile list?",
+      "o": [
+        "Eight",
+        "Six",
+        "Ten",
+        "Twelve"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The East Khasi Hills profile lists eight C&RD blocks: Mylliem, Mawphlang, Khatarshnong Laitkroh, Shellabholaganj, Mawsynram, Pynursla, Mawryngkneng and Mawkynrew. The count is specific to the district profile.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Community and Rural Development blocks",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Meghalaya Government — East Khasi Hills district profile.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government — East Khasi Hills district profile",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34292",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9229,
+      "cat": "Meghalaya GK",
+      "topic": "District reorganisation",
+      "q": "According to the East Khasi Hills profile, which district was carved out of East Khasi Hills on 4 June 1992?",
+      "o": [
+        "Ri-Bhoi",
+        "South West Khasi Hills",
+        "Eastern West Khasi Hills",
+        "East Jaintia Hills"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The profile records that East Khasi Hills was further divided into East Khasi Hills and Ri-Bhoi on 4 June 1992. This date concerns district reorganisation and should not be confused with the creation of other Meghalaya districts.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "District reorganisation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Meghalaya Government — East Khasi Hills district profile.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government — East Khasi Hills district profile",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34292",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9230,
+      "cat": "Meghalaya GK",
+      "topic": "Election administration",
+      "q": "The Office of the Chief Electoral Officer of Meghalaya functions under the superintendence, direction and control of which body?",
+      "o": [
+        "Election Commission of India",
+        "Meghalaya Public Service Commission",
+        "State Finance Commission",
+        "Union Public Service Commission"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Elections Department profile expressly places the Chief Electoral Officer's office under the superintendence, directions and control of the Election Commission of India. Its work includes electoral rolls, EPICs and election administration.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Election administration",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Meghalaya Government — Elections Department / Chief Electoral Officer.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government — Elections Department / Chief Electoral Officer",
+      "sourceURL": "https://meghalaya.gov.in/index.php/dept/12",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9231,
+      "cat": "Meghalaya GK",
+      "topic": "Kyllang Rock geology",
+      "q": "The Meghalaya Government describes Kyllang Rock near Mawnai as a single huge solid rock of which geological origin?",
+      "o": [
+        "Igneous",
+        "Sedimentary",
+        "Metamorphic",
+        "Organic limestone"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The West Khasi Hills profile describes Kyllang Rock as a single, huge solid igneous rock near Mawnai. Igneous rocks form when molten material cools and solidifies; the question tests the official description, not local folklore.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Kyllang Rock geology",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Meghalaya Government — West Khasi Hills / Nongstoin district profile.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government — West Khasi Hills / Nongstoin district profile",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34297",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9232,
+      "cat": "Meghalaya GK",
+      "topic": "Mawthadraishan peak",
+      "q": "What distinctive feature does the West Khasi Hills profile mention in the depression at the top of Mawthadraishan peak?",
+      "o": [
+        "About seven to eight fish ponds",
+        "A permanent glacier",
+        "A meteorite crater lake",
+        "A chain of limestone sinkholes"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The official profile notes a depression on the peak with about seven to eight fish ponds of considerable size. This is a location-specific fact about Mawthadraishan, distinct from the district's river-island and waterfall descriptions.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Mawthadraishan peak",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Meghalaya Government — West Khasi Hills / Nongstoin district profile.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government — West Khasi Hills / Nongstoin district profile",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34297",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9233,
+      "cat": "Polity",
+      "topic": "Presidential reference to Supreme Court",
+      "q": "Under Article 143, the President may seek the Supreme Court's opinion on a question of law or fact that is of what character?",
+      "o": [
+        "Such public importance that it is expedient to obtain the Court's opinion",
+        "Only a question already decided by a trial court",
+        "Only a dispute between two private companies",
+        "Any routine administrative question without public importance"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 143 creates an advisory jurisdiction. The President may refer a question of law or fact of public importance, and the Supreme Court may report its opinion after such hearing as it thinks fit.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Presidential reference to Supreme Court",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against India Code — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Constitution of India",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9234,
+      "cat": "Polity",
+      "topic": "Rajya Sabha and State List",
+      "q": "For Parliament to legislate on a State List matter in the national interest under Article 249, what support must a Rajya Sabha resolution receive?",
+      "o": [
+        "Not less than two-thirds of members present and voting",
+        "A simple majority of the total membership of both Houses",
+        "Unanimous approval of all State Legislatures",
+        "Two-thirds of the members of the Lok Sabha only"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 249 requires a resolution supported by not less than two-thirds of Rajya Sabha members present and voting. While the resolution remains in force, Parliament may legislate on the specified State List matter in the national interest.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Rajya Sabha and State List",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against India Code — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Constitution of India",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9235,
+      "cat": "Polity",
+      "topic": "Joint sitting exceptions",
+      "q": "Which pair of Bills is not subject to the ordinary joint-sitting procedure under Article 108?",
+      "o": [
+        "Money Bills and Constitution Amendment Bills",
+        "Ordinary Bills and Appropriation Bills",
+        "Private Members' Bills and Government Bills",
+        "Bills passed by both Houses without disagreement"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 108 excludes Money Bills from joint sittings. A Constitution Amendment Bill must separately secure the special majority in each House under Article 368, so disagreement cannot be resolved by an ordinary joint sitting.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Joint sitting exceptions",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against India Code — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Constitution of India",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9236,
+      "cat": "Polity",
+      "topic": "State consent legislation",
+      "q": "Under Article 252, when may Parliament legislate on a matter in the State List for two or more States?",
+      "o": [
+        "When those State Legislatures pass resolutions requesting Parliament to legislate",
+        "Whenever the Union Cabinet declares an emergency",
+        "Only after every State Governor issues an ordinance",
+        "Whenever the Rajya Sabha passes a simple majority resolution"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 252 provides a route based on State consent. If two or more State Legislatures resolve that Parliament should legislate on a State List matter, Parliament may enact a law for those States; other States may later adopt it by resolution.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "State consent legislation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against India Code — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Constitution of India",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9237,
+      "cat": "Polity",
+      "topic": "Public Account of India",
+      "q": "A refundable security deposit is received by the Government and held in trust for the depositor. Under Article 266, where is such money ordinarily credited?",
+      "o": [
+        "The Public Account of India",
+        "The Consolidated Fund of India as tax revenue",
+        "The Contingency Fund of India",
+        "The Finance Commission Fund"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 266 distinguishes the Consolidated Fund from the Public Account. Money received or held by Government in trust, such as deposits and similar liabilities, is credited to the Public Account rather than treated as ordinary tax revenue.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Public Account of India",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against India Code — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Constitution of India",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9238,
+      "cat": "Polity",
+      "topic": "Contingency Fund of India",
+      "q": "Under Article 267, the Contingency Fund of India is placed at whose disposal so that advances can be made for unforeseen expenditure pending legislative authorisation?",
+      "o": [
+        "The President of India",
+        "The Speaker of the Lok Sabha",
+        "The Comptroller and Auditor-General",
+        "The Finance Commission"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 267 provides for a Contingency Fund placed at the disposal of the President. It enables advances for unforeseen expenditure until Parliament authorises the relevant expenditure through the constitutional budget process.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Contingency Fund of India",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against India Code — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Constitution of India",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9239,
+      "cat": "Polity",
+      "topic": "Joint State Public Service Commission",
+      "q": "Under Article 315, who may provide by law for a Joint State Public Service Commission for two or more States?",
+      "o": [
+        "Parliament",
+        "The Governors acting jointly without legislation",
+        "The Union Public Service Commission by executive order",
+        "The Election Commission of India"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 315(2) empowers Parliament to provide by law for a Joint State Public Service Commission for a group of two or more States. It is distinct from the ordinary arrangement of a separate State Public Service Commission.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Joint State Public Service Commission",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against India Code — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Constitution of India",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9240,
+      "cat": "Polity",
+      "topic": "State Finance Commission",
+      "q": "Under Article 243-I, who constitutes the State Finance Commission to review the financial position of Panchayats?",
+      "o": [
+        "The Governor of the State",
+        "The President of India",
+        "The Speaker of the State Legislative Assembly",
+        "The State Election Commissioner"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 243-I requires the Governor to constitute a Finance Commission within the prescribed period and thereafter every five years. It reviews Panchayat finances and recommends principles for sharing taxes, grants and other financial resources.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "State Finance Commission",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against India Code — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Constitution of India",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9241,
+      "cat": "Polity",
+      "topic": "Creation of Legislative Council",
+      "q": "A State Legislative Assembly wishes to create or abolish its Legislative Council. Under Article 169, what must the Assembly first pass?",
+      "o": [
+        "A resolution by a majority of its total membership and at least two-thirds of members present and voting",
+        "A simple majority of members present and voting",
+        "A unanimous resolution of all elected members",
+        "A resolution approved by the Governor alone"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 169 requires a special resolution in the State Legislative Assembly: a majority of the total membership and not less than two-thirds of members present and voting. Parliament may then provide for creation or abolition by law.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Creation of Legislative Council",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against India Code — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Constitution of India",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9242,
+      "cat": "Polity",
+      "topic": "Sessions of State Legislature",
+      "q": "Under Article 174, what is the maximum period that may intervene between the last sitting of one session of a State Legislature and the first sitting of its next session?",
+      "o": [
+        "Six months",
+        "Three months",
+        "Nine months",
+        "Twelve months"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 174 requires that six months shall not intervene between the last sitting in one session and the first sitting in the next. This ensures that the State Legislature is summoned at least twice in each year.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Sessions of State Legislature",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against India Code — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Constitution of India",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9243,
+      "cat": "Polity",
+      "topic": "Panchayat functions",
+      "q": "Article 243-G allows a State Legislature to endow Panchayats with powers and authority to function as institutions of self-government. Which area is expressly included?",
+      "o": [
+        "Preparation of plans for economic development and social justice",
+        "Conduct of elections to Parliament",
+        "Appointment of High Court judges",
+        "Regulation of inter-State river-water disputes"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 243-G permits State Legislatures to devolve powers to Panchayats for economic development and social justice, including implementation of schemes relating to matters in the Eleventh Schedule. The extent of devolution is set by State law.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Panchayat functions",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against India Code — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Constitution of India",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9244,
+      "cat": "Polity",
+      "topic": "Panchayat taxation powers",
+      "q": "Under Article 243-H, which action may a State Legislature authorise a Panchayat to undertake by law?",
+      "o": [
+        "Levy, collect and appropriate specified taxes, duties, tolls and fees",
+        "Impose customs duties on imports at international borders",
+        "Levy income tax on all residents of India",
+        "Issue currency notes for local development"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 243-H allows State law to authorise Panchayats to levy, collect and appropriate specified taxes, duties, tolls and fees. State law may also assign revenues, provide grants-in-aid and establish Panchayat funds.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Panchayat taxation powers",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against India Code — Constitution of India.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Constitution of India",
+      "sourceURL": "https://www.indiacode.nic.in/bitstream/123456789/19632/1/the_constitution_of_india.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9245,
+      "cat": "History",
+      "topic": "Mughal agrarian society",
+      "q": "In Mughal-period agrarian records, the term 'pahi-kashta' referred to which category of cultivators?",
+      "o": [
+        "Non-resident cultivators who tilled land in a village other than their own",
+        "Peasants who owned no ploughs and worked only as soldiers",
+        "Revenue officers appointed by the village assembly",
+        "Cultivators who held hereditary rights over all village wasteland"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "NCERT distinguishes khud-kashta, resident cultivators of the village, from pahi-kashta, cultivators who came from another village to cultivate land elsewhere. The distinction helps explain mobility and contractual cultivation in Mughal rural society.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Mughal agrarian society",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Themes in Indian History II, Peasants, Zamindars and the State.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Themes in Indian History II, Peasants, Zamindars and the State",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/lehs204.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9246,
+      "cat": "History",
+      "topic": "Mansabdari system",
+      "q": "In the Mughal mansabdari system, what did the two numerical ranks 'zat' and 'sawar' primarily indicate?",
+      "o": [
+        "Zat indicated personal rank and salary; sawar indicated the cavalry obligation",
+        "Zat indicated land area; sawar indicated the tax rate on crops",
+        "Zat indicated religious status; sawar indicated court language",
+        "Zat indicated the number of villages; sawar indicated judicial authority"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "NCERT explains that zat determined a mansabdar's rank and salary, while sawar specified the number of cavalrymen the mansabdar was required to maintain. The two figures therefore represented related but different aspects of service.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Mansabdari system",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Our Pasts II, The Mughals.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Our Pasts II, The Mughals",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/gess104.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9247,
+      "cat": "History",
+      "topic": "Mughal land classification",
+      "q": "In the Mughal land classification described in the Ain-i Akbari, land left fallow for three to four years was called what?",
+      "o": [
+        "Chachar",
+        "Polaj",
+        "Parauti",
+        "Banjar"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The four categories distinguished cultivation history: polaj was regularly cultivated, parauti was left fallow temporarily, chachar had remained fallow for three to four years, and banjar for five years or more. Chachar is therefore the correct category.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Mughal land classification",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Themes in Indian History II, Peasants, Zamindars and the State.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Themes in Indian History II, Peasants, Zamindars and the State",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/lehs204.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9248,
+      "cat": "History",
+      "topic": "Delhi Sultanate administration",
+      "q": "Under the Delhi Sultans, what was the principal responsibility of a muqti or iqtadar in the territory assigned to him?",
+      "o": [
+        "To lead military campaigns and maintain law and order",
+        "To conduct the annual election of village headmen",
+        "To supervise only religious endowments",
+        "To appoint the Sultan and determine succession"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "NCERT describes muqtis as military commanders assigned iqtas. They led campaigns and maintained law and order, receiving revenue from their assignments as salary; state accountants checked collections and the required number of soldiers.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Delhi Sultanate administration",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Our Pasts II, Delhi: 12th to 15th Century.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Our Pasts II, Delhi: 12th to 15th Century",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/gess103.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9249,
+      "cat": "History",
+      "topic": "Vijayanagara history",
+      "q": "Which event in 1565 led to the sack of the Vijayanagara capital after the Battle of Talikota?",
+      "o": [
+        "The defeat of Vijayanagara forces by a confederacy of Deccan Sultanates",
+        "The conquest of Hampi by the Portuguese",
+        "A Mughal invasion led by Akbar",
+        "A succession dispute between the Chola princes"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Battle of Talikota in 1565 resulted in the defeat of Vijayanagara by a coalition of Deccan Sultanates. The capital was subsequently sacked, although the empire continued for some time from other centres.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Vijayanagara history",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Themes in Indian History I, An Imperial Capital: Vijayanagara.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Themes in Indian History I, An Imperial Capital: Vijayanagara",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/lehs203.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9250,
+      "cat": "History",
+      "topic": "Mughal succession",
+      "q": "Unlike the principle of primogeniture, what succession practice did the Mughals follow for inheritance among the emperor's sons?",
+      "o": [
+        "Coparcenary division of inheritance among the sons",
+        "Automatic inheritance by the eldest son alone",
+        "Election by the mansabdars",
+        "Selection by the Rajput chiefs"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "NCERT notes that the Mughals did not follow primogeniture. Their Timurid custom of coparcenary inheritance involved division of inheritance among the sons, a practice that could contribute to contests for power.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Mughal succession",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Our Pasts II, The Mughals.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Our Pasts II, The Mughals",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/gess104.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9251,
+      "cat": "Geography",
+      "topic": "Earthquake terminology",
+      "q": "The point inside the Earth where an earthquake rupture begins is called the focus or hypocentre. What is the point directly above it on the Earth's surface called?",
+      "o": [
+        "Epicentre",
+        "Fault scarp",
+        "Seismic gap",
+        "Aftershock zone"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The focus, also called the hypocentre, is the subsurface origin of the rupture. The epicentre is the point on the surface vertically above that focus; the two terms describe different locations and should not be interchanged.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Geography",
+        "Earthquake terminology",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against USGS — Earthquake Hazards Program.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "USGS — Earthquake Hazards Program",
+      "sourceURL": "https://www.usgs.gov/programs/earthquake-hazards",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9252,
+      "cat": "Geography",
+      "topic": "Transform plate boundary",
+      "q": "At a transform plate boundary, how do the two adjoining tectonic plates generally move relative to each other?",
+      "o": [
+        "They slide horizontally past one another",
+        "They move directly towards each other and one must subduct",
+        "They move apart and new crust forms between them",
+        "One plate rises vertically above the other without lateral motion"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Transform boundaries involve lateral movement along a fault as plates slide past one another. They commonly produce earthquakes, but they do not primarily create or destroy crust in the way divergent and convergent boundaries do.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Geography",
+        "Transform plate boundary",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against USGS — Plate tectonics and plate boundaries.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "USGS — Plate tectonics and plate boundaries",
+      "sourceURL": "https://www.usgs.gov/programs/earthquake-hazards/science/plate-tectonics",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9253,
+      "cat": "Geography",
+      "topic": "Cuesta landform",
+      "q": "A ridge has a steep scarp slope on one side and a long, gentle dip slope on the other, reflecting erosion of gently inclined rock layers. What landform is this?",
+      "o": [
+        "Cuesta",
+        "Drumlin",
+        "Yardang",
+        "Moraine"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A cuesta is an asymmetrical ridge developed on gently dipping strata. Differential erosion creates a steep scarp slope where resistant layers are exposed and a gentler dip slope that follows the inclination of the underlying beds.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Geography",
+        "Cuesta landform",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Geography textbooks and curriculum.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Geography textbooks and curriculum",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9254,
+      "cat": "Geography",
+      "topic": "Trellis drainage",
+      "q": "A river network has long parallel main streams joined by short tributaries that enter at nearly right angles in a folded mountain belt. Which drainage pattern is most likely?",
+      "o": [
+        "Trellis",
+        "Dendritic",
+        "Radial",
+        "Centripetal"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Trellis drainage commonly develops in folded or structurally controlled terrain where alternating resistant and less-resistant rock bands guide parallel valleys. Short tributaries join the main streams at near-right angles, creating a trellis-like plan.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Geography",
+        "Trellis drainage",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Geography textbooks and curriculum.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Geography textbooks and curriculum",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9255,
+      "cat": "Geography",
+      "topic": "Fjord formation",
+      "q": "A long, narrow, deep sea inlet with steep sides occupies a valley that was first deepened by a glacier and later flooded by the sea. What is this landform called?",
+      "o": [
+        "Fjord",
+        "Delta",
+        "Alluvial fan",
+        "Lagoon"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A fjord is a drowned glacial valley. Glacial erosion deepens and steepens the valley, often below present sea level; after the ice retreats, seawater floods the valley to form a long, narrow inlet.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Geography",
+        "Fjord formation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Geography textbooks and curriculum.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Geography textbooks and curriculum",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9256,
+      "cat": "Geography",
+      "topic": "Weathering and erosion",
+      "q": "A rock breaks down in place because of temperature changes and chemical reactions, but the fragments are not transported away. Which process is occurring?",
+      "o": [
+        "Weathering",
+        "Erosion",
+        "Mass wasting",
+        "Deposition"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Weathering is the physical, chemical or biological breakdown of rock at or near the Earth's surface. Erosion includes the removal and transport of the loosened material by water, wind, ice or gravity.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Geography",
+        "Weathering and erosion",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Geography textbooks and curriculum.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Geography textbooks and curriculum",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9257,
+      "cat": "Geography",
+      "topic": "Metamorphic rocks",
+      "q": "Which statement best describes the formation of a metamorphic rock?",
+      "o": [
+        "An existing rock is altered by heat, pressure or chemically active fluids without completely melting",
+        "Magma cools and crystallises at or below the surface",
+        "Loose sediments are compacted and cemented into layers",
+        "Organic remains accumulate and harden into coal"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Metamorphism changes the mineral composition, texture or structure of an existing rock under heat, pressure or chemically active fluids. The rock remains solid during metamorphism; complete melting followed by cooling would produce igneous rock.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Geography",
+        "Metamorphic rocks",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Geography textbooks and curriculum.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Geography textbooks and curriculum",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9258,
+      "cat": "Geography",
+      "topic": "Laterite soil formation",
+      "q": "Lateritic soils commonly develop in warm, wet regions where intense rainfall causes prolonged leaching. Which material tends to become relatively enriched in the soil profile?",
+      "o": [
+        "Iron and aluminium oxides",
+        "Fresh soluble salts and unaltered carbonates",
+        "Pure quartz with no clay minerals",
+        "Organic peat alone"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Strong chemical weathering and leaching remove many soluble bases and silica from the upper soil profile. Iron and aluminium compounds are comparatively less mobile under these conditions and can become relatively concentrated in lateritic soils.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Geography",
+        "Laterite soil formation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Geography textbooks and curriculum.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Geography textbooks and curriculum",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9259,
+      "cat": "Geography",
+      "topic": "Thermohaline circulation",
+      "q": "What primarily drives the large-scale thermohaline circulation of the oceans?",
+      "o": [
+        "Differences in seawater density caused by temperature and salinity",
+        "Only the daily rise and fall of tides",
+        "Only the direction of prevailing surface winds",
+        "Differences in ocean colour and transparency"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Thermohaline circulation is linked to density differences in seawater. Temperature and salinity both affect density; colder and/or saltier water is generally denser and can sink, helping drive deep-ocean circulation.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Geography",
+        "Thermohaline circulation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NOAA — Ocean circulation and currents.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NOAA — Ocean circulation and currents",
+      "sourceURL": "https://oceanservice.noaa.gov/education/tutorial_currents/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9260,
+      "cat": "Geography",
+      "topic": "Delta and estuary",
+      "q": "A river mouth is funnel-shaped, strongly influenced by tides, and has little permanent accumulation of river sediment because tidal currents carry much of it away. Which landform is described?",
+      "o": [
+        "Estuary",
+        "Delta",
+        "Alluvial fan",
+        "River terrace"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "An estuary is a tidal river mouth where seawater and freshwater mix and tidal currents help keep channels open. A delta forms where sediment accumulates faster than waves and currents can remove it, often producing distributaries.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Geography",
+        "Delta and estuary",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Geography textbooks and curriculum.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Geography textbooks and curriculum",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9261,
+      "cat": "Economy",
+      "topic": "Non-debt capital receipts",
+      "q": "Which pair consists of non-debt capital receipts of the Union Government?",
+      "o": [
+        "Recovery of loans and disinvestment proceeds",
+        "Income tax and GST collections",
+        "Interest payments and pension expenditure",
+        "Market borrowings and Treasury Bills"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Non-debt capital receipts do not create a new repayment liability. The Union Budget and Economic Survey identify recovery of loans and disinvestment proceeds as major examples; taxes are revenue receipts and market borrowings are debt receipts.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Non-debt capital receipts",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Union Budget — Budget at a Glance / receipts classification.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Union Budget — Budget at a Glance / receipts classification",
+      "sourceURL": "https://www.indiabudget.gov.in/economicsurvey/ebook_es2022/files/basic-html/page85.html",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9262,
+      "cat": "Economy",
+      "topic": "Merchandise trade balance",
+      "q": "A country imports goods worth more than it exports, even though it has a surplus in services. What is the position of its merchandise trade balance?",
+      "o": [
+        "It is in deficit",
+        "It is necessarily in surplus",
+        "It is exactly zero",
+        "It cannot be determined unless remittances are known"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The merchandise trade balance compares exports and imports of physical goods. If goods imports exceed goods exports, the merchandise balance is in deficit; a services surplus may improve the broader current account but does not change the goods-only result.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Merchandise trade balance",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against RBI — Balance of Payments and external-sector publications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "RBI — Balance of Payments and external-sector publications",
+      "sourceURL": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23949",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9263,
+      "cat": "Economy",
+      "topic": "Demand-pull inflation",
+      "q": "A sharp rise in household and government spending pushes aggregate demand beyond the economy's short-run productive capacity. What type of inflationary pressure is this?",
+      "o": [
+        "Demand-pull inflation",
+        "Cost-push inflation",
+        "Imported deflation",
+        "Structural unemployment"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Demand-pull inflation arises when aggregate demand grows faster than the economy can supply goods and services at prevailing prices. Stronger spending bids for limited output and places upward pressure on the general price level.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Demand-pull inflation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Introductory Macroeconomics textbook portal.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Introductory Macroeconomics textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9264,
+      "cat": "Economy",
+      "topic": "Cost-push inflation",
+      "q": "A sudden rise in fuel and transport costs increases firms' production expenses, causing them to raise selling prices. Which explanation best fits this situation?",
+      "o": [
+        "Cost-push inflation",
+        "Demand-pull inflation",
+        "Disinflation caused by weak demand",
+        "A fall in the general price level"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Cost-push inflation begins with higher input costs, such as fuel, wages or imported raw materials. Firms may pass some costs to consumers, shifting short-run aggregate supply left and raising prices even without an initial demand boom.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Cost-push inflation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Introductory Macroeconomics textbook portal.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Introductory Macroeconomics textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9265,
+      "cat": "Economy",
+      "topic": "NPA recognition for term loans",
+      "q": "Under RBI prudential directions for commercial banks, a term-loan account is generally classified as an NPA when principal or interest remains overdue for more than what period?",
+      "o": [
+        "90 days",
+        "30 days",
+        "60 days",
+        "180 days"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The RBI's asset-classification directions specify that a term loan becomes an NPA when interest and/or instalments of principal remain overdue for more than 90 days. The rule differs for some agricultural advances and other account types, so this item is limited to term loans.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "NPA recognition for term loans",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against RBI — Prudential norms on Income Recognition, Asset Classification and Provisioning.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "RBI — Prudential norms on Income Recognition, Asset Classification and Provisioning",
+      "sourceURL": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13069",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9266,
+      "cat": "Economy",
+      "topic": "Effective revenue deficit",
+      "q": "How is the effective revenue deficit of the Union Government calculated?",
+      "o": [
+        "Revenue deficit minus grants for creation of capital assets",
+        "Fiscal deficit minus interest payments",
+        "Revenue expenditure minus capital expenditure",
+        "Fiscal deficit plus non-debt capital receipts"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Budget defines effective revenue deficit as revenue deficit less grants for creation of capital assets. The adjustment recognises that some expenditure booked as revenue grants is used by recipient bodies to create capital assets.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Effective revenue deficit",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Union Budget — Effective Revenue Deficit definition.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Union Budget — Effective Revenue Deficit definition",
+      "sourceURL": "https://www.indiabudget.gov.in/budget2017-2018/ub2017-18/keybud/keybud2017.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9267,
+      "cat": "Economy",
+      "topic": "Crowding-out effect",
+      "q": "When increased government borrowing absorbs available loanable funds and places upward pressure on interest rates, potentially reducing private investment, what is this effect called?",
+      "o": [
+        "Crowding out",
+        "Multiplier acceleration",
+        "Cost-push inflation",
+        "Financial deepening"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The crowding-out effect describes how government borrowing may compete with private borrowers for available funds. If interest rates rise, some private investment projects may become too costly and be postponed or cancelled.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Crowding-out effect",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Introductory Macroeconomics textbook portal.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Introductory Macroeconomics textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9268,
+      "cat": "Economy",
+      "topic": "Disinflation and deflation",
+      "q": "The annual inflation rate falls from 6% to 3%, but the general price level is still rising. What is this situation called?",
+      "o": [
+        "Disinflation",
+        "Deflation",
+        "Hyperinflation",
+        "Stagflation"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Disinflation is a decline in the rate of inflation while the overall price level continues to rise. Deflation means a sustained fall in the general price level, so a positive inflation rate of 3% is disinflation, not deflation.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Disinflation and deflation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Introductory Macroeconomics textbook portal.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Introductory Macroeconomics textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9269,
+      "cat": "Economy",
+      "topic": "Depreciation and devaluation",
+      "q": "Under a floating exchange-rate regime, a currency loses value because of market demand and supply. Which term is normally used for this change?",
+      "o": [
+        "Depreciation",
+        "Devaluation",
+        "Revaluation",
+        "Sterilisation"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Depreciation normally refers to a market-driven fall in a currency's value under a floating or flexible exchange-rate regime. Devaluation is an official downward adjustment of a currency's value by the authorities under a fixed or managed parity.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Depreciation and devaluation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against RBI — Exchange-rate policy and exchange-rate terminology.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "RBI — Exchange-rate policy and exchange-rate terminology",
+      "sourceURL": "https://www.rbi.org.in/scripts/PublicationsView.aspx?id=10847",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9270,
+      "cat": "Economy",
+      "topic": "Terms of trade",
+      "q": "A country's export-price index rises relative to its import-price index. What does an improvement in its terms of trade generally mean?",
+      "o": [
+        "A given quantity of exports can purchase more imports",
+        "A given quantity of exports can purchase fewer imports",
+        "The country must export fewer goods by law",
+        "The exchange rate must remain fixed"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Terms of trade compare export prices with import prices. When export prices rise relative to import prices, the country can generally obtain more imports for a given quantity of exports, although the overall trade balance also depends on quantities and demand.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Terms of trade",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against RBI — Balance of Payments and external-sector publications.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "RBI — Balance of Payments and external-sector publications",
+      "sourceURL": "https://www.rbi.org.in/Scripts/PublicationsView.aspx?id=23949",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9271,
+      "cat": "Science",
+      "topic": "Lenz's law",
+      "q": "A magnet is pushed towards a closed conducting coil. What does Lenz's law tell us about the direction of the induced current?",
+      "o": [
+        "It produces a magnetic effect that opposes the change in flux causing it",
+        "It always produces a magnetic field in the direction of the magnet's motion",
+        "It always flows clockwise when viewed from the magnet side",
+        "It is independent of whether the magnet approaches or recedes"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Lenz's law states that the induced current flows in a direction whose magnetic effect opposes the change in magnetic flux that produced it. This is consistent with conservation of energy; the coil resists the approach of the magnet.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Science",
+        "Lenz's law",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Science and Physics/Chemistry textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science and Physics/Chemistry textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9272,
+      "cat": "Science",
+      "topic": "Parallel resistance",
+      "q": "Two resistors of 6 ohms and 3 ohms are connected in parallel. What is their equivalent resistance?",
+      "o": [
+        "2 ohms",
+        "9 ohms",
+        "3 ohms",
+        "18 ohms"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "For parallel resistors, 1/R = 1/6 + 1/3 = 1/6 + 2/6 = 3/6 = 1/2. Thus the equivalent resistance is 2 ohms, which is lower than the smallest individual resistance.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Science",
+        "Parallel resistance",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Science and Physics/Chemistry textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science and Physics/Chemistry textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9273,
+      "cat": "Science",
+      "topic": "Electrolysis and electrodes",
+      "q": "During electrolysis, which process takes place at the cathode?",
+      "o": [
+        "Reduction, involving gain of electrons",
+        "Oxidation, involving loss of electrons",
+        "Neutralisation of every ion",
+        "Evaporation of the electrolyte"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Reduction occurs at the cathode because positively charged ions or other reducible species gain electrons there. Oxidation occurs at the anode; the electrode names do not change this rule in electrolytic cells.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Science",
+        "Electrolysis and electrodes",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Science and Physics/Chemistry textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science and Physics/Chemistry textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9274,
+      "cat": "Science",
+      "topic": "DNA replication",
+      "q": "Why is DNA replication described as semi-conservative?",
+      "o": [
+        "Each daughter DNA molecule contains one parental strand and one newly synthesised strand",
+        "Both strands of each daughter molecule are newly synthesised",
+        "One daughter molecule receives all the original DNA and the other receives none",
+        "The DNA sequence is copied without using a template"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "In semi-conservative replication, the two parental strands separate and each acts as a template for a new complementary strand. Each resulting DNA double helix therefore conserves one original strand and contains one newly made strand.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Science",
+        "DNA replication",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Biology, Molecular Basis of Inheritance.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Biology, Molecular Basis of Inheritance",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/lebo106.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9275,
+      "cat": "Science",
+      "topic": "Insulin function",
+      "q": "Which statement best describes the normal role of insulin released by pancreatic beta cells?",
+      "o": [
+        "It lowers blood glucose by promoting cellular uptake and storage of nutrients",
+        "It raises blood glucose by stimulating glycogen breakdown",
+        "It directly converts oxygen into glucose",
+        "It prevents all glucose from entering liver cells"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Insulin is secreted by beta cells of the pancreatic islets when blood glucose rises. It promotes glucose uptake in responsive tissues and supports storage as glycogen and fat, thereby lowering circulating blood glucose.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Science",
+        "Insulin function",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Science and Physics/Chemistry textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science and Physics/Chemistry textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9276,
+      "cat": "Science",
+      "topic": "Photosystem II",
+      "q": "During the light reactions of photosynthesis, which photosystem is associated with the splitting of water and release of oxygen?",
+      "o": [
+        "Photosystem II",
+        "Photosystem I",
+        "Cytochrome c oxidase",
+        "ATP synthase"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The oxygen-evolving complex associated with Photosystem II catalyses photolysis of water. This supplies electrons to the photosynthetic electron-transport chain and releases protons and molecular oxygen.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Science",
+        "Photosystem II",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Science and Physics/Chemistry textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science and Physics/Chemistry textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9277,
+      "cat": "Science",
+      "topic": "Transformer core losses",
+      "q": "Why are transformer cores commonly built from thin, insulated laminations rather than one solid block of iron?",
+      "o": [
+        "To reduce eddy-current losses",
+        "To increase the resistance of the external load",
+        "To eliminate magnetic flux from the core",
+        "To convert alternating current into direct current"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Thin insulated laminations interrupt large circulating current paths inside the core. This increases the resistance of eddy-current loops and reduces heat loss, improving transformer efficiency.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Science",
+        "Transformer core losses",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Science and Physics/Chemistry textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science and Physics/Chemistry textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9278,
+      "cat": "Science",
+      "topic": "Casparian strip",
+      "q": "In a plant root, where is the Casparian strip located and what is its main role?",
+      "o": [
+        "In the endodermis, where it blocks apoplastic flow and helps regulate entry into the vascular cylinder",
+        "In the epidermis, where it absorbs sunlight for photosynthesis",
+        "In the xylem vessels, where it transports sugars",
+        "In the phloem, where it prevents transpiration"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Casparian strip is a band of suberin in endodermal cell walls. It interrupts the apoplastic route, forcing water and dissolved minerals to cross a selectively controlled membrane before entering the stele.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Science",
+        "Casparian strip",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Biology Exemplar Problems, Class XI (plant water movement and Casparian strip).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Biology Exemplar Problems, Class XI (plant water movement and Casparian strip)",
+      "sourceURL": "https://www.ncert.nic.in/pdf/publication/exemplarproblem/classXI/biology/keep411.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9279,
+      "cat": "Science",
+      "topic": "Myelin sheath",
+      "q": "What is the main effect of a myelin sheath around many vertebrate nerve fibres?",
+      "o": [
+        "It speeds impulse conduction by enabling saltatory conduction between nodes of Ranvier",
+        "It converts electrical impulses into hormones",
+        "It prevents all ion movement across the axon membrane",
+        "It stores neurotransmitters inside the nucleus"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Myelin electrically insulates much of the axon. Action potentials are regenerated at the nodes of Ranvier, so the impulse appears to jump from node to node; this saltatory conduction is faster than continuous propagation.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Science",
+        "Myelin sheath",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Science and Physics/Chemistry textbooks.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science and Physics/Chemistry textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9280,
+      "cat": "Science",
+      "topic": "Doppler effect",
+      "q": "A sound source moves towards a stationary listener. What happens to the frequency heard by the listener, compared with the emitted frequency?",
+      "o": [
+        "It is higher",
+        "It is lower",
+        "It becomes zero",
+        "It remains exactly the same in all cases"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "When a source approaches a stationary listener, successive wavefronts arrive closer together. The observed wavelength is shorter and the observed frequency is higher; when the source recedes, the observed frequency is lower.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Inspector of Taxes"
+      ],
+      "tags": [
+        "Science",
+        "Doppler effect",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Physics syllabus and textbook resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Physics syllabus and textbook resources",
+      "sourceURL": "https://www.ncert.nic.in/desm/pdf/desm_s_physics.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9281,
+      "cat": "Environment",
+      "topic": "Wetland flood regulation",
+      "q": "A wetland temporarily stores excess rainwater and releases it more slowly, reducing downstream flood peaks. Which ecosystem service is being illustrated?",
+      "o": [
+        "Flood regulation",
+        "Mineral extraction",
+        "Primary production by plankton only",
+        "Atmospheric nitrogen fixation"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Wetlands can act as natural storage areas: water spreads across floodplains or shallow basins and is released gradually. This can reduce peak flows, while wetlands also provide habitat and water-purification benefits.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Environment",
+        "Wetland flood regulation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against MoEFCC — Convention on Wetlands / Ramsar framework.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "MoEFCC — Convention on Wetlands / Ramsar framework",
+      "sourceURL": "https://moef.gov.in/convention-on-wetlands-ramsar-convention",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9282,
+      "cat": "Environment",
+      "topic": "Bioindicator species",
+      "q": "A stream-monitoring programme records the presence and condition of pollution-sensitive aquatic insects. What is the main purpose of using these organisms?",
+      "o": [
+        "To infer environmental quality from biological responses",
+        "To measure the stream's exact depth without instruments",
+        "To calculate the age of the river channel",
+        "To identify the chemical formula of every dissolved mineral"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Bioindicators are organisms whose presence, absence, abundance or condition reflects environmental conditions. Pollution-sensitive aquatic insects can reveal ecological stress over time and complement one-time chemical measurements of water.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Environment",
+        "Bioindicator species",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against MoEFCC — Convention on Biological Diversity.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "MoEFCC — Convention on Biological Diversity",
+      "sourceURL": "https://moef.gov.in/convention-on-biological-diversity-cbd",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9283,
+      "cat": "Environment",
+      "topic": "Ecological footprint",
+      "q": "What does the ecological footprint of a population estimate?",
+      "o": [
+        "The biologically productive area needed to supply its resource use and absorb its waste",
+        "The total number of animal species living in its territory",
+        "The physical area covered by buildings alone",
+        "The amount of rainfall received in one year"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The ecological footprint expresses human demand on biologically productive land and water. It estimates the area needed to provide consumed resources and assimilate certain wastes, especially carbon emissions, under prevailing technology and management.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Environment",
+        "Ecological footprint",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Global Footprint Network — Ecological Footprint.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Global Footprint Network — Ecological Footprint",
+      "sourceURL": "https://www.footprintnetwork.org/our-work/ecological-footprint/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9284,
+      "cat": "Environment",
+      "topic": "Watershed management",
+      "q": "Why is a watershed often used as a planning unit for soil and water conservation?",
+      "o": [
+        "Runoff, streams, land use and upstream activities are connected within the same drainage area",
+        "A watershed always follows administrative district boundaries",
+        "It contains only groundwater and excludes surface streams",
+        "Every watershed has the same rainfall and soil conditions"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A watershed is an area draining to a common outlet. Planning at this scale recognises that land cover, erosion, infiltration and upstream activities affect downstream water quantity and quality, so measures are coordinated across the drainage system.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Environment",
+        "Watershed management",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Geography textbooks and curriculum (watershed and drainage-basin concepts).",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Geography textbooks and curriculum (watershed and drainage-basin concepts)",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9285,
+      "cat": "Environment",
+      "topic": "Ecotone",
+      "q": "What is an ecotone in ecology?",
+      "o": [
+        "A transition zone between two adjacent ecosystems or ecological communities",
+        "A region where no living organisms can survive",
+        "A deep layer of permanently frozen soil",
+        "A single species occupying the entire food web"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "An ecotone is a transition area between adjoining ecological communities, such as forest and grassland. It may contain species from both communities and sometimes species particularly adapted to the boundary conditions.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Environment",
+        "Ecotone",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against MoEFCC — Convention on Biological Diversity.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "MoEFCC — Convention on Biological Diversity",
+      "sourceURL": "https://moef.gov.in/convention-on-biological-diversity-cbd",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9286,
+      "cat": "Environment",
+      "topic": "Riparian buffer",
+      "q": "A vegetated strip is maintained alongside a stream to intercept sediment and pollutants in surface runoff before they enter the water. What is this strip commonly called?",
+      "o": [
+        "A riparian buffer",
+        "A desert pavement",
+        "A moraine",
+        "A tidal bore"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Vegetated buffers beside streams slow overland flow and help trap sediment and some pollutants through filtration, deposition, infiltration and plant uptake. They can also stabilise banks and provide habitat along waterways.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Environment",
+        "Riparian buffer",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against USDA Natural Resources Conservation Service — Filter strips and runoff control.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "USDA Natural Resources Conservation Service — Filter strips and runoff control",
+      "sourceURL": "https://www.nrcs.usda.gov/conservation-basics/land/forests/agroforestry-systems/filter-strip",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9287,
+      "cat": "Environment",
+      "topic": "Ecological corridor",
+      "q": "A narrow strip of suitable habitat connects two otherwise separated forest patches, allowing animals to move between them. What conservation function does it provide?",
+      "o": [
+        "Habitat connectivity",
+        "Artificial eutrophication",
+        "Thermal inversion",
+        "Desertification"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "An ecological corridor links habitat patches and can facilitate dispersal, migration and gene flow between populations. Connectivity can reduce isolation and support recolonisation, although corridor design must suit the species concerned.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Environment",
+        "Ecological corridor",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against MoEFCC — Convention on Biological Diversity.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "MoEFCC — Convention on Biological Diversity",
+      "sourceURL": "https://moef.gov.in/convention-on-biological-diversity-cbd",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9288,
+      "cat": "Environment",
+      "topic": "Ecosystem resilience",
+      "q": "After a disturbance, an ecosystem absorbs the shock, reorganises and continues to maintain its essential structure and functions. Which concept does this describe?",
+      "o": [
+        "Ecosystem resilience",
+        "Ecological footprint",
+        "Primary productivity",
+        "Biomagnification"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Resilience describes the capacity of a system to absorb disturbance and reorganise while retaining its essential identity, functions and feedbacks. It is different from simply returning immediately to an identical pre-disturbance state.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Environment",
+        "Ecosystem resilience",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against IPCC — Climate Change 2022: Impacts, Adaptation and Vulnerability.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "IPCC — Climate Change 2022: Impacts, Adaptation and Vulnerability",
+      "sourceURL": "https://www.ipcc.ch/report/ar6/wg2/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9289,
+      "cat": "Computer",
+      "topic": "Backup strategies",
+      "q": "A system performs a full backup on Sunday. On Monday it saves changes since Sunday; on Tuesday it saves changes since Monday's backup. What type of Tuesday backup is this?",
+      "o": [
+        "Incremental backup",
+        "Differential backup",
+        "Another full backup",
+        "Mirror-only backup"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "An incremental backup captures changes since the immediately preceding backup, whether that was full or incremental. A differential backup instead captures all changes since the last full backup, so the Tuesday set here is incremental.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Backup strategies",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NIST — Contingency Planning Guide for Federal Information Systems.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIST — Contingency Planning Guide for Federal Information Systems",
+      "sourceURL": "https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-34r1.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9290,
+      "cat": "Computer",
+      "topic": "SQL filtering",
+      "q": "In a SQL query that groups sales by branch, which clause is used to filter individual rows before the grouping operation?",
+      "o": [
+        "WHERE",
+        "HAVING",
+        "ORDER BY",
+        "GROUP BY"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "WHERE filters rows before GROUP BY forms groups. HAVING filters the resulting groups, often using aggregate conditions such as SUM or COUNT; confusing the two can change the meaning of a query.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "SQL filtering",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against PostgreSQL — SELECT, WHERE and HAVING clauses.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "PostgreSQL — SELECT, WHERE and HAVING clauses",
+      "sourceURL": "https://www.postgresql.org/docs/current/sql-select.html",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9291,
+      "cat": "Computer",
+      "topic": "Multi-factor authentication",
+      "q": "A staff login requires a password and a one-time code generated by a hardware token. Why is this multi-factor authentication?",
+      "o": [
+        "It combines something the user knows with something the user has",
+        "It uses two different passwords, both things the user knows",
+        "It uses two usernames for the same account",
+        "It asks the user to repeat the same PIN twice"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "NIST distinguishes factors such as something you know, something you have and something you are. A password is a knowledge factor and a controlled hardware token is a possession factor, so the login uses two distinct factor categories.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Multi-factor authentication",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NIST — Multi-factor authentication glossary.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIST — Multi-factor authentication glossary",
+      "sourceURL": "https://csrc.nist.gov/glossary/term/multi_factor_authentication",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9292,
+      "cat": "Computer",
+      "topic": "Spear phishing",
+      "q": "An attacker sends a customised fraudulent email to one named employee, referring to that employee's actual project and supervisor to induce a payment. What type of phishing is this?",
+      "o": [
+        "Spear phishing",
+        "A generic broadcast advertisement",
+        "A harmless software update",
+        "A distributed denial-of-service attack"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Spear phishing is a targeted form of phishing tailored to a particular person or organisation. Personalised details make the message appear credible, but the aim remains to trick the recipient into disclosing information or taking an unsafe action.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Spear phishing",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NIST — Digital identity guidelines and phishing.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIST — Digital identity guidelines and phishing",
+      "sourceURL": "https://pages.nist.gov/800-63-4/sp800-63.html",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9293,
+      "cat": "Computer",
+      "topic": "DHCP",
+      "q": "Which network protocol automatically provides a client with configuration information such as an IP address, subnet mask and default gateway?",
+      "o": [
+        "Dynamic Host Configuration Protocol (DHCP)",
+        "Address Resolution Protocol (ARP)",
+        "Simple Mail Transfer Protocol (SMTP)",
+        "Network Time Protocol (NTP)"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "DHCP automates the assignment of network configuration parameters to clients. It reduces manual configuration and allows a device to obtain an address lease and other settings when it joins a network.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "DHCP",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against IETF — RFC 2131, Dynamic Host Configuration Protocol.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "IETF — RFC 2131, Dynamic Host Configuration Protocol",
+      "sourceURL": "https://www.rfc-editor.org/rfc/rfc2131.html",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9294,
+      "cat": "Computer",
+      "topic": "Address Resolution Protocol",
+      "q": "On an IPv4 local-area network, what does ARP help a host discover when it already knows the destination's IPv4 address on the local link?",
+      "o": [
+        "The corresponding link-layer hardware address, usually a MAC address",
+        "The destination's registered domain name",
+        "The remote server's TLS certificate",
+        "The user's email password"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "ARP resolves a protocol address such as an IPv4 address to a hardware address used for local-link delivery, commonly an Ethernet MAC address. It does not translate domain names or authenticate remote websites.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Address Resolution Protocol",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against IETF — RFC 826, Address Resolution Protocol.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "IETF — RFC 826, Address Resolution Protocol",
+      "sourceURL": "https://www.rfc-editor.org/rfc/rfc826.html",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9295,
+      "cat": "Computer",
+      "topic": "Digital signatures",
+      "q": "What do properly implemented digital signatures primarily provide for signed electronic data?",
+      "o": [
+        "Authenticity and integrity, with support for non-repudiation",
+        "Confidentiality by hiding the entire message from every reader",
+        "Guaranteed protection from malware on the sender's device",
+        "Automatic deletion of the original document"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "NIST describes a digital signature as a private-key operation verified with the corresponding public key. It supports origin authenticity and data integrity, and can support non-repudiation; it does not itself provide confidentiality.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Digital signatures",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NIST — Digital signature glossary.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIST — Digital signature glossary",
+      "sourceURL": "https://csrc.nist.gov/glossary/term/digital_signature",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9296,
+      "cat": "Computer",
+      "topic": "Browser cache and cookies",
+      "q": "Which statement correctly distinguishes a browser cache from an HTTP cookie?",
+      "o": [
+        "A cache stores reusable responses or resources; a cookie stores small pieces of state sent with matching requests",
+        "A cache stores passwords only; a cookie stores complete web pages",
+        "A cache is always a server-side database; a cookie is a graphics file",
+        "Both are identical mechanisms for encrypting network traffic"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The browser cache can reuse stored responses such as images, scripts and other resources to reduce repeat downloads. Cookies store small state values, often for sessions or preferences, and may be sent with subsequent matching HTTP requests.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Browser cache and cookies",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against MDN — HTTP caching and browser cookies.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "MDN — HTTP caching and browser cookies",
+      "sourceURL": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Caching",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9297,
+      "cat": "Arithmetic",
+      "topic": "Probability without replacement",
+      "q": "A bag contains 5 red and 3 blue balls. Two balls are drawn successively without replacement. What is the probability that both are red?",
+      "o": [
+        "5/14",
+        "25/64",
+        "5/8",
+        "10/21"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The probability of a red ball first is 5/8. After one red is removed, 4 red remain among 7 balls, so the second-red probability is 4/7. Multiplying gives (5/8) × (4/7) = 20/56 = 5/14.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Probability without replacement",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Mathematics Exemplar Problems.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Mathematics Exemplar Problems",
+      "sourceURL": "https://ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9298,
+      "cat": "Arithmetic",
+      "topic": "Map scale",
+      "q": "A map has a scale of 1:50,000. Two points are 3.6 cm apart on the map. What is their ground distance?",
+      "o": [
+        "1.8 km",
+        "180 m",
+        "18 km",
+        "500 m"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "At a scale of 1:50,000, 1 cm represents 50,000 cm or 500 m on the ground. Therefore 3.6 cm represents 3.6 × 500 = 1,800 m, which is 1.8 km.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Map scale",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Mathematics Exemplar Problems.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Mathematics Exemplar Problems",
+      "sourceURL": "https://ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9299,
+      "cat": "Arithmetic",
+      "topic": "Percentage change in area",
+      "q": "The side of a square is increased by 25%. By what percentage does its area increase?",
+      "o": [
+        "56.25%",
+        "25%",
+        "50%",
+        "62.5%"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Area varies as the square of the side. If the side becomes 1.25 times its original value, the area becomes 1.25² = 1.5625 times the original, so the increase is 0.5625 × 100 = 56.25%.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Percentage change in area",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Mathematics Exemplar Problems.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Mathematics Exemplar Problems",
+      "sourceURL": "https://ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9300,
+      "cat": "Arithmetic",
+      "topic": "Area of an inner border",
+      "q": "A rectangular plot measures 48 m by 30 m. A path 2 m wide runs inside along all four sides. What is the area of the path?",
+      "o": [
+        "296 m²",
+        "192 m²",
+        "304 m²",
+        "1,144 m²"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The outer area is 48 × 30 = 1,440 m². Removing a 2 m strip on each side leaves an inner rectangle of 44 m by 26 m, or 1,144 m². The path area is 1,440 − 1,144 = 296 m².",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Area of an inner border",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Mathematics Exemplar Problems.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Mathematics Exemplar Problems",
+      "sourceURL": "https://ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9301,
+      "cat": "Arithmetic",
+      "topic": "Algebraic ratio",
+      "q": "If x:y = 3:4, what is the value of the ratio (2x + 3y):(x + 2y)?",
+      "o": [
+        "18:11",
+        "3:2",
+        "17:10",
+        "6:7"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Let x = 3k and y = 4k. Then 2x + 3y = 6k + 12k = 18k, while x + 2y = 3k + 8k = 11k. Cancelling k gives 18:11, because a common multiplier does not change a ratio.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Algebraic ratio",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Mathematics Exemplar Problems.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Mathematics Exemplar Problems",
+      "sourceURL": "https://ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9302,
+      "cat": "Arithmetic",
+      "topic": "Rainfall volume",
+      "q": "A rainfall depth of 25 mm falls uniformly over a catchment area of 2 hectares. What volume of water falls on the area, ignoring infiltration and runoff?",
+      "o": [
+        "500 m³",
+        "50 m³",
+        "5,000 m³",
+        "1,250 m³"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Convert 25 mm to 0.025 m and 2 hectares to 20,000 m². Volume = depth × area = 0.025 × 20,000 = 500 cubic metres. The calculation estimates gross rainfall volume before losses.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Rainfall volume",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against NCERT — Mathematics Exemplar Problems.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Mathematics Exemplar Problems",
+      "sourceURL": "https://ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9303,
+      "cat": "Reasoning",
+      "topic": "Blood relations",
+      "q": "Mira is the sister of Nikhil. Nikhil is the father of Tara. How is Mira related to Tara?",
+      "o": [
+        "Paternal aunt",
+        "Maternal aunt",
+        "Grandmother",
+        "Cousin"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Nikhil is Tara's father, and Mira is Nikhil's sister. A father's sister is the child's paternal aunt. The relationship is determined through the parent-child link first, then the sibling link.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Blood relations",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Original Practice — author-created reasoning item.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original Practice — author-created reasoning item",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9304,
+      "cat": "Reasoning",
+      "topic": "Calendar reasoning",
+      "q": "If 1 January 2024 was a Monday, what day of the week was 1 January 2025? (2024 was a leap year.)",
+      "o": [
+        "Wednesday",
+        "Tuesday",
+        "Thursday",
+        "Friday"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A leap year has 366 days, which is 52 weeks plus 2 days. The same calendar date therefore moves forward by two weekdays: Monday plus two days is Wednesday.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Calendar reasoning",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Original Practice — author-created reasoning item.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original Practice — author-created reasoning item",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9305,
+      "cat": "Reasoning",
+      "topic": "Circular seating",
+      "q": "Five officers A, B, C, D and E sit equally spaced around a circular table facing the centre. B is immediately clockwise from A, C is second clockwise from A, and D is immediately anticlockwise from A. Who is immediately clockwise from C?",
+      "o": [
+        "E",
+        "B",
+        "D",
+        "A"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Fix A at one seat and move clockwise: B occupies the next seat and C the second seat. D is immediately anticlockwise from A, leaving E in the only remaining seat, immediately clockwise from C.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Circular seating",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Original Practice — author-created reasoning item.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original Practice — author-created reasoning item",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9306,
+      "cat": "Reasoning",
+      "topic": "Opposite alphabet coding",
+      "q": "A code replaces each English letter with the letter in the opposite position of the alphabet (A↔Z, B↔Y, and so on). How is the word TAX coded?",
+      "o": [
+        "GZC",
+        "GAX",
+        "WJC",
+        "GYC"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The opposite-position mapping pairs the first and last letters, so T maps to G, A maps to Z and X maps to C. Reading the mapped letters in the original order gives GZC.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Opposite alphabet coding",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Original Practice — author-created reasoning item.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original Practice — author-created reasoning item",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9307,
+      "cat": "Reasoning",
+      "topic": "Mirror image of a clock",
+      "q": "An analogue clock shows 2:35. What time would its mirror image show in a plane mirror?",
+      "o": [
+        "9:25",
+        "8:25",
+        "9:35",
+        "10:25"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "For a standard clock-face mirror image, subtract the shown time from 11:60. Thus 11:60 − 2:35 = 9:25. The result is the reflected clock reading, not the actual passage of time.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Mirror image of a clock",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Original Practice — author-created reasoning item.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original Practice — author-created reasoning item",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9308,
+      "cat": "English",
+      "topic": "Relative pronoun after a preposition",
+      "q": "Choose the grammatically correct completion: 'The officer to ___ the records were forwarded acknowledged receipt.'",
+      "o": [
+        "whom",
+        "who",
+        "whose",
+        "which"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "In formal written English, whom is used as the object of a preposition referring to a person. Here the preposition 'to' directly governs the relative pronoun, so 'to whom' is the correct construction.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Relative pronoun after a preposition",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Cambridge Dictionary — Relative pronouns.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — Relative pronouns",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/relative-pronouns",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9309,
+      "cat": "English",
+      "topic": "Non-defining relative clauses",
+      "q": "Which sentence is correctly punctuated as a non-defining relative clause?",
+      "o": [
+        "The Shillong office, which opened in April, serves several districts.",
+        "The Shillong office, that opened in April, serves several districts.",
+        "The Shillong office, who opened in April, serves several districts.",
+        "The Shillong office, whose opened in April, serves several districts."
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A non-defining relative clause adds extra information and is set off by commas. In standard written English it uses a relative pronoun such as which or who, not that, and the clause is closed by a second comma.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Non-defining relative clauses",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Cambridge Dictionary — Relative pronouns.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — Relative pronouns",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/relative-pronouns",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9310,
+      "cat": "English",
+      "topic": "Second conditional",
+      "q": "Choose the correct completion: 'If the records were complete, the audit ___ much faster.'",
+      "o": [
+        "would proceed",
+        "will proceeded",
+        "would have proceed",
+        "proceeds"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The sentence describes an unreal or hypothetical present situation. The second conditional commonly uses 'if + past simple' followed by 'would + base verb', so 'would proceed' is the correct form.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Second conditional",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Cambridge Dictionary — Relative pronouns.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — Relative pronouns",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/relative-pronouns",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9311,
+      "cat": "English",
+      "topic": "Appositive phrase",
+      "q": "In the sentence 'The district officer, a trained surveyor, checked the map,' what is the grammatical function of 'a trained surveyor'?",
+      "o": [
+        "An appositive phrase that renames the district officer",
+        "A direct object receiving the action",
+        "An adverbial phrase showing time",
+        "A subordinate clause expressing condition"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "An appositive is a noun or noun phrase placed beside another noun to identify or explain it. Here 'a trained surveyor' renames 'the district officer' and is set off by commas as additional information.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Appositive phrase",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Cambridge Dictionary — Relative pronouns.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — Relative pronouns",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/relative-pronouns",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9312,
+      "cat": "English",
+      "topic": "Affect and effect",
+      "q": "Choose the correct pair: 'The revised procedure may ___ processing time; its overall ___ will be reviewed after one month.'",
+      "o": [
+        "affect; effect",
+        "effect; affect",
+        "affects; effects",
+        "effect; effects"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Affect is commonly used as a verb meaning to influence, while effect is commonly a noun meaning result. The first blank needs a verb and the second a noun, so 'affect; effect' is correct.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Affect and effect",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Cambridge Dictionary — Affect and effect.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — Affect and effect",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/affect",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9313,
+      "cat": "English",
+      "topic": "Stationary and stationery",
+      "q": "Choose the correct pair: 'The vehicle remained ___ while the clerk arranged the office ___.'",
+      "o": [
+        "stationary; stationery",
+        "stationery; stationary",
+        "stationary; stationary",
+        "stationery; stationery"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Stationary means not moving, whereas stationery refers to writing materials such as paper, envelopes and pens. The sentence needs the adjective for the vehicle and the noun for office supplies.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Stationary and stationery",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Cambridge Dictionary — Stationary and stationery.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — Stationary and stationery",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/stationary",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    },
+    {
+      "id": 9314,
+      "cat": "English",
+      "topic": "Complement and compliment",
+      "q": "Choose the correct pair: 'The blue tie will ___ the suit, and the visitor paid the clerk a kind ___.'",
+      "o": [
+        "complement; compliment",
+        "compliment; complement",
+        "complement; complement",
+        "compliment; compliment"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Complement means to complete or go well with something; compliment means an expression of praise. The tie goes well with the suit, while the visitor gives praise, so the two words have different spellings and meanings.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Complement and compliment",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Verified against Cambridge Dictionary — Complement and compliment.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — Complement and compliment",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/complement",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
+    }
+  ]
+}
