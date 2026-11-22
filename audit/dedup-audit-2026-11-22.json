@@ -1,0 +1,210 @@
+{
+  "date": "2026-11-22",
+  "target": 90,
+  "draftedCandidates": 102,
+  "validatedUniqueQuestions": 90,
+  "rejectedCandidates": [
+    {
+      "candidateId": "draft-9251-coordinate-distance",
+      "topic": "Coordinate distance formula",
+      "reason": "Near-duplicate of official PYQ direction/distance questions; same shortest-distance/Pythagorean reasoning path.",
+      "collisionReference": "pyq-papers/lda-mpsc-2023-may-series-i.json questions 122 and 124"
+    },
+    {
+      "candidateId": "draft-9253-two-coin-probability",
+      "topic": "Probability of exactly one head in two coin tosses",
+      "reason": "Overlapped with an existing active-bank coin-toss probability item; rejected to avoid repeating the same sample-space skill.",
+      "collisionReference": "canonical active bank"
+    },
+    {
+      "candidateId": "draft-9254-without-replacement",
+      "topic": "Probability of drawing two red balls without replacement",
+      "reason": "Near-duplicate probability calculation and reasoning path already represented in official PYQ corpus.",
+      "collisionReference": "official PYQ corpus, all 19 transcription files"
+    },
+    {
+      "candidateId": "draft-9255-cone-volume",
+      "topic": "Volume of a cone",
+      "reason": "Overlapped with an active-bank circular-solid volume question; replaced with a different algebraic skill.",
+      "collisionReference": "canonical active bank question on frustum volume"
+    },
+    {
+      "candidateId": "draft-9255-polynomial-remainder",
+      "topic": "Polynomial remainder theorem",
+      "reason": "Near-duplicate of an official PYQ testing remainder on polynomial division; replaced with an absolute-value inequality.",
+      "collisionReference": "pyq-papers/typist-hod-2020-series-ii.json"
+    },
+    {
+      "candidateId": "draft-9256-decagon-interior-angle-sum",
+      "topic": "Sum of interior angles of a decagon",
+      "reason": "Repeated the same polygon interior-angle-sum formula already tested in an official PYQ.",
+      "collisionReference": "official PYQ corpus"
+    },
+    {
+      "candidateId": "draft-9258-simultaneous-linear-equations",
+      "topic": "Solving simultaneous linear equations",
+      "reason": "Overlapped with an official PYQ algebraic equation-solving skill; replaced with opportunity/ecological-footprint content.",
+      "collisionReference": "official PYQ corpus"
+    },
+    {
+      "candidateId": "draft-9259-blood-relation",
+      "topic": "Blood-relation chain",
+      "reason": "Repeated the same family-relationship inference skill present in official PYQs.",
+      "collisionReference": "official PYQ corpus"
+    },
+    {
+      "candidateId": "draft-9261-clock-angle-0420",
+      "topic": "Clock-hand angle at 4:20",
+      "reason": "Same time and angle-calculation task as an official PYQ; replaced with a world-history question.",
+      "collisionReference": "official PYQ corpus"
+    },
+    {
+      "candidateId": "draft-9230-governor-appointment",
+      "topic": "Appointment of a State Governor",
+      "reason": "Semantically duplicated an active-bank question on the constitutional appointing authority; replaced with a distinct Meghalaya administrative-statistics question.",
+      "collisionReference": "canonical active bank"
+    },
+    {
+      "candidateId": "draft-9297-ramsar-wise-use",
+      "topic": "Ramsar Convention wise use of wetlands",
+      "reason": "Same convention and learning objective already represented by active-bank Ramsar questions; replaced with Minamata Convention.",
+      "collisionReference": "canonical active bank"
+    },
+    {
+      "candidateId": "draft-9309-own-account-construction-itc",
+      "topic": "CGST Section 17(5)(d) construction on own account",
+      "reason": "Too close to the adjacent works-contract blocked-credit question; replaced with the separate Section 17(5)(h) destroyed-goods category.",
+      "collisionReference": "candidate question 9308"
+    }
+  ],
+  "collisions": {
+    "candidateExactStemCollisions": 0,
+    "candidateOptionSetCollisions": 0,
+    "nearSemanticCandidatesRejected": 12,
+    "withinBatchNearPairs": 0,
+    "finalBatchExactStemCollisions": 0,
+    "finalBatchOptionSetCollisions": 0,
+    "finalBatchNearPairs": 0,
+    "unresolvedSemanticCollisions": 0
+  },
+  "mergedQuestions": 0,
+  "activeUniqueQuestionsBeforeRun": 1097,
+  "activeUniqueQuestionsAfterMerge": 1097,
+  "comparisonCorpusRecords": 3669,
+  "comparisonCorpusRecordsAfterMerge": 3759,
+  "archiveMirrorRecordsBeforeRun": 505,
+  "archiveMirrorRecordsAfterRun": 595,
+  "mergeStatus": "pending_merge",
+  "postMergeAudit": false,
+  "subjects": {
+    "Meghalaya GK": 6,
+    "Polity": 10,
+    "English": 8,
+    "Arithmetic": 5,
+    "Economy": 8,
+    "History": 10,
+    "Geography": 9,
+    "Science": 9,
+    "Environment": 7,
+    "Computer": 7,
+    "Reasoning": 3,
+    "GST / Inspector of Taxes": 6,
+    "Current Affairs": 2
+  },
+  "examTracks": [
+    "MPSC Inspector of Taxes",
+    "DSC East Khasi Hills LDA-cum-Typist",
+    "MPSC Secretariat LDA"
+  ],
+  "sourceVerification": {
+    "verifiedDate": "2026-11-22",
+    "primaryAndAuthoritativeSources": [
+      "Meghalaya Government / Chief Electoral Officer of Meghalaya",
+      "Legislative Department — Constitution of India",
+      "NCERT",
+      "Cambridge Dictionary",
+      "NOAA",
+      "Encyclopaedia Britannica and national archives",
+      "MoEFCC / PARIVESH",
+      "Minamata Convention Secretariat",
+      "Basel Convention Secretariat",
+      "CPCB",
+      "U.S. EPA",
+      "University of Illinois Chicago",
+      "IBM",
+      "PostgreSQL",
+      "Microsoft Learn",
+      "IETF RFC 791",
+      "Google Gmail Help",
+      "India Code",
+      "Government of India e-Gazette",
+      "Reserve Bank of India"
+    ],
+    "legalNote": "GST questions were checked against the consolidated CGST Act text dated 11 June 2026 and the 26 October 2026 commencement notification. Finance Act 2026 amendments to CGST Sections 15, 34 and 54 effective 1 November 2026 do not change the tested Sections 16, 17, 18 and 56.",
+    "postRunLegalReview": {
+      "verifiedDate": "2026-11-22",
+      "sectionsReviewed": [
+        "16(4)",
+        "17(5)(a)",
+        "17(5)(c)",
+        "17(5)(h)",
+        "18(1)(a)",
+        "56"
+      ],
+      "result": "The six tested statutory provisions were checked against the consolidated CGST Act and the November 2026 commencement changes. No tested provision was among the amended Sections 15, 34 and 54.",
+      "sourceURLs": [
+        "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+        "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+        "https://www.indiabudget.gov.in/doc/cen/dojstru1.pdf"
+      ]
+    },
+    "currentAffairsReview": {
+      "verifiedDate": "2026-11-22",
+      "sources": [
+        "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQNEFT20112026.pdf",
+        "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQRTGS15102026.pdf"
+      ]
+    }
+  },
+  "validation": {
+    "schema": true,
+    "fourOptions": true,
+    "answerIndices": true,
+    "explanations": true,
+    "sourceURLs": true,
+    "originalPracticeLabels": true,
+    "fullBankDedup": true,
+    "archiveParity": false,
+    "canonicalEmbeddedParity": false,
+    "serviceWorker": "updated; syntax/CI validation pending",
+    "repositoryTests": "pending"
+  },
+  "pullRequest": null,
+  "postMergeCommitSha": null,
+  "workflows": {
+    "pullRequestValidation": null,
+    "pushValidation": null,
+    "pagesBuildAndDeployment": null,
+    "pagesBuildConclusion": "pending"
+  },
+  "postMergeCrossCorpusReview": {
+    "verifiedDate": "2026-11-22",
+    "activeQuestionsCompared": 1097,
+    "officialPyqFilesCompared": 19,
+    "officialPyqRecordsCompared": 2572,
+    "updatedCandidateIds": [
+      9229,
+      9230,
+      9263,
+      9297,
+      9304,
+      9309
+    ],
+    "finalBatchCount": 90,
+    "finalExactStemMatches": 0,
+    "finalOptionSetMatches": 0,
+    "finalNearSemanticMatches": 0,
+    "withinBatchNearPairs": 0,
+    "unresolvedSemanticCollisions": 0
+  }
+}
