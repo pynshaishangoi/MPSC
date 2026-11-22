@@ -1,0 +1,3082 @@
+{
+  "batchId": "mpsc-original-practice-2026-11-22",
+  "date": "2026-11-22",
+  "batchType": "Original Practice",
+  "title": "MPSC Original Practice Batch — 22 November 2026",
+  "questionCount": 90,
+  "questionIdRange": "9225-9314",
+  "candidateCount": 90,
+  "rejectedCandidateCount": 0,
+  "subjects": {
+    "Meghalaya GK": 6,
+    "Polity": 10,
+    "English": 8,
+    "Arithmetic": 10,
+    "Reasoning": 5,
+    "History": 8,
+    "Geography": 8,
+    "Economy": 7,
+    "Science": 8,
+    "Environment": 6,
+    "Computer": 6,
+    "GST / Inspector of Taxes": 6,
+    "Current Affairs": 2
+  },
+  "examTracks": [
+    "MPSC Inspector of Taxes",
+    "DSC East Khasi Hills LDA-cum-Typist",
+    "MPSC Secretariat LDA"
+  ],
+  "sourcePolicy": "All items are newly authored practice questions. No official PYQ wording, copyrighted question-bank text or private uploaded source material is reproduced.",
+  "deduplication": {
+    "status": "pending_full_cross_corpus_scan",
+    "corpusBeforeRun": "1,097 canonical active questions; 505 archive mirrors; 2,572 official PYQ transcription records (18 distinct papers plus 139-record partial duplicate subset).",
+    "exactStemCollisions": null,
+    "optionSetCollisions": null,
+    "nearSemanticCandidatesRejected": null,
+    "unresolvedSemanticCollisions": null
+  },
+  "notes": [
+    "Draft batch only; not yet counted as merged or active. Final count will be set after full-bank and official-PYQ semantic review."
+  ],
+  "questions": [
+    {
+      "id": 9225,
+      "cat": "Meghalaya GK",
+      "topic": "Assembly constituencies by division",
+      "q": "According to the Chief Electoral Officer of Meghalaya, how are the State's 60 Assembly constituencies distributed between the Khasi–Jaintia Hills and Garo Hills divisions?",
+      "o": [
+        "36 and 24 respectively",
+        "24 and 36 respectively",
+        "30 and 30 respectively",
+        "40 and 20 respectively"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The CEO Meghalaya profile gives 36 constituencies for the Khasi and Jaintia Hills division and 24 for the Garo Hills division. The figures add to the State total of 60.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Assembly constituencies by division",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal / Chief Electoral Officer of Meghalaya.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal / Chief Electoral Officer of Meghalaya",
+      "sourceURL": "https://www.ceomeghalaya.nic.in/about_us.html",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9226,
+      "cat": "Meghalaya GK",
+      "topic": "Parliamentary representation — Lok Sabha",
+      "q": "How many constituencies does Meghalaya have for election to the Lok Sabha, according to the State's official government profile?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Meghalaya Government and CEO Meghalaya profiles list two House of the People (Lok Sabha) constituencies. This is the State's parliamentary representation in the directly elected House.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Parliamentary representation — Lok Sabha",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal / Chief Electoral Officer of Meghalaya.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal / Chief Electoral Officer of Meghalaya",
+      "sourceURL": "https://www.ceomeghalaya.nic.in/about_us.html",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9227,
+      "cat": "Meghalaya GK",
+      "topic": "Parliamentary representation — Rajya Sabha",
+      "q": "The official Meghalaya election profile lists how many seats for the State in the Council of States (Rajya Sabha)?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The CEO Meghalaya profile lists one Council of States constituency for Meghalaya. Do not confuse this with its two Lok Sabha constituencies.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Parliamentary representation — Rajya Sabha",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal / Chief Electoral Officer of Meghalaya.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal / Chief Electoral Officer of Meghalaya",
+      "sourceURL": "https://www.ceomeghalaya.nic.in/about_us.html",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9228,
+      "cat": "Meghalaya GK",
+      "topic": "District administration — Deputy Commissioner",
+      "q": "Under the Meghalaya Government's description of district administration, who is the head of a district administration?",
+      "o": [
+        "Superintendent of Police",
+        "Deputy Commissioner",
+        "Block Development Officer",
+        "District Planning Officer"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Meghalaya Government portal identifies the Deputy Commissioner as the head of the district administration. The DC coordinates district-level administration and performs executive, revenue and magisterial functions assigned by law.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "District administration — Deputy Commissioner",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — Government and district administration.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal — Government and district administration",
+      "sourceURL": "https://meghalaya.gov.in/government",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9229,
+      "cat": "Meghalaya GK",
+      "topic": "International boundary with Bangladesh",
+      "q": "According to the Meghalaya Forest and Environment Department, approximately how long is the State's international boundary with Bangladesh?",
+      "o": [
+        "223 km",
+        "323 km",
+        "423 km",
+        "523 km"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The Department's official overview states that Meghalaya shares a 423-kilometre international boundary with Bangladesh along its southern and western sides.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "International boundary with Bangladesh",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Forest and Environment Department.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Forest and Environment Department",
+      "sourceURL": "https://megforest.gov.in/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9230,
+      "cat": "Meghalaya GK",
+      "topic": "Governor — constitutional appointment",
+      "q": "Who appoints the Governor of Meghalaya under the constitutional arrangement described by the State Government?",
+      "o": [
+        "The Chief Minister",
+        "The Speaker of the Assembly",
+        "The President of India",
+        "The State Legislative Assembly"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The Governor is appointed by the President of India. The Governor is the constitutional head of the State, while the Chief Minister heads the elected State Government.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Governor — constitutional appointment",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — Government and district administration.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Meghalaya Government Portal — Government and district administration",
+      "sourceURL": "https://meghalaya.gov.in/government",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9231,
+      "cat": "Polity",
+      "topic": "Article 243Q — types of municipalities",
+      "q": "Which set correctly identifies the three types of urban local bodies contemplated by Article 243Q?",
+      "o": [
+        "Gram Sabha, Panchayat Samiti and Zila Parishad",
+        "Nagar Panchayat, Municipal Council and Municipal Corporation",
+        "District Council, Regional Council and Village Council",
+        "Town Committee, Cantonment Board and Development Authority"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 243Q provides for a Nagar Panchayat for a transitional area, a Municipal Council for a smaller urban area and a Municipal Corporation for a larger urban area. The Governor specifies the relevant areas by public notification, subject to the constitutional criteria.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 243Q — types of municipalities",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, updated 20 May 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Legislative Department — Constitution of India, updated 20 May 2026",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9232,
+      "cat": "Polity",
+      "topic": "Article 243R — composition of municipalities",
+      "q": "Under Article 243R, the ordinary elected representatives of a Municipality are chosen from which territorial units?",
+      "o": [
+        "Parliamentary constituencies",
+        "Municipal wards",
+        "Districts",
+        "Revenue circles"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 243R provides for persons chosen by direct election from territorial constituencies in the municipal area. These constituencies are commonly called wards. The Constitution also permits specified representation of other persons, subject to the article.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 243R — composition of municipalities",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, updated 20 May 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Legislative Department — Constitution of India, updated 20 May 2026",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9233,
+      "cat": "Polity",
+      "topic": "Article 243S — Ward Committees",
+      "q": "Under Article 243S, a Ward Committee is constitutionally required in a Municipality whose population is at least:",
+      "o": [
+        "1 lakh",
+        "2 lakh",
+        "3 lakh",
+        "5 lakh"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Article 243S requires Ward Committees within the territorial area of a Municipality having a population of three lakh or more. State law determines their composition and territorial arrangements, subject to the constitutional provision.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 243S — Ward Committees",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, updated 20 May 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Legislative Department — Constitution of India, updated 20 May 2026",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9234,
+      "cat": "Polity",
+      "topic": "Article 243T — reservation in municipalities",
+      "q": "What minimum proportion of the total seats to be filled by direct election in every Municipality must be reserved for women under Article 243T?",
+      "o": [
+        "One-fourth",
+        "One-third",
+        "One-half",
+        "Two-thirds"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 243T requires not less than one-third of the total number of seats to be reserved for women, including the seats reserved for women belonging to Scheduled Castes and Scheduled Tribes. State law may provide for a larger reservation.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 243T — reservation in municipalities",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, updated 20 May 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Legislative Department — Constitution of India, updated 20 May 2026",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9235,
+      "cat": "Polity",
+      "topic": "Article 243U — duration of municipalities",
+      "q": "What is the normal constitutional duration of a Municipality under Article 243U, unless it is sooner dissolved?",
+      "o": [
+        "Three years",
+        "Four years",
+        "Five years",
+        "Six years"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Article 243U fixes the normal duration of every Municipality at five years from the date appointed for its first meeting. An election to constitute the Municipality must ordinarily be completed before the expiry of that duration.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 243U — duration of municipalities",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, updated 20 May 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Legislative Department — Constitution of India, updated 20 May 2026",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9236,
+      "cat": "Polity",
+      "topic": "Article 243V — minimum age for municipal membership",
+      "q": "A person is otherwise qualified to contest a municipal election. Which statement about age is correct under Article 243V?",
+      "o": [
+        "The person must be at least 18 years old",
+        "The person must be at least 21 years old",
+        "The person must be at least 25 years old",
+        "The Constitution sets no minimum age"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 243V provides that a person is not disqualified on the ground of age if the person has attained 21 years. A State law cannot make the minimum age for municipal membership 25 merely by importing the age requirement for membership of a State Legislative Assembly.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 243V — minimum age for municipal membership",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, updated 20 May 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Legislative Department — Constitution of India, updated 20 May 2026",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9237,
+      "cat": "Polity",
+      "topic": "Twelfth Schedule — municipal functions",
+      "q": "Which subject is expressly included in the Twelfth Schedule as a possible municipal function?",
+      "o": [
+        "Urban planning including town planning",
+        "Inter-State river water adjudication",
+        "Defence of India",
+        "Regulation of mines"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Twelfth Schedule includes urban planning, including town planning, among the matters that may be entrusted to Municipalities by State legislation under Article 243W. The list also covers matters such as roads, water supply and public health.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Twelfth Schedule — municipal functions",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, updated 20 May 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Legislative Department — Constitution of India, updated 20 May 2026",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9238,
+      "cat": "Polity",
+      "topic": "Article 243X — municipal taxation",
+      "q": "Which statement best describes the power to levy municipal taxes under Article 243X?",
+      "o": [
+        "Every Municipality may create any tax without State legislation",
+        "The State Legislature may by law authorise a Municipality to levy, collect and appropriate specified taxes, duties, tolls and fees",
+        "Only Parliament may authorise municipal taxes",
+        "Municipalities may levy income tax on all residents directly under the Constitution"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 243X enables the State Legislature to authorise Municipalities by law to levy, collect and appropriate specified taxes, duties, tolls and fees, subject to prescribed procedure and limits. The article does not give every Municipality an unlimited independent taxing power.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 243X — municipal taxation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, updated 20 May 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Legislative Department — Constitution of India, updated 20 May 2026",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9239,
+      "cat": "Polity",
+      "topic": "Article 243Y — Finance Commission and municipalities",
+      "q": "Which body reviews the financial position of Municipalities under Article 243Y?",
+      "o": [
+        "The Union Public Service Commission",
+        "The Finance Commission constituted under Article 243-I",
+        "The Election Commission of India",
+        "The Comptroller and Auditor General alone"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 243Y assigns the review of municipal finances to the Finance Commission constituted under Article 243-I. It makes recommendations to the Governor on distribution of resources, grants and measures needed to improve municipal finances.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 243Y — Finance Commission and municipalities",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, updated 20 May 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Legislative Department — Constitution of India, updated 20 May 2026",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9240,
+      "cat": "Polity",
+      "topic": "Article 243Z — municipal accounts and audit",
+      "q": "Article 243Z requires State legislation to make provision for which municipal-finance matter?",
+      "o": [
+        "The accounts of Municipalities and their audit",
+        "The appointment of High Court judges",
+        "The conduct of Lok Sabha elections",
+        "The creation of a State Public Service Commission"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 243Z provides that the Legislature of a State may make provisions with respect to the maintenance of accounts by Municipalities and the auditing of those accounts. It is distinct from Article 243Y, which deals with the Finance Commission's review of municipal finances.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 243Z — municipal accounts and audit",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, updated 20 May 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Legislative Department — Constitution of India, updated 20 May 2026",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/08/b9a933fb88c0a5afba254256bc55a3f0.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9241,
+      "cat": "English",
+      "topic": "Had better — bare infinitive",
+      "q": "Choose the grammatically correct sentence.",
+      "o": [
+        "The clerk had better to submit the file today.",
+        "The clerk had better submits the file today.",
+        "The clerk had better submit the file today.",
+        "The clerk had better submitted the file today."
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The expression 'had better' is followed by the bare infinitive, without 'to'. It gives strong advice about a specific present or future situation. Therefore, 'had better submit' is correct.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Had better — bare infinitive",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — English Grammar Today.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — English Grammar Today",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9242,
+      "cat": "English",
+      "topic": "Would rather with a different subject",
+      "q": "Choose the correct completion: 'The supervisor would rather the assistant ___ the register before leaving.'",
+      "o": [
+        "checks",
+        "checked",
+        "to check",
+        "checking"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "When 'would rather' expresses a preference about what another person does, it is commonly followed by a clause whose verb is in the past simple, although the meaning refers to the present or future. Thus 'the assistant checked' is correct.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Would rather with a different subject",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — English Grammar Today.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — English Grammar Today",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9243,
+      "cat": "English",
+      "topic": "Relative pronoun in object position",
+      "q": "Choose the correct sentence for formal standard English.",
+      "o": [
+        "Whom did the committee invite to the meeting?",
+        "Who did the committee invite to the meeting?",
+        "Whose did the committee invite to the meeting?",
+        "Which did the committee invite to the meeting? (referring to a person)"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "'Whom' is the objective form of 'who'. In the question, the committee invited the person, so the pronoun is the object of 'invite'. In everyday speech 'who' is common, but 'whom' is the formal objective form tested here.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Relative pronoun in object position",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — English Grammar Today.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — English Grammar Today",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9244,
+      "cat": "English",
+      "topic": "Semicolon — joining independent clauses",
+      "q": "Which sentence uses a semicolon correctly?",
+      "o": [
+        "The report was complete; and, the officer signed it.",
+        "The report was complete; the officer signed it.",
+        "The report; was complete the officer signed it.",
+        "The report was; complete, the officer signed it."
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A semicolon can join two closely related independent clauses without a coordinating conjunction. Both 'The report was complete' and 'the officer signed it' can stand as complete sentences, so the second option is correct.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Semicolon — joining independent clauses",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — English Grammar Today.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — English Grammar Today",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9245,
+      "cat": "English",
+      "topic": "Colon — introducing an explanation or list",
+      "q": "Which sentence uses a colon correctly?",
+      "o": [
+        "The file contained: three maps, two letters and one statement.",
+        "The file contained three items: three maps, two letters and one statement.",
+        "The file: contained three maps, two letters and one statement.",
+        "The file contained three: maps, two letters and one statement."
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A colon may introduce an explanation or list after a complete independent clause. 'The file contained three items' is complete before the colon, so the list that follows is introduced correctly.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Colon — introducing an explanation or list",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — English Grammar Today.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — English Grammar Today",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9246,
+      "cat": "English",
+      "topic": "Complement versus compliment",
+      "q": "In the sentence 'The detailed annexure complements the main report', the word 'complements' means:",
+      "o": [
+        "Praises",
+        "Completes or enhances",
+        "Contradicts",
+        "Summarises briefly"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "'Complement' means something that completes, improves or goes well with another thing. 'Compliment' means an expression of praise. The annexure enhances the report, so 'complements' is correct.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Complement versus compliment",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — English Grammar Today.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — English Grammar Today",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9247,
+      "cat": "English",
+      "topic": "Meaning of 'all but'",
+      "q": "In the sentence 'All but two applications were verified', the phrase 'all but two' means:",
+      "o": [
+        "Exactly two applications",
+        "All applications except two",
+        "Fewer than two applications",
+        "Two applications in addition to all others"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "'All but two' means all except two. If there were 20 applications, 18 were verified and two were not. The phrase does not mean that only two were verified.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Meaning of 'all but'",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — English Grammar Today.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — English Grammar Today",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9248,
+      "cat": "English",
+      "topic": "Meaning of 'by virtue of'",
+      "q": "In official usage, 'The officer was authorised by virtue of the delegation order' means that the officer was authorised:",
+      "o": [
+        "In spite of the order",
+        "Because of or under the authority of the order",
+        "After cancelling the order",
+        "Without reference to the order"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "'By virtue of' means because of, or by the authority or force of, something. Here the delegation order is the legal or administrative basis for the officer's authority.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Meaning of 'by virtue of'",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — English Grammar Today.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Cambridge Dictionary — English Grammar Today",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9249,
+      "cat": "Arithmetic",
+      "topic": "Quadratic equation — roots and coefficients",
+      "q": "If the roots of x² − 7x + 12 = 0 are r and s, what is the value of r × s?",
+      "o": [
+        "7",
+        "12",
+        "−7",
+        "−12"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "For ax² + bx + c = 0, the product of the roots is c/a. Here a = 1 and c = 12, so rs = 12. Factorisation gives (x − 3)(x − 4) = 0, confirming the roots 3 and 4.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Quadratic equation — roots and coefficients",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Mathematics textbook and exemplar resources",
+      "sourceURL": "https://www.ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9250,
+      "cat": "Arithmetic",
+      "topic": "Arithmetic progression — nth term",
+      "q": "The sequence 5, 8, 11, 14, … is an arithmetic progression. What is its 20th term?",
+      "o": [
+        "59",
+        "60",
+        "62",
+        "65"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The first term a = 5 and common difference d = 3. The nth term is aₙ = a + (n − 1)d. Therefore a₂₀ = 5 + 19 × 3 = 5 + 57 = 62.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Arithmetic progression — nth term",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Mathematics textbook and exemplar resources",
+      "sourceURL": "https://www.ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9251,
+      "cat": "Arithmetic",
+      "topic": "Coordinate geometry — distance formula",
+      "q": "What is the distance between the points (2, 3) and (8, 11) in the Cartesian plane?",
+      "o": [
+        "8 units",
+        "9 units",
+        "10 units",
+        "12 units"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Use the distance formula: √[(x₂−x₁)² + (y₂−y₁)²]. The differences are 6 and 8, so the distance is √(36 + 64) = √100 = 10 units.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Coordinate geometry — distance formula",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Mathematics textbook and exemplar resources",
+      "sourceURL": "https://www.ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9252,
+      "cat": "Arithmetic",
+      "topic": "Trigonometry — height and distance",
+      "q": "A point on level ground is 30 metres from the foot of a vertical tower. If the angle of elevation of its top is 30°, what is the tower's height?",
+      "o": [
+        "10 metres",
+        "10√3 metres",
+        "15√3 metres",
+        "30√3 metres"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "For the right triangle, tan 30° = height/30. Since tan 30° = 1/√3, height = 30/√3 = 10√3 metres. The observer's eye level is assumed to be at ground level.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Trigonometry — height and distance",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Mathematics textbook and exemplar resources",
+      "sourceURL": "https://www.ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9253,
+      "cat": "Arithmetic",
+      "topic": "Probability — exactly one head",
+      "q": "A fair coin is tossed twice. What is the probability of obtaining exactly one head?",
+      "o": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "3/4"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The equally likely outcomes are HH, HT, TH and TT. Exactly one head occurs in HT and TH, giving 2 favourable outcomes out of 4. Probability = 2/4 = 1/2.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Probability — exactly one head",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Mathematics textbook and exemplar resources",
+      "sourceURL": "https://www.ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9254,
+      "cat": "Arithmetic",
+      "topic": "Probability — without replacement",
+      "q": "A bag contains 3 red and 2 blue balls. Two balls are drawn one after another without replacement. What is the probability that both are red?",
+      "o": [
+        "1/5",
+        "3/10",
+        "2/5",
+        "1/2"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The probability that the first ball is red is 3/5. After a red ball is removed, 2 red balls remain among 4 balls, so the second probability is 2/4. Multiply: (3/5) × (2/4) = 6/20 = 3/10.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Probability — without replacement",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Mathematics textbook and exemplar resources",
+      "sourceURL": "https://www.ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9255,
+      "cat": "Arithmetic",
+      "topic": "Mensuration — volume of a cone",
+      "q": "A right circular cone has radius 3 cm and height 8 cm. What is its volume?",
+      "o": [
+        "8π cm³",
+        "18π cm³",
+        "24π cm³",
+        "72π cm³"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The volume of a cone is (1/3)πr²h. Substituting r = 3 and h = 8 gives (1/3) × π × 9 × 8 = 24π cm³.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Mensuration — volume of a cone",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Mathematics textbook and exemplar resources",
+      "sourceURL": "https://www.ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9256,
+      "cat": "Arithmetic",
+      "topic": "Polygon — sum of interior angles",
+      "q": "What is the sum of the interior angles of a decagon?",
+      "o": [
+        "1,080°",
+        "1,260°",
+        "1,440°",
+        "1,620°"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The sum of the interior angles of an n-sided polygon is (n − 2) × 180°. For a decagon, n = 10, so the sum is 8 × 180° = 1,440°.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Polygon — sum of interior angles",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Mathematics textbook and exemplar resources",
+      "sourceURL": "https://www.ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9257,
+      "cat": "Arithmetic",
+      "topic": "Logarithms — power rule",
+      "q": "What is the value of log₁₀ 1000?",
+      "o": [
+        "2",
+        "3",
+        "10",
+        "100"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A logarithm asks for the exponent to which the base must be raised. Since 10³ = 1000, log₁₀ 1000 = 3.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Logarithms — power rule",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Mathematics textbook and exemplar resources",
+      "sourceURL": "https://www.ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9258,
+      "cat": "Arithmetic",
+      "topic": "Simultaneous linear equations",
+      "q": "If 2x + 3y = 17 and x − y = 1, what is the value of x?",
+      "o": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "From x − y = 1, x = y + 1. Substitute into the first equation: 2(y + 1) + 3y = 17, so 5y + 2 = 17, y = 3 and x = 4.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Simultaneous linear equations",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Mathematics textbook and exemplar resources",
+      "sourceURL": "https://www.ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9259,
+      "cat": "Reasoning",
+      "topic": "Blood relation — maternal/paternal link",
+      "q": "Ravi, a man, says: 'The boy in the photograph is the son of my father's only daughter.' How is the boy related to Ravi?",
+      "o": [
+        "Son",
+        "Brother",
+        "Nephew",
+        "Cousin"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Ravi's father's only daughter is Ravi's sister. The boy is the son of that sister, so he is Ravi's nephew. The statement does not make the boy Ravi's son.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Blood relation — maternal/paternal link",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original author-created logical reasoning problem.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original author-created logical reasoning problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9260,
+      "cat": "Reasoning",
+      "topic": "Calendar — day after a fixed interval",
+      "q": "If 1 January of a non-leap year is a Monday, what day of the week is 1 March of that year?",
+      "o": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "January has 31 days and February has 28 days in a non-leap year. From 1 January to 1 March is 31 + 28 = 59 days. Since 59 leaves remainder 3 when divided by 7, move three weekdays forward from Monday: Thursday.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Calendar — day after a fixed interval",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original author-created logical reasoning problem.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original author-created logical reasoning problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9261,
+      "cat": "Reasoning",
+      "topic": "Clock — angle between hands",
+      "q": "What is the smaller angle between the hour hand and the minute hand of a clock at 4:20?",
+      "o": [
+        "0°",
+        "10°",
+        "20°",
+        "30°"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "At 4:20 the minute hand is at 20 × 6° = 120°. The hour hand is at 4 × 30° + 20 × 0.5° = 130°. The difference is 10°, which is the smaller angle.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Clock — angle between hands",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original author-created logical reasoning problem.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original author-created logical reasoning problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9262,
+      "cat": "Reasoning",
+      "topic": "Mirror image of clock time",
+      "q": "A correctly working analogue clock is seen in a plane mirror and appears to show 3:40. What is the actual time?",
+      "o": [
+        "7:20",
+        "8:20",
+        "8:40",
+        "9:20"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "For a standard 12-hour clock, actual time = 11:60 minus the mirror reading. Thus 11:60 − 3:40 = 8:20. This uses the mirror reversal of the clock face, not a change in elapsed time.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Mirror image of clock time",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original author-created logical reasoning problem.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original author-created logical reasoning problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9263,
+      "cat": "Reasoning",
+      "topic": "Scheduling — identify the only feasible order",
+      "q": "Four files P, Q, R and S are processed one at a time. P is processed before R; S is processed immediately after Q; and R is processed last. Which order is possible?",
+      "o": [
+        "Q, S, P, R",
+        "P, Q, S, R",
+        "Q, P, S, R",
+        "S, Q, P, R"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The pair Q–S must be consecutive and in that order. R must be last, and P must occur before R. Option B satisfies all three conditions: P first, Q immediately followed by S, and R last. The other options either reverse Q–S or break the immediate-adjacency condition.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Scheduling — identify the only feasible order",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Original author-created logical reasoning problem.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Original author-created logical reasoning problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9264,
+      "cat": "History",
+      "topic": "French Revolution — fall of the Bastille",
+      "q": "The storming of the Bastille on 14 July 1789 became a symbol of the French Revolution primarily because the Bastille represented:",
+      "o": [
+        "Royal absolutism and arbitrary imprisonment",
+        "The elected National Assembly",
+        "The end of feudal dues",
+        "The defeat of Napoleon"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Bastille was a royal fortress-prison associated with the authority of the Bourbon monarchy. Its fall on 14 July 1789 became a powerful symbol of popular resistance to royal absolutism and is commemorated as France's national day.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "French Revolution — fall of the Bastille",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — History textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — History textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9265,
+      "cat": "History",
+      "topic": "Russian Revolution — October 1917",
+      "q": "Which political group led the October Revolution in Russia in 1917?",
+      "o": [
+        "Mensheviks",
+        "Bolsheviks",
+        "Cadets",
+        "Socialist Revolutionaries"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Bolsheviks, led by Vladimir Lenin, organised the seizure of power in Petrograd in October 1917 according to the Russian calendar then in use. The event brought the Provisional Government to an end and led to Bolshevik rule.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Russian Revolution — October 1917",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — History textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — History textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9266,
+      "cat": "History",
+      "topic": "Treaty of Versailles — 1919",
+      "q": "The Treaty of Versailles of 1919 was the peace settlement imposed primarily on which country after the First World War?",
+      "o": [
+        "Austria",
+        "Germany",
+        "Italy",
+        "Ottoman Empire"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Treaty of Versailles was signed in June 1919 between the Allied and Associated Powers and Germany. It imposed territorial, military and financial terms on Germany after the First World War.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Treaty of Versailles — 1919",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — History textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — History textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9267,
+      "cat": "History",
+      "topic": "Industrial Revolution — early centre",
+      "q": "The Industrial Revolution began first on a large scale in which country?",
+      "o": [
+        "France",
+        "Germany",
+        "Great Britain",
+        "Russia"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The Industrial Revolution began in Great Britain in the eighteenth century. Factors included access to coal and iron, capital, markets, transport improvements and technological innovation in textile production and steam power.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Industrial Revolution — early centre",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — History textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — History textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9268,
+      "cat": "History",
+      "topic": "Renaissance — early centre",
+      "q": "The European Renaissance first developed prominently in which region?",
+      "o": [
+        "The Italian city-states",
+        "The Scandinavian kingdoms",
+        "The Iberian interior",
+        "The Russian principalities"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Renaissance began prominently in the Italian city-states, including Florence, Venice and Rome. Wealth from commerce, classical learning and patronage of artists and scholars helped its development before it spread across Europe.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Renaissance — early centre",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — History textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — History textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9269,
+      "cat": "History",
+      "topic": "Reign of Terror — French Revolution",
+      "q": "The Reign of Terror in revolutionary France is most closely associated with the leadership of:",
+      "o": [
+        "Maximilien Robespierre",
+        "Louis XVI",
+        "Napoleon III",
+        "Charles X"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Reign of Terror (1793–1794) is closely associated with the Committee of Public Safety and the dominance of Maximilien Robespierre. Revolutionary tribunals and executions were used against people regarded as enemies of the revolution.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Reign of Terror — French Revolution",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — History textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — History textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9270,
+      "cat": "History",
+      "topic": "Congress of Vienna — post-Napoleonic Europe",
+      "q": "The Congress of Vienna (1814–1815) primarily sought to:",
+      "o": [
+        "Restore a balance of power in Europe after the Napoleonic Wars",
+        "Create the League of Nations",
+        "Unify Germany under a republican constitution",
+        "Abolish all European monarchies"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Congress of Vienna sought to restore political stability and a balance of power after Napoleon's defeat. It restored or rearranged monarchies and territories and promoted the principle of legitimacy among Europe's ruling dynasties.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Congress of Vienna — post-Napoleonic Europe",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — History textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — History textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9271,
+      "cat": "History",
+      "topic": "American Revolution — Declaration of Independence",
+      "q": "In which year did the thirteen American colonies adopt the Declaration of Independence?",
+      "o": [
+        "1765",
+        "1776",
+        "1783",
+        "1789"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Declaration of Independence was adopted on 4 July 1776. It announced the colonies' separation from British rule; the war continued until the Treaty of Paris in 1783 recognised American independence.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "American Revolution — Declaration of Independence",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — History textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — History textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9272,
+      "cat": "Geography",
+      "topic": "Drainage pattern — dendritic",
+      "q": "A river system whose tributaries join the main river at irregular acute angles, resembling the branches of a tree, is called:",
+      "o": [
+        "Trellis",
+        "Radial",
+        "Dendritic",
+        "Centripetal"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "A dendritic drainage pattern resembles the branching structure of a tree. It commonly develops where the underlying rock has relatively uniform resistance and there is no strong structural control directing streams.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Drainage pattern — dendritic",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Geography textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Geography textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9273,
+      "cat": "Geography",
+      "topic": "Drainage pattern — trellis",
+      "q": "A drainage pattern with long parallel main streams and short tributaries joining at nearly right angles is known as:",
+      "o": [
+        "Dendritic",
+        "Trellis",
+        "Radial",
+        "Annular"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A trellis pattern commonly develops in folded or alternating resistant and less-resistant rock structures. Main streams follow valleys while short tributaries descend from adjacent ridges and join at near-right angles.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Drainage pattern — trellis",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Geography textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Geography textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9274,
+      "cat": "Geography",
+      "topic": "Tides — spring tide",
+      "q": "Spring tides generally occur when the Sun, Moon and Earth are:",
+      "o": [
+        "At right angles, producing the smallest tidal range",
+        "Aligned, producing a larger tidal range",
+        "At their greatest distance from one another",
+        "In the same orbit around Earth"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Spring tides occur near new moon and full moon, when the gravitational effects of the Sun and Moon reinforce one another. This produces a larger tidal range, with higher high tides and lower low tides than usual.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Tides — spring tide",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Geography textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Geography textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9275,
+      "cat": "Geography",
+      "topic": "Aeolian landforms — yardang",
+      "q": "A long, streamlined ridge carved by wind abrasion in an arid region is called a:",
+      "o": [
+        "Drumlin",
+        "Yardang",
+        "Moraine",
+        "Esker"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A yardang is an elongated ridge formed mainly by wind erosion, with its long axis commonly aligned with the prevailing wind. It is characteristic of arid and semi-arid environments.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Aeolian landforms — yardang",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Geography textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Geography textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9276,
+      "cat": "Geography",
+      "topic": "Laterite soil — formation process",
+      "q": "Laterite soils commonly develop in regions with high temperature and heavy rainfall because of:",
+      "o": [
+        "Accumulation of soluble salts",
+        "Intense leaching of silica and bases, leaving iron and aluminium oxides",
+        "Deposition of glacial till",
+        "Repeated volcanic ash fall"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "High temperature and heavy rainfall promote intense chemical weathering and leaching. Silica and soluble bases are removed, while iron and aluminium oxides become relatively concentrated, giving lateritic soils their characteristic properties.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Laterite soil — formation process",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Geography textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Geography textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9277,
+      "cat": "Geography",
+      "topic": "Map scale — representative fraction",
+      "q": "On a map with a scale of 1:50,000, a straight-line distance of 2 cm represents what ground distance?",
+      "o": [
+        "100 m",
+        "500 m",
+        "1 km",
+        "5 km"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "A scale of 1:50,000 means 1 cm on the map represents 50,000 cm on the ground, or 500 m. Therefore 2 cm represents 1,000 m, which is 1 km.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Map scale — representative fraction",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Geography textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Geography textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9278,
+      "cat": "Geography",
+      "topic": "River rejuvenation — knickpoint",
+      "q": "A sudden break in the longitudinal profile of a river, often appearing as a step or steep reach, is called a:",
+      "o": [
+        "Knickpoint",
+        "Floodplain",
+        "Levee",
+        "Delta lobe"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A knickpoint is an abrupt change in a river's gradient. It may form after tectonic uplift, a change in base level or other disturbances, and can migrate upstream as the river adjusts its profile.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "River rejuvenation — knickpoint",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Geography textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Geography textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9279,
+      "cat": "Geography",
+      "topic": "Continental shelf — marine geography",
+      "q": "The continental shelf is best described as:",
+      "o": [
+        "The deep, flat floor of the ocean basin",
+        "The gently sloping submerged extension of a continent before the continental slope",
+        "The mid-ocean ridge system",
+        "A trench formed at a convergent plate boundary"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The continental shelf is the shallow, gently sloping submerged margin of a continent. It extends from the shoreline to the shelf break, beyond which the continental slope descends more steeply toward the deep ocean basin.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Continental shelf — marine geography",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Geography textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Geography textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9280,
+      "cat": "Economy",
+      "topic": "Public goods — non-rivalry and non-excludability",
+      "q": "Which pair of characteristics best defines a pure public good?",
+      "o": [
+        "Rival and excludable",
+        "Non-rival and non-excludable",
+        "Rival and non-excludable",
+        "Non-rival and excludable"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A pure public good is non-rival in consumption and non-excludable. One person's use does not substantially reduce availability to others, and it is difficult or costly to prevent people from benefiting. National defence is a standard example.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Public goods — non-rivalry and non-excludability",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Economics textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Economics textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9281,
+      "cat": "Economy",
+      "topic": "Negative externality — social cost",
+      "q": "A factory pollutes a river, imposing health costs on nearby residents that are not included in the factory's production cost. This is an example of:",
+      "o": [
+        "Positive externality",
+        "Negative externality",
+        "Public good",
+        "Consumer surplus"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A negative externality occurs when an activity imposes costs on third parties that are not reflected in the market price. The pollution creates a social cost beyond the private cost borne by the factory.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Negative externality — social cost",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Economics textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Economics textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9282,
+      "cat": "Economy",
+      "topic": "Price ceiling — market shortage",
+      "q": "If the government fixes a legally binding maximum price below the market equilibrium price, what is the likely immediate result, other things being equal?",
+      "o": [
+        "A surplus",
+        "A shortage",
+        "No change in quantity demanded",
+        "An automatic increase in supply"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A price ceiling below equilibrium makes the good cheaper for buyers, increasing quantity demanded, while suppliers are willing to provide less at the lower price. Quantity demanded therefore exceeds quantity supplied, creating a shortage.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Price ceiling — market shortage",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Economics textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Economics textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9283,
+      "cat": "Economy",
+      "topic": "Tax incidence — relative elasticity",
+      "q": "When demand is relatively more inelastic than supply, which side of the market generally bears the larger share of a per-unit tax burden?",
+      "o": [
+        "Consumers",
+        "Producers",
+        "The government",
+        "The tax burden is always split equally"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The less elastic side of a market has fewer options to avoid the tax and therefore bears a larger share of its economic burden. If demand is more inelastic than supply, consumers generally bear more of the tax through a higher price.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Tax incidence — relative elasticity",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Economics textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Economics textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9284,
+      "cat": "Economy",
+      "topic": "Gini coefficient — income distribution",
+      "q": "A Gini coefficient of zero represents:",
+      "o": [
+        "Perfect income equality",
+        "Perfect income inequality",
+        "A negative national income",
+        "Equal tax rates for all households"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Gini coefficient measures inequality. A value of zero represents perfect equality, while a value approaching one (or 100 when expressed as a percentage) represents greater inequality. It is commonly derived from the Lorenz curve.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Gini coefficient — income distribution",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Economics textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Economics textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9285,
+      "cat": "Economy",
+      "topic": "GDP deflator — coverage",
+      "q": "Compared with the Consumer Price Index, the GDP deflator covers:",
+      "o": [
+        "Only imported consumer goods",
+        "Prices of all domestically produced final goods and services included in GDP",
+        "Only food and fuel prices",
+        "Only goods purchased by rural households"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The GDP deflator reflects prices of domestically produced final goods and services included in GDP. The CPI tracks the prices of a specified consumer basket and can include imported consumer goods, so their coverage differs.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "GDP deflator — coverage",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Economics textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Economics textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9286,
+      "cat": "Economy",
+      "topic": "Progressive taxation — average rate",
+      "q": "Under a progressive income-tax structure, what happens to the average tax rate as taxable income rises through the relevant brackets?",
+      "o": [
+        "It falls continuously",
+        "It remains fixed",
+        "It rises",
+        "It becomes zero above the highest bracket"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "A progressive tax structure imposes a higher average tax rate as income increases. This is different from a proportional tax, where the average rate remains constant, and a regressive tax, where the average rate falls as income rises.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Progressive taxation — average rate",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Economics textbooks and learning resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Economics textbooks and learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9287,
+      "cat": "Science",
+      "topic": "Atomic structure — isotopes",
+      "q": "Atoms of the same element that have different mass numbers but the same atomic number are called:",
+      "o": [
+        "Isobars",
+        "Isotopes",
+        "Isotones",
+        "Allotropes"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Isotopes have the same number of protons, so they have the same atomic number, but different numbers of neutrons and therefore different mass numbers. For example, carbon-12 and carbon-14 are isotopes of carbon.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Atomic structure — isotopes",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Biology textbook resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science and Biology textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=8-12",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9288,
+      "cat": "Science",
+      "topic": "Radioactivity — half-life calculation",
+      "q": "A radioactive sample has a half-life of 4 days. What fraction of the original sample remains after 12 days?",
+      "o": [
+        "1/2",
+        "1/4",
+        "1/8",
+        "1/16"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Twelve days contain three half-lives: 12 ÷ 4 = 3. The remaining fraction is (1/2)³ = 1/8. Each half-life reduces the amount present by one-half of the amount remaining at that time.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Radioactivity — half-life calculation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Biology textbook resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science and Biology textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=8-12",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9289,
+      "cat": "Science",
+      "topic": "Semiconductors — p-type doping",
+      "q": "When pure silicon is doped with a small amount of a trivalent impurity such as boron, the resulting semiconductor is generally:",
+      "o": [
+        "n-type, with electrons as majority carriers",
+        "p-type, with holes as majority carriers",
+        "An insulator",
+        "A perfect conductor"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A trivalent dopant has one fewer valence electron than silicon. This creates an acceptor level and leaves holes as the majority charge carriers, producing a p-type semiconductor.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Semiconductors — p-type doping",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Biology textbook resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science and Biology textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=8-12",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9290,
+      "cat": "Science",
+      "topic": "Waves — resonance",
+      "q": "Resonance occurs when a system is driven by a periodic force whose frequency is:",
+      "o": [
+        "Zero",
+        "Close to the system's natural frequency",
+        "Always twice the natural frequency",
+        "Unrelated to the natural frequency"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Resonance occurs when the driving frequency is equal or close to a system's natural frequency. Energy transfer becomes especially effective and the amplitude of oscillation can become large, subject to damping.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Waves — resonance",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Biology textbook resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science and Biology textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=8-12",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9291,
+      "cat": "Science",
+      "topic": "Optics — power of a lens",
+      "q": "A convex lens has a focal length of 0.5 metre. What is its power?",
+      "o": [
+        "+0.5 dioptre",
+        "+1 dioptre",
+        "+2 dioptres",
+        "−2 dioptres"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Power P = 1/f when focal length is measured in metres. For a convex lens f = +0.5 m, so P = 1/0.5 = +2 dioptres. The positive sign denotes a converging lens.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Optics — power of a lens",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Biology textbook resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science and Biology textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=8-12",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9292,
+      "cat": "Science",
+      "topic": "Molecular biology — transcription",
+      "q": "During transcription in a typical eukaryotic cell, genetic information in DNA is copied into:",
+      "o": [
+        "A messenger RNA molecule",
+        "A lipid molecule",
+        "A polysaccharide",
+        "A phospholipid bilayer"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Transcription uses a DNA template to synthesise RNA. In protein-coding gene expression, the resulting messenger RNA carries the coded information from DNA for translation at ribosomes.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Molecular biology — transcription",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Biology textbook resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science and Biology textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=8-12",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9293,
+      "cat": "Science",
+      "topic": "Immunity — adaptive response",
+      "q": "Which feature most clearly distinguishes adaptive immunity from innate immunity?",
+      "o": [
+        "It is present only in plants",
+        "It can develop antigen-specific memory",
+        "It acts without recognising pathogens",
+        "It is limited to physical barriers"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Adaptive immunity involves antigen-specific lymphocyte responses and can form memory cells. This allows a faster and stronger response when the same antigen is encountered again. Innate immunity provides rapid, non-specific defence.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Immunity — adaptive response",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Biology textbook resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science and Biology textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=8-12",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9294,
+      "cat": "Science",
+      "topic": "Acids and bases — pH calculation",
+      "q": "At 25°C, a solution has a hydrogen-ion concentration of 1 × 10⁻³ mol/L. What is its pH?",
+      "o": [
+        "2",
+        "3",
+        "7",
+        "11"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "pH = −log₁₀[H⁺]. With [H⁺] = 10⁻³ mol/L, pH = −log₁₀(10⁻³) = 3. Since the pH is below 7 at 25°C, the solution is acidic.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Acids and bases — pH calculation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Biology textbook resources.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NCERT — Science and Biology textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=8-12",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9295,
+      "cat": "Environment",
+      "topic": "Environmental Impact Assessment — scoping",
+      "q": "In the Environmental Impact Assessment process, the scoping stage primarily determines:",
+      "o": [
+        "The final tax rate for the project",
+        "The key environmental issues and Terms of Reference for detailed study",
+        "The contractor's salary structure",
+        "The project's commercial profit"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Scoping identifies the significant environmental issues that require detailed assessment and frames the Terms of Reference for the EIA study. It helps focus the assessment on likely impacts rather than collecting unrelated information.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Environmental Impact Assessment — scoping",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Ministry of Environment, Forest and Climate Change / India Code.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Ministry of Environment, Forest and Climate Change / India Code",
+      "sourceURL": "https://www.moef.gov.in/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9296,
+      "cat": "Environment",
+      "topic": "EIA — public consultation",
+      "q": "Under the EIA Notification framework, public consultation is intended primarily to:",
+      "o": [
+        "Replace the technical impact assessment",
+        "Obtain concerns and responses from affected people and other stakeholders",
+        "Grant automatic environmental clearance",
+        "Determine the market price of project land"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Public consultation provides an opportunity to record concerns of locally affected people and other stakeholders. It is one component of the EIA appraisal process and does not itself grant environmental clearance.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "EIA — public consultation",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Ministry of Environment, Forest and Climate Change / India Code.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Ministry of Environment, Forest and Climate Change / India Code",
+      "sourceURL": "https://www.moef.gov.in/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9297,
+      "cat": "Environment",
+      "topic": "Ramsar Convention — wise use",
+      "q": "The central concept of 'wise use' under the Ramsar Convention concerns:",
+      "o": [
+        "Draining wetlands for agriculture",
+        "Maintaining the ecological character of wetlands through sustainable use",
+        "Allowing only tourism in wetlands",
+        "Converting every wetland into a wildlife sanctuary"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Ramsar Convention promotes the conservation and wise use of wetlands. Wise use means maintaining their ecological character through ecosystem approaches within sustainable development, not prohibiting every human use.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Ramsar Convention — wise use",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Ministry of Environment, Forest and Climate Change / India Code.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Ministry of Environment, Forest and Climate Change / India Code",
+      "sourceURL": "https://www.moef.gov.in/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9298,
+      "cat": "Environment",
+      "topic": "Basel Convention — hazardous waste",
+      "q": "The Basel Convention primarily regulates the transboundary movement and disposal of:",
+      "o": [
+        "Hazardous wastes and certain other wastes",
+        "Freshwater fish",
+        "Commercial aircraft",
+        "Radio-frequency equipment"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Basel Convention aims to protect human health and the environment against adverse effects from hazardous and other wastes. It establishes controls on transboundary movements, including prior informed consent procedures for covered shipments.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Basel Convention — hazardous waste",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Ministry of Environment, Forest and Climate Change / India Code.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Ministry of Environment, Forest and Climate Change / India Code",
+      "sourceURL": "https://www.moef.gov.in/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9299,
+      "cat": "Environment",
+      "topic": "E-waste — extended producer responsibility",
+      "q": "Under an extended producer responsibility approach for e-waste, who bears specified responsibility for ensuring that end-of-life products are channelled for environmentally sound management?",
+      "o": [
+        "Only the final consumer",
+        "The producer, as defined under the applicable rules",
+        "Only the local police",
+        "Only the electricity distributor"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Extended Producer Responsibility places defined obligations on producers for the environmentally sound management of products at end of life. India's E-Waste (Management) Rules, 2022 use an EPR framework administered through the prescribed system.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "E-waste — extended producer responsibility",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Ministry of Environment, Forest and Climate Change / India Code.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Ministry of Environment, Forest and Climate Change / India Code",
+      "sourceURL": "https://www.moef.gov.in/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9300,
+      "cat": "Environment",
+      "topic": "Composting — biological process",
+      "q": "In a properly managed aerobic composting process, organic waste is decomposed mainly by:",
+      "o": [
+        "Microorganisms in the presence of oxygen",
+        "Only earthworms without microorganisms",
+        "Combustion at flame temperature",
+        "Chemical freezing"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Aerobic composting relies on microorganisms that break down organic matter in the presence of oxygen. Adequate aeration, moisture and a suitable carbon-to-nitrogen balance help the process and reduce anaerobic odours.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Composting — biological process",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Ministry of Environment, Forest and Climate Change / India Code.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Ministry of Environment, Forest and Climate Change / India Code",
+      "sourceURL": "https://www.moef.gov.in/",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9301,
+      "cat": "Computer",
+      "topic": "Operating systems — deadlock conditions",
+      "q": "Which set lists the four necessary Coffman conditions for a deadlock in an operating system?",
+      "o": [
+        "Mutual exclusion, hold and wait, no pre-emption, circular wait",
+        "Authentication, encryption, compression, indexing",
+        "Paging, segmentation, caching, spooling",
+        "Compilation, linking, loading, execution"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The four necessary conditions are mutual exclusion, hold and wait, no pre-emption and circular wait. A deadlock requires all four to hold simultaneously; breaking any one of them can prevent deadlock.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Operating systems — deadlock conditions",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NIELIT — Course on Computer Concepts.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIELIT — Course on Computer Concepts",
+      "sourceURL": "https://www.nielit.gov.in/calicut/calicut/content/pmkvy-ccc",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9302,
+      "cat": "Computer",
+      "topic": "Database normalisation — first normal form",
+      "q": "A relational table is in First Normal Form (1NF) when:",
+      "o": [
+        "Every table has exactly one row",
+        "Each field contains an atomic value and repeating groups are removed",
+        "Every non-key attribute depends on another non-key attribute",
+        "All tables contain the same number of columns"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "First Normal Form requires each field to contain a single atomic value and avoids repeating groups or arrays within a field. Higher normal forms address additional dependency problems.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Database normalisation — first normal form",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NIELIT — Course on Computer Concepts.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIELIT — Course on Computer Concepts",
+      "sourceURL": "https://www.nielit.gov.in/calicut/calicut/content/pmkvy-ccc",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9303,
+      "cat": "Computer",
+      "topic": "SQL — WHERE versus HAVING",
+      "q": "In an SQL query that groups rows with GROUP BY, which clause is used to filter groups after aggregate values have been calculated?",
+      "o": [
+        "WHERE",
+        "ORDER BY",
+        "HAVING",
+        "FROM"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "WHERE filters individual rows before grouping. HAVING filters groups after GROUP BY and can use aggregate expressions such as COUNT(*) or SUM(amount).",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "SQL — WHERE versus HAVING",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NIELIT — Course on Computer Concepts.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIELIT — Course on Computer Concepts",
+      "sourceURL": "https://www.nielit.gov.in/calicut/calicut/content/pmkvy-ccc",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9304,
+      "cat": "Computer",
+      "topic": "Data backup — incremental backup",
+      "q": "After a full backup, an incremental backup normally copies:",
+      "o": [
+        "Every file on the system again",
+        "Only data changed since the most recent backup of any type",
+        "Only data changed since the last full backup",
+        "Only files that have never been opened"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "An incremental backup records changes since the most recent backup, whether full or incremental. It can save storage and backup time, but restoration may require the full backup and each subsequent incremental set.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Data backup — incremental backup",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NIELIT — Course on Computer Concepts.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIELIT — Course on Computer Concepts",
+      "sourceURL": "https://www.nielit.gov.in/calicut/calicut/content/pmkvy-ccc",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9305,
+      "cat": "Computer",
+      "topic": "Networking — IPv4 address length",
+      "q": "How many bits are used in an IPv4 address?",
+      "o": [
+        "16",
+        "32",
+        "64",
+        "128"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "An IPv4 address is 32 bits long and is commonly written as four decimal octets separated by dots, such as 192.0.2.1. IPv6 uses 128-bit addresses.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Networking — IPv4 address length",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NIELIT — Course on Computer Concepts.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIELIT — Course on Computer Concepts",
+      "sourceURL": "https://www.nielit.gov.in/calicut/calicut/content/pmkvy-ccc",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9306,
+      "cat": "Computer",
+      "topic": "Email — BCC field",
+      "q": "What is the principal purpose of the BCC field in an email?",
+      "o": [
+        "To send an encrypted attachment",
+        "To hide the BCC recipients' addresses from other recipients",
+        "To mark the message as urgent",
+        "To prevent the sender from seeing the message"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "BCC means blind carbon copy. Addresses placed in BCC are not displayed to ordinary recipients in the message header, which is useful when sending a message to a group without disclosing everyone's email address.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Email — BCC field",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. NIELIT — Course on Computer Concepts.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "NIELIT — Course on Computer Concepts",
+      "sourceURL": "https://www.nielit.gov.in/calicut/calicut/content/pmkvy-ccc",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9307,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 17(5) — passenger motor vehicles",
+      "q": "Subject to the statutory exceptions, input tax credit on a motor vehicle for transportation of persons having an approved seating capacity of not more than 13 persons (including the driver) is generally:",
+      "o": [
+        "Always available to every registered person",
+        "Blocked under Section 17(5)",
+        "Available only when the vehicle is second-hand",
+        "Available only through the electronic cash ledger"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 17(5)(a) generally blocks ITC on specified motor vehicles for transportation of persons with approved seating capacity of not more than 13, including the driver. The Act provides exceptions, including specified further-supply, passenger-transport and driving-training uses; those facts must be checked before deciding a real claim.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 17(5) — passenger motor vehicles",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9308,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 17(5)(c) — works contract",
+      "q": "A registered person receives a works contract service for construction of an immovable property (other than plant or machinery) for its own use. What is the general ITC treatment under Section 17(5)(c)?",
+      "o": [
+        "ITC is always allowed",
+        "ITC is blocked, except where the input service is used for further supply of works contract service",
+        "ITC is allowed only if paid in cash",
+        "ITC is automatically refunded"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 17(5)(c) blocks ITC on works contract services supplied for construction of immovable property, other than plant or machinery, except where the service is an input service for further supply of works contract service. The use and statutory definitions matter.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 17(5)(c) — works contract",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9309,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 17(5)(d) — own-account construction",
+      "q": "A business constructs an office building on its own account and capitalises the construction cost. Under Section 17(5)(d), ITC on goods or services used for this construction is generally:",
+      "o": [
+        "Blocked, subject to the plant-or-machinery exception",
+        "Always available because the building is used for business",
+        "Available only for the first year",
+        "Available if the supplier is from another State"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 17(5)(d) generally blocks ITC on goods or services received for construction of immovable property on a taxable person's own account, even when used in the course or furtherance of business, except for plant or machinery. 'Construction' includes specified reconstruction, renovation, additions or alterations to the extent capitalised.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 17(5)(d) — own-account construction",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9310,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 16(4) — general ITC time limit",
+      "q": "Under the general rule in Section 16(4) of the CGST Act, the time limit for taking ITC on an invoice or debit note is the 30th day of November following the end of the relevant financial year, or:",
+      "o": [
+        "The date of the next monthly return, whichever is later",
+        "The date of furnishing the relevant annual return, whichever is earlier",
+        "The date of the supplier's audit, whichever is earlier",
+        "The end of the calendar year, whichever is later"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 16(4), as amended, sets the general deadline as 30 November following the end of the financial year to which the invoice or debit note pertains, or the date of furnishing the relevant annual return, whichever is earlier. Specified retrospective relief under subsections (5) and (6) is separate and must not be confused with the general rule.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 16(4) — general ITC time limit",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9311,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 18(1)(a) — stock ITC on becoming liable",
+      "q": "A person becomes liable for GST registration and applies for registration within 30 days of becoming liable. Subject to prescribed conditions, Section 18(1)(a) allows ITC on eligible inputs held in stock and inputs in semi-finished or finished goods held on:",
+      "o": [
+        "The date of the first annual return",
+        "The day immediately preceding the date from which the person becomes liable to pay tax",
+        "The date of the first audit",
+        "Any date selected by the taxpayer"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 18(1)(a) provides a special credit entitlement for a person who applies for registration within 30 days of becoming liable and is granted registration. The relevant stock is measured on the day immediately preceding the date from which the person becomes liable to pay tax, subject to conditions and restrictions.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 18(1)(a) — stock ITC on becoming liable",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9312,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 56 — interest on delayed refund",
+      "q": "Under Section 56 of the CGST Act, if an amount ordered to be refunded under Section 54(5) is not refunded within 60 days from receipt of the application, interest at a notified rate not exceeding what percentage is generally payable?",
+      "o": [
+        "3%",
+        "6%",
+        "9%",
+        "18%"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 56 provides for interest at a rate not exceeding 6% where the refund is not made within 60 days of receipt of the application. A separate ceiling of 9% applies in the specified case of a refund arising from an order that has attained finality. Always check the applicable notification for the notified rate.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 56 — interest on delayed refund",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9313,
+      "cat": "Current Affairs",
+      "topic": "NEFT and RTGS — settlement method",
+      "q": "According to RBI's NEFT and RTGS FAQs current in November 2026, which statement correctly distinguishes the two systems?",
+      "o": [
+        "Both settle every payment individually in real time",
+        "NEFT processes transactions in batches, while RTGS settles transactions continuously on a transaction-by-transaction basis",
+        "RTGS processes payments only once a day",
+        "NEFT is available only during bank branch hours"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The RBI explains that NEFT processes transactions received up to a particular time in batches, whereas RTGS processes instructions continuously, transaction by transaction. NEFT and RTGS are both available round the clock, but their settlement mechanisms differ.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "NEFT and RTGS — settlement method",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — NEFT FAQ updated 20 November 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Reserve Bank of India — NEFT FAQ updated 20 November 2026",
+      "sourceURL": "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQNEFT20112026.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    },
+    {
+      "id": 9314,
+      "cat": "Current Affairs",
+      "topic": "RTGS — minimum transaction value",
+      "q": "According to the RBI RTGS FAQ updated on 14 October 2026, what is the minimum amount for an RTGS transfer and is there an RBI-set maximum ceiling?",
+      "o": [
+        "₹50,000 minimum; ₹10 lakh maximum",
+        "₹1 lakh minimum; ₹1 crore maximum",
+        "₹2 lakh minimum; no maximum ceiling",
+        "No minimum; ₹2 lakh maximum"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The RBI's RTGS FAQ states that the minimum amount is ₹2,00,000 and that there is no upper or maximum ceiling set by RBI. Banks may apply their own customer-facing arrangements, but the system-level rule is as stated.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "RTGS — minimum transaction value",
+        "Original Practice"
+      ],
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — RTGS FAQ updated 14 October 2026.",
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "sourceName": "Reserve Bank of India — RTGS FAQ updated 14 October 2026",
+      "sourceURL": "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQRTGS15102026.pdf",
+      "sourceVerifiedDate": "2026-11-22",
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+    }
+  ]
+}
