@@ -227,7 +227,8 @@
     "candidateValidationRate": 0.8823529411764706,
     "postMergeAudit": false,
     "archiveParityVerified": false,
-    "canonicalEmbeddedParityVerified": false
+    "canonicalEmbeddedParityVerified": false,
+    "liveDeploymentVerified": false
   },
   "nextDailyTarget": 90,
   "cumulativeUniqueAdditionsSinceRampStart": 216,
