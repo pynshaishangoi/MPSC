@@ -76,15 +76,14 @@
     "qualityGatePassed": true,
     "dedupGatePassed": true,
     "sourceGatePassed": true,
-    "repositoryGatePassed": false,
+    "repositoryGatePassed": true,
     "mergeGatePassed": false,
     "targetGatePassed": false,
     "gatePassed": false,
     "nextDailyTarget": 90,
     "blockers": [
-      "The 90-question batch is prepared but remains unmerged; unmerged questions are not counted as additions.",
-      "Repository validation and merge checks are pending; the next target remains 90 until all gates pass.",
-      "Live GitHub Pages deployment must be independently checked after merge; otherwise it remains unverified."
+      "PR #115 passed repository validation but is not yet merged; the 90 questions are not counted as published additions.",
+      "Live deployment remains unverified until the live page serves build marker 2026-11-22-original-practice-90."
     ],
     "officialPyqFilesFetched": 18,
     "officialPyqFilesTotal": 18,
@@ -103,11 +102,11 @@
     "archiveRecordsBeforeRun": 505,
     "archiveFilesAfterRun": 20,
     "archiveRecordsAfterRun": 595,
-    "pullRequest": null,
-    "pullRequestUrl": null,
+    "pullRequest": 115,
+    "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/115",
     "mergeCommitSha": null,
-    "githubActionsRun": null,
-    "githubActionsConclusion": "pending",
+    "githubActionsRun": 44985129198,
+    "githubActionsConclusion": "success",
     "deploymentVerified": false,
     "deploymentStatus": "not yet verified",
     "preDraftActiveQuestions": 1097,
@@ -228,7 +227,10 @@
     "postMergeAudit": false,
     "archiveParityVerified": false,
     "canonicalEmbeddedParityVerified": false,
-    "liveDeploymentVerified": false
+    "liveDeploymentVerified": false,
+    "validationRunId": 44985129198,
+    "validationRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985129198",
+    "repositoryTestsPassed": true
   },
   "nextDailyTarget": 90,
   "cumulativeUniqueAdditionsSinceRampStart": 216,
@@ -237,8 +239,8 @@
   "remainingTo10000": 8903,
   "dedupRefreshRequiredBeforeDrafting": true,
   "nextRequiredActions": [
-    "Finish PR validation and merge the 90-question batch before counting any additions.",
-    "After merge, update the post-merge audit and ramp tracker from a fresh full audit; only then advance the next target to 110.",
+    "Merge validated PR #115 only after confirming the changed-file list and mergeability.",
+    "After merge, refresh the post-merge audit and ramp tracker from the merged main branch; only then count 90 additions and advance the next target to 110.",
     "Before the next drafting run, refresh deduplication across 1,187 active questions, 20 archive files (595 mirrored records), all 18 official PYQ files (2,433 records) and the 139-record partial duplicate file.",
     "Verify the live GitHub Pages URL serves build marker 2026-11-22-original-practice-90; workflow success alone is not proof of live content.",
     "Preserve the embedded offline-first Q array; do not make question visibility depend on runtime archive fetches."
