@@ -208,7 +208,7 @@
     {
       "id": 9230,
       "cat": "Meghalaya GK",
-      "topic": "Governor — constitutional appointment",
+      "topic": "Administrative divisions and districts",
       "q": "According to the Chief Electoral Officer of Meghalaya, how many administrative divisions and districts does the State have?",
       "o": [
         "2 divisions and 11 districts",
@@ -227,7 +227,7 @@
       ],
       "tags": [
         "Meghalaya GK",
-        "Governor — constitutional appointment",
+        "Administrative divisions and districts",
         "Original Practice"
       ],
       "source": "Original Practice — not an official PYQ. Office of the Chief Electoral Officer, Meghalaya — About Us.",
@@ -2466,7 +2466,7 @@
     {
       "id": 9297,
       "cat": "Environment",
-      "topic": "Ramsar Convention — wise use",
+      "topic": "Minamata Convention — mercury",
       "q": "Which pollutant is the central subject of the Minamata Convention?",
       "o": [
         "Mercury",
@@ -2486,7 +2486,7 @@
       ],
       "tags": [
         "Environment",
-        "Ramsar Convention — wise use",
+        "Minamata Convention — mercury",
         "Original Practice"
       ],
       "source": "Original Practice — not an official PYQ. Secretariat of the Minamata Convention on Mercury — About the Convention.",
