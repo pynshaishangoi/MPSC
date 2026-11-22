@@ -920,19 +920,19 @@
     },
     {
       "id": 9251,
-      "cat": "Arithmetic",
-      "topic": "Coordinate geometry — distance formula",
-      "q": "What is the distance between the points (2, 3) and (8, 11) in the Cartesian plane?",
+      "cat": "Economy",
+      "topic": "Opportunity cost — next-best alternative",
+      "q": "An officer can use a free afternoon either to prepare an audit report or attend a training session. If she chooses to prepare the audit report, what is the opportunity cost?",
       "o": [
-        "8 units",
-        "9 units",
-        "10 units",
-        "12 units"
+        "The value of the training session she gives up",
+        "The salary already earned that month",
+        "The total value of both activities",
+        "The cost of stationery used for the report"
       ],
-      "a": 2,
-      "answerIndex": 2,
-      "e": "Use the distance formula: √[(x₂−x₁)² + (y₂−y₁)²]. The differences are 6 and 8, so the distance is √(36 + 64) = √100 = 10 units.",
-      "difficulty": "Easy",
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Opportunity cost is the value of the next-best alternative forgone when a choice is made. If the officer chooses the audit report, the training session is the next-best alternative sacrificed. It is not necessarily a cash payment.",
+      "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
         "MPSC Inspector of Taxes",
@@ -940,15 +940,15 @@
         "MPSC Secretariat LDA"
       ],
       "tags": [
-        "Arithmetic",
-        "Coordinate geometry — distance formula",
+        "Economy",
+        "Opportunity cost — next-best alternative",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
+      "source": "Original Practice — not an official PYQ. NCERT — Economics learning resources.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — Mathematics textbook and exemplar resources",
-      "sourceURL": "https://www.ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceName": "NCERT — Economics learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -988,69 +988,67 @@
     },
     {
       "id": 9253,
-      "cat": "Arithmetic",
-      "topic": "Probability — exactly one head",
-      "q": "A fair coin is tossed twice. What is the probability of obtaining exactly one head?",
+      "cat": "History",
+      "topic": "Meiji Restoration — Japan, 1868",
+      "q": "The Meiji Restoration of 1868 in Japan is best described as:",
       "o": [
-        "1/4",
-        "1/3",
-        "1/2",
-        "3/4"
+        "The restoration of imperial political authority, followed by rapid state-led modernisation",
+        "The establishment of a communist government after the Second World War",
+        "The division of Japan into occupation zones after 1945",
+        "The abolition of all central government institutions"
       ],
-      "a": 2,
-      "answerIndex": 2,
-      "e": "The equally likely outcomes are HH, HT, TH and TT. Exactly one head occurs in HT and TH, giving 2 favourable outcomes out of 4. Probability = 2/4 = 1/2.",
-      "difficulty": "Easy",
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Meiji Restoration ended the Tokugawa shogunate's political dominance and restored governing authority to the emperor. The new leadership pursued rapid institutional, military, educational and industrial modernisation.",
+      "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
-        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
       "tags": [
-        "Arithmetic",
-        "Probability — exactly one head",
+        "History",
+        "Meiji Restoration — Japan, 1868",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
+      "source": "Original Practice — not an official PYQ. NCERT — Themes in World History and history learning resources.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — Mathematics textbook and exemplar resources",
-      "sourceURL": "https://www.ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceName": "NCERT — Themes in World History and history learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
     {
       "id": 9254,
-      "cat": "Arithmetic",
-      "topic": "Probability — without replacement",
-      "q": "A bag contains 3 red and 2 blue balls. Two balls are drawn one after another without replacement. What is the probability that both are red?",
+      "cat": "Geography",
+      "topic": "Ocean circulation — thermohaline circulation",
+      "q": "Deep-ocean thermohaline circulation is driven primarily by differences in seawater density caused by variations in:",
       "o": [
-        "1/5",
-        "3/10",
-        "2/5",
-        "1/2"
+        "Temperature and salinity",
+        "Wind direction and cloud cover",
+        "Wave height and ocean colour",
+        "Tidal range and coastal slope"
       ],
-      "a": 1,
-      "answerIndex": 1,
-      "e": "The probability that the first ball is red is 3/5. After a red ball is removed, 2 red balls remain among 4 balls, so the second probability is 2/4. Multiply: (3/5) × (2/4) = 6/20 = 3/10.",
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Thermohaline circulation is linked to density differences in seawater. Temperature and salinity both affect density: colder and generally saltier water is denser and can sink, helping drive large-scale deep-ocean circulation.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
-        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
       "tags": [
-        "Arithmetic",
-        "Probability — without replacement",
+        "Geography",
+        "Ocean circulation — thermohaline circulation",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
+      "source": "Original Practice — not an official PYQ. NCERT — Geography learning resources and oceanography.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — Mathematics textbook and exemplar resources",
-      "sourceURL": "https://www.ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceName": "NCERT — Geography learning resources and oceanography",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1090,18 +1088,18 @@
     },
     {
       "id": 9256,
-      "cat": "Arithmetic",
-      "topic": "Polygon — sum of interior angles",
-      "q": "What is the sum of the interior angles of a decagon?",
+      "cat": "Science",
+      "topic": "Chemical bonding — covalent bond",
+      "q": "In a typical covalent bond between two non-metal atoms, the atoms achieve bonding primarily by:",
       "o": [
-        "1,080°",
-        "1,260°",
-        "1,440°",
-        "1,620°"
+        "Transferring protons",
+        "Sharing one or more pairs of electrons",
+        "Sharing neutrons",
+        "Transferring complete atomic nuclei"
       ],
-      "a": 2,
-      "answerIndex": 2,
-      "e": "The sum of the interior angles of an n-sided polygon is (n − 2) × 180°. For a decagon, n = 10, so the sum is 8 × 180° = 1,440°.",
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A covalent bond forms when atoms share one or more pairs of electrons. This differs from ionic bonding, in which electrons are transferred and oppositely charged ions attract one another.",
       "difficulty": "Easy",
       "exam": "Common MPSC",
       "examTags": [
@@ -1110,15 +1108,15 @@
         "MPSC Secretariat LDA"
       ],
       "tags": [
-        "Arithmetic",
-        "Polygon — sum of interior angles",
+        "Science",
+        "Chemical bonding — covalent bond",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
+      "source": "Original Practice — not an official PYQ. NCERT — Chemistry textbook resources.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — Mathematics textbook and exemplar resources",
-      "sourceURL": "https://www.ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceName": "NCERT — Chemistry textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=8-12",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1158,18 +1156,18 @@
     },
     {
       "id": 9258,
-      "cat": "Arithmetic",
-      "topic": "Simultaneous linear equations",
-      "q": "If 2x + 3y = 17 and x − y = 1, what is the value of x?",
+      "cat": "Environment",
+      "topic": "Ecological footprint — resource demand",
+      "q": "An ecological footprint is an indicator that estimates:",
       "o": [
-        "3",
-        "4",
-        "5",
-        "6"
+        "The biologically productive area needed to provide the resources a population uses and absorb specified wastes",
+        "The total number of species found in a forest",
+        "The depth of groundwater below a settlement",
+        "The amount of rainfall received by a region in one year"
       ],
-      "a": 1,
-      "answerIndex": 1,
-      "e": "From x − y = 1, x = y + 1. Substitute into the first equation: 2(y + 1) + 3y = 17, so 5y + 2 = 17, y = 3 and x = 4.",
+      "a": 0,
+      "answerIndex": 0,
+      "e": "An ecological footprint expresses human demand on biologically productive land and water. It estimates the area needed to supply resources and absorb certain wastes, using prevailing technology and resource-management practices.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -1178,33 +1176,33 @@
         "MPSC Secretariat LDA"
       ],
       "tags": [
-        "Arithmetic",
-        "Simultaneous linear equations",
+        "Environment",
+        "Ecological footprint — resource demand",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
+      "source": "Original Practice — not an official PYQ. Global Footprint Network — Ecological Footprint.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — Mathematics textbook and exemplar resources",
-      "sourceURL": "https://www.ncert.nic.in/exemplar-problems.php?ln=en",
+      "sourceName": "Global Footprint Network — Ecological Footprint",
+      "sourceURL": "https://www.footprintnetwork.org/our-work/ecological-footprint/",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
     {
       "id": 9259,
-      "cat": "Reasoning",
-      "topic": "Blood relation — maternal/paternal link",
-      "q": "Ravi, a man, says: 'The boy in the photograph is the son of my father's only daughter.' How is the boy related to Ravi?",
+      "cat": "Computer",
+      "topic": "Operating systems — process and thread",
+      "q": "Which statement correctly distinguishes a process from a thread in a conventional operating system?",
       "o": [
-        "Son",
-        "Brother",
-        "Nephew",
-        "Cousin"
+        "Every thread always has a separate address space from every other thread",
+        "Threads within the same process normally share the process address space, while separate processes have separate address spaces",
+        "A process is only a file stored on disk",
+        "A thread cannot execute instructions"
       ],
-      "a": 2,
-      "answerIndex": 2,
-      "e": "Ravi's father's only daughter is Ravi's sister. The boy is the son of that sister, so he is Ravi's nephew. The statement does not make the boy Ravi's son.",
-      "difficulty": "Easy",
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A process is an executing program with its own process resources and address space. Threads are execution paths within a process and normally share that process's address space and resources, while each thread has its own execution state such as registers and stack.",
+      "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
         "MPSC Inspector of Taxes",
@@ -1212,15 +1210,15 @@
         "MPSC Secretariat LDA"
       ],
       "tags": [
-        "Reasoning",
-        "Blood relation — maternal/paternal link",
+        "Computer",
+        "Operating systems — process and thread",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Original author-created logical reasoning problem.",
+      "source": "Original Practice — not an official PYQ. OSTEP — Operating Systems: Three Easy Pieces.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Original author-created logical reasoning problem",
-      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceName": "OSTEP — Operating Systems: Three Easy Pieces",
+      "sourceURL": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1260,35 +1258,34 @@
     },
     {
       "id": 9261,
-      "cat": "Reasoning",
-      "topic": "Clock — angle between hands",
-      "q": "What is the smaller angle between the hour hand and the minute hand of a clock at 4:20?",
+      "cat": "History",
+      "topic": "Berlin Conference — colonial claims in Africa",
+      "q": "The Berlin Conference of 1884–1885 is historically significant mainly because it:",
       "o": [
-        "0°",
-        "10°",
-        "20°",
-        "30°"
+        "Established rules among European powers for asserting colonial claims in Africa",
+        "Granted independence to all African colonies",
+        "Created the United Nations",
+        "Ended the First World War"
       ],
-      "a": 1,
-      "answerIndex": 1,
-      "e": "At 4:20 the minute hand is at 20 × 6° = 120°. The hour hand is at 4 × 30° + 20 × 0.5° = 130°. The difference is 10°, which is the smaller angle.",
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Berlin Conference formalised principles and procedures by which European powers notified and recognised claims to territory in Africa. African rulers were not represented as equal participants, and the conference accelerated the Scramble for Africa rather than granting independence.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
-        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
       "tags": [
-        "Reasoning",
-        "Clock — angle between hands",
+        "History",
+        "Berlin Conference — colonial claims in Africa",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Original author-created logical reasoning problem.",
+      "source": "Original Practice — not an official PYQ. NCERT — Themes in World History and history learning resources.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Original author-created logical reasoning problem",
-      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceName": "NCERT — Themes in World History and history learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
