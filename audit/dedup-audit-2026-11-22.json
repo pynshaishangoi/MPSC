@@ -374,12 +374,26 @@
       "conclusion": "success"
     },
     "pushValidation": {
-      "status": "not detected"
+      "status": "success",
+      "runId": 44986428297,
+      "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/44986428297",
+      "headSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
+      "conclusion": "success"
     },
     "pagesBuildAndDeployment": {
-      "status": "unverified",
-      "runId": null,
-      "url": null
+      "status": "success",
+      "runId": 44986428168,
+      "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/44986428168",
+      "headSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
+      "conclusion": "success"
+    },
+    "correctionPullRequestValidation": {
+      "status": "passed",
+      "runId": 44986400869,
+      "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/44986400869",
+      "headSha": "43381e2168786661671498694ead82eadf9cf971",
+      "mergeCommitSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
+      "conclusion": "success"
     }
   },
   "postMergeCrossCorpusReview": {
@@ -412,10 +426,13 @@
     "Four option-only fingerprint hits were reviewed and confirmed non-duplicates: one negative-sign normalization artifact and three generic 10–13 option sets. No matching stem or semantic learning objective was found.",
     "Follow-up content corrections are in PR #117; the next daily target is held at 90 until that correction PR passes and merges.",
     "A third same-learning-objective overlap was found in the Municipality five-year term item versus active Q9002 on District Council member tenure; Q9235 was replaced with a distinct Article 243ZC applicability question.",
-    "Six option-only fingerprint hits were reviewed and confirmed non-duplicates; the Q9235/Q9002 overlap is separately recorded as a semantic rejection."
+    "Six option-only fingerprint hits were reviewed and confirmed non-duplicates; the Q9235/Q9002 overlap is separately recorded as a semantic rejection.",
+    "Correction PR #117 merged at 2026-11-22T04:45:14Z (commit 745db9ff1200e788f4ef169e54e242f6b99af1c4). It corrected Q9227, Q9230, Q9235 and Q9273; active count remains 1,187 with exact canonical/archive parity.",
+    "Correction PR validation passed in run #44986400869; main push validation passed in run #44986428297; GitHub Pages build/deployment workflow succeeded in run #44986428168. The live URL could not be fetched to confirm the build marker, so live deployment remains unverified.",
+    "With 90/90 target questions merged and all post-correction quality, source, deduplication and repository gates passed, the next daily target advances to 110."
   ],
   "liveDeploymentVerified": false,
-  "deploymentStatus": "unverified",
+  "deploymentStatus": "pages_workflow_succeeded_live_content_unverified",
   "postRunCrossCorpusReview": {
     "verifiedDate": "2026-11-22",
     "activeQuestionsCompared": 1097,
@@ -542,16 +559,38 @@
       }
     ]
   },
-  "correctionStatus": "pending",
+  "correctionStatus": "merged",
   "correctionPullRequest": {
     "number": 117,
     "url": "https://github.com/pynshaishangoi/MPSC/pull/117",
-    "state": "pending"
+    "state": "merged",
+    "mergedAt": "2026-11-22T04:45:14Z",
+    "mergeCommitSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
+    "headSha": "43381e2168786661671498694ead82eadf9cf971"
   },
   "correctionValidation": {
-    "status": "pending",
-    "runId": null,
-    "url": null,
-    "mergeCommitSha": null
-  }
+    "status": "passed",
+    "runId": 44986400869,
+    "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/44986400869",
+    "headSha": "43381e2168786661671498694ead82eadf9cf971",
+    "mergeCommitSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
+    "conclusion": "success"
+  },
+  "correctionMergeCommitSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
+  "correctionMergedAt": "2026-11-22T04:45:14Z",
+  "liveDeploymentCheck": {
+    "attempted": true,
+    "expectedBuildMarker": "2026-11-22-original-practice-90",
+    "verified": false,
+    "methods": [
+      "browser open",
+      "direct fetch"
+    ],
+    "result": "The GitHub Pages workflow completed successfully, but the live URL was inaccessible from the verification environment; the marker was not independently confirmed."
+  },
+  "nextDailyTarget": 110,
+  "currentActiveQuestions": 1187,
+  "cumulativeUniqueAdditionsSinceRampStart": 306,
+  "remainingTo10000": 8813,
+  "postCorrectionMainSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4"
 }
