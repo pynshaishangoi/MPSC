@@ -1055,18 +1055,18 @@
     {
       "id": 9255,
       "cat": "Arithmetic",
-      "topic": "Mensuration — volume of a cone",
-      "q": "A right circular cone has radius 3 cm and height 8 cm. What is its volume?",
+      "topic": "Polynomial remainder theorem",
+      "q": "When f(x) = 2x³ − 3x² + 4x − 5 is divided by (x − 2), what is the remainder?",
       "o": [
-        "8π cm³",
-        "18π cm³",
-        "24π cm³",
-        "72π cm³"
+        "3",
+        "5",
+        "7",
+        "9"
       ],
       "a": 2,
       "answerIndex": 2,
-      "e": "The volume of a cone is (1/3)πr²h. Substituting r = 3 and h = 8 gives (1/3) × π × 9 × 8 = 24π cm³.",
-      "difficulty": "Easy",
+      "e": "By the Remainder Theorem, the remainder when a polynomial f(x) is divided by (x − a) is f(a). Here f(2) = 2(8) − 3(4) + 4(2) − 5 = 16 − 12 + 8 − 5 = 7. Therefore, the remainder is 7.",
+      "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
         "MPSC Inspector of Taxes",
@@ -1075,7 +1075,7 @@
       ],
       "tags": [
         "Arithmetic",
-        "Mensuration — volume of a cone",
+        "Polynomial remainder theorem",
         "Original Practice"
       ],
       "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
@@ -2364,17 +2364,17 @@
     {
       "id": 9294,
       "cat": "Science",
-      "topic": "Acids and bases — pH calculation",
-      "q": "At 25°C, a solution has a hydrogen-ion concentration of 1 × 10⁻³ mol/L. What is its pH?",
+      "topic": "Chemical kinetics — catalyst and activation energy",
+      "q": "A catalyst generally increases the rate of a chemical reaction because it:",
       "o": [
-        "2",
-        "3",
-        "7",
-        "11"
+        "Raises the activation energy of the reaction",
+        "Provides an alternative pathway with lower activation energy",
+        "Changes the equilibrium constant at a fixed temperature",
+        "Increases the total amount of reactants present"
       ],
       "a": 1,
       "answerIndex": 1,
-      "e": "pH = −log₁₀[H⁺]. With [H⁺] = 10⁻³ mol/L, pH = −log₁₀(10⁻³) = 3. Since the pH is below 7 at 25°C, the solution is acidic.",
+      "e": "A catalyst provides an alternative reaction pathway with a lower activation energy, so a greater fraction of collisions can lead to reaction at a given temperature. A catalyst is regenerated overall and does not change the equilibrium constant at a fixed temperature; it helps equilibrium be reached faster.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -2384,14 +2384,14 @@
       ],
       "tags": [
         "Science",
-        "Acids and bases — pH calculation",
+        "Chemical kinetics — catalyst and activation energy",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — Science and Biology textbook resources.",
+      "source": "Original Practice — not an official PYQ. NCERT — Chemistry textbook resources.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — Science and Biology textbook resources",
-      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=8-12",
+      "sourceName": "NCERT — Chemistry textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
