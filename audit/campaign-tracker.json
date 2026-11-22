@@ -546,5 +546,25 @@
       "questionStemsOrAnswersChanged": false
     }
   },
-  "latestMainShaAtAudit": "bebb1b5ce4cdf346861d009ca834c7a2d9036943"
+  "latestMainShaAtAudit": "bebb1b5ce4cdf346861d009ca834c7a2d9036943",
+  "previousRunTwoBack": {
+    "date": "2026-11-19",
+    "target": 50,
+    "validatedQuestions": 50,
+    "mergedQuestions": 50,
+    "passRate": 1,
+    "targetGatePassed": true,
+    "nextDailyTarget": 70,
+    "qualityGatePassed": true,
+    "dedupGatePassed": true,
+    "sourceGatePassed": true,
+    "repositoryGatePassed": true,
+    "mergeGatePassed": true,
+    "gatePassed": true,
+    "pullRequest": 106,
+    "mergeCommitSha": "0023cc226bd58dbdb271fa3b38bdb16c5e75c561",
+    "githubActionsRun": 44456418682,
+    "githubActionsConclusion": "success",
+    "deploymentVerified": false
+  }
 }
