@@ -1055,17 +1055,17 @@
     {
       "id": 9255,
       "cat": "Arithmetic",
-      "topic": "Polynomial remainder theorem",
-      "q": "When f(x) = 2x³ − 3x² + 4x − 5 is divided by (x − 2), what is the remainder?",
+      "topic": "Absolute-value inequality — compound interval",
+      "q": "What is the solution set of the inequality |2x − 3| < 5?",
       "o": [
-        "3",
-        "5",
-        "7",
-        "9"
+        "x < −1 or x > 4",
+        "−1 < x < 4",
+        "−4 < x < 1",
+        "x > 4"
       ],
-      "a": 2,
-      "answerIndex": 2,
-      "e": "By the Remainder Theorem, the remainder when a polynomial f(x) is divided by (x − a) is f(a). Here f(2) = 2(8) − 3(4) + 4(2) − 5 = 16 − 12 + 8 − 5 = 7. Therefore, the remainder is 7.",
+      "a": 1,
+      "answerIndex": 1,
+      "e": "For |A| < b with b positive, write −b < A < b. Thus −5 < 2x − 3 < 5. Add 3 throughout: −2 < 2x < 8. Divide by 2: −1 < x < 4. Both endpoints are excluded because the original inequality is strict.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -1075,7 +1075,7 @@
       ],
       "tags": [
         "Arithmetic",
-        "Polynomial remainder theorem",
+        "Absolute-value inequality — compound interval",
         "Original Practice"
       ],
       "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook and exemplar resources.",
