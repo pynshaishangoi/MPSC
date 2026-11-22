@@ -107,28 +107,32 @@
         "referenceFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
         "referenceQuestionNumber": 117,
         "referenceStem": "If 3x = 8, what is the value of x?",
-        "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation."
+        "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation.",
+        "reviewedAsNonDuplicate": true
       },
       {
         "candidateId": 9230,
         "referenceFile": "pyq-papers/assistant-employment-officer-2025-series-i.json",
         "referenceQuestionNumber": 112,
         "referenceStem": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
-        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration."
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration.",
+        "reviewedAsNonDuplicate": true
       },
       {
         "candidateId": 9230,
         "referenceFile": "pyq-papers/inspector-drugs-2019-series-i.json",
         "referenceQuestionNumber": 94,
         "referenceStem": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
-        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count."
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count.",
+        "reviewedAsNonDuplicate": true
       },
       {
         "candidateId": 9230,
         "referenceFile": "pyq-papers/investigator-housing-2024-series-i.json",
         "referenceQuestionNumber": 145,
         "referenceStem": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
-        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration."
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration.",
+        "reviewedAsNonDuplicate": true
       }
     ]
   },
@@ -340,28 +344,32 @@
         "referenceFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
         "referenceQuestionNumber": 117,
         "referenceStem": "If 3x = 8, what is the value of x?",
-        "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation."
+        "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation.",
+        "reviewedAsNonDuplicate": true
       },
       {
         "candidateId": 9230,
         "referenceFile": "pyq-papers/assistant-employment-officer-2025-series-i.json",
         "referenceQuestionNumber": 112,
         "referenceStem": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
-        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration."
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration.",
+        "reviewedAsNonDuplicate": true
       },
       {
         "candidateId": 9230,
         "referenceFile": "pyq-papers/inspector-drugs-2019-series-i.json",
         "referenceQuestionNumber": 94,
         "referenceStem": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
-        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count."
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count.",
+        "reviewedAsNonDuplicate": true
       },
       {
         "candidateId": 9230,
         "referenceFile": "pyq-papers/investigator-housing-2024-series-i.json",
         "referenceQuestionNumber": 145,
         "referenceStem": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
-        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration."
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration.",
+        "reviewedAsNonDuplicate": true
       }
     ]
   }
