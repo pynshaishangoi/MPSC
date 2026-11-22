@@ -87,15 +87,15 @@
     "finalBatchNearPairs": 0,
     "unresolvedSemanticCollisions": 0
   },
-  "mergedQuestions": 0,
+  "mergedQuestions": 90,
   "activeUniqueQuestionsBeforeRun": 1097,
-  "activeUniqueQuestionsAfterMerge": 1097,
+  "activeUniqueQuestionsAfterMerge": 1187,
   "comparisonCorpusRecords": 3669,
   "comparisonCorpusRecordsAfterMerge": 3759,
   "archiveMirrorRecordsBeforeRun": 505,
   "archiveMirrorRecordsAfterRun": 595,
-  "mergeStatus": "pending_merge",
-  "postMergeAudit": false,
+  "mergeStatus": "merged",
+  "postMergeAudit": true,
   "subjects": {
     "Meghalaya GK": 6,
     "Polity": 10,
@@ -178,26 +178,30 @@
     "canonicalEmbeddedParity": true,
     "serviceWorker": "passed",
     "repositoryTests": "passed",
-    "workflowRunId": 44985129198,
-    "workflowRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985129198",
+    "workflowRunId": 44985252764,
+    "workflowRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985252764",
     "workflowConclusion": "success"
   },
   "pullRequest": {
     "number": 115,
     "url": "https://github.com/pynshaishangoi/MPSC/pull/115",
-    "state": "open",
-    "headSha": "4cf147b25b026426f9a23f1cd2057561ea021575"
+    "state": "merged",
+    "mergeCommitSha": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
+    "mergedAt": "2026-11-22T04:29:56Z",
+    "headSha": "3bbccccc9347f2f96d7cc09c74a126c2a7e04d48"
   },
-  "postMergeCommitSha": null,
+  "postMergeCommitSha": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
   "workflows": {
     "pullRequestValidation": {
-      "runId": 44985129198,
-      "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985129198",
+      "runId": 44985252764,
+      "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985252764",
       "conclusion": "success"
     },
-    "pushValidation": null,
+    "pushValidation": {
+      "status": "not detected"
+    },
     "pagesBuildAndDeployment": {
-      "status": "not yet verified",
+      "status": "unverified",
       "runId": null,
       "url": null
     }
@@ -223,6 +227,11 @@
     "unresolvedSemanticCollisions": 0
   },
   "notes": [
-    "PR #115 repository validation passed on 22 November 2026; questions remain unmerged until the PR merge is confirmed."
-  ]
+    "PR #115 merged at 2347226f2f5e91ec481ae05a95ebc3b8d9140893.",
+    "Repository validation passed in GitHub Actions run 44985252764; post-merge archive and canonical parity are verified.",
+    "Live GitHub Pages content remains unverified until the live site can be fetched and confirmed to serve build marker 2026-11-22-original-practice-90.",
+    "No private uploaded source files, personal data, private correspondence or copyrighted PYQ question-bank text were published."
+  ],
+  "liveDeploymentVerified": false,
+  "deploymentStatus": "unverified"
 }

@@ -22360,7 +22360,7 @@
     "source": "index.html embedded Q array",
     "offlineFirst": true,
     "runtimeArchiveFetchRequired": false,
-    "postMergeParityVerified": false,
+    "postMergeParityVerified": true,
     "proposedTreeParityVerified": true
   },
   "officialPyq": {
@@ -22373,10 +22373,10 @@
   "archive": {
     "fileCount": 20,
     "questionCount": 595,
-    "mirrorParityVerified": false,
+    "mirrorParityVerified": true,
     "archiveRecordsAreMirrors": true,
     "excludedFromUniqueComparisonCount": true,
-    "postMergeParityVerified": false,
+    "postMergeParityVerified": true,
     "proposedTreeParityVerified": true
   },
   "allPyqFiles": {
@@ -22533,7 +22533,7 @@
     "otherQuestionBankFilesOutsideCanonicalArchivesAndPyq": 0,
     "activeQuestionsBeforeRun": 1097,
     "activeQuestionsInProposedBuild": 1187,
-    "activeQuestionsAfterMerge": 1097,
+    "activeQuestionsAfterMerge": 1187,
     "questionBatchArchivesBeforeRun": 19,
     "questionBatchArchiveRecordsBeforeRun": 505,
     "questionBatchArchivesInProposedBuild": 20,
@@ -22553,13 +22553,19 @@
     ],
     "dedupEffect": "All previous active and official-PYQ stems/options/answers remained unchanged; the new 90 accepted stems passed the final cross-corpus and within-batch scans."
   },
-  "mergeStatus": "pending_merge",
-  "mergedMainSha": null,
-  "postMergeAudit": false,
+  "mergeStatus": "merged",
+  "mergedMainSha": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
+  "postMergeAudit": true,
   "liveDeploymentVerified": false,
-  "validationRunId": 44985129198,
-  "validationRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985129198",
+  "validationRunId": 44985252764,
+  "validationRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985252764",
   "validationConclusion": "success",
   "pullRequest": 115,
-  "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/115"
+  "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/115",
+  "deploymentStatus": "unverified",
+  "postMergeAuditRunId": 44985252764,
+  "postMergeAuditRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985252764",
+  "pullRequestState": "merged",
+  "postMergeCommitSha": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
+  "liveBuildMarker": "2026-11-22-original-practice-90"
 }
