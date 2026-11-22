@@ -5,8 +5,8 @@
   "title": "MPSC Original Practice Batch — 22 November 2026",
   "questionCount": 90,
   "questionIdRange": "9225-9314",
-  "candidateCount": 126,
-  "rejectedCandidateCount": 36,
+  "candidateCount": 128,
+  "rejectedCandidateCount": 38,
   "subjects": {
     "Meghalaya GK": 8,
     "Polity": 12,
@@ -31,7 +31,7 @@
     "exactStemCollisions": 0,
     "exactOptionSetCollisions": 0,
     "activeBankSemanticOrTopicCandidatesRejected": 24,
-    "officialPYQSemanticCandidatesRejected": 12,
+    "officialPYQSemanticCandidatesRejected": 14,
     "withinBatchNearDuplicateCandidatesRejected": 0,
     "unresolvedSemanticCollisions": 0,
     "rejectedCandidateTopics": [
@@ -43,11 +43,13 @@
       "DNS/TCP/HTTPS/RAM overlaps",
       "mixture/boat-stream/average-speed/work-rate/successive-percentage calculations",
       "syllogism, less/fewer, despite, subject-verb agreement and repeated phrasal-verb usage",
-      "Mawjymbuin cave and karst/cave-formation overlaps"
+      "Mawjymbuin cave and karst/cave-formation overlaps",
+      "same-colour two-ball probability without replacement (official PYQ concept overlap)",
+      "mirror-image reasoning overlap with an official word-reflection item"
     ]
   },
   "notes": [
-    "90 of 126 candidates passed the full-bank exact, option-set, topic and semantic screening. Thirty-six overlapping candidates were rejected and not published.",
+    "90 of 128 candidates passed the full-bank exact, option-set, topic and semantic screening. Thirty-eight overlapping candidates were rejected and not published.",
     "The comparison covered the full 1,097-question embedded bank. Official PYQ text was not copied; official PYQ files remain separate.",
     "Questions are embedded in index.html and preserved in this separate archive. They are all Original Practice, never Official PYQ."
   ],
@@ -2431,17 +2433,17 @@
     {
       "id": 9297,
       "cat": "Arithmetic",
-      "topic": "Probability without replacement",
-      "q": "A bag contains 5 red and 3 blue balls. Two balls are drawn successively without replacement. What is the probability that both are red?",
+      "topic": "Diagonals of a polygon",
+      "q": "A convex decagon has how many diagonals?",
       "o": [
-        "5/14",
-        "25/64",
-        "5/8",
-        "10/21"
+        "35",
+        "20",
+        "40",
+        "45"
       ],
       "a": 0,
       "answerIndex": 0,
-      "e": "The probability of a red ball first is 5/8. After one red is removed, 4 red remain among 7 balls, so the second-red probability is 4/7. Multiplying gives (5/8) × (4/7) = 20/56 = 5/14.",
+      "e": "Each vertex can be joined to n−3 non-adjacent vertices. This counts every diagonal from both endpoints, so the total is n(n−3)/2. For a decagon, 10×7/2 = 35 diagonals.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -2450,7 +2452,7 @@
       ],
       "tags": [
         "Arithmetic",
-        "Probability without replacement",
+        "Diagonals of a polygon",
         "Original Practice"
       ],
       "source": "Original Practice — not an official PYQ. Verified against NCERT — Mathematics Exemplar Problems.",
@@ -2761,17 +2763,17 @@
     {
       "id": 9307,
       "cat": "Reasoning",
-      "topic": "Mirror image of a clock",
-      "q": "An analogue clock shows 2:35. What time would its mirror image show in a plane mirror?",
+      "topic": "Clock-angle reasoning",
+      "q": "An analogue clock shows 3:20. What is the smaller angle between the hour and minute hands?",
       "o": [
-        "9:25",
-        "8:25",
-        "9:35",
-        "10:25"
+        "20°",
+        "30°",
+        "40°",
+        "50°"
       ],
       "a": 0,
       "answerIndex": 0,
-      "e": "For a standard clock-face mirror image, subtract the shown time from 11:60. Thus 11:60 − 2:35 = 9:25. The result is the reflected clock reading, not the actual passage of time.",
+      "e": "The minute hand at 20 minutes is at 20×6 = 120°. The hour hand has moved 20 minutes beyond 3, so it is at 90° + 20×0.5 = 100°. The smaller difference is 20°.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -2780,7 +2782,7 @@
       ],
       "tags": [
         "Reasoning",
-        "Mirror image of a clock",
+        "Clock-angle reasoning",
         "Original Practice"
       ],
       "source": "Original Practice — not an official PYQ. Verified against Original Practice — author-created reasoning item.",
