@@ -2,11 +2,11 @@
 
 A mobile-friendly GitHub Pages study hub for Meghalaya competitive examinations. Priority tracks: MPSC Inspector of Taxes, DSC East Khasi Hills LDA-cum-Typist and MPSC Secretariat LDA.
 
-## Verified repository snapshot — 20 November 2026
+## Verified repository snapshot — 22 November 2026
 
-- **1,043 active unique question records**: 592 legacy embedded questions plus 451 records mirrored in 18 archived batches. All 1,043 are embedded directly in `index.html` for immediate offline availability; the archives are preserved for audit and are not a runtime dependency.
+- **1,187 active unique question records**: 592 legacy embedded questions plus 595 records mirrored in 20 archived batches. All 1,187 are embedded directly in `index.html` for immediate offline availability; the archives are preserved for audit and are not a runtime dependency.
 - **111 records tagged PYQ**. A PYQ tag is not the same as a complete paper.
-- **219 structured detailed explanations** across eight libraries: 52 History, 83 Polity, 20 English, 11 Arithmetic, 20 Meghalaya GK, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **21.0% of the active bank**; 824 active IDs still need structured library explanations. The Meghalaya GK library explains 20 of 74 active regional questions (27.0%); 54 remain. The Arithmetic library adds worked solutions for 11 of 171 active questions (compound interest, percentages, ratio, simple interest, average, profit, time-and-work and speed); 160 remain. Coverage is audited by ID in `audit/explanation-coverage-2026-11-06.json`.
+- **219 structured detailed explanations** across eight libraries: 52 History, 83 Polity, 20 English, 11 Arithmetic, 20 Meghalaya GK, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **18.4% of the active bank**; 968 active IDs still need structured library explanations. The Meghalaya GK library explains 20 of 86 active regional questions (23.3%); 66 remain. The Arithmetic library adds worked solutions for 11 of 178 active questions (compound interest, percentages, ratio, simple interest, average, profit, time-and-work and speed); 167 remain. Coverage is audited by ID in `audit/explanation-coverage-2026-11-06.json`.
 - **Study Notes:** 18 subject collections and 64 revision chapters (including 4 newly integrated collections from the 6 November uploaded-note analysis).
 - **MPSC Secretariat LDA May 2025 recruitment-cycle Series I:** 91 of 150 questions transcribed and checked against the official final answer key dated 17 December 2025; 59 remain.
 
@@ -36,22 +36,22 @@ Editorial classification of the 75 English questions: 4 reading-comprehension, 6
 
 | Subject | Active records |
 |---|---:|
-| Arithmetic | 171 |
-| English | 161 |
-| Polity | 99 |
-| Meghalaya GK | 74 |
-| Science | 58 |
-| Economy | 61 |
-| Current Affairs | 48 |
-| Geography | 62 |
+| Arithmetic | 178 |
+| English | 171 |
+| Polity | 115 |
+| Meghalaya GK | 86 |
+| Science | 73 |
+| Economy | 74 |
+| Current Affairs | 50 |
+| Geography | 75 |
 | Aptitude | 32 |
-| Environment | 41 |
+| Environment | 52 |
 | Officer Technical | 17 |
-| GST / Inspector of Taxes | 56 |
-| Reasoning | 48 |
+| GST / Inspector of Taxes | 71 |
+| Reasoning | 53 |
 | General Science | 11 |
-| Computer | 35 |
-| History | 63 |
+| Computer | 46 |
+| History | 77 |
 | Static GK | 3 |
 | Art & Culture | 1 |
 | International Organisations | 1 |
@@ -159,3 +159,16 @@ The 21 November batch was merged in [PR #112](https://github.com/pynshaishangoi/
 The canonical bank now contains 1,097 embedded questions. The matching archive is question-batches/2026-11-21-original-practice.json. The 19 archive files contain 505 mirrored records; archives remain preserved but are not required for runtime question visibility. The full comparison covered 1,043 active questions and 2,572 official-PYQ transcription records (including the 139-record partial file, which is an exact subset); the 451 prior archive records were treated as mirrors rather than double-counted. Five near-semantic candidates and one within-batch near pair were rejected; the accepted batch has zero unresolved collisions.
 
 Because 54 of 90 target questions passed (60%), the next daily target remains 90. The new canonical build marker is 2026-11-21-original-practice-54. GitHub Pages deployment will remain unverified until the live site is fetched and shown to serve that marker.
+
+## 22 November 2026 — 90 additional original practice questions
+
+The 22 November batch adds **90 newly authored Original Practice questions** (IDs 9225–9314), merged in [PR #115](https://github.com/pynshaishangoi/MPSC/pull/115) at content commit `2347226f2f5e91ec481ae05a95ebc3b8d9140893`. The run drafted 102 candidates; 12 were rejected or replaced after exact, option-set, near-semantic and concept-overlap review. The retained 90 passed the repository validator and full-bank deduplication checks. They are tagged for MPSC Inspector of Taxes, DSC East Khasi Hills LDA-cum-Typist and MPSC Secretariat LDA, and are explicitly labelled Original Practice, never PYQ.
+
+Subject coverage: Meghalaya GK 6, Polity 10, English 8, Arithmetic 5, Economy 8, History 10, Geography 9, Science 9, Environment 7, Computer 7, Reasoning 3, GST / Inspector of Taxes 6 and Current Affairs 2. The full scan compared 1,097 active questions, all 19 official/partial PYQ files (2,572 records, including the 139-record partial Labour Inspector subset) and 19 pre-existing archive files (505 mirrored records). After merge, the canonical bank contains **1,187 unique questions** and 20 archive files contain 595 mirrored records. Archives remain audit mirrors, not a runtime source of truth.
+
+The accepted batch has **zero exact stem collisions, zero option-set collisions, zero within-batch near-duplicate pairs and zero unresolved semantic collisions**. Twelve candidate drafts were rejected or replaced; the rejected-candidate log and historical duplicate clusters are kept separately in `audit/dedup-audit-2026-11-22.json` and `audit/dedup-index-2026-11-22.json`. The same 90 accepted records are embedded in `index.html`, the dashboard count is derived from `Q.length`, and the service-worker cache was advanced to `mpsc-smart-study-v5-58-20261122`.
+
+GST questions were checked against CGST Act Sections 16(4), 17(5)(a), 17(5)(c), 17(5)(h), 18(1)(a) and 56, alongside the November 2026 commencement review. The Finance Act 2026 changes to Sections 15, 34 and 54 effective 1 November 2026 do not change the specific provisions tested. Meghalaya regional facts were checked against Meghalaya Government / Chief Electoral Officer sources; NEFT and RTGS questions use current RBI FAQs. Repository validation passed in [GitHub Actions run #44985252764](https://github.com/pynshaishangoi/MPSC/actions/runs/44985252764).
+
+The 21 November run achieved 54/90 (60%), so the target stayed at 90. The 22 November run achieved 90/90, passed the quality, deduplication, source and repository gates, and merged successfully. The next daily target is **110**. Cumulative additions since the ramp began are 306; 8,813 more unique questions are needed to reach 10,000. The live GitHub Pages deployment remains **unverified** because the live URL could not be fetched to confirm build marker `2026-11-22-original-practice-90`. No private uploaded PDFs, personal data, private correspondence or copyrighted PYQ question-bank text were published.
+
