@@ -174,18 +174,33 @@
     "sourceURLs": true,
     "originalPracticeLabels": true,
     "fullBankDedup": true,
-    "archiveParity": false,
-    "canonicalEmbeddedParity": false,
-    "serviceWorker": "updated; syntax/CI validation pending",
-    "repositoryTests": "pending"
+    "archiveParity": true,
+    "canonicalEmbeddedParity": true,
+    "serviceWorker": "passed",
+    "repositoryTests": "passed",
+    "workflowRunId": 44985129198,
+    "workflowRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985129198",
+    "workflowConclusion": "success"
   },
-  "pullRequest": null,
+  "pullRequest": {
+    "number": 115,
+    "url": "https://github.com/pynshaishangoi/MPSC/pull/115",
+    "state": "open",
+    "headSha": "4cf147b25b026426f9a23f1cd2057561ea021575"
+  },
   "postMergeCommitSha": null,
   "workflows": {
-    "pullRequestValidation": null,
+    "pullRequestValidation": {
+      "runId": 44985129198,
+      "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985129198",
+      "conclusion": "success"
+    },
     "pushValidation": null,
-    "pagesBuildAndDeployment": null,
-    "pagesBuildConclusion": "pending"
+    "pagesBuildAndDeployment": {
+      "status": "not yet verified",
+      "runId": null,
+      "url": null
+    }
   },
   "postMergeCrossCorpusReview": {
     "verifiedDate": "2026-11-22",
@@ -206,5 +221,8 @@
     "finalNearSemanticMatches": 0,
     "withinBatchNearPairs": 0,
     "unresolvedSemanticCollisions": 0
-  }
+  },
+  "notes": [
+    "PR #115 repository validation passed on 22 November 2026; questions remain unmerged until the PR merge is confirmed."
+  ]
 }
