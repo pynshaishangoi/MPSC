@@ -5,8 +5,8 @@
   "title": "MPSC Original Practice Batch — 22 November 2026",
   "questionCount": 90,
   "questionIdRange": "9225-9314",
-  "candidateCount": 128,
-  "rejectedCandidateCount": 38,
+  "candidateCount": 129,
+  "rejectedCandidateCount": 39,
   "subjects": {
     "Meghalaya GK": 8,
     "Polity": 12,
@@ -30,8 +30,8 @@
     "corpus": "1,097 canonical active questions, 2,572 official-PYQ transcription records across 19 files (18 distinct papers plus one partial duplicate), and 505 archived mirror records; archive mirrors were not double-counted.",
     "exactStemCollisions": 0,
     "exactOptionSetCollisions": 0,
-    "activeBankSemanticOrTopicCandidatesRejected": 24,
-    "officialPYQSemanticCandidatesRejected": 14,
+    "activeBankSemanticOrTopicCandidatesRejected": 30,
+    "officialPYQSemanticCandidatesRejected": 9,
     "withinBatchNearDuplicateCandidatesRejected": 0,
     "unresolvedSemanticCollisions": 0,
     "rejectedCandidateTopics": [
@@ -45,13 +45,16 @@
       "syllogism, less/fewer, despite, subject-verb agreement and repeated phrasal-verb usage",
       "Mawjymbuin cave and karst/cave-formation overlaps",
       "same-colour two-ball probability without replacement (official PYQ concept overlap)",
-      "mirror-image reasoning overlap with an official word-reflection item"
-    ]
+      "mirror-image reasoning overlap with an official word-reflection item",
+      "clock-angle calculation candidate overlapping with existing official PYQ clock-angle questions"
+    ],
+    "candidateOptionSetCollisionsRejected": 1
   },
   "notes": [
-    "90 of 128 candidates passed the full-bank exact, option-set, topic and semantic screening. Thirty-eight overlapping candidates were rejected and not published.",
+    "90 of 129 candidates passed the full-bank exact, option-set, topic and semantic screening. Thirty-nine overlapping candidates were rejected and not published.",
     "The comparison covered the full 1,097-question embedded bank. Official PYQ text was not copied; official PYQ files remain separate.",
-    "Questions are embedded in index.html and preserved in this separate archive. They are all Original Practice, never Official PYQ."
+    "Questions are embedded in index.html and preserved in this separate archive. They are all Original Practice, never Official PYQ.",
+    "The clock-angle candidate was rejected after checking all 19 PYQ files; it was replaced with an original office-process sequencing item sourced to DARPG CSMOP 2022."
   ],
   "questions": [
     {
@@ -2763,17 +2766,17 @@
     {
       "id": 9307,
       "cat": "Reasoning",
-      "topic": "Clock-angle reasoning",
-      "q": "An analogue clock shows 3:20. What is the smaller angle between the hour and minute hands?",
+      "topic": "Administrative process sequencing",
+      "q": "In a simplified office file-processing sequence, receipt is followed by diarisation and marking to the dealing assistant. Which step normally comes immediately before the competent authority considers the case for approval?",
       "o": [
-        "20°",
-        "30°",
-        "40°",
-        "50°"
+        "Examination of the case and preparation of a note",
+        "Dispatch of the final communication",
+        "Receipt of the original representation",
+        "Closing the file before scrutiny"
       ],
       "a": 0,
       "answerIndex": 0,
-      "e": "The minute hand at 20 minutes is at 20×6 = 120°. The hour hand has moved 20 minutes beyond 3, so it is at 90° + 20×0.5 = 100°. The smaller difference is 20°.",
+      "e": "After a receipt is diarised and marked to the dealing assistant, the case is examined and relevant facts, rules and options are recorded in a note for the competent authority. The decision is then communicated and the approved communication is dispatched; departmental instructions may prescribe local variations.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -2782,14 +2785,14 @@
       ],
       "tags": [
         "Reasoning",
-        "Clock-angle reasoning",
+        "Administrative process sequencing",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Verified against Original Practice — author-created reasoning item.",
+      "source": "Original Practice — not an official PYQ. Verified against Department of Administrative Reforms and Public Grievances, Central Secretariat Manual of Office Procedure 2022.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Original Practice — author-created reasoning item",
-      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceName": "DARPG — Central Secretariat Manual of Office Procedure, 16th Edition (2022)",
+      "sourceURL": "https://www.darpg.gov.in/documents/reports/csmop-YDO2MTMtQWa?pageTitle=CSMOP",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_authoritatively_sourced_original_practice_2026-11-22"
     },
