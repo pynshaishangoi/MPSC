@@ -65,11 +65,11 @@
         "Assembly constituencies by division",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal / Chief Electoral Officer of Meghalaya.",
+      "source": "Original Practice — not an official PYQ. Office of the Chief Electoral Officer, Meghalaya — About Us.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Meghalaya Government Portal / Chief Electoral Officer of Meghalaya",
-      "sourceURL": "https://www.ceomeghalaya.nic.in/about_us.html",
+      "sourceName": "Office of the Chief Electoral Officer, Meghalaya — About Us",
+      "sourceURL": "https://ceomeghalaya.nic.in/about_us.html",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -98,11 +98,11 @@
         "Parliamentary representation — Lok Sabha",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal / Chief Electoral Officer of Meghalaya.",
+      "source": "Original Practice — not an official PYQ. Office of the Chief Electoral Officer, Meghalaya — About Us.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Meghalaya Government Portal / Chief Electoral Officer of Meghalaya",
-      "sourceURL": "https://www.ceomeghalaya.nic.in/about_us.html",
+      "sourceName": "Office of the Chief Electoral Officer, Meghalaya — About Us",
+      "sourceURL": "https://ceomeghalaya.nic.in/about_us.html",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -131,11 +131,11 @@
         "Parliamentary representation — Rajya Sabha",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal / Chief Electoral Officer of Meghalaya.",
+      "source": "Original Practice — not an official PYQ. Office of the Chief Electoral Officer, Meghalaya — About Us.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Meghalaya Government Portal / Chief Electoral Officer of Meghalaya",
-      "sourceURL": "https://www.ceomeghalaya.nic.in/about_us.html",
+      "sourceName": "Office of the Chief Electoral Officer, Meghalaya — About Us",
+      "sourceURL": "https://ceomeghalaya.nic.in/about_us.html",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -164,11 +164,11 @@
         "District administration — Deputy Commissioner",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — Government and district administration.",
+      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — Shillong District Administrative Setup.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Meghalaya Government Portal — Government and district administration",
-      "sourceURL": "https://meghalaya.gov.in/government",
+      "sourceName": "Meghalaya Government Portal — Shillong District Administrative Setup",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34292",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -176,16 +176,16 @@
       "id": 9229,
       "cat": "Meghalaya GK",
       "topic": "International boundary with Bangladesh",
-      "q": "According to the Meghalaya Forest and Environment Department, approximately how long is the State's international boundary with Bangladesh?",
+      "q": "According to the Government of Meghalaya's Vision 2030 document, approximately how long is the State's international boundary with Bangladesh?",
       "o": [
         "223 km",
         "323 km",
-        "423 km",
+        "443 km",
         "523 km"
       ],
       "a": 2,
       "answerIndex": 2,
-      "e": "The Department's official overview states that Meghalaya shares a 423-kilometre international boundary with Bangladesh along its southern and western sides.",
+      "e": "The Government-commissioned Meghalaya Vision 2030 document states that Meghalaya shares a 443-kilometre international border with Bangladesh along its south and southwest. The earlier 423-kilometre figure was incorrect and has been replaced after checking the source.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -197,11 +197,11 @@
         "International boundary with Bangladesh",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Meghalaya Forest and Environment Department.",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — A Vision Document for the State of Meghalaya 2030.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Meghalaya Forest and Environment Department",
-      "sourceURL": "https://megforest.gov.in/",
+      "sourceName": "Government of Meghalaya — A Vision Document for the State of Meghalaya 2030",
+      "sourceURL": "https://cm.meghalaya.gov.in/wp-content/uploads/2021/06/vision2030.pdf",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -209,16 +209,16 @@
       "id": 9230,
       "cat": "Meghalaya GK",
       "topic": "Governor — constitutional appointment",
-      "q": "Who appoints the Governor of Meghalaya under the constitutional arrangement described by the State Government?",
+      "q": "According to the Chief Electoral Officer of Meghalaya, how many administrative divisions and districts does the State have?",
       "o": [
-        "The Chief Minister",
-        "The Speaker of the Assembly",
-        "The President of India",
-        "The State Legislative Assembly"
+        "2 divisions and 11 districts",
+        "2 divisions and 10 districts",
+        "3 divisions and 11 districts",
+        "3 divisions and 12 districts"
       ],
-      "a": 2,
-      "answerIndex": 2,
-      "e": "The Governor is appointed by the President of India. The Governor is the constitutional head of the State, while the Chief Minister heads the elected State Government.",
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The CEO Meghalaya profile lists two divisions and eleven districts. It separately states that the Khasi and Jaintia Hills division has 36 Assembly constituencies and the Garo Hills division has 24.",
       "difficulty": "Easy",
       "exam": "Common MPSC",
       "examTags": [
@@ -230,11 +230,11 @@
         "Governor — constitutional appointment",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Meghalaya Government Portal — Government and district administration.",
+      "source": "Original Practice — not an official PYQ. Office of the Chief Electoral Officer, Meghalaya — About Us.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Meghalaya Government Portal — Government and district administration",
-      "sourceURL": "https://meghalaya.gov.in/government",
+      "sourceName": "Office of the Chief Electoral Officer, Meghalaya — About Us",
+      "sourceURL": "https://ceomeghalaya.nic.in/about_us.html",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -604,11 +604,11 @@
         "Had better — bare infinitive",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — English Grammar Today.",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — Had better.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Cambridge Dictionary — English Grammar Today",
-      "sourceURL": "https://dictionary.cambridge.org/grammar/",
+      "sourceName": "Cambridge Dictionary — Had better",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/had-better",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -638,11 +638,11 @@
         "Would rather with a different subject",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — English Grammar Today.",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — Prefer, would prefer and would rather.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Cambridge Dictionary — English Grammar Today",
-      "sourceURL": "https://dictionary.cambridge.org/grammar/",
+      "sourceName": "Cambridge Dictionary — Prefer, would prefer and would rather",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/prefer-would-prefer-or-would-rather",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -650,16 +650,16 @@
       "id": 9243,
       "cat": "English",
       "topic": "Relative pronoun in object position",
-      "q": "In formal written English, which relative pronoun correctly functions as the object of 'invite' in the question about the committee?",
+      "q": "Choose the pronoun that correctly completes the formal relative clause: 'The candidate ___ the committee invited has accepted the post.'",
       "o": [
-        "Whom did the committee invite to the meeting?",
-        "Who did the committee invite to the meeting?",
-        "Whose did the committee invite to the meeting?",
-        "Which did the committee invite to the meeting? (referring to a person)"
+        "who",
+        "whom",
+        "whose",
+        "which"
       ],
-      "a": 0,
-      "answerIndex": 0,
-      "e": "'Whom' is the objective form of 'who'. In the question, the committee invited the person, so the pronoun is the object of 'invite'. In everyday speech 'who' is common, but 'whom' is the formal objective form tested here.",
+      "a": 1,
+      "answerIndex": 1,
+      "e": "In the relative clause 'the committee invited ___', the pronoun is the object of the verb 'invited'. 'Whom' is the objective form used for a person in formal written English; 'who' is the subject form.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -672,11 +672,11 @@
         "Relative pronoun in object position",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — English Grammar Today.",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — Relative pronouns.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Cambridge Dictionary — English Grammar Today",
-      "sourceURL": "https://dictionary.cambridge.org/grammar/",
+      "sourceName": "Cambridge Dictionary — Relative pronouns",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/relative-pronouns",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -684,16 +684,16 @@
       "id": 9244,
       "cat": "English",
       "topic": "Semicolon — joining independent clauses",
-      "q": "Which sentence uses a semicolon correctly?",
+      "q": "A writer wants to join two closely related independent clauses without using a coordinating conjunction. Which punctuation mark is appropriate?",
       "o": [
-        "The report was complete; and, the officer signed it.",
-        "The report was complete; the officer signed it.",
-        "The report; was complete the officer signed it.",
-        "The report was; complete, the officer signed it."
+        "Comma",
+        "Semicolon",
+        "Apostrophe",
+        "Hyphen"
       ],
       "a": 1,
       "answerIndex": 1,
-      "e": "A semicolon can join two closely related independent clauses without a coordinating conjunction. Both 'The report was complete' and 'the officer signed it' can stand as complete sentences, so the second option is correct.",
+      "e": "A semicolon can join two closely related independent clauses when no coordinating conjunction is used. A comma alone would create a comma splice; an apostrophe and a hyphen do not perform this function.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -706,11 +706,11 @@
         "Semicolon — joining independent clauses",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — English Grammar Today.",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — Punctuation.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Cambridge Dictionary — English Grammar Today",
-      "sourceURL": "https://dictionary.cambridge.org/grammar/",
+      "sourceName": "Cambridge Dictionary — Punctuation",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/punctuation",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -718,16 +718,16 @@
       "id": 9245,
       "cat": "English",
       "topic": "Colon — introducing an explanation or list",
-      "q": "Which sentence uses a colon correctly?",
+      "q": "A complete clause is followed by a list of three documents. Which punctuation mark is normally used to introduce the list?",
       "o": [
-        "The file contained: three maps, two letters and one statement.",
-        "The file contained three items: three maps, two letters and one statement.",
-        "The file: contained three maps, two letters and one statement.",
-        "The file contained three: maps, two letters and one statement."
+        "Colon",
+        "Apostrophe",
+        "Hyphen",
+        "Question mark"
       ],
-      "a": 1,
-      "answerIndex": 1,
-      "e": "A colon may introduce an explanation or list after a complete independent clause. 'The file contained three items' is complete before the colon, so the list that follows is introduced correctly.",
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A colon may introduce a list after a complete independent clause. The clause before the colon should be grammatically complete; the list then supplies the details.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -740,11 +740,11 @@
         "Colon — introducing an explanation or list",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — English Grammar Today.",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — Punctuation.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Cambridge Dictionary — English Grammar Today",
-      "sourceURL": "https://dictionary.cambridge.org/grammar/",
+      "sourceName": "Cambridge Dictionary — Punctuation",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/punctuation",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -774,11 +774,11 @@
         "Complement versus compliment",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — English Grammar Today.",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — Complement.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Cambridge Dictionary — English Grammar Today",
-      "sourceURL": "https://dictionary.cambridge.org/grammar/",
+      "sourceName": "Cambridge Dictionary — Complement",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/complement",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -808,11 +808,11 @@
         "Meaning of 'all but'",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — English Grammar Today.",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — All but.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Cambridge Dictionary — English Grammar Today",
-      "sourceURL": "https://dictionary.cambridge.org/grammar/",
+      "sourceName": "Cambridge Dictionary — All but",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/all-but",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -842,11 +842,11 @@
         "Meaning of 'by virtue of'",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — English Grammar Today.",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — By virtue of.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Cambridge Dictionary — English Grammar Today",
-      "sourceURL": "https://dictionary.cambridge.org/grammar/",
+      "sourceName": "Cambridge Dictionary — By virtue of",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/by-virtue-of",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -944,10 +944,10 @@
         "Opportunity cost — next-best alternative",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — Economics learning resources.",
+      "source": "Original Practice — not an official PYQ. NCERT — Economics textbooks and learning resources.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — Economics learning resources",
+      "sourceName": "NCERT — Economics textbooks and learning resources",
       "sourceURL": "https://ncert.nic.in/textbook.php",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
@@ -1011,11 +1011,11 @@
         "Meiji Restoration — Japan, 1868",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — Themes in World History and history learning resources.",
+      "source": "Original Practice — not an official PYQ. NCERT — Class XI History, Themes in World History.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — Themes in World History and history learning resources",
-      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceName": "NCERT — Class XI History, Themes in World History",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/kehs107.pdf",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1044,11 +1044,11 @@
         "Ocean circulation — thermohaline circulation",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — Geography learning resources and oceanography.",
+      "source": "Original Practice — not an official PYQ. NOAA Ocean Service — Ocean circulation and currents.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — Geography learning resources and oceanography",
-      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceName": "NOAA Ocean Service — Ocean circulation and currents",
+      "sourceURL": "https://oceanservice.noaa.gov/education/tutorial_currents/05conveyor1.html",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1116,7 +1116,7 @@
       "label": "Original Practice",
       "sourceType": "Original Practice",
       "sourceName": "NCERT — Chemistry textbook resources",
-      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=8-12",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1214,10 +1214,10 @@
         "Operating systems — process and thread",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. OSTEP — Operating Systems: Three Easy Pieces.",
+      "source": "Original Practice — not an official PYQ. University of Wisconsin — Operating Systems: Three Easy Pieces.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "OSTEP — Operating Systems: Three Easy Pieces",
+      "sourceName": "University of Wisconsin — Operating Systems: Three Easy Pieces",
       "sourceURL": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
@@ -1281,11 +1281,11 @@
         "Berlin Conference — colonial claims in Africa",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — Themes in World History and history learning resources.",
+      "source": "Original Practice — not an official PYQ. Encyclopaedia Britannica — Berlin West Africa Conference.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — Themes in World History and history learning resources",
-      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceName": "Encyclopaedia Britannica — Berlin West Africa Conference",
+      "sourceURL": "https://www.britannica.com/event/Berlin-West-Africa-Conference",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1382,11 +1382,11 @@
         "French Revolution — fall of the Bastille",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — History textbooks and learning resources.",
+      "source": "Original Practice — not an official PYQ. Encyclopaedia Britannica — French Revolution.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — History textbooks and learning resources",
-      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceName": "Encyclopaedia Britannica — French Revolution",
+      "sourceURL": "https://www.britannica.com/event/French-Revolution",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1415,11 +1415,11 @@
         "Russian Revolution — October 1917",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — History textbooks and learning resources.",
+      "source": "Original Practice — not an official PYQ. Encyclopaedia Britannica — Russian Revolution.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — History textbooks and learning resources",
-      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceName": "Encyclopaedia Britannica — Russian Revolution",
+      "sourceURL": "https://www.britannica.com/event/Russian-Revolution",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1448,11 +1448,11 @@
         "Treaty of Versailles — 1919",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — History textbooks and learning resources.",
+      "source": "Original Practice — not an official PYQ. Encyclopaedia Britannica — Treaty of Versailles.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — History textbooks and learning resources",
-      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceName": "Encyclopaedia Britannica — Treaty of Versailles",
+      "sourceURL": "https://www.britannica.com/event/Treaty-of-Versailles-1919",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1481,11 +1481,11 @@
         "Industrial Revolution — early centre",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — History textbooks and learning resources.",
+      "source": "Original Practice — not an official PYQ. Encyclopaedia Britannica — Industrial Revolution.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — History textbooks and learning resources",
-      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceName": "Encyclopaedia Britannica — Industrial Revolution",
+      "sourceURL": "https://www.britannica.com/event/Industrial-Revolution",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1514,11 +1514,11 @@
         "Renaissance — early centre",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — History textbooks and learning resources.",
+      "source": "Original Practice — not an official PYQ. Encyclopaedia Britannica — Renaissance.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — History textbooks and learning resources",
-      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceName": "Encyclopaedia Britannica — Renaissance",
+      "sourceURL": "https://www.britannica.com/event/Renaissance",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1547,11 +1547,11 @@
         "Reign of Terror — French Revolution",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — History textbooks and learning resources.",
+      "source": "Original Practice — not an official PYQ. Encyclopaedia Britannica — Reign of Terror.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — History textbooks and learning resources",
-      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceName": "Encyclopaedia Britannica — Reign of Terror",
+      "sourceURL": "https://www.britannica.com/event/Reign-of-Terror",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1580,11 +1580,11 @@
         "Congress of Vienna — post-Napoleonic Europe",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — History textbooks and learning resources.",
+      "source": "Original Practice — not an official PYQ. Encyclopaedia Britannica — Congress of Vienna.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — History textbooks and learning resources",
-      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceName": "Encyclopaedia Britannica — Congress of Vienna",
+      "sourceURL": "https://www.britannica.com/event/Congress-of-Vienna",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1613,11 +1613,11 @@
         "American Revolution — Declaration of Independence",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — History textbooks and learning resources.",
+      "source": "Original Practice — not an official PYQ. U.S. National Archives — Declaration of Independence transcript.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — History textbooks and learning resources",
-      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceName": "U.S. National Archives — Declaration of Independence transcript",
+      "sourceURL": "https://www.archives.gov/founding-docs/declaration-transcript",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1712,11 +1712,11 @@
         "Tides — spring tide",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — Geography textbooks and learning resources.",
+      "source": "Original Practice — not an official PYQ. NOAA Ocean Service — Tides and spring-neap cycles.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — Geography textbooks and learning resources",
-      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceName": "NOAA Ocean Service — Tides and spring-neap cycles",
+      "sourceURL": "https://oceanservice.noaa.gov/education/tutorial_tides/tides07_cycles.html",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1745,11 +1745,11 @@
         "Aeolian landforms — yardang",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — Geography textbooks and learning resources.",
+      "source": "Original Practice — not an official PYQ. Encyclopaedia Britannica — Yardang.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — Geography textbooks and learning resources",
-      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceName": "Encyclopaedia Britannica — Yardang",
+      "sourceURL": "https://www.britannica.com/science/yardang",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -1877,11 +1877,11 @@
         "Continental shelf — marine geography",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — Geography textbooks and learning resources.",
+      "source": "Original Practice — not an official PYQ. NOAA Ocean Service — Continental shelf.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — Geography textbooks and learning resources",
-      "sourceURL": "https://ncert.nic.in/textbook.php?fess1=ps-11",
+      "sourceName": "NOAA Ocean Service — Continental shelf",
+      "sourceURL": "https://oceanservice.noaa.gov/facts/continental-shelf.html",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2081,10 +2081,10 @@
         "GDP deflator — coverage",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NCERT — Economics textbooks and learning resources.",
+      "source": "Original Practice — not an official PYQ. NCERT — Introductory Macroeconomics and Economics resources.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NCERT — Economics textbooks and learning resources",
+      "sourceName": "NCERT — Introductory Macroeconomics and Economics resources",
       "sourceURL": "https://ncert.nic.in/textbook.php",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
@@ -2467,16 +2467,16 @@
       "id": 9297,
       "cat": "Environment",
       "topic": "Ramsar Convention — wise use",
-      "q": "The central concept of 'wise use' under the Ramsar Convention concerns:",
+      "q": "Which pollutant is the central subject of the Minamata Convention?",
       "o": [
-        "Draining wetlands for agriculture",
-        "Maintaining the ecological character of wetlands through sustainable use",
-        "Allowing only tourism in wetlands",
-        "Converting every wetland into a wildlife sanctuary"
+        "Mercury",
+        "Lead",
+        "Sulphur dioxide",
+        "Chlorofluorocarbons"
       ],
-      "a": 1,
-      "answerIndex": 1,
-      "e": "The Ramsar Convention promotes the conservation and wise use of wetlands. Wise use means maintaining their ecological character through ecosystem approaches within sustainable development, not prohibiting every human use.",
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Minamata Convention is a global treaty to protect human health and the environment from anthropogenic emissions and releases of mercury and mercury compounds. Its measures address mercury supply, products, industrial processes, emissions, releases and waste.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -2489,11 +2489,11 @@
         "Ramsar Convention — wise use",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Ministry of Environment, Forest and Climate Change / India Code.",
+      "source": "Original Practice — not an official PYQ. Secretariat of the Minamata Convention on Mercury — About the Convention.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Ministry of Environment, Forest and Climate Change / India Code",
-      "sourceURL": "https://www.moef.gov.in/",
+      "sourceName": "Secretariat of the Minamata Convention on Mercury — About the Convention",
+      "sourceURL": "https://minamataconvention.org/en/about",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2523,11 +2523,11 @@
         "Basel Convention — hazardous waste",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Ministry of Environment, Forest and Climate Change / India Code.",
+      "source": "Original Practice — not an official PYQ. Basel Convention Secretariat — Text of the Convention.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Ministry of Environment, Forest and Climate Change / India Code",
-      "sourceURL": "https://www.moef.gov.in/",
+      "sourceName": "Basel Convention Secretariat — Text of the Convention",
+      "sourceURL": "https://www.basel.int/theconvention/overview/textoftheconvention/tabid/1275/default.aspx",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2557,11 +2557,11 @@
         "E-waste — extended producer responsibility",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Ministry of Environment, Forest and Climate Change / India Code.",
+      "source": "Original Practice — not an official PYQ. Central Pollution Control Board — E-Waste (Management) Rules, 2022.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Ministry of Environment, Forest and Climate Change / India Code",
-      "sourceURL": "https://www.moef.gov.in/",
+      "sourceName": "Central Pollution Control Board — E-Waste (Management) Rules, 2022",
+      "sourceURL": "https://cpcb.nic.in/uploads/Projects/E-Waste/e-waste_rules_2022.pdf",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2591,11 +2591,11 @@
         "Composting — biological process",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Ministry of Environment, Forest and Climate Change / India Code.",
+      "source": "Original Practice — not an official PYQ. United States Environmental Protection Agency — Composting.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Ministry of Environment, Forest and Climate Change / India Code",
-      "sourceURL": "https://www.moef.gov.in/",
+      "sourceName": "United States Environmental Protection Agency — Composting",
+      "sourceURL": "https://www.epa.gov/recycle/composting-home",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2625,11 +2625,11 @@
         "Operating systems — deadlock conditions",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NIELIT — Digital Literacy Courses and Course on Computer Concepts.",
+      "source": "Original Practice — not an official PYQ. University of Illinois Chicago — Operating Systems: Deadlocks.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NIELIT — Digital Literacy Courses and Course on Computer Concepts",
-      "sourceURL": "https://www.nielit.gov.in/calicut/content/digital-literacy-courses",
+      "sourceName": "University of Illinois Chicago — Operating Systems: Deadlocks",
+      "sourceURL": "https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/7_Deadlocks.html",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2659,11 +2659,11 @@
         "Database normalisation — first normal form",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NIELIT — Digital Literacy Courses and Course on Computer Concepts.",
+      "source": "Original Practice — not an official PYQ. IBM — Database normalisation and First Normal Form.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NIELIT — Digital Literacy Courses and Course on Computer Concepts",
-      "sourceURL": "https://www.nielit.gov.in/calicut/content/digital-literacy-courses",
+      "sourceName": "IBM — Database normalisation and First Normal Form",
+      "sourceURL": "https://www.ibm.com/think/topics/database-normalization",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2693,11 +2693,11 @@
         "SQL — WHERE versus HAVING",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NIELIT — Digital Literacy Courses and Course on Computer Concepts.",
+      "source": "Original Practice — not an official PYQ. PostgreSQL Documentation — Aggregate Functions, WHERE and HAVING.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NIELIT — Digital Literacy Courses and Course on Computer Concepts",
-      "sourceURL": "https://www.nielit.gov.in/calicut/content/digital-literacy-courses",
+      "sourceName": "PostgreSQL Documentation — Aggregate Functions, WHERE and HAVING",
+      "sourceURL": "https://www.postgresql.org/docs/current/tutorial-agg.html",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2727,11 +2727,11 @@
         "Data backup — incremental backup",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NIELIT — Digital Literacy Courses and Course on Computer Concepts.",
+      "source": "Original Practice — not an official PYQ. Microsoft Learn — Azure VM Backup.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NIELIT — Digital Literacy Courses and Course on Computer Concepts",
-      "sourceURL": "https://www.nielit.gov.in/calicut/content/digital-literacy-courses",
+      "sourceName": "Microsoft Learn — Azure VM Backup",
+      "sourceURL": "https://learn.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2761,11 +2761,11 @@
         "Networking — IPv4 address length",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NIELIT — Digital Literacy Courses and Course on Computer Concepts.",
+      "source": "Original Practice — not an official PYQ. IETF — RFC 791, Internet Protocol.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NIELIT — Digital Literacy Courses and Course on Computer Concepts",
-      "sourceURL": "https://www.nielit.gov.in/calicut/content/digital-literacy-courses",
+      "sourceName": "IETF — RFC 791, Internet Protocol",
+      "sourceURL": "https://www.rfc-editor.org/rfc/rfc791",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2795,11 +2795,11 @@
         "Email — BCC field",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. NIELIT — Digital Literacy Courses and Course on Computer Concepts.",
+      "source": "Original Practice — not an official PYQ. Google Gmail Help — Hide recipients with BCC.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "NIELIT — Digital Literacy Courses and Course on Computer Concepts",
-      "sourceURL": "https://www.nielit.gov.in/calicut/content/digital-literacy-courses",
+      "sourceName": "Google Gmail Help — Hide recipients with BCC",
+      "sourceURL": "https://support.google.com/mail/answer/2819488?hl=en",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
     },
@@ -2829,10 +2829,10 @@
         "CGST Section 17(5) — passenger motor vehicles",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017.",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017 (consolidated text, 11 June 2026).",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "India Code — Central Goods and Services Tax Act, 2017",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017 (consolidated text, 11 June 2026)",
       "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
@@ -2863,10 +2863,10 @@
         "CGST Section 17(5)(c) — works contract",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017.",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017 (consolidated text, 11 June 2026).",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "India Code — Central Goods and Services Tax Act, 2017",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017 (consolidated text, 11 June 2026)",
       "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
@@ -2897,10 +2897,10 @@
         "CGST Section 17(5)(d) — own-account construction",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017.",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017 (consolidated text, 11 June 2026).",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "India Code — Central Goods and Services Tax Act, 2017",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017 (consolidated text, 11 June 2026)",
       "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
@@ -2931,10 +2931,10 @@
         "CGST Section 16(4) — general ITC time limit",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017.",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017 (consolidated text, 11 June 2026).",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "India Code — Central Goods and Services Tax Act, 2017",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017 (consolidated text, 11 June 2026)",
       "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
@@ -2965,10 +2965,10 @@
         "CGST Section 18(1)(a) — stock ITC on becoming liable",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017.",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017 (consolidated text, 11 June 2026).",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "India Code — Central Goods and Services Tax Act, 2017",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017 (consolidated text, 11 June 2026)",
       "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
@@ -2999,10 +2999,10 @@
         "CGST Section 56 — interest on delayed refund",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017.",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017 (consolidated text, 11 June 2026).",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "India Code — Central Goods and Services Tax Act, 2017",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017 (consolidated text, 11 June 2026)",
       "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
@@ -3033,13 +3033,15 @@
         "NEFT and RTGS — settlement method",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Reserve Bank of India — NEFT FAQ updated 20 November 2026.",
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — NEFT FAQ, updated 20 November 2026.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Reserve Bank of India — NEFT FAQ updated 20 November 2026",
+      "sourceName": "Reserve Bank of India — NEFT FAQ, updated 20 November 2026",
       "sourceURL": "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQNEFT20112026.pdf",
       "sourceVerifiedDate": "2026-11-22",
-      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
+      "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22",
+      "relatedSourceName": "Reserve Bank of India — RTGS FAQ, updated 14 October 2026",
+      "relatedSourceURL": "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQRTGS15102026.pdf"
     },
     {
       "id": 9314,
@@ -3067,10 +3069,10 @@
         "RTGS — minimum transaction value",
         "Original Practice"
       ],
-      "source": "Original Practice — not an official PYQ. Reserve Bank of India — RTGS FAQ updated 14 October 2026.",
+      "source": "Original Practice — not an official PYQ. Reserve Bank of India — RTGS FAQ, updated 14 October 2026.",
       "label": "Original Practice",
       "sourceType": "Original Practice",
-      "sourceName": "Reserve Bank of India — RTGS FAQ updated 14 October 2026",
+      "sourceName": "Reserve Bank of India — RTGS FAQ, updated 14 October 2026",
       "sourceURL": "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQRTGS15102026.pdf",
       "sourceVerifiedDate": "2026-11-22",
       "verificationStatus": "verified_primary_source_or_originally_authored_2026-11-22"
