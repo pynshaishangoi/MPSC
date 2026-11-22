@@ -20625,21 +20625,24 @@
       {
         "i": "9235",
         "c": "Polity",
-        "t": "87df99b8",
-        "s": "fcf6ff8b",
-        "o": "a0b2f047",
-        "a": "67bdc2ab",
-        "k": "f8d0cde0",
+        "t": "00195617",
+        "s": "38c33bc9",
+        "o": "7d706787",
+        "a": "58793754",
+        "k": "e0024a67",
         "w": [
-          "1230360a",
           "17676759",
-          "19eada45",
-          "2fa0fd0d",
-          "55d4358b",
-          "66490b3d",
+          "21022aa6",
+          "2149ffc9",
+          "4325b952",
+          "4f60750b",
+          "4fd14995",
+          "6f5386ca",
+          "7c783614",
+          "97150c8f",
+          "9d85d64e",
           "a88fd2c3",
-          "c98d032f",
-          "e68b9c52"
+          "eef5b8b7"
         ],
         "p": "index.html"
       },
@@ -22417,12 +22420,12 @@
   },
   "candidateScan": {
     "target": 90,
-    "drafted": 104,
+    "drafted": 105,
     "accepted": 90,
-    "rejected": 14,
+    "rejected": 15,
     "exactStemCollisions": 0,
     "optionSetCollisions": 0,
-    "nearSemanticRejected": 14,
+    "nearSemanticRejected": 15,
     "withinBatchNearPairsRejected": 2,
     "finalBatchExactStemCollisions": 0,
     "finalBatchOptionSetCollisions": 0,
@@ -22432,7 +22435,7 @@
     "comparisonCorpusRecords": 3669,
     "comparisonCorpusRecordsAfterMerge": 3759,
     "acceptedQuestionIds": "9225-9314",
-    "rejectedCandidateCount": 14,
+    "rejectedCandidateCount": 15,
     "rejectedCandidates": [
       {
         "candidateId": "draft-9251-coordinate-distance",
@@ -22517,40 +22520,115 @@
         "topic": "Drainage pattern — trellis",
         "reason": "Removed after pairwise semantic review: it tested the same drainage-pattern identification skill and learning objective as question 9272, with only the tributary geometry/pattern label changed. Replaced with a distinct crust–mantle seismic-boundary concept.",
         "collisionReference": "question 9272 in the same candidate batch"
+      },
+      {
+        "candidateId": "draft-9235-municipality-duration",
+        "topic": "Municipalities — Article 243U five-year term",
+        "reason": "Removed after post-merge cross-bank semantic review: it tested the same recall skill and learning objective as active question 9002, which asks for the five-year normal term of an elected District Council member. The institutions differ, but both items test the same local-governing-body tenure fact. Replaced with Article 243ZC's exclusion of Scheduled and tribal areas from Part IX-A.",
+        "collisionReference": "active question 9002"
       }
     ],
     "optionOnlyFingerprintMatchesReviewed": [
       {
         "candidateId": 9226,
+        "referenceType": "active",
+        "referenceFile": "index.html",
+        "referenceQuestionNumber": 6174,
+        "referenceStem": "What is the least number to add to 563 to make it divisible by 9?",
+        "referenceOptions": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "reason": "Generic numeric option set 1, 2, 3, 4; the active question tests divisibility by 9, while Q9226 tests Meghalaya's Lok Sabha representation.",
+        "reviewedAsNonDuplicate": true
+      },
+      {
+        "candidateId": 9242,
+        "referenceType": "active",
+        "referenceFile": "index.html",
+        "referenceQuestionNumber": 9124,
+        "referenceStem": "Choose the correct completion: “Despite ___ the figures twice, the clerk overlooked the mismatch.”",
+        "referenceOptions": [
+          "checked",
+          "checking",
+          "to check",
+          "checks"
+        ],
+        "reason": "Same answer-option set, but the active question tests a gerund after the preposition 'despite'; Q9242 tests 'would rather' followed by a clause with a different subject.",
+        "reviewedAsNonDuplicate": true
+      },
+      {
+        "candidateId": 9226,
+        "referenceType": "official_pyq",
         "referenceFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
         "referenceQuestionNumber": 117,
         "referenceStem": "If 3x = 8, what is the value of x?",
+        "referenceOptions": [
+          "−1",
+          "3",
+          "4",
+          "2"
+        ],
         "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation.",
         "reviewedAsNonDuplicate": true
       },
       {
         "candidateId": 9230,
+        "referenceType": "official_pyq",
         "referenceFile": "pyq-papers/assistant-employment-officer-2025-series-i.json",
         "referenceQuestionNumber": 112,
         "referenceStem": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
+        "referenceOptions": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
         "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration.",
         "reviewedAsNonDuplicate": true
       },
       {
         "candidateId": 9230,
+        "referenceType": "official_pyq",
         "referenceFile": "pyq-papers/inspector-drugs-2019-series-i.json",
         "referenceQuestionNumber": 94,
         "referenceStem": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
+        "referenceOptions": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
         "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count.",
         "reviewedAsNonDuplicate": true
       },
       {
         "candidateId": 9230,
+        "referenceType": "official_pyq",
         "referenceFile": "pyq-papers/investigator-housing-2024-series-i.json",
         "referenceQuestionNumber": 145,
         "referenceStem": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
+        "referenceOptions": [
+          "11",
+          "12",
+          "10",
+          "13"
+        ],
         "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration.",
         "reviewedAsNonDuplicate": true
+      }
+    ],
+    "existingBankNearDuplicateCandidatesRejected": 1,
+    "existingBankNearDuplicateDetails": [
+      {
+        "candidateId": 9235,
+        "referenceType": "active",
+        "referenceFile": "index.html",
+        "referenceQuestionNumber": 9002,
+        "referenceStem": "Under paragraph 2(6) of the Sixth Schedule, what is the normal term of an elected District Council member, unless the Council is sooner dissolved?",
+        "reason": "Same five-year tenure recall and local-governing-body term learning objective as the candidate's Municipality-duration question; rejected to avoid an institution-name-only variant."
       }
     ]
   },
