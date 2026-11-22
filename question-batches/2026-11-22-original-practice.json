@@ -5,20 +5,20 @@
   "title": "MPSC Original Practice Batch — 22 November 2026",
   "questionCount": 90,
   "questionIdRange": "9225-9314",
-  "candidateCount": 90,
-  "rejectedCandidateCount": 0,
+  "candidateCount": 102,
+  "rejectedCandidateCount": 12,
   "subjects": {
     "Meghalaya GK": 6,
     "Polity": 10,
     "English": 8,
-    "Arithmetic": 10,
-    "Reasoning": 5,
-    "History": 8,
-    "Geography": 8,
-    "Economy": 7,
-    "Science": 8,
-    "Environment": 6,
-    "Computer": 6,
+    "Arithmetic": 5,
+    "Economy": 8,
+    "History": 10,
+    "Geography": 9,
+    "Science": 9,
+    "Environment": 7,
+    "Computer": 7,
+    "Reasoning": 3,
     "GST / Inspector of Taxes": 6,
     "Current Affairs": 2
   },
@@ -29,15 +29,41 @@
   ],
   "sourcePolicy": "All items are newly authored practice questions. No official PYQ wording, copyrighted question-bank text or private uploaded source material is reproduced.",
   "deduplication": {
-    "status": "pending_full_cross_corpus_scan",
-    "corpusBeforeRun": "1,097 canonical active questions; 505 archive mirrors; 2,572 official PYQ transcription records (18 distinct papers plus 139-record partial duplicate subset).",
-    "exactStemCollisions": null,
-    "optionSetCollisions": null,
-    "nearSemanticCandidatesRejected": null,
-    "unresolvedSemanticCollisions": null
+    "status": "passed_full_cross_corpus_scan",
+    "method": "Exact FNV-1a normalized-stem and sorted-option fingerprints; punctuation/case/diacritic-insensitive normalization; option-insensitive comparison; token-Jaccard screening against all official PYQ text; manual semantic review of closest matches and learning objectives; within-batch pairwise scan.",
+    "comparisonCorpusBeforeRun": {
+      "canonicalActiveQuestions": 1097,
+      "officialPyqFiles": 18,
+      "officialPyqRecords": 2433,
+      "partialDuplicateFiles": 1,
+      "partialDuplicateRecords": 139,
+      "allPyqRecordsIncludingPartial": 2572,
+      "archiveFiles": 19,
+      "archiveMirrorRecords": 505,
+      "archiveMirrorsExcludedFromUniqueCorpus": true,
+      "uniqueComparisonRecords": 3669
+    },
+    "comparisonCorpusAfterMerge": {
+      "canonicalActiveQuestions": 1187,
+      "allPyqRecordsIncludingPartial": 2572,
+      "uniqueComparisonRecords": 3759,
+      "archiveFiles": 20,
+      "archiveMirrorRecords": 595
+    },
+    "exactStemCollisions": 0,
+    "optionSetCollisions": 0,
+    "nearSemanticCandidatesRejected": 12,
+    "withinBatchNearDuplicatePairs": 0,
+    "finalBatchExactStemCollisions": 0,
+    "finalBatchOptionSetCollisions": 0,
+    "finalBatchNearPairs": 0,
+    "unresolvedSemanticCollisions": 0
   },
   "notes": [
-    "Draft batch only; not yet counted as merged or active. Final count will be set after full-bank and official-PYQ semantic review."
+    "All 90 accepted records are Original Practice, not Official PYQ.",
+    "The rejected candidate log records 12 candidates removed before finalisation; rejected drafts are not counted as additions.",
+    "All accepted questions are tagged for MPSC Inspector of Taxes, DSC East Khasi Hills LDA-cum-Typist and MPSC Secretariat LDA.",
+    "The archive is a mirror of the canonical records embedded in index.html; it is not a runtime source of truth."
   ],
   "questions": [
     {
@@ -57,6 +83,7 @@
       "difficulty": "Easy",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -90,6 +117,7 @@
       "difficulty": "Easy",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -123,6 +151,7 @@
       "difficulty": "Easy",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -156,6 +185,7 @@
       "difficulty": "Easy",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -189,6 +219,7 @@
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -222,6 +253,7 @@
       "difficulty": "Easy",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1003,6 +1035,7 @@
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1036,6 +1069,7 @@
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1273,6 +1307,7 @@
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1374,6 +1409,7 @@
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1407,6 +1443,7 @@
       "difficulty": "Easy",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1440,6 +1477,7 @@
       "difficulty": "Easy",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1473,6 +1511,7 @@
       "difficulty": "Easy",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1506,6 +1545,7 @@
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1539,6 +1579,7 @@
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1572,6 +1613,7 @@
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1605,6 +1647,7 @@
       "difficulty": "Easy",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1638,6 +1681,7 @@
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1671,6 +1715,7 @@
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1704,6 +1749,7 @@
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1737,6 +1783,7 @@
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1770,6 +1817,7 @@
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1803,6 +1851,7 @@
       "difficulty": "Easy",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1836,6 +1885,7 @@
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -1869,6 +1919,7 @@
       "difficulty": "Easy",
       "exam": "Common MPSC",
       "examTags": [
+        "MPSC Inspector of Taxes",
         "DSC East Khasi Hills LDA-cum-Typist",
         "MPSC Secretariat LDA"
       ],
@@ -3116,5 +3167,139 @@
     "conclusion": "The 1 November 2026 commencement changes sections 15, 34 and 54; it does not alter the specific statutory rules tested in questions 9307–9312. The current consolidated text and commencement notification were checked before publication.",
     "notificationSourceURL": "https://taxinformation.cbic.gov.in/view-pdf/1010780/ENG/Notifications",
     "financeActSourceURL": "https://www.indiabudget.gov.in/doc/cen/dojstru1.pdf"
+  },
+  "acceptedUniqueQuestionCount": 90,
+  "rejectedCandidates": [
+    {
+      "candidateId": "draft-9251-coordinate-distance",
+      "topic": "Coordinate distance formula",
+      "reason": "Near-duplicate of official PYQ direction/distance questions; same shortest-distance/Pythagorean reasoning path.",
+      "collisionReference": "pyq-papers/lda-mpsc-2023-may-series-i.json questions 122 and 124"
+    },
+    {
+      "candidateId": "draft-9253-two-coin-probability",
+      "topic": "Probability of exactly one head in two coin tosses",
+      "reason": "Overlapped with an existing active-bank coin-toss probability item; rejected to avoid repeating the same sample-space skill.",
+      "collisionReference": "canonical active bank"
+    },
+    {
+      "candidateId": "draft-9254-without-replacement",
+      "topic": "Probability of drawing two red balls without replacement",
+      "reason": "Near-duplicate probability calculation and reasoning path already represented in official PYQ corpus.",
+      "collisionReference": "official PYQ corpus, all 19 transcription files"
+    },
+    {
+      "candidateId": "draft-9255-cone-volume",
+      "topic": "Volume of a cone",
+      "reason": "Overlapped with an active-bank circular-solid volume question; replaced with a different algebraic skill.",
+      "collisionReference": "canonical active bank question on frustum volume"
+    },
+    {
+      "candidateId": "draft-9255-polynomial-remainder",
+      "topic": "Polynomial remainder theorem",
+      "reason": "Near-duplicate of an official PYQ testing remainder on polynomial division; replaced with an absolute-value inequality.",
+      "collisionReference": "pyq-papers/typist-hod-2020-series-ii.json"
+    },
+    {
+      "candidateId": "draft-9256-decagon-interior-angle-sum",
+      "topic": "Sum of interior angles of a decagon",
+      "reason": "Repeated the same polygon interior-angle-sum formula already tested in an official PYQ.",
+      "collisionReference": "official PYQ corpus"
+    },
+    {
+      "candidateId": "draft-9258-simultaneous-linear-equations",
+      "topic": "Solving simultaneous linear equations",
+      "reason": "Overlapped with an official PYQ algebraic equation-solving skill; replaced with opportunity/ecological-footprint content.",
+      "collisionReference": "official PYQ corpus"
+    },
+    {
+      "candidateId": "draft-9259-blood-relation",
+      "topic": "Blood-relation chain",
+      "reason": "Repeated the same family-relationship inference skill present in official PYQs.",
+      "collisionReference": "official PYQ corpus"
+    },
+    {
+      "candidateId": "draft-9261-clock-angle-0420",
+      "topic": "Clock-hand angle at 4:20",
+      "reason": "Same time and angle-calculation task as an official PYQ; replaced with a world-history question.",
+      "collisionReference": "official PYQ corpus"
+    },
+    {
+      "candidateId": "draft-9230-governor-appointment",
+      "topic": "Appointment of a State Governor",
+      "reason": "Semantically duplicated an active-bank question on the constitutional appointing authority; replaced with a distinct Meghalaya administrative-statistics question.",
+      "collisionReference": "canonical active bank"
+    },
+    {
+      "candidateId": "draft-9297-ramsar-wise-use",
+      "topic": "Ramsar Convention wise use of wetlands",
+      "reason": "Same convention and learning objective already represented by active-bank Ramsar questions; replaced with Minamata Convention.",
+      "collisionReference": "canonical active bank"
+    },
+    {
+      "candidateId": "draft-9309-own-account-construction-itc",
+      "topic": "CGST Section 17(5)(d) construction on own account",
+      "reason": "Too close to the adjacent works-contract blocked-credit question; replaced with the separate Section 17(5)(h) destroyed-goods category.",
+      "collisionReference": "candidate question 9308"
+    }
+  ],
+  "revisions": [
+    {
+      "questionId": 9229,
+      "change": "Corrected the Meghalaya–Bangladesh border figure from 423 km to 443 km after checking the Government of Meghalaya Vision 2030 document."
+    },
+    {
+      "questionId": 9230,
+      "change": "Replaced duplicate Governor-appointment item with the distinct 2-division/11-district administrative fact."
+    },
+    {
+      "questionId": 9243,
+      "change": "Clarified that 'whom' is the object in a formal relative clause."
+    },
+    {
+      "questionId": 9244,
+      "change": "Made the semicolon question test joining independent clauses, not a generic punctuation prompt."
+    },
+    {
+      "questionId": 9245,
+      "change": "Made the colon question test introducing a list after a complete clause."
+    },
+    {
+      "questionId": 9263,
+      "change": "Added a necessary adjacency constraint so only one scheduling order satisfies the puzzle."
+    },
+    {
+      "questionId": 9297,
+      "change": "Replaced duplicated Ramsar content with the distinct Minamata Convention and mercury."
+    },
+    {
+      "questionId": 9304,
+      "change": "Specified Azure Backup's incremental-block process to align the question with the cited technical documentation."
+    },
+    {
+      "questionId": 9309,
+      "change": "Replaced the overlapping own-account construction item with the separate Section 17(5)(h) destroyed-goods rule."
+    }
+  ],
+  "sourceVerification": {
+    "verifiedDate": "2026-11-22",
+    "stablePrimarySources": [
+      "Meghalaya Government and Chief Electoral Officer of Meghalaya",
+      "Legislative Department Constitution of India",
+      "NCERT",
+      "NOAA",
+      "Ramsar/Minamata/Basel convention secretariats",
+      "MoEFCC/Parivesh",
+      "CPCB",
+      "NIELIT/technical documentation",
+      "India Code",
+      "Reserve Bank of India"
+    ],
+    "currentLawChecks": [
+      "CGST Act Sections 16(4), 17(5)(a), 17(5)(c), 17(5)(h), 18(1)(a) and 56 checked against consolidated Act text dated 11 June 2026.",
+      "Finance Act 2026 Sections 153–155 effective 1 November 2026 amend CGST Sections 15, 34 and 54; these do not change the statutory provisions tested in this batch.",
+      "NEFT FAQ dated 20 November 2026 and RTGS FAQ dated 14 October 2026 checked."
+    ],
+    "sourceStatus": "all accepted questions have direct source URLs and verification date 2026-11-22"
   }
 }
