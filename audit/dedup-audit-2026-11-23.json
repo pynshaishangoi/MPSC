@@ -1,0 +1,109 @@
+{
+  "version": 2,
+  "date": "2026-11-23",
+  "status": "prepared-for-PR-validation",
+  "target": 110,
+  "startingActiveQuestions": 1187,
+  "draftedCandidates": 117,
+  "rejectedCandidates": 7,
+  "validatedUniqueQuestions": 110,
+  "mergedQuestions": null,
+  "expectedEndingActiveQuestions": 1297,
+  "rejected": [
+    {
+      "id": 9334,
+      "reason": "Near-semantic duplicate of active question 5008; same Finance Commission tax-devolution learning objective."
+    },
+    {
+      "id": 9366,
+      "reason": "Same primary-deficit formula and learning objective as active question 7254."
+    },
+    {
+      "id": 9398,
+      "reason": "Exact normalized stem collision with active question 6121."
+    },
+    {
+      "id": 9400,
+      "reason": "Ranking-from-top-and-bottom calculation was a superficial numerical variant of an official PYQ; rejected."
+    },
+    {
+      "id": 9341,
+      "reason": "Within-batch near-semantic duplicate of question 9340; both separately tested the same sacred-grove regional terminology."
+    },
+    {
+      "id": 9414,
+      "reason": "Same time-and-work combined-rate calculation pattern as active question 6209; changed data would not create a materially different learning objective."
+    },
+    {
+      "id": 9417,
+      "reason": "Conservatively rejected after numeric option-set overlap with active question 116 (25, 30, 35, 40). The units and concepts differed, but the strict zero-repeat policy favours a different candidate."
+    }
+  ],
+  "resolvedFingerprintFalsePositive": {
+    "candidateId": 9430,
+    "officialPyqFile": "investigator-housing-2024-series-i.json",
+    "officialPyqQuestion": 101,
+    "reason": "A 32-bit option-set hash matched; the PYQ asks about statistical dispersion and has options Range/Standard deviation/Coefficient of variation/Quartile deviation, whereas the new question uses numeric remainders 0/1/2/3. Not an option-set duplicate."
+  },
+  "dedupScope": {
+    "activeEmbeddedQuestions": 1187,
+    "officialPyqDistinctFiles": 18,
+    "officialPyqQuestions": 2433,
+    "partialDuplicateSubset": 139,
+    "existingArchiveFiles": 20,
+    "existingArchiveMirroredQuestions": 595,
+    "newArchiveFiles": 2,
+    "newArchiveMirroredQuestions": 110,
+    "archiveMirrorsExcludedFromUniqueCount": true
+  },
+  "collisionResults": {
+    "acceptedExactStemCollisions": 0,
+    "acceptedExactOptionSetCollisions": 0,
+    "acceptedNearSemanticCollisions": 0,
+    "acceptedWithinBatchNearDuplicatePairs": 0,
+    "rejectedExactOrNearCandidates": 7,
+    "unresolvedSemanticCollisions": 0,
+    "manualOptionHashFalsePositives": 1
+  },
+  "subjectCounts": {
+    "Professional Tax / Inspector of Taxes": 9,
+    "GST / Inspector of Taxes": 6,
+    "Polity": 10,
+    "Meghalaya GK": 8,
+    "History": 8,
+    "Geography": 8,
+    "Economy": 8,
+    "Science": 9,
+    "Environment": 8,
+    "Computer": 8,
+    "Reasoning": 7,
+    "English": 9,
+    "Arithmetic": 7,
+    "Current Affairs": 5
+  },
+  "examTagCounts": {
+    "MPSC Inspector of Taxes": 74,
+    "DSC East Khasi Hills LDA-cum-Typist": 72,
+    "MPSC Secretariat LDA": 74
+  },
+  "answerIndexDistribution": {
+    "0": 27,
+    "1": 29,
+    "2": 27,
+    "3": 27
+  },
+  "buildMarker": "2026-11-23-original-practice-110",
+  "serviceWorkerCache": "mpsc-smart-study-v5-59-20261123",
+  "sourcesVerified": [
+    "Meghalaya Professional Tax Amendment Act 2022 and Amendment Rules 2022",
+    "CGST Act 2017 Sections 59, 60, 70, 95, 97 and 103",
+    "Constitution of India Articles 110, 112, 123, 169, 200, 280, 148, 300A, 324, 164 and 167",
+    "Meghalaya Biodiversity Board and Meghalaya Tourism cultural references",
+    "NCERT and Government of India economic/statistical references",
+    "CITES, UNEP Montreal Protocol, UNFCCC Paris Agreement and IUCN",
+    "IETF RFC 1034/2131, NIST FIPS 180-4/186-5, Unicode and NIELIT",
+    "Meghalaya and PIB current-affairs releases dated 13–22 November 2026"
+  ],
+  "repositoryValidation": "pending GitHub Actions PR checks",
+  "liveDeployment": "unverified until live build marker is fetched"
+}
