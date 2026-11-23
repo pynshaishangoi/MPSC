@@ -76,7 +76,7 @@ for (const name of batchFiles) {
   archiveCount += batch.questions.length;
 }
 if (embedded.length !== 592 + archiveCount) fail('canonical embedded Q must equal the 592 legacy questions plus every archived question-batch record');
-if (batchFiles.length < 20 || archiveIdSet.size !== archiveCount || archiveCount !== 595) fail('question-batch archives must include the 20 audited batches and every archive ID must be unique');
+if (batchFiles.length < 21 || archiveIdSet.size !== archiveCount || archiveCount !== 696) fail('question-batch archives must include the 20 audited batches and every archive ID must be unique');
 for (const question of active) {
   if (!question.q || !Array.isArray(question.o) || question.o.length !== 4) fail('question ' + question.id + ' must have a prompt and exactly four options');
   if (!Number.isInteger(question.a) || question.a < 0 || question.a >= question.o.length) fail('question ' + question.id + ' has an invalid answer index');
@@ -173,7 +173,7 @@ for (const question of expansionBatch19.questions) {
   if (!question.topic || !question.exam || !Array.isArray(question.examTags) || question.examTags.length !== 2 || !question.e || question.e.length < 120 || !question.source || !question.source.includes('not an official PYQ') || question.label !== 'Original Practice' || question.sourceType !== 'Original Practice' || !question.sourceURL || !question.sourceURL.startsWith('https://') || question.sourceVerifiedDate !== '2026-11-19' || !question.verificationStatus || !question.verificationStatus.includes('2026-11-19') || question.difficulty === 'PYQ' || question.answerIndex !== question.a || question.o.length !== 4) fail('19 November question ' + question.id + ' needs topic/exam tags, four options, answer, teaching explanation, source and Original Practice label');
 }
 if (!sw.includes('./question-batches/2026-11-19-original-practice.json')) fail('service worker does not precache 19 November original-practice archive');
-if (!html.includes('mpsc-build') || !html.includes('2026-11-22-original-practice-90')) fail('20 November canonical build marker is missing');
+if (!html.includes('mpsc-build') || !html.includes('2026-11-23-original-practice-101')) fail('20 November canonical build marker is missing');
 const expansionBatch20 = jsonFile('question-batches/2026-11-20-original-practice.json');
 if (expansionBatch20.questions.length !== 70 || expansionBatch20.questionIdRange !== '9101-9170' || expansionBatch20.candidateCount !== 81 || expansionBatch20.rejectedCandidates !== 11 || Object.values(expansionBatch20.subjects).reduce((sum,value)=>sum+value,0)!==70) fail('20 November original-practice batch count, ID range, candidate or subject totals are incorrect');
 for (const question of expansionBatch20.questions) {
@@ -195,7 +195,7 @@ for (const [id, expected] of Object.entries(sourceCorrections20)) {
 }
 if (expansionBatch20.questions[69].id !== 9170 || !expansionBatch20.questions[69].sourceURL.includes('final-notification-mawtneng')) fail('20 November Meghalaya current-affairs question must cite the official Mawtneng BHS notification page');
 if (!sw.includes('./question-batches/2026-11-20-original-practice.json')) fail('service worker does not precache 20 November original-practice archive');
-if (!html.includes('mpsc-build') || !html.includes('2026-11-22-original-practice-90')) fail('20 November canonical build marker is missing');
+if (!html.includes('mpsc-build') || !html.includes('2026-11-23-original-practice-101')) fail('20 November canonical build marker is missing');
 
 const expansionBatch21 = jsonFile('question-batches/2026-11-21-original-practice.json');
 if (expansionBatch21.questions.length !== 54 || expansionBatch21.questionIdRange !== '9171-9224' || expansionBatch21.candidateCount !== 60 || expansionBatch21.rejectedCandidateCount !== 6 || Object.values(expansionBatch21.subjects).reduce((sum,value)=>sum+value,0)!==54) fail('21 November original-practice batch count, ID range, candidate or subject totals are incorrect');
@@ -222,8 +222,8 @@ for (const question of expansionBatch22.questions) {
 if (expansionBatch22.deduplication?.exactStemCollisions !== 0 || expansionBatch22.deduplication?.optionSetCollisions !== 0 || expansionBatch22.deduplication?.nearSemanticCandidatesRejected !== 15 || expansionBatch22.deduplication?.existingBankNearDuplicateCandidatesRejected !== 1 || expansionBatch22.deduplication?.withinBatchNearDuplicatePairs !== 2 || expansionBatch22.deduplication?.finalBatchNearPairs !== 0 || expansionBatch22.deduplication?.unresolvedSemanticCollisions !== 0 || expansionBatch22.deduplication?.optionOnlyFingerprintMatchesReviewed !== 6 || expansionBatch22.deduplication?.existingBankNearDuplicateDetails?.length !== 1) fail('22 November batch collision audit is incomplete');
 if (expansionBatch22.legalVerification?.asOf !== '2026-11-22' || expansionBatch22.legalVerification?.testedSections?.join(',') !== '16(4),17(5)(a),17(5)(c),17(5)(h),18(1)(a),56') fail('22 November GST legal verification is missing or incomplete');
 if (!sw.includes('./question-batches/2026-11-22-original-practice.json')) fail('service worker does not precache 22 November original-practice archive');
-if (!sw.includes('mpsc-smart-study-v5-58-20261122')) fail('service-worker cache version was not advanced for 22 November');
-if (!html.includes('mpsc-build') || !html.includes('2026-11-22-original-practice-90') || !html.includes('Q.length') || /fetch\([^)]*question-batches/.test(html)) fail('22 November build marker, Q.length dashboard count or offline-first loader is incorrect');
+if (!sw.includes('mpsc-smart-study-v5-59-20261123')) fail('service-worker cache version was not advanced for 22 November');
+if (!html.includes('mpsc-build') || !html.includes('2026-11-23-original-practice-101') || !html.includes('Q.length') || /fetch\([^)]*question-batches/.test(html)) fail('22 November build marker, Q.length dashboard count or offline-first loader is incorrect');
 
 const dedupIndex21 = jsonFile('audit/dedup-index-2026-11-21.json');
 if (dedupIndex21.schemaVersion !== 6 || dedupIndex21.canonical.questionCount !== 1097 || dedupIndex21.canonical.activeFingerprints.length !== 1097 || dedupIndex21.officialPyq.fileCount !== 18 || dedupIndex21.officialPyq.questionCount !== 2433 || dedupIndex21.archive.fileCount !== 19 || dedupIndex21.archive.questionCount !== 505 || dedupIndex21.allPyqFiles.fileCount !== 19 || dedupIndex21.allPyqFiles.questionCount !== 2572) fail('21 November full-bank dedup index totals are incorrect');
@@ -416,4 +416,24 @@ const latestFeed = jsonFile('current-affairs/2026-11-03.json');
 if (latestFeed.items.length !== 6 || latestFeed.items.some(item=>!item.sourceURL || !item.publishedDate || !item.verificationStatus)) fail('3 November current-affairs feed is incomplete');
 console.log('Current affairs: ' + latestFeed.items.length + ' dated, source-linked stories in the 3 November feed');
 console.log('Service-worker cache: ' + cacheVersion);
+
+const pendingRun23 = rampTracker.pendingRun;
+const expansionBatch23 = jsonFile('question-batches/2026-11-23-original-practice.json');
+if (!pendingRun23 || pendingRun23.date !== '2026-11-23' || pendingRun23.status !== 'pending_merge' || pendingRun23.target !== 110 || pendingRun23.draftedCandidates !== 110 || pendingRun23.validatedQuestions !== 101 || pendingRun23.rejectedCandidates !== 9 || pendingRun23.mergedQuestions !== 0 || rampTracker.nextDailyTarget !== 110) fail('23 November pending campaign tracker is inconsistent');
+if (expansionBatch23.questions.length !== 101 || expansionBatch23.questionCount !== 101 || expansionBatch23.target !== 110 || expansionBatch23.candidateCount !== 110 || expansionBatch23.rejectedCandidateCount !== 9 || expansionBatch23.status !== 'pending_merge' || Object.values(expansionBatch23.subjects).reduce((a,b)=>a+b,0)!==101) fail('23 November practice batch totals or status are incorrect');
+const ids23 = expansionBatch23.questions.map(q=>String(q.id));
+if (new Set(ids23).size !== 101 || ids23.some(id=>!embeddedById.has(id))) fail('23 November question IDs are not unique or are missing from canonical Q');
+for (const q of expansionBatch23.questions) {
+ if (!q.topic || !q.examTags || !q.examTags.length || !q.e || q.e.length < 70 || !q.source || !q.source.includes('not an official PYQ') || q.label !== 'Original Practice' || q.sourceType !== 'Original Practice' || !q.sourceName || !q.sourceURL || !q.sourceURL.startsWith('https://') || q.sourceVerifiedDate !== '2026-11-23' || !q.verificationStatus || q.answerIndex !== q.a) fail('23 November question ' + q.id + ' is missing explanation, source, date, tags or Original Practice label');
+}
+if (!sw.includes('./question-batches/2026-11-23-original-practice.json') || !sw.includes('mpsc-smart-study-v5-59-20261123')) fail('23 November archive or service-worker cache version is missing');
+if (!html.includes('2026-11-23-original-practice-101') || !html.includes('Q.length')) fail('23 November build marker or Q.length dashboard count is missing');
+const dedupIndex23 = jsonFile('audit/dedup-index-2026-11-23.json');
+if (dedupIndex23.schemaVersion !== 8 || dedupIndex23.canonical.questionCount !== 1288 || dedupIndex23.canonical.activeFingerprints.length !== 1288 || dedupIndex23.officialPyq.questionCount !== 2433 || dedupIndex23.allPyqFiles.questionCount !== 2572 || dedupIndex23.archive.fileCount !== 21 || dedupIndex23.archive.questionCount !== 696 || dedupIndex23.candidateScan.drafted !== 110 || dedupIndex23.candidateScan.accepted !== 101 || dedupIndex23.candidateScan.rejected !== 9 || dedupIndex23.candidateScan.unresolved !== 0) fail('23 November dedup index totals or candidate scan are incorrect');
+if (new Set(dedupIndex23.canonical.activeFingerprints.map(r=>r.i)).size !== 1288 || dedupIndex23.canonical.activeFingerprints.some(r=>!r.s || !r.o || !r.k || !Array.isArray(r.w))) fail('23 November active dedup fingerprints are incomplete or duplicated');
+const dedupAudit23 = jsonFile('audit/dedup-audit-2026-11-23.json');
+if (dedupAudit23.target !== 110 || dedupAudit23.draftedCandidates !== 110 || dedupAudit23.validatedUniqueQuestions !== 101 || dedupAudit23.rejectedCandidates.length !== 9 || dedupAudit23.collisions.candidateExactStemCollisions !== 0 || dedupAudit23.collisions.candidateOptionSetCollisions !== 0 || dedupAudit23.collisions.unresolvedSemanticCollisions !== 0 || dedupAudit23.mergedQuestions !== 0 || dedupAudit23.mergeStatus !== 'pending_merge') fail('23 November dedup audit totals are incorrect');
+const pyqFingerprints23 = jsonFile('audit/dedup-pyq-fingerprints-2026-11-23.json');
+if (pyqFingerprints23.count !== 2572 || pyqFingerprints23.files.length !== 19 || pyqFingerprints23.officialDistinctFileCount !== 18 || pyqFingerprints23.officialDistinctQuestionRecords !== 2433 || pyqFingerprints23.partialDuplicate.exactStemMatchesInFullPaper !== 139) fail('23 November PYQ fingerprint inventory is incomplete');
+
 console.log('Local progress key and exact-paper guard preserved.');
