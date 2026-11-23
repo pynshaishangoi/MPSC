@@ -2,7 +2,7 @@
   "date": "2026-11-23",
   "target": 110,
   "startingActiveCount": 1187,
-  "candidatesDrafted": 114,
+  "candidatesDrafted": 139,
   "questions": [
     {
       "id": 9315,
@@ -3877,6 +3877,856 @@
       "source": "Original Practice — not an official PYQ. Government of Meghalaya — Tribal Research Institute programme for Janjatiya Gaurav Divas 2026, 17 November 2026.",
       "sourceName": "Government of Meghalaya — Tribal Research Institute programme for Janjatiya Gaurav Divas 2026, 17 November 2026",
       "sourceURL": "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_250.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9429,
+      "cat": "Arithmetic",
+      "topic": "Geometric progression — nth term",
+      "q": "A geometric progression begins 3, 6, 12, 24, ... What is its eighth term?",
+      "o": [
+        "192",
+        "256",
+        "384",
+        "768"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The first term is 3 and the common ratio is 2. The nth term is a × r^(n−1). For n = 8, the term is 3 × 2^7 = 3 × 128 = 384. A geometric progression multiplies each term by a constant ratio, unlike an arithmetic progression, which adds a constant difference.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Geometric progression — nth term",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9430,
+      "cat": "Arithmetic",
+      "topic": "Permutations — repeated letters",
+      "q": "How many distinct arrangements can be made using all five letters of the word LEVEL?",
+      "o": [
+        "15",
+        "20",
+        "30",
+        "60"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "There are five letters, with L repeated twice and E repeated twice. If all letters were different there would be 5! arrangements, but swapping identical Ls or identical Es does not create a new arrangement. Divide by 2! × 2!: 120/4 = 30 distinct arrangements.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Permutations — repeated letters",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9431,
+      "cat": "Arithmetic",
+      "topic": "Coordinate geometry — distance formula",
+      "q": "What is the distance between the points A(−2, 3) and B(4, 11) in the Cartesian plane?",
+      "o": [
+        "8 units",
+        "9 units",
+        "10 units",
+        "12 units"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The distance formula is √[(x₂−x₁)² + (y₂−y₁)²]. Here the horizontal difference is 4−(−2)=6 and the vertical difference is 11−3=8. Distance = √(6²+8²) = √(36+64) = √100 = 10 units.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Coordinate geometry — distance formula",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9432,
+      "cat": "Arithmetic",
+      "topic": "Reverse percentage — original price",
+      "q": "After a 20% reduction, the price of an item is ₹960. What was its price before the reduction?",
+      "o": [
+        "₹1,080",
+        "₹1,150",
+        "₹1,200",
+        "₹1,250"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "After a 20% reduction, 80% of the original price remains. Let the original price be P. Then 0.8P = 960, so P = 960/0.8 = ₹1,200. The common error is to add 20% of ₹960; the reduction was calculated on the original price, not the reduced price.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Reverse percentage — original price",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9433,
+      "cat": "Arithmetic",
+      "topic": "Mensuration — total surface area of cylinder",
+      "q": "A closed cylinder has radius 7 cm and height 10 cm. Using π = 22/7, what is its total surface area?",
+      "o": [
+        "440 cm²",
+        "616 cm²",
+        "748 cm²",
+        "880 cm²"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The total surface area of a closed cylinder is 2πr(r+h). Substituting r=7 cm and h=10 cm gives 2 × 22/7 × 7 × 17 = 44 × 17 = 748 cm². The formula includes both circular ends and the curved surface; using only 2πrh would give curved surface area alone.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Mensuration — total surface area of cylinder",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9434,
+      "cat": "English",
+      "topic": "Idiom — to no avail",
+      "q": "The officer searched the old register to no avail. The phrase 'to no avail' means:",
+      "o": [
+        "With great care",
+        "Without success",
+        "For a legal purpose",
+        "After receiving permission"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "'To no avail' means without success or without achieving the intended result. The sentence says that the search did not produce the required register. It does not describe the care taken, the legal purpose or whether permission had been granted.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Idiom — to no avail",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — 'to no avail'.",
+      "sourceName": "Cambridge Dictionary — 'to no avail'",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/to-no-avail",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9435,
+      "cat": "English",
+      "topic": "Phrase — by and large",
+      "q": "In the sentence 'By and large, the revised filing system has improved retrieval time', the phrase 'by and large' means:",
+      "o": [
+        "Occasionally",
+        "On the whole or generally",
+        "In exact numerical order",
+        "For a limited period only"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "'By and large' is an idiom meaning generally, on the whole or considering the situation as a whole. It signals an overall assessment rather than an absolute statement that every individual case has improved. It is suitable for summarising a broad pattern while allowing exceptions.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Phrase — by and large",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — 'by and large'.",
+      "sourceName": "Cambridge Dictionary — 'by and large'",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/by-and-large",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9436,
+      "cat": "History",
+      "topic": "Kittur resistance — Rani Channamma",
+      "q": "The resistance at Kittur against British interference in 1824 was led by:",
+      "o": [
+        "Rani Channamma",
+        "Begum Hazrat Mahal",
+        "Rani Lakshmibai",
+        "Velu Nachiyar"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Rani Channamma of Kittur resisted the East India Company's attempt to annex her kingdom in 1824. Her struggle preceded the Revolt of 1857 and is an important early example of resistance to Company expansion. She should not be confused with Rani Lakshmibai, who led resistance at Jhansi during 1857–58.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Kittur resistance — Rani Channamma",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Our Pasts III, From Trade to Territory.",
+      "sourceName": "NCERT — Our Pasts III, From Trade to Territory",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/hess202.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9437,
+      "cat": "History",
+      "topic": "Delhi Sultanate — Iqta assignment",
+      "q": "Under the Delhi Sultanate's iqta arrangement, an iqtadar or muqti was principally assigned:",
+      "o": [
+        "Permanent ownership of all land in the territory",
+        "The right to collect assigned revenue in return for administrative and military responsibilities",
+        "A hereditary title to the Sultan's throne",
+        "Exclusive control over overseas trade"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "An iqta was a revenue assignment, not an unrestricted transfer of ownership of the land. The iqtadar or muqti collected revenue from the assigned territory and was expected to perform administrative duties and maintain troops. The Sultanate monitored these officials and could transfer assignments to prevent them from becoming hereditary local powers.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Delhi Sultanate — Iqta assignment",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Our Pasts II, The Delhi Sultans.",
+      "sourceName": "NCERT — Our Pasts II, The Delhi Sultans",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/gess103.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9438,
+      "cat": "Geography",
+      "topic": "Oceanography — thermocline",
+      "q": "In oceanography, the thermocline is the zone in which:",
+      "o": [
+        "Salinity is exactly zero",
+        "Water temperature changes rapidly with depth",
+        "Ocean pressure becomes zero",
+        "Waves stop moving"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A thermocline is a layer in a body of water where temperature decreases rapidly with increasing depth. It separates the warmer, more mixed surface water from colder deep water. The strength and depth of the thermocline vary with latitude, season and ocean conditions.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Oceanography — thermocline",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography, Water (Oceans).",
+      "sourceName": "NCERT — Fundamentals of Physical Geography, Water (Oceans)",
+      "sourceURL": "https://ncert.nic.in/textbook.php?kegy1=1-7",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9439,
+      "cat": "Geography",
+      "topic": "Atmospheric circulation — geostrophic wind",
+      "q": "When friction is negligible and the pressure-gradient force is balanced by the Coriolis force, a large-scale wind tends to blow:",
+      "o": [
+        "Directly across isobars towards low pressure",
+        "Parallel to isobars",
+        "Vertically downward at all latitudes",
+        "Only from the equator towards the poles"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A geostrophic wind results when the horizontal pressure-gradient force is balanced by the Coriolis force. With friction negligible, the wind flows approximately parallel to isobars rather than directly across them. Near the surface, friction disrupts this balance and produces a component of flow across isobars toward lower pressure.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Atmospheric circulation — geostrophic wind",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography, Atmospheric Circulation.",
+      "sourceName": "NCERT — Fundamentals of Physical Geography, Atmospheric Circulation",
+      "sourceURL": "https://ncert.nic.in/textbook.php?kegy1=1-7",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9440,
+      "cat": "Economy",
+      "topic": "Public goods — non-rivalry and non-excludability",
+      "q": "Which combination of characteristics defines a pure public good in standard economic theory?",
+      "o": [
+        "Rival and excludable",
+        "Non-rival and non-excludable",
+        "Rival and non-excludable",
+        "Non-rival and excludable"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A pure public good is non-rival, meaning one person's use does not reduce the amount available to others, and non-excludable, meaning it is difficult or impossible to prevent people from benefiting. Public parks and measures that reduce air pollution are common examples used to explain these characteristics.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Public goods — non-rivalry and non-excludability",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Introductory Microeconomics, public goods.",
+      "sourceName": "NCERT — Introductory Microeconomics, public goods",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/leec105.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9441,
+      "cat": "Economy",
+      "topic": "Gini index — interpretation",
+      "q": "On the World Bank's 0–100 Gini index scale, what does a value of 0 represent?",
+      "o": [
+        "Perfect income inequality",
+        "Perfect equality in the measured distribution",
+        "The poverty headcount ratio",
+        "The share of national income paid as tax"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Gini index summarises how far an income or consumption distribution deviates from perfect equality. On the World Bank's 0–100 scale, 0 represents perfect equality and 100 represents perfect inequality. It is a measure of relative distribution, not a direct count of people in poverty or the tax share of national income.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Gini index — interpretation",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. World Bank DataBank — GINI index metadata glossary.",
+      "sourceName": "World Bank DataBank — GINI index metadata glossary",
+      "sourceURL": "https://databank.worldbank.org/metadataglossary/jobs/series/SI.POV.GINI",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9442,
+      "cat": "Science",
+      "topic": "Photosynthesis — source of released oxygen",
+      "q": "The oxygen gas released during photosynthesis originates directly from the splitting of:",
+      "o": [
+        "Carbon dioxide",
+        "Water",
+        "Glucose",
+        "Chlorophyll"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "During the light-dependent reactions of photosynthesis, water molecules are split in a process called photolysis. This releases electrons and protons and produces molecular oxygen. The oxygen released by green plants therefore comes from water, not from the carbon dioxide that supplies carbon for carbohydrate synthesis.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Photosynthesis — source of released oxygen",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Biology textbook resources, photosynthesis.",
+      "sourceName": "NCERT — Biology textbook resources, photosynthesis",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=2-12",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9443,
+      "cat": "Science",
+      "topic": "Transformer — operating principle",
+      "q": "A conventional transformer changes alternating voltage mainly by using:",
+      "o": [
+        "Electrostatic induction",
+        "Mutual induction between its coils",
+        "Chemical action in an electrolyte",
+        "The heating effect of current"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A transformer works on the principle of mutual induction. Alternating current in the primary coil creates a changing magnetic flux in the core, which induces an electromotive force in the secondary coil. A steady direct current does not provide the continuously changing flux required for ordinary transformer action.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Transformer — operating principle",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Physics, Electromagnetic Induction and Transformers.",
+      "sourceName": "NCERT — Physics, Electromagnetic Induction and Transformers",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/leph107.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9444,
+      "cat": "Environment",
+      "topic": "Environmental flows — river management",
+      "q": "In river management, 'environmental flows' refers most accurately to the:",
+      "o": [
+        "Maximum water that can be diverted for irrigation",
+        "Quantity, timing and quality of water flows needed to sustain freshwater ecosystems and dependent livelihoods",
+        "Total annual rainfall over a river basin",
+        "Water released only for navigation during floods"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Environmental flows consider the quantity, timing and quality of water needed to sustain freshwater and estuarine ecosystems and the human livelihoods and well-being that depend on them. They are not simply a fixed minimum discharge or a volume reserved for one use; they concern the flow regime that supports ecological processes.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Environmental flows — river management",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. International Union for Conservation of Nature — Flow: The Essentials of Environmental Flows.",
+      "sourceName": "International Union for Conservation of Nature — Flow: The Essentials of Environmental Flows",
+      "sourceURL": "https://iucn.org/content/flow-essentials-environmental-flows",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9445,
+      "cat": "Environment",
+      "topic": "Bioindicators — lichen and air quality",
+      "q": "Why are certain lichen species useful as bioindicators of air pollution?",
+      "o": [
+        "They absorb nutrients only from deep soil",
+        "They are sensitive to changes in atmospheric pollutants and can reflect air-quality conditions",
+        "They convert all sulphur dioxide into oxygen",
+        "They grow only in completely polluted environments"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Some lichens are sensitive to atmospheric pollutants and obtain much of their nutrients directly from precipitation and the air. Changes in their presence, abundance or condition can therefore help scientists monitor air quality over time. The US National Park Service uses lichen communities to study nitrogen and sulphur pollution.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Bioindicators — lichen and air quality",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. US National Park Service — Studying Air Pollution with Plants and Animals.",
+      "sourceName": "US National Park Service — Studying Air Pollution with Plants and Animals",
+      "sourceURL": "https://www.nps.gov/subjects/air/bioindicators.htm",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9446,
+      "cat": "Reasoning",
+      "topic": "Clock reasoning — angle between hands",
+      "q": "What is the smaller angle between the hour hand and minute hand of a clock at 4:20?",
+      "o": [
+        "0°",
+        "10°",
+        "20°",
+        "30°"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "At 4:20, the minute hand is at 20 × 6° = 120° from 12. The hour hand moves 30° per hour and 0.5° per minute, so it is at 4 × 30° + 20 × 0.5° = 130°. The smaller angle is 130° − 120° = 10°.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Clock reasoning — angle between hands",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Original authoring — independent clock-reasoning calculation.",
+      "sourceName": "Original authoring — independent clock-reasoning calculation",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9447,
+      "cat": "Reasoning",
+      "topic": "Calendar reasoning — leap year",
+      "q": "If 1 January 2024 was a Monday, what day of the week was 1 March 2024?",
+      "o": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The year 2024 is a leap year. January has 31 days, which shifts the weekday by 3 days; February has 29 days, which shifts it by 1 more day. The total shift from 1 January to 1 March is 60 days, and 60 mod 7 = 4. Four days after Monday is Friday.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Calendar reasoning — leap year",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Original authoring — independent calendar-reasoning calculation.",
+      "sourceName": "Original authoring — independent calendar-reasoning calculation",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9448,
+      "cat": "Reasoning",
+      "topic": "Counting — rectangles in a grid",
+      "q": "A rectangular grid has 2 rows and 3 columns of equal small squares. How many different rectangles, including squares, can be formed using the grid lines?",
+      "o": [
+        "12",
+        "15",
+        "18",
+        "24"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "A rectangle is formed by choosing two of the horizontal grid lines and two of the vertical grid lines. There are 3 horizontal lines, giving 3 choose 2 = 3 choices, and 4 vertical lines, giving 4 choose 2 = 6 choices. Total rectangles = 3 × 6 = 18. This counts every possible size, including the six unit squares.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Counting — rectangles in a grid",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Original authoring — independent spatial-counting problem.",
+      "sourceName": "Original authoring — independent spatial-counting problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9449,
+      "cat": "Reasoning",
+      "topic": "Critical reasoning — sampling bias",
+      "q": "A survey of 200 people at one shopping mall finds that 80% prefer a new mobile payment app. The report concludes that 80% of all residents of the district prefer it. What is the main weakness?",
+      "o": [
+        "The sample may not represent the district's wider population",
+        "The sample contains exactly 200 people",
+        "The survey was conducted at a public place",
+        "The result is expressed as a percentage"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The central problem is sampling bias. People visiting one shopping mall may differ from residents who do not visit it, including by age, income, location or access to digital services. A larger sample at the same location would not automatically solve the representativeness problem; the survey should use a suitable sampling frame across the district.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Critical reasoning — sampling bias",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Original authoring — independent critical-reasoning problem.",
+      "sourceName": "Original authoring — independent critical-reasoning problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9450,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 155 — burden of proof for ITC",
+      "q": "Under Section 155 of the CGST Act, who bears the burden of proving eligibility where a person claims input tax credit?",
+      "o": [
+        "The tax officer in every case",
+        "The person claiming the input tax credit",
+        "The GST Council",
+        "The supplier's bank"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 155 states that where any person claims eligibility for input tax credit under the Act, the burden of proving that claim lies on that person. The claimant must therefore establish the statutory conditions for the credit. The provision is distinct from the general power of the officer to scrutinise or audit records.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 155 — burden of proof for ITC",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017, Section 155.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, Section 155",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9451,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 126 — general disciplines for penalty",
+      "q": "Under Section 126(1) of the CGST Act, which situation is specifically protected from imposition of a penalty by an officer under the Act?",
+      "o": [
+        "A deliberate tax evasion scheme involving false invoices",
+        "A minor breach or easily rectifiable documentation mistake made without fraudulent intent or gross negligence",
+        "A repeated failure to pay self-assessed tax",
+        "A fraudulent claim of input tax credit"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 126 lays down general disciplines related to penalty. It says that no officer shall impose a penalty for minor breaches or for an easily rectifiable documentation omission or mistake made without fraudulent intent or gross negligence. The section also requires attention to the nature and gravity of the breach; it is not a blanket immunity for fraud or deliberate evasion.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 126 — general disciplines for penalty",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017, Section 126.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, Section 126",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9452,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 161 — rectification of record errors",
+      "q": "Section 161 of the CGST Act principally allows an authority to rectify which kind of error in a decision, order, notice, certificate or other document?",
+      "o": [
+        "Any policy choice with which the taxpayer disagrees",
+        "An error apparent on the face of the record",
+        "Any issue requiring a completely fresh trial of all evidence",
+        "A change in tax rate made by Parliament"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 161 permits the authority that issued a decision, order, notice, certificate or other document to rectify an error apparent on the face of the record, on its own motion or when brought to its notice in the manner provided. Rectification is not a general power to reopen the merits or substitute a new policy decision.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 161 — rectification of record errors",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017, Section 161.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, Section 161",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9453,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 169 — electronic service of notice",
+      "q": "Which of the following is expressly recognised by Section 169 of the CGST Act as a method of serving a notice or other communication?",
+      "o": [
+        "Making the communication available on the common portal",
+        "Posting it only on a private social-media account",
+        "Sending it only by ordinary text message to an unverified number",
+        "Announcing it verbally at a public meeting"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 169 lists several recognised modes of service, including making the communication available on the common portal. It also provides other methods such as direct delivery, registered or speed post, courier, email to the registered address, publication in a newspaper and affixation in specified circumstances. The question tests one expressly listed electronic mode.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 169 — electronic service of notice",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017, Section 169.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, Section 169",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
       "sourceVerifiedDate": "2026-11-23",
       "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
     }
