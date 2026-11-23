@@ -2,7 +2,7 @@
   "date": "2026-11-23",
   "target": 110,
   "startingActiveCount": 1187,
-  "candidatesDrafted": 73,
+  "candidatesDrafted": 114,
   "questions": [
     {
       "id": 9315,
@@ -2483,6 +2483,1400 @@
       "source": "Original Practice — not an official PYQ. NCERT — Science and Chemistry textbooks.",
       "sourceName": "NCERT — Science and Chemistry textbooks",
       "sourceURL": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9388,
+      "cat": "Environment",
+      "topic": "Biochemical Oxygen Demand (BOD)",
+      "q": "A high five-day Biochemical Oxygen Demand (BOD) reading in a river sample most directly indicates:",
+      "o": [
+        "Very low biodegradable organic pollution",
+        "A large amount of oxygen is being used by microorganisms to break down organic matter",
+        "The water contains no dissolved salts",
+        "The water is necessarily free from pathogens"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "BOD measures the oxygen consumed by microorganisms while decomposing biodegradable organic matter under specified test conditions. A high BOD generally indicates a heavier organic pollution load and can reduce dissolved oxygen available to aquatic organisms. It is not a direct test for salinity or pathogen absence.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Biochemical Oxygen Demand (BOD)",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Central Pollution Control Board — Water Quality Criteria.",
+      "sourceName": "Central Pollution Control Board — Water Quality Criteria",
+      "sourceURL": "https://cpcb.nic.in/wqm/Ind-Guidelines-RestWaterBodies.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9389,
+      "cat": "Environment",
+      "topic": "Acid deposition — precursor gases",
+      "q": "Which pair of gases is the principal precursor of human-caused acid deposition?",
+      "o": [
+        "Carbon monoxide and methane",
+        "Sulphur dioxide and nitrogen oxides",
+        "Oxygen and hydrogen",
+        "Helium and argon"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Sulphur dioxide (SO₂) and nitrogen oxides (NOₓ) are emitted largely from fossil-fuel combustion. They react in the atmosphere with water, oxygen and other chemicals to form sulphuric and nitric acids, which return to Earth through wet or dry deposition. The resulting acidity can affect soils, forests and water bodies.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Acid deposition — precursor gases",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. US Environmental Protection Agency — What Is Acid Rain?.",
+      "sourceName": "US Environmental Protection Agency — What Is Acid Rain?",
+      "sourceURL": "https://www.epa.gov/acidrain/what-acid-rain",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9390,
+      "cat": "Environment",
+      "topic": "Ecological carrying capacity",
+      "q": "In ecology, the carrying capacity of a habitat refers to:",
+      "o": [
+        "The maximum population it can support over time under prevailing conditions",
+        "The total number of species ever recorded in the habitat",
+        "The speed at which a predator catches prey",
+        "The number of trophic levels in a food chain"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Carrying capacity is the population size that an environment can sustain over time with its available food, water, space and other resources, given prevailing conditions. It is not a fixed universal number: habitat quality, climate, resource use and interactions among organisms can change it.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Ecological carrying capacity",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Biology, Organisms and Populations.",
+      "sourceName": "NCERT — Biology, Organisms and Populations",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=0-16",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9391,
+      "cat": "Environment",
+      "topic": "Ecological niche — role of a species",
+      "q": "Which statement best distinguishes an ecological niche from a habitat?",
+      "o": [
+        "A niche is the physical address only; a habitat is the species' feeding role",
+        "A niche describes a species' functional role and resource use; a habitat is the place where it lives",
+        "A niche applies only to plants; a habitat applies only to animals",
+        "The two terms always mean exactly the same thing"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A habitat is the place or environment in which an organism lives. Its ecological niche describes how it uses resources, interacts with other organisms and performs its functional role in the ecosystem. Several species may share a habitat while occupying different niches, reducing direct competition.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Ecological niche — role of a species",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Biology, Organisms and Populations.",
+      "sourceName": "NCERT — Biology, Organisms and Populations",
+      "sourceURL": "https://ncert.nic.in/textbook.php?lebo1=0-16",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9392,
+      "cat": "Environment",
+      "topic": "Ozone layer — atmospheric location",
+      "q": "The ozone layer that absorbs much of the Sun's harmful ultraviolet-B radiation is concentrated in which atmospheric layer?",
+      "o": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The ozone layer is a region of relatively high ozone concentration in the stratosphere, roughly 15–35 km above Earth's surface. It absorbs much of the incoming UV-B radiation and acts as a protective shield for living organisms. Ground-level ozone, by contrast, is an air pollutant.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Ozone layer — atmospheric location",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. UNEP Ozone Secretariat — Ozone and You.",
+      "sourceName": "UNEP Ozone Secretariat — Ozone and You",
+      "sourceURL": "https://ozone.unep.org/ozone-and-you",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9393,
+      "cat": "Environment",
+      "topic": "Phytoremediation — contaminated sites",
+      "q": "A project plants selected grasses and trees on contaminated land so that pollutants are taken up, stabilised or helped to break down. This approach is called:",
+      "o": [
+        "Desalination",
+        "Phytoremediation",
+        "Incineration",
+        "Flocculation"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Phytoremediation uses plants and associated root-zone processes to remove, contain or transform contaminants in soil, sediment or water. Depending on the contaminant and plant species, the process may involve uptake, stabilisation or support for microbial breakdown. It is a site-specific remediation method, not a universal substitute for every cleanup technology.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Phytoremediation — contaminated sites",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. US Environmental Protection Agency — Phytoremediation Technology Primer.",
+      "sourceName": "US Environmental Protection Agency — Phytoremediation Technology Primer",
+      "sourceURL": "https://www.epa.gov/sites/default/files/2015-04/documents/phytoremprimer.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9394,
+      "cat": "Environment",
+      "topic": "Secondary air pollutant — ground-level ozone",
+      "q": "Ground-level ozone in photochemical smog is classified as a secondary pollutant because it is:",
+      "o": [
+        "Emitted directly from vehicle exhaust in the same form",
+        "Formed in the atmosphere through reactions involving precursor pollutants and sunlight",
+        "Produced only by volcanic eruptions",
+        "Released only from the upper stratosphere"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Ground-level ozone is not usually emitted directly. It forms in the atmosphere when nitrogen oxides and volatile organic compounds react in sunlight. This makes it a secondary pollutant. Ozone high in the stratosphere is beneficial because it absorbs ultraviolet radiation, but near the ground it can harm health and vegetation.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Secondary air pollutant — ground-level ozone",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. US Environmental Protection Agency — Ground-Level Ozone Basics.",
+      "sourceName": "US Environmental Protection Agency — Ground-Level Ozone Basics",
+      "sourceURL": "https://www.epa.gov/ground-level-ozone-pollution/ground-level-ozone-basics",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9395,
+      "cat": "Environment",
+      "topic": "Sustainable yield — renewable resource",
+      "q": "For a renewable fish stock, sustainable yield is best understood as the harvest level that:",
+      "o": [
+        "Always removes the entire annual population increase",
+        "Can be maintained over time without causing long-term depletion of the stock",
+        "Is fixed at the highest catch ever recorded",
+        "Does not depend on recruitment or natural mortality"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A sustainable yield is a harvest that can be maintained over time without undermining the resource's ability to regenerate. For fisheries, managers must consider recruitment, growth, natural mortality and uncertainty. A catch that exceeds replenishment for long periods can reduce the stock even if it produces a large short-term harvest.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Sustainable yield — renewable resource",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. FAO — Fisheries and Aquaculture resources.",
+      "sourceName": "FAO — Fisheries and Aquaculture resources",
+      "sourceURL": "https://www.fao.org/fishery/en",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9396,
+      "cat": "Reasoning",
+      "topic": "Circular seating — opposite positions",
+      "q": "Four officers A, B, C and D sit at the four sides of a square table, all facing the centre. C sits opposite A, and B sits immediately clockwise from A. Who sits opposite B?",
+      "o": [
+        "A",
+        "C",
+        "D",
+        "Cannot be determined"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "With four seats, A and C occupy opposite positions. B is immediately clockwise from A, so the only remaining seat is occupied by D. That seat is opposite B. The condition that everyone faces the centre fixes the meaning of clockwise and avoids the ambiguity that occurs when people face outward.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Circular seating — opposite positions",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Original authoring — independent circular-arrangement reasoning problem.",
+      "sourceName": "Original authoring — independent circular-arrangement reasoning problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9397,
+      "cat": "Reasoning",
+      "topic": "Blood relation — paternal aunt",
+      "q": "Mira is the sister of Nikhil. Nikhil is the father of Ria. How is Mira related to Ria?",
+      "o": [
+        "Maternal aunt",
+        "Paternal aunt",
+        "Grandmother",
+        "Cousin"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Nikhil is Ria's father, so Nikhil's sister Mira is Ria's paternal aunt. 'Paternal' refers to the father's side of the family, while 'maternal' refers to the mother's side. The relationship is determined by tracing the two stated links rather than assuming Mira's age or marital status.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Blood relation — paternal aunt",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Original authoring — independent family-relation reasoning problem.",
+      "sourceName": "Original authoring — independent family-relation reasoning problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9398,
+      "cat": "Reasoning",
+      "topic": "Floor arrangement — ordered constraints",
+      "q": "Four files P, Q, R and S are placed on shelves numbered 1 to 4 from bottom to top. Q is immediately above P, R is above Q, and S is above R. Which file must be on shelf 3?",
+      "o": [
+        "P",
+        "Q",
+        "R",
+        "S"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The conditions establish the strict order P below Q below R below S. Because there are exactly four shelves and four files, the only possible arrangement from bottom to top is P, Q, R, S. Therefore R must occupy shelf 3. The immediate-adjacency condition between P and Q is consistent with this unique order.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Floor arrangement — ordered constraints",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Original authoring — independent constraint-ordering reasoning problem.",
+      "sourceName": "Original authoring — independent constraint-ordering reasoning problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9399,
+      "cat": "Reasoning",
+      "topic": "Critical reasoning — strengthen an argument",
+      "q": "A department claims that a new training module reduces data-entry errors. Which evidence would most strongly strengthen the claim?",
+      "o": [
+        "Errors fell only in the month when fewer files were processed",
+        "A comparable group not given the module had no similar fall, while trained staff showed a measured reduction",
+        "The training module received positive comments from its designer",
+        "The department changed its stationery during the same period"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A comparison group helps isolate the effect of the training from other influences. If trained staff show a reduction while a comparable untrained group does not, the evidence is more consistent with the module causing the improvement. Positive comments or unrelated changes do not establish the causal link.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Critical reasoning — strengthen an argument",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Original authoring — independent critical-reasoning problem.",
+      "sourceName": "Original authoring — independent critical-reasoning problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9400,
+      "cat": "Reasoning",
+      "topic": "Critical reasoning — weaken a causal claim",
+      "q": "A manager says that a new attendance system caused late arrivals to fall. Which fact most weakens the conclusion?",
+      "o": [
+        "The system records arrival time electronically",
+        "The same period included a transport strike ending, which independently made commuting easier",
+        "Employees were informed about the new system",
+        "The system produces a monthly report"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The end of a transport strike is an alternative explanation for fewer late arrivals. Because commuting became easier at the same time, the reduction cannot confidently be attributed to the attendance system alone. A good causal assessment looks for confounding factors and, where possible, compares similar groups or periods.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Critical reasoning — weaken a causal claim",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Original authoring — independent critical-reasoning problem.",
+      "sourceName": "Original authoring — independent critical-reasoning problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9401,
+      "cat": "Reasoning",
+      "topic": "Critical reasoning — necessary assumption",
+      "q": "An office proposes online appointments on the ground that they will shorten queues. Which assumption is necessary for this argument to work?",
+      "o": [
+        "Every applicant owns a smartphone",
+        "The appointment system will spread arrivals more evenly without reducing the office's ability to serve applicants",
+        "No applicant will ever arrive late",
+        "All services require exactly the same processing time"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The proposal can shorten queues only if appointments distribute demand in a useful way and the office retains enough capacity to process applicants. Smartphone ownership or identical service times are not necessary assumptions; access can be provided through other channels and services may vary in length.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Critical reasoning — necessary assumption",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Original authoring — independent critical-reasoning problem.",
+      "sourceName": "Original authoring — independent critical-reasoning problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9402,
+      "cat": "Reasoning",
+      "topic": "Conditional logic — only if",
+      "q": "A permit is issued only if the prescribed fee has been paid. If a permit has been issued, which conclusion must be true?",
+      "o": [
+        "The fee has been paid",
+        "The fee has been waived",
+        "The applicant has paid twice",
+        "The permit is permanent"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "'A only if B' means B is a necessary condition for A. Therefore, if the permit (A) has been issued, the fee-payment condition (B) must have been satisfied. The statement does not establish that payment alone guarantees a permit; it says only that payment is necessary.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Conditional logic — only if",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Original authoring — independent conditional-reasoning problem.",
+      "sourceName": "Original authoring — independent conditional-reasoning problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9403,
+      "cat": "Reasoning",
+      "topic": "Constraint puzzle — unique allocation",
+      "q": "Three rooms are assigned one each to Audit, Records and Accounts. Audit is not in Room 1. Records is in a higher-numbered room than Audit. Accounts is not in Room 3. Which room must contain Records?",
+      "o": [
+        "Room 1",
+        "Room 2",
+        "Room 3",
+        "Cannot be determined"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Audit cannot be in Room 1. If Audit were in Room 3, no room would be higher for Records, so Audit must be in Room 1 or 2. But Accounts cannot be in Room 3, and each room is used once. The only arrangement satisfying all conditions is Audit in Room 1, Accounts in Room 2 and Records in Room 3.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Constraint puzzle — unique allocation",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Original authoring — independent constraint-satisfaction reasoning problem.",
+      "sourceName": "Original authoring — independent constraint-satisfaction reasoning problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9404,
+      "cat": "Reasoning",
+      "topic": "Argument evaluation — alternative explanation",
+      "q": "A report states that complaint numbers fell after a new online grievance portal was launched, proving that public services improved. Which observation most directly challenges the conclusion?",
+      "o": [
+        "The portal uses a modern colour scheme",
+        "The portal was unavailable for several weeks, and complaints could not be submitted during that period",
+        "The report was printed on recycled paper",
+        "The department held a staff meeting after launch"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "If the portal was unavailable, fewer complaints may have been recorded simply because people could not submit them. The fall in recorded complaints would then not demonstrate better service. This is a measurement problem: the number of complaints received is not necessarily the same as the number of problems experienced.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Argument evaluation — alternative explanation",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Original authoring — independent critical-reasoning problem.",
+      "sourceName": "Original authoring — independent critical-reasoning problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9405,
+      "cat": "Computer",
+      "topic": "OSI model — network layer",
+      "q": "In the OSI reference model, which layer is primarily responsible for logical addressing and routing packets between networks?",
+      "o": [
+        "Data Link layer",
+        "Network layer",
+        "Transport layer",
+        "Session layer"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Network layer is Layer 3 of the OSI model. It handles logical addressing and routing so packets can travel across interconnected networks. The Data Link layer handles delivery on a local link, while the Transport layer provides end-to-end transport services between communicating hosts.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "OSI model — network layer",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. ITU-T Recommendation X.200 — Open Systems Interconnection reference model.",
+      "sourceName": "ITU-T Recommendation X.200 — Open Systems Interconnection reference model",
+      "sourceURL": "https://www.itu.int/rec/T-REC-X.200/en",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9406,
+      "cat": "Computer",
+      "topic": "DHCP — dynamic host configuration",
+      "q": "What is the primary function of the Dynamic Host Configuration Protocol (DHCP) on an IP network?",
+      "o": [
+        "Encrypting files stored on a server",
+        "Automatically supplying network configuration such as IP addresses to clients",
+        "Converting domain names into IP addresses",
+        "Transferring outgoing email between mail servers"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "DHCP allows a networked client to obtain configuration parameters automatically, commonly including an IP address, subnet information, default gateway and DNS server information. This reduces manual configuration and helps manage address allocation. DNS name resolution and SMTP email transfer are separate services.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "DHCP — dynamic host configuration",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. IETF — RFC 2131, Dynamic Host Configuration Protocol.",
+      "sourceName": "IETF — RFC 2131, Dynamic Host Configuration Protocol",
+      "sourceURL": "https://www.rfc-editor.org/rfc/rfc2131",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9407,
+      "cat": "Computer",
+      "topic": "Cryptography — hashing versus encryption",
+      "q": "Which statement correctly distinguishes a cryptographic hash from ordinary encryption?",
+      "o": [
+        "A hash is designed as a one-way digest, while encryption is designed to be reversible with the appropriate key",
+        "A hash always requires a public and private key pair",
+        "Encryption cannot protect confidentiality",
+        "A hash is simply a compressed copy that can always be restored"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A cryptographic hash function maps input data to a fixed-length digest and is designed to be computationally infeasible to reverse. Encryption transforms data so that an authorised holder of the appropriate key can recover the plaintext. Hashing is commonly used for integrity checks, while encryption protects confidentiality.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Cryptography — hashing versus encryption",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NIST — Secure Hash Standard, FIPS 180-4.",
+      "sourceName": "NIST — Secure Hash Standard, FIPS 180-4",
+      "sourceURL": "https://csrc.nist.gov/pubs/fips/180-4/upd1/final",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9408,
+      "cat": "Computer",
+      "topic": "Multi-factor authentication — factor categories",
+      "q": "Which combination is a genuine example of multi-factor authentication?",
+      "o": [
+        "Password plus a PIN",
+        "Password plus a fingerprint",
+        "Two different passwords",
+        "Password plus a memorable security question"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Multi-factor authentication uses factors from different categories: something the user knows, has or is. A password is a knowledge factor and a fingerprint is an inherence factor, so the combination uses two distinct categories. Two passwords or a password plus a security question are both knowledge factors.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Multi-factor authentication — factor categories",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NIST — Digital Identity Guidelines, Authentication and Lifecycle Management.",
+      "sourceName": "NIST — Digital Identity Guidelines, Authentication and Lifecycle Management",
+      "sourceURL": "https://pages.nist.gov/800-63-4/sp800-63b.html",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9409,
+      "cat": "Computer",
+      "topic": "SMTP — outgoing email",
+      "q": "Which protocol is primarily used to submit and transfer outgoing email between mail clients and mail servers or between mail servers?",
+      "o": [
+        "IMAP",
+        "POP3",
+        "SMTP",
+        "SNMP"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "SMTP, the Simple Mail Transfer Protocol, is used to send or relay email. IMAP and POP3 are primarily used by clients to access or retrieve messages from mailboxes, while SNMP is used for network management. The direction and purpose of the protocol are the key distinctions.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "SMTP — outgoing email",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. IETF — RFC 5321, Simple Mail Transfer Protocol.",
+      "sourceName": "IETF — RFC 5321, Simple Mail Transfer Protocol",
+      "sourceURL": "https://www.rfc-editor.org/rfc/rfc5321",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9410,
+      "cat": "Computer",
+      "topic": "Database — composite primary key",
+      "q": "A database table has no single column that uniquely identifies each row, but the combination of EmployeeID and TrainingID is unique. What should the table use?",
+      "o": [
+        "A composite primary key",
+        "A duplicate foreign key",
+        "A null index",
+        "A calculated column only"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A composite primary key consists of two or more columns whose combined values uniquely identify each row. Here, EmployeeID alone may repeat because an employee can attend several courses, and TrainingID alone may repeat because many employees attend one course. Their combination identifies each employee-training record.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Database — composite primary key",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. PostgreSQL Documentation — Constraints and Primary Keys.",
+      "sourceName": "PostgreSQL Documentation — Constraints and Primary Keys",
+      "sourceURL": "https://www.postgresql.org/docs/current/ddl-constraints.html",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9411,
+      "cat": "Computer",
+      "topic": "Spreadsheet — conditional formatting",
+      "q": "In a spreadsheet, conditional formatting is used primarily to:",
+      "o": [
+        "Change a cell's appearance automatically when a specified rule is met",
+        "Encrypt the workbook with a public key",
+        "Convert every formula into a static value",
+        "Create a relational database server"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Conditional formatting applies visual formats such as colour, icons or data bars when cell values satisfy specified rules. It helps users identify patterns and exceptions without changing the underlying cell value. It is different from data validation, which controls what users may enter.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Spreadsheet — conditional formatting",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Microsoft Support — Excel conditional formatting.",
+      "sourceName": "Microsoft Support — Excel conditional formatting",
+      "sourceURL": "https://support.microsoft.com/en-us/excel",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9412,
+      "cat": "Computer",
+      "topic": "Cloud computing — SaaS",
+      "q": "A user accesses a complete accounting application through a web browser while the provider manages the servers, operating system and application. Which cloud service model is this?",
+      "o": [
+        "IaaS",
+        "PaaS",
+        "SaaS",
+        "On-premises hosting"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Software as a Service (SaaS) delivers a complete application to users over a network. The provider manages the underlying infrastructure and application platform, while the customer mainly configures and uses the software. IaaS supplies computing infrastructure and PaaS supplies a platform for deploying applications.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Cloud computing — SaaS",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NIST — The NIST Definition of Cloud Computing, SP 800-145.",
+      "sourceName": "NIST — The NIST Definition of Cloud Computing, SP 800-145",
+      "sourceURL": "https://csrc.nist.gov/pubs/sp/800/145/final",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9413,
+      "cat": "Computer",
+      "topic": "Digital signature — integrity and authenticity",
+      "q": "A valid digital signature created with a signer's private key can help a recipient verify that a signed document:",
+      "o": [
+        "Has not been altered since signing and is associated with the signer's key",
+        "Is automatically confidential to every reader",
+        "Cannot be copied or stored",
+        "Was printed on a government-approved printer"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A digital signature is used to provide authenticity and integrity. The signer uses a private key to create the signature, and the recipient verifies it with the corresponding public key. A digital signature does not by itself encrypt the document or make it confidential; encryption is a separate function.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Digital signature — integrity and authenticity",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NIST — Digital Signature Standard, FIPS 186-5.",
+      "sourceName": "NIST — Digital Signature Standard, FIPS 186-5",
+      "sourceURL": "https://csrc.nist.gov/pubs/fips/186-5/final",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9414,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 31 — goods invoice timing",
+      "q": "Where a taxable supply of goods involves movement of goods to the recipient, when must a registered supplier ordinarily issue the tax invoice under Section 31(1) of the CGST Act?",
+      "o": [
+        "Only after the recipient has resold the goods",
+        "Before or at the time of removal of the goods for supply",
+        "Within 72 months of the annual return",
+        "Only after the recipient files GSTR-3B"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 31(1) requires a registered person supplying taxable goods to issue the invoice before or at the time of removal where the supply involves movement. Where there is no movement, the invoice is issued before or at delivery or making the goods available. The question is limited to the movement case.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 31 — goods invoice timing",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017, Section 31.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, Section 31",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9415,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 32 — unauthorised collection",
+      "q": "Under Section 32(1) of the CGST Act, who is prohibited from collecting an amount by way of tax under the Act?",
+      "o": [
+        "Only an unregistered person",
+        "A person who is not a registered person",
+        "Only a composition taxpayer",
+        "Only a government department"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 32(1) prohibits a person who is not a registered person from collecting any amount by way of tax under the CGST Act. Section 32(2) separately provides that a registered person must not collect tax except in accordance with the Act and the rules. Registration alone does not authorise an incorrect collection.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 32 — unauthorised collection",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017, Section 32.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, Section 32",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9416,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 33 — tax amount in documents",
+      "q": "Where a taxable supply is made for consideration, what does Section 33 require the person liable to pay tax to do in relevant documents?",
+      "o": [
+        "Hide the tax amount within the total price",
+        "Prominently indicate the amount of tax forming part of the price",
+        "Show only the supplier's profit margin",
+        "State the tax amount only in an internal ledger"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 33 requires the amount of tax forming part of the price to be prominently indicated in documents relating to assessment, the tax invoice and other like documents. The provision promotes transparency for the recipient and helps distinguish the tax component from the overall consideration.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 33 — tax amount in documents",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017, Section 33.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, Section 33",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9417,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 35 — records maintained",
+      "q": "Which set of records is expressly relevant to a registered person's accounts under Section 35 of the CGST Act?",
+      "o": [
+        "Only the annual income-tax return",
+        "Production or manufacture, inward and outward supplies, stock, input tax credit and output tax payable or paid",
+        "Only bank passbooks and employee attendance",
+        "Only invoices issued to government departments"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 35 requires a registered person to keep and maintain true and correct accounts at the principal place of business and at every additional place of business specified in the registration. The records include production or manufacture, inward and outward supplies, stock, input tax credit availed, output tax payable and paid, and other prescribed particulars.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 35 — records maintained",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017, Section 35.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, Section 35",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9418,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 36 — retention period",
+      "q": "Under the ordinary rule in Section 36 of the CGST Act, for how long must a registered person retain the books and records required under Section 35(1)?",
+      "o": [
+        "For 12 months from the invoice date",
+        "Until expiry of 72 months from the due date of furnishing the annual return for the relevant year",
+        "For 24 months from registration",
+        "Permanently in every case"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 36 sets the ordinary retention period at 72 months from the due date of furnishing the annual return for the year to which the accounts and records relate. A proviso extends retention for records connected with specified appeals, revisions, proceedings or investigations until one year after final disposal or the ordinary period, whichever is later.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 36 — retention period",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017, Section 36.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, Section 36",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9419,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 37 — outward supply details",
+      "q": "Section 37 of the CGST Act principally concerns the electronic furnishing of details of:",
+      "o": [
+        "Outward supplies of goods or services or both",
+        "Only inward supplies received from unregistered persons",
+        "Only salary paid to employees",
+        "Only capital assets sold by the Government"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 37 deals with furnishing details of outward supplies electronically, subject to the Act's conditions, restrictions and prescribed manner. The details include invoices, debit notes, credit notes and revised invoices relating to outward supplies for a tax period. The section contains exclusions and conditions, so it should not be read as applying identically to every class of registered person.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 37 — outward supply details",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017, Section 37.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, Section 37",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9420,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 39 — furnishing returns",
+      "q": "Which statement best describes the general subject of Section 39 of the CGST Act?",
+      "o": [
+        "Furnishing of returns by registered persons, subject to statutory exclusions and prescribed conditions",
+        "Issue of search warrants by a criminal court",
+        "Registration of companies under the Companies Act",
+        "Appointment of the GST Council"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 39 governs the furnishing of returns by registered persons, subject to the exclusions and special arrangements set out in the Act and the rules. It is the statutory return-filing provision. Exact categories, periods and due dates must be checked against current rules and notifications rather than assumed from the section heading alone.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 39 — furnishing returns",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017, Section 39.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, Section 39",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9421,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 61 — scrutiny of returns",
+      "q": "When a proper officer scrutinises a registered person's return under Section 61 and notices discrepancies, what is the ordinary first step under the section?",
+      "o": [
+        "Immediately confiscate the taxpayer's stock",
+        "Inform the registered person of the discrepancies and seek an explanation",
+        "Cancel registration automatically",
+        "Issue a criminal conviction"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Section 61 authorises the proper officer to scrutinise returns and related particulars to verify correctness. Where discrepancies are noticed, the officer informs the registered person and seeks an explanation. If the explanation is accepted or corrective action is taken, the matter may close; otherwise, further action under the Act may follow.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 61 — scrutiny of returns",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017, Section 61.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, Section 61",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9422,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 62 — non-filer assessment",
+      "q": "Section 62 of the CGST Act provides for assessment of which category of taxable person?",
+      "o": [
+        "A registered person who fails to furnish the required return even after the prescribed notice",
+        "Every person who files a return on time",
+        "Only a person whose registration is cancelled voluntarily",
+        "Only an Input Service Distributor"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 62 deals with assessment of non-filers of returns. Where a registered person fails to furnish the required return even after notice under Section 46, the proper officer may proceed with a best-judgment assessment based on available material, subject to the safeguards and withdrawal provisions in the section.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 62 — non-filer assessment",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017, Section 62.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, Section 62",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9423,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 63 — unregistered taxable person",
+      "q": "Section 63 may be used for best-judgment assessment where a taxable person:",
+      "o": [
+        "Is liable to register but has failed to obtain registration, or has had registration cancelled while remaining liable",
+        "Has filed every return and paid all tax",
+        "Has only changed a bank account",
+        "Has claimed a lawful refund"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 63 applies to assessment of unregistered persons in the circumstances specified by the Act, including a taxable person who was liable to obtain registration but failed to do so, or whose registration was cancelled but who remained liable to pay tax. The proper officer proceeds on the basis of available material and the prescribed procedure.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 63 — unregistered taxable person",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017, Section 63.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, Section 63",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9424,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 64 — summary assessment",
+      "q": "A summary assessment under Section 64 of the CGST Act is intended for a situation where:",
+      "o": [
+        "The proper officer has evidence of a tax liability and considers immediate assessment necessary to protect the interest of revenue, subject to the statutory approval",
+        "A taxpayer simply requests a routine extension of time",
+        "A registered person files an annual return",
+        "A business applies for a new registration"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 64 permits summary assessment in special cases where the proper officer has evidence of a tax liability and believes that delay may adversely affect the interest of revenue. The provision requires prior permission of the Additional Commissioner or Joint Commissioner. It is an exceptional procedure, not the ordinary method for every return mismatch.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 64 — summary assessment",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017, Section 64.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, Section 64",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9425,
+      "cat": "Current Affairs",
+      "topic": "CM-ELEVATE — schemes highlighted",
+      "q": "At the CM-ELEVATE: Celebration of Entrepreneurship programme at Jengjal on 22 October 2026, which group of Meghalaya initiatives was specifically highlighted as supporting farmers, entrepreneurs and small businesses?",
+      "o": [
+        "FOCUS+, CM FARM+, PRIME and SEED",
+        "PM-KISAN, PMAY-G, MGNREGA and Ujjwala",
+        "PMGSY, Smart Cities Mission, AMRUT and Jal Jeevan Mission",
+        "Startup India, Stand-Up India, PM SVANidhi and PM-KUSUM"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Government of Meghalaya press release dated 22 October 2026 names FOCUS+, CM FARM+, PRIME and SEED as initiatives highlighted at the CM-ELEVATE entrepreneurship programme in Jengjal. The release connects them with farmers, entrepreneurs and small businesses, including value addition, market linkages and tourism-based enterprises.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "CM-ELEVATE — schemes highlighted",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — CM-ELEVATE Supports Entrepreneurship and Livelihood Development, 22 October 2026.",
+      "sourceName": "Government of Meghalaya — CM-ELEVATE Supports Entrepreneurship and Livelihood Development, 22 October 2026",
+      "sourceURL": "https://meghalaya.gov.in/press/content/52142",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9426,
+      "cat": "Current Affairs",
+      "topic": "FOCUS Plus — first instalment 2026",
+      "q": "According to the Meghalaya Government release of 22 September 2026, what amount was transferred to each FOCUS Plus beneficiary as the first instalment of 2026?",
+      "o": [
+        "₹1,000",
+        "₹1,500",
+        "₹2,500",
+        "₹5,000"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The release states that ₹2,500 each was transferred to 1,14,000 beneficiaries as the first instalment, amounting to ₹28 crore. It also explains that the annual untied grant is ₹5,000 per farming household, paid in two instalments of ₹2,500. The question asks for the first instalment, not the annual total.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "FOCUS Plus — first instalment 2026",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — FOCUS Plus assistance release, 22 September 2026.",
+      "sourceName": "Government of Meghalaya — FOCUS Plus assistance release, 22 September 2026",
+      "sourceURL": "https://meghalaya.gov.in/press/content/51866",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9427,
+      "cat": "Current Affairs",
+      "topic": "NEC — Meghalaya road project",
+      "q": "In its press release dated 7 November 2026, the North Eastern Council identified which Meghalaya road for rehabilitation and strengthening under NESIDS-Roads?",
+      "o": [
+        "Chokpot–Kharukol road",
+        "Shillong–Dawki road",
+        "Nongstoin–Mawkyrwat road",
+        "Tura–Dalu road"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The NEC release states that Meghalaya received ₹26.56 crore during October 2026, with a major share directed to the 46.08-km Chokpot–Kharukol road under NESIDS-Roads. The project is expected to benefit 78 villages and more than 15,000 residents. The source is the official Meghalaya-hosted NEC press release.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "NEC — Meghalaya road project",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. North Eastern Council — Fund Releases During October, 7 November 2026.",
+      "sourceName": "North Eastern Council — Fund Releases During October, 7 November 2026",
+      "sourceURL": "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_240.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9428,
+      "cat": "Current Affairs",
+      "topic": "Janjatiya Gaurav Divas 2026 — Mawphlang programme",
+      "q": "Which programme was scheduled at Mawphlang Sacred Grove, East Khasi Hills, on 21 November 2026 as part of Meghalaya's Janjatiya Gaurav Divas celebrations?",
+      "o": [
+        "National Tribal Sports Meet",
+        "Living Heritage: Workshop on Eco-Museums & Community Archives",
+        "Statewide census training workshop",
+        "North East Bankers Conclave"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Meghalaya Department of Arts and Culture press release dated 17 November 2026 scheduled the field-based programme 'Living Heritage: Workshop on Eco-Museums & Community Archives' at Mawphlang Sacred Grove on 21 November 2026. It focused on community-led preservation of living traditions, sacred landscapes and local archival practices.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Current Affairs",
+        "Janjatiya Gaurav Divas 2026 — Mawphlang programme",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — Tribal Research Institute programme for Janjatiya Gaurav Divas 2026, 17 November 2026.",
+      "sourceName": "Government of Meghalaya — Tribal Research Institute programme for Janjatiya Gaurav Divas 2026, 17 November 2026",
+      "sourceURL": "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_250.pdf",
       "sourceVerifiedDate": "2026-11-23",
       "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
     }
