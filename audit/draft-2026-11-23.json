@@ -2,7 +2,7 @@
   "date": "2026-11-23",
   "target": 110,
   "startingActiveCount": 1187,
-  "candidatesDrafted": 38,
+  "candidatesDrafted": 73,
   "questions": [
     {
       "id": 9315,
@@ -1293,6 +1293,1196 @@
       "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
       "sourceName": "NCERT — Mathematics textbook resources",
       "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9353,
+      "cat": "History",
+      "topic": "Permanent Settlement — 1793",
+      "q": "The Permanent Settlement of Bengal, introduced in 1793, is most closely associated with which Governor-General?",
+      "o": [
+        "Warren Hastings",
+        "Lord Cornwallis",
+        "Lord Wellesley",
+        "Lord William Bentinck"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Permanent Settlement was introduced under Lord Cornwallis in 1793. It fixed the land-revenue demand payable by zamindars to the East India Company, subject to the settlement's terms. It is distinct from later revenue arrangements that assessed cultivators or villages differently.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Permanent Settlement — 1793",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Our Pasts III, Ruling the Countryside.",
+      "sourceName": "NCERT — Our Pasts III, Ruling the Countryside",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/hess203.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9354,
+      "cat": "History",
+      "topic": "Mahalwari system — revenue unit",
+      "q": "Under the Mahalwari revenue arrangement, the unit with which the revenue settlement was made was generally the:",
+      "o": [
+        "Individual artisan",
+        "Village estate or mahal",
+        "European indigo factory",
+        "Presidency town"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The term 'mahal' referred to a village estate or revenue unit. Under the Mahalwari system, the revenue demand was assessed with reference to the village or mahal, with responsibility shared through its recognised proprietors. This differs from the Permanent Settlement's zamindari arrangement and the Ryotwari system's direct settlement with cultivators.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Mahalwari system — revenue unit",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Our Pasts III, Ruling the Countryside.",
+      "sourceName": "NCERT — Our Pasts III, Ruling the Countryside",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/hess203.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9355,
+      "cat": "History",
+      "topic": "Ryotwari system — direct settlement",
+      "q": "Which feature best distinguishes the Ryotwari system from the Permanent Settlement?",
+      "o": [
+        "Revenue was settled directly with individual cultivators or ryots",
+        "Revenue was permanently fixed with zamindars as a class",
+        "Revenue was collected only through village headmen in every region",
+        "Cultivators paid no land revenue"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Under the Ryotwari system, the colonial state made the revenue settlement directly with individual cultivators, called ryots. The Permanent Settlement instead recognised zamindars as the intermediaries responsible for paying the fixed revenue demand. The systems differed in the recognised revenue-paying unit and the relationship between the state and cultivators.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Ryotwari system — direct settlement",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Our Pasts III, Ruling the Countryside.",
+      "sourceName": "NCERT — Our Pasts III, Ruling the Countryside",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/hess203.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9356,
+      "cat": "History",
+      "topic": "Indigo cultivation — ryoti system",
+      "q": "In the indigo-growing system described by NCERT, what did 'ryoti' cultivation mean?",
+      "o": [
+        "Indigo grown on land owned and directly cultivated by the planter",
+        "Indigo grown by ryots on their own fields under contracts with planters",
+        "Indigo cultivated only on government-owned experimental farms",
+        "Indigo grown exclusively in forest clearings by tribal communities"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "In ryoti cultivation, the planter contracted with peasants or ryots, often advancing money and requiring them to grow indigo on their own fields. It differed from nij cultivation, in which planters grew indigo on land under their direct control. The distinction helps explain the pressure placed on cultivators.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Indigo cultivation — ryoti system",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Our Pasts III, Ruling the Countryside.",
+      "sourceName": "NCERT — Our Pasts III, Ruling the Countryside",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/hess203.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9357,
+      "cat": "History",
+      "topic": "Champaran movement — 1917",
+      "q": "Mahatma Gandhi's visit to Champaran in 1917 was connected primarily with the grievances of:",
+      "o": [
+        "Indigo cultivators against European planters",
+        "Mill workers demanding an eight-hour day",
+        "Forest communities resisting railway construction",
+        "Soldiers protesting a new military uniform"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Champaran movement arose from the plight of indigo cultivators in Bihar under the planters' system. NCERT records that Gandhi's visit in 1917 marked the beginning of the movement against the indigo planters. It is an early example of Gandhi's use of investigation, public mobilisation and non-violent resistance in India.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Champaran movement — 1917",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Our Pasts III, Ruling the Countryside.",
+      "sourceName": "NCERT — Our Pasts III, Ruling the Countryside",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/hess203.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9358,
+      "cat": "History",
+      "topic": "Santhal rebellion — leadership",
+      "q": "The Santhal rebellion of 1855–56 is especially associated with the leadership of:",
+      "o": [
+        "Birsa Munda and Jatra Bhagat",
+        "Sidhu and Kanhu",
+        "Tantia Tope and Nana Saheb",
+        "Kunwar Singh and Bakht Khan"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Santhal uprising of 1855–56 was led prominently by Sidhu and Kanhu, with other members of the Murmu family and supporters. It was directed against oppressive moneylenders, zamindars and colonial authority. The names should not be confused with Birsa Munda, whose movement arose later in the nineteenth century.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Santhal rebellion — leadership",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Our Pasts III, Tribals, Dikus and the Vision of a Golden Age.",
+      "sourceName": "NCERT — Our Pasts III, Tribals, Dikus and the Vision of a Golden Age",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/hess204.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9359,
+      "cat": "History",
+      "topic": "Bardoli Satyagraha — 1928",
+      "q": "The Bardoli Satyagraha of 1928, led against an increase in land revenue, is closely associated with which leader?",
+      "o": [
+        "Jawaharlal Nehru",
+        "Vallabhbhai Patel",
+        "C. Rajagopalachari",
+        "Subhas Chandra Bose"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Vallabhbhai Patel led the Bardoli peasants' campaign in Gujarat against the enhanced land-revenue assessment. The movement's success strengthened his public leadership, and the title 'Sardar' became associated with him. The question concerns the leader, not the separate Champaran or Kheda campaigns.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Bardoli Satyagraha — 1928",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Indian National Movement learning resources.",
+      "sourceName": "NCERT — Indian National Movement learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/hess208.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9360,
+      "cat": "History",
+      "topic": "Lahore Congress — Purna Swaraj",
+      "q": "At the Lahore session of the Indian National Congress in December 1929, the Congress adopted which objective?",
+      "o": [
+        "Dominion status within the British Empire",
+        "Purna Swaraj or complete independence",
+        "Separate electorates for all communities",
+        "Immediate acceptance of the Cabinet Mission Plan"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Lahore session of December 1929, presided over by Jawaharlal Nehru, adopted Purna Swaraj as the Congress objective. The Congress called for 26 January 1930 to be observed as Independence Day. This marked a shift from the earlier demand for dominion status to the goal of complete independence.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "History",
+        "Lahore Congress — Purna Swaraj",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Indian National Movement learning resources.",
+      "sourceName": "NCERT — Indian National Movement learning resources",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/hess208.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9361,
+      "cat": "Geography",
+      "topic": "Coriolis effect — hemispheric deflection",
+      "q": "Because of Earth's rotation, a freely moving large-scale air current is deflected generally in which direction in the Northern Hemisphere?",
+      "o": [
+        "To the left of its direction of motion",
+        "To the right of its direction of motion",
+        "Directly towards the equator",
+        "It is never deflected"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Coriolis effect causes moving air and water to be deflected to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. It arises from Earth's rotation and is zero at the equator in the idealised horizontal-motion description. It influences winds and ocean currents.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Coriolis effect — hemispheric deflection",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography.",
+      "sourceName": "NCERT — Fundamentals of Physical Geography",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/kegy201.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9362,
+      "cat": "Geography",
+      "topic": "Inter-Tropical Convergence Zone",
+      "q": "The Inter-Tropical Convergence Zone (ITCZ) is characterised mainly by the:",
+      "o": [
+        "Convergence of the north-east and south-east trade winds near the equatorial low-pressure belt",
+        "Divergence of polar easterlies at the poles",
+        "Meeting of warm and cold ocean currents",
+        "Descent of dry air over subtropical high-pressure belts"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The ITCZ is a low-pressure belt near the thermal equator where the trade winds from the two hemispheres converge. Strong heating and rising moist air favour cloud formation and rainfall. Its seasonal north–south migration is an important part of the monsoon system.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Inter-Tropical Convergence Zone",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography.",
+      "sourceName": "NCERT — Fundamentals of Physical Geography",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/kegy201.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9363,
+      "cat": "Geography",
+      "topic": "Isohyets — rainfall mapping",
+      "q": "On a weather map, an isohyet joins places that receive equal:",
+      "o": [
+        "Air pressure",
+        "Temperature",
+        "Rainfall",
+        "Wind speed"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "An isohyet is a line joining locations with equal rainfall over a specified period. By contrast, isobars join equal atmospheric pressure and isotherms join equal temperature. Isohyets help geographers and planners map the spatial distribution of precipitation.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Isohyets — rainfall mapping",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography.",
+      "sourceName": "NCERT — Fundamentals of Physical Geography",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/kegy201.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9364,
+      "cat": "Geography",
+      "topic": "Soil profile — O horizon",
+      "q": "In a soil profile, the O horizon is primarily associated with:",
+      "o": [
+        "Fresh and decomposing organic litter",
+        "Accumulation of clay washed down from upper layers",
+        "Unweathered parent rock",
+        "A layer of permanently frozen groundwater"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The O horizon is the surface organic layer containing leaf litter and decomposing organic matter. Below it, the A horizon is commonly mineral topsoil mixed with humus, while the B horizon often receives materials leached from upper layers. Recognising the horizons helps interpret soil development.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Soil profile — O horizon",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography.",
+      "sourceName": "NCERT — Fundamentals of Physical Geography",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/kegy201.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9365,
+      "cat": "Geography",
+      "topic": "Mercator projection — distortion",
+      "q": "A Mercator map is useful for navigation because it preserves local angles and directions, but what important distortion increases towards the poles?",
+      "o": [
+        "Areas are increasingly enlarged",
+        "All longitudes become parallel",
+        "The equator is shown as a point",
+        "Distances along every route become exact"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Mercator projection is conformal: it preserves local angles and makes constant-bearing routes appear as straight lines. However, its scale increases with latitude, greatly enlarging areas near the poles. Greenland therefore appears much larger relative to equatorial regions than its true area warrants.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Mercator projection — distortion",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography.",
+      "sourceName": "NCERT — Fundamentals of Physical Geography",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/kegy201.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9366,
+      "cat": "Geography",
+      "topic": "Doldrums — equatorial calm belt",
+      "q": "The term 'doldrums' traditionally refers to the:",
+      "o": [
+        "Subtropical belt of descending dry air",
+        "Equatorial low-pressure belt with weak and variable surface winds",
+        "Strong westerlies between 40° and 60° latitude",
+        "Polar high-pressure belt"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The doldrums are associated with the equatorial low-pressure belt, where intense heating causes air to rise and surface winds may be weak or variable. The region is also associated with the Inter-Tropical Convergence Zone. It is different from the subtropical high-pressure belts, often called horse latitudes.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Doldrums — equatorial calm belt",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography.",
+      "sourceName": "NCERT — Fundamentals of Physical Geography",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/kegy201.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9367,
+      "cat": "Geography",
+      "topic": "Continentality — annual temperature range",
+      "q": "Other factors being comparable, why do inland locations often experience a larger annual temperature range than coastal locations?",
+      "o": [
+        "Land heats and cools more rapidly than the sea",
+        "Land has a higher specific heat capacity than water",
+        "Ocean currents stop all seasonal temperature change",
+        "Coastal air contains no water vapour"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Land generally heats and cools more rapidly than water. The sea moderates nearby temperatures because water has a higher specific heat capacity and ocean mixing distributes heat. Far inland, this maritime influence weakens, so summers may be hotter and winters colder, producing a larger annual temperature range.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Continentality — annual temperature range",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography.",
+      "sourceName": "NCERT — Fundamentals of Physical Geography",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/kegy201.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9368,
+      "cat": "Geography",
+      "topic": "Fjord — glacial landform",
+      "q": "A fjord is best described as:",
+      "o": [
+        "A crescent-shaped sand dune",
+        "A deep, narrow glacial valley flooded by seawater",
+        "A river island formed by deposition",
+        "A limestone cave with underground streams"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A fjord is a deep, narrow inlet formed when a glacially carved valley is flooded by the sea. Its steep sides reflect the erosional work of a glacier. Fjords are common along formerly glaciated high-latitude coasts, especially in Norway and parts of New Zealand and Chile.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Geography",
+        "Fjord — glacial landform",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Fundamentals of Physical Geography.",
+      "sourceName": "NCERT — Fundamentals of Physical Geography",
+      "sourceURL": "https://ncert.nic.in/textbook/pdf/kegy201.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9369,
+      "cat": "Economy",
+      "topic": "Gross Value Added — calculation concept",
+      "q": "At the level of a producing unit, Gross Value Added (GVA) is calculated as:",
+      "o": [
+        "Value of output minus intermediate consumption",
+        "Value of output plus intermediate consumption",
+        "Intermediate consumption minus wages",
+        "Gross fixed capital formation minus depreciation"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "GVA measures the value created by a producer. It is calculated as the value of output minus the value of intermediate goods and services consumed in production. This prevents the same intermediate input from being counted again at each stage of the production chain.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Gross Value Added — calculation concept",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Statistics for Economics.",
+      "sourceName": "NCERT — Statistics for Economics",
+      "sourceURL": "https://ncert.nic.in/textbook.php?kest1=0-9",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9370,
+      "cat": "Economy",
+      "topic": "Primary deficit — formula",
+      "q": "A government has a fiscal deficit of ₹8 lakh crore and pays ₹3 lakh crore as interest on past debt. What is its primary deficit?",
+      "o": [
+        "₹3 lakh crore",
+        "₹5 lakh crore",
+        "₹8 lakh crore",
+        "₹11 lakh crore"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Primary deficit equals fiscal deficit minus interest payments. Therefore ₹8 lakh crore − ₹3 lakh crore = ₹5 lakh crore. The measure shows the current borrowing requirement after excluding interest payments arising from accumulated past debt.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Primary deficit — formula",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Union Budget — Budget at a Glance and fiscal indicators.",
+      "sourceName": "Union Budget — Budget at a Glance and fiscal indicators",
+      "sourceURL": "https://www.indiabudget.gov.in/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9371,
+      "cat": "Economy",
+      "topic": "Capital expenditure — public finance",
+      "q": "Which government expenditure is most clearly classified as capital expenditure?",
+      "o": [
+        "Payment of monthly salaries to staff",
+        "Purchase of routine office stationery",
+        "Construction of a new public bridge",
+        "Payment of electricity bills"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Capital expenditure generally creates assets or reduces liabilities. Building a public bridge creates a durable public asset, so it is capital expenditure. Salaries, stationery and electricity bills are ordinarily revenue expenditure because they meet recurring operating costs rather than directly creating a new asset.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Capital expenditure — public finance",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Union Budget — Budget at a Glance and expenditure classification.",
+      "sourceName": "Union Budget — Budget at a Glance and expenditure classification",
+      "sourceURL": "https://www.indiabudget.gov.in/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9372,
+      "cat": "Economy",
+      "topic": "Disinvestment — receipt classification",
+      "q": "Proceeds received by the Union Government from selling part of its equity holding in a public sector enterprise are ordinarily classified as:",
+      "o": [
+        "Revenue tax receipts",
+        "Non-debt capital receipts",
+        "Interest receipts",
+        "Borrowings"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Disinvestment proceeds are classified as non-debt capital receipts. They provide funds through the sale of government assets or equity holdings and do not create a repayment obligation in the way borrowings do. They are therefore distinct from both tax revenue and debt-creating receipts.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Disinvestment — receipt classification",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Union Budget — Receipts Budget.",
+      "sourceName": "Union Budget — Receipts Budget",
+      "sourceURL": "https://www.indiabudget.gov.in/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9373,
+      "cat": "Economy",
+      "topic": "Crowding-out effect — borrowing",
+      "q": "In a simplified economy, a sharp increase in government borrowing may raise interest rates and reduce private investment. This effect is known as:",
+      "o": [
+        "Crowding in",
+        "Crowding out",
+        "Deflation",
+        "Disintermediation"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The crowding-out effect describes how increased government borrowing may put upward pressure on interest rates or absorb available loanable funds, leaving less finance for private investment. The strength of the effect depends on economic conditions, monetary policy and the availability of savings; it is not inevitable in every situation.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Crowding-out effect — borrowing",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Introductory Macroeconomics and public finance concepts.",
+      "sourceName": "NCERT — Introductory Macroeconomics and public finance concepts",
+      "sourceURL": "https://ncert.nic.in/textbook.php?kest1=0-9",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9374,
+      "cat": "Economy",
+      "topic": "Automatic stabilisers — fiscal policy",
+      "q": "Which example best illustrates an automatic stabiliser in a modern tax-and-transfer system?",
+      "o": [
+        "Parliament votes on a new road project every month",
+        "Income-tax collections fall automatically when taxable incomes decline during a downturn",
+        "The central bank announces a new policy rate after every election",
+        "A government sells a public enterprise to finance a festival"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "An automatic stabiliser changes government revenue or expenditure without a new discretionary policy decision. When incomes fall, progressive income-tax collections usually decline automatically, cushioning disposable income. Some transfer payments may also rise as eligibility increases. This helps moderate economic fluctuations.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Automatic stabilisers — fiscal policy",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Introductory Macroeconomics and public finance concepts.",
+      "sourceName": "NCERT — Introductory Macroeconomics and public finance concepts",
+      "sourceURL": "https://ncert.nic.in/textbook.php?kest1=0-9",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9375,
+      "cat": "Economy",
+      "topic": "Terms of trade — index",
+      "q": "If an export price index is 120 and an import price index is 100, what is the terms-of-trade index using export prices divided by import prices and multiplied by 100?",
+      "o": [
+        "80",
+        "100",
+        "120",
+        "220"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The terms-of-trade index is (export price index ÷ import price index) × 100. Substituting the values gives (120 ÷ 100) × 100 = 120. A rise in this index means export prices have increased relative to import prices, other things being equal.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Terms of trade — index",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Introductory Macroeconomics and international trade concepts.",
+      "sourceName": "NCERT — Introductory Macroeconomics and international trade concepts",
+      "sourceURL": "https://ncert.nic.in/textbook.php?kest1=0-9",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9376,
+      "cat": "Economy",
+      "topic": "Multiplier — autonomous expenditure",
+      "q": "In a simple Keynesian model, if the marginal propensity to consume is 0.8 and there are no taxes or imports, what is the simple expenditure multiplier?",
+      "o": [
+        "2",
+        "4",
+        "5",
+        "8"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The simple multiplier is 1/(1−MPC). With MPC = 0.8, the multiplier is 1/0.2 = 5. An initial increase in autonomous expenditure can therefore produce a larger total change in equilibrium income as the spending circulates through successive rounds. The result assumes the simplified model stated in the question.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Multiplier — autonomous expenditure",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Introductory Macroeconomics.",
+      "sourceName": "NCERT — Introductory Macroeconomics",
+      "sourceURL": "https://ncert.nic.in/textbook.php?leem1=0-6",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9377,
+      "cat": "Economy",
+      "topic": "Revenue expenditure — classification",
+      "q": "Which of the following is ordinarily revenue expenditure rather than capital expenditure for a government department?",
+      "o": [
+        "Construction of a new hospital building",
+        "Purchase of a new bridge",
+        "Routine annual maintenance of office equipment",
+        "Acquisition of land for a public project"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Routine annual maintenance of office equipment is generally revenue expenditure because it meets recurring operating costs and does not normally create a new asset. Construction of a hospital, a bridge or acquisition of land for a public project is ordinarily treated as capital expenditure under government budget classification.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Revenue expenditure — classification",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Union Budget — Budget at a Glance and expenditure classification.",
+      "sourceName": "Union Budget — Budget at a Glance and expenditure classification",
+      "sourceURL": "https://www.indiabudget.gov.in/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9378,
+      "cat": "Science",
+      "topic": "Endocrine system — insulin secretion",
+      "q": "Which cells are the principal source of insulin in the human pancreas?",
+      "o": [
+        "Alpha cells of the islets of Langerhans",
+        "Beta cells of the islets of Langerhans",
+        "Acinar cells of the pancreas",
+        "Delta cells of the islets of Langerhans"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Insulin is secreted by the beta cells of the pancreatic islets of Langerhans. It helps lower blood glucose by promoting glucose uptake and storage in responsive tissues. Alpha cells mainly secrete glucagon, which raises blood glucose. The distinction is important in understanding endocrine regulation of metabolism.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Endocrine system — insulin secretion",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Biology textbooks.",
+      "sourceName": "NCERT — Science and Biology textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9379,
+      "cat": "Science",
+      "topic": "Respiration — alveolar gas exchange",
+      "q": "In the human respiratory system, the exchange of oxygen and carbon dioxide between air and blood occurs mainly across the walls of the:",
+      "o": [
+        "Trachea",
+        "Bronchi",
+        "Alveoli",
+        "Larynx"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Alveoli are tiny air sacs surrounded by dense networks of capillaries. Their thin, moist walls and large combined surface area allow oxygen to diffuse into the blood and carbon dioxide to diffuse from the blood into the alveolar air. The trachea and bronchi mainly conduct air.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Respiration — alveolar gas exchange",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Biology textbooks.",
+      "sourceName": "NCERT — Science and Biology textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9380,
+      "cat": "Science",
+      "topic": "Blood — haemoglobin function",
+      "q": "The oxygen-carrying capacity of red blood cells depends mainly on haemoglobin, whose oxygen-binding component contains which element?",
+      "o": [
+        "Calcium",
+        "Iron",
+        "Sodium",
+        "Iodine"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Haemoglobin contains heme groups with iron at their centre. Oxygen binds reversibly to the iron-containing heme, allowing red blood cells to transport oxygen from the lungs to body tissues. Iron deficiency can reduce haemoglobin production and contribute to anaemia.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Blood — haemoglobin function",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Biology textbooks.",
+      "sourceName": "NCERT — Science and Biology textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9381,
+      "cat": "Science",
+      "topic": "Redox chemistry — oxidation",
+      "q": "In terms of electron transfer, oxidation is defined as:",
+      "o": [
+        "Gain of electrons",
+        "Loss of electrons",
+        "Gain of neutrons",
+        "Loss of protons from the nucleus"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Oxidation is loss of electrons, while reduction is gain of electrons. The two processes occur together in a redox reaction because electrons lost by one species are gained by another. The mnemonic OIL RIG—Oxidation Is Loss, Reduction Is Gain—helps remember the definitions.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Redox chemistry — oxidation",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Chemistry textbooks.",
+      "sourceName": "NCERT — Science and Chemistry textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9382,
+      "cat": "Science",
+      "topic": "pH scale — logarithmic comparison",
+      "q": "At the same temperature, a solution of pH 3 has how many times the hydrogen-ion concentration of a solution of pH 5?",
+      "o": [
+        "2 times",
+        "10 times",
+        "100 times",
+        "1,000 times"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The pH scale is logarithmic: a decrease of one pH unit represents a tenfold increase in hydrogen-ion concentration. A difference of two units therefore represents 10 × 10 = 100 times. Thus the pH 3 solution has 100 times the hydrogen-ion concentration of the pH 5 solution.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "pH scale — logarithmic comparison",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Chemistry textbooks.",
+      "sourceName": "NCERT — Science and Chemistry textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9383,
+      "cat": "Science",
+      "topic": "Latent heat — fusion",
+      "q": "When pure ice at its melting point changes into liquid water at the same temperature, the heat absorbed is called:",
+      "o": [
+        "Specific heat capacity",
+        "Latent heat of fusion",
+        "Latent heat of vaporisation",
+        "Heat of combustion"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Latent heat of fusion is the heat required to change a unit mass of a substance from solid to liquid at its melting point without a change in temperature. The supplied energy changes the state by overcoming intermolecular forces rather than raising the temperature.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Latent heat — fusion",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Physics textbooks.",
+      "sourceName": "NCERT — Science and Physics textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9384,
+      "cat": "Science",
+      "topic": "Newton's third law — interaction forces",
+      "q": "When a swimmer pushes water backward and moves forward, which law best explains the forward motion?",
+      "o": [
+        "Newton's first law",
+        "Newton's second law only",
+        "Newton's third law",
+        "Law of conservation of electric charge"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Newton's third law states that for every action there is an equal and opposite reaction. The swimmer pushes water backward; the water exerts an equal and opposite force on the swimmer, pushing the swimmer forward. The action and reaction forces act on different bodies, so they do not cancel each other on one body.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Newton's third law — interaction forces",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Physics textbooks.",
+      "sourceName": "NCERT — Science and Physics textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9385,
+      "cat": "Science",
+      "topic": "Pressure — force and area",
+      "q": "A force of 100 newtons acts normally on an area of 0.5 square metre. What pressure is produced?",
+      "o": [
+        "50 Pa",
+        "100 Pa",
+        "200 Pa",
+        "500 Pa"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Pressure is force divided by the area over which it acts: P = F/A. Here P = 100 ÷ 0.5 = 200 pascals. For the same force, reducing the contact area increases pressure; this explains why a sharp blade cuts more easily than a blunt one.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Pressure — force and area",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Physics textbooks.",
+      "sourceName": "NCERT — Science and Physics textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9386,
+      "cat": "Science",
+      "topic": "Conservation of mass — closed system",
+      "q": "In a chemical reaction carried out in a sealed container, which statement expresses the law of conservation of mass?",
+      "o": [
+        "The mass of products is always greater than reactants",
+        "The total mass of reactants equals the total mass of products",
+        "Mass disappears when a gas is formed",
+        "Only the mass of solid substances is conserved"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The law of conservation of mass states that matter is neither created nor destroyed in a chemical reaction. In a closed system, the total mass before reaction equals the total mass after reaction. If a gas escapes from an open vessel, the measured mass may appear to decrease, but the total matter is still conserved.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Conservation of mass — closed system",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Chemistry textbooks.",
+      "sourceName": "NCERT — Science and Chemistry textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jesc1=0-16",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9387,
+      "cat": "Science",
+      "topic": "Periodic table — group and period",
+      "q": "In the modern periodic table, a vertical column is called a:",
+      "o": [
+        "Period",
+        "Group",
+        "Block",
+        "Series"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A vertical column in the modern periodic table is a group, while a horizontal row is a period. Elements in the same group often show similar chemical properties because of related valence-electron configurations. The terms should not be interchanged when reading periodic trends.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Science",
+        "Periodic table — group and period",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Science and Chemistry textbooks.",
+      "sourceName": "NCERT — Science and Chemistry textbooks",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jesc1=0-16",
       "sourceVerifiedDate": "2026-11-23",
       "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
     }
