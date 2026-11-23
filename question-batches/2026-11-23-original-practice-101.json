@@ -1,0 +1,3446 @@
+{
+  "schemaVersion": 1,
+  "batchId": "mpsc-original-practice-2026-11-23-main",
+  "title": "MPSC Smart Study Hub — Original Practice Batch 23 November 2026",
+  "date": "2026-11-23",
+  "label": "Original Practice",
+  "officialPYQ": false,
+  "targetContribution": 101,
+  "draftedCandidates": 101,
+  "questions": [
+    {
+      "id": 9324,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 59 — self-assessment",
+      "q": "A registered supplier prepares the tax payable for a tax period and furnishes the return without waiting for an officer to calculate the amount. Which statutory mechanism is being used?",
+      "o": [
+        "Self-assessment under Section 59",
+        "Provisional assessment under Section 60",
+        "Summary assessment under Section 64",
+        "Assessment of a non-filer under Section 62"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 59 places the first responsibility on the registered person: the person self-assesses tax payable and furnishes the return for each tax period under Section 39. It is not an officer-led provisional or summary assessment.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on India Code — Central Goods and Services Tax Act, 2017, consolidated text.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, consolidated text",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 59 — self-assessment",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9325,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 60 — provisional assessment",
+      "q": "A taxable person cannot determine the value of a supply with certainty, but can identify the supply and wants to pay tax provisionally. What should the person do under the CGST Act?",
+      "o": [
+        "Apply in writing to the proper officer for provisional assessment",
+        "Wait until the annual return is filed",
+        "Pay tax at a rate chosen permanently by the supplier",
+        "Seek an advance ruling on every invoice"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 60 permits provisional assessment where the taxable person is unable to determine the value of supply or the applicable rate of tax. The person makes a written request to the proper officer; provisional assessment is not a substitute for ordinary self-assessment in every case.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on India Code — Central Goods and Services Tax Act, 2017, consolidated text.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, consolidated text",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 60 — provisional assessment",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9326,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 95 — meaning of advance ruling",
+      "q": "A registered business asks the Authority for Advance Ruling how a specified GST provision applies to a supply it proposes to undertake. Which description best fits an advance ruling under Section 95?",
+      "o": [
+        "A decision on specified statutory questions relating to a supply undertaken or proposed by the applicant",
+        "A general circular binding every taxpayer in India",
+        "A final assessment order for all past tax periods",
+        "A private opinion issued by the applicant's auditor"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 95 defines an advance ruling as a decision by the Authority or Appellate Authority on questions specified in Section 97(2) or Section 100(1), in relation to a supply being undertaken or proposed by the applicant. The link to the applicant's own supply is important.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on India Code — Central Goods and Services Tax Act, 2017, consolidated text.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, consolidated text",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 95 — meaning of advance ruling",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9327,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 97(2) — scope of advance ruling",
+      "q": "Which of the following is expressly a matter on which an applicant may seek an advance ruling under Section 97(2) of the CGST Act?",
+      "o": [
+        "Admissibility of input tax credit of tax paid or deemed to have been paid",
+        "Whether a particular officer should be transferred",
+        "Whether a taxpayer should receive a bank loan",
+        "Whether a criminal complaint should be withdrawn"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 97(2) expressly includes admissibility of input tax credit among the listed questions. The other choices concern personnel, banking or criminal administration and are not GST advance-ruling subjects under this provision.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on India Code — Central Goods and Services Tax Act, 2017, consolidated text.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, consolidated text",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 97(2) — scope of advance ruling",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9328,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 103 — persons bound by an advance ruling",
+      "q": "A State Authority for Advance Ruling gives a ruling to Company A. Another unrelated company in the same State carries on a similar business. Under Section 103(1), who is ordinarily bound by that ruling?",
+      "o": [
+        "Company A and the concerned or jurisdictional officer in respect of Company A",
+        "Every registered person in the State",
+        "Every GST officer in India for all taxpayers",
+        "Only the accountant who filed the application"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Under Section 103(1), a ruling of the Authority or Appellate Authority binds the applicant who sought it and the concerned or jurisdictional officer in respect of that applicant. It is not automatically a universal precedent for every unrelated taxpayer; the Act also recognises that changed law, facts or circumstances affect binding force.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on India Code — Central Goods and Services Tax Act, 2017, consolidated text.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, consolidated text",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 103 — persons bound by an advance ruling",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9329,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CGST Section 70 — summons",
+      "q": "A proper officer issues a summons requiring a person to attend and give evidence and produce specified records in a GST inquiry. Which provision directly authorises this action?",
+      "o": [
+        "Section 70",
+        "Section 59",
+        "Section 95",
+        "Section 107"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 70 gives the proper officer power to summon a person whose attendance is considered necessary to give evidence or produce a document or other thing. The provision concerns inquiry powers, not self-assessment, advance rulings or appeals.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on India Code — Central Goods and Services Tax Act, 2017, consolidated text.",
+      "sourceName": "India Code — Central Goods and Services Tax Act, 2017, consolidated text",
+      "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CGST Section 70 — summons",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9330,
+      "cat": "Polity",
+      "topic": "Article 110 — Money Bill",
+      "q": "A Bill contains only provisions dealing with taxation, government borrowing and appropriation from the Consolidated Fund of India. Who has the constitutional authority to certify whether it is a Money Bill?",
+      "o": [
+        "Speaker of the Lok Sabha",
+        "Chairperson of the Rajya Sabha",
+        "President of India",
+        "Union Finance Secretary"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 110(3) provides that if a question arises whether a Bill is a Money Bill, the decision of the Speaker of the Lok Sabha is final. The certification is a constitutional function of the Speaker, not of the Rajya Sabha Chairperson or a ministry official.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Legislative Department, Government of India — Constitution of India.",
+      "sourceName": "Legislative Department, Government of India — Constitution of India",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Polity",
+        "Article 110 — Money Bill",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9331,
+      "cat": "Polity",
+      "topic": "Article 112 — Annual Financial Statement",
+      "q": "The Union Government presents a statement showing estimated receipts and expenditure for a financial year before Parliament. Under which Article is this Annual Financial Statement provided?",
+      "o": [
+        "Article 112",
+        "Article 110",
+        "Article 123",
+        "Article 280"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 112 requires the President to cause the Annual Financial Statement to be laid before both Houses of Parliament for each financial year. It is the constitutional basis of the Union Budget statement; Article 110 defines a Money Bill and Article 280 concerns the Finance Commission.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Legislative Department, Government of India — Constitution of India.",
+      "sourceName": "Legislative Department, Government of India — Constitution of India",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Polity",
+        "Article 112 — Annual Financial Statement",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9332,
+      "cat": "Polity",
+      "topic": "Article 123 — President's Ordinance",
+      "q": "Parliament is not in session and immediate legislative action is considered necessary. Which constitutional power may the President exercise, subject to the conditions in Article 123?",
+      "o": [
+        "Promulgate an Ordinance",
+        "Dissolve every State Legislative Assembly",
+        "Appoint a Finance Commission",
+        "Certify a State Money Bill"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 123 empowers the President to promulgate an Ordinance when both Houses of Parliament are not in session and immediate action is necessary. An Ordinance has the force of law but must be laid before Parliament and ordinarily ceases six weeks after Parliament reassembles unless the required legislative action is taken.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Legislative Department, Government of India — Constitution of India.",
+      "sourceName": "Legislative Department, Government of India — Constitution of India",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Polity",
+        "Article 123 — President's Ordinance",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9333,
+      "cat": "Polity",
+      "topic": "Article 200 — Governor's action on State Bills",
+      "q": "A non-Money Bill passed by a State Legislature is presented to the Governor. Which action is expressly available under Article 200?",
+      "o": [
+        "Reserve the Bill for the consideration of the President",
+        "Certify it as a Money Bill of Parliament",
+        "Refer it to the Election Commission for approval",
+        "Convert it into an Ordinance automatically"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 200 sets out the Governor's options when a State Bill is presented: assent, withhold assent, reserve it for the President, or return a Bill other than a Money Bill for reconsideration. The Governor does not certify Union Money Bills or refer Bills to the Election Commission.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Legislative Department, Government of India — Constitution of India.",
+      "sourceName": "Legislative Department, Government of India — Constitution of India",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Polity",
+        "Article 200 — Governor's action on State Bills",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9334,
+      "cat": "Polity",
+      "topic": "Article 280 — Finance Commission",
+      "q": "Which constitutional body recommends the distribution of certain tax revenues between the Union and the States?",
+      "o": [
+        "Finance Commission",
+        "Election Commission",
+        "Union Public Service Commission",
+        "National Commission for Scheduled Tribes"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 280 provides for a Finance Commission constituted by the President, ordinarily every five years or earlier if necessary. Its recommendations include the distribution of specified tax proceeds and grants-in-aid; it is distinct from the Election Commission and UPSC.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Legislative Department, Government of India — Constitution of India.",
+      "sourceName": "Legislative Department, Government of India — Constitution of India",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Polity",
+        "Article 280 — Finance Commission",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9335,
+      "cat": "Polity",
+      "topic": "Article 148 — Comptroller and Auditor-General",
+      "q": "Under the Constitution, who appoints the Comptroller and Auditor-General of India?",
+      "o": [
+        "The President of India",
+        "The Prime Minister personally",
+        "The Speaker of the Lok Sabha",
+        "The Chief Justice of India"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 148 provides for the CAG to be appointed by the President by warrant under his hand and seal. The CAG's independence is protected by constitutional provisions governing tenure, removal and post-office restrictions.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Legislative Department, Government of India — Constitution of India.",
+      "sourceName": "Legislative Department, Government of India — Constitution of India",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Polity",
+        "Article 148 — Comptroller and Auditor-General",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9336,
+      "cat": "Polity",
+      "topic": "Article 300A — right to property",
+      "q": "A public authority takes a person's land without any legal authority. Which constitutional provision is most directly relevant to the rule that no person shall be deprived of property save by authority of law?",
+      "o": [
+        "Article 300A",
+        "Article 19(1)(a)",
+        "Article 21A",
+        "Article 32A"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 300A protects property by stating that no person shall be deprived of property save by authority of law. The right is a constitutional right, not one of the fundamental rights listed in Part III after the Forty-Fourth Amendment.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Legislative Department, Government of India — Constitution of India.",
+      "sourceName": "Legislative Department, Government of India — Constitution of India",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Polity",
+        "Article 300A — right to property",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9337,
+      "cat": "Polity",
+      "topic": "Article 324 — Election Commission",
+      "q": "Which institution has the constitutional superintendence, direction and control of elections to Parliament, State Legislatures, and the offices of President and Vice-President?",
+      "o": [
+        "Election Commission of India",
+        "Union Public Service Commission",
+        "Finance Commission",
+        "National Human Rights Commission"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 324 vests the superintendence, direction and control of the specified elections in the Election Commission. The UPSC conducts recruitment examinations, while the Finance Commission and NHRC perform different constitutional or statutory functions.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Legislative Department, Government of India — Constitution of India.",
+      "sourceName": "Legislative Department, Government of India — Constitution of India",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Polity",
+        "Article 324 — Election Commission",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9338,
+      "cat": "Polity",
+      "topic": "Article 164(2) — collective responsibility",
+      "q": "The Council of Ministers in a State is collectively responsible to which institution under Article 164(2)?",
+      "o": [
+        "The Legislative Assembly of the State",
+        "The Governor acting alone",
+        "The Rajya Sabha",
+        "The State High Court"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 164(2) states that the Council of Ministers is collectively responsible to the Legislative Assembly of the State. This is the basis of parliamentary accountability of the State ministry to the elected lower House.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Legislative Department, Government of India — Constitution of India.",
+      "sourceName": "Legislative Department, Government of India — Constitution of India",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Polity",
+        "Article 164(2) — collective responsibility",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9339,
+      "cat": "Polity",
+      "topic": "Article 167 — duties of Chief Minister",
+      "q": "A Governor asks for information about a decision taken by the State Council of Ministers. Which Article places duties on the Chief Minister to communicate such information to the Governor?",
+      "o": [
+        "Article 167",
+        "Article 148",
+        "Article 280",
+        "Article 324"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Article 167 sets out duties of the Chief Minister, including communicating decisions of the Council of Ministers relating to administration and legislative proposals, and furnishing information requested by the Governor. It supports the constitutional relationship between the Governor and the State ministry.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Legislative Department, Government of India — Constitution of India.",
+      "sourceName": "Legislative Department, Government of India — Constitution of India",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Polity",
+        "Article 167 — duties of Chief Minister",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9340,
+      "cat": "Meghalaya GK",
+      "topic": "Khasi sacred-grove terminology",
+      "q": "The Meghalaya Biodiversity Board describes sacred groves in the Khasi Hills by which general term?",
+      "o": [
+        "Khlaw Kyntang",
+        "Khloo Blai",
+        "Nokpante",
+        "A'king"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Meghalaya Biodiversity Board identifies Khlaw Kyntang, with related forms such as Law Kyntang and Law Lyngdoh, as general terms for sacred groves in the Khasi Hills. Khloo Blai is the corresponding term used in the Jaintia Hills; the other options refer to different cultural or land-use concepts.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Meghalaya Biodiversity Board — Sacred Groves.",
+      "sourceName": "Meghalaya Biodiversity Board — Sacred Groves",
+      "sourceURL": "https://megbiodiversity.nic.in/sacred-groves",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Meghalaya GK",
+        "Khasi sacred-grove terminology",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9341,
+      "cat": "Meghalaya GK",
+      "topic": "Jaintia sacred-grove terminology",
+      "q": "According to the Meghalaya Biodiversity Board, what is the general term for sacred groves in the Jaintia Hills?",
+      "o": [
+        "Khloo Blai",
+        "Khlaw Kyntang",
+        "Nokma",
+        "Raid"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Board states that sacred groves in the Jaintia Hills are generally called Khloo Blai, while Khlaw Kyntang or related forms are used in the Khasi Hills. Remember the regional distinction rather than treating the terms as interchangeable.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Meghalaya Biodiversity Board — Sacred Groves.",
+      "sourceName": "Meghalaya Biodiversity Board — Sacred Groves",
+      "sourceURL": "https://megbiodiversity.nic.in/sacred-groves",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Meghalaya GK",
+        "Jaintia sacred-grove terminology",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9342,
+      "cat": "Meghalaya GK",
+      "topic": "Sacred groves — ecosystem services",
+      "q": "A village protects a sacred grove on a steep catchment. Which combination of ecosystem services is specifically associated with Meghalaya's sacred groves by the Biodiversity Board?",
+      "o": [
+        "Erosion control, water-quality maintenance and support for the hydrological cycle",
+        "Only mineral extraction and commercial timber production",
+        "Only urban traffic regulation and flood-wall construction",
+        "Only artificial fertiliser production"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Meghalaya Biodiversity Board lists erosion control, soil conservation, maintenance of water quality and the hydrological cycle among the ecosystem services of sacred groves. These benefits arise from conserving vegetation and soil cover, not from commercial extraction.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Meghalaya Biodiversity Board — Sacred Groves.",
+      "sourceName": "Meghalaya Biodiversity Board — Sacred Groves",
+      "sourceURL": "https://megbiodiversity.nic.in/sacred-groves",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Meghalaya GK",
+        "Sacred groves — ecosystem services",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9343,
+      "cat": "Meghalaya GK",
+      "topic": "Biodiversity Management Committees — legal basis",
+      "q": "Under the Biological Diversity Act, 2002, which local institution is to be constituted by local bodies for biodiversity conservation and documentation?",
+      "o": [
+        "Biodiversity Management Committee",
+        "District Planning Committee",
+        "State Finance Commission",
+        "Gram Nyayalaya"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 41 of the Biological Diversity Act provides for local bodies to constitute Biodiversity Management Committees in their areas. A BMC promotes conservation, sustainable use and documentation of biological diversity and associated knowledge; it is not a planning or judicial body.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Meghalaya Biodiversity Board — Biodiversity Management Committees.",
+      "sourceName": "Meghalaya Biodiversity Board — Biodiversity Management Committees",
+      "sourceURL": "https://megbiodiversity.nic.in/biodiversity-management-committee",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Meghalaya GK",
+        "Biodiversity Management Committees — legal basis",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9344,
+      "cat": "Meghalaya GK",
+      "topic": "People's Biodiversity Register — purpose",
+      "q": "A Meghalaya village Biodiversity Management Committee prepares a People's Biodiversity Register. What should this register principally document?",
+      "o": [
+        "Local biological resources and associated traditional knowledge",
+        "Only the annual accounts of the village council",
+        "Only land titles and cadastral boundaries",
+        "Only the list of registered motor vehicles"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A People's Biodiversity Register records local biological resources and associated knowledge held by the community. It helps document biodiversity and traditional knowledge for local conservation and planning; it is not a revenue, land-record or vehicle register.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Meghalaya Biodiversity Board — Biodiversity Management Committees.",
+      "sourceName": "Meghalaya Biodiversity Board — Biodiversity Management Committees",
+      "sourceURL": "https://megbiodiversity.nic.in/biodiversity-management-committee",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Meghalaya GK",
+        "People's Biodiversity Register — purpose",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9345,
+      "cat": "Meghalaya GK",
+      "topic": "Behdienkhlam — meaning",
+      "q": "The Pnar (Jaintia) festival Behdienkhlam is commonly translated as which phrase?",
+      "o": [
+        "To drive away the plague",
+        "Dance of peaceful hearts",
+        "Festival of a thousand drums",
+        "House of the unmarried boys"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Meghalaya Tourism explains that Behdienkhlam means “to drive away the plague” in the Pnar language. It is associated with the Niamtre community and is celebrated after sowing to ward off disease, misfortune and evil spirits.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Meghalaya Tourism — Behdienkhlam Festival.",
+      "sourceName": "Meghalaya Tourism — Behdienkhlam Festival",
+      "sourceURL": "https://www.meghalayatourism.in/explore/about-meghalaya/dance-music/behdienkhlam/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Meghalaya GK",
+        "Behdienkhlam — meaning",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9346,
+      "cat": "Meghalaya GK",
+      "topic": "Shad Suk Mynsiem — cultural meaning",
+      "q": "Which meaning is given to the Khasi festival Shad Suk Mynsiem by Meghalaya Tourism?",
+      "o": [
+        "Dance of peaceful hearts",
+        "To drive away the plague",
+        "Festival of the hundred drums",
+        "Dance of the warriors"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Meghalaya Tourism translates Shad Suk Mynsiem as “the dance of peaceful hearts”. It is a Khasi agrarian celebration held after harvest and before the sowing season, so the name and agricultural timing are useful separate facts to remember.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Meghalaya Tourism — Shad Suk Mynsiem.",
+      "sourceName": "Meghalaya Tourism — Shad Suk Mynsiem",
+      "sourceURL": "https://www.meghalayatourism.in/explore/about-meghalaya/dance-music/shad-suk-mynsiem/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Meghalaya GK",
+        "Shad Suk Mynsiem — cultural meaning",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9347,
+      "cat": "Meghalaya GK",
+      "topic": "Laho Dance — Pnar cultural practice",
+      "q": "Which description best identifies the Laho Dance of the Pnar (Jaintia) community?",
+      "o": [
+        "A woman dances arm-in-arm with two men, and the dance is traditionally not accompanied by instruments",
+        "A solo masked dance performed only by monks with drums",
+        "A martial sword dance performed only by Khasi men",
+        "A harvest dance in which every performer carries a large Dama drum"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Meghalaya Tourism describes Laho as a Pnar social dance in which a woman dances between two men, holding their arms. The traditional form is not accompanied by instruments; a lead male recites couplets to maintain rhythm. This distinguishes it from the drummed Wangala performance.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Meghalaya Tourism — Official cultural traditions and festivals guide.",
+      "sourceName": "Meghalaya Tourism — Official cultural traditions and festivals guide",
+      "sourceURL": "https://www.meghalayatourism.in/meghalaya-mosaic/traditional-dance/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Meghalaya GK",
+        "Laho Dance — Pnar cultural practice",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9348,
+      "cat": "History",
+      "topic": "Government of India Act, 1919 — dyarchy",
+      "q": "The Government of India Act, 1919 introduced dyarchy in which part of British India's administration?",
+      "o": [
+        "Provincial governments",
+        "The Supreme Court",
+        "The village panchayats",
+        "The princely states' foreign affairs"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The 1919 Act introduced dyarchy at the provincial level by dividing provincial subjects into transferred and reserved categories. It did not create a Supreme Court or introduce dyarchy in village panchayats; this provincial arrangement was later replaced by the 1935 Act's provincial autonomy.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "History",
+        "Government of India Act, 1919 — dyarchy",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9349,
+      "cat": "History",
+      "topic": "Government of India Act, 1935 — provincial autonomy",
+      "q": "Which major constitutional change did the Government of India Act, 1935 introduce at the provincial level?",
+      "o": [
+        "Provincial autonomy",
+        "Dyarchy in provinces for the first time",
+        "Universal adult franchise for all Indians",
+        "A fully sovereign Constituent Assembly"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The 1935 Act ended dyarchy in the provinces and introduced provincial autonomy, with elected ministries responsible to provincial legislatures. Dyarchy was proposed at the Centre but never brought into operation; this distinction is frequently tested.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "History",
+        "Government of India Act, 1935 — provincial autonomy",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9350,
+      "cat": "History",
+      "topic": "Poona Pact, 1932",
+      "q": "What was the principal electoral arrangement agreed upon in the Poona Pact of 1932?",
+      "o": [
+        "Reserved seats for the Depressed Classes within joint electorates",
+        "Separate electorates for the Depressed Classes as originally proposed in the Communal Award",
+        "A separate sovereign state for the Depressed Classes",
+        "A universal adult franchise without reserved representation"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Poona Pact between B. R. Ambedkar and Mahatma Gandhi replaced the separate-electorate arrangement for the Depressed Classes with reserved seats in joint electorates. It concerned representation and electoral design, not territorial separation or universal adult franchise.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "History",
+        "Poona Pact, 1932",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9351,
+      "cat": "History",
+      "topic": "Cabinet Mission Plan, 1946",
+      "q": "Which body was central to the constitutional process proposed by the Cabinet Mission Plan of 1946?",
+      "o": [
+        "A Constituent Assembly to frame India's Constitution",
+        "A permanent British military council",
+        "A directly elected Supreme Court",
+        "A single provincial legislature for all India"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Cabinet Mission Plan proposed a Constituent Assembly to frame the Constitution and a Union with limited central subjects. The plan was a constitutional transfer-of-power framework, not a proposal for a military council or a court to draft the Constitution.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "History",
+        "Cabinet Mission Plan, 1946",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9352,
+      "cat": "History",
+      "topic": "Cripps Mission, 1942",
+      "q": "The Cripps Mission of 1942 offered which broad constitutional proposal after the Second World War?",
+      "o": [
+        "Dominion status for India after the war, subject to the proposed arrangements",
+        "Immediate complete independence before the war ended",
+        "A permanent restoration of Company rule",
+        "A merger of all princely states into Britain"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Cripps proposals offered dominion status after the war and envisaged a constitution-making process, while allowing provinces not to join the proposed Union. The offer was rejected by Indian political leaders; it did not grant immediate complete independence.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "History",
+        "Cripps Mission, 1942",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9353,
+      "cat": "History",
+      "topic": "Lucknow Pact, 1916",
+      "q": "The Lucknow Pact of 1916 is chiefly remembered as an agreement between which two political organisations?",
+      "o": [
+        "Indian National Congress and All-India Muslim League",
+        "Indian National Congress and the Communist Party of India",
+        "Muslim League and the Justice Party",
+        "Hindu Mahasabha and the Home Rule League"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Lucknow Pact was an agreement between the Indian National Congress and the All-India Muslim League on constitutional reforms and representation. It marked a period of cooperation between the two organisations, rather than an agreement involving later political parties.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "History",
+        "Lucknow Pact, 1916",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9354,
+      "cat": "History",
+      "topic": "Home Rule Leagues, 1916",
+      "q": "Which pair is most closely associated with launching the Home Rule League movement in India in 1916?",
+      "o": [
+        "Bal Gangadhar Tilak and Annie Besant",
+        "Dadabhai Naoroji and Gopal Krishna Gokhale",
+        "Subhas Chandra Bose and Jawaharlal Nehru",
+        "Sardar Patel and Rajendra Prasad"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Bal Gangadhar Tilak and Annie Besant led separate but related Home Rule Leagues in 1916, demanding self-government within the British Empire. The movement preceded the later mass non-cooperation and civil-disobedience campaigns.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "History",
+        "Home Rule Leagues, 1916",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9355,
+      "cat": "History",
+      "topic": "Champaran Satyagraha, 1917",
+      "q": "The Champaran Satyagraha of 1917 was primarily organised to address the grievances of which group?",
+      "o": [
+        "Indigo cultivators compelled by the tinkathia system",
+        "Mill workers seeking an eight-hour workday",
+        "Forest communities protesting a salt tax",
+        "Railway employees demanding a pension scheme"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Champaran movement concerned indigo cultivators in Bihar who faced coercive cultivation arrangements, especially the tinkathia system. Gandhi's intervention in 1917 became an early major experiment in satyagraha in India.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "History",
+        "Champaran Satyagraha, 1917",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9356,
+      "cat": "Geography",
+      "topic": "Karst topography",
+      "q": "A landscape of sinkholes, disappearing streams and limestone caves is most characteristically associated with which process?",
+      "o": [
+        "Dissolution of soluble rocks by groundwater",
+        "Deposition of wind-blown sand only",
+        "Glacial plucking of hard granite",
+        "Lava accumulation from repeated eruptions"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Karst topography develops mainly where slightly acidic water dissolves soluble rocks such as limestone. Over time, dissolution enlarges joints and fractures into caves, sinkholes and underground drainage systems; it is not primarily a wind or glacial landform.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Geography",
+        "Karst topography",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9357,
+      "cat": "Geography",
+      "topic": "Fjord formation",
+      "q": "A long, deep, steep-sided sea inlet occupying a glacially carved valley is called a:",
+      "o": [
+        "Fjord",
+        "Barchan",
+        "Drumlin",
+        "Yardang"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A fjord forms when a glacier excavates a deep U-shaped valley and the sea later floods it. Barchans and yardangs are wind-related landforms, while a drumlin is a streamlined hill of glacial material.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Geography",
+        "Fjord formation",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9358,
+      "cat": "Geography",
+      "topic": "Drumlin — glacial depositional landform",
+      "q": "Which landform is typically an elongated, streamlined hill composed largely of glacial till and aligned with former ice movement?",
+      "o": [
+        "Drumlin",
+        "Fjord",
+        "Sinkhole",
+        "Sea stack"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A drumlin is a streamlined hill of glacial sediment, usually elongated in the direction of ice movement. Its shape can help reconstruct glacier flow; fjords are flooded glacial valleys, while sinkholes and sea stacks have different origins.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Geography",
+        "Drumlin — glacial depositional landform",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9359,
+      "cat": "Geography",
+      "topic": "Transform plate boundary",
+      "q": "At a transform plate boundary, the two tectonic plates generally:",
+      "o": [
+        "Slide horizontally past one another",
+        "Move directly apart and create a rift",
+        "Collide and always form a volcanic arc",
+        "Move vertically without relative horizontal motion"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Transform boundaries are dominated by lateral or strike-slip motion as plates slide past one another. Friction can lock the fault and later release energy as earthquakes; divergent boundaries move apart, while convergent boundaries move toward each other.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Geography",
+        "Transform plate boundary",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9360,
+      "cat": "Geography",
+      "topic": "Normal fault — stress regime",
+      "q": "A geologist observes that the hanging wall has moved downward relative to the footwall. Which fault type is most consistent with tensional stress?",
+      "o": [
+        "Normal fault",
+        "Reverse fault",
+        "Thrust fault",
+        "Strike-slip fault"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "In a normal fault, the hanging wall moves down relative to the footwall, commonly under extension or tensional stress. Reverse and thrust faults are associated with compression, while strike-slip faults involve mainly horizontal displacement.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Geography",
+        "Normal fault — stress regime",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9361,
+      "cat": "Geography",
+      "topic": "Thermocline in the ocean",
+      "q": "What is the thermocline in an ocean water column?",
+      "o": [
+        "A layer where temperature changes rapidly with depth",
+        "The boundary between seawater and the seabed",
+        "A layer containing no dissolved oxygen",
+        "The permanent surface layer of floating ice"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The thermocline is the zone in which water temperature decreases rapidly with increasing depth, separating warmer surface water from colder deep water. It affects vertical mixing and the movement of heat in the ocean.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Geography",
+        "Thermocline in the ocean",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9362,
+      "cat": "Geography",
+      "topic": "Ocean upwelling",
+      "q": "Why are coastal regions influenced by strong upwelling often highly productive fishing grounds?",
+      "o": [
+        "Deep, nutrient-rich water rises toward the sunlit surface",
+        "Warm surface water sinks and removes all nutrients",
+        "The seabed releases only fresh drinking water",
+        "Upwelling prevents phytoplankton from receiving sunlight"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Upwelling brings colder, nutrient-rich deep water into the sunlit upper ocean. The nutrients support phytoplankton growth, which can sustain productive marine food webs and fisheries; the process is not caused by a lack of sunlight.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Geography",
+        "Ocean upwelling",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9363,
+      "cat": "Geography",
+      "topic": "Seafloor spreading",
+      "q": "New oceanic crust is primarily created at which type of plate boundary?",
+      "o": [
+        "Divergent boundary at a mid-ocean ridge",
+        "Transform boundary",
+        "Convergent boundary where one plate is subducted",
+        "A stationary continental interior"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "At divergent boundaries, plates move apart and magma rises to fill the gap. Cooling magma forms new oceanic crust, a process known as seafloor spreading; at subduction zones, oceanic crust is instead recycled into the mantle.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Geography",
+        "Seafloor spreading",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9364,
+      "cat": "Economy",
+      "topic": "GDP and GVA relationship",
+      "q": "At market prices, India's GDP is derived from Gross Value Added at basic prices by adding:",
+      "o": [
+        "Product taxes and subtracting product subsidies",
+        "Depreciation and subtracting wages",
+        "Imports and subtracting exports",
+        "Interest payments and subtracting savings"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies. Taxes on products create the bridge from basic prices to market prices; depreciation and interest payments are different national-accounting concepts.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Ministry of Statistics and Programme Implementation — National Accounts Statistics.",
+      "sourceName": "Ministry of Statistics and Programme Implementation — National Accounts Statistics",
+      "sourceURL": "https://mospi.gov.in/national-accounts-statistics",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Economy",
+        "GDP and GVA relationship",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9365,
+      "cat": "Economy",
+      "topic": "Real GDP",
+      "q": "Why is real GDP generally more useful than nominal GDP when comparing the volume of production across years?",
+      "o": [
+        "It values output at constant prices and removes the effect of price changes",
+        "It includes only government expenditure",
+        "It excludes all services",
+        "It is always larger than nominal GDP"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Real GDP uses constant prices, so changes mainly reflect changes in the volume of goods and services rather than changes in their prices. Nominal GDP uses current prices and can rise because of inflation even when physical output is unchanged.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Ministry of Statistics and Programme Implementation — National Accounts Statistics.",
+      "sourceName": "Ministry of Statistics and Programme Implementation — National Accounts Statistics",
+      "sourceURL": "https://mospi.gov.in/national-accounts-statistics",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Economy",
+        "Real GDP",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9366,
+      "cat": "Economy",
+      "topic": "Primary deficit",
+      "q": "A government's primary deficit is calculated by:",
+      "o": [
+        "Subtracting interest payments from the fiscal deficit",
+        "Adding interest payments to revenue receipts",
+        "Subtracting capital expenditure from revenue expenditure",
+        "Adding tax revenue to borrowings"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Primary deficit equals fiscal deficit minus interest payments. It indicates the borrowing requirement after excluding interest on past debt, helping distinguish the current fiscal position from the burden of earlier borrowing.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of India — Union Budget glossary.",
+      "sourceName": "Government of India — Union Budget glossary",
+      "sourceURL": "https://www.indiabudget.gov.in/budgetglossary.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Economy",
+        "Primary deficit",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9367,
+      "cat": "Economy",
+      "topic": "Revenue deficit",
+      "q": "Which formula correctly defines the revenue deficit in government budgeting?",
+      "o": [
+        "Revenue expenditure minus revenue receipts",
+        "Capital expenditure minus capital receipts",
+        "Total expenditure minus total receipts",
+        "Fiscal deficit minus interest payments"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Revenue deficit is the excess of revenue expenditure over revenue receipts. It focuses on the government's revenue account; primary deficit and fiscal deficit use different components and should not be interchanged.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of India — Union Budget glossary.",
+      "sourceName": "Government of India — Union Budget glossary",
+      "sourceURL": "https://www.indiabudget.gov.in/budgetglossary.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Economy",
+        "Revenue deficit",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9368,
+      "cat": "Economy",
+      "topic": "Balance of Payments — current account",
+      "q": "Which set of transactions is normally recorded in the current account of a country's Balance of Payments?",
+      "o": [
+        "Trade in goods and services, primary income and secondary income",
+        "Only foreign direct investment and portfolio investment",
+        "Only changes in official reserve assets",
+        "Only external commercial borrowings"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The current account records exports and imports of goods and services, primary income such as investment income, and secondary income such as transfers. Direct investment and portfolio investment are recorded in the financial account.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of India — Union Budget glossary.",
+      "sourceName": "Government of India — Union Budget glossary",
+      "sourceURL": "https://www.indiabudget.gov.in/budgetglossary.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Economy",
+        "Balance of Payments — current account",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9369,
+      "cat": "Economy",
+      "topic": "FDI versus FPI",
+      "q": "A foreign investor acquires a lasting interest and significant influence in an Indian enterprise rather than merely buying tradable securities. This is most consistent with:",
+      "o": [
+        "Foreign Direct Investment",
+        "Foreign Portfolio Investment",
+        "A remittance",
+        "A short-term trade credit"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Foreign Direct Investment is associated with a lasting interest and a degree of influence or control in an enterprise. Foreign Portfolio Investment generally involves financial securities without the same management influence; the distinction matters for external-sector analysis.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of India — Union Budget glossary.",
+      "sourceName": "Government of India — Union Budget glossary",
+      "sourceURL": "https://www.indiabudget.gov.in/budgetglossary.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Economy",
+        "FDI versus FPI",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9370,
+      "cat": "Economy",
+      "topic": "Disinvestment versus privatisation",
+      "q": "The Government sells a minority shareholding in a public-sector enterprise but retains management control. Which description is most accurate?",
+      "o": [
+        "Disinvestment without necessarily amounting to privatisation",
+        "Complete privatisation",
+        "Nationalisation",
+        "A merger of two ministries"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Disinvestment means the government sells some of its equity. It becomes privatisation when the sale results in transfer of ownership or management control to private hands; a minority sale alone does not automatically establish that transfer.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of India — Union Budget glossary.",
+      "sourceName": "Government of India — Union Budget glossary",
+      "sourceURL": "https://www.indiabudget.gov.in/budgetglossary.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Economy",
+        "Disinvestment versus privatisation",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9371,
+      "cat": "Economy",
+      "topic": "CPI versus WPI",
+      "q": "Which price index is designed to measure changes in the prices of a basket of goods and services typically consumed by households?",
+      "o": [
+        "Consumer Price Index",
+        "Wholesale Price Index",
+        "Index of Industrial Production",
+        "GDP deflator for capital goods only"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Consumer Price Index tracks retail prices of a representative consumption basket and is used to assess consumer-level inflation. The Wholesale Price Index tracks prices at the wholesale level and has a different coverage and purpose.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of India — Union Budget glossary.",
+      "sourceName": "Government of India — Union Budget glossary",
+      "sourceURL": "https://www.indiabudget.gov.in/budgetglossary.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Economy",
+        "CPI versus WPI",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9372,
+      "cat": "Science",
+      "topic": "DNA replication — model",
+      "q": "The semi-conservative model of DNA replication means that each daughter DNA molecule contains:",
+      "o": [
+        "One parental strand and one newly synthesised strand",
+        "Two newly synthesised strands only",
+        "Two unchanged parental strands only",
+        "One RNA strand and one protein strand"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "In semi-conservative replication, the two parental DNA strands separate and each serves as a template for a new complementary strand. Each daughter double helix therefore contains one old strand and one new strand.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Science",
+        "DNA replication — model",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9373,
+      "cat": "Science",
+      "topic": "Meiosis — chromosome number",
+      "q": "What is the main chromosome-number effect of meiosis in a diploid organism?",
+      "o": [
+        "It produces haploid cells by reducing the chromosome number by half",
+        "It doubles the chromosome number in every daughter cell",
+        "It produces genetically identical diploid cells only",
+        "It prevents recombination between homologous chromosomes"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Meiosis consists of two successive divisions after one round of DNA replication and normally produces haploid cells. The reduction in chromosome number helps restore the diploid number at fertilisation; mitosis, by contrast, generally maintains chromosome number.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Science",
+        "Meiosis — chromosome number",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9374,
+      "cat": "Science",
+      "topic": "Insulin — site of secretion",
+      "q": "Which cells of the pancreas secrete insulin?",
+      "o": [
+        "Beta cells of the islets of Langerhans",
+        "Alpha cells of the islets of Langerhans",
+        "Acinar cells of the salivary glands",
+        "Chief cells of the stomach"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Insulin is secreted by beta cells in the pancreatic islets. It helps lower blood glucose by promoting uptake and storage of glucose; alpha cells secrete glucagon, which has an opposing effect on blood glucose.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Science",
+        "Insulin — site of secretion",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9375,
+      "cat": "Science",
+      "topic": "Red blood cell shape",
+      "q": "How does the biconcave shape of a normal human red blood cell help its function?",
+      "o": [
+        "It increases surface area for gas exchange and allows flexibility in narrow capillaries",
+        "It enables the cell to divide rapidly in the bloodstream",
+        "It stores large quantities of genetic material",
+        "It prevents haemoglobin from binding oxygen"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The biconcave disc gives a red blood cell a high surface-area-to-volume ratio and flexibility to pass through narrow capillaries. Mature human red blood cells lack a nucleus and are specialised for transporting respiratory gases.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Science",
+        "Red blood cell shape",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9376,
+      "cat": "Science",
+      "topic": "Xylem — plant transport",
+      "q": "Which function is primarily performed by xylem tissue in a vascular plant?",
+      "o": [
+        "Transport of water and dissolved mineral salts from roots toward aerial parts",
+        "Transport of sugars from leaves to storage organs only",
+        "Production of pollen grains",
+        "Absorption of carbon dioxide through stomata"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Xylem conducts water and dissolved minerals from the roots to stems and leaves, with transpiration providing a major driving force. Phloem transports organic food such as sucrose; the two tissues have different transport roles.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Science",
+        "Xylem — plant transport",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9377,
+      "cat": "Science",
+      "topic": "Electrochemical cell",
+      "q": "An ordinary galvanic cell produces electric current from a spontaneous chemical reaction. Which energy conversion occurs?",
+      "o": [
+        "Chemical energy to electrical energy",
+        "Electrical energy to nuclear energy",
+        "Sound energy to chemical energy",
+        "Light energy to gravitational energy"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A galvanic or voltaic cell converts chemical energy released by a spontaneous redox reaction into electrical energy. An electrolytic cell uses an external electrical supply to drive a non-spontaneous chemical reaction, so the direction of conversion differs.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Science",
+        "Electrochemical cell",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9378,
+      "cat": "Science",
+      "topic": "Faraday's law of electromagnetic induction",
+      "q": "A coil experiences a changing magnetic flux through its turns. What does Faraday's law predict?",
+      "o": [
+        "An induced electromotive force proportional to the rate of change of magnetic flux linkage",
+        "A constant voltage independent of magnetic flux",
+        "A magnetic field that can exist only in a vacuum",
+        "A current that must always be zero in a closed coil"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Faraday's law states that induced emf is related to the rate of change of magnetic flux linkage. A faster change or more turns can increase the induced emf; a constant flux produces no induced emf from this mechanism.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Science",
+        "Faraday's law of electromagnetic induction",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9379,
+      "cat": "Science",
+      "topic": "First law of thermodynamics",
+      "q": "Which statement best expresses the first law of thermodynamics for a closed system?",
+      "o": [
+        "Energy is conserved; heat supplied changes internal energy and may also do work",
+        "Heat can be created from nothing in a cyclic process",
+        "Internal energy is always equal to pressure",
+        "Work can be produced without any energy transfer"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The first law is the conservation of energy applied to thermodynamic systems. With the common convention that work done by the system is positive, heat supplied equals the increase in internal energy plus work done by the system.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Science",
+        "First law of thermodynamics",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9380,
+      "cat": "Science",
+      "topic": "Sound — pitch and frequency",
+      "q": "Two pure tones have the same amplitude but different frequencies. Which property chiefly determines which tone is perceived as higher in pitch?",
+      "o": [
+        "Frequency",
+        "Amplitude",
+        "Speed of sound in the listener's ear",
+        "Distance between the source and listener alone"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Pitch is primarily associated with frequency: a higher frequency is perceived as a higher pitch. Amplitude is related to loudness, while the speed of sound depends on the medium and does not by itself determine pitch.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Science",
+        "Sound — pitch and frequency",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9381,
+      "cat": "Environment",
+      "topic": "CITES — purpose",
+      "q": "What is the principal purpose of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)?",
+      "o": [
+        "To ensure international trade in wild animals and plants does not threaten their survival",
+        "To regulate all domestic agriculture prices",
+        "To create a global carbon tax",
+        "To prohibit every form of wildlife research"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "CITES is an international agreement that regulates international trade in specimens of wild animals and plants so that trade does not threaten their survival. It is not a general ban on all research or a carbon-pricing treaty.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on CITES Secretariat — What is CITES?.",
+      "sourceName": "CITES Secretariat — What is CITES?",
+      "sourceURL": "https://cites.org/eng/disc/what.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Environment",
+        "CITES — purpose",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9382,
+      "cat": "Environment",
+      "topic": "Montreal Protocol",
+      "q": "The Montreal Protocol is primarily concerned with controlling substances that:",
+      "o": [
+        "Deplete the stratospheric ozone layer",
+        "Increase river salinity",
+        "Cause soil erosion in mountain areas",
+        "Create marine plastic litter only"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Montreal Protocol controls the production and consumption of ozone-depleting substances, including chlorofluorocarbons. Its purpose is to protect the stratospheric ozone layer, which absorbs much of the Sun's harmful ultraviolet radiation.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on UNEP Ozone Secretariat — Montreal Protocol.",
+      "sourceName": "UNEP Ozone Secretariat — Montreal Protocol",
+      "sourceURL": "https://ozone.unep.org/treaties/montreal-protocol",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Environment",
+        "Montreal Protocol",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9383,
+      "cat": "Environment",
+      "topic": "Paris Agreement — NDCs",
+      "q": "Under the Paris Agreement, countries communicate and strengthen which national climate plans over time?",
+      "o": [
+        "Nationally Determined Contributions",
+        "National Defence Commitments",
+        "Non-Disclosure Certificates",
+        "Natural Disaster Compensation orders"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Nationally Determined Contributions, or NDCs, are the climate action plans communicated by Parties to the Paris Agreement. The agreement uses a cycle of successive, progressively stronger contributions and a global stocktake to assess collective progress.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on UNFCCC — The Paris Agreement.",
+      "sourceName": "UNFCCC — The Paris Agreement",
+      "sourceURL": "https://unfccc.int/process-and-meetings/the-paris-agreement",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Environment",
+        "Paris Agreement — NDCs",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9384,
+      "cat": "Environment",
+      "topic": "Primary ecological succession",
+      "q": "A new volcanic surface is exposed with bare rock and no developed soil. The gradual establishment of a biological community there is an example of:",
+      "o": [
+        "Primary succession",
+        "Secondary succession",
+        "Artificial selection",
+        "Eutrophication"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Primary succession begins on a newly exposed substrate where developed soil is absent. Pioneer organisms help weather rock and build organic material, gradually allowing more complex communities to establish; secondary succession begins where soil remains after disturbance.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Environment",
+        "Primary ecological succession",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9385,
+      "cat": "Environment",
+      "topic": "Phytoremediation",
+      "q": "A contaminated site is treated by growing plants that absorb, stabilise or help break down pollutants. This method is called:",
+      "o": [
+        "Phytoremediation",
+        "Desalination",
+        "Incineration",
+        "Electroplating"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Phytoremediation uses plants and their associated microbes to remove, contain or transform contaminants in soil or water. It can be useful for selected pollutants and sites, although its effectiveness depends on the contaminant, plant species and environmental conditions.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Environment",
+        "Phytoremediation",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9386,
+      "cat": "Environment",
+      "topic": "In-situ conservation",
+      "q": "Which example is an in-situ method of biodiversity conservation?",
+      "o": [
+        "Protecting a wild species in its natural habitat within a national park",
+        "Maintaining a seed collection in a laboratory freezer",
+        "Breeding an endangered animal in a zoo",
+        "Storing plant tissue in a gene bank"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "In-situ conservation protects species within their natural ecosystems, allowing ecological interactions and evolutionary processes to continue. Zoos, seed banks and tissue-culture facilities are ex-situ approaches because conservation occurs outside the natural habitat.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on IUCN — Red List Categories and Criteria.",
+      "sourceName": "IUCN — Red List Categories and Criteria",
+      "sourceURL": "https://www.iucnredlist.org/resources/categories-and-criteria",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Environment",
+        "In-situ conservation",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9387,
+      "cat": "Environment",
+      "topic": "Polluter Pays Principle",
+      "q": "Under the Polluter Pays Principle, who should ordinarily bear the costs of preventing and remedying pollution?",
+      "o": [
+        "The polluter responsible for the environmental damage",
+        "Only households living downstream",
+        "The nearest school",
+        "The public authority in every case, regardless of responsibility"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Polluter Pays Principle places the cost of pollution prevention, control and remediation on the polluter. It is intended to internalise environmental costs rather than transfer the burden automatically to affected communities or the general public.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Environment",
+        "Polluter Pays Principle",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9388,
+      "cat": "Environment",
+      "topic": "Keystone species",
+      "q": "A species has a disproportionately large effect on ecosystem structure relative to its abundance. Ecologists describe it as a:",
+      "o": [
+        "Keystone species",
+        "Pioneer species in every case",
+        "Domestic species",
+        "Decomposer only"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A keystone species has an ecological effect that is disproportionately large compared with its abundance or biomass. Removing it can trigger major changes in community structure, so its importance is not measured merely by how numerous it is.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Environment",
+        "Keystone species",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9389,
+      "cat": "Computer",
+      "topic": "DNS — core function",
+      "q": "When a user enters a website's domain name, which Internet service helps locate the corresponding IP address?",
+      "o": [
+        "Domain Name System (DNS)",
+        "Dynamic Host Configuration Protocol (DHCP)",
+        "File Transfer Protocol (FTP)",
+        "Simple Mail Transfer Protocol (SMTP)"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "DNS translates human-readable domain names into information used to locate network resources, commonly including IP addresses. DHCP assigns network configuration to devices; FTP transfers files and SMTP is used for sending email.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on IETF — RFC 1034, Domain Names: Concepts and Facilities.",
+      "sourceName": "IETF — RFC 1034, Domain Names: Concepts and Facilities",
+      "sourceURL": "https://www.rfc-editor.org/rfc/rfc1034",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Computer",
+        "DNS — core function",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9390,
+      "cat": "Computer",
+      "topic": "DHCP — network configuration",
+      "q": "A laptop joins a network and automatically receives an IP address, subnet mask, default gateway and DNS-server details. Which protocol most directly performs this task?",
+      "o": [
+        "DHCP",
+        "DNS",
+        "HTTPS",
+        "SSH"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Dynamic Host Configuration Protocol automatically supplies hosts with network configuration, commonly through a lease. DNS resolves names, while HTTPS and SSH provide secure application or remote-access communication.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on IETF — RFC 2131, Dynamic Host Configuration Protocol.",
+      "sourceName": "IETF — RFC 2131, Dynamic Host Configuration Protocol",
+      "sourceURL": "https://www.rfc-editor.org/rfc/rfc2131",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Computer",
+        "DHCP — network configuration",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9391,
+      "cat": "Computer",
+      "topic": "OSI model — network layer",
+      "q": "In the OSI reference model, which layer is chiefly associated with logical addressing and routing packets between networks?",
+      "o": [
+        "Network layer",
+        "Physical layer",
+        "Presentation layer",
+        "Session layer"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The network layer is responsible for logical addressing and routing packets across interconnected networks. The physical layer transmits raw bits over a medium, while presentation and session layers address other aspects of communication.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NIELIT — Digital literacy and CCC learning resources.",
+      "sourceName": "NIELIT — Digital literacy and CCC learning resources",
+      "sourceURL": "https://www.nielit.gov.in/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Computer",
+        "OSI model — network layer",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9392,
+      "cat": "Computer",
+      "topic": "Unicode — purpose",
+      "q": "Why was Unicode developed?",
+      "o": [
+        "To provide a consistent character-encoding system for text from many writing systems",
+        "To assign a separate IP address to every language",
+        "To compress every image into a single format",
+        "To replace all computer operating systems"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Unicode assigns code points to characters used by many scripts, symbols and writing systems, enabling consistent text representation across platforms. It is not an image-compression scheme or a network-addressing system.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Unicode Consortium — The Unicode Standard.",
+      "sourceName": "Unicode Consortium — The Unicode Standard",
+      "sourceURL": "https://www.unicode.org/standard/standard.html",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Computer",
+        "Unicode — purpose",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9393,
+      "cat": "Computer",
+      "topic": "SHA-256 — cryptographic function",
+      "q": "A software publisher provides a SHA-256 digest so a user can check whether a downloaded file has changed. SHA-256 is best described as:",
+      "o": [
+        "A cryptographic hash function",
+        "A reversible file-encryption algorithm",
+        "A public-key exchange protocol",
+        "A lossless image format"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "SHA-256 maps input data to a fixed-length 256-bit digest. Comparing digests can reveal accidental or malicious changes, but hashing is not encryption: the original file cannot be recovered by reversing the hash.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NIST — FIPS 180-4, Secure Hash Standard.",
+      "sourceName": "NIST — FIPS 180-4, Secure Hash Standard",
+      "sourceURL": "https://csrc.nist.gov/pubs/fips/180-4/upd1/final",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Computer",
+        "SHA-256 — cryptographic function",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9394,
+      "cat": "Computer",
+      "topic": "Digital signature — verification",
+      "q": "A document is digitally signed using the sender's private key. Which key is normally used by a recipient to verify that signature?",
+      "o": [
+        "The sender's corresponding public key",
+        "The recipient's private key",
+        "A random session password",
+        "The sender's public IP address"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A digital signature is generated with the signer's private key and verified with the corresponding public key. This supports authenticity and integrity; it is distinct from encrypting a message for confidentiality.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NIST — FIPS 186-5, Digital Signature Standard.",
+      "sourceName": "NIST — FIPS 186-5, Digital Signature Standard",
+      "sourceURL": "https://csrc.nist.gov/pubs/fips/186-5/final",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Computer",
+        "Digital signature — verification",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9395,
+      "cat": "Computer",
+      "topic": "OCR versus OMR",
+      "q": "A clerk needs to convert the printed words on a scanned paper form into editable text. Which technology is most appropriate?",
+      "o": [
+        "Optical Character Recognition (OCR)",
+        "Optical Mark Recognition (OMR)",
+        "Magnetic Ink Character Recognition (MICR) only",
+        "A barcode reader"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "OCR analyses the shapes of characters in an image and converts them into machine-readable text. OMR is designed to detect marked responses, such as filled circles on objective answer sheets, rather than recognise arbitrary printed words.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NIELIT — Digital literacy and CCC learning resources.",
+      "sourceName": "NIELIT — Digital literacy and CCC learning resources",
+      "sourceURL": "https://www.nielit.gov.in/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Computer",
+        "OCR versus OMR",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9396,
+      "cat": "Computer",
+      "topic": "RAID 1 — storage",
+      "q": "A server stores identical copies of data on two drives so that it can continue operating if one drive fails. Which RAID level describes this arrangement?",
+      "o": [
+        "RAID 1 mirroring",
+        "RAID 0 striping",
+        "RAID 5 parity only",
+        "JBOD concatenation"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "RAID 1 mirrors data across drives, providing redundancy if one member drive fails. It does not replace a separate backup, because accidental deletion, malware or corruption can be mirrored to the other drive as well.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NIELIT — Digital literacy and CCC learning resources.",
+      "sourceName": "NIELIT — Digital literacy and CCC learning resources",
+      "sourceURL": "https://www.nielit.gov.in/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Computer",
+        "RAID 1 — storage",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9397,
+      "cat": "Reasoning",
+      "topic": "Syllogism — set inclusion",
+      "q": "Statements: All inspectors are officers. No officer is a minor. Some trainees are inspectors. Which conclusion necessarily follows?",
+      "o": [
+        "Some trainees are not minors",
+        "All trainees are inspectors",
+        "Some minors are inspectors",
+        "No trainee is an officer"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The trainees who are inspectors must also be officers because all inspectors are officers. Since no officer is a minor, those trainees cannot be minors. The conclusion is existential because the third statement says some trainees are inspectors.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Reasoning",
+        "Syllogism — set inclusion",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9398,
+      "cat": "Reasoning",
+      "topic": "Number series — increasing differences",
+      "q": "Find the next term: 2, 6, 12, 20, 30, __.",
+      "o": [
+        "42",
+        "40",
+        "44",
+        "48"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The successive differences are 4, 6, 8 and 10, increasing by 2 each time. The next difference is 12, so the next term is 30 + 12 = 42. Checking the difference pattern is more reliable than guessing from the final term.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Reasoning",
+        "Number series — increasing differences",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9399,
+      "cat": "Reasoning",
+      "topic": "Coding-decoding — letter shift",
+      "q": "In a code, each letter is replaced by the next letter in the English alphabet. If TABLE is coded as UBCMF, how is CHAIR coded?",
+      "o": [
+        "DIBJS",
+        "DIBIR",
+        "BGZHQ",
+        "EJCKT"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Each letter moves forward by one position: C→D, H→I, A→B, I→J and R→S. Therefore CHAIR becomes DIBJS. Apply the same operation separately to every letter and do not reverse the order.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Reasoning",
+        "Coding-decoding — letter shift",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9400,
+      "cat": "Reasoning",
+      "topic": "Ranking — total number",
+      "q": "In a class, Meera is 11th from the top and 18th from the bottom. How many students are in the class?",
+      "o": [
+        "28",
+        "29",
+        "27",
+        "30"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "When a person's rank is counted from both ends, total students = rank from top + rank from bottom − 1. Thus 11 + 18 − 1 = 28. Subtract one because Meera is counted in both rankings.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Reasoning",
+        "Ranking — total number",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9401,
+      "cat": "Reasoning",
+      "topic": "Statement and assumption",
+      "q": "A notice says: “Install smoke alarms in every corridor to warn occupants before a fire spreads.” Which assumption is necessary for the recommendation to make sense?",
+      "o": [
+        "Smoke alarms can detect smoke and alert occupants",
+        "Every corridor is always empty",
+        "A smoke alarm can extinguish a fire",
+        "Fire can occur only in corridors"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The recommendation assumes that a smoke alarm can detect smoke and provide a warning to people in the building. It does not assume corridors are empty or that an alarm extinguishes fire; those claims are not required for the advice.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Reasoning",
+        "Statement and assumption",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9402,
+      "cat": "Reasoning",
+      "topic": "Ordering — necessary relation",
+      "q": "Four reports A, B, C and D must be filed. The rules say A is filed before D, D before C, and B after A. Which relation must be true?",
+      "o": [
+        "D is filed before C",
+        "B is filed before A",
+        "C is filed before A",
+        "B is filed after C"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The rules directly establish A before D and D before C, so D must be before C. B is only constrained to be after A; its position relative to D and C is not fixed by the information given.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Reasoning",
+        "Ordering — necessary relation",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9403,
+      "cat": "Reasoning",
+      "topic": "Conditional logic — only if",
+      "q": "A rule states: “An application is accepted only if it is signed.” Which logical implication correctly represents this rule?",
+      "o": [
+        "If an application is accepted, it must be signed",
+        "If an application is signed, it must be accepted",
+        "If an application is not accepted, it must be unsigned",
+        "Signing and acceptance are unrelated"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "“P only if Q” means Q is a necessary condition for P, so P implies Q. Here acceptance implies a signature; a signature alone does not guarantee acceptance because other requirements may still be unmet.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Reasoning",
+        "Conditional logic — only if",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9404,
+      "cat": "English",
+      "topic": "Fewer versus less",
+      "q": "Choose the correct word: “The audit team found ___ errors in the revised register than in the first version.”",
+      "o": [
+        "fewer",
+        "less",
+        "little",
+        "much"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Use fewer with countable plural nouns such as errors, forms or entries. Less is normally used with uncountable quantities such as time or information. Because “errors” can be counted individually, fewer is correct.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Cambridge Dictionary — English Grammar and Usage.",
+      "sourceName": "Cambridge Dictionary — English Grammar and Usage",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "English",
+        "Fewer versus less",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9405,
+      "cat": "English",
+      "topic": "Neither…nor — subject-verb agreement",
+      "q": "Choose the correct verb: “Neither the superintendent nor the assistants ___ available for the inspection.”",
+      "o": [
+        "are",
+        "is",
+        "was",
+        "has"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "With neither…nor, the verb commonly agrees with the nearer subject. Here the nearer subject is the plural noun “assistants”, so the plural verb are is used. The construction links two alternatives and does not automatically require a singular verb.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Cambridge Dictionary — English Grammar and Usage.",
+      "sourceName": "Cambridge Dictionary — English Grammar and Usage",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "English",
+        "Neither…nor — subject-verb agreement",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9406,
+      "cat": "English",
+      "topic": "Past perfect — sequence of past events",
+      "q": "Choose the correct completion: “By the time the inspection team arrived, the dealer ___ the original invoices.”",
+      "o": [
+        "had produced",
+        "has produced",
+        "will produce",
+        "produces"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The past perfect marks an action completed before another past event. Producing the invoices occurred before the team arrived, so “had produced” makes the sequence clear; the simple present or future does not fit the past-time frame.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Cambridge Dictionary — English Grammar and Usage.",
+      "sourceName": "Cambridge Dictionary — English Grammar and Usage",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "English",
+        "Past perfect — sequence of past events",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9407,
+      "cat": "English",
+      "topic": "Subjunctive — hypothetical condition",
+      "q": "Choose the grammatically standard form: “If I ___ responsible for the file, I would verify every annexure before dispatch.”",
+      "o": [
+        "were",
+        "am",
+        "was being",
+        "will be"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "In formal hypothetical or contrary-to-fact conditions, were is traditionally used with all persons: “If I were…”. It signals an imagined situation rather than a statement that the speaker is actually responsible.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Cambridge Dictionary — English Grammar and Usage.",
+      "sourceName": "Cambridge Dictionary — English Grammar and Usage",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "English",
+        "Subjunctive — hypothetical condition",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9408,
+      "cat": "English",
+      "topic": "No sooner…than — inversion",
+      "q": "Choose the correct sentence: “No sooner ___ the hearing begun than the power supply failed.”",
+      "o": [
+        "had",
+        "has",
+        "did",
+        "was"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The correlative construction “no sooner…than” normally uses inversion with the past perfect: “No sooner had the hearing begun than…”. The auxiliary had precedes the subject because the sentence begins with the negative adverbial expression.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Cambridge Dictionary — English Grammar and Usage.",
+      "sourceName": "Cambridge Dictionary — English Grammar and Usage",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "English",
+        "No sooner…than — inversion",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9409,
+      "cat": "English",
+      "topic": "Stationary versus stationery",
+      "q": "Choose the correct word: “The clerk placed the files in a ___ cabinet beside the record room.”",
+      "o": [
+        "stationary",
+        "stationery",
+        "stationaried",
+        "stationer"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Stationary means fixed or not moving, so it describes a cabinet that remains in one place. Stationery means writing materials such as paper, pens and envelopes. The two words sound alike but have different meanings.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Cambridge Dictionary — English definitions and usage.",
+      "sourceName": "Cambridge Dictionary — English definitions and usage",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "English",
+        "Stationary versus stationery",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9410,
+      "cat": "English",
+      "topic": "Elicit versus illicit",
+      "q": "Choose the correct word: “The officer's neutral questions were intended to ___ a clear explanation from the applicant.”",
+      "o": [
+        "elicit",
+        "illicit",
+        "elude",
+        "allude"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Elicit is a verb meaning to draw out or obtain a response, information or reaction. Illicit is an adjective meaning unlawful or forbidden. The sentence requires a verb describing the act of obtaining an explanation.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Cambridge Dictionary — English definitions and usage.",
+      "sourceName": "Cambridge Dictionary — English definitions and usage",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "English",
+        "Elicit versus illicit",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9411,
+      "cat": "English",
+      "topic": "Phrase meaning — in lieu of",
+      "q": "In the sentence “The office granted compensatory leave in lieu of overtime payment,” the phrase “in lieu of” means:",
+      "o": [
+        "instead of",
+        "in addition to",
+        "because of",
+        "in spite of"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "In lieu of means instead of or in place of. The sentence says compensatory leave was granted as a substitute for overtime payment, not as an extra payment or because of a payment.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Cambridge Dictionary — English definitions and usage.",
+      "sourceName": "Cambridge Dictionary — English definitions and usage",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "English",
+        "Phrase meaning — in lieu of",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9412,
+      "cat": "English",
+      "topic": "Concession — notwithstanding",
+      "q": "Choose the closest meaning of “notwithstanding” in: “Notwithstanding the delay, the application was processed on the same day.”",
+      "o": [
+        "Despite",
+        "Because of",
+        "Before",
+        "Only if"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Notwithstanding means despite or in spite of. The sentence indicates that the delay did not prevent same-day processing; it does not express cause, sequence or a condition.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Cambridge Dictionary — English definitions and usage.",
+      "sourceName": "Cambridge Dictionary — English definitions and usage",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "English",
+        "Concession — notwithstanding",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9413,
+      "cat": "Arithmetic",
+      "topic": "Successive discounts",
+      "q": "A file cabinet has a marked price of ₹2,400. A buyer receives successive discounts of 15% and 10%. What is the final price?",
+      "o": [
+        "₹1,836",
+        "₹1,800",
+        "₹1,920",
+        "₹2,040"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Apply the discounts one after another: ₹2,400 × 0.85 = ₹2,040; then ₹2,040 × 0.90 = ₹1,836. Successive discounts are multiplicative, not simply added as 25% of the marked price.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Arithmetic",
+        "Successive discounts",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9414,
+      "cat": "Arithmetic",
+      "topic": "Work rate — combined work",
+      "q": "A can complete a data-entry task in 12 days and B can complete the same task in 18 days. Working together at constant rates, how long will they take?",
+      "o": [
+        "7.2 days",
+        "8 days",
+        "9 days",
+        "15 days"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "A's daily rate is 1/12 and B's is 1/18. Combined rate = 1/12 + 1/18 = 5/36 of the task per day. Time = 36/5 = 7.2 days. Add work rates first, then take the reciprocal.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Arithmetic",
+        "Work rate — combined work",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9415,
+      "cat": "Arithmetic",
+      "topic": "Ratio — division of a sum",
+      "q": "A grant of ₹1,680 is divided among three projects in the ratio 3:4:5. What is the share of the project receiving the largest amount?",
+      "o": [
+        "₹700",
+        "₹560",
+        "₹840",
+        "₹480"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The ratio parts total 3 + 4 + 5 = 12. One part is ₹1,680 ÷ 12 = ₹140. The largest share is 5 parts, so 5 × ₹140 = ₹700. Always identify the largest ratio term before calculating the share.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Arithmetic",
+        "Ratio — division of a sum",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9416,
+      "cat": "Arithmetic",
+      "topic": "Weighted average — adding a group",
+      "q": "Twenty files have an average processing time of 48 minutes. Five additional files have an average processing time of 60 minutes. What is the new average for all 25 files?",
+      "o": [
+        "50.4 minutes",
+        "49.2 minutes",
+        "52 minutes",
+        "54 minutes"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The first 20 files total 20 × 48 = 960 minutes; the next five total 5 × 60 = 300 minutes. Combined total = 1,260 minutes. Divide by 25 files: 1,260 ÷ 25 = 50.4 minutes.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Arithmetic",
+        "Weighted average — adding a group",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9417,
+      "cat": "Arithmetic",
+      "topic": "Dilution — concentration",
+      "q": "A laboratory has 30 litres of a solution containing 40% solute. If 10 litres of pure water are added, what is the new solute concentration?",
+      "o": [
+        "30%",
+        "25%",
+        "35%",
+        "40%"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The original solute quantity is 30 × 0.40 = 12 litres. Adding pure water increases the total volume to 40 litres but does not change the solute quantity. New concentration = 12/40 × 100 = 30%.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Arithmetic",
+        "Dilution — concentration",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9418,
+      "cat": "Arithmetic",
+      "topic": "Compound interest — two years",
+      "q": "What compound interest is earned on ₹8,000 at 5% per annum for two years, compounded annually?",
+      "o": [
+        "₹820",
+        "₹800",
+        "₹840",
+        "₹880"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Amount after two years = ₹8,000 × 1.05 × 1.05 = ₹8,820. Compound interest is the amount minus principal: ₹8,820 − ₹8,000 = ₹820. The second year's interest is calculated on the first year's increased balance.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Arithmetic",
+        "Compound interest — two years",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9419,
+      "cat": "Arithmetic",
+      "topic": "Average speed — equal distances",
+      "q": "A vehicle travels two equal distances, one at 40 km/h and the other at 60 km/h. What is its average speed for the complete journey?",
+      "o": [
+        "48 km/h",
+        "50 km/h",
+        "52 km/h",
+        "45 km/h"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "For equal distances, average speed is the harmonic mean: 2uv/(u+v). Substituting 40 and 60 gives 2×40×60/(40+60) = 4,800/100 = 48 km/h. A simple arithmetic mean would be wrong because the travel times differ.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
+      "sourceName": "NCERT — Official school textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Arithmetic",
+        "Average speed — equal distances",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9420,
+      "cat": "Current Affairs",
+      "topic": "Wangala Golden Jubilee, 2026",
+      "q": "The Government of Meghalaya's 14 November 2026 press release on the Golden Jubilee of the 1000 Drums Wangala Festival highlighted the participation of how many traditional Dama players?",
+      "o": [
+        "1,000",
+        "500",
+        "750",
+        "2,000"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Meghalaya Government press release dated 14 November 2026 highlighted the participation of 1,000 traditional Dama players during the Golden Jubilee celebration. The question tests the specific number reported for the 2026 event, not the ordinary name “Hundred Drums”.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of Meghalaya — 1000 Drums Wangala Festival Golden Jubilee press release, 14 November 2026.",
+      "sourceName": "Government of Meghalaya — 1000 Drums Wangala Festival Golden Jubilee press release, 14 November 2026",
+      "sourceURL": "https://meghalaya.gov.in/index.php/press/content/52316",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Current Affairs",
+        "Wangala Golden Jubilee, 2026",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9421,
+      "cat": "Current Affairs",
+      "topic": "Janjatiya Gaurav Divas — Mawphlang programme",
+      "q": "As part of Meghalaya's Janjatiya Gaurav Divas 2026 programme, what was the title of the field-based workshop held at Mawphlang Sacred Grove on 21 November?",
+      "o": [
+        "Living Heritage: Workshop on Eco-Museums & Community Archives",
+        "Digital India: Workshop on Smart Villages",
+        "Green Meghalaya: Workshop on Solar Rooftops",
+        "Tribal Sports: Workshop on Traditional Games"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Department of Arts and Culture press release of 17 November 2026 named the 21 November field programme at Mawphlang Sacred Grove “Living Heritage: Workshop on Eco-Museums & Community Archives”. Its focus was community-led preservation of living traditions and local archives.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of Meghalaya, Arts & Culture Department — Janjatiya Gaurav Divas 2026 press release, 17 November 2026.",
+      "sourceName": "Government of Meghalaya, Arts & Culture Department — Janjatiya Gaurav Divas 2026 press release, 17 November 2026",
+      "sourceURL": "https://meghalaya.gov.in/index.php/press/content/52346",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Current Affairs",
+        "Janjatiya Gaurav Divas — Mawphlang programme",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9422,
+      "cat": "Current Affairs",
+      "topic": "NDRF 12th Battalion campus, 2026",
+      "q": "Where was the campus of the NDRF's 12th Battalion inaugurated on 22 November 2026?",
+      "o": [
+        "Itanagar, Arunachal Pradesh",
+        "Shillong, Meghalaya",
+        "Guwahati, Assam",
+        "Kohima, Nagaland"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Press Information Bureau reported that the Union Home Minister inaugurated the NDRF 12th Battalion campus in Itanagar on 22 November 2026. The release also stated that the campus would support disaster response in the Northeast and train SDRFs of all eight northeastern states.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Press Information Bureau, Ministry of Home Affairs — NDRF 12th Battalion campus inaugurated at Itanagar, 22 November 2026.",
+      "sourceName": "Press Information Bureau, Ministry of Home Affairs — NDRF 12th Battalion campus inaugurated at Itanagar, 22 November 2026",
+      "sourceURL": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2339981&lang=1&reg=3",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Current Affairs",
+        "NDRF 12th Battalion campus, 2026",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9423,
+      "cat": "Current Affairs",
+      "topic": "India's exports, April–October FY 2026–27",
+      "q": "According to the Ministry of Commerce and Industry's November 2026 release, India's combined merchandise and services exports during April–October FY 2026–27 were estimated at:",
+      "o": [
+        "US$568.84 billion",
+        "US$487.59 billion",
+        "US$309.06 billion",
+        "US$662.19 billion"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The PIB release of 13 November 2026 estimated combined merchandise and services exports at US$568.84 billion for April–October FY 2026–27, up 16.66% from US$487.59 billion a year earlier. US$309.06 billion was merchandise exports alone, not the combined total.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Press Information Bureau, Ministry of Commerce & Industry — India exports April–October FY 2026–27, 13 November 2026.",
+      "sourceName": "Press Information Bureau, Ministry of Commerce & Industry — India exports April–October FY 2026–27, 13 November 2026",
+      "sourceURL": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2335914&lang=1&reg=1",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Current Affairs",
+        "India's exports, April–October FY 2026–27",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9424,
+      "cat": "Current Affairs",
+      "topic": "Meghalaya AI Job Fair, 2026",
+      "q": "The Government of Meghalaya's first AI Job Fair, held at the State Convention Centre in Shillong on 17 November 2026, announced how many prospective job openings in Shillong?",
+      "o": [
+        "125",
+        "250",
+        "400",
+        "500"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Government of Meghalaya press release described 125 prospective job openings in Shillong and anticipated participation by more than 400 candidates and institutional heads. The 400-plus figure referred to expected participants, not job openings.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
+      "difficulty": "Easy",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of Meghalaya — First AI Job Fair, 17 November 2026.",
+      "sourceName": "Government of Meghalaya — First AI Job Fair, 17 November 2026",
+      "sourceURL": "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_ITC.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
+      "tags": [
+        "Current Affairs",
+        "Meghalaya AI Job Fair, 2026",
+        "Original Practice"
+      ]
+    }
+  ]
+}
