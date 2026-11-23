@@ -854,5 +854,230 @@
   },
   "currentMainShaAtRunEnd": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
   "repositoryVisibilityVerifiedDate": "2026-11-22",
-  "repositoryDefaultBranch": "main"
+  "repositoryDefaultBranch": "main",
+  "pendingRun": {
+    "date": "2026-11-23",
+    "status": "pending_merge",
+    "target": 110,
+    "startingActiveQuestions": 1187,
+    "draftedCandidates": 110,
+    "validatedQuestions": 101,
+    "rejectedCandidates": 9,
+    "mergedQuestions": 0,
+    "activeUniqueAdditions": 0,
+    "projectedActiveUniqueCount": 1288,
+    "targetAchievementRate": 0.9181818181818182,
+    "qualityGatePassed": true,
+    "dedupGatePassed": true,
+    "sourceGatePassed": true,
+    "repositoryGatePassed": false,
+    "mergeGatePassed": false,
+    "targetGatePassed": false,
+    "gatePassed": false,
+    "nextDailyTarget": 110,
+    "blockers": [
+      "Batch is validated but not yet merged; unmerged questions are not counted.",
+      "Live website deployment has not been independently verified."
+    ],
+    "pullRequest": null,
+    "pullRequestUrl": null,
+    "liveBuildMarker": "2026-11-23-original-practice-101",
+    "subjects": {
+      "GST / Inspector of Taxes": 10,
+      "Meghalaya GK": 10,
+      "Polity": 8,
+      "Science": 14,
+      "Geography": 10,
+      "Economy": 8,
+      "Computer": 9,
+      "Environment": 9,
+      "History": 8,
+      "English": 8,
+      "Arithmetic": 7
+    },
+    "examTracks": [
+      "MPSC Inspector of Taxes",
+      "DSC East Khasi Hills LDA-cum-Typist",
+      "MPSC Secretariat LDA"
+    ],
+    "sourceReview": {
+      "verifiedDate": "2026-11-23",
+      "primarySources": [
+        {
+          "name": "GSTN-authorised IRIS IRP — E-Invoice Mandate",
+          "url": "https://einvoice6.gst.gov.in/content/einvoice-mandate/"
+        },
+        {
+          "name": "GSTN-authorised IRIS IRP — IRN specifications",
+          "url": "https://einvoice6.gst.gov.in/content/irn-2/"
+        },
+        {
+          "name": "CBIC — CGST Rules, 2017, Rule 46",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-rules/1000136/1000001"
+        },
+        {
+          "name": "CBIC — Circular 160/16/2021-GST, electronic IRN QR code",
+          "url": "https://cbic-gst.gov.in/pdf/Circular-No-160-14-2021-GST.pdf"
+        },
+        {
+          "name": "Government of Meghalaya — Nongkrem Dance Festival",
+          "url": "https://www.meghalaya.gov.in/meghalaya/index.php/nongkrem-dance"
+        },
+        {
+          "name": "Government of Meghalaya — Shillong and Khasi cultural information",
+          "url": "https://meghalaya.gov.in/node/34292"
+        },
+        {
+          "name": "Government of Meghalaya — Behdienkhlam Festival",
+          "url": "https://meghalaya.gov.in/behdienkhlam"
+        },
+        {
+          "name": "Government of Meghalaya — Wangala Festival",
+          "url": "https://www.meghalaya.gov.in/meghalaya/index.php/wangala"
+        },
+        {
+          "name": "Government of Meghalaya — Tura and Garo cultural information",
+          "url": "https://meghalaya.gov.in/index.php/node/34296"
+        },
+        {
+          "name": "Legislative Department — Constitution of India",
+          "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf"
+        },
+        {
+          "name": "NCERT — Biology Exemplar Problems, Class XI",
+          "url": "https://www.ncert.nic.in/exemplar-problems.php"
+        },
+        {
+          "name": "USGS — Glossary of Glacier Terminology",
+          "url": "https://pubs.usgs.gov/of/2004/1216/text.html"
+        },
+        {
+          "name": "USGS — Eolian sediments",
+          "url": "https://www.usgs.gov/publications/eolian-sediments-0"
+        },
+        {
+          "name": "USGS — Types of Dunes",
+          "url": "https://pubs.usgs.gov/gip/deserts/dunes/"
+        },
+        {
+          "name": "USGS — Glacial Isostatic Adjustment",
+          "url": "https://www.usgs.gov/media/images/glacial-isostatic-adjustment"
+        },
+        {
+          "name": "NOAA — Upwelling",
+          "url": "https://oceanexplorer.noaa.gov/ocean-fact/upwelling/"
+        },
+        {
+          "name": "NCERT — Geography Textbook Portal",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "name": "Government of India — Economic Survey, Tax Buoyancy",
+          "url": "https://www.indiabudget.gov.in/economicsurvey/doc/echapter.pdf"
+        },
+        {
+          "name": "RBI — Annual Report, Tax Buoyancy",
+          "url": "https://systemhealth.rbi.org.in/Scripts/AnnualReportPublications.aspx_Id%3D1402.html"
+        },
+        {
+          "name": "World Bank — Tax Expenditures and Revenue Foregone",
+          "url": "https://documents1.worldbank.org/curated/en/317341468335679099/pdf/588150WP0FIAS110BOX353820B01PUBLIC1.pdf"
+        },
+        {
+          "name": "IMF — Fiscal Policy Transmission and Crowding Out",
+          "url": "https://www.imf.org/_next/data/EpnxHCnVQm0tS7VzM-X4o/en/-/media/websites/imf/imported-full-text-pdf/external/pubs/ft/wp/2003/_wp03237.pdf.json"
+        },
+        {
+          "name": "NCERT — Economics Textbook Portal",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "name": "IETF — RFC 1918, Private IPv4 Address Ranges",
+          "url": "https://www.rfc-editor.org/rfc/rfc1918"
+        },
+        {
+          "name": "IETF — RFC 2131, DHCP",
+          "url": "https://www.rfc-editor.org/rfc/rfc2131"
+        },
+        {
+          "name": "IETF — RFC 3596, DNS Extensions for IPv6",
+          "url": "https://www.rfc-editor.org/rfc/rfc3596"
+        },
+        {
+          "name": "Cloudflare Learning Center — Data Link Layer",
+          "url": "https://www.cloudflare.com/learning/network-layer/what-is-the-data-link-layer/"
+        },
+        {
+          "name": "Microsoft Learn — Storage Spaces and Mirrored Resiliency",
+          "url": "https://learn.microsoft.com/en-us/windows-server/storage/storage-spaces/overview"
+        },
+        {
+          "name": "PostgreSQL Documentation — Transactions",
+          "url": "https://www.postgresql.org/docs/current/tutorial-transactions.html"
+        },
+        {
+          "name": "PostgreSQL Documentation — UNION and UNION ALL",
+          "url": "https://www.postgresql.org/docs/current/queries-union.html"
+        },
+        {
+          "name": "W3C — Web Accessibility Technique H44",
+          "url": "https://www.w3.org/WAI/WCAG21/Techniques/html/H44"
+        },
+        {
+          "name": "IETF — RFC 9110, HTTP Semantics",
+          "url": "https://www.rfc-editor.org/rfc/rfc9110"
+        },
+        {
+          "name": "UNCCD — Convention Overview",
+          "url": "https://www.unccd.int/convention/overview"
+        },
+        {
+          "name": "Convention on Migratory Species — Convention and Appendices",
+          "url": "https://www.cms.int/legalinstrument/cms"
+        },
+        {
+          "name": "Stockholm Convention — Overview and Objective",
+          "url": "https://chm.pops.int/TheConvention/Overview/tabid/3351/ItemId/5382/Default.aspx"
+        },
+        {
+          "name": "IMO — MARPOL Convention",
+          "url": "https://www.imo.org/en/about/conventions/pages/international-convention-for-the-prevention-of-pollution-from-ships-%28marpol%29.aspx"
+        },
+        {
+          "name": "United Nations — Rio Declaration",
+          "url": "https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_CONF.151_26_Vol.I_Declaration.pdf"
+        },
+        {
+          "name": "NCERT — Official History Textbook Portal",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "name": "Cambridge Dictionary — English Vocabulary",
+          "url": "https://dictionary.cambridge.org/"
+        },
+        {
+          "name": "NCERT — Mathematics Textbook Portal",
+          "url": "https://ncert.nic.in/textbook.php"
+        }
+      ],
+      "gstReview": "E-invoice applicability, IRN, 30-day reporting, Rule 138A(2) and Rule 46 checked against GSTN-authorised IRP and CBIC sources on 23 November 2026.",
+      "meghalayaReview": "Nongkrem, Shad Suk Mynsiem, Behdienkhlam, Wangala and Garo Nokpante/A'kingland checked against Government of Meghalaya pages."
+    },
+    "comparisonCorpusRecords": 3759,
+    "postMergeComparisonCorpusRecords": 3860,
+    "unresolvedSemanticCollisions": 0,
+    "optionOnlyFingerprintMatchesReviewed": 4
+  },
+  "mainShaAtStartOfCurrentRun": "17ce3b89259b317a8598696e3ed2d65292d3f22a",
+  "rampHistory": [
+    {
+      "date": "2026-11-23",
+      "target": 110,
+      "drafted": 110,
+      "validated": 101,
+      "merged": 0,
+      "status": "pending_merge",
+      "nextTarget": 110
+    }
+  ]
 }
