@@ -2,7 +2,7 @@
   "date": "2026-11-23",
   "target": 110,
   "startingActiveCount": 1187,
-  "candidatesDrafted": 142,
+  "candidatesDrafted": 144,
   "questions": [
     {
       "id": 9315,
@@ -4829,6 +4829,74 @@
       "source": "Original Practice — not an official PYQ. Original authoring — independent critical-reasoning problem.",
       "sourceName": "Original authoring — independent critical-reasoning problem",
       "sourceURL": "https://github.com/pynshaishangoi/MPSC",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9457,
+      "cat": "Arithmetic",
+      "topic": "Polygon geometry — interior angle sum",
+      "q": "The sum of the interior angles of a polygon is 2,340°. How many sides does the polygon have?",
+      "o": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "For an n-sided polygon, the sum of interior angles is (n−2) × 180°. Thus (n−2) × 180 = 2,340, so n−2 = 13 and n = 15. The calculation uses the fact that a convex polygon can be divided into n−2 triangles from one vertex.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Polygon geometry — interior angle sum",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9458,
+      "cat": "Computer",
+      "topic": "Networking — Network Address Translation",
+      "q": "A router allows several devices using private IP addresses to access the internet through one public IP address by rewriting address information in packets. Which technique is being used?",
+      "o": [
+        "Network Address Translation (NAT)",
+        "Dynamic Host Configuration Protocol (DHCP)",
+        "Simple Mail Transfer Protocol (SMTP)",
+        "File Transfer Protocol (FTP)"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Network Address Translation rewrites IP address information as packets pass between networks, commonly allowing multiple private-network devices to share a public address. Port Address Translation can distinguish simultaneous connections by using transport-layer port numbers. DHCP assigns network configuration; it does not perform address translation.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Networking — Network Address Translation",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. IETF — RFC 3022, Traditional IP Network Address Translator.",
+      "sourceName": "IETF — RFC 3022, Traditional IP Network Address Translator",
+      "sourceURL": "https://www.rfc-editor.org/rfc/rfc3022",
       "sourceVerifiedDate": "2026-11-23",
       "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
     }
