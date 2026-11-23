@@ -284,9 +284,9 @@ for (let number = 1; number <= 91; number++) {
 }
 if (!paperQuestions.find(q=>q.paperNo===27).o[3].includes('why IS she sketching')) fail('Q27 source/key anomaly must remain visible');
 if (!paperQuestions.find(q=>q.paperNo===30).verificationStatus.includes('unusual reporting verb')) fail('Q30 official-key anomaly must remain flagged');
-if (active.length !== 1187 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
-if (batchFiles.length !== 20) fail('expected exactly 20 archived question batches');
-const expectedSubjectCounts = {"Aptitude":32,"Arithmetic":178,"Art & Culture":1,"Books & Authors":1,"Computer":46,"Current Affairs":50,"Economy":74,"English":171,"Environment":52,"General Science":11,"Geography":75,"GST / Inspector of Taxes":71,"History":77,"International Organisations":1,"Meghalaya GK":86,"Officer Technical":17,"Polity":115,"Reasoning":53,"Science":73,"Static GK":3};
+if (active.length !== 1288 || active.filter(q=>q.difficulty==='PYQ').length !== 111) fail('active question or PYQ-tagged totals do not match the audited counts');
+if (batchFiles.length !== 21) fail('expected exactly 20 archived question batches');
+const expectedSubjectCounts = {"Aptitude":32,"Arithmetic":185,"Art & Culture":1,"Books & Authors":1,"Computer":55,"Current Affairs":50,"Economy":82,"English":179,"Environment":61,"General Science":11,"Geography":85,"GST / Inspector of Taxes":81,"History":85,"International Organisations":1,"Meghalaya GK":96,"Officer Technical":17,"Polity":123,"Reasoning":53,"Science":87,"Static GK":3};
 const actualSubjectCounts = {};
 for (const question of active) {
   const subject = question.cat.replace(/ • PYQ$/, '');
