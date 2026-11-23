@@ -1,0 +1,317 @@
+{
+  "schemaVersion": 1,
+  "batchId": "mpsc-professional-tax-2026-11-23",
+  "title": "Meghalaya Professional Tax — Original Practice Set, 23 November 2026",
+  "date": "2026-11-23",
+  "label": "Original Practice",
+  "officialPYQ": false,
+  "targetContribution": 9,
+  "questions": [
+    {
+      "id": 9315,
+      "cat": "Professional Tax / Inspector of Taxes",
+      "topic": "Section 3A — registration versus enrolment",
+      "q": "Under Section 3A of Meghalaya's Professions, Trades, Callings and Employments Taxation Act, which person is required to obtain a certificate of registration?",
+      "o": [
+        "An employer liable to pay tax under Section 3",
+        "Every employee whose tax is deducted by an employer",
+        "Every customer purchasing goods in Meghalaya",
+        "Every person who holds a driving licence"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 3A distinguishes an employer's certificate of registration from an individual's certificate of enrolment. An employer liable under Section 3 must obtain registration; other taxable persons follow the enrolment route unless the Act provides otherwise.\n\nExam method: first identify whether the person is an employer or another taxable person, then distinguish the statutory application deadline from the authority's certificate-issue deadline. The Act and Rules perform different functions.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of Meghalaya — Professions, Trades, Callings and Employments Taxation (Amendment) Act, 2022, Act No. 15 of 2022.",
+      "sourceName": "Government of Meghalaya — Professions, Trades, Callings and Employments Taxation (Amendment) Act, 2022, Act No. 15 of 2022",
+      "sourceURL": "https://meglaw.gov.in/Notification/LL_%28B%29_31_91_49_Dated_Shillong_the_27th_September_2022.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Checked against the Meghalaya Amendment Act 2022 and Amendment Rules on 2026-11-23.",
+      "tags": [
+        "Professional Tax",
+        "Meghalaya",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9316,
+      "cat": "Professional Tax / Inspector of Taxes",
+      "topic": "Section 3A — application deadline",
+      "q": "An employer becomes liable to pay professional tax in Meghalaya on 1 April. Within what period must the employer apply for registration under the amended Act?",
+      "o": [
+        "Within 30 days",
+        "Within 60 days",
+        "Within 90 days",
+        "Within one year"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The amended Section 3A requires an employer to apply for registration within 90 days from the date on which the employer becomes liable to pay tax. The clock is linked to the date liability begins, not to the end of the financial year.\n\nExam method: first identify whether the person is an employer or another taxable person, then distinguish the statutory application deadline from the authority's certificate-issue deadline. The Act and Rules perform different functions.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of Meghalaya — Professions, Trades, Callings and Employments Taxation (Amendment) Act, 2022, Act No. 15 of 2022.",
+      "sourceName": "Government of Meghalaya — Professions, Trades, Callings and Employments Taxation (Amendment) Act, 2022, Act No. 15 of 2022",
+      "sourceURL": "https://meglaw.gov.in/Notification/LL_%28B%29_31_91_49_Dated_Shillong_the_27th_September_2022.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Checked against the Meghalaya Amendment Act 2022 and Amendment Rules on 2026-11-23.",
+      "tags": [
+        "Professional Tax",
+        "Meghalaya",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9317,
+      "cat": "Professional Tax / Inspector of Taxes",
+      "topic": "Rule 9 — employer application form",
+      "q": "Which prescribed form is used for an employer's application for registration under the Meghalaya Professional Tax Rules as amended in 2022?",
+      "o": [
+        "Form IA",
+        "Form IIA",
+        "Form III",
+        "Form IV"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Rule 9(1)(a) prescribes Form IA for an employer's application for registration. Form IIA is used for an application for enrolment by a person other than an employer; distinguish the two application routes.\n\nExam method: first identify whether the person is an employer or another taxable person, then distinguish the statutory application deadline from the authority's certificate-issue deadline. The Act and Rules perform different functions.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of Meghalaya — Amendment Rules 2022, Notification ERTS(T) 122/2021/Pt I/33, 18 January 2023.",
+      "sourceName": "Government of Meghalaya — Amendment Rules 2022, Notification ERTS(T) 122/2021/Pt I/33, 18 January 2023",
+      "sourceURL": "https://www.meghalaya.gov.in/sites/default/files/rules/Notification_ERTS_T_122_2021_Pt_I_33.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Checked against the Meghalaya Amendment Act 2022 and Amendment Rules on 2026-11-23.",
+      "tags": [
+        "Professional Tax",
+        "Meghalaya",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9318,
+      "cat": "Professional Tax / Inspector of Taxes",
+      "topic": "Rule 9 — registration certificate",
+      "q": "After receiving a complete application for employer registration, within what period should the assessing authority issue the certificate of registration under the amended Rules?",
+      "o": [
+        "Seven working days",
+        "Fifteen days",
+        "Thirty days",
+        "Ninety days"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Rule 9(1)(c) provides for issue of the certificate of registration in Form IAA within 30 days of receipt of the application. The question concerns the certificate after application, not the separate 90-day period for the employer to apply after becoming liable.\n\nExam method: first identify whether the person is an employer or another taxable person, then distinguish the statutory application deadline from the authority's certificate-issue deadline. The Act and Rules perform different functions.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of Meghalaya — Amendment Rules 2022, Notification ERTS(T) 122/2021/Pt I/33, 18 January 2023.",
+      "sourceName": "Government of Meghalaya — Amendment Rules 2022, Notification ERTS(T) 122/2021/Pt I/33, 18 January 2023",
+      "sourceURL": "https://www.meghalaya.gov.in/sites/default/files/rules/Notification_ERTS_T_122_2021_Pt_I_33.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Checked against the Meghalaya Amendment Act 2022 and Amendment Rules on 2026-11-23.",
+      "tags": [
+        "Professional Tax",
+        "Meghalaya",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9319,
+      "cat": "Professional Tax / Inspector of Taxes",
+      "topic": "Rule 9 — enrolment certificate",
+      "q": "For an individual applicant seeking enrolment, which statement correctly describes the certificate process under Rule 9(2)?",
+      "o": [
+        "The certificate of enrolment in Form II AA is issued within seven working days after receipt of the application",
+        "The individual receives a GST registration certificate in Form IAA",
+        "The individual must wait until the annual return is filed",
+        "The certificate is issued only by the High Court"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Rule 9(2)(d) provides for the certificate of enrolment in Form II AA within seven working days after receipt of the application. This is different from the employer registration certificate in Form IAA, for which the Rules provide a 30-day period.\n\nExam method: first identify whether the person is an employer or another taxable person, then distinguish the statutory application deadline from the authority's certificate-issue deadline. The Act and Rules perform different functions.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of Meghalaya — Amendment Rules 2022, Notification ERTS(T) 122/2021/Pt I/33, 18 January 2023.",
+      "sourceName": "Government of Meghalaya — Amendment Rules 2022, Notification ERTS(T) 122/2021/Pt I/33, 18 January 2023",
+      "sourceURL": "https://www.meghalaya.gov.in/sites/default/files/rules/Notification_ERTS_T_122_2021_Pt_I_33.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Checked against the Meghalaya Amendment Act 2022 and Amendment Rules on 2026-11-23.",
+      "tags": [
+        "Professional Tax",
+        "Meghalaya",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9320,
+      "cat": "Professional Tax / Inspector of Taxes",
+      "topic": "Section 3A — foreign diplomatic employment",
+      "q": "A citizen of India is employed in Meghalaya by a foreign diplomatic or consular office or a trade commission and is otherwise liable under the Act. Who must obtain enrolment and pay the professional tax?",
+      "o": [
+        "The citizen personally",
+        "The Government of India automatically",
+        "The foreign office only, without enrolment by the employee",
+        "The local municipal body"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Section 3A(3) specifically addresses a citizen of India employed by a foreign diplomatic or consular office or trade commission in the State. The citizen is required to obtain a certificate of enrolment and pay the tax personally under the provision.\n\nExam method: first identify whether the person is an employer or another taxable person, then distinguish the statutory application deadline from the authority's certificate-issue deadline. The Act and Rules perform different functions.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of Meghalaya — Professions, Trades, Callings and Employments Taxation (Amendment) Act, 2022, Act No. 15 of 2022.",
+      "sourceName": "Government of Meghalaya — Professions, Trades, Callings and Employments Taxation (Amendment) Act, 2022, Act No. 15 of 2022",
+      "sourceURL": "https://meglaw.gov.in/Notification/LL_%28B%29_31_91_49_Dated_Shillong_the_27th_September_2022.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Checked against the Meghalaya Amendment Act 2022 and Amendment Rules on 2026-11-23.",
+      "tags": [
+        "Professional Tax",
+        "Meghalaya",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9321,
+      "cat": "Professional Tax / Inspector of Taxes",
+      "topic": "Rule 9 — multiple workplaces",
+      "q": "An enrolled person has a principal place and two additional workplaces in Meghalaya, all within the jurisdiction of the same assessing authority. How many copies of the certificate of enrolment are to be issued under Rule 9(2)(i)?",
+      "o": [
+        "One copy in total",
+        "Two copies",
+        "Three copies",
+        "Four copies"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Rule 9(2)(b) provides for one certificate containing details of the additional places when the workplaces fall within the same jurisdiction. Rule 9(2)(i) provides copies for the principal place and each additional place; three workplaces therefore require three copies.\n\nExam method: first identify whether the person is an employer or another taxable person, then distinguish the statutory application deadline from the authority's certificate-issue deadline. The Act and Rules perform different functions.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of Meghalaya — Amendment Rules 2022, Notification ERTS(T) 122/2021/Pt I/33, 18 January 2023.",
+      "sourceName": "Government of Meghalaya — Amendment Rules 2022, Notification ERTS(T) 122/2021/Pt I/33, 18 January 2023",
+      "sourceURL": "https://www.meghalaya.gov.in/sites/default/files/rules/Notification_ERTS_T_122_2021_Pt_I_33.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Checked against the Meghalaya Amendment Act 2022 and Amendment Rules on 2026-11-23.",
+      "tags": [
+        "Professional Tax",
+        "Meghalaya",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9322,
+      "cat": "Professional Tax / Inspector of Taxes",
+      "topic": "Section 3A — cessation of liability",
+      "q": "A person registered or enrolled under the Meghalaya Professional Tax Act ceases to be an employer, self-employed person or employee liable under the Act. Within what period must the person apply for cancellation?",
+      "o": [
+        "Within 15 days",
+        "Within 30 days",
+        "Within 60 days",
+        "Within 180 days"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The amended Section 3A requires an application for cancellation within 60 days from the date the person ceases to be an employer, self-employed person or employee liable under the Act. The duty to apply does not disappear merely because the business has stopped operating.\n\nExam method: first identify whether the person is an employer or another taxable person, then distinguish the statutory application deadline from the authority's certificate-issue deadline. The Act and Rules perform different functions.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of Meghalaya — Professions, Trades, Callings and Employments Taxation (Amendment) Act, 2022, Act No. 15 of 2022.",
+      "sourceName": "Government of Meghalaya — Professions, Trades, Callings and Employments Taxation (Amendment) Act, 2022, Act No. 15 of 2022",
+      "sourceURL": "https://meglaw.gov.in/Notification/LL_%28B%29_31_91_49_Dated_Shillong_the_27th_September_2022.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Checked against the Meghalaya Amendment Act 2022 and Amendment Rules on 2026-11-23.",
+      "tags": [
+        "Professional Tax",
+        "Meghalaya",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9323,
+      "cat": "Professional Tax / Inspector of Taxes",
+      "topic": "Section 4 — notification of rates",
+      "q": "Following the 2022 amendment to Meghalaya's Professional Tax Act, how are the applicable rates of tax to be prescribed?",
+      "o": [
+        "By notification of the State Government from time to time",
+        "Only by a resolution of every local Dorbar",
+        "By the GST Council",
+        "By the Reserve Bank of India"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The 2022 amendment omits the earlier Schedule and provides for rates to be notified by the State Government from time to time. Therefore, a rate question must be answered from the current State notification rather than by relying on an obsolete Schedule printed in an older copy of the Act.\n\nExam method: first identify whether the person is an employer or another taxable person, then distinguish the statutory application deadline from the authority's certificate-issue deadline. The Act and Rules perform different functions.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Secretariat LDA",
+        "MPSC Inspector of Taxes"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on Government of Meghalaya — Professions, Trades, Callings and Employments Taxation (Amendment) Act, 2022, Act No. 15 of 2022.",
+      "sourceName": "Government of Meghalaya — Professions, Trades, Callings and Employments Taxation (Amendment) Act, 2022, Act No. 15 of 2022",
+      "sourceURL": "https://meglaw.gov.in/Notification/LL_%28B%29_31_91_49_Dated_Shillong_the_27th_September_2022.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Checked against the Meghalaya Amendment Act 2022 and Amendment Rules on 2026-11-23.",
+      "tags": [
+        "Professional Tax",
+        "Meghalaya",
+        "Original Practice"
+      ]
+    }
+  ]
+}
