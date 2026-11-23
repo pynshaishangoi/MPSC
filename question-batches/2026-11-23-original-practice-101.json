@@ -6,7 +6,7 @@
   "label": "Original Practice",
   "officialPYQ": false,
   "targetContribution": 101,
-  "draftedCandidates": 107,
+  "draftedCandidates": 108,
   "questions": [
     {
       "id": 9324,
@@ -2967,52 +2967,18 @@
       ]
     },
     {
-      "id": 9417,
-      "cat": "Arithmetic",
-      "topic": "Dilution — concentration",
-      "q": "A laboratory has 30 litres of a solution containing 40% solute. If 10 litres of pure water are added, what is the new solute concentration?",
-      "o": [
-        "25%",
-        "35%",
-        "30%",
-        "40%"
-      ],
-      "a": 2,
-      "answerIndex": 2,
-      "e": "The original solute quantity is 30 × 0.40 = 12 litres. Adding pure water increases the total volume to 40 litres but does not change the solute quantity. New concentration = 12/40 × 100 = 30%.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
-      "difficulty": "Moderate",
-      "exam": "Meghalaya competitive examinations",
-      "examTags": [
-        "DSC East Khasi Hills LDA-cum-Typist",
-        "MPSC Secretariat LDA"
-      ],
-      "label": "Original Practice",
-      "sourceType": "Original Practice",
-      "isOriginal": true,
-      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
-      "sourceName": "NCERT — Official school textbook portal",
-      "sourceURL": "https://ncert.nic.in/textbook.php",
-      "sourceVerifiedDate": "2026-11-23",
-      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
-      "tags": [
-        "Arithmetic",
-        "Dilution — concentration",
-        "Original Practice"
-      ]
-    },
-    {
       "id": 9418,
       "cat": "Arithmetic",
       "topic": "Compound interest — two years",
       "q": "What compound interest is earned on ₹8,000 at 5% per annum for two years, compounded annually?",
       "o": [
         "₹800",
-        "₹820",
         "₹840",
+        "₹820",
         "₹880"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "Amount after two years = ₹8,000 × 1.05 × 1.05 = ₹8,820. Compound interest is the amount minus principal: ₹8,820 − ₹8,000 = ₹820. The second year's interest is calculated on the first year's increased balance.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -3040,13 +3006,13 @@
       "topic": "Average speed — equal distances",
       "q": "A vehicle travels two equal distances, one at 40 km/h and the other at 60 km/h. What is its average speed for the complete journey?",
       "o": [
-        "48 km/h",
         "50 km/h",
+        "48 km/h",
         "52 km/h",
         "45 km/h"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "For equal distances, average speed is the harmonic mean: 2uv/(u+v). Substituting 40 and 60 gives 2×40×60/(40+60) = 4,800/100 = 48 km/h. A simple arithmetic mean would be wrong because the travel times differ.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -3074,13 +3040,13 @@
       "topic": "Wangala Golden Jubilee, 2026",
       "q": "The Government of Meghalaya's 14 November 2026 press release on the Golden Jubilee of the 1000 Drums Wangala Festival highlighted the participation of how many traditional Dama players?",
       "o": [
+        "1,000",
         "500",
         "750",
-        "2,000",
-        "1,000"
+        "2,000"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "The Meghalaya Government press release dated 14 November 2026 highlighted the participation of 1,000 traditional Dama players during the Golden Jubilee celebration. The question tests the specific number reported for the 2026 event, not the ordinary name “Hundred Drums”.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -3110,11 +3076,11 @@
       "o": [
         "Digital India: Workshop on Smart Villages",
         "Green Meghalaya: Workshop on Solar Rooftops",
-        "Living Heritage: Workshop on Eco-Museums & Community Archives",
-        "Tribal Sports: Workshop on Traditional Games"
+        "Tribal Sports: Workshop on Traditional Games",
+        "Living Heritage: Workshop on Eco-Museums & Community Archives"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "The Department of Arts and Culture press release of 17 November 2026 named the 21 November field programme at Mawphlang Sacred Grove “Living Heritage: Workshop on Eco-Museums & Community Archives”. Its focus was community-led preservation of living traditions and local archives.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -3143,12 +3109,12 @@
       "q": "Where was the campus of the NDRF's 12th Battalion inaugurated on 22 November 2026?",
       "o": [
         "Shillong, Meghalaya",
-        "Itanagar, Arunachal Pradesh",
         "Guwahati, Assam",
+        "Itanagar, Arunachal Pradesh",
         "Kohima, Nagaland"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "The Press Information Bureau reported that the Union Home Minister inaugurated the NDRF 12th Battalion campus in Itanagar on 22 November 2026. The release also stated that the campus would support disaster response in the Northeast and train SDRFs of all eight northeastern states.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -3176,13 +3142,13 @@
       "topic": "India's exports, April–October FY 2026–27",
       "q": "According to the Ministry of Commerce and Industry's November 2026 release, India's combined merchandise and services exports during April–October FY 2026–27 were estimated at:",
       "o": [
-        "US$568.84 billion",
         "US$487.59 billion",
+        "US$568.84 billion",
         "US$309.06 billion",
         "US$662.19 billion"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "The PIB release of 13 November 2026 estimated combined merchandise and services exports at US$568.84 billion for April–October FY 2026–27, up 16.66% from US$487.59 billion a year earlier. US$309.06 billion was merchandise exports alone, not the combined total.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -3210,13 +3176,13 @@
       "topic": "Meghalaya AI Job Fair, 2026",
       "q": "The Government of Meghalaya's first AI Job Fair, held at the State Convention Centre in Shillong on 17 November 2026, announced how many prospective job openings in Shillong?",
       "o": [
+        "125",
         "250",
         "400",
-        "500",
-        "125"
+        "500"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "The Government of Meghalaya press release described 125 prospective job openings in Shillong and anticipated participation by more than 400 candidates and institutional heads. The 400-plus figure referred to expected participants, not job openings.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -3246,15 +3212,15 @@
       "o": [
         "Article 168",
         "Article 171",
-        "Article 169",
-        "Article 174"
+        "Article 174",
+        "Article 169"
       ],
-      "a": 2,
+      "a": 3,
       "e": "Article 169 authorises Parliament to provide by law for the creation or abolition of a State Legislative Council. The State Assembly must first pass a resolution by a majority of its total membership and by not less than two-thirds of members present and voting; the resolution itself does not create the Council.\n\nExam method: distinguish the State Assembly's initiating resolution from the subsequent law made by Parliament.",
       "difficulty": "Moderate",
       "sourceName": "Legislative Department, Government of India — Constitution of India",
       "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
-      "answerIndex": 2,
+      "answerIndex": 3,
       "exam": "Meghalaya competitive examinations",
       "examTags": [
         "MPSC Secretariat LDA",
@@ -3279,16 +3245,16 @@
       "q": "A country's export price index rises relative to its import price index, while other conditions remain unchanged. What does this improvement in the country's terms of trade generally mean?",
       "o": [
         "A given quantity of imports can purchase fewer exports",
-        "A given quantity of exports can purchase more imports",
         "The country's physical export volume must double",
+        "A given quantity of exports can purchase more imports",
         "The exchange rate must become fixed"
       ],
-      "a": 1,
+      "a": 2,
       "e": "The terms of trade are commonly expressed as the export price index divided by the import price index, multiplied by 100. When export prices rise relative to import prices, each unit of exports can command more imports, other things being equal; this does not automatically mean export volume has doubled.\n\nExam method: focus on relative prices, not the physical quantity of exports or the exchange-rate regime.",
       "difficulty": "Moderate",
       "sourceName": "NCERT — Official school textbook portal, economics material",
       "sourceURL": "https://ncert.nic.in/textbook.php",
-      "answerIndex": 1,
+      "answerIndex": 2,
       "exam": "Meghalaya competitive examinations",
       "examTags": [
         "MPSC Inspector of Taxes",
@@ -3312,17 +3278,17 @@
       "topic": "Exclusive disjunction — XOR truth condition",
       "q": "In a logical rule, P XOR Q is true only when:",
       "o": [
-        "Exactly one of P and Q is true",
         "Both P and Q are true",
+        "Exactly one of P and Q is true",
         "Both P and Q are false",
         "P necessarily implies Q"
       ],
-      "a": 0,
+      "a": 1,
       "e": "Exclusive OR (XOR) is true when precisely one of the two propositions is true. It is false when both are true and also false when both are false. This differs from inclusive OR, which is true when at least one proposition is true.\n\nExam method: test the four possible truth combinations and remember that XOR excludes the both-true case.",
       "difficulty": "Moderate",
       "sourceName": "NCERT — Official school textbook portal, mathematics and logic material",
       "sourceURL": "https://ncert.nic.in/textbook.php",
-      "answerIndex": 0,
+      "answerIndex": 1,
       "exam": "Meghalaya competitive examinations",
       "examTags": [
         "DSC East Khasi Hills LDA-cum-Typist",
@@ -3346,17 +3312,17 @@
       "topic": "Blood relations — maternal family",
       "q": "Rohan is the only son of Meera's mother's brother. How is Rohan related to Meera?",
       "o": [
+        "Maternal cousin",
         "Maternal uncle",
         "Nephew",
-        "Brother",
-        "Maternal cousin"
+        "Brother"
       ],
-      "a": 3,
+      "a": 0,
       "e": "Meera's mother's brother is her maternal uncle. The son of that maternal uncle is Meera's cousin, specifically a maternal cousin. The phrase “only son” does not change the relationship; it simply identifies the uncle's child.\n\nExam method: first identify the relative named in the middle of the chain, then move one generation down to identify the person's child.",
       "difficulty": "Easy",
       "sourceName": "NCERT — Official school textbook portal, reasoning and mathematics practice",
       "sourceURL": "https://ncert.nic.in/textbook.php",
-      "answerIndex": 3,
+      "answerIndex": 0,
       "exam": "Meghalaya competitive examinations",
       "examTags": [
         "MPSC Secretariat LDA",
@@ -3382,15 +3348,15 @@
       "o": [
         "A sacred grove reserved for clan worship",
         "A market used only during the Wangala festival",
-        "A traditional dormitory for unmarried male youths",
-        "A stone bridge across a village stream"
+        "A stone bridge across a village stream",
+        "A traditional dormitory for unmarried male youths"
       ],
-      "a": 2,
+      "a": 3,
       "e": "The Meghalaya Government describes a Nokpante as a traditional Garo bachelors' dormitory where unmarried male youths lived and learned community customs, skills and responsibilities. It was a social and educational institution, not a sacred grove or a market structure.\n\nExam method: associate Nokpante with the Garo Hills and the traditional dormitory institution.",
       "difficulty": "Moderate",
       "sourceName": "Government of Meghalaya — Nokpante, Garo traditional institution",
       "sourceURL": "https://www.meghalaya.gov.in/index.php/node/34296",
-      "answerIndex": 2,
+      "answerIndex": 3,
       "exam": "Meghalaya competitive examinations",
       "examTags": [
         "MPSC Inspector of Taxes",
@@ -3415,12 +3381,12 @@
       "q": "An integer n leaves a remainder of 5 when divided by 7. What remainder will 3n leave when divided by 7?",
       "o": [
         "0",
-        "1",
         "2",
+        "1",
         "3"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "Write n = 7k + 5 for some integer k. Then 3n = 21k + 15 = 7(3k + 2) + 1, so the remainder is 1. Expressing the number in quotient-and-remainder form is the safest way to solve this type of modular arithmetic question.\n\nExam method: multiply the known remainder, then reduce it modulo the divisor; do not multiply the quotient unless needed.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -3439,6 +3405,40 @@
       "tags": [
         "Arithmetic",
         "Remainders",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9431,
+      "cat": "Arithmetic",
+      "topic": "Map scale — ratio and unit conversion",
+      "q": "A map scale states that 1 cm represents 250 m on the ground. What ground distance is represented by 7.6 cm on the map?",
+      "o": [
+        "2.1 km",
+        "1.9 km",
+        "1.6 km",
+        "2.4 km"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Ground distance = 7.6 × 250 m = 1,900 m. Since 1,000 m = 1 km, the distance is 1.9 km. Multiply the map measurement by the scale factor, then convert metres to kilometres.\n\nExam method: keep the map unit and ground unit separate until the multiplication is complete; convert only at the end.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT geography and scale-conversion principles.",
+      "sourceName": "NCERT — Official school textbook portal, geography material",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Independently calculated and checked against standard map-scale principles on 2026-11-23.",
+      "tags": [
+        "Arithmetic",
+        "Map scale",
         "Original Practice"
       ]
     }
@@ -3468,6 +3468,10 @@
     {
       "id": 9414,
       "reason": "Same time-and-work combined-rate calculation pattern as active question 6209; changed data would not create a materially different learning objective."
+    },
+    {
+      "id": 9417,
+      "reason": "Conservatively rejected after a numeric option-set overlap with active question 116 (25, 30, 35, 40). The units and concepts differed, but the strict zero-repeat policy favours a different candidate."
     }
   ],
   "status": "validated"
