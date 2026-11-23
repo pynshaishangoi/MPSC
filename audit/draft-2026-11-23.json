@@ -2,7 +2,7 @@
   "date": "2026-11-23",
   "target": 110,
   "startingActiveCount": 1187,
-  "candidatesDrafted": 144,
+  "candidatesDrafted": 145,
   "questions": [
     {
       "id": 9315,
@@ -4897,6 +4897,40 @@
       "source": "Original Practice — not an official PYQ. IETF — RFC 3022, Traditional IP Network Address Translator.",
       "sourceName": "IETF — RFC 3022, Traditional IP Network Address Translator",
       "sourceURL": "https://www.rfc-editor.org/rfc/rfc3022",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9459,
+      "cat": "Computer",
+      "topic": "Data compression — lossless method",
+      "q": "Which statement correctly describes lossless data compression?",
+      "o": [
+        "The original data can be reconstructed exactly after decompression",
+        "Some original information is permanently discarded",
+        "It can be used only for audio files",
+        "It automatically encrypts the compressed file"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Lossless compression reduces the amount of data needed to represent information while preserving enough information to reconstruct the original data exactly. It is useful for text, program files and image formats such as PNG, where even a small change may matter. Lossy compression achieves higher reduction by discarding information that may be less noticeable.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Computer",
+        "Data compression",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. W3C PNG Specification.",
+      "sourceName": "W3C — Portable Network Graphics (PNG) Specification",
+      "sourceURL": "https://www.w3.org/TR/png-3/",
       "sourceVerifiedDate": "2026-11-23",
       "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
     }
