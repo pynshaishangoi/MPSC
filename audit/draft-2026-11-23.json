@@ -1,0 +1,1302 @@
+{
+  "date": "2026-11-23",
+  "target": 110,
+  "startingActiveCount": 1187,
+  "candidatesDrafted": 38,
+  "questions": [
+    {
+      "id": 9315,
+      "cat": "Meghalaya GK",
+      "topic": "Nongkhnum Island — forming river",
+      "q": "Nongkhnum, the river island described by the West Khasi Hills district portal, is formed by the divergence of which river near Diangsyiang and Diligim? ",
+      "o": [
+        "Kynshi",
+        "Simsang",
+        "Umngot",
+        "Myntdu"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The official district account says the Kynshi divides near Diangsyiang and Diligim into the northern Namliang and southern Phanliang streams. The land between the diverging channels forms Nongkhnum Island. The question tests the river system, not the names of the island's waterfalls.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Nongkhnum Island — forming river",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — Nongstoin / West Khasi Hills district profile.",
+      "sourceName": "Government of Meghalaya — Nongstoin / West Khasi Hills district profile",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34297",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9316,
+      "cat": "Meghalaya GK",
+      "topic": "Kyllang Rock — geology",
+      "q": "According to the West Khasi Hills district profile, Kyllang Rock near Mairang is composed of a single huge mass of which rock type?",
+      "o": [
+        "Sedimentary limestone",
+        "Metamorphic slate",
+        "Igneous rock",
+        "Unconsolidated alluvium"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The district profile describes Kyllang Rock as a single, huge solid igneous rock at Mawnai, about 10 km from Mairang. Igneous rocks form through the cooling and solidification of magma or lava. The other options describe different rock origins or loose deposits.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Kyllang Rock — geology",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — Nongstoin / West Khasi Hills district profile.",
+      "sourceName": "Government of Meghalaya — Nongstoin / West Khasi Hills district profile",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34297",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9317,
+      "cat": "Meghalaya GK",
+      "topic": "Ta'sek Lake — origin",
+      "q": "The official East Garo Hills profile attributes the formation of Ta'sek Lake near Songsak to the action of which river during the Great Earthquake of 1897?",
+      "o": [
+        "Damring",
+        "Simsang",
+        "Dudhnoi",
+        "Ganold"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The Williamnagar profile states that Ta'sek Lake was formed by the River Damring during the Great Earthquake of 1897. The lake is near the Songsak block. This is a location-specific Meghalaya geography fact; it is not a question about the much larger Simsang river system.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Ta'sek Lake — origin",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — Williamnagar / East Garo Hills district profile.",
+      "sourceName": "Government of Meghalaya — Williamnagar / East Garo Hills district profile",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34290",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9318,
+      "cat": "Meghalaya GK",
+      "topic": "Rong'bang Falls — river system",
+      "q": "Rong'bang Falls, also called Rong'bang Dare, is described by the East Garo Hills district profile as a tributary of which river?",
+      "o": [
+        "Umngot",
+        "Simsang",
+        "Kynshi",
+        "Umiam"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The official Williamnagar profile identifies Rong'bang Falls as a tributary of the Simsang River. The waterfall lies on the Tura–Williamnagar road beyond Rombagre village. A tributary is a smaller stream that flows into a larger river; the question checks the correct Garo Hills river association.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Rong'bang Falls — river system",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — Williamnagar / East Garo Hills district profile.",
+      "sourceName": "Government of Meghalaya — Williamnagar / East Garo Hills district profile",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34290",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9319,
+      "cat": "Meghalaya GK",
+      "topic": "Arbella Peak — elevation",
+      "q": "What elevation above sea level is assigned to Arbella Peak on the north-eastern flank of Tura by the Government of Meghalaya's Tura profile?",
+      "o": [
+        "699 metres",
+        "799 metres",
+        "899 metres",
+        "999 metres"
+      ],
+      "a": 3,
+      "answerIndex": 3,
+      "e": "The Tura profile gives Arbella Peak an elevation of 999 metres above sea level and places it on the north-eastern flank of Tura. The peak belongs to the Arbella Range. The question is based on the stated elevation in the official district portal, rather than an estimate from a map.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Arbella Peak — elevation",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — Tura / West Garo Hills district profile.",
+      "sourceName": "Government of Meghalaya — Tura / West Garo Hills district profile",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34296",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9320,
+      "cat": "Meghalaya GK",
+      "topic": "Shillong — former capital of Assam",
+      "q": "In which year did Shillong become the capital of Assam under the historical account on the Government of Meghalaya portal?",
+      "o": [
+        "1861",
+        "1874",
+        "1905",
+        "1921"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The state profile records that Shillong was made the capital of Assam in 1874 and continued in that role until January 1972, when Meghalaya was formed as a full-fledged State. The question asks for the earlier administrative milestone, not Meghalaya's statehood date.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Shillong — former capital of Assam",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — About Meghalaya.",
+      "sourceName": "Government of Meghalaya — About Meghalaya",
+      "sourceURL": "https://meghalaya.gov.in/22429-sq-km",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9321,
+      "cat": "Meghalaya GK",
+      "topic": "West Khasi Hills — Iew market cycle",
+      "q": "The West Khasi Hills profile describes traditional markets called 'Iew' as operating on which cycle?",
+      "o": [
+        "Every fifth day",
+        "Every seventh day",
+        "Every eighth day",
+        "Every tenth day"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The district profile describes an '8 days-a-week' market system: markets called Iew are held after every eight days at different places on different days. They function not only as trading centres but also as social meeting places and venues for local festivities.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "West Khasi Hills — Iew market cycle",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — Nongstoin / West Khasi Hills district profile.",
+      "sourceName": "Government of Meghalaya — Nongstoin / West Khasi Hills district profile",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34297",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9322,
+      "cat": "Meghalaya GK",
+      "topic": "Garo Hills — British annexation",
+      "q": "According to the East Garo Hills district profile, in which year did the British annex the Garo Hills after prolonged conflict around the hill estates?",
+      "o": [
+        "1857",
+        "1873",
+        "1879",
+        "1905"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Williamnagar profile states that conflict involving the Garo Hills and adjoining estates led to British annexation in 1873. It separately records that the unified Garo Hills district was later bifurcated into East and West Garo Hills in October 1979. The two dates refer to different historical events.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Garo Hills — British annexation",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — Williamnagar / East Garo Hills district profile.",
+      "sourceName": "Government of Meghalaya — Williamnagar / East Garo Hills district profile",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34290",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9323,
+      "cat": "Meghalaya GK",
+      "topic": "Riangdo — experimental tea centre",
+      "q": "The West Khasi Hills profile places the experimental tea centre established in 1976–77 at Riangdo under which development block?",
+      "o": [
+        "Nongstoin",
+        "Mawkyrwat",
+        "Mawshynrut",
+        "Ranikor"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The district profile states that an experimental tea centre was established at Riangdo in 1976–77 under the Mawshynrut Development Block. The centre initially covered 2.72 hectares and tested several tea varieties. The block association is the fact being tested.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Riangdo — experimental tea centre",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Government of Meghalaya — Nongstoin / West Khasi Hills district profile.",
+      "sourceName": "Government of Meghalaya — Nongstoin / West Khasi Hills district profile",
+      "sourceURL": "https://meghalaya.gov.in/index.php/node/34297",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9324,
+      "cat": "Meghalaya GK",
+      "topic": "Mawthadraishan Range — orientation",
+      "q": "In which general direction does the Mawthadraishan Range run through Eastern West Khasi Hills, according to the district tourism portal?",
+      "o": [
+        "North to south",
+        "East to west",
+        "North-east to south-west",
+        "North-west to south-east"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "The Eastern West Khasi Hills tourism portal explicitly describes the Mawthadraishan Range as running east to west through the district. The portal also identifies Mawthadraishan Peak as the district's highest elevation. The answer follows the stated orientation, not the direction of a road or river.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Meghalaya GK",
+        "Mawthadraishan Range — orientation",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Eastern West Khasi Hills District Administration — Tourist Places.",
+      "sourceName": "Eastern West Khasi Hills District Administration — Tourist Places",
+      "sourceURL": "https://easternwestkhasihills.meghalaya.gov.in/tourist-places/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9325,
+      "cat": "Polity",
+      "topic": "Article 169 — Legislative Council resolution",
+      "q": "Before Parliament may create or abolish a State Legislative Council under Article 169, what resolution must the State Legislative Assembly pass?",
+      "o": [
+        "A simple majority of members present and voting only",
+        "A majority of the total membership and at least two-thirds of members present and voting",
+        "A unanimous resolution of the Assembly",
+        "A resolution supported by two-thirds of the total membership only"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 169 requires the Assembly resolution to satisfy two tests together: it must be supported by a majority of the total membership of the Assembly and by a majority of not less than two-thirds of members present and voting. After that, Parliament may provide for creation or abolition by law.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 169 — Legislative Council resolution",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, Article 169.",
+      "sourceName": "Legislative Department — Constitution of India, Article 169",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9326,
+      "cat": "Polity",
+      "topic": "Article 280 — Finance Commission interval",
+      "q": "Under Article 280, after the initial Commission, at what interval must the President ordinarily constitute a Finance Commission?",
+      "o": [
+        "Every third year",
+        "Every fourth year",
+        "Every fifth year",
+        "Every tenth year"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Article 280 directs the President to constitute a Finance Commission at the expiration of every fifth year, or at such earlier time as the President considers necessary. The Commission recommends matters including the distribution of certain tax proceeds between the Union and the States.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 280 — Finance Commission interval",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, Article 280.",
+      "sourceName": "Legislative Department — Constitution of India, Article 280",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9327,
+      "cat": "Polity",
+      "topic": "Article 110 — Money Bill subject matter",
+      "q": "A Bill qualifies as a Money Bill under Article 110 only when it contains provisions dealing with which of the following?",
+      "o": [
+        "Any matter of general public importance",
+        "Only matters listed in Article 110(1), such as taxation, borrowing or appropriation from the Consolidated Fund",
+        "Any Bill introduced in the Lok Sabha by a Minister",
+        "Any Bill that the Finance Minister describes as financial"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 110 defines a Money Bill by its subject matter. It must contain only provisions dealing with one or more of the specified matters, such as taxation, government borrowing, custody of the Consolidated Fund or appropriation from it. A Bill does not become a Money Bill merely because it concerns public finance generally.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 110 — Money Bill subject matter",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, Article 110.",
+      "sourceName": "Legislative Department — Constitution of India, Article 110",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9328,
+      "cat": "Polity",
+      "topic": "Article 112 — Annual Financial Statement",
+      "q": "Which constitutional article requires the President to cause the estimated receipts and expenditure of the Government of India for a financial year to be laid before both Houses of Parliament?",
+      "o": [
+        "Article 110",
+        "Article 112",
+        "Article 114",
+        "Article 116"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 112 calls this statement the Annual Financial Statement. It presents the estimated receipts and expenditure of the Government of India for the financial year. The Constitution separately provides for demands for grants and appropriation in the following articles.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 112 — Annual Financial Statement",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, Article 112.",
+      "sourceName": "Legislative Department — Constitution of India, Article 112",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9329,
+      "cat": "Polity",
+      "topic": "Article 148 — appointment of CAG",
+      "q": "Who appoints the Comptroller and Auditor-General of India under Article 148?",
+      "o": [
+        "The Prime Minister by executive order",
+        "The President by warrant under his hand and seal",
+        "The Speaker of the Lok Sabha",
+        "The Chief Justice of India"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 148 provides that the Comptroller and Auditor-General of India is appointed by the President by warrant under the President's hand and seal. The same article protects the CAG's independence by providing that removal is in like manner and on like grounds as a Supreme Court judge.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 148 — appointment of CAG",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, Article 148.",
+      "sourceName": "Legislative Department — Constitution of India, Article 148",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9330,
+      "cat": "Polity",
+      "topic": "Article 249 — Rajya Sabha special resolution",
+      "q": "For Parliament to legislate on a State List matter in the national interest under Article 249, what support must a Rajya Sabha resolution receive?",
+      "o": [
+        "A majority of the total membership of Rajya Sabha",
+        "Not less than two-thirds of members present and voting",
+        "Three-fourths of the total membership of both Houses",
+        "A unanimous vote of the Rajya Sabha"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 249 requires a Council of States resolution supported by not less than two-thirds of the members present and voting. The resolution must declare that it is necessary or expedient in the national interest for Parliament to legislate on the specified State List matter. The power operates while the resolution remains in force.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 249 — Rajya Sabha special resolution",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, Article 249.",
+      "sourceName": "Legislative Department — Constitution of India, Article 249",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9331,
+      "cat": "Polity",
+      "topic": "Article 252 — State consent to Parliamentary law",
+      "q": "Two or more State Legislatures want Parliament to regulate a matter in the State List for them. Under Article 252, what is the necessary first step?",
+      "o": [
+        "The Governors must jointly request Parliament",
+        "All Houses of the legislatures of those States must pass resolutions to that effect",
+        "The President must issue an ordinance",
+        "The Rajya Sabha must pass a two-thirds resolution under Article 249"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 252 allows Parliament to legislate for two or more States on a State List matter when resolutions to that effect are passed by all the Houses of the legislatures of those States. Another State may later adopt the law by passing its own resolution. This is distinct from Article 249's national-interest route.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 252 — State consent to Parliamentary law",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, Article 252.",
+      "sourceName": "Legislative Department — Constitution of India, Article 252",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9332,
+      "cat": "Polity",
+      "topic": "Article 256 — Union directions to States",
+      "q": "Article 256 permits the Union executive to issue directions to a State principally to ensure compliance with which laws?",
+      "o": [
+        "Only laws made by the State Legislature",
+        "Laws made by Parliament and existing laws applicable in that State",
+        "Only international treaties",
+        "Only laws passed by the Rajya Sabha"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 256 requires the executive power of every State to be exercised so as to ensure compliance with laws made by Parliament and existing laws applicable in that State. The Union's executive power extends to giving directions necessary for that purpose. It is a constitutional mechanism for ensuring legal compliance.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 256 — Union directions to States",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, Article 256.",
+      "sourceName": "Legislative Department — Constitution of India, Article 256",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9333,
+      "cat": "Polity",
+      "topic": "Article 279A — GST Council chairperson",
+      "q": "Who is the Chairperson of the Goods and Services Tax Council under Article 279A?",
+      "o": [
+        "The Prime Minister",
+        "The Union Finance Minister",
+        "The Union Minister of Commerce",
+        "The Chairperson of the Finance Commission"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 279A expressly makes the Union Finance Minister the Chairperson of the GST Council. The Union Minister of State in charge of Revenue or Finance is another member, and each State nominates its Minister in charge of Finance or Taxation, or another Minister, as a member.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 279A — GST Council chairperson",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, Article 279A.",
+      "sourceName": "Legislative Department — Constitution of India, Article 279A",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9334,
+      "cat": "Polity",
+      "topic": "Article 323A — administrative tribunals",
+      "q": "Article 323A empowers Parliament to provide for administrative tribunals to adjudicate disputes mainly relating to which subject?",
+      "o": [
+        "Election petitions to Parliament",
+        "Recruitment and conditions of service of persons appointed to public services and posts",
+        "Inter-State river water disputes",
+        "Taxation of agricultural land"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 323A concerns administrative tribunals for disputes and complaints about recruitment and conditions of service in public services and posts under the Union, States, local or other authorities, and government-controlled corporations. It is the constitutional basis for service-related administrative tribunals.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 323A — administrative tribunals",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, Article 323A.",
+      "sourceName": "Legislative Department — Constitution of India, Article 323A",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9335,
+      "cat": "English",
+      "topic": "Idiom — at sixes and sevens",
+      "q": "Choose the meaning of the idiom 'at sixes and sevens' in the sentence: 'After the records were shifted, the files were left at sixes and sevens.'",
+      "o": [
+        "Arranged in strict order",
+        "In a state of confusion or disorder",
+        "Kept under legal custody",
+        "Divided into equal groups"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "'At sixes and sevens' means in a confused, disorganised or unsettled state. The sentence describes files that have been left without a proper arrangement. It does not mean that the files are literally numbered six and seven or divided into equal groups.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Idiom — at sixes and sevens",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — idiom 'at sixes and sevens'.",
+      "sourceName": "Cambridge Dictionary — idiom 'at sixes and sevens'",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/at-sixes-and-sevens",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9336,
+      "cat": "English",
+      "topic": "Vocabulary — disinterested",
+      "q": "In formal English, a 'disinterested observer' is best described as a person who is:",
+      "o": [
+        "Bored and inattentive",
+        "Impartial and not personally involved",
+        "Hostile to every proposal",
+        "Unable to understand the issue"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "'Disinterested' traditionally means impartial or free from personal interest in the outcome. It should not be confused with 'uninterested', which means lacking curiosity or attention. In an official report, a disinterested observer is one who can assess the matter without personal bias.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Vocabulary — disinterested",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — 'disinterested'.",
+      "sourceName": "Cambridge Dictionary — 'disinterested'",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/disinterested",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9337,
+      "cat": "English",
+      "topic": "Vocabulary — abrogate",
+      "q": "The word 'abrogate' is closest in meaning to:",
+      "o": [
+        "Formally repeal or abolish",
+        "Temporarily postpone",
+        "Publicly praise",
+        "Explain in detail"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "'Abrogate' means to formally end, repeal or abolish a law, agreement or established arrangement. It is stronger and more formal than simply delaying something. In administrative and legal writing, a rule may be abrogated by a competent authority through the appropriate legal process.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Vocabulary — abrogate",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — 'abrogate'.",
+      "sourceName": "Cambridge Dictionary — 'abrogate'",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/abrogate",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9338,
+      "cat": "English",
+      "topic": "Phrase — in lieu of",
+      "q": "The office issued a digital acknowledgement in lieu of a paper receipt. The phrase 'in lieu of' means:",
+      "o": [
+        "In addition to",
+        "Instead of",
+        "After the expiry of",
+        "Without reference to"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "'In lieu of' means 'instead of' or 'in place of'. The sentence says that the digital acknowledgement was issued as a substitute for the paper receipt, not as an additional document. This phrase is common in formal administrative and legal writing.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Phrase — in lieu of",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — 'in lieu of'.",
+      "sourceName": "Cambridge Dictionary — 'in lieu of'",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/in-lieu-of",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9339,
+      "cat": "English",
+      "topic": "Pronoun case — object after preposition",
+      "q": "Choose the correct pronoun: 'The final decision rests between you and ___.'",
+      "o": [
+        "I",
+        "myself",
+        "me",
+        "mine"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "The preposition 'between' takes an object pronoun. Therefore 'me' is correct: 'between you and me'. 'I' is a subject pronoun, 'mine' is possessive, and 'myself' is a reflexive form that cannot replace the ordinary object pronoun here.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Pronoun case — object after preposition",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — personal pronouns.",
+      "sourceName": "Cambridge Dictionary — personal pronouns",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/pronouns-personal-i-me-you-him-it-they-etc",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9340,
+      "cat": "English",
+      "topic": "Subjunctive — hypothetical advice",
+      "q": "Choose the correct completion: 'If I ___ in your position, I would verify the source before signing the note.'",
+      "o": [
+        "am",
+        "was",
+        "were",
+        "be"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "In a hypothetical or unreal condition, formal English commonly uses 'were' for all persons: 'If I were in your position'. The clause describes an imagined situation, not a factual past event. 'Was' is common in informal speech but 'were' is the standard subjunctive form in this construction.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Subjunctive — hypothetical advice",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — hypothetical conditionals.",
+      "sourceName": "Cambridge Dictionary — hypothetical conditionals",
+      "sourceURL": "https://dictionary.cambridge.org/grammar/british-grammar/conditionals-if",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9341,
+      "cat": "English",
+      "topic": "Vocabulary — cogent",
+      "q": "A 'cogent argument' is one that is:",
+      "o": [
+        "Confusing and incomplete",
+        "Persuasive because it is clear and well-reasoned",
+        "Based entirely on emotion",
+        "Repeated without evidence"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "'Cogent' describes an argument or reason that is clear, logical and convincing. A cogent submission connects its evidence to its conclusion in a way that can be followed. It does not mean merely lengthy, emotional or frequently repeated.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Vocabulary — cogent",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — 'cogent'.",
+      "sourceName": "Cambridge Dictionary — 'cogent'",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/cogent",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9342,
+      "cat": "English",
+      "topic": "Idiom — red-letter day",
+      "q": "If an employee describes the day of receiving a long-awaited appointment order as a 'red-letter day', the phrase means:",
+      "o": [
+        "A day marked by a legal notice",
+        "A particularly memorable or important day",
+        "A day of compulsory leave",
+        "A day when accounts are closed"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A 'red-letter day' is a day that is especially important, happy or memorable. The expression is often used for a significant personal or public event. In the sentence, receiving the appointment order makes the day memorable; it has nothing to do with the colour of a document.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "English",
+        "Idiom — red-letter day",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Cambridge Dictionary — 'red-letter day'.",
+      "sourceName": "Cambridge Dictionary — 'red-letter day'",
+      "sourceURL": "https://dictionary.cambridge.org/dictionary/english/red-letter-day",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9343,
+      "cat": "Arithmetic",
+      "topic": "Compound interest — half-yearly compounding",
+      "q": "What compound interest is earned on ₹10,000 at 10% per annum for one year when interest is compounded half-yearly?",
+      "o": [
+        "₹1,000",
+        "₹1,025",
+        "₹1,050",
+        "₹1,100"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Half-yearly compounding divides the annual rate into two periods. The rate per half-year is 10% ÷ 2 = 5%, and there are two periods. Amount = 10,000 × 1.05 × 1.05 = ₹11,025. Compound interest = 11,025 − 10,000 = ₹1,025.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Compound interest — half-yearly compounding",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9344,
+      "cat": "Arithmetic",
+      "topic": "Average speed — equal distances",
+      "q": "A vehicle travels the same distance at 40 km/h and 60 km/h. What is its average speed for the complete journey?",
+      "o": [
+        "45 km/h",
+        "48 km/h",
+        "50 km/h",
+        "52 km/h"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "For equal distances, average speed is not the simple arithmetic mean. Let each distance be d. Total distance is 2d and total time is d/40 + d/60 = d/24. Therefore average speed = 2d ÷ (d/24) = 48 km/h. The harmonic-mean formula gives the same result: 2ab/(a+b).",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Average speed — equal distances",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9345,
+      "cat": "Arithmetic",
+      "topic": "Time and work — alternate days",
+      "q": "A can finish a job alone in 12 days and B in 18 days. They work on alternate days, beginning with A. How long will the job take?",
+      "o": [
+        "13 days",
+        "14 days",
+        "14⅓ days",
+        "15 days"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "In two days, A and B together complete 1/12 + 1/18 = 5/36 of the job. Six two-day cycles complete 30/36 = 5/6 in 12 days. On day 13, A completes 3/36, leaving 3/36? After day 13 the completed work is 33/36; B completes 2/36 on day 14, leaving 1/36. A completes that fraction in (1/36) ÷ (1/12) = 1/3 day. Total time is 14⅓ days.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Time and work — alternate days",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9346,
+      "cat": "Arithmetic",
+      "topic": "Probability — without replacement",
+      "q": "A bag contains 5 red balls and 3 blue balls. Two balls are drawn one after another without replacement. What is the probability that both are red?",
+      "o": [
+        "5/14",
+        "3/14",
+        "5/28",
+        "1/2"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The probability that the first ball is red is 5/8. After one red ball is removed, 4 red balls remain among 7 balls, so the probability that the second is red is 4/7. Multiply the conditional probabilities: (5/8) × (4/7) = 20/56 = 5/14.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Probability — without replacement",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9347,
+      "cat": "Arithmetic",
+      "topic": "Similar figures — area scale factor",
+      "q": "Two similar triangles have corresponding side lengths in the ratio 3:5. What is the ratio of their areas?",
+      "o": [
+        "3:5",
+        "6:10",
+        "9:25",
+        "27:125"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "For similar figures, areas vary as the square of the ratio of corresponding lengths. Squaring 3:5 gives 3²:5² = 9:25. The ratio 3:5 would apply to corresponding lengths, not areas; 27:125 would be a volume ratio for similar three-dimensional solids.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Similar figures — area scale factor",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9348,
+      "cat": "Arithmetic",
+      "topic": "Sector geometry — arc length",
+      "q": "A circle has radius 14 cm. What is the length of the minor arc subtended by a central angle of 90°? Use π = 22/7.",
+      "o": [
+        "11 cm",
+        "22 cm",
+        "28 cm",
+        "44 cm"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A 90° sector is one quarter of a full circle. The full circumference is 2πr = 2 × 22/7 × 14 = 88 cm. One quarter of 88 cm is 22 cm. The formula is arc length = (θ/360°) × 2πr.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Sector geometry — arc length",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9349,
+      "cat": "Arithmetic",
+      "topic": "Two-digit numbers — digit equations",
+      "q": "A two-digit number has digits whose sum is 11. The tens digit is 3 greater than the units digit. What is the number?",
+      "o": [
+        "47",
+        "65",
+        "74",
+        "83"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Let the units digit be u. The tens digit is u + 3. Since their sum is 11, u + (u + 3) = 11, so 2u = 8 and u = 4. The tens digit is 7, giving the number 74. Checking: 7 + 4 = 11 and 7 − 4 = 3.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Two-digit numbers — digit equations",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9350,
+      "cat": "Arithmetic",
+      "topic": "Train and platform — relative distance",
+      "q": "A train 180 metres long travels at 54 km/h. How long will it take to cross a platform 270 metres long?",
+      "o": [
+        "20 seconds",
+        "25 seconds",
+        "30 seconds",
+        "35 seconds"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "To clear the platform, the train's front must travel the train length plus the platform length: 180 + 270 = 450 metres. Convert 54 km/h to 15 m/s by multiplying by 5/18. Time = distance ÷ speed = 450/15 = 30 seconds.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Train and platform — relative distance",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9351,
+      "cat": "Arithmetic",
+      "topic": "Inverse variation — constant product",
+      "q": "The variable y is inversely proportional to x. If y = 18 when x = 4, what is y when x = 6?",
+      "o": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "For inverse variation, xy is constant. From the first pair, the constant is 4 × 18 = 72. When x = 6, y = 72/6 = 12. As x increases, y decreases in the same inverse proportion; multiplying x and y verifies the relationship.",
+      "difficulty": "Easy",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Inverse variation — constant product",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9352,
+      "cat": "Arithmetic",
+      "topic": "Age ratio — future condition",
+      "q": "The present ages of A and B are in the ratio 4:5. After 6 years, their ages will be in the ratio 5:6. What is the sum of their present ages?",
+      "o": [
+        "42 years",
+        "48 years",
+        "54 years",
+        "60 years"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Let the present ages be 4x and 5x. After six years, (4x+6)/(5x+6) = 5/6. Cross-multiplying gives 24x + 36 = 25x + 30, so x = 6. Their present ages are 24 and 30 years, and the sum is 54 years.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Age ratio — future condition",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    }
+  ],
+  "rejectedCandidates": [],
+  "note": "Working draft on a non-main branch; not a publication or active-bank addition."
+}
