@@ -13,13 +13,13 @@
       "topic": "Section 3A — registration versus enrolment",
       "q": "Under Section 3A of Meghalaya's Professions, Trades, Callings and Employments Taxation Act, which person is required to obtain a certificate of registration?",
       "o": [
-        "An employer liable to pay tax under Section 3",
         "Every employee whose tax is deducted by an employer",
+        "An employer liable to pay tax under Section 3",
         "Every customer purchasing goods in Meghalaya",
         "Every person who holds a driving licence"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "Section 3A distinguishes an employer's certificate of registration from an individual's certificate of enrolment. An employer liable under Section 3 must obtain registration; other taxable persons follow the enrolment route unless the Act provides otherwise.\n\nExam method: first identify whether the person is an employer or another taxable person, then distinguish the statutory application deadline from the authority's certificate-issue deadline. The Act and Rules perform different functions.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -47,13 +47,13 @@
       "topic": "Section 3A — application deadline",
       "q": "An employer becomes liable to pay professional tax in Meghalaya on 1 April. Within what period must the employer apply for registration under the amended Act?",
       "o": [
+        "Within 90 days",
         "Within 30 days",
         "Within 60 days",
-        "Within 90 days",
         "Within one year"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 0,
+      "answerIndex": 0,
       "e": "The amended Section 3A requires an employer to apply for registration within 90 days from the date on which the employer becomes liable to pay tax. The clock is linked to the date liability begins, not to the end of the financial year.\n\nExam method: first identify whether the person is an employer or another taxable person, then distinguish the statutory application deadline from the authority's certificate-issue deadline. The Act and Rules perform different functions.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -81,13 +81,13 @@
       "topic": "Rule 9 — employer application form",
       "q": "Which prescribed form is used for an employer's application for registration under the Meghalaya Professional Tax Rules as amended in 2022?",
       "o": [
-        "Form IA",
         "Form IIA",
         "Form III",
-        "Form IV"
+        "Form IV",
+        "Form IA"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 3,
+      "answerIndex": 3,
       "e": "Rule 9(1)(a) prescribes Form IA for an employer's application for registration. Form IIA is used for an application for enrolment by a person other than an employer; distinguish the two application routes.\n\nExam method: first identify whether the person is an employer or another taxable person, then distinguish the statutory application deadline from the authority's certificate-issue deadline. The Act and Rules perform different functions.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -113,7 +113,7 @@
       "id": 9318,
       "cat": "Professional Tax / Inspector of Taxes",
       "topic": "Rule 9 — registration certificate",
-      "q": "After receiving a complete application for employer registration, within what period should the assessing authority issue the certificate of registration under the amended Rules?",
+      "q": "After receiving an employer registration application that is in order and contains the necessary particulars, within what period should the assessing authority issue the certificate of registration under the amended Rules?",
       "o": [
         "Seven working days",
         "Fifteen days",
@@ -149,13 +149,13 @@
       "topic": "Rule 9 — enrolment certificate",
       "q": "For an individual applicant seeking enrolment, which statement correctly describes the certificate process under Rule 9(2)?",
       "o": [
-        "The certificate of enrolment in Form II AA is issued within seven working days after receipt of the application",
         "The individual receives a GST registration certificate in Form IAA",
+        "The certificate of enrolment in Form II AA is issued within seven working days after receipt of the application",
         "The individual must wait until the annual return is filed",
         "The certificate is issued only by the High Court"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "Rule 9(2)(d) provides for the certificate of enrolment in Form II AA within seven working days after receipt of the application. This is different from the employer registration certificate in Form IAA, for which the Rules provide a 30-day period.\n\nExam method: first identify whether the person is an employer or another taxable person, then distinguish the statutory application deadline from the authority's certificate-issue deadline. The Act and Rules perform different functions.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -219,11 +219,11 @@
       "o": [
         "One copy in total",
         "Two copies",
-        "Three copies",
-        "Four copies"
+        "Four copies",
+        "Three copies"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "Rule 9(2)(b) provides for one certificate containing details of the additional places when the workplaces fall within the same jurisdiction. Rule 9(2)(i) provides copies for the principal place and each additional place; three workplaces therefore require three copies.\n\nExam method: first identify whether the person is an employer or another taxable person, then distinguish the statutory application deadline from the authority's certificate-issue deadline. The Act and Rules perform different functions.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -285,13 +285,13 @@
       "topic": "Section 4 — notification of rates",
       "q": "Following the 2022 amendment to Meghalaya's Professional Tax Act, how are the applicable rates of tax to be prescribed?",
       "o": [
-        "By notification of the State Government from time to time",
         "Only by a resolution of every local Dorbar",
+        "By notification of the State Government from time to time",
         "By the GST Council",
         "By the Reserve Bank of India"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "The 2022 amendment omits the earlier Schedule and provides for rates to be notified by the State Government from time to time. Therefore, a rate question must be answered from the current State notification rather than by relying on an obsolete Schedule printed in an older copy of the Act.\n\nExam method: first identify whether the person is an employer or another taxable person, then distinguish the statutory application deadline from the authority's certificate-issue deadline. The Act and Rules perform different functions.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -313,5 +313,9 @@
         "Original Practice"
       ]
     }
-  ]
+  ],
+  "draftedCandidates": 9,
+  "validatedQuestions": 9,
+  "rejectedCandidates": [],
+  "status": "validated"
 }
