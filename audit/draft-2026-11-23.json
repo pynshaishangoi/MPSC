@@ -2,7 +2,7 @@
   "date": "2026-11-23",
   "target": 110,
   "startingActiveCount": 1187,
-  "candidatesDrafted": 145,
+  "candidatesDrafted": 146,
   "questions": [
     {
       "id": 9315,
@@ -1810,7 +1810,7 @@
       "id": 9368,
       "cat": "Geography",
       "topic": "Fjord — glacial landform",
-      "q": "A fjord is best described as:",
+      "q": "A deep, narrow coastal inlet with steep sides, formed when a glacially carved valley is flooded by seawater, is called a:",
       "o": [
         "A crescent-shaped sand dune",
         "A deep, narrow glacial valley flooded by seawater",
@@ -4931,6 +4931,40 @@
       "source": "Original Practice — not an official PYQ. W3C PNG Specification.",
       "sourceName": "W3C — Portable Network Graphics (PNG) Specification",
       "sourceURL": "https://www.w3.org/TR/png-3/",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9460,
+      "cat": "Polity",
+      "topic": "Article 267 — Contingency Fund of India",
+      "q": "Under Article 267(1), the Contingency Fund of India is placed at the disposal of whom so that advances can be made for unforeseen expenditure pending authorisation by Parliament?",
+      "o": [
+        "The Prime Minister",
+        "The President",
+        "The Speaker of the Lok Sabha",
+        "The Comptroller and Auditor-General"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Article 267(1) provides for a Contingency Fund of India in the nature of an imprest. It is placed at the disposal of the President to enable advances for meeting unforeseen expenditure pending authorisation by Parliament by law. Article 267(2) separately allows a State Legislature to establish a State Contingency Fund placed at the disposal of the Governor.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Polity",
+        "Article 267",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Legislative Department — Constitution of India, Article 267.",
+      "sourceName": "Legislative Department — Constitution of India, Article 267",
+      "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
       "sourceVerifiedDate": "2026-11-23",
       "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
     }
