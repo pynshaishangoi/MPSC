@@ -2,7 +2,7 @@
   "date": "2026-11-23",
   "target": 110,
   "startingActiveCount": 1187,
-  "candidatesDrafted": 139,
+  "candidatesDrafted": 142,
   "questions": [
     {
       "id": 9315,
@@ -81,7 +81,7 @@
         "Damring",
         "Simsang",
         "Dudhnoi",
-        "Ganold"
+        "Ganol"
       ],
       "a": 0,
       "answerIndex": 0,
@@ -340,7 +340,7 @@
       "sourceType": "Original Practice",
       "source": "Original Practice — not an official PYQ. Eastern West Khasi Hills District Administration — Tourist Places.",
       "sourceName": "Eastern West Khasi Hills District Administration — Tourist Places",
-      "sourceURL": "https://easternwestkhasihills.meghalaya.gov.in/tourist-places/",
+      "sourceURL": "https://easternwestkhasihills.meghalaya.gov.in/tourist-place/the-mawthadraishan-range/",
       "sourceVerifiedDate": "2026-11-23",
       "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
     },
@@ -1037,7 +1037,7 @@
       ],
       "a": 2,
       "answerIndex": 2,
-      "e": "In two days, A and B together complete 1/12 + 1/18 = 5/36 of the job. Six two-day cycles complete 30/36 = 5/6 in 12 days. On day 13, A completes 3/36, leaving 3/36? After day 13 the completed work is 33/36; B completes 2/36 on day 14, leaving 1/36. A completes that fraction in (1/36) ÷ (1/12) = 1/3 day. Total time is 14⅓ days.",
+      "e": "In two days, A and B together complete 1/12 + 1/18 = 5/36 of the job. Six two-day cycles complete 30/36 = 5/6 in 12 days. On day 13, A adds 1/12 = 3/36, so 33/36 is complete. On day 14, B adds 1/18 = 2/36, so 35/36 is complete and 1/36 remains. A completes that fraction in (1/36) ÷ (1/12) = 1/3 day. Total time is 14⅓ days.",
       "difficulty": "Hard",
       "exam": "Common MPSC",
       "examTags": [
@@ -3646,7 +3646,7 @@
       "id": 9422,
       "cat": "GST / Inspector of Taxes",
       "topic": "CGST Section 62 — non-filer assessment",
-      "q": "Section 62 of the CGST Act provides for assessment of which category of taxable person?",
+      "q": "A registered person required to file a return fails to furnish it even after receiving the notice prescribed under Section 46. Which CGST provision allows the proper officer to make a best-judgment assessment of that non-filer?",
       "o": [
         "A registered person who fails to furnish the required return even after the prescribed notice",
         "Every person who files a return on time",
@@ -3655,7 +3655,7 @@
       ],
       "a": 0,
       "answerIndex": 0,
-      "e": "Section 62 deals with assessment of non-filers of returns. Where a registered person fails to furnish the required return even after notice under Section 46, the proper officer may proceed with a best-judgment assessment based on available material, subject to the safeguards and withdrawal provisions in the section.",
+      "e": "Section 62 deals specifically with assessment of a registered person who fails to furnish the required return even after notice under Section 46. The proper officer may make a best-judgment assessment using relevant material available or gathered. This is not the same situation as a person who was liable to register but never obtained registration, which is addressed by Section 63.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -3680,7 +3680,7 @@
       "id": 9423,
       "cat": "GST / Inspector of Taxes",
       "topic": "CGST Section 63 — unregistered taxable person",
-      "q": "Section 63 may be used for best-judgment assessment where a taxable person:",
+      "q": "A taxable person was liable to obtain GST registration but did not apply for it, although tax remained payable. Which CGST provision specifically provides for assessment of such an unregistered person?",
       "o": [
         "Is liable to register but has failed to obtain registration, or has had registration cancelled while remaining liable",
         "Has filed every return and paid all tax",
@@ -3689,7 +3689,7 @@
       ],
       "a": 0,
       "answerIndex": 0,
-      "e": "Section 63 applies to assessment of unregistered persons in the circumstances specified by the Act, including a taxable person who was liable to obtain registration but failed to do so, or whose registration was cancelled but who remained liable to pay tax. The proper officer proceeds on the basis of available material and the prescribed procedure.",
+      "e": "Section 63 addresses assessment of an unregistered taxable person who was liable to obtain registration but failed to do so, or whose registration was cancelled while liability remained. The proper officer may assess the person's tax liability on the basis of available material and the prescribed procedure. A registered return non-filer is dealt with separately under Section 62.",
       "difficulty": "Medium",
       "exam": "Common MPSC",
       "examTags": [
@@ -3714,7 +3714,7 @@
       "id": 9424,
       "cat": "GST / Inspector of Taxes",
       "topic": "CGST Section 64 — summary assessment",
-      "q": "A summary assessment under Section 64 of the CGST Act is intended for a situation where:",
+      "q": "A proper officer has evidence of a tax liability and considers that delay in assessment may adversely affect revenue. Which exceptional CGST provision allows a summary assessment, subject to prior approval of the Additional or Joint Commissioner?",
       "o": [
         "The proper officer has evidence of a tax liability and considers immediate assessment necessary to protect the interest of revenue, subject to the statutory approval",
         "A taxpayer simply requests a routine extension of time",
@@ -3723,7 +3723,7 @@
       ],
       "a": 0,
       "answerIndex": 0,
-      "e": "Section 64 permits summary assessment in special cases where the proper officer has evidence of a tax liability and believes that delay may adversely affect the interest of revenue. The provision requires prior permission of the Additional Commissioner or Joint Commissioner. It is an exceptional procedure, not the ordinary method for every return mismatch.",
+      "e": "Section 64 permits summary assessment in special cases where the proper officer has evidence of a tax liability and believes delay may adversely affect the interest of revenue. Prior permission of the Additional Commissioner or Joint Commissioner is required. It is an exceptional protective procedure, unlike the best-judgment assessment of a registered non-filer under Section 62 or an unregistered taxable person under Section 63.",
       "difficulty": "Hard",
       "exam": "Common MPSC",
       "examTags": [
@@ -4727,6 +4727,108 @@
       "source": "Original Practice — not an official PYQ. India Code — Central Goods and Services Tax Act, 2017, Section 169.",
       "sourceName": "India Code — Central Goods and Services Tax Act, 2017, Section 169",
       "sourceURL": "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9454,
+      "cat": "Arithmetic",
+      "topic": "Polygon geometry — number of diagonals",
+      "q": "How many diagonals can be drawn in a convex polygon with 12 sides?",
+      "o": [
+        "48",
+        "54",
+        "60",
+        "66"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "A diagonal joins two non-adjacent vertices. From each of the 12 vertices, diagonals can be drawn to 12−3 = 9 other vertices. This counts every diagonal twice, once from each endpoint, so the total is 12 × 9 ÷ 2 = 54. The general formula is n(n−3)/2.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Polygon geometry — number of diagonals",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Mathematics textbook resources.",
+      "sourceName": "NCERT — Mathematics textbook resources",
+      "sourceURL": "https://ncert.nic.in/textbook.php?jemh1=3-15",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9455,
+      "cat": "Economy",
+      "topic": "Information asymmetry — moral hazard",
+      "q": "In insurance economics, moral hazard occurs when:",
+      "o": [
+        "One party has more information before a contract is signed",
+        "Protection against loss changes behaviour so that the insured party may take greater risks",
+        "A seller knows less about product quality than the buyer",
+        "A government sets a maximum legal price"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Moral hazard arises after an agreement when protection or reduced personal exposure to a cost changes a party's incentives. For example, an insured person may take less care because the insurer bears part of the financial loss. It differs from adverse selection, which is an information problem that exists before the contract is made.",
+      "difficulty": "Hard",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Economy",
+        "Information asymmetry — moral hazard",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. NCERT — Introductory Microeconomics and information-asymmetry concepts.",
+      "sourceName": "NCERT — Introductory Microeconomics and information-asymmetry concepts",
+      "sourceURL": "https://ncert.nic.in/textbook.php?leec1=0-6",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
+    },
+    {
+      "id": 9456,
+      "cat": "Reasoning",
+      "topic": "Argument evaluation — false dilemma",
+      "q": "A supervisor says, 'Either every employee accepts the new shift roster exactly as proposed, or the entire department will fail.' What is the main logical flaw?",
+      "o": [
+        "False dilemma — presenting two options as if no alternatives exist",
+        "Ad hominem — attacking a person's character",
+        "Circular reasoning — assuming the conclusion",
+        "Hasty generalisation — drawing a broad rule from too few cases"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "The statement presents only two extreme outcomes: complete acceptance or total departmental failure. It ignores possible alternatives such as modifying the roster, trialling it, negotiating changes or using a different staffing arrangement. This is a false dilemma, also called a false dichotomy.",
+      "difficulty": "Medium",
+      "exam": "Common MPSC",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Reasoning",
+        "Argument evaluation — false dilemma",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — not an official PYQ. Original authoring — independent critical-reasoning problem.",
+      "sourceName": "Original authoring — independent critical-reasoning problem",
+      "sourceURL": "https://github.com/pynshaishangoi/MPSC",
       "sourceVerifiedDate": "2026-11-23",
       "verificationStatus": "verified_authoritative_source_or_originally_authored_2026-11-23"
     }
