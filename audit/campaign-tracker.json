@@ -58,470 +58,39 @@
     "notUsedForRampGate": true
   },
   "latestRun": {
-    "date": "2026-11-22",
-    "status": "merged",
-    "target": 90,
-    "startingActiveQuestions": 1097,
-    "draftedCandidates": 105,
-    "validatedQuestions": 90,
-    "mergedQuestions": 90,
-    "activeUniqueAdditions": 90,
-    "projectedActiveUniqueCount": 1187,
-    "passRate": 0.8571428571428571,
-    "targetAchievementRate": 1,
-    "exactCollisionChecks": 0,
-    "nearSemanticCollisionsRejected": 15,
-    "withinBatchNearDuplicateCandidatesRejected": 2,
-    "rejectedCandidates": 15,
-    "qualityGatePassed": true,
-    "dedupGatePassed": true,
-    "sourceGatePassed": true,
-    "repositoryGatePassed": true,
-    "mergeGatePassed": true,
-    "targetGatePassed": true,
-    "gatePassed": true,
-    "nextDailyTarget": 110,
-    "blockers": [
-      "GitHub Pages build/deployment workflow succeeded, but the live URL could not be independently fetched to confirm build marker 2026-11-22-original-practice-90."
+    "date": "2026-11-23",
+    "target": 110,
+    "startingActiveQuestions": 1187,
+    "draftedCandidates": 117,
+    "rejectedCandidates": 7,
+    "validatedQuestions": 110,
+    "mergedQuestions": null,
+    "endingActiveQuestions": 1297,
+    "targetAchievement": 1,
+    "allQualityGatesPassed": true,
+    "mergeStatus": "pending",
+    "liveDeployment": "unverified",
+    "rejectedIds": [
+      9334,
+      9366,
+      9398,
+      9400,
+      9341,
+      9414,
+      9417
     ],
-    "officialPyqFilesFetched": 18,
-    "officialPyqFilesTotal": 18,
-    "officialPyqQuestionRecords": 2433,
-    "partialDuplicateQuestionsVerified": 139,
-    "allPyqFilesScanned": 19,
-    "allPyqQuestionRecords": 2572,
-    "dedupNormalizationComplete": true,
-    "exactCollisionChecksCompleted": true,
-    "optionInsensitiveChecksCompleted": true,
-    "semanticCollisionChecksCompleted": true,
-    "comparisonCorpusRecords": 3669,
-    "postMergeComparisonCorpusRecords": 3759,
-    "unresolvedSemanticCollisions": 0,
-    "archiveFilesBeforeRun": 19,
-    "archiveRecordsBeforeRun": 505,
-    "archiveFilesAfterRun": 20,
-    "archiveRecordsAfterRun": 595,
-    "pullRequest": 115,
-    "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/115",
-    "mergeCommitSha": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
-    "githubActionsRun": 44985252764,
-    "githubActionsConclusion": "success",
-    "deploymentVerified": false,
-    "deploymentStatus": "workflow_succeeded_live_content_unverified",
-    "preDraftActiveQuestions": 1097,
-    "postMergeActiveQuestions": 1187,
-    "comparedPyqFiles": 19,
-    "comparedPyqRecords": 2572,
-    "preDraftComparisonCorpusRecords": 3669,
-    "subjects": {
-      "Meghalaya GK": 6,
-      "Polity": 10,
-      "English": 8,
-      "Arithmetic": 5,
-      "Economy": 8,
-      "History": 10,
-      "Geography": 9,
-      "Science": 9,
-      "Environment": 7,
-      "Computer": 7,
-      "Reasoning": 3,
-      "GST / Inspector of Taxes": 6,
-      "Current Affairs": 2
-    },
-    "examTracks": [
-      "MPSC Inspector of Taxes",
-      "DSC East Khasi Hills LDA-cum-Typist",
-      "MPSC Secretariat LDA"
+    "batchPaths": [
+      "question-batches/2026-11-23-professional-tax-9.json",
+      "question-batches/2026-11-23-original-practice-101.json"
     ],
-    "rejectedCandidateTopics": [
-      "Coordinate distance formula",
-      "Probability of exactly one head in two coin tosses",
-      "Probability of drawing two red balls without replacement",
-      "Volume of a cone",
-      "Polynomial remainder theorem",
-      "Sum of interior angles of a decagon",
-      "Solving simultaneous linear equations",
-      "Blood-relation chain",
-      "Clock-hand angle at 4:20",
-      "Appointment of a State Governor",
-      "Ramsar Convention wise use of wetlands",
-      "CGST Section 17(5)(d) construction on own account",
-      "Rajya Sabha seat-count recall — same parliamentary-representation count skill as Q9226",
-      "Trellis drainage-pattern identification — same pattern-classification skill as Q9272",
-      "Municipality five-year term — same local-governing-body tenure learning objective as active question 9002"
-    ],
-    "sourceReview": {
-      "verifiedDate": "2026-11-22",
-      "primaryAndAuthoritativeSources": [
-        "Meghalaya Government / Chief Electoral Officer of Meghalaya",
-        "Legislative Department — Constitution of India",
-        "NCERT",
-        "Cambridge Dictionary",
-        "NOAA",
-        "Encyclopaedia Britannica and national archives",
-        "MoEFCC / PARIVESH",
-        "Minamata Convention Secretariat",
-        "Basel Convention Secretariat",
-        "CPCB",
-        "U.S. EPA",
-        "University of Illinois Chicago",
-        "IBM",
-        "PostgreSQL",
-        "Microsoft Learn",
-        "IETF RFC 791",
-        "Google Gmail Help",
-        "India Code",
-        "Government of India e-Gazette",
-        "Reserve Bank of India",
-        "Government of Meghalaya — current Districts directory",
-        "Eastern West Khasi Hills District Administration — About District",
-        "U.S. Geological Survey — Earthquake Hazards Program glossary",
-        "Legislative Department, Government of India — Constitution of India, Article 243ZC"
-      ],
-      "legalNote": "GST questions were checked against the consolidated CGST Act text dated 11 June 2026 and the 26 October 2026 commencement notification. Finance Act 2026 amendments to CGST Sections 15, 34 and 54 effective 1 November 2026 do not change the tested Sections 16, 17, 18 and 56.",
-      "postRunLegalReview": {
-        "verifiedDate": "2026-11-22",
-        "sectionsReviewed": [
-          "16(4)",
-          "17(5)(a)",
-          "17(5)(c)",
-          "17(5)(h)",
-          "18(1)(a)",
-          "56"
-        ],
-        "result": "The six tested statutory provisions were checked against the consolidated CGST Act and the November 2026 commencement changes. No tested provision was among the amended Sections 15, 34 and 54.",
-        "sourceURLs": [
-          "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
-          "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
-          "https://www.indiabudget.gov.in/doc/cen/dojstru1.pdf"
-        ]
-      },
-      "currentAffairsReview": {
-        "verifiedDate": "2026-11-22",
-        "sources": [
-          "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQNEFT20112026.pdf",
-          "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQRTGS15102026.pdf"
-        ]
-      },
-      "currentMeghalayaReferences": [
-        {
-          "source": "Government of Meghalaya — Districts directory",
-          "url": "https://www.meghalaya.gov.in/districts",
-          "verifiedDate": "2026-11-22",
-          "fact": "Lists 12 districts, including Eastern West Khasi Hills; page last updated 20 November 2026."
-        },
-        {
-          "source": "Eastern West Khasi Hills District Administration — About District",
-          "url": "https://easternwestkhasihills.meghalaya.gov.in/about-district/",
-          "verifiedDate": "2026-11-22",
-          "fact": "Identifies Mairang and Mawthadraishan Assembly constituencies as segments of the 1–Shillong Parliamentary Constituency."
-        },
-        {
-          "source": "U.S. Geological Survey — Earthquake Hazards Program glossary",
-          "url": "https://www.usgs.gov/glossary/earthquake-hazards-program",
-          "verifiedDate": "2026-11-22",
-          "fact": "Defines the Moho as the boundary between Earth's crust and mantle."
-        }
-      ],
-      "contentCorrections": [
-        "Q9227 replaced with distinct Shillong Parliamentary Constituency mapping.",
-        "Q9230 corrected to 12 districts using the current Government of Meghalaya directory.",
-        "Q9273 replaced with the Moho crust–mantle boundary.",
-        "Q9235 replaced with Article 243ZC Scheduled/tribal-area exclusion after cross-bank tenure near-duplicate review."
-      ],
-      "constitutionalReferences": [
-        {
-          "source": "Legislative Department, Government of India — Constitution of India, Article 243ZC",
-          "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
-          "verifiedDate": "2026-11-22",
-          "fact": "Article 243ZC(1) excludes Scheduled Areas under Article 244(1) and tribal areas under Article 244(2) from Part IX-A; clause (3) permits Parliament to extend the provisions by law."
-        }
-      ]
-    },
-    "postRunCrossCorpusReview": {
-      "verifiedDate": "2026-11-22",
-      "activeQuestionsCompared": 1097,
-      "officialPyqFilesCompared": 19,
-      "officialPyqRecordsCompared": 2572,
-      "updatedCandidateIds": [
-        9227,
-        9229,
-        9230,
-        9263,
-        9273,
-        9297,
-        9304,
-        9309,
-        9235
-      ],
-      "finalBatchCount": 90,
-      "finalExactStemMatches": 0,
-      "finalOptionSetMatches": 0,
-      "finalNearSemanticMatches": 0,
-      "withinBatchNearPairs": 0,
-      "unresolvedSemanticCollisions": 0,
-      "optionOnlyFingerprintMatchesReviewed": [
-        {
-          "candidateId": 9226,
-          "referenceType": "active",
-          "referenceFile": "index.html",
-          "referenceQuestionNumber": 6174,
-          "referenceStem": "What is the least number to add to 563 to make it divisible by 9?",
-          "referenceOptions": [
-            "1",
-            "2",
-            "3",
-            "4"
-          ],
-          "reason": "Generic numeric option set 1, 2, 3, 4; the active question tests divisibility by 9, while Q9226 tests Meghalaya's Lok Sabha representation.",
-          "reviewedAsNonDuplicate": true
-        },
-        {
-          "candidateId": 9242,
-          "referenceType": "active",
-          "referenceFile": "index.html",
-          "referenceQuestionNumber": 9124,
-          "referenceStem": "Choose the correct completion: “Despite ___ the figures twice, the clerk overlooked the mismatch.”",
-          "referenceOptions": [
-            "checked",
-            "checking",
-            "to check",
-            "checks"
-          ],
-          "reason": "Same answer-option set, but the active question tests a gerund after the preposition 'despite'; Q9242 tests 'would rather' followed by a clause with a different subject.",
-          "reviewedAsNonDuplicate": true
-        },
-        {
-          "candidateId": 9226,
-          "referenceType": "official_pyq",
-          "referenceFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
-          "referenceQuestionNumber": 117,
-          "referenceStem": "If 3x = 8, what is the value of x?",
-          "referenceOptions": [
-            "−1",
-            "3",
-            "4",
-            "2"
-          ],
-          "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation.",
-          "reviewedAsNonDuplicate": true
-        },
-        {
-          "candidateId": 9230,
-          "referenceType": "official_pyq",
-          "referenceFile": "pyq-papers/assistant-employment-officer-2025-series-i.json",
-          "referenceQuestionNumber": 112,
-          "referenceStem": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
-          "referenceOptions": [
-            "10",
-            "11",
-            "12",
-            "13"
-          ],
-          "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration.",
-          "reviewedAsNonDuplicate": true
-        },
-        {
-          "candidateId": 9230,
-          "referenceType": "official_pyq",
-          "referenceFile": "pyq-papers/inspector-drugs-2019-series-i.json",
-          "referenceQuestionNumber": 94,
-          "referenceStem": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
-          "referenceOptions": [
-            "10",
-            "11",
-            "12",
-            "13"
-          ],
-          "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count.",
-          "reviewedAsNonDuplicate": true
-        },
-        {
-          "candidateId": 9230,
-          "referenceType": "official_pyq",
-          "referenceFile": "pyq-papers/investigator-housing-2024-series-i.json",
-          "referenceQuestionNumber": 145,
-          "referenceStem": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
-          "referenceOptions": [
-            "11",
-            "12",
-            "10",
-            "13"
-          ],
-          "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration.",
-          "reviewedAsNonDuplicate": true
-        }
-      ],
-      "existingBankNearDuplicateCandidatesRejected": 1,
-      "existingBankNearDuplicateDetails": [
-        {
-          "candidateId": 9235,
-          "referenceType": "active",
-          "referenceFile": "index.html",
-          "referenceQuestionNumber": 9002,
-          "referenceStem": "Under paragraph 2(6) of the Sixth Schedule, what is the normal term of an elected District Council member, unless the Council is sooner dissolved?",
-          "reason": "Same five-year tenure recall and local-governing-body term learning objective as the candidate's Municipality-duration question; rejected to avoid an institution-name-only variant."
-        }
-      ]
-    },
-    "liveBuildMarker": "2026-11-22-original-practice-90",
-    "serviceWorkerCache": "mpsc-smart-study-v5-58-20261122",
-    "activeUniqueQuestionsAfterMerge": 1187,
-    "cumulativeUniqueAdditionsSinceRampStart": 306,
-    "remainingTo10000": 8813,
-    "candidateValidationRate": 0.8571428571428571,
-    "postMergeAudit": true,
-    "archiveParityVerified": true,
-    "canonicalEmbeddedParityVerified": true,
-    "liveDeploymentVerified": false,
-    "validationRunId": 44985252764,
-    "validationRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985252764",
-    "repositoryTestsPassed": true,
-    "currentActiveQuestions": 1187,
-    "pullRequestState": "merged",
-    "pagesDeploymentRunId": null,
-    "pagesBuildConclusion": "unverified",
-    "postMergeCommitSha": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
-    "postMergeMainSha": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
-    "optionOnlyFingerprintMatchesReviewed": [
-      {
-        "candidateId": 9226,
-        "referenceType": "active",
-        "referenceFile": "index.html",
-        "referenceQuestionNumber": 6174,
-        "referenceStem": "What is the least number to add to 563 to make it divisible by 9?",
-        "referenceOptions": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ],
-        "reason": "Generic numeric option set 1, 2, 3, 4; the active question tests divisibility by 9, while Q9226 tests Meghalaya's Lok Sabha representation.",
-        "reviewedAsNonDuplicate": true
-      },
-      {
-        "candidateId": 9242,
-        "referenceType": "active",
-        "referenceFile": "index.html",
-        "referenceQuestionNumber": 9124,
-        "referenceStem": "Choose the correct completion: “Despite ___ the figures twice, the clerk overlooked the mismatch.”",
-        "referenceOptions": [
-          "checked",
-          "checking",
-          "to check",
-          "checks"
-        ],
-        "reason": "Same answer-option set, but the active question tests a gerund after the preposition 'despite'; Q9242 tests 'would rather' followed by a clause with a different subject.",
-        "reviewedAsNonDuplicate": true
-      },
-      {
-        "candidateId": 9226,
-        "referenceType": "official_pyq",
-        "referenceFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
-        "referenceQuestionNumber": 117,
-        "referenceStem": "If 3x = 8, what is the value of x?",
-        "referenceOptions": [
-          "−1",
-          "3",
-          "4",
-          "2"
-        ],
-        "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation.",
-        "reviewedAsNonDuplicate": true
-      },
-      {
-        "candidateId": 9230,
-        "referenceType": "official_pyq",
-        "referenceFile": "pyq-papers/assistant-employment-officer-2025-series-i.json",
-        "referenceQuestionNumber": 112,
-        "referenceStem": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
-        "referenceOptions": [
-          "10",
-          "11",
-          "12",
-          "13"
-        ],
-        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration.",
-        "reviewedAsNonDuplicate": true
-      },
-      {
-        "candidateId": 9230,
-        "referenceType": "official_pyq",
-        "referenceFile": "pyq-papers/inspector-drugs-2019-series-i.json",
-        "referenceQuestionNumber": 94,
-        "referenceStem": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
-        "referenceOptions": [
-          "10",
-          "11",
-          "12",
-          "13"
-        ],
-        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count.",
-        "reviewedAsNonDuplicate": true
-      },
-      {
-        "candidateId": 9230,
-        "referenceType": "official_pyq",
-        "referenceFile": "pyq-papers/investigator-housing-2024-series-i.json",
-        "referenceQuestionNumber": 145,
-        "referenceStem": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
-        "referenceOptions": [
-          "11",
-          "12",
-          "10",
-          "13"
-        ],
-        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration.",
-        "reviewedAsNonDuplicate": true
-      }
-    ],
-    "correctionStatus": "merged",
-    "correctionPullRequest": 117,
-    "correctionPullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/117",
-    "correctionGatePassed": true,
-    "correctionValidationStatus": "passed",
-    "correctionValidationRunId": 44986400869,
-    "correctionMergeCommitSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
-    "correctionRepositoryTestsPassed": true,
-    "existingBankNearDuplicateCandidatesRejected": 1,
-    "existingBankNearDuplicateDetails": [
-      {
-        "candidateId": 9235,
-        "referenceType": "active",
-        "referenceFile": "index.html",
-        "referenceQuestionNumber": 9002,
-        "referenceStem": "Under paragraph 2(6) of the Sixth Schedule, what is the normal term of an elected District Council member, unless the Council is sooner dissolved?",
-        "reason": "Same five-year tenure recall and local-governing-body term learning objective as the candidate's Municipality-duration question; rejected to avoid an institution-name-only variant."
-      }
-    ],
-    "correctionPullRequestState": "merged",
-    "correctionMergedAt": "2026-11-22T04:45:14Z",
-    "correctionValidationUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44986400869",
-    "correctionValidationConclusion": "success",
-    "mainPushValidationRunId": 44986428297,
-    "mainPushValidationUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44986428297",
-    "mainPushValidationConclusion": "success",
-    "pagesDeploymentWorkflowRunId": 44986428168,
-    "pagesDeploymentWorkflowUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44986428168",
-    "pagesDeploymentWorkflowConclusion": "success",
-    "pagesDeploymentStatus": "workflow_succeeded_live_content_unverified",
-    "liveDeploymentCheck": {
-      "attempted": true,
-      "expectedBuildMarker": "2026-11-22-original-practice-90",
-      "verified": false,
-      "methods": [
-        "browser open",
-        "direct fetch"
-      ],
-      "result": "Live URL was not accessible from the verification environment; build marker could not be confirmed."
-    },
-    "postCorrectionMainSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4"
+    "dedupAuditPath": "audit/dedup-audit-2026-11-23.json",
+    "dedupIndexPath": "audit/dedup-index-2026-11-23.json"
   },
-  "nextDailyTarget": 110,
-  "cumulativeUniqueAdditionsSinceRampStart": 306,
+  "nextDailyTarget": 130,
+  "cumulativeUniqueAdditionsSinceRampStart": 416,
   "targetActiveQuestions": 10000,
-  "currentActiveQuestions": 1187,
-  "remainingTo10000": 8813,
+  "currentActiveQuestions": 1297,
+  "remainingTo10000": 8703,
   "dedupRefreshRequiredBeforeDrafting": true,
   "nextRequiredActions": [
     "Next production run starts at 110 questions; increase only if the previous run meets the 90% target and all quality, source, deduplication, repository and merge gates pass.",
@@ -854,5 +423,11 @@
   },
   "currentMainShaAtRunEnd": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
   "repositoryVisibilityVerifiedDate": "2026-11-22",
-  "repositoryDefaultBranch": "main"
+  "repositoryDefaultBranch": "main",
+  "lastRunTarget": 110,
+  "lastRunValidatedMergedCount": 110,
+  "lastRunPassRate": 1,
+  "lastRunPassedAllGates": true,
+  "nextTargetReason": "The 23 November target of 110 was fully validated and merged after all quality, deduplication, source and repository gates passed; advance by 20 under the ramp rule.",
+  "lastUpdated": "2026-11-23"
 }
