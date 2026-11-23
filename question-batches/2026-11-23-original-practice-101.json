@@ -6,7 +6,7 @@
   "label": "Original Practice",
   "officialPYQ": false,
   "targetContribution": 101,
-  "draftedCandidates": 106,
+  "draftedCandidates": 107,
   "questions": [
     {
       "id": 9324,
@@ -14,13 +14,13 @@
       "topic": "CGST Section 59 — self-assessment",
       "q": "A registered supplier prepares the tax payable for a tax period and furnishes the return without waiting for an officer to calculate the amount. Which statutory mechanism is being used?",
       "o": [
-        "Self-assessment under Section 59",
         "Provisional assessment under Section 60",
+        "Self-assessment under Section 59",
         "Summary assessment under Section 64",
         "Assessment of a non-filer under Section 62"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "Section 59 places the first responsibility on the registered person: the person self-assesses tax payable and furnishes the return for each tax period under Section 39. It is not an officer-led provisional or summary assessment.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -48,13 +48,13 @@
       "topic": "CGST Section 60 — provisional assessment",
       "q": "A taxable person cannot determine the value of a supply with certainty, but can identify the supply and wants to pay tax provisionally. What should the person do under the CGST Act?",
       "o": [
+        "Apply in writing to the proper officer for provisional assessment",
         "Wait until the annual return is filed",
         "Pay tax at a rate chosen permanently by the supplier",
-        "Seek an advance ruling on every invoice",
-        "Apply in writing to the proper officer for provisional assessment"
+        "Seek an advance ruling on every invoice"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "Section 60 permits provisional assessment where the taxable person is unable to determine the value of supply or the applicable rate of tax. The person makes a written request to the proper officer; provisional assessment is not a substitute for ordinary self-assessment in every case.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -84,11 +84,11 @@
       "o": [
         "A general circular binding every taxpayer in India",
         "A final assessment order for all past tax periods",
-        "A decision on specified statutory questions relating to a supply undertaken or proposed by the applicant",
-        "A private opinion issued by the applicant's auditor"
+        "A private opinion issued by the applicant's auditor",
+        "A decision on specified statutory questions relating to a supply undertaken or proposed by the applicant"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "Section 95 defines an advance ruling as a decision by the Authority or Appellate Authority on questions specified in Section 97(2) or Section 100(1), in relation to a supply being undertaken or proposed by the applicant. The link to the applicant's own supply is important.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -117,12 +117,12 @@
       "q": "Which of the following is expressly a matter on which an applicant may seek an advance ruling under Section 97(2) of the CGST Act?",
       "o": [
         "Whether a particular officer should be transferred",
-        "Admissibility of input tax credit of tax paid or deemed to have been paid",
         "Whether a taxpayer should receive a bank loan",
+        "Admissibility of input tax credit of tax paid or deemed to have been paid",
         "Whether a criminal complaint should be withdrawn"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "Section 97(2) expressly includes admissibility of input tax credit among the listed questions. The other choices concern personnel, banking or criminal administration and are not GST advance-ruling subjects under this provision.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -150,13 +150,13 @@
       "topic": "CGST Section 103 — persons bound by an advance ruling",
       "q": "A State Authority for Advance Ruling gives a ruling to Company A. Another unrelated company in the same State carries on a similar business. Under Section 103(1), who is ordinarily bound by that ruling?",
       "o": [
-        "Company A and the concerned or jurisdictional officer in respect of Company A",
         "Every registered person in the State",
+        "Company A and the concerned or jurisdictional officer in respect of Company A",
         "Every GST officer in India for all taxpayers",
         "Only the accountant who filed the application"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "Under Section 103(1), a ruling of the Authority or Appellate Authority binds the applicant who sought it and the concerned or jurisdictional officer in respect of that applicant. It is not automatically a universal precedent for every unrelated taxpayer; the Act also recognises that changed law, facts or circumstances affect binding force.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -184,13 +184,13 @@
       "topic": "CGST Section 70 — summons",
       "q": "A proper officer issues a summons requiring a person to attend and give evidence and produce specified records in a GST inquiry. Which provision directly authorises this action?",
       "o": [
+        "Section 70",
         "Section 59",
         "Section 95",
-        "Section 107",
-        "Section 70"
+        "Section 107"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "Section 70 gives the proper officer power to summon a person whose attendance is considered necessary to give evidence or produce a document or other thing. The provision concerns inquiry powers, not self-assessment, advance rulings or appeals.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -220,11 +220,11 @@
       "o": [
         "Chairperson of the Rajya Sabha",
         "President of India",
-        "Speaker of the Lok Sabha",
-        "Union Finance Secretary"
+        "Union Finance Secretary",
+        "Speaker of the Lok Sabha"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "Article 110(3) provides that if a question arises whether a Bill is a Money Bill, the decision of the Speaker of the Lok Sabha is final. The certification is a constitutional function of the Speaker, not of the Rajya Sabha Chairperson or a ministry official.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -253,12 +253,12 @@
       "q": "The Union Government presents a statement showing estimated receipts and expenditure for a financial year before Parliament. Under which Article is this Annual Financial Statement provided?",
       "o": [
         "Article 110",
-        "Article 112",
         "Article 123",
+        "Article 112",
         "Article 280"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "Article 112 requires the President to cause the Annual Financial Statement to be laid before both Houses of Parliament for each financial year. It is the constitutional basis of the Union Budget statement; Article 110 defines a Money Bill and Article 280 concerns the Finance Commission.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -286,13 +286,13 @@
       "topic": "Article 123 — President's Ordinance",
       "q": "Parliament is not in session and immediate legislative action is considered necessary. Which constitutional power may the President exercise, subject to the conditions in Article 123?",
       "o": [
-        "Promulgate an Ordinance",
         "Dissolve every State Legislative Assembly",
+        "Promulgate an Ordinance",
         "Appoint a Finance Commission",
         "Certify a State Money Bill"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "Article 123 empowers the President to promulgate an Ordinance when both Houses of Parliament are not in session and immediate action is necessary. An Ordinance has the force of law but must be laid before Parliament and ordinarily ceases six weeks after Parliament reassembles unless the required legislative action is taken.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -320,13 +320,13 @@
       "topic": "Article 200 — Governor's action on State Bills",
       "q": "A non-Money Bill passed by a State Legislature is presented to the Governor. Which action is expressly available under Article 200?",
       "o": [
+        "Reserve the Bill for the consideration of the President",
         "Certify it as a Money Bill of Parliament",
         "Refer it to the Election Commission for approval",
-        "Convert it into an Ordinance automatically",
-        "Reserve the Bill for the consideration of the President"
+        "Convert it into an Ordinance automatically"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "Article 200 sets out the Governor's options when a State Bill is presented: assent, withhold assent, reserve it for the President, or return a Bill other than a Money Bill for reconsideration. The Governor does not certify Union Money Bills or refer Bills to the Election Commission.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -356,11 +356,11 @@
       "o": [
         "The Prime Minister personally",
         "The Speaker of the Lok Sabha",
-        "The President of India",
-        "The Chief Justice of India"
+        "The Chief Justice of India",
+        "The President of India"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "Article 148 provides for the CAG to be appointed by the President by warrant under his hand and seal. The CAG's independence is protected by constitutional provisions governing tenure, removal and post-office restrictions.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -389,12 +389,12 @@
       "q": "A public authority takes a person's land without any legal authority. Which constitutional provision is most directly relevant to the rule that no person shall be deprived of property save by authority of law?",
       "o": [
         "Article 19(1)(a)",
-        "Article 300A",
         "Article 21A",
+        "Article 300A",
         "Article 32A"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "Article 300A protects property by stating that no person shall be deprived of property save by authority of law. The right is a constitutional right, not one of the fundamental rights listed in Part III after the Forty-Fourth Amendment.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -422,13 +422,13 @@
       "topic": "Article 324 — Election Commission",
       "q": "Which institution has the constitutional superintendence, direction and control of elections to Parliament, State Legislatures, and the offices of President and Vice-President?",
       "o": [
-        "Election Commission of India",
         "Union Public Service Commission",
+        "Election Commission of India",
         "Finance Commission",
         "National Human Rights Commission"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "Article 324 vests the superintendence, direction and control of the specified elections in the Election Commission. The UPSC conducts recruitment examinations, while the Finance Commission and NHRC perform different constitutional or statutory functions.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -456,13 +456,13 @@
       "topic": "Article 164(2) — collective responsibility",
       "q": "The Council of Ministers in a State is collectively responsible to which institution under Article 164(2)?",
       "o": [
+        "The Legislative Assembly of the State",
         "The Governor acting alone",
         "The Rajya Sabha",
-        "The State High Court",
-        "The Legislative Assembly of the State"
+        "The State High Court"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "Article 164(2) states that the Council of Ministers is collectively responsible to the Legislative Assembly of the State. This is the basis of parliamentary accountability of the State ministry to the elected lower House.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -492,11 +492,11 @@
       "o": [
         "Article 148",
         "Article 280",
-        "Article 167",
-        "Article 324"
+        "Article 324",
+        "Article 167"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "Article 167 sets out duties of the Chief Minister, including communicating decisions of the Council of Ministers relating to administration and legislative proposals, and furnishing information requested by the Governor. It supports the constitutional relationship between the Governor and the State ministry.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -525,12 +525,12 @@
       "q": "Which pair correctly matches the general sacred-grove terms used in the Khasi and Jaintia Hills of Meghalaya?",
       "o": [
         "Khlaw Kyntang — Jaintia Hills; Khloo Blai — Khasi Hills",
-        "Khlaw Kyntang — Khasi Hills; Khloo Blai — Jaintia Hills",
         "Both terms refer to Garo traditional dormitories",
+        "Khlaw Kyntang — Khasi Hills; Khloo Blai — Jaintia Hills",
         "Both terms refer to sacred rivers in the Garo Hills"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "The Meghalaya Biodiversity Board identifies Khlaw Kyntang (and related forms such as Law Kyntang) with the Khasi Hills and Khloo Blai with the Jaintia Hills. The paired form tests the regional distinction in one question instead of repeating the same recall task twice.\n\nExam method: learn the two terms as a matched pair and check the region attached to each term; do not treat the words as interchangeable.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -558,13 +558,13 @@
       "topic": "Sacred groves — ecosystem services",
       "q": "A village protects a sacred grove on a steep catchment. Which combination of ecosystem services is specifically associated with Meghalaya's sacred groves by the Biodiversity Board?",
       "o": [
-        "Erosion control, water-quality maintenance and support for the hydrological cycle",
         "Only mineral extraction and commercial timber production",
+        "Erosion control, water-quality maintenance and support for the hydrological cycle",
         "Only urban traffic regulation and flood-wall construction",
         "Only artificial fertiliser production"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "The Meghalaya Biodiversity Board lists erosion control, soil conservation, maintenance of water quality and the hydrological cycle among the ecosystem services of sacred groves. These benefits arise from conserving vegetation and soil cover, not from commercial extraction.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -592,13 +592,13 @@
       "topic": "Biodiversity Management Committees — legal basis",
       "q": "Under the Biological Diversity Act, 2002, which local institution is to be constituted by local bodies for biodiversity conservation and documentation?",
       "o": [
+        "Biodiversity Management Committee",
         "District Planning Committee",
         "State Finance Commission",
-        "Gram Nyayalaya",
-        "Biodiversity Management Committee"
+        "Gram Nyayalaya"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "Section 41 of the Biological Diversity Act provides for local bodies to constitute Biodiversity Management Committees in their areas. A BMC promotes conservation, sustainable use and documentation of biological diversity and associated knowledge; it is not a planning or judicial body.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -628,11 +628,11 @@
       "o": [
         "Only the annual accounts of the village council",
         "Only land titles and cadastral boundaries",
-        "Local biological resources and associated traditional knowledge",
-        "Only the list of registered motor vehicles"
+        "Only the list of registered motor vehicles",
+        "Local biological resources and associated traditional knowledge"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "A People's Biodiversity Register records local biological resources and associated knowledge held by the community. It helps document biodiversity and traditional knowledge for local conservation and planning; it is not a revenue, land-record or vehicle register.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -661,12 +661,12 @@
       "q": "The Pnar (Jaintia) festival Behdienkhlam is commonly translated as which phrase?",
       "o": [
         "Dance of peaceful hearts",
-        "To drive away the plague",
         "Festival of a thousand drums",
+        "To drive away the plague",
         "House of the unmarried boys"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "Meghalaya Tourism explains that Behdienkhlam means “to drive away the plague” in the Pnar language. It is associated with the Niamtre community and is celebrated after sowing to ward off disease, misfortune and evil spirits.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -694,13 +694,13 @@
       "topic": "Shad Suk Mynsiem — cultural meaning",
       "q": "Which meaning is given to the Khasi festival Shad Suk Mynsiem by Meghalaya Tourism?",
       "o": [
-        "Dance of peaceful hearts",
         "To drive away the plague",
+        "Dance of peaceful hearts",
         "Festival of the hundred drums",
         "Dance of the warriors"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "Meghalaya Tourism translates Shad Suk Mynsiem as “the dance of peaceful hearts”. It is a Khasi agrarian celebration held after harvest and before the sowing season, so the name and agricultural timing are useful separate facts to remember.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -728,13 +728,13 @@
       "topic": "Laho Dance — Pnar cultural practice",
       "q": "Which description best identifies the Laho Dance of the Pnar (Jaintia) community?",
       "o": [
+        "A woman dances arm-in-arm with two men, and the dance is traditionally not accompanied by instruments",
         "A solo masked dance performed only by monks with drums",
         "A martial sword dance performed only by Khasi men",
-        "A harvest dance in which every performer carries a large Dama drum",
-        "A woman dances arm-in-arm with two men, and the dance is traditionally not accompanied by instruments"
+        "A harvest dance in which every performer carries a large Dama drum"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "Meghalaya Tourism describes Laho as a Pnar social dance in which a woman dances between two men, holding their arms. The traditional form is not accompanied by instruments; a lead male recites couplets to maintain rhythm. This distinguishes it from the drummed Wangala performance.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -764,11 +764,11 @@
       "o": [
         "The Supreme Court",
         "The village panchayats",
-        "Provincial governments",
-        "The princely states' foreign affairs"
+        "The princely states' foreign affairs",
+        "Provincial governments"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "The 1919 Act introduced dyarchy at the provincial level by dividing provincial subjects into transferred and reserved categories. It did not create a Supreme Court or introduce dyarchy in village panchayats; this provincial arrangement was later replaced by the 1935 Act's provincial autonomy.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -797,12 +797,12 @@
       "q": "Which major constitutional change did the Government of India Act, 1935 introduce at the provincial level?",
       "o": [
         "Dyarchy in provinces for the first time",
-        "Provincial autonomy",
         "Universal adult franchise for all Indians",
+        "Provincial autonomy",
         "A fully sovereign Constituent Assembly"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "The 1935 Act ended dyarchy in the provinces and introduced provincial autonomy, with elected ministries responsible to provincial legislatures. Dyarchy was proposed at the Centre but never brought into operation; this distinction is frequently tested.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -830,13 +830,13 @@
       "topic": "Poona Pact, 1932",
       "q": "What was the principal electoral arrangement agreed upon in the Poona Pact of 1932?",
       "o": [
-        "Reserved seats for the Depressed Classes within joint electorates",
         "Separate electorates for the Depressed Classes as originally proposed in the Communal Award",
+        "Reserved seats for the Depressed Classes within joint electorates",
         "A separate sovereign state for the Depressed Classes",
         "A universal adult franchise without reserved representation"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "The Poona Pact between B. R. Ambedkar and Mahatma Gandhi replaced the separate-electorate arrangement for the Depressed Classes with reserved seats in joint electorates. It concerned representation and electoral design, not territorial separation or universal adult franchise.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -864,13 +864,13 @@
       "topic": "Cabinet Mission Plan, 1946",
       "q": "Which body was central to the constitutional process proposed by the Cabinet Mission Plan of 1946?",
       "o": [
+        "A Constituent Assembly to frame India's Constitution",
         "A permanent British military council",
         "A directly elected Supreme Court",
-        "A single provincial legislature for all India",
-        "A Constituent Assembly to frame India's Constitution"
+        "A single provincial legislature for all India"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "The Cabinet Mission Plan proposed a Constituent Assembly to frame the Constitution and a Union with limited central subjects. The plan was a constitutional transfer-of-power framework, not a proposal for a military council or a court to draft the Constitution.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -900,11 +900,11 @@
       "o": [
         "Immediate complete independence before the war ended",
         "A permanent restoration of Company rule",
-        "Dominion status for India after the war, subject to the proposed arrangements",
-        "A merger of all princely states into Britain"
+        "A merger of all princely states into Britain",
+        "Dominion status for India after the war, subject to the proposed arrangements"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "The Cripps proposals offered dominion status after the war and envisaged a constitution-making process, while allowing provinces not to join the proposed Union. The offer was rejected by Indian political leaders; it did not grant immediate complete independence.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -933,12 +933,12 @@
       "q": "The Lucknow Pact of 1916 is chiefly remembered as an agreement between which two political organisations?",
       "o": [
         "Indian National Congress and the Communist Party of India",
-        "Indian National Congress and All-India Muslim League",
         "Muslim League and the Justice Party",
+        "Indian National Congress and All-India Muslim League",
         "Hindu Mahasabha and the Home Rule League"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "The Lucknow Pact was an agreement between the Indian National Congress and the All-India Muslim League on constitutional reforms and representation. It marked a period of cooperation between the two organisations, rather than an agreement involving later political parties.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -966,13 +966,13 @@
       "topic": "Home Rule Leagues, 1916",
       "q": "Which pair is most closely associated with launching the Home Rule League movement in India in 1916?",
       "o": [
-        "Bal Gangadhar Tilak and Annie Besant",
         "Dadabhai Naoroji and Gopal Krishna Gokhale",
+        "Bal Gangadhar Tilak and Annie Besant",
         "Subhas Chandra Bose and Jawaharlal Nehru",
         "Sardar Patel and Rajendra Prasad"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "Bal Gangadhar Tilak and Annie Besant led separate but related Home Rule Leagues in 1916, demanding self-government within the British Empire. The movement preceded the later mass non-cooperation and civil-disobedience campaigns.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -1000,13 +1000,13 @@
       "topic": "Champaran Satyagraha, 1917",
       "q": "The Champaran Satyagraha of 1917 was primarily organised to address the grievances of which group?",
       "o": [
+        "Indigo cultivators compelled by the tinkathia system",
         "Mill workers seeking an eight-hour workday",
         "Forest communities protesting a salt tax",
-        "Railway employees demanding a pension scheme",
-        "Indigo cultivators compelled by the tinkathia system"
+        "Railway employees demanding a pension scheme"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "The Champaran movement concerned indigo cultivators in Bihar who faced coercive cultivation arrangements, especially the tinkathia system. Gandhi's intervention in 1917 became an early major experiment in satyagraha in India.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1036,11 +1036,11 @@
       "o": [
         "Deposition of wind-blown sand only",
         "Glacial plucking of hard granite",
-        "Dissolution of soluble rocks by groundwater",
-        "Lava accumulation from repeated eruptions"
+        "Lava accumulation from repeated eruptions",
+        "Dissolution of soluble rocks by groundwater"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "Karst topography develops mainly where slightly acidic water dissolves soluble rocks such as limestone. Over time, dissolution enlarges joints and fractures into caves, sinkholes and underground drainage systems; it is not primarily a wind or glacial landform.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1069,12 +1069,12 @@
       "q": "A long, deep, steep-sided sea inlet occupying a glacially carved valley is called a:",
       "o": [
         "Barchan",
-        "Fjord",
         "Drumlin",
+        "Fjord",
         "Yardang"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "A fjord forms when a glacier excavates a deep U-shaped valley and the sea later floods it. Barchans and yardangs are wind-related landforms, while a drumlin is a streamlined hill of glacial material.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -1102,13 +1102,13 @@
       "topic": "Drumlin — glacial depositional landform",
       "q": "Which landform is typically an elongated, streamlined hill composed largely of glacial till and aligned with former ice movement?",
       "o": [
-        "Drumlin",
         "Fjord",
+        "Drumlin",
         "Sinkhole",
         "Sea stack"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "A drumlin is a streamlined hill of glacial sediment, usually elongated in the direction of ice movement. Its shape can help reconstruct glacier flow; fjords are flooded glacial valleys, while sinkholes and sea stacks have different origins.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1136,13 +1136,13 @@
       "topic": "Transform plate boundary",
       "q": "At a transform plate boundary, the two tectonic plates generally:",
       "o": [
+        "Slide horizontally past one another",
         "Move directly apart and create a rift",
         "Collide and always form a volcanic arc",
-        "Move vertically without relative horizontal motion",
-        "Slide horizontally past one another"
+        "Move vertically without relative horizontal motion"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "Transform boundaries are dominated by lateral or strike-slip motion as plates slide past one another. Friction can lock the fault and later release energy as earthquakes; divergent boundaries move apart, while convergent boundaries move toward each other.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1172,11 +1172,11 @@
       "o": [
         "Reverse fault",
         "Thrust fault",
-        "Normal fault",
-        "Strike-slip fault"
+        "Strike-slip fault",
+        "Normal fault"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "In a normal fault, the hanging wall moves down relative to the footwall, commonly under extension or tensional stress. Reverse and thrust faults are associated with compression, while strike-slip faults involve mainly horizontal displacement.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1205,12 +1205,12 @@
       "q": "What is the thermocline in an ocean water column?",
       "o": [
         "The boundary between seawater and the seabed",
-        "A layer where temperature changes rapidly with depth",
         "A layer containing no dissolved oxygen",
+        "A layer where temperature changes rapidly with depth",
         "The permanent surface layer of floating ice"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "The thermocline is the zone in which water temperature decreases rapidly with increasing depth, separating warmer surface water from colder deep water. It affects vertical mixing and the movement of heat in the ocean.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1238,13 +1238,13 @@
       "topic": "Ocean upwelling",
       "q": "Why are coastal regions influenced by strong upwelling often highly productive fishing grounds?",
       "o": [
-        "Deep, nutrient-rich water rises toward the sunlit surface",
         "Warm surface water sinks and removes all nutrients",
+        "Deep, nutrient-rich water rises toward the sunlit surface",
         "The seabed releases only fresh drinking water",
         "Upwelling prevents phytoplankton from receiving sunlight"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "Upwelling brings colder, nutrient-rich deep water into the sunlit upper ocean. The nutrients support phytoplankton growth, which can sustain productive marine food webs and fisheries; the process is not caused by a lack of sunlight.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1272,13 +1272,13 @@
       "topic": "Seafloor spreading",
       "q": "New oceanic crust is primarily created at which type of plate boundary?",
       "o": [
+        "Divergent boundary at a mid-ocean ridge",
         "Transform boundary",
         "Convergent boundary where one plate is subducted",
-        "A stationary continental interior",
-        "Divergent boundary at a mid-ocean ridge"
+        "A stationary continental interior"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "At divergent boundaries, plates move apart and magma rises to fill the gap. Cooling magma forms new oceanic crust, a process known as seafloor spreading; at subduction zones, oceanic crust is instead recycled into the mantle.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1308,11 +1308,11 @@
       "o": [
         "Depreciation and subtracting wages",
         "Imports and subtracting exports",
-        "Product taxes and subtracting product subsidies",
-        "Interest payments and subtracting savings"
+        "Interest payments and subtracting savings",
+        "Product taxes and subtracting product subsidies"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "GDP at market prices equals GVA at basic prices plus product taxes minus product subsidies. Taxes on products create the bridge from basic prices to market prices; depreciation and interest payments are different national-accounting concepts.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1341,12 +1341,12 @@
       "q": "Why is real GDP generally more useful than nominal GDP when comparing the volume of production across years?",
       "o": [
         "It includes only government expenditure",
-        "It values output at constant prices and removes the effect of price changes",
         "It excludes all services",
+        "It values output at constant prices and removes the effect of price changes",
         "It is always larger than nominal GDP"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "Real GDP uses constant prices, so changes mainly reflect changes in the volume of goods and services rather than changes in their prices. Nominal GDP uses current prices and can rise because of inflation even when physical output is unchanged.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1374,13 +1374,13 @@
       "topic": "Revenue deficit",
       "q": "Which formula correctly defines the revenue deficit in government budgeting?",
       "o": [
-        "Revenue expenditure minus revenue receipts",
         "Capital expenditure minus capital receipts",
+        "Revenue expenditure minus revenue receipts",
         "Total expenditure minus total receipts",
         "Fiscal deficit minus interest payments"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "Revenue deficit is the excess of revenue expenditure over revenue receipts. It focuses on the government's revenue account; primary deficit and fiscal deficit use different components and should not be interchanged.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -1408,13 +1408,13 @@
       "topic": "Balance of Payments — current account",
       "q": "Which set of transactions is normally recorded in the current account of a country's Balance of Payments?",
       "o": [
+        "Trade in goods and services, primary income and secondary income",
         "Only foreign direct investment and portfolio investment",
         "Only changes in official reserve assets",
-        "Only external commercial borrowings",
-        "Trade in goods and services, primary income and secondary income"
+        "Only external commercial borrowings"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "The current account records exports and imports of goods and services, primary income such as investment income, and secondary income such as transfers. Direct investment and portfolio investment are recorded in the financial account.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1444,11 +1444,11 @@
       "o": [
         "Foreign Portfolio Investment",
         "A remittance",
-        "Foreign Direct Investment",
-        "A short-term trade credit"
+        "A short-term trade credit",
+        "Foreign Direct Investment"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "Foreign Direct Investment is associated with a lasting interest and a degree of influence or control in an enterprise. Foreign Portfolio Investment generally involves financial securities without the same management influence; the distinction matters for external-sector analysis.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1477,12 +1477,12 @@
       "q": "The Government sells a minority shareholding in a public-sector enterprise but retains management control. Which description is most accurate?",
       "o": [
         "Complete privatisation",
-        "Disinvestment without necessarily amounting to privatisation",
         "Nationalisation",
+        "Disinvestment without necessarily amounting to privatisation",
         "A merger of two ministries"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "Disinvestment means the government sells some of its equity. It becomes privatisation when the sale results in transfer of ownership or management control to private hands; a minority sale alone does not automatically establish that transfer.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1510,13 +1510,13 @@
       "topic": "CPI versus WPI",
       "q": "Which price index is designed to measure changes in the prices of a basket of goods and services typically consumed by households?",
       "o": [
-        "Consumer Price Index",
         "Wholesale Price Index",
+        "Consumer Price Index",
         "Index of Industrial Production",
         "GDP deflator for capital goods only"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "The Consumer Price Index tracks retail prices of a representative consumption basket and is used to assess consumer-level inflation. The Wholesale Price Index tracks prices at the wholesale level and has a different coverage and purpose.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -1544,13 +1544,13 @@
       "topic": "DNA replication — model",
       "q": "The semi-conservative model of DNA replication means that each daughter DNA molecule contains:",
       "o": [
+        "One parental strand and one newly synthesised strand",
         "Two newly synthesised strands only",
         "Two unchanged parental strands only",
-        "One RNA strand and one protein strand",
-        "One parental strand and one newly synthesised strand"
+        "One RNA strand and one protein strand"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "In semi-conservative replication, the two parental DNA strands separate and each serves as a template for a new complementary strand. Each daughter double helix therefore contains one old strand and one new strand.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1580,11 +1580,11 @@
       "o": [
         "It doubles the chromosome number in every daughter cell",
         "It produces genetically identical diploid cells only",
-        "It produces haploid cells by reducing the chromosome number by half",
-        "It prevents recombination between homologous chromosomes"
+        "It prevents recombination between homologous chromosomes",
+        "It produces haploid cells by reducing the chromosome number by half"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "Meiosis consists of two successive divisions after one round of DNA replication and normally produces haploid cells. The reduction in chromosome number helps restore the diploid number at fertilisation; mitosis, by contrast, generally maintains chromosome number.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1613,12 +1613,12 @@
       "q": "Which cells of the pancreas secrete insulin?",
       "o": [
         "Alpha cells of the islets of Langerhans",
-        "Beta cells of the islets of Langerhans",
         "Acinar cells of the salivary glands",
+        "Beta cells of the islets of Langerhans",
         "Chief cells of the stomach"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "Insulin is secreted by beta cells in the pancreatic islets. It helps lower blood glucose by promoting uptake and storage of glucose; alpha cells secrete glucagon, which has an opposing effect on blood glucose.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -1646,13 +1646,13 @@
       "topic": "Red blood cell shape",
       "q": "How does the biconcave shape of a normal human red blood cell help its function?",
       "o": [
-        "It increases surface area for gas exchange and allows flexibility in narrow capillaries",
         "It enables the cell to divide rapidly in the bloodstream",
+        "It increases surface area for gas exchange and allows flexibility in narrow capillaries",
         "It stores large quantities of genetic material",
         "It prevents haemoglobin from binding oxygen"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "The biconcave disc gives a red blood cell a high surface-area-to-volume ratio and flexibility to pass through narrow capillaries. Mature human red blood cells lack a nucleus and are specialised for transporting respiratory gases.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1680,13 +1680,13 @@
       "topic": "Xylem — plant transport",
       "q": "Which function is primarily performed by xylem tissue in a vascular plant?",
       "o": [
+        "Transport of water and dissolved mineral salts from roots toward aerial parts",
         "Transport of sugars from leaves to storage organs only",
         "Production of pollen grains",
-        "Absorption of carbon dioxide through stomata",
-        "Transport of water and dissolved mineral salts from roots toward aerial parts"
+        "Absorption of carbon dioxide through stomata"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "Xylem conducts water and dissolved minerals from the roots to stems and leaves, with transpiration providing a major driving force. Phloem transports organic food such as sucrose; the two tissues have different transport roles.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -1716,11 +1716,11 @@
       "o": [
         "Electrical energy to nuclear energy",
         "Sound energy to chemical energy",
-        "Chemical energy to electrical energy",
-        "Light energy to gravitational energy"
+        "Light energy to gravitational energy",
+        "Chemical energy to electrical energy"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "A galvanic or voltaic cell converts chemical energy released by a spontaneous redox reaction into electrical energy. An electrolytic cell uses an external electrical supply to drive a non-spontaneous chemical reaction, so the direction of conversion differs.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1749,12 +1749,12 @@
       "q": "A coil experiences a changing magnetic flux through its turns. What does Faraday's law predict?",
       "o": [
         "A constant voltage independent of magnetic flux",
-        "An induced electromotive force proportional to the rate of change of magnetic flux linkage",
         "A magnetic field that can exist only in a vacuum",
+        "An induced electromotive force proportional to the rate of change of magnetic flux linkage",
         "A current that must always be zero in a closed coil"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "Faraday's law states that induced emf is related to the rate of change of magnetic flux linkage. A faster change or more turns can increase the induced emf; a constant flux produces no induced emf from this mechanism.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1782,13 +1782,13 @@
       "topic": "First law of thermodynamics",
       "q": "Which statement best expresses the first law of thermodynamics for a closed system?",
       "o": [
-        "Energy is conserved; heat supplied changes internal energy and may also do work",
         "Heat can be created from nothing in a cyclic process",
+        "Energy is conserved; heat supplied changes internal energy and may also do work",
         "Internal energy is always equal to pressure",
         "Work can be produced without any energy transfer"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "The first law is the conservation of energy applied to thermodynamic systems. With the common convention that work done by the system is positive, heat supplied equals the increase in internal energy plus work done by the system.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1816,13 +1816,13 @@
       "topic": "Sound — pitch and frequency",
       "q": "Two pure tones have the same amplitude but different frequencies. Which property chiefly determines which tone is perceived as higher in pitch?",
       "o": [
+        "Frequency",
         "Amplitude",
         "Speed of sound in the listener's ear",
-        "Distance between the source and listener alone",
-        "Frequency"
+        "Distance between the source and listener alone"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "Pitch is primarily associated with frequency: a higher frequency is perceived as a higher pitch. Amplitude is related to loudness, while the speed of sound depends on the medium and does not by itself determine pitch.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -1852,11 +1852,11 @@
       "o": [
         "To regulate all domestic agriculture prices",
         "To create a global carbon tax",
-        "To ensure international trade in wild animals and plants does not threaten their survival",
-        "To prohibit every form of wildlife research"
+        "To prohibit every form of wildlife research",
+        "To ensure international trade in wild animals and plants does not threaten their survival"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "CITES is an international agreement that regulates international trade in specimens of wild animals and plants so that trade does not threaten their survival. It is not a general ban on all research or a carbon-pricing treaty.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1885,12 +1885,12 @@
       "q": "The Montreal Protocol is primarily concerned with controlling substances that:",
       "o": [
         "Increase river salinity",
-        "Deplete the stratospheric ozone layer",
         "Cause soil erosion in mountain areas",
+        "Deplete the stratospheric ozone layer",
         "Create marine plastic litter only"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "The Montreal Protocol controls the production and consumption of ozone-depleting substances, including chlorofluorocarbons. Its purpose is to protect the stratospheric ozone layer, which absorbs much of the Sun's harmful ultraviolet radiation.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -1918,13 +1918,13 @@
       "topic": "Paris Agreement — NDCs",
       "q": "Under the Paris Agreement, countries communicate and strengthen which national climate plans over time?",
       "o": [
-        "Nationally Determined Contributions",
         "National Defence Commitments",
+        "Nationally Determined Contributions",
         "Non-Disclosure Certificates",
         "Natural Disaster Compensation orders"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "Nationally Determined Contributions, or NDCs, are the climate action plans communicated by Parties to the Paris Agreement. The agreement uses a cycle of successive, progressively stronger contributions and a global stocktake to assess collective progress.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1952,13 +1952,13 @@
       "topic": "Primary ecological succession",
       "q": "A new volcanic surface is exposed with bare rock and no developed soil. The gradual establishment of a biological community there is an example of:",
       "o": [
+        "Primary succession",
         "Secondary succession",
         "Artificial selection",
-        "Eutrophication",
-        "Primary succession"
+        "Eutrophication"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "Primary succession begins on a newly exposed substrate where developed soil is absent. Pioneer organisms help weather rock and build organic material, gradually allowing more complex communities to establish; secondary succession begins where soil remains after disturbance.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -1988,11 +1988,11 @@
       "o": [
         "Desalination",
         "Incineration",
-        "Phytoremediation",
-        "Electroplating"
+        "Electroplating",
+        "Phytoremediation"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "Phytoremediation uses plants and their associated microbes to remove, contain or transform contaminants in soil or water. It can be useful for selected pollutants and sites, although its effectiveness depends on the contaminant, plant species and environmental conditions.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -2021,12 +2021,12 @@
       "q": "Which example is an in-situ method of biodiversity conservation?",
       "o": [
         "Maintaining a seed collection in a laboratory freezer",
-        "Protecting a wild species in its natural habitat within a national park",
         "Breeding an endangered animal in a zoo",
+        "Protecting a wild species in its natural habitat within a national park",
         "Storing plant tissue in a gene bank"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "In-situ conservation protects species within their natural ecosystems, allowing ecological interactions and evolutionary processes to continue. Zoos, seed banks and tissue-culture facilities are ex-situ approaches because conservation occurs outside the natural habitat.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -2054,13 +2054,13 @@
       "topic": "Polluter Pays Principle",
       "q": "Under the Polluter Pays Principle, who should ordinarily bear the costs of preventing and remedying pollution?",
       "o": [
-        "The polluter responsible for the environmental damage",
         "Only households living downstream",
+        "The polluter responsible for the environmental damage",
         "The nearest school",
         "The public authority in every case, regardless of responsibility"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "The Polluter Pays Principle places the cost of pollution prevention, control and remediation on the polluter. It is intended to internalise environmental costs rather than transfer the burden automatically to affected communities or the general public.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -2088,13 +2088,13 @@
       "topic": "Keystone species",
       "q": "A species has a disproportionately large effect on ecosystem structure relative to its abundance. Ecologists describe it as a:",
       "o": [
+        "Keystone species",
         "Pioneer species in every case",
         "Domestic species",
-        "Decomposer only",
-        "Keystone species"
+        "Decomposer only"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "A keystone species has an ecological effect that is disproportionately large compared with its abundance or biomass. Removing it can trigger major changes in community structure, so its importance is not measured merely by how numerous it is.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -2124,11 +2124,11 @@
       "o": [
         "Dynamic Host Configuration Protocol (DHCP)",
         "File Transfer Protocol (FTP)",
-        "Domain Name System (DNS)",
-        "Simple Mail Transfer Protocol (SMTP)"
+        "Simple Mail Transfer Protocol (SMTP)",
+        "Domain Name System (DNS)"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "DNS translates human-readable domain names into information used to locate network resources, commonly including IP addresses. DHCP assigns network configuration to devices; FTP transfers files and SMTP is used for sending email.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -2157,12 +2157,12 @@
       "q": "A laptop joins a network and automatically receives an IP address, subnet mask, default gateway and DNS-server details. Which protocol most directly performs this task?",
       "o": [
         "DNS",
-        "DHCP",
         "HTTPS",
+        "DHCP",
         "SSH"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "The Dynamic Host Configuration Protocol automatically supplies hosts with network configuration, commonly through a lease. DNS resolves names, while HTTPS and SSH provide secure application or remote-access communication.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -2190,13 +2190,13 @@
       "topic": "OSI model — network layer",
       "q": "In the OSI reference model, which layer is chiefly associated with logical addressing and routing packets between networks?",
       "o": [
-        "Network layer",
         "Physical layer",
+        "Network layer",
         "Presentation layer",
         "Session layer"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "The network layer is responsible for logical addressing and routing packets across interconnected networks. The physical layer transmits raw bits over a medium, while presentation and session layers address other aspects of communication.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -2224,13 +2224,13 @@
       "topic": "Unicode — purpose",
       "q": "Why was Unicode developed?",
       "o": [
+        "To provide a consistent character-encoding system for text from many writing systems",
         "To assign a separate IP address to every language",
         "To compress every image into a single format",
-        "To replace all computer operating systems",
-        "To provide a consistent character-encoding system for text from many writing systems"
+        "To replace all computer operating systems"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "Unicode assigns code points to characters used by many scripts, symbols and writing systems, enabling consistent text representation across platforms. It is not an image-compression scheme or a network-addressing system.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -2260,11 +2260,11 @@
       "o": [
         "A reversible file-encryption algorithm",
         "A public-key exchange protocol",
-        "A cryptographic hash function",
-        "A lossless image format"
+        "A lossless image format",
+        "A cryptographic hash function"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "SHA-256 maps input data to a fixed-length 256-bit digest. Comparing digests can reveal accidental or malicious changes, but hashing is not encryption: the original file cannot be recovered by reversing the hash.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -2293,12 +2293,12 @@
       "q": "A document is digitally signed using the sender's private key. Which key is normally used by a recipient to verify that signature?",
       "o": [
         "The recipient's private key",
-        "The sender's corresponding public key",
         "A random session password",
+        "The sender's corresponding public key",
         "The sender's public IP address"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "A digital signature is generated with the signer's private key and verified with the corresponding public key. This supports authenticity and integrity; it is distinct from encrypting a message for confidentiality.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -2326,13 +2326,13 @@
       "topic": "OCR versus OMR",
       "q": "A clerk needs to convert the printed words on a scanned paper form into editable text. Which technology is most appropriate?",
       "o": [
-        "Optical Character Recognition (OCR)",
         "Optical Mark Recognition (OMR)",
+        "Optical Character Recognition (OCR)",
         "Magnetic Ink Character Recognition (MICR) only",
         "A barcode reader"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "OCR analyses the shapes of characters in an image and converts them into machine-readable text. OMR is designed to detect marked responses, such as filled circles on objective answer sheets, rather than recognise arbitrary printed words.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -2360,13 +2360,13 @@
       "topic": "RAID 1 — storage",
       "q": "A server stores identical copies of data on two drives so that it can continue operating if one drive fails. Which RAID level describes this arrangement?",
       "o": [
+        "RAID 1 mirroring",
         "RAID 0 striping",
         "RAID 5 parity only",
-        "JBOD concatenation",
-        "RAID 1 mirroring"
+        "JBOD concatenation"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "RAID 1 mirrors data across drives, providing redundancy if one member drive fails. It does not replace a separate backup, because accidental deletion, malware or corruption can be mirrored to the other drive as well.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -2396,11 +2396,11 @@
       "o": [
         "All trainees are inspectors",
         "Some minors are inspectors",
-        "Some trainees are not minors",
-        "No trainee is an officer"
+        "No trainee is an officer",
+        "Some trainees are not minors"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "The trainees who are inspectors must also be officers because all inspectors are officers. Since no officer is a minor, those trainees cannot be minors. The conclusion is existential because the third statement says some trainees are inspectors.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -2429,12 +2429,12 @@
       "q": "In a code, each letter is replaced by the next letter in the English alphabet. If TABLE is coded as UBCMF, how is CHAIR coded?",
       "o": [
         "DIBIR",
-        "DIBJS",
         "BGZHQ",
+        "DIBJS",
         "EJCKT"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "Each letter moves forward by one position: C→D, H→I, A→B, I→J and R→S. Therefore CHAIR becomes DIBJS. Apply the same operation separately to every letter and do not reverse the order.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -2462,13 +2462,13 @@
       "topic": "Statement and assumption",
       "q": "A notice says: “Install smoke alarms in every corridor to warn occupants before a fire spreads.” Which assumption is necessary for the recommendation to make sense?",
       "o": [
-        "Smoke alarms can detect smoke and alert occupants",
         "Every corridor is always empty",
+        "Smoke alarms can detect smoke and alert occupants",
         "A smoke alarm can extinguish a fire",
         "Fire can occur only in corridors"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "The recommendation assumes that a smoke alarm can detect smoke and provide a warning to people in the building. It does not assume corridors are empty or that an alarm extinguishes fire; those claims are not required for the advice.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -2496,13 +2496,13 @@
       "topic": "Ordering — necessary relation",
       "q": "Four reports A, B, C and D must be filed. The rules say A is filed before D, D before C, and B after A. Which relation must be true?",
       "o": [
+        "D is filed before C",
         "B is filed before A",
         "C is filed before A",
-        "B is filed after C",
-        "D is filed before C"
+        "B is filed after C"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "The rules directly establish A before D and D before C, so D must be before C. B is only constrained to be after A; its position relative to D and C is not fixed by the information given.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -2532,11 +2532,11 @@
       "o": [
         "If an application is signed, it must be accepted",
         "If an application is not accepted, it must be unsigned",
-        "If an application is accepted, it must be signed",
-        "Signing and acceptance are unrelated"
+        "Signing and acceptance are unrelated",
+        "If an application is accepted, it must be signed"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "“P only if Q” means Q is a necessary condition for P, so P implies Q. Here acceptance implies a signature; a signature alone does not guarantee acceptance because other requirements may still be unmet.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -2565,12 +2565,12 @@
       "q": "Choose the correct word: “The audit team found ___ errors in the revised register than in the first version.”",
       "o": [
         "less",
-        "fewer",
         "little",
+        "fewer",
         "much"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "Use fewer with countable plural nouns such as errors, forms or entries. Less is normally used with uncountable quantities such as time or information. Because “errors” can be counted individually, fewer is correct.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -2598,13 +2598,13 @@
       "topic": "Neither…nor — subject-verb agreement",
       "q": "Choose the correct verb: “Neither the superintendent nor the assistants ___ available for the inspection.”",
       "o": [
-        "are",
         "is",
+        "are",
         "was",
         "has"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "With neither…nor, the verb commonly agrees with the nearer subject. Here the nearer subject is the plural noun “assistants”, so the plural verb are is used. The construction links two alternatives and does not automatically require a singular verb.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -2632,13 +2632,13 @@
       "topic": "Past perfect — sequence of past events",
       "q": "Choose the correct completion: “By the time the inspection team arrived, the dealer ___ the original invoices.”",
       "o": [
+        "had produced",
         "has produced",
         "will produce",
-        "produces",
-        "had produced"
+        "produces"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "The past perfect marks an action completed before another past event. Producing the invoices occurred before the team arrived, so “had produced” makes the sequence clear; the simple present or future does not fit the past-time frame.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -2668,11 +2668,11 @@
       "o": [
         "am",
         "was being",
-        "were",
-        "will be"
+        "will be",
+        "were"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "In formal hypothetical or contrary-to-fact conditions, were is traditionally used with all persons: “If I were…”. It signals an imagined situation rather than a statement that the speaker is actually responsible.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -2701,12 +2701,12 @@
       "q": "Choose the correct sentence: “No sooner ___ the hearing begun than the power supply failed.”",
       "o": [
         "has",
-        "had",
         "did",
+        "had",
         "was"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "The correlative construction “no sooner…than” normally uses inversion with the past perfect: “No sooner had the hearing begun than…”. The auxiliary had precedes the subject because the sentence begins with the negative adverbial expression.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -2734,13 +2734,13 @@
       "topic": "Stationary versus stationery",
       "q": "Choose the correct word: “The clerk placed the files in a ___ cabinet beside the record room.”",
       "o": [
-        "stationary",
         "stationery",
+        "stationary",
         "stationaried",
         "stationer"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "Stationary means fixed or not moving, so it describes a cabinet that remains in one place. Stationery means writing materials such as paper, pens and envelopes. The two words sound alike but have different meanings.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -2768,13 +2768,13 @@
       "topic": "Elicit versus illicit",
       "q": "Choose the correct word: “The officer's neutral questions were intended to ___ a clear explanation from the applicant.”",
       "o": [
+        "elicit",
         "illicit",
         "elude",
-        "allude",
-        "elicit"
+        "allude"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 0,
+      "answerIndex": 0,
       "e": "Elicit is a verb meaning to draw out or obtain a response, information or reaction. Illicit is an adjective meaning unlawful or forbidden. The sentence requires a verb describing the act of obtaining an explanation.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -2804,11 +2804,11 @@
       "o": [
         "in addition to",
         "because of",
-        "instead of",
-        "in spite of"
+        "in spite of",
+        "instead of"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 3,
+      "answerIndex": 3,
       "e": "In lieu of means instead of or in place of. The sentence says compensatory leave was granted as a substitute for overtime payment, not as an extra payment or because of a payment.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -2837,12 +2837,12 @@
       "q": "Choose the closest meaning of “notwithstanding” in: “Notwithstanding the delay, the application was processed on the same day.”",
       "o": [
         "Because of",
-        "Despite",
         "Before",
+        "Despite",
         "Only if"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 2,
+      "answerIndex": 2,
       "e": "Notwithstanding means despite or in spite of. The sentence indicates that the delay did not prevent same-day processing; it does not express cause, sequence or a condition.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -2870,13 +2870,13 @@
       "topic": "Successive discounts",
       "q": "A file cabinet has a marked price of ₹2,400. A buyer receives successive discounts of 15% and 10%. What is the final price?",
       "o": [
-        "₹1,836",
         "₹1,800",
+        "₹1,836",
         "₹1,920",
         "₹2,040"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 1,
+      "answerIndex": 1,
       "e": "Apply the discounts one after another: ₹2,400 × 0.85 = ₹2,040; then ₹2,040 × 0.90 = ₹1,836. Successive discounts are multiplicative, not simply added as 25% of the marked price.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -2899,52 +2899,18 @@
       ]
     },
     {
-      "id": 9414,
-      "cat": "Arithmetic",
-      "topic": "Work rate — combined work",
-      "q": "A can complete a data-entry task in 12 days and B can complete the same task in 18 days. Working together at constant rates, how long will they take?",
-      "o": [
-        "8 days",
-        "9 days",
-        "15 days",
-        "7.2 days"
-      ],
-      "a": 3,
-      "answerIndex": 3,
-      "e": "A's daily rate is 1/12 and B's is 1/18. Combined rate = 1/12 + 1/18 = 5/36 of the task per day. Time = 36/5 = 7.2 days. Add work rates first, then take the reciprocal.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
-      "difficulty": "Moderate",
-      "exam": "Meghalaya competitive examinations",
-      "examTags": [
-        "DSC East Khasi Hills LDA-cum-Typist",
-        "MPSC Secretariat LDA"
-      ],
-      "label": "Original Practice",
-      "sourceType": "Original Practice",
-      "isOriginal": true,
-      "source": "Original Practice — not an official PYQ. Based on NCERT — Official school textbook portal.",
-      "sourceName": "NCERT — Official school textbook portal",
-      "sourceURL": "https://ncert.nic.in/textbook.php",
-      "sourceVerifiedDate": "2026-11-23",
-      "verificationStatus": "Verified against the cited authoritative source or independently checked worked solution on 2026-11-23.",
-      "tags": [
-        "Arithmetic",
-        "Work rate — combined work",
-        "Original Practice"
-      ]
-    },
-    {
       "id": 9415,
       "cat": "Arithmetic",
       "topic": "Ratio — division of a sum",
       "q": "A grant of ₹1,680 is divided among three projects in the ratio 3:4:5. What is the share of the project receiving the largest amount?",
       "o": [
+        "₹700",
         "₹560",
         "₹840",
-        "₹700",
         "₹480"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 0,
+      "answerIndex": 0,
       "e": "The ratio parts total 3 + 4 + 5 = 12. One part is ₹1,680 ÷ 12 = ₹140. The largest share is 5 parts, so 5 × ₹140 = ₹700. Always identify the largest ratio term before calculating the share.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -2973,12 +2939,12 @@
       "q": "Twenty files have an average processing time of 48 minutes. Five additional files have an average processing time of 60 minutes. What is the new average for all 25 files?",
       "o": [
         "49.2 minutes",
-        "50.4 minutes",
         "52 minutes",
-        "54 minutes"
+        "54 minutes",
+        "50.4 minutes"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 3,
+      "answerIndex": 3,
       "e": "The first 20 files total 20 × 48 = 960 minutes; the next five total 5 × 60 = 300 minutes. Combined total = 1,260 minutes. Divide by 25 files: 1,260 ÷ 25 = 50.4 minutes.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -3006,13 +2972,13 @@
       "topic": "Dilution — concentration",
       "q": "A laboratory has 30 litres of a solution containing 40% solute. If 10 litres of pure water are added, what is the new solute concentration?",
       "o": [
-        "30%",
         "25%",
         "35%",
+        "30%",
         "40%"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 2,
+      "answerIndex": 2,
       "e": "The original solute quantity is 30 × 0.40 = 12 litres. Adding pure water increases the total volume to 40 litres but does not change the solute quantity. New concentration = 12/40 × 100 = 30%.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -3041,12 +3007,12 @@
       "q": "What compound interest is earned on ₹8,000 at 5% per annum for two years, compounded annually?",
       "o": [
         "₹800",
+        "₹820",
         "₹840",
-        "₹880",
-        "₹820"
+        "₹880"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 1,
+      "answerIndex": 1,
       "e": "Amount after two years = ₹8,000 × 1.05 × 1.05 = ₹8,820. Compound interest is the amount minus principal: ₹8,820 − ₹8,000 = ₹820. The second year's interest is calculated on the first year's increased balance.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -3074,13 +3040,13 @@
       "topic": "Average speed — equal distances",
       "q": "A vehicle travels two equal distances, one at 40 km/h and the other at 60 km/h. What is its average speed for the complete journey?",
       "o": [
+        "48 km/h",
         "50 km/h",
         "52 km/h",
-        "48 km/h",
         "45 km/h"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 0,
+      "answerIndex": 0,
       "e": "For equal distances, average speed is the harmonic mean: 2uv/(u+v). Substituting 40 and 60 gives 2×40×60/(40+60) = 4,800/100 = 48 km/h. A simple arithmetic mean would be wrong because the travel times differ.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -3109,12 +3075,12 @@
       "q": "The Government of Meghalaya's 14 November 2026 press release on the Golden Jubilee of the 1000 Drums Wangala Festival highlighted the participation of how many traditional Dama players?",
       "o": [
         "500",
-        "1,000",
         "750",
-        "2,000"
+        "2,000",
+        "1,000"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 3,
+      "answerIndex": 3,
       "e": "The Meghalaya Government press release dated 14 November 2026 highlighted the participation of 1,000 traditional Dama players during the Golden Jubilee celebration. The question tests the specific number reported for the 2026 event, not the ordinary name “Hundred Drums”.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -3142,13 +3108,13 @@
       "topic": "Janjatiya Gaurav Divas — Mawphlang programme",
       "q": "As part of Meghalaya's Janjatiya Gaurav Divas 2026 programme, what was the title of the field-based workshop held at Mawphlang Sacred Grove on 21 November?",
       "o": [
-        "Living Heritage: Workshop on Eco-Museums & Community Archives",
         "Digital India: Workshop on Smart Villages",
         "Green Meghalaya: Workshop on Solar Rooftops",
+        "Living Heritage: Workshop on Eco-Museums & Community Archives",
         "Tribal Sports: Workshop on Traditional Games"
       ],
-      "a": 0,
-      "answerIndex": 0,
+      "a": 2,
+      "answerIndex": 2,
       "e": "The Department of Arts and Culture press release of 17 November 2026 named the 21 November field programme at Mawphlang Sacred Grove “Living Heritage: Workshop on Eco-Museums & Community Archives”. Its focus was community-led preservation of living traditions and local archives.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -3177,12 +3143,12 @@
       "q": "Where was the campus of the NDRF's 12th Battalion inaugurated on 22 November 2026?",
       "o": [
         "Shillong, Meghalaya",
+        "Itanagar, Arunachal Pradesh",
         "Guwahati, Assam",
-        "Kohima, Nagaland",
-        "Itanagar, Arunachal Pradesh"
+        "Kohima, Nagaland"
       ],
-      "a": 3,
-      "answerIndex": 3,
+      "a": 1,
+      "answerIndex": 1,
       "e": "The Press Information Bureau reported that the Union Home Minister inaugurated the NDRF 12th Battalion campus in Itanagar on 22 November 2026. The release also stated that the campus would support disaster response in the Northeast and train SDRFs of all eight northeastern states.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -3210,13 +3176,13 @@
       "topic": "India's exports, April–October FY 2026–27",
       "q": "According to the Ministry of Commerce and Industry's November 2026 release, India's combined merchandise and services exports during April–October FY 2026–27 were estimated at:",
       "o": [
+        "US$568.84 billion",
         "US$487.59 billion",
         "US$309.06 billion",
-        "US$568.84 billion",
         "US$662.19 billion"
       ],
-      "a": 2,
-      "answerIndex": 2,
+      "a": 0,
+      "answerIndex": 0,
       "e": "The PIB release of 13 November 2026 estimated combined merchandise and services exports at US$568.84 billion for April–October FY 2026–27, up 16.66% from US$487.59 billion a year earlier. US$309.06 billion was merchandise exports alone, not the combined total.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Moderate",
       "exam": "Meghalaya competitive examinations",
@@ -3245,12 +3211,12 @@
       "q": "The Government of Meghalaya's first AI Job Fair, held at the State Convention Centre in Shillong on 17 November 2026, announced how many prospective job openings in Shillong?",
       "o": [
         "250",
-        "125",
         "400",
-        "500"
+        "500",
+        "125"
       ],
-      "a": 1,
-      "answerIndex": 1,
+      "a": 3,
+      "answerIndex": 3,
       "e": "The Government of Meghalaya press release described 125 prospective job openings in Shillong and anticipated participation by more than 400 candidates and institutional heads. The 400-plus figure referred to expected participants, not job openings.\n\nExam method: identify the exact rule, definition or relationship tested before comparing the alternatives. The distractors are related to the same broad subject, but they do not satisfy the precise condition in the question.",
       "difficulty": "Easy",
       "exam": "Meghalaya competitive examinations",
@@ -3278,17 +3244,17 @@
       "topic": "Article 169 — creation or abolition of State Legislative Councils",
       "q": "A State Legislative Assembly wants to create a Legislative Council. Which Article enables Parliament to provide for the creation or abolition of a State Legislative Council by law after the Assembly passes the required special-majority resolution?",
       "o": [
-        "Article 169",
         "Article 168",
         "Article 171",
+        "Article 169",
         "Article 174"
       ],
-      "a": 0,
+      "a": 2,
       "e": "Article 169 authorises Parliament to provide by law for the creation or abolition of a State Legislative Council. The State Assembly must first pass a resolution by a majority of its total membership and by not less than two-thirds of members present and voting; the resolution itself does not create the Council.\n\nExam method: distinguish the State Assembly's initiating resolution from the subsequent law made by Parliament.",
       "difficulty": "Moderate",
       "sourceName": "Legislative Department, Government of India — Constitution of India",
       "sourceURL": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
-      "answerIndex": 0,
+      "answerIndex": 2,
       "exam": "Meghalaya competitive examinations",
       "examTags": [
         "MPSC Secretariat LDA",
@@ -3313,16 +3279,16 @@
       "q": "A country's export price index rises relative to its import price index, while other conditions remain unchanged. What does this improvement in the country's terms of trade generally mean?",
       "o": [
         "A given quantity of imports can purchase fewer exports",
+        "A given quantity of exports can purchase more imports",
         "The country's physical export volume must double",
-        "The exchange rate must become fixed",
-        "A given quantity of exports can purchase more imports"
+        "The exchange rate must become fixed"
       ],
-      "a": 3,
+      "a": 1,
       "e": "The terms of trade are commonly expressed as the export price index divided by the import price index, multiplied by 100. When export prices rise relative to import prices, each unit of exports can command more imports, other things being equal; this does not automatically mean export volume has doubled.\n\nExam method: focus on relative prices, not the physical quantity of exports or the exchange-rate regime.",
       "difficulty": "Moderate",
       "sourceName": "NCERT — Official school textbook portal, economics material",
       "sourceURL": "https://ncert.nic.in/textbook.php",
-      "answerIndex": 3,
+      "answerIndex": 1,
       "exam": "Meghalaya competitive examinations",
       "examTags": [
         "MPSC Inspector of Taxes",
@@ -3346,17 +3312,17 @@
       "topic": "Exclusive disjunction — XOR truth condition",
       "q": "In a logical rule, P XOR Q is true only when:",
       "o": [
+        "Exactly one of P and Q is true",
         "Both P and Q are true",
         "Both P and Q are false",
-        "Exactly one of P and Q is true",
         "P necessarily implies Q"
       ],
-      "a": 2,
+      "a": 0,
       "e": "Exclusive OR (XOR) is true when precisely one of the two propositions is true. It is false when both are true and also false when both are false. This differs from inclusive OR, which is true when at least one proposition is true.\n\nExam method: test the four possible truth combinations and remember that XOR excludes the both-true case.",
       "difficulty": "Moderate",
       "sourceName": "NCERT — Official school textbook portal, mathematics and logic material",
       "sourceURL": "https://ncert.nic.in/textbook.php",
-      "answerIndex": 2,
+      "answerIndex": 0,
       "exam": "Meghalaya competitive examinations",
       "examTags": [
         "DSC East Khasi Hills LDA-cum-Typist",
@@ -3381,16 +3347,16 @@
       "q": "Rohan is the only son of Meera's mother's brother. How is Rohan related to Meera?",
       "o": [
         "Maternal uncle",
-        "Maternal cousin",
         "Nephew",
-        "Brother"
+        "Brother",
+        "Maternal cousin"
       ],
-      "a": 1,
+      "a": 3,
       "e": "Meera's mother's brother is her maternal uncle. The son of that maternal uncle is Meera's cousin, specifically a maternal cousin. The phrase “only son” does not change the relationship; it simply identifies the uncle's child.\n\nExam method: first identify the relative named in the middle of the chain, then move one generation down to identify the person's child.",
       "difficulty": "Easy",
       "sourceName": "NCERT — Official school textbook portal, reasoning and mathematics practice",
       "sourceURL": "https://ncert.nic.in/textbook.php",
-      "answerIndex": 1,
+      "answerIndex": 3,
       "exam": "Meghalaya competitive examinations",
       "examTags": [
         "MPSC Secretariat LDA",
@@ -3414,17 +3380,17 @@
       "topic": "Nokpante — traditional Garo institution",
       "q": "In traditional Garo society, what is a Nokpante?",
       "o": [
-        "A traditional dormitory for unmarried male youths",
         "A sacred grove reserved for clan worship",
         "A market used only during the Wangala festival",
+        "A traditional dormitory for unmarried male youths",
         "A stone bridge across a village stream"
       ],
-      "a": 0,
+      "a": 2,
       "e": "The Meghalaya Government describes a Nokpante as a traditional Garo bachelors' dormitory where unmarried male youths lived and learned community customs, skills and responsibilities. It was a social and educational institution, not a sacred grove or a market structure.\n\nExam method: associate Nokpante with the Garo Hills and the traditional dormitory institution.",
       "difficulty": "Moderate",
       "sourceName": "Government of Meghalaya — Nokpante, Garo traditional institution",
       "sourceURL": "https://www.meghalaya.gov.in/index.php/node/34296",
-      "answerIndex": 0,
+      "answerIndex": 2,
       "exam": "Meghalaya competitive examinations",
       "examTags": [
         "MPSC Inspector of Taxes",
@@ -3439,6 +3405,40 @@
       "tags": [
         "Meghalaya GK",
         "Nokpante — traditional Garo institution",
+        "Original Practice"
+      ]
+    },
+    {
+      "id": 9430,
+      "cat": "Arithmetic",
+      "topic": "Remainders — modular arithmetic",
+      "q": "An integer n leaves a remainder of 5 when divided by 7. What remainder will 3n leave when divided by 7?",
+      "o": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Write n = 7k + 5 for some integer k. Then 3n = 21k + 15 = 7(3k + 2) + 1, so the remainder is 1. Expressing the number in quotient-and-remainder form is the safest way to solve this type of modular arithmetic question.\n\nExam method: multiply the known remainder, then reduce it modulo the divisor; do not multiply the quotient unless needed.",
+      "difficulty": "Moderate",
+      "exam": "Meghalaya competitive examinations",
+      "examTags": [
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "isOriginal": true,
+      "source": "Original Practice — not an official PYQ. Based on NCERT mathematics material.",
+      "sourceName": "NCERT — Official school textbook portal, mathematics material",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-23",
+      "verificationStatus": "Independently solved and checked against NCERT mathematics concepts on 2026-11-23.",
+      "tags": [
+        "Arithmetic",
+        "Remainders",
         "Original Practice"
       ]
     }
@@ -3464,6 +3464,10 @@
     {
       "id": 9341,
       "reason": "Within-batch near-semantic duplicate of question 9340; both separately tested the same sacred-grove regional terminology."
+    },
+    {
+      "id": 9414,
+      "reason": "Same time-and-work combined-rate calculation pattern as active question 6209; changed data would not create a materially different learning objective."
     }
   ],
   "status": "validated"
