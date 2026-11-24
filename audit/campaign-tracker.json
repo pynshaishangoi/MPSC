@@ -177,7 +177,8 @@
         "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
         "https://www.meggst.gov.in/gst/gst.html",
         "https://www.meggst.gov.in/gst/tax_notifications_2025.html",
-        "https://cpcb.nic.in/displaypdf.php?id=Tm9pc2UtU3RhbmRhcmRzL25vaXNlX3J1bGVzXzIwMDAucGRm"
+        "https://cpcb.nic.in/displaypdf.php?id=Tm9pc2UtU3RhbmRhcmRzL25vaXNlX3J1bGVzXzIwMDAucGRm",
+        "https://www.meggst.gov.in/gst/tax_notifications_2026.html"
       ],
       "supportingSecondarySources": [
         "https://taxguru.in/wp-content/uploads/2026/10/central-tax-notification-no-05-2026-gst-rules-amended-for-2026-27.pdf",
@@ -233,7 +234,8 @@
           "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
           "https://www.meggst.gov.in/gst/gst.html",
           "https://www.meggst.gov.in/gst/tax_notifications_2025.html",
-          "https://www.caadityagoel.in/news"
+          "https://www.caadityagoel.in/news",
+          "https://www.meggst.gov.in/gst/tax_notifications_2026.html"
         ],
         "cbicInstruction": {
           "reference": "Instruction No. 02/2026-GST",
@@ -250,7 +252,7 @@
           "stateGSTApplicability": "No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was located in official public sources searched on 2026-11-24; do not assume the Central Tax instruction automatically applies to Meghalaya State GST formations.",
           "effectOnSection68Question": "The instruction changes conveyance interception procedures; it does not remove the prescribed document-carrying obligation tested separately under section 68."
         },
-        "meghalayaStateInstructionStatus": "No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was located in official public sources searched on 2026-11-24; do not assume the Central Tax instruction automatically applies to Meghalaya State GST formations.",
+        "meghalayaStateInstructionStatus": "The official 2026 Meghalaya Tax Notifications archive lists State Tax 01/2026, a GSTR-3B due-date extension. No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was visible in that 2026 archive as of 2026-11-24; this does not prove that no separate instruction exists.",
         "recentUpdatesReviewed": {
           "financeAct2026": {
             "reference": "Finance Act, 2026, sections 153–155",
@@ -308,8 +310,9 @@
         "section62RuleDistinction": "Question 9430 tests section 62 of the CGST Act (best-judgment assessment of a non-filer). Notification 05/2026 changes rule 62(5) of the CGST Rules; these are different provisions and the question does not test the amended rule.",
         "section68InstructionDistinction": "Question 9435 tests the statutory document/device-carrying obligation under section 68 of the CGST Act. CBIC Instruction 02/2026 changes conveyance-interception procedures; it does not remove the section 68 obligation.",
         "meghalayaTaxationPortal": "https://www.meggst.gov.in/gst/gst.html",
-        "meghalayaTaxNotificationIndex": "https://www.meggst.gov.in/gst/tax_notifications_2025.html",
-        "meghalayaLatestListedStateTaxNotification": "State Tax 20/2025 dated 31 December 2025 on the public notification index checked 2026-11-24; no 2026 State Tax instruction or notification corresponding to CBIC Instruction 02/2026 was visible on that index. This does not prove that no separate instruction exists."
+        "meghalayaTaxNotificationIndex": "https://www.meggst.gov.in/gst/tax_notifications_2026.html",
+        "meghalayaLatestListedStateTaxNotification": "State Tax 01/2026 vide No. ERTS(T) 3/2025/471 dated 21 April 2026, extending the March 2026 GSTR-3B due date to 21 April 2026, as listed in the official 2026 archive checked on 2026-11-24.",
+        "meghalayaTaxNotificationIndex2025": "https://www.meggst.gov.in/gst/tax_notifications_2025.html"
       }
     },
     "liveBuildMarker": "2026-11-24-original-practice-118",
@@ -897,7 +900,8 @@
         "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
         "https://www.meggst.gov.in/gst/gst.html",
         "https://www.meggst.gov.in/gst/tax_notifications_2025.html",
-        "https://cpcb.nic.in/displaypdf.php?id=Tm9pc2UtU3RhbmRhcmRzL25vaXNlX3J1bGVzXzIwMDAucGRm"
+        "https://cpcb.nic.in/displaypdf.php?id=Tm9pc2UtU3RhbmRhcmRzL25vaXNlX3J1bGVzXzIwMDAucGRm",
+        "https://www.meggst.gov.in/gst/tax_notifications_2026.html"
       ],
       "supportingSecondarySources": [
         "https://taxguru.in/wp-content/uploads/2026/10/central-tax-notification-no-05-2026-gst-rules-amended-for-2026-27.pdf",
@@ -953,7 +957,8 @@
           "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
           "https://www.meggst.gov.in/gst/gst.html",
           "https://www.meggst.gov.in/gst/tax_notifications_2025.html",
-          "https://www.caadityagoel.in/news"
+          "https://www.caadityagoel.in/news",
+          "https://www.meggst.gov.in/gst/tax_notifications_2026.html"
         ],
         "cbicInstruction": {
           "reference": "Instruction No. 02/2026-GST",
@@ -970,7 +975,7 @@
           "stateGSTApplicability": "No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was located in official public sources searched on 2026-11-24; do not assume the Central Tax instruction automatically applies to Meghalaya State GST formations.",
           "effectOnSection68Question": "The instruction changes conveyance interception procedures; it does not remove the prescribed document-carrying obligation tested separately under section 68."
         },
-        "meghalayaStateInstructionStatus": "No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was located in official public sources searched on 2026-11-24; do not assume the Central Tax instruction automatically applies to Meghalaya State GST formations.",
+        "meghalayaStateInstructionStatus": "The official 2026 Meghalaya Tax Notifications archive lists State Tax 01/2026, a GSTR-3B due-date extension. No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was visible in that 2026 archive as of 2026-11-24; this does not prove that no separate instruction exists.",
         "recentUpdatesReviewed": {
           "financeAct2026": {
             "reference": "Finance Act, 2026, sections 153–155",
@@ -1028,8 +1033,9 @@
         "section62RuleDistinction": "Question 9430 tests section 62 of the CGST Act (best-judgment assessment of a non-filer). Notification 05/2026 changes rule 62(5) of the CGST Rules; these are different provisions and the question does not test the amended rule.",
         "section68InstructionDistinction": "Question 9435 tests the statutory document/device-carrying obligation under section 68 of the CGST Act. CBIC Instruction 02/2026 changes conveyance-interception procedures; it does not remove the section 68 obligation.",
         "meghalayaTaxationPortal": "https://www.meggst.gov.in/gst/gst.html",
-        "meghalayaTaxNotificationIndex": "https://www.meggst.gov.in/gst/tax_notifications_2025.html",
-        "meghalayaLatestListedStateTaxNotification": "State Tax 20/2025 dated 31 December 2025 on the public notification index checked 2026-11-24; no 2026 State Tax instruction or notification corresponding to CBIC Instruction 02/2026 was visible on that index. This does not prove that no separate instruction exists."
+        "meghalayaTaxNotificationIndex": "https://www.meggst.gov.in/gst/tax_notifications_2026.html",
+        "meghalayaLatestListedStateTaxNotification": "State Tax 01/2026 vide No. ERTS(T) 3/2025/471 dated 21 April 2026, extending the March 2026 GSTR-3B due date to 21 April 2026, as listed in the official 2026 archive checked on 2026-11-24.",
+        "meghalayaTaxNotificationIndex2025": "https://www.meggst.gov.in/gst/tax_notifications_2025.html"
       }
     },
     "liveBuildMarker": "2026-11-24-original-practice-118",
