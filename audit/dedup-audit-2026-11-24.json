@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-24",
+  "target": 130,
+  "startingActiveQuestions": 1288,
+  "draftedCandidates": 130,
+  "validatedUniqueQuestions": 117,
+  "rejectedCandidates": [
+    {
+      "candidateId": "R24-01",
+      "topic": "Meghalaya autonomous-state formation date",
+      "reason": "Active question 6142 already asks the year Meghalaya became an autonomous State; an exact-date version would be a date-only variant."
+    },
+    {
+      "candidateId": "R24-02",
+      "topic": "Mawjymbuin Cave calcium-carbonate stalagmite formation",
+      "reason": "Active question 9048 already tests the same cave and calcium-carbonate deposition process."
+    },
+    {
+      "candidateId": "R24-03",
+      "topic": "Meghalaya district headquarters",
+      "reason": "Near-duplicate of existing district-headquarters questions."
+    },
+    {
+      "candidateId": "R24-04",
+      "topic": "State Finance Commission under Article 243-I",
+      "reason": "Already covered in the active Polity/municipal-finance cluster."
+    },
+    {
+      "candidateId": "R24-05",
+      "topic": "Combined rate of work for two workers",
+      "reason": "Repeated calculation pattern in active time-and-work questions."
+    },
+    {
+      "candidateId": "R24-06",
+      "topic": "Coefficient of variation calculation",
+      "reason": "Same statistic and calculation as active question 9413."
+    },
+    {
+      "candidateId": "R24-07",
+      "topic": "No sooner had...than inversion",
+      "reason": "Direct grammar-pattern overlap with active question 7259."
+    },
+    {
+      "candidateId": "R24-08",
+      "topic": "IPv6 address length",
+      "reason": "Too close to existing IP-address-length and DNS/networking coverage."
+    },
+    {
+      "candidateId": "R24-09",
+      "topic": "Ramsar Convention purpose",
+      "reason": "Repeats active wetland-conservation questions 90, 5079 and 6126."
+    },
+    {
+      "candidateId": "R24-10",
+      "topic": "Quit India Movement launch year",
+      "reason": "Exact historical fact already tested several times in the active bank."
+    },
+    {
+      "candidateId": "R24-11",
+      "topic": "GST e-way bill distance validity",
+      "reason": "Overlaps existing active e-way-bill validity questions 9036–9038."
+    },
+    {
+      "candidateId": "R24-12",
+      "topic": "GST blocked ITC on works contracts",
+      "reason": "Repeats the learning objective of active question 9308."
+    },
+    {
+      "candidateId": "9480",
+      "topic": "Alphabet series — increasing odd gaps",
+      "reason": "Rejected after semantic review because active question 7210 tests the same series-continuation skill; changing numbers to letters would be a superficial representation variant."
+    }
+  ],
+  "mergedQuestions": 0,
+  "activeUniqueAdditions": 0,
+  "projectedActiveUniqueQuestions": 1405,
+  "targetAchievementRate": 0.9,
+  "candidateAcceptanceRate": 0.9,
+  "collisions": {
+    "candidateExactStemCollisions": 0,
+    "candidateOptionSetCollisions": 0,
+    "nearSemanticCandidatesRejected": 13,
+    "existingBankNearDuplicateCandidatesRejected": 13,
+    "withinBatchNearPairs": 0,
+    "finalBatchNearPairs": 0,
+    "unresolvedSemanticCollisions": 0,
+    "optionOnlyFingerprintMatchesReviewed": 0,
+    "activeNearMatchesReviewed": 0,
+    "pyqNearMatches": 0
+  },
+  "dedupScope": {
+    "activeQuestionsCompared": 1288,
+    "questionBatchArchivesBeforeRun": 21,
+    "archiveRecordsBeforeRun": 696,
+    "questionBatchArchivesInProposedBuild": 22,
+    "archiveRecordsInProposedBuild": 813,
+    "officialPyqFiles": 18,
+    "officialPyqRecords": 2433,
+    "allPyqFiles": 19,
+    "allPyqRecords": 2572,
+    "partialDuplicateRecords": 139,
+    "comparisonCorpusRecordsBeforeRun": 3860,
+    "comparisonCorpusRecordsAfterProposedMerge": 3977,
+    "explanationLibrariesReviewed": 8,
+    "supportingDataFilesReviewed": 15,
+    "otherQuestionBankFilesOutsideCanonicalArchivesAndPyq": 0
+  },
+  "examTracks": [
+    "MPSC Inspector of Taxes",
+    "DSC East Khasi Hills LDA-cum-Typist",
+    "MPSC Secretariat LDA"
+  ],
+  "subjects": {
+    "GST / Inspector of Taxes": 18,
+    "Meghalaya GK": 6,
+    "Polity": 10,
+    "English": 10,
+    "Arithmetic": 12,
+    "Reasoning": 7,
+    "Computer": 8,
+    "Geography": 8,
+    "Economy": 8,
+    "History": 8,
+    "Science": 8,
+    "Environment": 8,
+    "Current Affairs": 6
+  },
+  "rejectedCandidateDetails": [
+    {
+      "candidateId": "R24-01",
+      "topic": "Meghalaya autonomous-state formation date",
+      "reason": "Active question 6142 already asks the year Meghalaya became an autonomous State; an exact-date version would be a date-only variant."
+    },
+    {
+      "candidateId": "R24-02",
+      "topic": "Mawjymbuin Cave calcium-carbonate stalagmite formation",
+      "reason": "Active question 9048 already tests the same cave and calcium-carbonate deposition process."
+    },
+    {
+      "candidateId": "R24-03",
+      "topic": "Meghalaya district headquarters",
+      "reason": "Near-duplicate of existing district-headquarters questions."
+    },
+    {
+      "candidateId": "R24-04",
+      "topic": "State Finance Commission under Article 243-I",
+      "reason": "Already covered in the active Polity/municipal-finance cluster."
+    },
+    {
+      "candidateId": "R24-05",
+      "topic": "Combined rate of work for two workers",
+      "reason": "Repeated calculation pattern in active time-and-work questions."
+    },
+    {
+      "candidateId": "R24-06",
+      "topic": "Coefficient of variation calculation",
+      "reason": "Same statistic and calculation as active question 9413."
+    },
+    {
+      "candidateId": "R24-07",
+      "topic": "No sooner had...than inversion",
+      "reason": "Direct grammar-pattern overlap with active question 7259."
+    },
+    {
+      "candidateId": "R24-08",
+      "topic": "IPv6 address length",
+      "reason": "Too close to existing IP-address-length and DNS/networking coverage."
+    },
+    {
+      "candidateId": "R24-09",
+      "topic": "Ramsar Convention purpose",
+      "reason": "Repeats active wetland-conservation questions 90, 5079 and 6126."
+    },
+    {
+      "candidateId": "R24-10",
+      "topic": "Quit India Movement launch year",
+      "reason": "Exact historical fact already tested several times in the active bank."
+    },
+    {
+      "candidateId": "R24-11",
+      "topic": "GST e-way bill distance validity",
+      "reason": "Overlaps existing active e-way-bill validity questions 9036–9038."
+    },
+    {
+      "candidateId": "R24-12",
+      "topic": "GST blocked ITC on works contracts",
+      "reason": "Repeats the learning objective of active question 9308."
+    },
+    {
+      "candidateId": "9480",
+      "topic": "Alphabet series — increasing odd gaps",
+      "reason": "Rejected after semantic review because active question 7210 tests the same series-continuation skill; changing numbers to letters would be a superficial representation variant."
+    }
+  ],
+  "legalVerification": {
+    "asOf": "2026-11-24",
+    "cgstActConsolidatedDate": "2026-06-11",
+    "testedSections": [
+      "2(47)",
+      "2(68)",
+      "2(78)",
+      "Schedule I",
+      "Schedule III",
+      "8",
+      "9(3)",
+      "57",
+      "59",
+      "60",
+      "62",
+      "63",
+      "64",
+      "67",
+      "68",
+      "97",
+      "103"
+    ],
+    "financeAct2026Amendments": {
+      "effectiveDate": "2026-11-01",
+      "amendedSections": [
+        "15",
+        "34",
+        "54"
+      ],
+      "overlapWithTestedSections": false
+    },
+    "environmentReferences": [
+      "Water Act 1974",
+      "Air Act 1981",
+      "Wild Life (Protection) Act 1972",
+      "National Green Tribunal Act 2010",
+      "Wetlands Rules 2017",
+      "Plastic Waste Management EPR",
+      "Solid Waste Management Rules 2026 effective 2026-04-01"
+    ],
+    "sourceURLs": [
+      "https://dictionary.cambridge.org/dictionary/english/comply",
+      "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf"
+    ]
+  },
+  "sourceReview": {
+    "verifiedDate": "2026-11-24",
+    "notes": "GST questions checked against India Code CGST Act consolidated as on 11 June 2026; Constitution against Legislative Department text; Meghalaya facts against Government state/district profiles; current affairs against dated Meghalaya releases; environment laws/rules against India Code, MoEFCC and CPCB. Solid Waste Management Rules 2026 were checked and the superseded 2016 Rules were not used.",
+    "primarySources": [
+      "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "https://meghalaya.gov.in/22429-sq-km",
+      "https://meghalaya.gov.in/index.php/node/34297",
+      "https://ncert.nic.in/textbook.php",
+      "https://dictionary.cambridge.org/",
+      "https://systemhealth.rbi.org.in/Scripts/FS_Overview2752.aspx.html",
+      "https://learn.microsoft.com/en-us/office/",
+      "https://www.ietf.org/standards/rfcs/",
+      "https://www.indiacode.nic.in/bitstream/123456789/13332/1/water_act_1974.pdf",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/1389?view_type=browse",
+      "https://www.indiacode.nic.in/bitstream/123456789/1726/1/a1972-53.pdf",
+      "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_16_18_00009_201019_1517807326004&filename=a2010-19.pdf&type=actfile",
+      "https://moef.gov.in/uploads/2020/01/final-version-and-printed-wetland-guidelines-rules-2017-03.01.20.pdf",
+      "https://cpcb.nic.in/uploads/plasticwaste/EC_Regime_PWM.pdf",
+      "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf",
+      "https://megipr.gov.in/pr/PR-2026-11.html",
+      "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_240.pdf",
+      "https://meghalaya.gov.in/index.php/press/content/51866"
+    ]
+  },
+  "mergeStatus": "pending_merge",
+  "postMergeAudit": false,
+  "activeUniqueQuestionsAfterMerge": null,
+  "postMergeCommitSha": null,
+  "validation": {
+    "questionSchema": "passed",
+    "uniqueIds": "passed",
+    "fourOptions": "passed",
+    "answerIndices": "passed",
+    "explanations": "passed",
+    "sourceLinks": "passed",
+    "originalPracticeLabels": "passed",
+    "exactDedup": "passed",
+    "optionInsensitiveDedup": "passed",
+    "semanticDedup": "passed",
+    "archiveParity": "passed_in_proposed_tree",
+    "canonicalEmbeddedParity": "passed_in_proposed_tree",
+    "repositoryTests": "pending"
+  },
+  "liveDeploymentVerified": false,
+  "liveBuildMarker": "2026-11-24-original-practice-117",
+  "serviceWorkerCache": "mpsc-smart-study-v5-60-20261124",
+  "branch": "daily-2026-11-24-original-practice",
+  "pullRequest": null
+}
