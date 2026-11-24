@@ -4,10 +4,10 @@
   "updatedDate": "2026-11-24",
   "repository": "pynshaishangoi/MPSC",
   "repositoryVisibility": "public",
-  "mainShaAtAudit": "ff4813b0109348751255f6e16d1b69311c4cd106",
+  "mainShaAtAudit": "5888fc51255b73e0b64c302b5f392522a1e251be",
   "rampPolicy": "Start at 50; normally add 10 to next day's target; add 20 only after >=90% of target and all quality, deduplication, source, repository and merge gates pass; hold target after any failed gate; cap 250.",
   "rampStartTarget": 50,
-  "currentDailyTarget": 110,
+  "currentDailyTarget": 130,
   "previousRampRun": {
     "date": "2026-11-18",
     "status": "merged",
@@ -58,31 +58,34 @@
     "notUsedForRampGate": true
   },
   "latestRun": {
-    "date": "2026-11-22",
-    "status": "merged",
-    "target": 90,
-    "startingActiveQuestions": 1097,
-    "draftedCandidates": 105,
-    "validatedQuestions": 90,
-    "mergedQuestions": 90,
-    "activeUniqueAdditions": 90,
-    "projectedActiveUniqueCount": 1187,
-    "passRate": 0.8571428571428571,
-    "targetAchievementRate": 1,
-    "exactCollisionChecks": 0,
-    "nearSemanticCollisionsRejected": 15,
-    "withinBatchNearDuplicateCandidatesRejected": 2,
-    "rejectedCandidates": 15,
+    "date": "2026-11-24",
+    "status": "pending_merge",
+    "target": 130,
+    "startingActiveQuestions": 1288,
+    "draftedCandidates": 135,
+    "validatedQuestions": 118,
+    "mergedQuestions": 0,
+    "activeUniqueAdditions": 0,
+    "projectedActiveUniqueCount": 1406,
+    "passRate": 0.8740740740740741,
+    "targetAchievementRate": 0.9076923076923077,
+    "rejectedCandidates": 17,
+    "exactStemCollisions": 0,
+    "optionSetCollisions": 0,
+    "nearSemanticCollisionsRejected": 13,
+    "withinBatchNearDuplicateCandidatesRejected": 0,
+    "unresolvedSemanticCollisions": 0,
+    "optionOnlyFingerprintMatchesReviewed": 0,
     "qualityGatePassed": true,
     "dedupGatePassed": true,
     "sourceGatePassed": true,
     "repositoryGatePassed": true,
-    "mergeGatePassed": true,
-    "targetGatePassed": true,
-    "gatePassed": true,
-    "nextDailyTarget": 110,
+    "mergeGatePassed": false,
+    "targetGatePassed": false,
+    "gatePassed": false,
+    "nextDailyTarget": 130,
     "blockers": [
-      "GitHub Pages build/deployment workflow succeeded, but the live URL could not be independently fetched to confirm build marker 2026-11-22-original-practice-90."
+      "117 validated questions are staged but not merged; no additions are counted until merge."
     ],
     "officialPyqFilesFetched": 18,
     "officialPyqFilesTotal": 18,
@@ -94,39 +97,38 @@
     "exactCollisionChecksCompleted": true,
     "optionInsensitiveChecksCompleted": true,
     "semanticCollisionChecksCompleted": true,
-    "comparisonCorpusRecords": 3669,
-    "postMergeComparisonCorpusRecords": 3759,
-    "unresolvedSemanticCollisions": 0,
-    "archiveFilesBeforeRun": 19,
-    "archiveRecordsBeforeRun": 505,
-    "archiveFilesAfterRun": 20,
-    "archiveRecordsAfterRun": 595,
-    "pullRequest": 115,
-    "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/115",
-    "mergeCommitSha": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
-    "githubActionsRun": 44985252764,
-    "githubActionsConclusion": "success",
+    "comparisonCorpusRecords": 3860,
+    "postMergeComparisonCorpusRecords": 3978,
+    "archiveFilesBeforeRun": 21,
+    "archiveRecordsBeforeRun": 696,
+    "archiveFilesAfterRun": 22,
+    "archiveRecordsAfterRun": 814,
+    "pullRequest": null,
+    "pullRequestUrl": null,
+    "mergeCommitSha": null,
+    "githubActionsRun": null,
+    "githubActionsConclusion": "pending",
     "deploymentVerified": false,
-    "deploymentStatus": "workflow_succeeded_live_content_unverified",
-    "preDraftActiveQuestions": 1097,
-    "postMergeActiveQuestions": 1187,
+    "deploymentStatus": "not_verified",
+    "preDraftActiveQuestions": 1288,
+    "postMergeActiveQuestions": null,
     "comparedPyqFiles": 19,
     "comparedPyqRecords": 2572,
-    "preDraftComparisonCorpusRecords": 3669,
+    "preDraftComparisonCorpusRecords": 3860,
     "subjects": {
+      "GST / Inspector of Taxes": 19,
       "Meghalaya GK": 6,
       "Polity": 10,
-      "English": 8,
-      "Arithmetic": 5,
+      "English": 10,
+      "Arithmetic": 12,
+      "Reasoning": 7,
+      "Computer": 8,
+      "Geography": 8,
       "Economy": 8,
-      "History": 10,
-      "Geography": 9,
-      "Science": 9,
-      "Environment": 7,
-      "Computer": 7,
-      "Reasoning": 3,
-      "GST / Inspector of Taxes": 6,
-      "Current Affairs": 2
+      "History": 8,
+      "Science": 8,
+      "Environment": 8,
+      "Current Affairs": 6
     },
     "examTracks": [
       "MPSC Inspector of Taxes",
@@ -134,399 +136,325 @@
       "MPSC Secretariat LDA"
     ],
     "rejectedCandidateTopics": [
-      "Coordinate distance formula",
-      "Probability of exactly one head in two coin tosses",
-      "Probability of drawing two red balls without replacement",
-      "Volume of a cone",
-      "Polynomial remainder theorem",
-      "Sum of interior angles of a decagon",
-      "Solving simultaneous linear equations",
-      "Blood-relation chain",
-      "Clock-hand angle at 4:20",
-      "Appointment of a State Governor",
-      "Ramsar Convention wise use of wetlands",
-      "CGST Section 17(5)(d) construction on own account",
-      "Rajya Sabha seat-count recall — same parliamentary-representation count skill as Q9226",
-      "Trellis drainage-pattern identification — same pattern-classification skill as Q9272",
-      "Municipality five-year term — same local-governing-body tenure learning objective as active question 9002"
+      "Meghalaya autonomous-state formation date",
+      "Mawjymbuin Cave calcium-carbonate stalagmite formation",
+      "Meghalaya district headquarters",
+      "State Finance Commission under Article 243-I",
+      "Combined rate of work for two workers",
+      "Coefficient of variation calculation",
+      "No sooner had...than inversion",
+      "IPv6 address length",
+      "Ramsar Convention purpose",
+      "Quit India Movement launch year",
+      "GST e-way bill distance validity",
+      "GST blocked ITC on works contracts",
+      "Alphabet series — increasing odd gaps"
     ],
     "sourceReview": {
-      "verifiedDate": "2026-11-22",
-      "primaryAndAuthoritativeSources": [
-        "Meghalaya Government / Chief Electoral Officer of Meghalaya",
-        "Legislative Department — Constitution of India",
-        "NCERT",
-        "Cambridge Dictionary",
-        "NOAA",
-        "Encyclopaedia Britannica and national archives",
-        "MoEFCC / PARIVESH",
-        "Minamata Convention Secretariat",
-        "Basel Convention Secretariat",
-        "CPCB",
-        "U.S. EPA",
-        "University of Illinois Chicago",
-        "IBM",
-        "PostgreSQL",
-        "Microsoft Learn",
-        "IETF RFC 791",
-        "Google Gmail Help",
-        "India Code",
-        "Government of India e-Gazette",
-        "Reserve Bank of India",
-        "Government of Meghalaya — current Districts directory",
-        "Eastern West Khasi Hills District Administration — About District",
-        "U.S. Geological Survey — Earthquake Hazards Program glossary",
-        "Legislative Department, Government of India — Constitution of India, Article 243ZC"
+      "verifiedDate": "2026-11-24",
+      "primarySources": [
+        "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+        "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+        "https://meghalaya.gov.in/22429-sq-km",
+        "https://meghalaya.gov.in/index.php/node/34297",
+        "https://ncert.nic.in/textbook.php",
+        "https://dictionary.cambridge.org/",
+        "https://systemhealth.rbi.org.in/Scripts/FS_Overview2752.aspx.html",
+        "https://learn.microsoft.com/en-us/office/",
+        "https://www.ietf.org/standards/rfcs/",
+        "https://www.indiacode.nic.in/bitstream/123456789/13332/1/water_act_1974.pdf",
+        "https://www.indiacode.nic.in/indiacode/handle/123456789/1389?view_type=browse",
+        "https://www.indiacode.nic.in/bitstream/123456789/1726/1/a1972-53.pdf",
+        "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_16_18_00009_201019_1517807326004&filename=a2010-19.pdf&type=actfile",
+        "https://moef.gov.in/uploads/2020/01/final-version-and-printed-wetland-guidelines-rules-2017-03.01.20.pdf",
+        "https://cpcb.nic.in/uploads/plasticwaste/EC_Regime_PWM.pdf",
+        "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf",
+        "https://megipr.gov.in/pr/PR-2026-11.html",
+        "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_240.pdf",
+        "https://meghalaya.gov.in/index.php/press/content/51866",
+        "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+        "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_251.pdf",
+        "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
+        "https://www.meggst.gov.in/gst/gst.html",
+        "https://www.meggst.gov.in/gst/tax_notifications_2025.html",
+        "https://cpcb.nic.in/displaypdf.php?id=Tm9pc2UtU3RhbmRhcmRzL25vaXNlX3J1bGVzXzIwMDAucGRm",
+        "https://www.meggst.gov.in/gst/tax_notifications_2026.html"
       ],
-      "legalNote": "GST questions were checked against the consolidated CGST Act text dated 11 June 2026 and the 26 October 2026 commencement notification. Finance Act 2026 amendments to CGST Sections 15, 34 and 54 effective 1 November 2026 do not change the tested Sections 16, 17, 18 and 56.",
-      "postRunLegalReview": {
-        "verifiedDate": "2026-11-22",
-        "sectionsReviewed": [
-          "16(4)",
-          "17(5)(a)",
-          "17(5)(c)",
-          "17(5)(h)",
-          "18(1)(a)",
-          "56"
+      "supportingSecondarySources": [
+        "https://taxguru.in/wp-content/uploads/2026/10/central-tax-notification-no-05-2026-gst-rules-amended-for-2026-27.pdf",
+        "https://www.caadityagoel.in/news"
+      ],
+      "legalVerification": {
+        "asOf": "2026-11-24",
+        "cgstActConsolidatedDate": "2026-06-11",
+        "testedSections": [
+          "2(47)",
+          "2(68)",
+          "2(78)",
+          "Schedule I",
+          "Schedule III",
+          "8",
+          "9(3)",
+          "57",
+          "59",
+          "60",
+          "62",
+          "63",
+          "64",
+          "67",
+          "68",
+          "97",
+          "103"
         ],
-        "result": "The six tested statutory provisions were checked against the consolidated CGST Act and the November 2026 commencement changes. No tested provision was among the amended Sections 15, 34 and 54.",
+        "financeAct2026Amendments": {
+          "effectiveDate": "2026-11-01",
+          "amendedSections": [
+            "15",
+            "34",
+            "54"
+          ],
+          "overlapWithTestedSections": false
+        },
+        "environmentReferences": [
+          "Water Act 1974",
+          "Air Act 1981",
+          "Wild Life (Protection) Act 1972",
+          "National Green Tribunal Act 2010",
+          "Wetlands Rules 2017",
+          "Plastic Waste Management EPR",
+          "Solid Waste Management Rules 2026 effective 2026-04-01"
+        ],
         "sourceURLs": [
-          "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
-          "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
-          "https://www.indiabudget.gov.in/doc/cen/dojstru1.pdf"
-        ]
-      },
-      "currentAffairsReview": {
-        "verifiedDate": "2026-11-22",
-        "sources": [
-          "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQNEFT20112026.pdf",
-          "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQRTGS15102026.pdf"
-        ]
-      },
-      "currentMeghalayaReferences": [
-        {
-          "source": "Government of Meghalaya — Districts directory",
-          "url": "https://www.meghalaya.gov.in/districts",
-          "verifiedDate": "2026-11-22",
-          "fact": "Lists 12 districts, including Eastern West Khasi Hills; page last updated 20 November 2026."
+          "https://dictionary.cambridge.org/dictionary/english/comply",
+          "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+          "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+          "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf",
+          "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+          "https://taxguru.in/wp-content/uploads/2026/10/central-tax-notification-no-05-2026-gst-rules-amended-for-2026-27.pdf",
+          "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
+          "https://www.meggst.gov.in/gst/gst.html",
+          "https://www.meggst.gov.in/gst/tax_notifications_2025.html",
+          "https://www.caadityagoel.in/news",
+          "https://www.meggst.gov.in/gst/tax_notifications_2026.html"
+        ],
+        "cbicInstruction": {
+          "reference": "Instruction No. 02/2026-GST",
+          "date": "2026-10-30",
+          "officialURL": "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+          "interim": true,
+          "scope": "Central Tax field formations under CBIC",
+          "topics": [
+            "No further GST arrests by Central Tax field formations",
+            "Intelligence-based and authorised conveyance interception",
+            "Restrictions on transit-state detention and confiscation",
+            "No show-cause notices below ₹10,000 under sections 73, 74 and 74A"
+          ],
+          "stateGSTApplicability": "No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was located in official public sources searched on 2026-11-24; do not assume the Central Tax instruction automatically applies to Meghalaya State GST formations.",
+          "effectOnSection68Question": "The instruction changes conveyance interception procedures; it does not remove the prescribed document-carrying obligation tested separately under section 68."
         },
-        {
-          "source": "Eastern West Khasi Hills District Administration — About District",
-          "url": "https://easternwestkhasihills.meghalaya.gov.in/about-district/",
-          "verifiedDate": "2026-11-22",
-          "fact": "Identifies Mairang and Mawthadraishan Assembly constituencies as segments of the 1–Shillong Parliamentary Constituency."
+        "meghalayaStateInstructionStatus": "The official 2026 Meghalaya Tax Notifications archive lists State Tax 01/2026, a GSTR-3B due-date extension. No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was visible in that 2026 archive as of 2026-11-24; this does not prove that no separate instruction exists.",
+        "recentUpdatesReviewed": {
+          "financeAct2026": {
+            "reference": "Finance Act, 2026, sections 153–155",
+            "effectiveDate": "2026-11-01",
+            "cgstActSectionsAmended": [
+              "15",
+              "34",
+              "54"
+            ],
+            "overlapWithTestedSections": false
+          },
+          "notification05_2026": {
+            "reference": "Notification No. 05/2026-Central Tax, G.S.R. 919(E)",
+            "date": "2026-10-26",
+            "generalEffectiveDate": "2026-11-01",
+            "scope": [
+              "new Rule 14B",
+              "substituted Rules 19 and 20",
+              "changes to Rules 36, 39, 44, 54, 60, 62, 63, 86A, 89, 90, 91 and related forms"
+            ],
+            "hostedGazetteTextURL": "https://taxguru.in/wp-content/uploads/2026/10/central-tax-notification-no-05-2026-gst-rules-amended-for-2026-27.pdf",
+            "hostedCopyNote": "Full Gazette text reviewed from a hosted copy; the official CBIC portal listing for this notification was not retrieved in this run."
+          },
+          "corrigendum": {
+            "reference": "G.S.R. 1001(E) — corrigendum to G.S.R. 919(E)",
+            "date": "2026-11-18",
+            "officialCBICURL": "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
+            "effectsReviewed": [
+              "corrected Rule 14B wording including operator consent and recordkeeping",
+              "corrected refund Rule 92(4) revalidation provisos for RFD-06 and RFD-05",
+              "corrected other registration and form wording"
+            ],
+            "testedQuestionOverlap": false
+          },
+          "gstnAdvisoryMetroRail": {
+            "date": "2026-11-20",
+            "topic": "Metro Rail added as a mode of transport under CGST Rule 138(2A)",
+            "sourceURL": "https://www.caadityagoel.in/news",
+            "testedQuestionOverlap": false
+          },
+          "cbicInstruction02_2026": {
+            "reference": "Instruction No. 02/2026-GST",
+            "date": "2026-10-30",
+            "officialURL": "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+            "scope": "Central Tax field formations under CBIC",
+            "topics": [
+              "interim direction on arrests",
+              "intelligence-based conveyance interception",
+              "transit-state detention/confiscation restrictions",
+              "small-notice directions under sections 73, 74 and 74A"
+            ],
+            "stateGSTApplicability": "State GST formations may issue similar instructions; no separate Meghalaya State GST instruction corresponding to this circular was visible in the public index checked."
+          }
         },
-        {
-          "source": "U.S. Geological Survey — Earthquake Hazards Program glossary",
-          "url": "https://www.usgs.gov/glossary/earthquake-hazards-program",
-          "verifiedDate": "2026-11-22",
-          "fact": "Defines the Moho as the boundary between Earth's crust and mantle."
-        }
-      ],
-      "contentCorrections": [
-        "Q9227 replaced with distinct Shillong Parliamentary Constituency mapping.",
-        "Q9230 corrected to 12 districts using the current Government of Meghalaya directory.",
-        "Q9273 replaced with the Moho crust–mantle boundary.",
-        "Q9235 replaced with Article 243ZC Scheduled/tribal-area exclusion after cross-bank tenure near-duplicate review."
-      ],
-      "constitutionalReferences": [
-        {
-          "source": "Legislative Department, Government of India — Constitution of India, Article 243ZC",
-          "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
-          "verifiedDate": "2026-11-22",
-          "fact": "Article 243ZC(1) excludes Scheduled Areas under Article 244(1) and tribal areas under Article 244(2) from Part IX-A; clause (3) permits Parliament to extend the provisions by law."
-        }
-      ]
+        "section62RuleDistinction": "Question 9430 tests section 62 of the CGST Act (best-judgment assessment of a non-filer). Notification 05/2026 changes rule 62(5) of the CGST Rules; these are different provisions and the question does not test the amended rule.",
+        "section68InstructionDistinction": "Question 9435 tests the statutory document/device-carrying obligation under section 68 of the CGST Act. CBIC Instruction 02/2026 changes conveyance-interception procedures; it does not remove the section 68 obligation.",
+        "meghalayaTaxationPortal": "https://www.meggst.gov.in/gst/gst.html",
+        "meghalayaTaxNotificationIndex": "https://www.meggst.gov.in/gst/tax_notifications_2026.html",
+        "meghalayaLatestListedStateTaxNotification": "State Tax 01/2026 vide No. ERTS(T) 3/2025/471 dated 21 April 2026, extending the March 2026 GSTR-3B due date to 21 April 2026, as listed in the official 2026 archive checked on 2026-11-24.",
+        "meghalayaTaxNotificationIndex2025": "https://www.meggst.gov.in/gst/tax_notifications_2025.html"
+      }
     },
-    "postRunCrossCorpusReview": {
-      "verifiedDate": "2026-11-22",
-      "activeQuestionsCompared": 1097,
-      "officialPyqFilesCompared": 19,
-      "officialPyqRecordsCompared": 2572,
-      "updatedCandidateIds": [
-        9227,
-        9229,
-        9230,
-        9263,
-        9273,
-        9297,
-        9304,
-        9309,
-        9235
-      ],
-      "finalBatchCount": 90,
-      "finalExactStemMatches": 0,
-      "finalOptionSetMatches": 0,
-      "finalNearSemanticMatches": 0,
-      "withinBatchNearPairs": 0,
-      "unresolvedSemanticCollisions": 0,
-      "optionOnlyFingerprintMatchesReviewed": [
-        {
-          "candidateId": 9226,
-          "referenceType": "active",
-          "referenceFile": "index.html",
-          "referenceQuestionNumber": 6174,
-          "referenceStem": "What is the least number to add to 563 to make it divisible by 9?",
-          "referenceOptions": [
-            "1",
-            "2",
-            "3",
-            "4"
-          ],
-          "reason": "Generic numeric option set 1, 2, 3, 4; the active question tests divisibility by 9, while Q9226 tests Meghalaya's Lok Sabha representation.",
-          "reviewedAsNonDuplicate": true
-        },
-        {
-          "candidateId": 9242,
-          "referenceType": "active",
-          "referenceFile": "index.html",
-          "referenceQuestionNumber": 9124,
-          "referenceStem": "Choose the correct completion: “Despite ___ the figures twice, the clerk overlooked the mismatch.”",
-          "referenceOptions": [
-            "checked",
-            "checking",
-            "to check",
-            "checks"
-          ],
-          "reason": "Same answer-option set, but the active question tests a gerund after the preposition 'despite'; Q9242 tests 'would rather' followed by a clause with a different subject.",
-          "reviewedAsNonDuplicate": true
-        },
-        {
-          "candidateId": 9226,
-          "referenceType": "official_pyq",
-          "referenceFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
-          "referenceQuestionNumber": 117,
-          "referenceStem": "If 3x = 8, what is the value of x?",
-          "referenceOptions": [
-            "−1",
-            "3",
-            "4",
-            "2"
-          ],
-          "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation.",
-          "reviewedAsNonDuplicate": true
-        },
-        {
-          "candidateId": 9230,
-          "referenceType": "official_pyq",
-          "referenceFile": "pyq-papers/assistant-employment-officer-2025-series-i.json",
-          "referenceQuestionNumber": 112,
-          "referenceStem": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
-          "referenceOptions": [
-            "10",
-            "11",
-            "12",
-            "13"
-          ],
-          "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration.",
-          "reviewedAsNonDuplicate": true
-        },
-        {
-          "candidateId": 9230,
-          "referenceType": "official_pyq",
-          "referenceFile": "pyq-papers/inspector-drugs-2019-series-i.json",
-          "referenceQuestionNumber": 94,
-          "referenceStem": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
-          "referenceOptions": [
-            "10",
-            "11",
-            "12",
-            "13"
-          ],
-          "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count.",
-          "reviewedAsNonDuplicate": true
-        },
-        {
-          "candidateId": 9230,
-          "referenceType": "official_pyq",
-          "referenceFile": "pyq-papers/investigator-housing-2024-series-i.json",
-          "referenceQuestionNumber": 145,
-          "referenceStem": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
-          "referenceOptions": [
-            "11",
-            "12",
-            "10",
-            "13"
-          ],
-          "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration.",
-          "reviewedAsNonDuplicate": true
-        }
-      ],
-      "existingBankNearDuplicateCandidatesRejected": 1,
-      "existingBankNearDuplicateDetails": [
-        {
-          "candidateId": 9235,
-          "referenceType": "active",
-          "referenceFile": "index.html",
-          "referenceQuestionNumber": 9002,
-          "referenceStem": "Under paragraph 2(6) of the Sixth Schedule, what is the normal term of an elected District Council member, unless the Council is sooner dissolved?",
-          "reason": "Same five-year tenure recall and local-governing-body term learning objective as the candidate's Municipality-duration question; rejected to avoid an institution-name-only variant."
-        }
-      ]
-    },
-    "liveBuildMarker": "2026-11-22-original-practice-90",
-    "serviceWorkerCache": "mpsc-smart-study-v5-58-20261122",
-    "activeUniqueQuestionsAfterMerge": 1187,
-    "cumulativeUniqueAdditionsSinceRampStart": 306,
-    "remainingTo10000": 8813,
-    "candidateValidationRate": 0.8571428571428571,
-    "postMergeAudit": true,
+    "liveBuildMarker": "2026-11-24-original-practice-118",
+    "serviceWorkerCache": "mpsc-smart-study-v5-60-20261124",
+    "activeUniqueQuestionsAfterMerge": null,
+    "cumulativeUniqueAdditionsSinceRampStart": 407,
+    "remainingTo10000": 8712,
+    "candidateValidationRate": 0.8740740740740741,
+    "postMergeAudit": false,
     "archiveParityVerified": true,
     "canonicalEmbeddedParityVerified": true,
     "liveDeploymentVerified": false,
-    "validationRunId": 44985252764,
-    "validationRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985252764",
-    "repositoryTestsPassed": true,
-    "currentActiveQuestions": 1187,
-    "pullRequestState": "merged",
-    "pagesDeploymentRunId": null,
-    "pagesBuildConclusion": "unverified",
-    "postMergeCommitSha": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
-    "postMergeMainSha": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
-    "optionOnlyFingerprintMatchesReviewed": [
+    "repositoryTestsPassed": false,
+    "currentActiveQuestions": 1288,
+    "pullRequestState": "pending",
+    "mainShaAtStartOfRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
+    "proposedMainQuestionCount": 1406,
+    "exactStemCollisionCount": 0,
+    "optionSetCollisionCount": 0,
+    "activeNearMatchesReviewed": 0,
+    "pyqNearMatches": 0,
+    "withinBatchNearPairs": 0,
+    "finalBatchNearPairs": 0,
+    "rejectedCandidateDetails": [
       {
-        "candidateId": 9226,
-        "referenceType": "active",
-        "referenceFile": "index.html",
-        "referenceQuestionNumber": 6174,
-        "referenceStem": "What is the least number to add to 563 to make it divisible by 9?",
-        "referenceOptions": [
-          "1",
-          "2",
-          "3",
-          "4"
-        ],
-        "reason": "Generic numeric option set 1, 2, 3, 4; the active question tests divisibility by 9, while Q9226 tests Meghalaya's Lok Sabha representation.",
-        "reviewedAsNonDuplicate": true
+        "candidateId": "R24-01",
+        "topic": "Meghalaya autonomous-state formation date",
+        "reason": "Active question 6142 already asks the year Meghalaya became an autonomous State; an exact-date version would be a date-only variant."
       },
       {
-        "candidateId": 9242,
-        "referenceType": "active",
-        "referenceFile": "index.html",
-        "referenceQuestionNumber": 9124,
-        "referenceStem": "Choose the correct completion: “Despite ___ the figures twice, the clerk overlooked the mismatch.”",
-        "referenceOptions": [
-          "checked",
-          "checking",
-          "to check",
-          "checks"
-        ],
-        "reason": "Same answer-option set, but the active question tests a gerund after the preposition 'despite'; Q9242 tests 'would rather' followed by a clause with a different subject.",
-        "reviewedAsNonDuplicate": true
+        "candidateId": "R24-02",
+        "topic": "Mawjymbuin Cave calcium-carbonate stalagmite formation",
+        "reason": "Active question 9048 already tests the same cave and calcium-carbonate deposition process."
       },
       {
-        "candidateId": 9226,
-        "referenceType": "official_pyq",
-        "referenceFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
-        "referenceQuestionNumber": 117,
-        "referenceStem": "If 3x = 8, what is the value of x?",
-        "referenceOptions": [
-          "−1",
-          "3",
-          "4",
-          "2"
-        ],
-        "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation.",
-        "reviewedAsNonDuplicate": true
+        "candidateId": "R24-03",
+        "topic": "Meghalaya district headquarters",
+        "reason": "Near-duplicate of existing district-headquarters questions."
       },
       {
-        "candidateId": 9230,
-        "referenceType": "official_pyq",
-        "referenceFile": "pyq-papers/assistant-employment-officer-2025-series-i.json",
-        "referenceQuestionNumber": 112,
-        "referenceStem": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
-        "referenceOptions": [
-          "10",
-          "11",
-          "12",
-          "13"
-        ],
-        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration.",
-        "reviewedAsNonDuplicate": true
+        "candidateId": "R24-04",
+        "topic": "State Finance Commission under Article 243-I",
+        "reason": "Already covered in the active Polity/municipal-finance cluster."
       },
       {
-        "candidateId": 9230,
-        "referenceType": "official_pyq",
-        "referenceFile": "pyq-papers/inspector-drugs-2019-series-i.json",
-        "referenceQuestionNumber": 94,
-        "referenceStem": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
-        "referenceOptions": [
-          "10",
-          "11",
-          "12",
-          "13"
-        ],
-        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count.",
-        "reviewedAsNonDuplicate": true
+        "candidateId": "R24-05",
+        "topic": "Combined rate of work for two workers",
+        "reason": "Repeated calculation pattern in active time-and-work questions."
       },
       {
-        "candidateId": 9230,
-        "referenceType": "official_pyq",
-        "referenceFile": "pyq-papers/investigator-housing-2024-series-i.json",
-        "referenceQuestionNumber": 145,
-        "referenceStem": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
-        "referenceOptions": [
-          "11",
-          "12",
-          "10",
-          "13"
-        ],
-        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration.",
-        "reviewedAsNonDuplicate": true
+        "candidateId": "R24-06",
+        "topic": "Coefficient of variation calculation",
+        "reason": "Same statistic and calculation as active question 9413."
+      },
+      {
+        "candidateId": "R24-07",
+        "topic": "No sooner had...than inversion",
+        "reason": "Direct grammar-pattern overlap with active question 7259."
+      },
+      {
+        "candidateId": "R24-08",
+        "topic": "IPv6 address length",
+        "reason": "Too close to existing IP-address-length and DNS/networking coverage."
+      },
+      {
+        "candidateId": "R24-09",
+        "topic": "Ramsar Convention purpose",
+        "reason": "Repeats active wetland-conservation questions 90, 5079 and 6126."
+      },
+      {
+        "candidateId": "R24-10",
+        "topic": "Quit India Movement launch year",
+        "reason": "Exact historical fact already tested several times in the active bank."
+      },
+      {
+        "candidateId": "R24-11",
+        "topic": "GST e-way bill distance validity",
+        "reason": "Overlaps existing active e-way-bill validity questions 9036–9038."
+      },
+      {
+        "candidateId": "R24-12",
+        "topic": "GST blocked ITC on works contracts",
+        "reason": "Repeats the learning objective of active question 9308."
+      },
+      {
+        "candidateId": "9480",
+        "topic": "Alphabet series — increasing odd gaps",
+        "reason": "Rejected after semantic review because active question 7210 tests the same series-continuation skill; changing numbers to letters would be a superficial representation variant."
+      },
+      {
+        "candidateId": "9465",
+        "topic": "Boats and streams — upstream speed",
+        "reason": "Near-duplicate calculation of the same boats-and-streams speed relationship tested in official PYQs, including Investigator Housing 2024 Q143 and Labour Inspector 2021 Q52 (the partial Labour file repeats Q52). The calculation uses the same upstream/downstream speed relationship; rejected to avoid a superficial variant."
+      },
+      {
+        "candidateId": "9475",
+        "topic": "Mensuration — percentage change in square area",
+        "reason": "Near-duplicate of an official PYQ asking the percentage change in a cube's surface area after changing its side length. Both require the same linear-dimension-to-area scaling calculation; rejected despite different shape and numbers."
+      },
+      {
+        "candidateId": "9540",
+        "topic": "Probability — two draws without replacement",
+        "reason": "Near-duplicate of official Investigator Housing 2024 Q124: same 4-red/6-blue bag, two successive draws without replacement and same conditional-probability calculation; only the colour sequence/event changed. Rejected to avoid a superficial data/context variant."
+      },
+      {
+        "candidateId": "9529",
+        "topic": "Plastic Waste Management — extended producer responsibility",
+        "reason": "Concept overlap with active question 9299 on EPR for e-waste: both ask which producer-side party bears the defined end-of-life collection/processing responsibility. The waste stream differs, but the tested learning objective and answer pattern are substantially the same; rejected."
       }
     ],
-    "correctionStatus": "merged",
-    "correctionPullRequest": 117,
-    "correctionPullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/117",
-    "correctionGatePassed": true,
-    "correctionValidationStatus": "passed",
-    "correctionValidationRunId": 44986400869,
-    "correctionMergeCommitSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
-    "correctionRepositoryTestsPassed": true,
-    "existingBankNearDuplicateCandidatesRejected": 1,
-    "existingBankNearDuplicateDetails": [
-      {
-        "candidateId": 9235,
-        "referenceType": "active",
-        "referenceFile": "index.html",
-        "referenceQuestionNumber": 9002,
-        "referenceStem": "Under paragraph 2(6) of the Sixth Schedule, what is the normal term of an elected District Council member, unless the Council is sooner dissolved?",
-        "reason": "Same five-year tenure recall and local-governing-body term learning objective as the candidate's Municipality-duration question; rejected to avoid an institution-name-only variant."
-      }
-    ],
-    "correctionPullRequestState": "merged",
-    "correctionMergedAt": "2026-11-22T04:45:14Z",
-    "correctionValidationUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44986400869",
-    "correctionValidationConclusion": "success",
-    "mainPushValidationRunId": 44986428297,
-    "mainPushValidationUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44986428297",
-    "mainPushValidationConclusion": "success",
-    "pagesDeploymentWorkflowRunId": 44986428168,
-    "pagesDeploymentWorkflowUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44986428168",
-    "pagesDeploymentWorkflowConclusion": "success",
-    "pagesDeploymentStatus": "workflow_succeeded_live_content_unverified",
-    "liveDeploymentCheck": {
-      "attempted": true,
-      "expectedBuildMarker": "2026-11-22-original-practice-90",
-      "verified": false,
-      "methods": [
-        "browser open",
-        "direct fetch"
-      ],
-      "result": "Live URL was not accessible from the verification environment; build marker could not be confirmed."
-    },
-    "postCorrectionMainSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4"
+    "comparisonCorpusRecordsBeforeRun": 3860,
+    "comparisonCorpusRecordsAfterProposedMerge": 3978,
+    "rawPyqNearMatchPairsDetected": 8,
+    "pyqNearMatchPairsRejected": 5,
+    "pyqNearMatchPairsFalsePositive": 3,
+    "rawActiveNearMatchPairsDetected": 2,
+    "activeNearMatchPairsFalsePositive": 2,
+    "activeConceptOverlapCandidatesRejected": 1,
+    "semanticReview": {
+      "method": "Token Jaccard over normalized raw PYQ and active question stems after conservative function-word removal; thresholds 0.40 for 2,572 PYQ records and 0.45 for 1,288 pre-run active questions; all threshold matches manually reviewed.",
+      "pyqFiles": 19,
+      "pyqRecords": 2572,
+      "activeQuestions": 1288,
+      "rawPyqPairs": 8,
+      "pyqPairsRejected": 5,
+      "pyqFalsePositives": 3,
+      "rawActivePairs": 2,
+      "activeFalsePositives": 2,
+      "activeConceptOverlapRejected": 1,
+      "unresolved": 0
+    }
   },
   "nextDailyTarget": 130,
   "cumulativeUniqueAdditionsSinceRampStart": 407,
   "targetActiveQuestions": 10000,
   "currentActiveQuestions": 1288,
   "remainingTo10000": 8712,
-  "dedupRefreshRequiredBeforeDrafting": true,
+  "dedupRefreshRequiredBeforeDrafting": false,
   "nextRequiredActions": [
-    "Start 24 November production with a target of 130 only after refreshing the complete deduplication index across all 1,288 active questions, 19 PYQ transcription files and 21 archive mirrors.",
-    "Keep original practice questions separate from official PYQ transcriptions.",
-    "Verify the live GitHub Pages build marker before claiming deployment."
+    "Review pull request and wait for repository validation.",
+    "After merge, run a fresh full parity audit and finalize active counts, cumulative additions and the next ramp target.",
+    "Verify the live GitHub Pages build marker before reporting deployment as successful."
   ],
   "priorPreflightRun": {
     "date": "2026-11-17",
@@ -707,52 +635,50 @@
     "candidateValidationRate": 0.9
   },
   "projectedBankDistribution": {
-    "Polity": 115,
-    "Meghalaya GK": 86,
-    "English": 171,
-    "History": 77,
-    "Science": 73,
-    "Economy": 74,
-    "Geography": 75,
+    "Polity": 125,
+    "Meghalaya GK": 92,
+    "English": 181,
+    "History": 85,
+    "Science": 81,
+    "Economy": 82,
+    "Geography": 83,
     "Aptitude": 32,
-    "Environment": 52,
+    "Environment": 60,
     "Officer Technical": 17,
-    "Arithmetic": 178,
-    "GST / Inspector of Taxes": 71,
+    "Arithmetic": 190,
+    "GST / Inspector of Taxes": 100,
     "General Science": 11,
-    "Reasoning": 53,
-    "Computer": 46,
+    "Reasoning": 60,
+    "Computer": 54,
     "Static GK": 3,
-    "Current Affairs": 50,
+    "Current Affairs": 56,
     "Art & Culture": 1,
     "International Organisations": 1,
     "Books & Authors": 1
   },
   "sourceInventory": {
-    "officialPyqFilesFetched": 18,
-    "officialPyqFilesTotal": 18,
+    "activeQuestionsBeforeRun": 1288,
+    "activeQuestionsInProposedBuild": 1406,
+    "questionBatchArchivesBeforeRun": 21,
+    "questionBatchArchiveRecordsBeforeRun": 696,
+    "questionBatchArchivesInProposedBuild": 22,
+    "questionBatchArchiveRecordsInProposedBuild": 814,
+    "officialPyqFiles": 18,
     "officialPyqQuestionRecords": 2433,
-    "partialTranscriptionDuplicateFiles": 1,
-    "partialDuplicateQuestionRecords": 139,
     "allPyqQuestionFiles": 19,
     "allPyqQuestionRecords": 2572,
-    "questionBatchArchives": 21,
-    "questionBatchArchiveRecords": 696,
-    "projectedQuestionBatchArchives": 21,
-    "projectedQuestionBatchArchiveRecords": 696,
-    "unlistedQuestionBatchFiles": 0,
-    "comparisonCorpusRecords": 3860,
+    "partialDuplicateFileCount": 1,
+    "partialDuplicateQuestionRecords": 139,
     "supportingDataFilesReviewed": 15,
-    "currentAffairsFilesReviewed": 4,
-    "currentAffairsSourceItemsReviewed": 19,
+    "currentAffairsSourceItemsReviewed": 6,
     "explanationLibraryFilesReviewed": 8,
     "pyqTranscriptionAuditFilesReviewed": 3,
-    "officialSourcesIndexReviewed": true,
     "otherQuestionBankFilesOutsideCanonicalArchivesAndPyq": 0,
-    "activeQuestions": 1288,
-    "projectedActiveQuestions": 1288
+    "unlistedQuestionBatchFiles": 0,
+    "comparisonCorpusRecordsBeforeRun": 3860,
+    "comparisonCorpusRecordsAfterProposedMerge": 3978
   },
-  "mainShaAtStartOfLatestRun": "bebb1b5ce4cdf346861d009ca834c7a2d9036943",
+  "mainShaAtStartOfLatestRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
   "previousRunBeforeLatest": {
     "date": "2026-11-20",
     "status": "merged",
@@ -830,7 +756,7 @@
       "questionStemsOrAnswersChanged": false
     }
   },
-  "latestMainShaAtAudit": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
+  "latestMainShaAtAudit": "5888fc51255b73e0b64c302b5f392522a1e251be",
   "previousRunTwoBack": {
     "date": "2026-11-19",
     "target": 50,
@@ -851,11 +777,398 @@
     "githubActionsConclusion": "success",
     "deploymentVerified": false
   },
-  "currentMainShaAtRunEnd": "ff4813b0109348751255f6e16d1b69311c4cd106",
+  "currentMainShaAtRunEnd": "5888fc51255b73e0b64c302b5f392522a1e251be",
   "repositoryVisibilityVerifiedDate": "2026-11-24",
   "repositoryDefaultBranch": "main",
-  "pendingRun": null,
-  "mainShaAtStartOfCurrentRun": "ff4813b0109348751255f6e16d1b69311c4cd106",
+  "pendingRun": {
+    "date": "2026-11-24",
+    "status": "pending_merge",
+    "target": 130,
+    "startingActiveQuestions": 1288,
+    "draftedCandidates": 135,
+    "validatedQuestions": 118,
+    "mergedQuestions": 0,
+    "activeUniqueAdditions": 0,
+    "projectedActiveUniqueCount": 1406,
+    "passRate": 0.8740740740740741,
+    "targetAchievementRate": 0.9076923076923077,
+    "rejectedCandidates": 17,
+    "exactStemCollisions": 0,
+    "optionSetCollisions": 0,
+    "nearSemanticCollisionsRejected": 13,
+    "withinBatchNearDuplicateCandidatesRejected": 0,
+    "unresolvedSemanticCollisions": 0,
+    "optionOnlyFingerprintMatchesReviewed": 0,
+    "qualityGatePassed": true,
+    "dedupGatePassed": true,
+    "sourceGatePassed": true,
+    "repositoryGatePassed": true,
+    "mergeGatePassed": false,
+    "targetGatePassed": false,
+    "gatePassed": false,
+    "nextDailyTarget": 130,
+    "blockers": [
+      "117 validated questions are staged but not merged; no additions are counted until merge."
+    ],
+    "officialPyqFilesFetched": 18,
+    "officialPyqFilesTotal": 18,
+    "officialPyqQuestionRecords": 2433,
+    "partialDuplicateQuestionsVerified": 139,
+    "allPyqFilesScanned": 19,
+    "allPyqQuestionRecords": 2572,
+    "dedupNormalizationComplete": true,
+    "exactCollisionChecksCompleted": true,
+    "optionInsensitiveChecksCompleted": true,
+    "semanticCollisionChecksCompleted": true,
+    "comparisonCorpusRecords": 3860,
+    "postMergeComparisonCorpusRecords": 3978,
+    "archiveFilesBeforeRun": 21,
+    "archiveRecordsBeforeRun": 696,
+    "archiveFilesAfterRun": 22,
+    "archiveRecordsAfterRun": 814,
+    "pullRequest": null,
+    "pullRequestUrl": null,
+    "mergeCommitSha": null,
+    "githubActionsRun": null,
+    "githubActionsConclusion": "pending",
+    "deploymentVerified": false,
+    "deploymentStatus": "not_verified",
+    "preDraftActiveQuestions": 1288,
+    "postMergeActiveQuestions": null,
+    "comparedPyqFiles": 19,
+    "comparedPyqRecords": 2572,
+    "preDraftComparisonCorpusRecords": 3860,
+    "subjects": {
+      "GST / Inspector of Taxes": 19,
+      "Meghalaya GK": 6,
+      "Polity": 10,
+      "English": 10,
+      "Arithmetic": 12,
+      "Reasoning": 7,
+      "Computer": 8,
+      "Geography": 8,
+      "Economy": 8,
+      "History": 8,
+      "Science": 8,
+      "Environment": 8,
+      "Current Affairs": 6
+    },
+    "examTracks": [
+      "MPSC Inspector of Taxes",
+      "DSC East Khasi Hills LDA-cum-Typist",
+      "MPSC Secretariat LDA"
+    ],
+    "rejectedCandidateTopics": [
+      "Meghalaya autonomous-state formation date",
+      "Mawjymbuin Cave calcium-carbonate stalagmite formation",
+      "Meghalaya district headquarters",
+      "State Finance Commission under Article 243-I",
+      "Combined rate of work for two workers",
+      "Coefficient of variation calculation",
+      "No sooner had...than inversion",
+      "IPv6 address length",
+      "Ramsar Convention purpose",
+      "Quit India Movement launch year",
+      "GST e-way bill distance validity",
+      "GST blocked ITC on works contracts",
+      "Alphabet series — increasing odd gaps"
+    ],
+    "sourceReview": {
+      "verifiedDate": "2026-11-24",
+      "primarySources": [
+        "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+        "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+        "https://meghalaya.gov.in/22429-sq-km",
+        "https://meghalaya.gov.in/index.php/node/34297",
+        "https://ncert.nic.in/textbook.php",
+        "https://dictionary.cambridge.org/",
+        "https://systemhealth.rbi.org.in/Scripts/FS_Overview2752.aspx.html",
+        "https://learn.microsoft.com/en-us/office/",
+        "https://www.ietf.org/standards/rfcs/",
+        "https://www.indiacode.nic.in/bitstream/123456789/13332/1/water_act_1974.pdf",
+        "https://www.indiacode.nic.in/indiacode/handle/123456789/1389?view_type=browse",
+        "https://www.indiacode.nic.in/bitstream/123456789/1726/1/a1972-53.pdf",
+        "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_16_18_00009_201019_1517807326004&filename=a2010-19.pdf&type=actfile",
+        "https://moef.gov.in/uploads/2020/01/final-version-and-printed-wetland-guidelines-rules-2017-03.01.20.pdf",
+        "https://cpcb.nic.in/uploads/plasticwaste/EC_Regime_PWM.pdf",
+        "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf",
+        "https://megipr.gov.in/pr/PR-2026-11.html",
+        "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_240.pdf",
+        "https://meghalaya.gov.in/index.php/press/content/51866",
+        "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+        "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_251.pdf",
+        "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
+        "https://www.meggst.gov.in/gst/gst.html",
+        "https://www.meggst.gov.in/gst/tax_notifications_2025.html",
+        "https://cpcb.nic.in/displaypdf.php?id=Tm9pc2UtU3RhbmRhcmRzL25vaXNlX3J1bGVzXzIwMDAucGRm",
+        "https://www.meggst.gov.in/gst/tax_notifications_2026.html"
+      ],
+      "supportingSecondarySources": [
+        "https://taxguru.in/wp-content/uploads/2026/10/central-tax-notification-no-05-2026-gst-rules-amended-for-2026-27.pdf",
+        "https://www.caadityagoel.in/news"
+      ],
+      "legalVerification": {
+        "asOf": "2026-11-24",
+        "cgstActConsolidatedDate": "2026-06-11",
+        "testedSections": [
+          "2(47)",
+          "2(68)",
+          "2(78)",
+          "Schedule I",
+          "Schedule III",
+          "8",
+          "9(3)",
+          "57",
+          "59",
+          "60",
+          "62",
+          "63",
+          "64",
+          "67",
+          "68",
+          "97",
+          "103"
+        ],
+        "financeAct2026Amendments": {
+          "effectiveDate": "2026-11-01",
+          "amendedSections": [
+            "15",
+            "34",
+            "54"
+          ],
+          "overlapWithTestedSections": false
+        },
+        "environmentReferences": [
+          "Water Act 1974",
+          "Air Act 1981",
+          "Wild Life (Protection) Act 1972",
+          "National Green Tribunal Act 2010",
+          "Wetlands Rules 2017",
+          "Plastic Waste Management EPR",
+          "Solid Waste Management Rules 2026 effective 2026-04-01"
+        ],
+        "sourceURLs": [
+          "https://dictionary.cambridge.org/dictionary/english/comply",
+          "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+          "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+          "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf",
+          "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+          "https://taxguru.in/wp-content/uploads/2026/10/central-tax-notification-no-05-2026-gst-rules-amended-for-2026-27.pdf",
+          "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
+          "https://www.meggst.gov.in/gst/gst.html",
+          "https://www.meggst.gov.in/gst/tax_notifications_2025.html",
+          "https://www.caadityagoel.in/news",
+          "https://www.meggst.gov.in/gst/tax_notifications_2026.html"
+        ],
+        "cbicInstruction": {
+          "reference": "Instruction No. 02/2026-GST",
+          "date": "2026-10-30",
+          "officialURL": "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+          "interim": true,
+          "scope": "Central Tax field formations under CBIC",
+          "topics": [
+            "No further GST arrests by Central Tax field formations",
+            "Intelligence-based and authorised conveyance interception",
+            "Restrictions on transit-state detention and confiscation",
+            "No show-cause notices below ₹10,000 under sections 73, 74 and 74A"
+          ],
+          "stateGSTApplicability": "No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was located in official public sources searched on 2026-11-24; do not assume the Central Tax instruction automatically applies to Meghalaya State GST formations.",
+          "effectOnSection68Question": "The instruction changes conveyance interception procedures; it does not remove the prescribed document-carrying obligation tested separately under section 68."
+        },
+        "meghalayaStateInstructionStatus": "The official 2026 Meghalaya Tax Notifications archive lists State Tax 01/2026, a GSTR-3B due-date extension. No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was visible in that 2026 archive as of 2026-11-24; this does not prove that no separate instruction exists.",
+        "recentUpdatesReviewed": {
+          "financeAct2026": {
+            "reference": "Finance Act, 2026, sections 153–155",
+            "effectiveDate": "2026-11-01",
+            "cgstActSectionsAmended": [
+              "15",
+              "34",
+              "54"
+            ],
+            "overlapWithTestedSections": false
+          },
+          "notification05_2026": {
+            "reference": "Notification No. 05/2026-Central Tax, G.S.R. 919(E)",
+            "date": "2026-10-26",
+            "generalEffectiveDate": "2026-11-01",
+            "scope": [
+              "new Rule 14B",
+              "substituted Rules 19 and 20",
+              "changes to Rules 36, 39, 44, 54, 60, 62, 63, 86A, 89, 90, 91 and related forms"
+            ],
+            "hostedGazetteTextURL": "https://taxguru.in/wp-content/uploads/2026/10/central-tax-notification-no-05-2026-gst-rules-amended-for-2026-27.pdf",
+            "hostedCopyNote": "Full Gazette text reviewed from a hosted copy; the official CBIC portal listing for this notification was not retrieved in this run."
+          },
+          "corrigendum": {
+            "reference": "G.S.R. 1001(E) — corrigendum to G.S.R. 919(E)",
+            "date": "2026-11-18",
+            "officialCBICURL": "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
+            "effectsReviewed": [
+              "corrected Rule 14B wording including operator consent and recordkeeping",
+              "corrected refund Rule 92(4) revalidation provisos for RFD-06 and RFD-05",
+              "corrected other registration and form wording"
+            ],
+            "testedQuestionOverlap": false
+          },
+          "gstnAdvisoryMetroRail": {
+            "date": "2026-11-20",
+            "topic": "Metro Rail added as a mode of transport under CGST Rule 138(2A)",
+            "sourceURL": "https://www.caadityagoel.in/news",
+            "testedQuestionOverlap": false
+          },
+          "cbicInstruction02_2026": {
+            "reference": "Instruction No. 02/2026-GST",
+            "date": "2026-10-30",
+            "officialURL": "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+            "scope": "Central Tax field formations under CBIC",
+            "topics": [
+              "interim direction on arrests",
+              "intelligence-based conveyance interception",
+              "transit-state detention/confiscation restrictions",
+              "small-notice directions under sections 73, 74 and 74A"
+            ],
+            "stateGSTApplicability": "State GST formations may issue similar instructions; no separate Meghalaya State GST instruction corresponding to this circular was visible in the public index checked."
+          }
+        },
+        "section62RuleDistinction": "Question 9430 tests section 62 of the CGST Act (best-judgment assessment of a non-filer). Notification 05/2026 changes rule 62(5) of the CGST Rules; these are different provisions and the question does not test the amended rule.",
+        "section68InstructionDistinction": "Question 9435 tests the statutory document/device-carrying obligation under section 68 of the CGST Act. CBIC Instruction 02/2026 changes conveyance-interception procedures; it does not remove the section 68 obligation.",
+        "meghalayaTaxationPortal": "https://www.meggst.gov.in/gst/gst.html",
+        "meghalayaTaxNotificationIndex": "https://www.meggst.gov.in/gst/tax_notifications_2026.html",
+        "meghalayaLatestListedStateTaxNotification": "State Tax 01/2026 vide No. ERTS(T) 3/2025/471 dated 21 April 2026, extending the March 2026 GSTR-3B due date to 21 April 2026, as listed in the official 2026 archive checked on 2026-11-24.",
+        "meghalayaTaxNotificationIndex2025": "https://www.meggst.gov.in/gst/tax_notifications_2025.html"
+      }
+    },
+    "liveBuildMarker": "2026-11-24-original-practice-118",
+    "serviceWorkerCache": "mpsc-smart-study-v5-60-20261124",
+    "activeUniqueQuestionsAfterMerge": null,
+    "cumulativeUniqueAdditionsSinceRampStart": 407,
+    "remainingTo10000": 8712,
+    "candidateValidationRate": 0.8740740740740741,
+    "postMergeAudit": false,
+    "archiveParityVerified": true,
+    "canonicalEmbeddedParityVerified": true,
+    "liveDeploymentVerified": false,
+    "repositoryTestsPassed": false,
+    "currentActiveQuestions": 1288,
+    "pullRequestState": "pending",
+    "mainShaAtStartOfRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
+    "proposedMainQuestionCount": 1406,
+    "exactStemCollisionCount": 0,
+    "optionSetCollisionCount": 0,
+    "activeNearMatchesReviewed": 0,
+    "pyqNearMatches": 0,
+    "withinBatchNearPairs": 0,
+    "finalBatchNearPairs": 0,
+    "rejectedCandidateDetails": [
+      {
+        "candidateId": "R24-01",
+        "topic": "Meghalaya autonomous-state formation date",
+        "reason": "Active question 6142 already asks the year Meghalaya became an autonomous State; an exact-date version would be a date-only variant."
+      },
+      {
+        "candidateId": "R24-02",
+        "topic": "Mawjymbuin Cave calcium-carbonate stalagmite formation",
+        "reason": "Active question 9048 already tests the same cave and calcium-carbonate deposition process."
+      },
+      {
+        "candidateId": "R24-03",
+        "topic": "Meghalaya district headquarters",
+        "reason": "Near-duplicate of existing district-headquarters questions."
+      },
+      {
+        "candidateId": "R24-04",
+        "topic": "State Finance Commission under Article 243-I",
+        "reason": "Already covered in the active Polity/municipal-finance cluster."
+      },
+      {
+        "candidateId": "R24-05",
+        "topic": "Combined rate of work for two workers",
+        "reason": "Repeated calculation pattern in active time-and-work questions."
+      },
+      {
+        "candidateId": "R24-06",
+        "topic": "Coefficient of variation calculation",
+        "reason": "Same statistic and calculation as active question 9413."
+      },
+      {
+        "candidateId": "R24-07",
+        "topic": "No sooner had...than inversion",
+        "reason": "Direct grammar-pattern overlap with active question 7259."
+      },
+      {
+        "candidateId": "R24-08",
+        "topic": "IPv6 address length",
+        "reason": "Too close to existing IP-address-length and DNS/networking coverage."
+      },
+      {
+        "candidateId": "R24-09",
+        "topic": "Ramsar Convention purpose",
+        "reason": "Repeats active wetland-conservation questions 90, 5079 and 6126."
+      },
+      {
+        "candidateId": "R24-10",
+        "topic": "Quit India Movement launch year",
+        "reason": "Exact historical fact already tested several times in the active bank."
+      },
+      {
+        "candidateId": "R24-11",
+        "topic": "GST e-way bill distance validity",
+        "reason": "Overlaps existing active e-way-bill validity questions 9036–9038."
+      },
+      {
+        "candidateId": "R24-12",
+        "topic": "GST blocked ITC on works contracts",
+        "reason": "Repeats the learning objective of active question 9308."
+      },
+      {
+        "candidateId": "9480",
+        "topic": "Alphabet series — increasing odd gaps",
+        "reason": "Rejected after semantic review because active question 7210 tests the same series-continuation skill; changing numbers to letters would be a superficial representation variant."
+      },
+      {
+        "candidateId": "9465",
+        "topic": "Boats and streams — upstream speed",
+        "reason": "Near-duplicate calculation of the same boats-and-streams speed relationship tested in official PYQs, including Investigator Housing 2024 Q143 and Labour Inspector 2021 Q52 (the partial Labour file repeats Q52). The calculation uses the same upstream/downstream speed relationship; rejected to avoid a superficial variant."
+      },
+      {
+        "candidateId": "9475",
+        "topic": "Mensuration — percentage change in square area",
+        "reason": "Near-duplicate of an official PYQ asking the percentage change in a cube's surface area after changing its side length. Both require the same linear-dimension-to-area scaling calculation; rejected despite different shape and numbers."
+      },
+      {
+        "candidateId": "9540",
+        "topic": "Probability — two draws without replacement",
+        "reason": "Near-duplicate of official Investigator Housing 2024 Q124: same 4-red/6-blue bag, two successive draws without replacement and same conditional-probability calculation; only the colour sequence/event changed. Rejected to avoid a superficial data/context variant."
+      },
+      {
+        "candidateId": "9529",
+        "topic": "Plastic Waste Management — extended producer responsibility",
+        "reason": "Concept overlap with active question 9299 on EPR for e-waste: both ask which producer-side party bears the defined end-of-life collection/processing responsibility. The waste stream differs, but the tested learning objective and answer pattern are substantially the same; rejected."
+      }
+    ],
+    "comparisonCorpusRecordsBeforeRun": 3860,
+    "comparisonCorpusRecordsAfterProposedMerge": 3978,
+    "rawPyqNearMatchPairsDetected": 8,
+    "pyqNearMatchPairsRejected": 5,
+    "pyqNearMatchPairsFalsePositive": 3,
+    "rawActiveNearMatchPairsDetected": 2,
+    "activeNearMatchPairsFalsePositive": 2,
+    "activeConceptOverlapCandidatesRejected": 1,
+    "semanticReview": {
+      "method": "Token Jaccard over normalized raw PYQ and active question stems after conservative function-word removal; thresholds 0.40 for 2,572 PYQ records and 0.45 for 1,288 pre-run active questions; all threshold matches manually reviewed.",
+      "pyqFiles": 19,
+      "pyqRecords": 2572,
+      "activeQuestions": 1288,
+      "rawPyqPairs": 8,
+      "pyqPairsRejected": 5,
+      "pyqFalsePositives": 3,
+      "rawActivePairs": 2,
+      "activeFalsePositives": 2,
+      "activeConceptOverlapRejected": 1,
+      "unresolved": 0
+    }
+  },
+  "mainShaAtStartOfCurrentRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
   "rampHistory": [
     {
       "date": "2026-11-23",
@@ -867,7 +1180,7 @@
       "nextTarget": 130
     }
   ],
-  "currentMainShaAtAudit": "ff4813b0109348751255f6e16d1b69311c4cd106",
+  "currentMainShaAtAudit": "5888fc51255b73e0b64c302b5f392522a1e251be",
   "latestCompletedRun": {
     "date": "2026-11-23",
     "status": "merged",
@@ -1406,5 +1719,466 @@
     "postMergeMainSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
     "optionOnlyFingerprintMatchesReviewed": 4
   },
-  "latestMainShaAtCurrentAudit": "ff4813b0109348751255f6e16d1b69311c4cd106"
+  "latestMainShaAtCurrentAudit": "5888fc51255b73e0b64c302b5f392522a1e251be",
+  "completedRun22": {
+    "date": "2026-11-22",
+    "status": "merged",
+    "target": 90,
+    "startingActiveQuestions": 1097,
+    "draftedCandidates": 105,
+    "validatedQuestions": 90,
+    "mergedQuestions": 90,
+    "activeUniqueAdditions": 90,
+    "projectedActiveUniqueCount": 1187,
+    "passRate": 0.8571428571428571,
+    "targetAchievementRate": 1,
+    "exactCollisionChecks": 0,
+    "nearSemanticCollisionsRejected": 15,
+    "withinBatchNearDuplicateCandidatesRejected": 2,
+    "rejectedCandidates": 15,
+    "qualityGatePassed": true,
+    "dedupGatePassed": true,
+    "sourceGatePassed": true,
+    "repositoryGatePassed": true,
+    "mergeGatePassed": true,
+    "targetGatePassed": true,
+    "gatePassed": true,
+    "nextDailyTarget": 110,
+    "blockers": [
+      "GitHub Pages build/deployment workflow succeeded, but the live URL could not be independently fetched to confirm build marker 2026-11-22-original-practice-90."
+    ],
+    "officialPyqFilesFetched": 18,
+    "officialPyqFilesTotal": 18,
+    "officialPyqQuestionRecords": 2433,
+    "partialDuplicateQuestionsVerified": 139,
+    "allPyqFilesScanned": 19,
+    "allPyqQuestionRecords": 2572,
+    "dedupNormalizationComplete": true,
+    "exactCollisionChecksCompleted": true,
+    "optionInsensitiveChecksCompleted": true,
+    "semanticCollisionChecksCompleted": true,
+    "comparisonCorpusRecords": 3669,
+    "postMergeComparisonCorpusRecords": 3759,
+    "unresolvedSemanticCollisions": 0,
+    "archiveFilesBeforeRun": 19,
+    "archiveRecordsBeforeRun": 505,
+    "archiveFilesAfterRun": 20,
+    "archiveRecordsAfterRun": 595,
+    "pullRequest": 115,
+    "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/115",
+    "mergeCommitSha": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
+    "githubActionsRun": 44985252764,
+    "githubActionsConclusion": "success",
+    "deploymentVerified": false,
+    "deploymentStatus": "workflow_succeeded_live_content_unverified",
+    "preDraftActiveQuestions": 1097,
+    "postMergeActiveQuestions": 1187,
+    "comparedPyqFiles": 19,
+    "comparedPyqRecords": 2572,
+    "preDraftComparisonCorpusRecords": 3669,
+    "subjects": {
+      "Meghalaya GK": 6,
+      "Polity": 10,
+      "English": 8,
+      "Arithmetic": 5,
+      "Economy": 8,
+      "History": 10,
+      "Geography": 9,
+      "Science": 9,
+      "Environment": 7,
+      "Computer": 7,
+      "Reasoning": 3,
+      "GST / Inspector of Taxes": 6,
+      "Current Affairs": 2
+    },
+    "examTracks": [
+      "MPSC Inspector of Taxes",
+      "DSC East Khasi Hills LDA-cum-Typist",
+      "MPSC Secretariat LDA"
+    ],
+    "rejectedCandidateTopics": [
+      "Coordinate distance formula",
+      "Probability of exactly one head in two coin tosses",
+      "Probability of drawing two red balls without replacement",
+      "Volume of a cone",
+      "Polynomial remainder theorem",
+      "Sum of interior angles of a decagon",
+      "Solving simultaneous linear equations",
+      "Blood-relation chain",
+      "Clock-hand angle at 4:20",
+      "Appointment of a State Governor",
+      "Ramsar Convention wise use of wetlands",
+      "CGST Section 17(5)(d) construction on own account",
+      "Rajya Sabha seat-count recall — same parliamentary-representation count skill as Q9226",
+      "Trellis drainage-pattern identification — same pattern-classification skill as Q9272",
+      "Municipality five-year term — same local-governing-body tenure learning objective as active question 9002"
+    ],
+    "sourceReview": {
+      "verifiedDate": "2026-11-22",
+      "primaryAndAuthoritativeSources": [
+        "Meghalaya Government / Chief Electoral Officer of Meghalaya",
+        "Legislative Department — Constitution of India",
+        "NCERT",
+        "Cambridge Dictionary",
+        "NOAA",
+        "Encyclopaedia Britannica and national archives",
+        "MoEFCC / PARIVESH",
+        "Minamata Convention Secretariat",
+        "Basel Convention Secretariat",
+        "CPCB",
+        "U.S. EPA",
+        "University of Illinois Chicago",
+        "IBM",
+        "PostgreSQL",
+        "Microsoft Learn",
+        "IETF RFC 791",
+        "Google Gmail Help",
+        "India Code",
+        "Government of India e-Gazette",
+        "Reserve Bank of India",
+        "Government of Meghalaya — current Districts directory",
+        "Eastern West Khasi Hills District Administration — About District",
+        "U.S. Geological Survey — Earthquake Hazards Program glossary",
+        "Legislative Department, Government of India — Constitution of India, Article 243ZC"
+      ],
+      "legalNote": "GST questions were checked against the consolidated CGST Act text dated 11 June 2026 and the 26 October 2026 commencement notification. Finance Act 2026 amendments to CGST Sections 15, 34 and 54 effective 1 November 2026 do not change the tested Sections 16, 17, 18 and 56.",
+      "postRunLegalReview": {
+        "verifiedDate": "2026-11-22",
+        "sectionsReviewed": [
+          "16(4)",
+          "17(5)(a)",
+          "17(5)(c)",
+          "17(5)(h)",
+          "18(1)(a)",
+          "56"
+        ],
+        "result": "The six tested statutory provisions were checked against the consolidated CGST Act and the November 2026 commencement changes. No tested provision was among the amended Sections 15, 34 and 54.",
+        "sourceURLs": [
+          "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_2_2_00042_201712_1517807328102&filename=a2017-12.pdf&type=actfile",
+          "https://egazette.gov.in/WriteReadData/2026/277441.pdf",
+          "https://www.indiabudget.gov.in/doc/cen/dojstru1.pdf"
+        ]
+      },
+      "currentAffairsReview": {
+        "verifiedDate": "2026-11-22",
+        "sources": [
+          "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQNEFT20112026.pdf",
+          "https://www.rbi.org.in/commonman/Upload/English/FAQs/PDFs/FAQRTGS15102026.pdf"
+        ]
+      },
+      "currentMeghalayaReferences": [
+        {
+          "source": "Government of Meghalaya — Districts directory",
+          "url": "https://www.meghalaya.gov.in/districts",
+          "verifiedDate": "2026-11-22",
+          "fact": "Lists 12 districts, including Eastern West Khasi Hills; page last updated 20 November 2026."
+        },
+        {
+          "source": "Eastern West Khasi Hills District Administration — About District",
+          "url": "https://easternwestkhasihills.meghalaya.gov.in/about-district/",
+          "verifiedDate": "2026-11-22",
+          "fact": "Identifies Mairang and Mawthadraishan Assembly constituencies as segments of the 1–Shillong Parliamentary Constituency."
+        },
+        {
+          "source": "U.S. Geological Survey — Earthquake Hazards Program glossary",
+          "url": "https://www.usgs.gov/glossary/earthquake-hazards-program",
+          "verifiedDate": "2026-11-22",
+          "fact": "Defines the Moho as the boundary between Earth's crust and mantle."
+        }
+      ],
+      "contentCorrections": [
+        "Q9227 replaced with distinct Shillong Parliamentary Constituency mapping.",
+        "Q9230 corrected to 12 districts using the current Government of Meghalaya directory.",
+        "Q9273 replaced with the Moho crust–mantle boundary.",
+        "Q9235 replaced with Article 243ZC Scheduled/tribal-area exclusion after cross-bank tenure near-duplicate review."
+      ],
+      "constitutionalReferences": [
+        {
+          "source": "Legislative Department, Government of India — Constitution of India, Article 243ZC",
+          "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+          "verifiedDate": "2026-11-22",
+          "fact": "Article 243ZC(1) excludes Scheduled Areas under Article 244(1) and tribal areas under Article 244(2) from Part IX-A; clause (3) permits Parliament to extend the provisions by law."
+        }
+      ]
+    },
+    "postRunCrossCorpusReview": {
+      "verifiedDate": "2026-11-22",
+      "activeQuestionsCompared": 1097,
+      "officialPyqFilesCompared": 19,
+      "officialPyqRecordsCompared": 2572,
+      "updatedCandidateIds": [
+        9227,
+        9229,
+        9230,
+        9263,
+        9273,
+        9297,
+        9304,
+        9309,
+        9235
+      ],
+      "finalBatchCount": 90,
+      "finalExactStemMatches": 0,
+      "finalOptionSetMatches": 0,
+      "finalNearSemanticMatches": 0,
+      "withinBatchNearPairs": 0,
+      "unresolvedSemanticCollisions": 0,
+      "optionOnlyFingerprintMatchesReviewed": [
+        {
+          "candidateId": 9226,
+          "referenceType": "active",
+          "referenceFile": "index.html",
+          "referenceQuestionNumber": 6174,
+          "referenceStem": "What is the least number to add to 563 to make it divisible by 9?",
+          "referenceOptions": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "reason": "Generic numeric option set 1, 2, 3, 4; the active question tests divisibility by 9, while Q9226 tests Meghalaya's Lok Sabha representation.",
+          "reviewedAsNonDuplicate": true
+        },
+        {
+          "candidateId": 9242,
+          "referenceType": "active",
+          "referenceFile": "index.html",
+          "referenceQuestionNumber": 9124,
+          "referenceStem": "Choose the correct completion: “Despite ___ the figures twice, the clerk overlooked the mismatch.”",
+          "referenceOptions": [
+            "checked",
+            "checking",
+            "to check",
+            "checks"
+          ],
+          "reason": "Same answer-option set, but the active question tests a gerund after the preposition 'despite'; Q9242 tests 'would rather' followed by a clause with a different subject.",
+          "reviewedAsNonDuplicate": true
+        },
+        {
+          "candidateId": 9226,
+          "referenceType": "official_pyq",
+          "referenceFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
+          "referenceQuestionNumber": 117,
+          "referenceStem": "If 3x = 8, what is the value of x?",
+          "referenceOptions": [
+            "−1",
+            "3",
+            "4",
+            "2"
+          ],
+          "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation.",
+          "reviewedAsNonDuplicate": true
+        },
+        {
+          "candidateId": 9230,
+          "referenceType": "official_pyq",
+          "referenceFile": "pyq-papers/assistant-employment-officer-2025-series-i.json",
+          "referenceQuestionNumber": 112,
+          "referenceStem": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
+          "referenceOptions": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration.",
+          "reviewedAsNonDuplicate": true
+        },
+        {
+          "candidateId": 9230,
+          "referenceType": "official_pyq",
+          "referenceFile": "pyq-papers/inspector-drugs-2019-series-i.json",
+          "referenceQuestionNumber": 94,
+          "referenceStem": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
+          "referenceOptions": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count.",
+          "reviewedAsNonDuplicate": true
+        },
+        {
+          "candidateId": 9230,
+          "referenceType": "official_pyq",
+          "referenceFile": "pyq-papers/investigator-housing-2024-series-i.json",
+          "referenceQuestionNumber": 145,
+          "referenceStem": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
+          "referenceOptions": [
+            "11",
+            "12",
+            "10",
+            "13"
+          ],
+          "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration.",
+          "reviewedAsNonDuplicate": true
+        }
+      ],
+      "existingBankNearDuplicateCandidatesRejected": 1,
+      "existingBankNearDuplicateDetails": [
+        {
+          "candidateId": 9235,
+          "referenceType": "active",
+          "referenceFile": "index.html",
+          "referenceQuestionNumber": 9002,
+          "referenceStem": "Under paragraph 2(6) of the Sixth Schedule, what is the normal term of an elected District Council member, unless the Council is sooner dissolved?",
+          "reason": "Same five-year tenure recall and local-governing-body term learning objective as the candidate's Municipality-duration question; rejected to avoid an institution-name-only variant."
+        }
+      ]
+    },
+    "liveBuildMarker": "2026-11-22-original-practice-90",
+    "serviceWorkerCache": "mpsc-smart-study-v5-58-20261122",
+    "activeUniqueQuestionsAfterMerge": 1187,
+    "cumulativeUniqueAdditionsSinceRampStart": 306,
+    "remainingTo10000": 8813,
+    "candidateValidationRate": 0.8571428571428571,
+    "postMergeAudit": true,
+    "archiveParityVerified": true,
+    "canonicalEmbeddedParityVerified": true,
+    "liveDeploymentVerified": false,
+    "validationRunId": 44985252764,
+    "validationRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985252764",
+    "repositoryTestsPassed": true,
+    "currentActiveQuestions": 1187,
+    "pullRequestState": "merged",
+    "pagesDeploymentRunId": null,
+    "pagesBuildConclusion": "unverified",
+    "postMergeCommitSha": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
+    "postMergeMainSha": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
+    "optionOnlyFingerprintMatchesReviewed": [
+      {
+        "candidateId": 9226,
+        "referenceType": "active",
+        "referenceFile": "index.html",
+        "referenceQuestionNumber": 6174,
+        "referenceStem": "What is the least number to add to 563 to make it divisible by 9?",
+        "referenceOptions": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "reason": "Generic numeric option set 1, 2, 3, 4; the active question tests divisibility by 9, while Q9226 tests Meghalaya's Lok Sabha representation.",
+        "reviewedAsNonDuplicate": true
+      },
+      {
+        "candidateId": 9242,
+        "referenceType": "active",
+        "referenceFile": "index.html",
+        "referenceQuestionNumber": 9124,
+        "referenceStem": "Choose the correct completion: “Despite ___ the figures twice, the clerk overlooked the mismatch.”",
+        "referenceOptions": [
+          "checked",
+          "checking",
+          "to check",
+          "checks"
+        ],
+        "reason": "Same answer-option set, but the active question tests a gerund after the preposition 'despite'; Q9242 tests 'would rather' followed by a clause with a different subject.",
+        "reviewedAsNonDuplicate": true
+      },
+      {
+        "candidateId": 9226,
+        "referenceType": "official_pyq",
+        "referenceFile": "pyq-papers/lda-mpsc-2023-may-series-i.json",
+        "referenceQuestionNumber": 117,
+        "referenceStem": "If 3x = 8, what is the value of x?",
+        "referenceOptions": [
+          "−1",
+          "3",
+          "4",
+          "2"
+        ],
+        "reason": "False-positive option-only hit: punctuation-insensitive normalization removed the negative sign from −1. The candidate asks Meghalaya's Lok Sabha seat count; the PYQ is a linear-equation calculation.",
+        "reviewedAsNonDuplicate": true
+      },
+      {
+        "candidateId": 9230,
+        "referenceType": "official_pyq",
+        "referenceFile": "pyq-papers/assistant-employment-officer-2025-series-i.json",
+        "referenceQuestionNumber": 112,
+        "referenceStem": "Given that three numbers are such that the second number is twice the first and thrice the third. Also, the average of the three numbers is 44. Then the difference of the first and third is",
+        "referenceOptions": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests a ratio-and-average calculation, not district administration.",
+        "reviewedAsNonDuplicate": true
+      },
+      {
+        "candidateId": 9230,
+        "referenceType": "official_pyq",
+        "referenceFile": "pyq-papers/inspector-drugs-2019-series-i.json",
+        "referenceQuestionNumber": 94,
+        "referenceStem": "Certificate of test or analysis by Government Analyst under Section 25(1) of the DCAR is issued in Form",
+        "referenceOptions": [
+          "10",
+          "11",
+          "12",
+          "13"
+        ],
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ asks for a statutory form number, not Meghalaya's district count.",
+        "reviewedAsNonDuplicate": true
+      },
+      {
+        "candidateId": 9230,
+        "referenceType": "official_pyq",
+        "referenceFile": "pyq-papers/investigator-housing-2024-series-i.json",
+        "referenceQuestionNumber": 145,
+        "referenceStem": "At what rate of compound interest per annum will a sum of ₹1,800 become ₹2,178 in 2 years?",
+        "referenceOptions": [
+          "11",
+          "12",
+          "10",
+          "13"
+        ],
+        "reason": "Generic numeric option set 10, 11, 12, 13; the PYQ tests compound-interest calculation, not district administration.",
+        "reviewedAsNonDuplicate": true
+      }
+    ],
+    "correctionStatus": "merged",
+    "correctionPullRequest": 117,
+    "correctionPullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/117",
+    "correctionGatePassed": true,
+    "correctionValidationStatus": "passed",
+    "correctionValidationRunId": 44986400869,
+    "correctionMergeCommitSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
+    "correctionRepositoryTestsPassed": true,
+    "existingBankNearDuplicateCandidatesRejected": 1,
+    "existingBankNearDuplicateDetails": [
+      {
+        "candidateId": 9235,
+        "referenceType": "active",
+        "referenceFile": "index.html",
+        "referenceQuestionNumber": 9002,
+        "referenceStem": "Under paragraph 2(6) of the Sixth Schedule, what is the normal term of an elected District Council member, unless the Council is sooner dissolved?",
+        "reason": "Same five-year tenure recall and local-governing-body term learning objective as the candidate's Municipality-duration question; rejected to avoid an institution-name-only variant."
+      }
+    ],
+    "correctionPullRequestState": "merged",
+    "correctionMergedAt": "2026-11-22T04:45:14Z",
+    "correctionValidationUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44986400869",
+    "correctionValidationConclusion": "success",
+    "mainPushValidationRunId": 44986428297,
+    "mainPushValidationUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44986428297",
+    "mainPushValidationConclusion": "success",
+    "pagesDeploymentWorkflowRunId": 44986428168,
+    "pagesDeploymentWorkflowUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44986428168",
+    "pagesDeploymentWorkflowConclusion": "success",
+    "pagesDeploymentStatus": "workflow_succeeded_live_content_unverified",
+    "liveDeploymentCheck": {
+      "attempted": true,
+      "expectedBuildMarker": "2026-11-22-original-practice-90",
+      "verified": false,
+      "methods": [
+        "browser open",
+        "direct fetch"
+      ],
+      "result": "Live URL was not accessible from the verification environment; build marker could not be confirmed."
+    },
+    "postCorrectionMainSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
+    "mainShaAtStartOfRun": "bebb1b5ce4cdf346861d009ca834c7a2d9036943"
+  }
 }

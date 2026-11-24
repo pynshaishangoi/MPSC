@@ -2,12 +2,12 @@
 
 A mobile-friendly GitHub Pages study hub for Meghalaya competitive examinations. Priority tracks: MPSC Inspector of Taxes, DSC East Khasi Hills LDA-cum-Typist and MPSC Secretariat LDA.
 
-## Verified repository snapshot — 23 November 2026
+## Verified repository snapshot — 24 November 2026
 
-- **1,288 active unique question records**: 592 legacy embedded questions plus 696 records mirrored in 21 archived batches. All 1,288 are embedded directly in `index.html` for immediate offline availability; the archives are preserved for audit and are not a runtime dependency.
+- **1,406 active unique question records**: 592 legacy embedded questions plus 814 records mirrored in 22 archived batches. All 1,406 are embedded directly in `index.html` for immediate offline availability; the archives are preserved for audit and are not a runtime dependency.
 - **111 records tagged PYQ**. A PYQ tag is not the same as a complete paper.
-- **219 structured detailed explanations** across eight libraries: 52 History, 83 Polity, 20 English, 11 Arithmetic, 20 Meghalaya GK, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **18.4% of the active bank**; 968 active IDs still need structured library explanations. The Meghalaya GK library explains 20 of 86 active regional questions (23.3%); 66 remain. The Arithmetic library adds worked solutions for 11 of 178 active questions (compound interest, percentages, ratio, simple interest, average, profit, time-and-work and speed); 167 remain. Coverage is audited by ID in `audit/explanation-coverage-2026-11-06.json`.
-- **Study Notes:** 18 subject collections and 64 revision chapters (including 4 newly integrated collections from the 6 November uploaded-note analysis).
+- **219 structured detailed explanations** across eight libraries: 52 History, 83 Polity, 20 English, 11 Arithmetic, 20 Meghalaya GK, 12 General Studies, 15 GST / Inspector of Taxes and 6 Current Affairs. This is **15.6% of the active bank**; 1,187 active IDs still need structured library explanations. The Meghalaya GK library explains 20 of 102 active regional questions (19.6%); 82 remain. The Arithmetic library adds worked solutions for 11 of 197 active questions (5.6%); 186 remain. Coverage is audited by ID in `audit/explanation-coverage-2026-11-06.json`.
+- **Study Notes:** 14 subject collections and 37 revision chapters (including 4 newly integrated collections from the 6 November uploaded-note analysis).
 - **MPSC Secretariat LDA May 2025 recruitment-cycle Series I:** 91 of 150 questions transcribed and checked against the official final answer key dated 17 December 2025; 59 remain.
 
 ## Evidence-led exam preparation
