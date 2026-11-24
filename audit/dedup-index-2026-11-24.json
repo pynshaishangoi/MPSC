@@ -27086,15 +27086,15 @@
     "rejected": 17,
     "exactStemCollisions": 0,
     "optionSetCollisions": 0,
-    "nearSemanticRejected": 13,
+    "nearSemanticRejected": 17,
     "existingBankNearDuplicateCandidatesRejected": 17,
     "withinBatchNearPairsRejected": 0,
     "withinBatchNearPairs": 0,
     "finalBatchNearPairs": 0,
     "unresolved": 0,
     "optionOnlyFingerprintMatchesReviewed": 0,
-    "activeNearMatchesReviewed": 0,
-    "pyqNearMatches": 0,
+    "activeNearMatchesReviewed": 2,
+    "pyqNearMatches": 3,
     "comparisonCorpusRecords": 3860,
     "comparisonCorpusRecordsAfterMerge": 3978,
     "rejectedCandidates": [
@@ -27190,10 +27190,14 @@
       "withinBatchJaccardReview": 0.45
     },
     "manualReview": {
-      "falsePositiveNearMatches": 0,
-      "acceptedNearMatches": 0,
-      "rejectedNearMatches": 13,
-      "notes": "Candidate 9480 was rejected as a superficial alphabet-series variant of active question 7210. Candidate 9463 was replaced with a distinct comply-with collocation after review found overlap with active third-conditional question 9122."
+      "reviewedNearMatchPairs": 10,
+      "falsePositiveNearMatches": 5,
+      "acceptedNearMatches": 5,
+      "rejectedNearMatchPairs": 5,
+      "rejectedNearMatches": 17,
+      "conceptOverlapCandidatesRejected": 1,
+      "unresolvedSemanticCollisions": 0,
+      "notes": "Manual review of all threshold matches: eight PYQ near-match pairs at Jaccard ≥0.40 were reviewed; five pairs were rejected across candidates 9465 (three boats-and-streams matches), 9475 (one area-percentage match) and 9540 (one two-draw probability match). Three Q9462 pairs were false positives because the semicolon punctuation skill differs from the PYQ article, tense and pronoun skills. Two active-bank near-match pairs at Jaccard ≥0.45 were false positives: Q9458 (abrogate vs meticulous) and Q9461 (whom after a preposition vs do/does agreement). Q9529 was separately rejected for the same EPR producer-responsibility learning objective as active Q9299 despite a below-threshold lexical score. Q9464 (harmonic-mean average speed) and Q9511 (Government of India Act 1858) were manually retained as materially different from their closest active questions. No unresolved semantic collisions remain."
     },
     "candidateAcceptanceRate": 0.8740740740740741,
     "targetAchievementRate": 0.9076923076923077,
@@ -27405,7 +27409,8 @@
     "activeUniqueQuestionsAfterMerge": 1406,
     "targetGatePassed": true,
     "cumulativeUniqueAdditionsAfterRun": 525,
-    "remainingTo10000AfterRun": 8594
+    "remainingTo10000AfterRun": 8594,
+    "manualReviewNotes": "Manual review of all threshold matches: eight PYQ near-match pairs at Jaccard ≥0.40 were reviewed; five pairs were rejected across candidates 9465 (three boats-and-streams matches), 9475 (one area-percentage match) and 9540 (one two-draw probability match). Three Q9462 pairs were false positives because the semicolon punctuation skill differs from the PYQ article, tense and pronoun skills. Two active-bank near-match pairs at Jaccard ≥0.45 were false positives: Q9458 (abrogate vs meticulous) and Q9461 (whom after a preposition vs do/does agreement). Q9529 was separately rejected for the same EPR producer-responsibility learning objective as active Q9299 despite a below-threshold lexical score. Q9464 (harmonic-mean average speed) and Q9511 (Government of India Act 1858) were manually retained as materially different from their closest active questions. No unresolved semantic collisions remain."
   },
   "sourceInventory": {
     "activeQuestionsBeforeRun": 1288,
