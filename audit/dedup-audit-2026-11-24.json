@@ -3,8 +3,8 @@
   "date": "2026-11-24",
   "target": 130,
   "startingActiveQuestions": 1288,
-  "draftedCandidates": 130,
-  "validatedUniqueQuestions": 117,
+  "draftedCandidates": 131,
+  "validatedUniqueQuestions": 118,
   "rejectedCandidates": [
     {
       "candidateId": "R24-01",
@@ -74,9 +74,9 @@
   ],
   "mergedQuestions": 0,
   "activeUniqueAdditions": 0,
-  "projectedActiveUniqueQuestions": 1405,
-  "targetAchievementRate": 0.9,
-  "candidateAcceptanceRate": 0.9,
+  "projectedActiveUniqueQuestions": 1406,
+  "targetAchievementRate": 0.9076923076923077,
+  "candidateAcceptanceRate": 0.9007633587786259,
   "collisions": {
     "candidateExactStemCollisions": 0,
     "candidateOptionSetCollisions": 0,
@@ -94,14 +94,14 @@
     "questionBatchArchivesBeforeRun": 21,
     "archiveRecordsBeforeRun": 696,
     "questionBatchArchivesInProposedBuild": 22,
-    "archiveRecordsInProposedBuild": 813,
+    "archiveRecordsInProposedBuild": 814,
     "officialPyqFiles": 18,
     "officialPyqRecords": 2433,
     "allPyqFiles": 19,
     "allPyqRecords": 2572,
     "partialDuplicateRecords": 139,
     "comparisonCorpusRecordsBeforeRun": 3860,
-    "comparisonCorpusRecordsAfterProposedMerge": 3977,
+    "comparisonCorpusRecordsAfterProposedMerge": 3978,
     "explanationLibrariesReviewed": 8,
     "supportingDataFilesReviewed": 15,
     "otherQuestionBankFilesOutsideCanonicalArchivesAndPyq": 0
@@ -112,7 +112,7 @@
     "MPSC Secretariat LDA"
   ],
   "subjects": {
-    "GST / Inspector of Taxes": 18,
+    "GST / Inspector of Taxes": 19,
     "Meghalaya GK": 6,
     "Polity": 10,
     "English": 10,
@@ -237,12 +237,29 @@
       "https://dictionary.cambridge.org/dictionary/english/comply",
       "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
       "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
-      "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf"
-    ]
+      "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf",
+      "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions"
+    ],
+    "cbicInstruction": {
+      "reference": "Instruction No. 02/2026-GST",
+      "date": "2026-10-30",
+      "officialURL": "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+      "interim": true,
+      "scope": "Central Tax field formations under CBIC",
+      "topics": [
+        "No further GST arrests by Central Tax field formations",
+        "Intelligence-based and authorised conveyance interception",
+        "Restrictions on transit-state detention and confiscation",
+        "No show-cause notices below ₹10,000 under sections 73, 74 and 74A"
+      ],
+      "stateGSTApplicability": "No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was located in official public sources searched on 2026-11-24; do not assume the Central Tax instruction automatically applies to Meghalaya State GST formations.",
+      "effectOnSection68Question": "The instruction changes conveyance interception procedures; it does not remove the prescribed document-carrying obligation tested separately under section 68."
+    },
+    "meghalayaStateInstructionStatus": "No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was located in official public sources searched on 2026-11-24; do not assume the Central Tax instruction automatically applies to Meghalaya State GST formations."
   },
   "sourceReview": {
     "verifiedDate": "2026-11-24",
-    "notes": "GST questions checked against India Code CGST Act consolidated as on 11 June 2026; Constitution against Legislative Department text; Meghalaya facts against Government state/district profiles; current affairs against dated Meghalaya releases; environment laws/rules against India Code, MoEFCC and CPCB. Solid Waste Management Rules 2026 were checked and the superseded 2016 Rules were not used.",
+    "notes": "GST questions checked against India Code CGST Act consolidated as on 11 June 2026; Constitution against Legislative Department text; Meghalaya facts against Government state/district profiles; current affairs against dated Meghalaya releases; environment laws/rules against India Code, MoEFCC and CPCB. Solid Waste Management Rules 2026 were checked and the superseded 2016 Rules were not used. CBIC Instruction No. 02/2026-GST dated 30 October 2026 was also reviewed. It is addressed to Central Tax field formations; State GST formations may issue similar instructions, and no separate Meghalaya State instruction was located in the official public sources searched. The statutory document-carrying requirement in section 68 remains distinct from the instruction's transit-interception procedures.",
     "primarySources": [
       "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
       "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
@@ -262,7 +279,8 @@
       "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf",
       "https://megipr.gov.in/pr/PR-2026-11.html",
       "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_240.pdf",
-      "https://meghalaya.gov.in/index.php/press/content/51866"
+      "https://meghalaya.gov.in/index.php/press/content/51866",
+      "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions"
     ]
   },
   "mergeStatus": "pending_merge",
@@ -285,7 +303,7 @@
     "repositoryTests": "pending"
   },
   "liveDeploymentVerified": false,
-  "liveBuildMarker": "2026-11-24-original-practice-117",
+  "liveBuildMarker": "2026-11-24-original-practice-118",
   "serviceWorkerCache": "mpsc-smart-study-v5-60-20261124",
   "branch": "daily-2026-11-24-original-practice",
   "pullRequest": null
