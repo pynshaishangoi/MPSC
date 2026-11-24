@@ -3,7 +3,7 @@
   "date": "2026-11-24",
   "target": 130,
   "startingActiveQuestions": 1288,
-  "draftedCandidates": 131,
+  "draftedCandidates": 135,
   "validatedUniqueQuestions": 118,
   "rejectedCandidates": [
     {
@@ -70,13 +70,33 @@
       "candidateId": "9480",
       "topic": "Alphabet series — increasing odd gaps",
       "reason": "Rejected after semantic review because active question 7210 tests the same series-continuation skill; changing numbers to letters would be a superficial representation variant."
+    },
+    {
+      "candidateId": "9465",
+      "topic": "Boats and streams — upstream speed",
+      "reason": "Near-duplicate calculation of the same boats-and-streams speed relationship tested in official PYQs, including Investigator Housing 2024 Q143 and Labour Inspector 2021 Q52 (the partial Labour file repeats Q52). The calculation uses the same upstream/downstream speed relationship; rejected to avoid a superficial variant."
+    },
+    {
+      "candidateId": "9475",
+      "topic": "Mensuration — percentage change in square area",
+      "reason": "Near-duplicate of an official PYQ asking the percentage change in a cube's surface area after changing its side length. Both require the same linear-dimension-to-area scaling calculation; rejected despite different shape and numbers."
+    },
+    {
+      "candidateId": "9540",
+      "topic": "Probability — two draws without replacement",
+      "reason": "Near-duplicate of official Investigator Housing 2024 Q124: same 4-red/6-blue bag, two successive draws without replacement and same conditional-probability calculation; only the colour sequence/event changed. Rejected to avoid a superficial data/context variant."
+    },
+    {
+      "candidateId": "9529",
+      "topic": "Plastic Waste Management — extended producer responsibility",
+      "reason": "Concept overlap with active question 9299 on EPR for e-waste: both ask which producer-side party bears the defined end-of-life collection/processing responsibility. The waste stream differs, but the tested learning objective and answer pattern are substantially the same; rejected."
     }
   ],
   "mergedQuestions": 0,
   "activeUniqueAdditions": 0,
   "projectedActiveUniqueQuestions": 1406,
   "targetAchievementRate": 0.9076923076923077,
-  "candidateAcceptanceRate": 0.9007633587786259,
+  "candidateAcceptanceRate": 0.8740740740740741,
   "collisions": {
     "candidateExactStemCollisions": 0,
     "candidateOptionSetCollisions": 0,
@@ -87,7 +107,16 @@
     "unresolvedSemanticCollisions": 0,
     "optionOnlyFingerprintMatchesReviewed": 0,
     "activeNearMatchesReviewed": 0,
-    "pyqNearMatches": 0
+    "pyqNearMatches": 0,
+    "pyqNearMatchPairsDetected": 8,
+    "pyqNearMatchPairsReviewed": 8,
+    "pyqNearMatchPairsRejected": 5,
+    "pyqNearMatchPairsFalsePositive": 3,
+    "activeNearMatchPairsDetected": 2,
+    "activeNearMatchPairsReviewed": 2,
+    "activeNearMatchPairsFalsePositive": 2,
+    "activeConceptOverlapCandidatesRejected": 1,
+    "withinBatchNearDuplicatePairs": 0
   },
   "dedupScope": {
     "activeQuestionsCompared": 1288,
@@ -104,7 +133,10 @@
     "comparisonCorpusRecordsAfterProposedMerge": 3978,
     "explanationLibrariesReviewed": 8,
     "supportingDataFilesReviewed": 15,
-    "otherQuestionBankFilesOutsideCanonicalArchivesAndPyq": 0
+    "otherQuestionBankFilesOutsideCanonicalArchivesAndPyq": 0,
+    "activeQuestionsBeforeRun": 1288,
+    "partialPyqFiles": 1,
+    "partialPyqRecords": 139
   },
   "examTracks": [
     "MPSC Inspector of Taxes",
@@ -323,7 +355,7 @@
   },
   "sourceReview": {
     "verifiedDate": "2026-11-24",
-    "notes": "GST questions checked against India Code CGST Act consolidated as on 11 June 2026; Constitution against Legislative Department text; Meghalaya facts against Government state/district profiles; current affairs against dated Meghalaya releases; environment laws/rules against India Code, MoEFCC and CPCB. Solid Waste Management Rules 2026 were checked and the superseded 2016 Rules were not used. CBIC Instruction No. 02/2026-GST dated 30 October 2026 was also reviewed. It is addressed to Central Tax field formations; State GST formations may issue similar instructions, and no separate Meghalaya State instruction was located in the official public sources searched. The statutory document-carrying requirement in section 68 remains distinct from the instruction's transit-interception procedures. Current-affairs items were checked against Meghalaya I&PR PR Nos. 182/26, 181/26, 180/26 and 175/26, the official NEC October fund-release PDF and the Government FOCUS Plus release. The EUFF question uses the post-screening Government release, which confirms the 31st edition and the 12–18 November Shillong run. Additional current-law review on 2026-11-24 covered Finance Act 2026 sections 153–155 effective 2026-11-01; Notification 05/2026-Central Tax (G.S.R. 919(E)) and its 2026-11-18 corrigendum; the 2026-11-20 GSTN Metro Rail mode update; and Meghalaya Taxation Department's official GST notification index. Question 9430 is CGST Act section 62, not CGST Rules rule 62(5). No 2026 Meghalaya State Tax instruction corresponding to CBIC Instruction 02/2026 was visible in the public index checked; this is recorded as an evidence limitation, not proof of absence. The Notification 05/2026 Gazette text was reviewed from a hosted copy because its direct CBIC portal record was not retrieved; the 18 November corrigendum was linked from the official CBIC tax-information portal. The Metro Rail advisory item is supporting context from a secondary tax update, not a question in this batch.",
+    "notes": "GST questions checked against India Code CGST Act consolidated as on 11 June 2026; Constitution against Legislative Department text; Meghalaya facts against Government state/district profiles; current affairs against dated Meghalaya releases; environment laws/rules against India Code, MoEFCC and CPCB. Solid Waste Management Rules 2026 were checked and the superseded 2016 Rules were not used. CBIC Instruction No. 02/2026-GST dated 30 October 2026 was also reviewed. It is addressed to Central Tax field formations; State GST formations may issue similar instructions, and no separate Meghalaya State instruction was located in the official public sources searched. The statutory document-carrying requirement in section 68 remains distinct from the instruction's transit-interception procedures. Current-affairs items were checked against Meghalaya I&PR PR Nos. 182/26, 181/26, 180/26 and 175/26, the official NEC October fund-release PDF and the Government FOCUS Plus release. The EUFF question uses the post-screening Government release, which confirms the 31st edition and the 12–18 November Shillong run. Additional current-law review on 2026-11-24 covered Finance Act 2026 sections 153–155 effective 2026-11-01; Notification 05/2026-Central Tax (G.S.R. 919(E)) and its 2026-11-18 corrigendum; the 2026-11-20 GSTN Metro Rail mode update; and Meghalaya Taxation Department's official GST notification index. Question 9430 is CGST Act section 62, not CGST Rules rule 62(5). No 2026 Meghalaya State Tax instruction corresponding to CBIC Instruction 02/2026 was visible in the public index checked; this is recorded as an evidence limitation, not proof of absence. The Notification 05/2026 Gazette text was reviewed from a hosted copy because its direct CBIC portal record was not retrieved; the 18 November corrigendum was linked from the official CBIC tax-information portal. The Metro Rail advisory item is supporting context from a secondary tax update, not a question in this batch. A fresh token-Jaccard review against actual PYQ question text found seven candidate–PYQ pairs at or above 0.40. Three pairs for Q9462 were false positives: the new semicolon rule differs from PYQ article, tense and pronoun questions. Q9465 (boats-and-streams upstream speed) and Q9475 (percentage change in square area) were rejected as near-duplicate calculation skills. Their two replacement questions test LCM of recurring inspection intervals and dependent probability without replacement. The 4/6 red-blue token probability candidate was also rejected after matching Investigator Housing 2024 Q124 (same bag, draw sequence and without-replacement calculation; only the requested colour event differed). It was replaced with a distinct two-die sum probability question. A full-bank semantic review also found two active-bank Jaccard pairs at or above 0.45 (Q9458 vocabulary and Q9461 sentence-correction template); both were false positives with different tested words/rules. Q9464 harmonic-mean average speed was retained as distinct from basic distance/time speed. Q9511 the 1858 Act was retained as distinct from the 1935 Act. Q9529 plastic EPR was rejected because it repeats the active e-waste EPR responsibility learning objective. It was replaced with a Noise Rules residential daytime standard question. Final full-bank review totals: eight raw PYQ near-match pairs at Jaccard ≥0.40 were reviewed (five candidate pairs rejected across Q9465, Q9475 and Q9540; three Q9462 pairs were false positives). Two active-bank near-match pairs at Jaccard ≥0.45 were reviewed (Q9458 and Q9461 false positives). Q9529 was separately rejected for EPR concept overlap with active Q9299 even though its lexical Jaccard score was below the threshold. No unresolved semantic collisions remain.",
     "primarySources": [
       "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
       "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
@@ -348,7 +380,8 @@
       "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_251.pdf",
       "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
       "https://www.meggst.gov.in/gst/gst.html",
-      "https://www.meggst.gov.in/gst/tax_notifications_2025.html"
+      "https://www.meggst.gov.in/gst/tax_notifications_2025.html",
+      "https://cpcb.nic.in/displaypdf.php?id=Tm9pc2UtU3RhbmRhcmRzL25vaXNlX3J1bGVzXzIwMDAucGRm"
     ],
     "supportingSecondarySources": [
       "https://taxguru.in/wp-content/uploads/2026/10/central-tax-notification-no-05-2026-gst-rules-amended-for-2026-27.pdf",
@@ -379,5 +412,52 @@
   "serviceWorkerCache": "mpsc-smart-study-v5-60-20261124",
   "branch": "daily-2026-11-24-original-practice",
   "pullRequest": null,
-  "baseMainSha": "5888fc51255b73e0b64c302b5f392522a1e251be"
+  "baseMainSha": "5888fc51255b73e0b64c302b5f392522a1e251be",
+  "semanticScanMethod": "Token Jaccard over normalized raw PYQ and active question stems after conservative function-word removal; thresholds 0.40 for 2,572 PYQ records and 0.45 for 1,288 pre-run active questions; all threshold matches manually reviewed.",
+  "rawPyqNearMatchPairSummary": [
+    {
+      "candidateId": 9462,
+      "pairs": 3,
+      "decision": "false_positive",
+      "reason": "Semicolon punctuation rule differs from PYQ definite-article, tense and pronoun questions."
+    },
+    {
+      "candidateId": 9465,
+      "pairs": 3,
+      "decision": "rejected",
+      "reason": "Boats-and-streams upstream/downstream speed calculation overlap."
+    },
+    {
+      "candidateId": 9475,
+      "pairs": 1,
+      "decision": "rejected",
+      "reason": "Same linear-dimension-to-area percentage-change calculation as a cube-surface-area PYQ."
+    },
+    {
+      "candidateId": 9540,
+      "pairs": 1,
+      "decision": "rejected",
+      "reason": "Same 4-red/6-blue two-draw without-replacement probability setup as an official PYQ."
+    }
+  ],
+  "rawActiveNearMatchPairSummary": [
+    {
+      "candidateId": 9458,
+      "matchId": 6113,
+      "decision": "false_positive",
+      "reason": "Abrogate versus meticulous; unrelated vocabulary terms and meanings."
+    },
+    {
+      "candidateId": 9461,
+      "matchId": 206,
+      "decision": "false_positive",
+      "reason": "Whom after a preposition versus third-person singular do/does; distinct grammar skills."
+    },
+    {
+      "candidateId": 9529,
+      "matchId": 9299,
+      "decision": "rejected",
+      "reason": "Plastic and e-waste EPR questions test the same producer-responsibility learning objective."
+    }
+  ]
 }
