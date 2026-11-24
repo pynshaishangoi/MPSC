@@ -3,7 +3,7 @@
   "date": "2026-11-24",
   "baseMainSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
   "canonical": {
-    "questionCount": 1405,
+    "questionCount": 1406,
     "activeFingerprints": [
       {
         "i": "1",
@@ -26879,6 +26879,27 @@
           "e6a718b0",
           "f785ce49"
         ]
+      },
+      {
+        "i": "9538",
+        "c": "GST / Inspector of Taxes",
+        "p": "index.html",
+        "s": "7e3cc445",
+        "o": "7ac2c58c",
+        "a": "f8e66fe4",
+        "t": "d6bbbde5",
+        "k": "0d66b80f",
+        "w": [
+          "40293d93",
+          "5839cd41",
+          "5fb91e8c",
+          "84e3a65f",
+          "899b4092",
+          "add0b407",
+          "bc493c67",
+          "f0d3a4be",
+          "f0fb290b"
+        ]
       }
     ],
     "fingerprintAlgorithm": "FNV-1a 32-bit over NFKD/lowercase/punctuation-insensitive normalized text; stem hash over normalized stem; option hash over sorted normalized options joined by spaces; answer hash over normalized correct option; topic hash over normalized topic; concept hash over normalized category, topic and sorted non-stopword stem tokens; w contains sorted token hashes.",
@@ -26888,9 +26909,9 @@
     "postMergeParityVerified": false,
     "proposedTreeParityVerified": true,
     "postMergeQuestionCount": 1288,
-    "proposedQuestionCount": 1405,
+    "proposedQuestionCount": 1406,
     "activeQuestionCountBeforeRun": 1288,
-    "buildMarker": "2026-11-24-original-practice-117",
+    "buildMarker": "2026-11-24-original-practice-118",
     "serviceWorkerCache": "mpsc-smart-study-v5-60-20261124"
   },
   "officialPyq": {
@@ -26903,7 +26924,7 @@
   },
   "archive": {
     "fileCount": 22,
-    "questionCount": 813,
+    "questionCount": 814,
     "mirrorParityVerified": false,
     "archiveRecordsAreMirrors": true,
     "excludedFromUniqueComparisonCount": true,
@@ -26953,8 +26974,8 @@
   },
   "candidateScan": {
     "target": 130,
-    "drafted": 130,
-    "accepted": 117,
+    "drafted": 131,
+    "accepted": 118,
     "rejected": 13,
     "exactStemCollisions": 0,
     "optionSetCollisions": 0,
@@ -26968,7 +26989,7 @@
     "activeNearMatchesReviewed": 0,
     "pyqNearMatches": 0,
     "comparisonCorpusRecords": 3860,
-    "comparisonCorpusRecordsAfterMerge": 3977,
+    "comparisonCorpusRecordsAfterMerge": 3978,
     "rejectedCandidates": [
       {
         "candidateId": "R24-01",
@@ -27046,15 +27067,17 @@
       "acceptedNearMatches": 0,
       "rejectedNearMatches": 13,
       "notes": "Candidate 9480 was rejected as a superficial alphabet-series variant of active question 7210. Candidate 9463 was replaced with a distinct comply-with collocation after review found overlap with active third-conditional question 9122."
-    }
+    },
+    "candidateAcceptanceRate": 0.9007633587786259,
+    "targetAchievementRate": 0.9076923076923077
   },
   "sourceInventory": {
     "activeQuestionsBeforeRun": 1288,
-    "activeQuestionsInProposedBuild": 1405,
+    "activeQuestionsInProposedBuild": 1406,
     "questionBatchArchivesBeforeRun": 21,
     "questionBatchArchiveRecordsBeforeRun": 696,
     "questionBatchArchivesInProposedBuild": 22,
-    "questionBatchArchiveRecordsInProposedBuild": 813,
+    "questionBatchArchiveRecordsInProposedBuild": 814,
     "officialPyqFiles": 18,
     "officialPyqQuestionRecords": 2433,
     "allPyqQuestionFiles": 19,
@@ -27068,7 +27091,7 @@
     "otherQuestionBankFilesOutsideCanonicalArchivesAndPyq": 0,
     "unlistedQuestionBatchFiles": 0,
     "comparisonCorpusRecordsBeforeRun": 3860,
-    "comparisonCorpusRecordsAfterProposedMerge": 3977
+    "comparisonCorpusRecordsAfterProposedMerge": 3978
   },
   "sourceChangesSincePriorAudit": {
     "questionStemsOptionsAnswersUnchanged": true,
@@ -27130,10 +27153,10 @@
   },
   "postMergeMainSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
   "branch": "daily-2026-11-24-original-practice",
-  "proposedBuildMarker": "2026-11-24-original-practice-117",
+  "proposedBuildMarker": "2026-11-24-original-practice-118",
   "sourceReview": {
     "verifiedDate": "2026-11-24",
-    "notes": "GST questions checked against India Code CGST Act consolidated as on 11 June 2026; Constitution against Legislative Department text; Meghalaya facts against Government state/district profiles; current affairs against dated Meghalaya releases; environment laws/rules against India Code, MoEFCC and CPCB. Solid Waste Management Rules 2026 were checked and the superseded 2016 Rules were not used.",
+    "notes": "GST questions checked against India Code CGST Act consolidated as on 11 June 2026; Constitution against Legislative Department text; Meghalaya facts against Government state/district profiles; current affairs against dated Meghalaya releases; environment laws/rules against India Code, MoEFCC and CPCB. Solid Waste Management Rules 2026 were checked and the superseded 2016 Rules were not used. CBIC Instruction No. 02/2026-GST dated 30 October 2026 was also reviewed. It is addressed to Central Tax field formations; State GST formations may issue similar instructions, and no separate Meghalaya State instruction was located in the official public sources searched. The statutory document-carrying requirement in section 68 remains distinct from the instruction's transit-interception procedures.",
     "primarySources": [
       "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
       "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
@@ -27153,7 +27176,72 @@
       "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf",
       "https://megipr.gov.in/pr/PR-2026-11.html",
       "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_240.pdf",
-      "https://meghalaya.gov.in/index.php/press/content/51866"
+      "https://meghalaya.gov.in/index.php/press/content/51866",
+      "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions"
     ]
+  },
+  "legalVerification": {
+    "asOf": "2026-11-24",
+    "cgstActConsolidatedDate": "2026-06-11",
+    "testedSections": [
+      "2(47)",
+      "2(68)",
+      "2(78)",
+      "Schedule I",
+      "Schedule III",
+      "8",
+      "9(3)",
+      "57",
+      "59",
+      "60",
+      "62",
+      "63",
+      "64",
+      "67",
+      "68",
+      "97",
+      "103"
+    ],
+    "financeAct2026Amendments": {
+      "effectiveDate": "2026-11-01",
+      "amendedSections": [
+        "15",
+        "34",
+        "54"
+      ],
+      "overlapWithTestedSections": false
+    },
+    "environmentReferences": [
+      "Water Act 1974",
+      "Air Act 1981",
+      "Wild Life (Protection) Act 1972",
+      "National Green Tribunal Act 2010",
+      "Wetlands Rules 2017",
+      "Plastic Waste Management EPR",
+      "Solid Waste Management Rules 2026 effective 2026-04-01"
+    ],
+    "sourceURLs": [
+      "https://dictionary.cambridge.org/dictionary/english/comply",
+      "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+      "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+      "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf",
+      "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions"
+    ],
+    "cbicInstruction": {
+      "reference": "Instruction No. 02/2026-GST",
+      "date": "2026-10-30",
+      "officialURL": "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+      "interim": true,
+      "scope": "Central Tax field formations under CBIC",
+      "topics": [
+        "No further GST arrests by Central Tax field formations",
+        "Intelligence-based and authorised conveyance interception",
+        "Restrictions on transit-state detention and confiscation",
+        "No show-cause notices below ₹10,000 under sections 73, 74 and 74A"
+      ],
+      "stateGSTApplicability": "No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was located in official public sources searched on 2026-11-24; do not assume the Central Tax instruction automatically applies to Meghalaya State GST formations.",
+      "effectOnSection68Question": "The instruction changes conveyance interception procedures; it does not remove the prescribed document-carrying obligation tested separately under section 68."
+    },
+    "meghalayaStateInstructionStatus": "No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was located in official public sources searched on 2026-11-24; do not assume the Central Tax instruction automatically applies to Meghalaya State GST formations."
   }
 }
