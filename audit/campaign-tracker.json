@@ -146,7 +146,11 @@
       "Quit India Movement launch year",
       "GST e-way bill distance validity",
       "GST blocked ITC on works contracts",
-      "Alphabet series — increasing odd gaps"
+      "Alphabet series — increasing odd gaps",
+      "Boats and streams — upstream speed",
+      "Mensuration — percentage change in square area",
+      "Probability — two draws without replacement",
+      "Plastic Waste Management — extended producer responsibility"
     ],
     "sourceReview": {
       "verifiedDate": "2026-11-24",
@@ -324,7 +328,7 @@
     "canonicalEmbeddedParityVerified": true,
     "liveDeploymentVerified": false,
     "repositoryTestsPassed": true,
-    "currentActiveQuestions": 1288,
+    "currentActiveQuestions": 1406,
     "pullRequestState": "merged",
     "mainShaAtStartOfRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
     "proposedMainQuestionCount": 1406,
@@ -445,13 +449,19 @@
     "pagesDeploymentRunId": 45331855960,
     "pagesBuildConclusion": "success",
     "mainShaAfterMerge": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
-    "liveDeploymentNote": "GitHub Pages build/deployment workflow completed successfully, but the verification client could not fetch the live Pages URL to confirm that it serves build marker 2026-11-24-original-practice-118; live content remains unverified.",
+    "liveDeploymentNote": "GitHub Pages build/deployment workflow completed successfully, but the verification client could not fetch the live Pages URL to confirm build marker 2026-11-24-original-practice-118; live content remains unverified.",
     "cumulativeUniqueAdditionsAfterRun": 525,
     "remainingTo10000AfterRun": 8594,
     "currentDailyTargetAfterRun": 150,
     "nextDailyTargetAfterRun": 150,
     "pagesWorkflowRunId": 45331855960,
-    "pagesWorkflowStatus": "success"
+    "pagesWorkflowStatus": "success",
+    "currentDailyTarget": 150,
+    "validationWorkflowRunId": 45331856742,
+    "validationWorkflowStatus": "success",
+    "currentMainShaAtRunEnd": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+    "activeFingerprintCount": 1406,
+    "fingerprintAlgorithm": "fnv1a-32bit-normalized-stem-options-answer-topic-and-token-hashes-v2"
   },
   "nextDailyTarget": 150,
   "cumulativeUniqueAdditionsSinceRampStart": 525,
@@ -903,7 +913,11 @@
       "Quit India Movement launch year",
       "GST e-way bill distance validity",
       "GST blocked ITC on works contracts",
-      "Alphabet series — increasing odd gaps"
+      "Alphabet series — increasing odd gaps",
+      "Boats and streams — upstream speed",
+      "Mensuration — percentage change in square area",
+      "Probability — two draws without replacement",
+      "Plastic Waste Management — extended producer responsibility"
     ],
     "sourceReview": {
       "verifiedDate": "2026-11-24",
@@ -1081,7 +1095,7 @@
     "canonicalEmbeddedParityVerified": true,
     "liveDeploymentVerified": false,
     "repositoryTestsPassed": true,
-    "currentActiveQuestions": 1288,
+    "currentActiveQuestions": 1406,
     "pullRequestState": "merged",
     "mainShaAtStartOfRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
     "proposedMainQuestionCount": 1406,
@@ -1202,13 +1216,19 @@
     "pagesDeploymentRunId": 45331855960,
     "pagesBuildConclusion": "success",
     "mainShaAfterMerge": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
-    "liveDeploymentNote": "GitHub Pages build/deployment workflow completed successfully, but the verification client could not fetch the live Pages URL to confirm that it serves build marker 2026-11-24-original-practice-118; live content remains unverified.",
+    "liveDeploymentNote": "GitHub Pages build/deployment workflow completed successfully, but the verification client could not fetch the live Pages URL to confirm build marker 2026-11-24-original-practice-118; live content remains unverified.",
     "cumulativeUniqueAdditionsAfterRun": 525,
     "remainingTo10000AfterRun": 8594,
     "currentDailyTargetAfterRun": 150,
     "nextDailyTargetAfterRun": 150,
     "pagesWorkflowRunId": 45331855960,
-    "pagesWorkflowStatus": "success"
+    "pagesWorkflowStatus": "success",
+    "currentDailyTarget": 150,
+    "validationWorkflowRunId": 45331856742,
+    "validationWorkflowStatus": "success",
+    "currentMainShaAtRunEnd": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+    "activeFingerprintCount": 1406,
+    "fingerprintAlgorithm": "fnv1a-32bit-normalized-stem-options-answer-topic-and-token-hashes-v2"
   },
   "completedRun23": {
     "date": "2026-11-23",
