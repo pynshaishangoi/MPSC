@@ -259,7 +259,7 @@
   },
   "sourceReview": {
     "verifiedDate": "2026-11-24",
-    "notes": "GST questions checked against India Code CGST Act consolidated as on 11 June 2026; Constitution against Legislative Department text; Meghalaya facts against Government state/district profiles; current affairs against dated Meghalaya releases; environment laws/rules against India Code, MoEFCC and CPCB. Solid Waste Management Rules 2026 were checked and the superseded 2016 Rules were not used. CBIC Instruction No. 02/2026-GST dated 30 October 2026 was also reviewed. It is addressed to Central Tax field formations; State GST formations may issue similar instructions, and no separate Meghalaya State instruction was located in the official public sources searched. The statutory document-carrying requirement in section 68 remains distinct from the instruction's transit-interception procedures.",
+    "notes": "GST questions checked against India Code CGST Act consolidated as on 11 June 2026; Constitution against Legislative Department text; Meghalaya facts against Government state/district profiles; current affairs against dated Meghalaya releases; environment laws/rules against India Code, MoEFCC and CPCB. Solid Waste Management Rules 2026 were checked and the superseded 2016 Rules were not used. CBIC Instruction No. 02/2026-GST dated 30 October 2026 was also reviewed. It is addressed to Central Tax field formations; State GST formations may issue similar instructions, and no separate Meghalaya State instruction was located in the official public sources searched. The statutory document-carrying requirement in section 68 remains distinct from the instruction's transit-interception procedures. Current-affairs items were checked against Meghalaya I&PR PR Nos. 182/26, 181/26, 180/26 and 175/26, the official NEC October fund-release PDF and the Government FOCUS Plus release. The EUFF question uses the post-screening Government release, which confirms the 31st edition and the 12–18 November Shillong run.",
     "primarySources": [
       "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
       "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
@@ -280,7 +280,8 @@
       "https://megipr.gov.in/pr/PR-2026-11.html",
       "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_240.pdf",
       "https://meghalaya.gov.in/index.php/press/content/51866",
-      "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions"
+      "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+      "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_251.pdf"
     ]
   },
   "mergeStatus": "pending_merge",
