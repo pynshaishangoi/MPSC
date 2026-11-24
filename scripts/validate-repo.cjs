@@ -223,7 +223,7 @@ for (const question of expansionBatch22.questions) {
 if (expansionBatch22.deduplication?.exactStemCollisions !== 0 || expansionBatch22.deduplication?.optionSetCollisions !== 0 || expansionBatch22.deduplication?.nearSemanticCandidatesRejected !== 15 || expansionBatch22.deduplication?.existingBankNearDuplicateCandidatesRejected !== 1 || expansionBatch22.deduplication?.withinBatchNearDuplicatePairs !== 2 || expansionBatch22.deduplication?.finalBatchNearPairs !== 0 || expansionBatch22.deduplication?.unresolvedSemanticCollisions !== 0 || expansionBatch22.deduplication?.optionOnlyFingerprintMatchesReviewed !== 6 || expansionBatch22.deduplication?.existingBankNearDuplicateDetails?.length !== 1) fail('22 November batch collision audit is incomplete');
 if (expansionBatch22.legalVerification?.asOf !== '2026-11-22' || expansionBatch22.legalVerification?.testedSections?.join(',') !== '16(4),17(5)(a),17(5)(c),17(5)(h),18(1)(a),56') fail('22 November GST legal verification is missing or incomplete');
 if (!sw.includes('./question-batches/2026-11-22-original-practice.json')) fail('service worker does not precache 22 November original-practice archive');
-if (!sw.includes('mpsc-smart-study-v5-60-20261124')) fail('service-worker cache version was not advanced for 22 November');
+if (!sw.includes('mpsc-smart-study-v5-61-20261124')) fail('service-worker cache version was not advanced for 22 November');
 if (!html.includes('mpsc-build') || !html.includes('2026-11-24-original-practice-118') || !html.includes('Q.length') || /fetch\([^)]*question-batches/.test(html)) fail('22 November build marker, Q.length dashboard count or offline-first loader is incorrect');
 
 const dedupIndex21 = jsonFile('audit/dedup-index-2026-11-21.json');
