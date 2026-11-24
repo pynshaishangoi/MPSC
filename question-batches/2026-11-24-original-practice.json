@@ -29,7 +29,7 @@
   "label": "Original Practice",
   "sourceReview": {
     "verifiedDate": "2026-11-24",
-    "notes": "GST questions checked against India Code CGST Act consolidated as on 11 June 2026; Constitution against Legislative Department text; Meghalaya facts against Government state/district profiles; current affairs against dated Meghalaya releases; environment laws/rules against India Code, MoEFCC and CPCB. Solid Waste Management Rules 2026 were checked and the superseded 2016 Rules were not used.",
+    "notes": "GST questions checked against India Code CGST Act consolidated as on 11 June 2026; Constitution against Legislative Department text; Meghalaya facts against Government state/district profiles; current affairs against dated Meghalaya releases; environment laws/rules against India Code, MoEFCC and CPCB. Solid Waste Management Rules 2026 were checked and the superseded 2016 Rules were not used. CBIC Instruction No. 02/2026-GST dated 30 October 2026 was also reviewed. It is addressed to Central Tax field formations; State GST formations may issue similar instructions, and no separate Meghalaya State instruction was located in the official public sources searched. The statutory document-carrying requirement in section 68 remains distinct from the instruction's transit-interception procedures.",
     "primarySources": [
       "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
       "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
@@ -4322,7 +4322,8 @@
       "https://dictionary.cambridge.org/dictionary/english/comply",
       "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
       "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
-      "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf"
+      "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf",
+      "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions"
     ],
     "cbicInstruction": {
       "reference": "Instruction No. 02/2026-GST",
@@ -4336,8 +4337,9 @@
         "Restrictions on transit-state detention and confiscation",
         "No show-cause notices below ₹10,000 under sections 73, 74 and 74A"
       ],
-      "stateGSTApplicability": "The instruction requests circulation to State GST formations, which may issue similar directions if they consider it appropriate; no automatic Meghalaya State GST applicability is assumed.",
+      "stateGSTApplicability": "No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was located in official public sources searched on 2026-11-24; do not assume the Central Tax instruction automatically applies to Meghalaya State GST formations.",
       "effectOnSection68Question": "The instruction changes conveyance interception procedures; it does not remove the prescribed document-carrying obligation tested separately under section 68."
-    }
+    },
+    "meghalayaStateInstructionStatus": "No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was located in official public sources searched on 2026-11-24; do not assume the Central Tax instruction automatically applies to Meghalaya State GST formations."
   }
 }
