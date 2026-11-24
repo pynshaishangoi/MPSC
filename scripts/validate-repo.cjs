@@ -223,7 +223,7 @@ for (const question of expansionBatch22.questions) {
 if (expansionBatch22.deduplication?.exactStemCollisions !== 0 || expansionBatch22.deduplication?.optionSetCollisions !== 0 || expansionBatch22.deduplication?.nearSemanticCandidatesRejected !== 15 || expansionBatch22.deduplication?.existingBankNearDuplicateCandidatesRejected !== 1 || expansionBatch22.deduplication?.withinBatchNearDuplicatePairs !== 2 || expansionBatch22.deduplication?.finalBatchNearPairs !== 0 || expansionBatch22.deduplication?.unresolvedSemanticCollisions !== 0 || expansionBatch22.deduplication?.optionOnlyFingerprintMatchesReviewed !== 6 || expansionBatch22.deduplication?.existingBankNearDuplicateDetails?.length !== 1) fail('22 November batch collision audit is incomplete');
 if (expansionBatch22.legalVerification?.asOf !== '2026-11-22' || expansionBatch22.legalVerification?.testedSections?.join(',') !== '16(4),17(5)(a),17(5)(c),17(5)(h),18(1)(a),56') fail('22 November GST legal verification is missing or incomplete');
 if (!sw.includes('./question-batches/2026-11-22-original-practice.json')) fail('service worker does not precache 22 November original-practice archive');
-if (!sw.includes('mpsc-smart-study-v5-60-20261124')) fail('service-worker cache version was not advanced for 22 November');
+if (!sw.includes('mpsc-smart-study-v5-61-20261124')) fail('service-worker cache version was not advanced for 22 November');
 if (!html.includes('mpsc-build') || !html.includes('2026-11-24-original-practice-118') || !html.includes('Q.length') || /fetch\([^)]*question-batches/.test(html)) fail('22 November build marker, Q.length dashboard count or offline-first loader is incorrect');
 
 const dedupIndex21 = jsonFile('audit/dedup-index-2026-11-21.json');
@@ -400,6 +400,37 @@ const pyqCatalogue = jsonFile('pyq-papers/index.json');
 if (pyqCatalogue.schemaVersion !== 1 || !Array.isArray(pyqCatalogue.papers)) fail('exact PYQ catalogue schema is invalid');
 if (!sw.includes('./pyq-papers/index.json')) fail('service worker does not precache the exact PYQ catalogue');
 if (!script.includes('function startExactPyq()') || !script.includes('function submitExactPyq()') || !script.includes('loadExactPyqCatalogue()')) fail('separate interactive exact-PYQ runner is missing');
+
+const exactLdaPaper = jsonFile('pyq-papers/lda-secretariat-2025-series-i.json');
+const exactLdaRecord = pyqCatalogue.papers.find(p=>p.id==='meghalaya-pyq-002');
+if (!exactLdaRecord || exactLdaRecord.complete!==true || exactLdaRecord.status!=='complete' || exactLdaRecord.transcribedQuestions!==150 || exactLdaRecord.totalQuestions!==150 || exactLdaRecord.durationMinutes!==150 || exactLdaRecord.marksPerQuestion!==2 || exactLdaRecord.fullMarks!==300 || exactLdaRecord.negativeMarking!==false) fail('LDA Secretariat Series I catalogue metadata is incomplete or not ready for a full timed exam');
+if (exactLdaPaper.complete!==true || exactLdaPaper.questions.length!==150 || exactLdaPaper.transcribedQuestions!==150) fail('LDA Secretariat Series I must contain a complete 150-question transcription');
+if (exactLdaPaper.questions.some((q,i)=>q.number!==i+1 || !q.id || !q.text || !Array.isArray(q.options) || q.options.length!==4 || q.options.some(o=>typeof o!=='string'||!o.trim()) || !q.explanation)) fail('LDA Secretariat Series I has a missing/out-of-order question, option or explanation');
+if (new Set(exactLdaPaper.questions.map(q=>q.id)).size!==150) fail('LDA Secretariat Series I question IDs are not unique');
+const unresolvedExactLda = exactLdaPaper.questions.filter(q=>q.answerIndex===null).map(q=>q.number);
+if (unresolvedExactLda.join(',')!=='27,141,148' || exactLdaPaper.questions.filter(q=>Number.isInteger(q.answerIndex)).length!==147) fail('LDA Secretariat Series I must have exactly three explicitly unscored questions and 147 scoreable answers');
+if (exactLdaPaper.questions.filter(q=>Number.isInteger(q.officialAnswerIndex)).length!==150 || exactLdaPaper.officialAnswerKey.verification.storedOfficialAnswerIndicesMatched!==150) fail('LDA Secretariat Series I official key cross-check must cover all 150 questions');
+const exactLdaConflicts = exactLdaPaper.questions.filter(q=>Number.isInteger(q.answerIndex)&&q.answerIndex!==q.officialAnswerIndex).map(q=>q.number);
+if (exactLdaConflicts.join(',')!=='133') fail('LDA Secretariat Series I must identify Q133 as the only independent/official-key conflict');
+if (exactLdaPaper.questions.filter(q=>q.section==='Part A — General English').length!==75 || exactLdaPaper.questions.filter(q=>q.section==='Part B — General Awareness & Aptitude').length!==75) fail('LDA Secretariat Series I section counts must remain 75 + 75');
+if ([1,6,11,16,21,26,31,36,41,46].some(n=>!exactLdaPaper.questions.find(q=>q.number===n)?.sectionInstruction)) fail('LDA Secretariat Series I is missing one or more original direction groups');
+if (!exactLdaPaper.questions.find(q=>q.number===1)?.passage || !exactLdaPaper.questions.find(q=>q.number===41)?.passage) fail('LDA Secretariat Series I reading or cloze passage is missing');
+if (exactLdaPaper.questions.filter(q=>q.targetWord).length!==10) fail('LDA Secretariat Series I underlined idiom/error targets are not fully represented');
+if (!exactLdaPaper.questions.find(q=>q.number===41).text.includes('42') || /mind in order/i.test(exactLdaPaper.questions.find(q=>q.number===41).text)) fail('LDA Secretariat Series I Q41 must preserve the numbered blank 42, not fill it with the answer');
+if (!exactLdaPaper.questions.find(q=>q.number===148).text.includes('son of Q') || exactLdaPaper.questions.find(q=>q.number===148).text.includes('son of O')) fail('LDA Secretariat Series I Q148 must match the source-printed relationship letter Q');
+if (!Array.isArray(exactLdaPaper.candidateInstructions) || exactLdaPaper.candidateInstructions.length!==10 || exactLdaPaper.durationMinutes!==150 || exactLdaPaper.marksPerQuestion!==2 || exactLdaPaper.fullMarks!==300 || exactLdaPaper.negativeMarking!==false) fail('LDA Secretariat Series I original timing, marks or candidate instructions are missing');
+if (exactLdaPaper.dedupAudit.exactDuplicatesWithinThisPaper!==0 || exactLdaPaper.dedupAudit.newMainArchiveReview?.recordsChecked!==219 || exactLdaPaper.dedupAudit.newMainArchiveReview?.exactFullQuestionAndOptionMatches!==0) fail('LDA Secretariat Series I duplicate audit is incomplete');
+if (!sw.includes('./pyq-papers/lda-secretariat-2025-series-i.json')) fail('service worker does not precache the complete LDA Secretariat Series I paper');
+if (!script.includes('q.passage') || !script.includes('q.section') || !script.includes('q.sectionInstruction') || !script.includes('q.targetWord') || !script.includes('Unscored item')) fail('exact-PYQ runner does not render original passages, sections, directions, underlining and unscored labels');
+if (!script.includes('paper.marksPerQuestion') || !script.includes('function calculateExactPyqScore')) fail('exact-PYQ runner does not use the paper-specific mark value and unscored-aware score calculation');
+const scoreHelperMatch = script.match(/function calculateExactPyqScore\(questions,answers,marksPerQuestion\)\s*\{[\s\S]*?\n\}/);
+if (!scoreHelperMatch) fail('unscored-aware PYQ score helper is missing');
+const calculateExactPyqScore = vm.runInNewContext('('+scoreHelperMatch[0]+')');
+const scoreTest = calculateExactPyqScore([{number:1,answerIndex:1},{number:2,answerIndex:0},{number:3,answerIndex:null}],{1:1,2:2,3:3},2);
+if (scoreTest.totalQuestions!==3 || scoreTest.attempted!==3 || scoreTest.scoredQuestions!==2 || scoreTest.scoredAttempted!==2 || scoreTest.unscoredQuestions!==1 || scoreTest.unscoredAttempted!==1 || scoreTest.correct!==1 || scoreTest.incorrect!==1 || scoreTest.unanswered!==0 || scoreTest.totalMarks!==4 || scoreTest.marksObtained!==2 || scoreTest.originalFullMarks!==6 || scoreTest.excludedMarks!==2 || scoreTest.accuracy!==50 || scoreTest.scorePercent!==50) fail('unscored PYQ score test failed: unresolved attempts must not be counted as incorrect');
+const scoreTestUnanswered = calculateExactPyqScore([{number:1,answerIndex:1},{number:2,answerIndex:null}],{1:1},2);
+if (scoreTestUnanswered.unscoredQuestions!==1 || scoreTestUnanswered.unscoredAttempted!==0 || scoreTestUnanswered.unanswered!==1 || scoreTestUnanswered.incorrect!==0) fail('unanswered unscored PYQ item was not handled separately');
+
 if (!script.includes("x.difficulty!=='PYQ'")) fail('predicted mock pool must exclude all PYQ-tagged records');
 if (html.includes('PYQ + practice (fill test size)') || html.includes('PYQ practice only')) fail('mock-test UI still offers mixed or PYQ-only question sources');
 if (!html.includes('Predicted Mock — original practice questions only')) fail('mock-test UI must identify the separate predicted-practice mode');
@@ -410,7 +441,8 @@ console.log('Embedded questions: ' + embedded.length);
 console.log('Archived batches: ' + batchFiles.length + ' files / ' + archiveCount + ' mirrored questions (not runtime-loaded)');
 console.log('Active unique question records: ' + active.length);
 console.log('PYQ-tagged active records: ' + active.filter(q => q.difficulty === 'PYQ').length + ' (not complete papers)');
-console.log('LDA Secretariat Series I: ' + paperQuestions.length + '/150 transcribed and key-checked; 59 remain');
+console.log('Legacy LDA Secretariat practice records: ' + paperQuestions.length + '/150 independently checked');
+console.log('Exact LDA Secretariat Series I: 150 transcribed; 147 scoreable; 3 unscored; 1 independent/official-key disagreement');
 console.log('Study Notes: ' + subjectCount + ' subjects, ' + chapterCount + ' chapters');
 console.log('Structured explanations: ' + allStructured.size + ' unique IDs across History, Polity, English, Arithmetic, Meghalaya GK, General Studies, GST and Current Affairs');
 const latestFeed = jsonFile('current-affairs/2026-11-03.json');
@@ -427,7 +459,7 @@ if (new Set(ids23).size !== 101 || ids23.some(id=>!embeddedById.has(id))) fail('
 for (const q of expansionBatch23.questions) {
  if (!q.topic || !q.examTags || !q.examTags.length || !q.e || q.e.length < 70 || !q.source || !q.source.includes('not an official PYQ') || q.label !== 'Original Practice' || q.sourceType !== 'Original Practice' || !q.sourceName || !q.sourceURL || !q.sourceURL.startsWith('https://') || q.sourceVerifiedDate !== '2026-11-23' || !q.verificationStatus || q.answerIndex !== q.a) fail('23 November question ' + q.id + ' is missing explanation, source, date, tags or Original Practice label');
 }
-if (!sw.includes('./question-batches/2026-11-23-original-practice.json') || !sw.includes('mpsc-smart-study-v5-60-20261124')) fail('23 November archive or current service-worker cache version is missing');
+if (!sw.includes('./question-batches/2026-11-23-original-practice.json') || !sw.includes('mpsc-smart-study-v5-61-20261124')) fail('23 November archive or current service-worker cache version is missing');
 if (!html.includes('2026-11-24-original-practice-118') || !html.includes('Q.length')) fail('23 November build marker or Q.length dashboard count is missing');
 const dedupIndex23 = jsonFile('audit/dedup-index-2026-11-23.json');
 if (dedupIndex23.schemaVersion !== 8 || dedupIndex23.canonical.questionCount !== 1288 || dedupIndex23.canonical.activeFingerprints.length !== 1288 || dedupIndex23.officialPyq.questionCount !== 2433 || dedupIndex23.allPyqFiles.questionCount !== 2572 || dedupIndex23.archive.fileCount !== 21 || dedupIndex23.archive.questionCount !== 696 || dedupIndex23.candidateScan.drafted !== 110 || dedupIndex23.candidateScan.accepted !== 101 || dedupIndex23.candidateScan.rejected !== 9 || dedupIndex23.candidateScan.unresolved !== 0 || dedupIndex23.mergeStatus !== 'merged' || dedupIndex23.postMergeAudit !== true || dedupIndex23.mergedMainSha !== completedRun23.mergeCommitSha || dedupIndex23.archive.mirrorParityVerified !== true || dedupIndex23.canonical.postMergeParityVerified !== true) fail('23 November dedup index totals or candidate scan are incorrect');

@@ -483,8 +483,10 @@ function startExactPyq(){
    numbers.add(q.number);
    if(typeof q.text!=='string'||!q.text.trim()||!Array.isArray(q.options)||q.options.length!==4||q.options.some(function(o){return typeof o!=='string'||!o.trim()}))throw new Error('Question '+q.number+' is not a complete four-option MCQ.');
    if(q.answerIndex!==null&&q.answerIndex!==undefined&&(!Number.isInteger(q.answerIndex)||q.answerIndex<0||q.answerIndex>3))throw new Error('Question '+q.number+' has an invalid answer-key entry.');
+   if(q.answerIndex===null&&(!q.answerStatus||!q.explanation))throw new Error('Question '+q.number+' is unscored but has no explicit status or explanation.');
+   if(q.officialAnswerIndex!==undefined&&q.officialAnswerIndex!==null&&(!Number.isInteger(q.officialAnswerIndex)||q.officialAnswerIndex<0||q.officialAnswerIndex>3))throw new Error('Question '+q.number+' has an invalid official answer-key entry.');
   });
-  EXACT_PYQ_ACTIVE={paper:paper,questions:questions,partial:isPartial,startedAt:Date.now()};
+  EXACT_PYQ_ACTIVE={paper:Object.assign({},paper,data),questions:questions,partial:isPartial,startedAt:Date.now()};
   EXACT_PYQ_ANSWERS={};
   EXACT_PYQ_REMAINING=Math.max(1,Number(paper.durationMinutes)||150)*60;
   if(EXACT_PYQ_INTERVAL)clearInterval(EXACT_PYQ_INTERVAL);
@@ -498,7 +500,9 @@ function startExactPyq(){
    if(clock)clock.textContent=formatExactPyqTime(EXACT_PYQ_REMAINING);
    if(EXACT_PYQ_REMAINING===0)submitExactPyq(true);
   },1000);
-  if(info)info.textContent=(isPartial?'Partial practice set ready: ':'Paper checked: ')+questions.length+' questions. Original numbering, question order and option order are preserved. '+(isPartial?'This is not the complete 150-question paper.':'');
+  const scoreableCount=questions.filter(function(q){return Number.isInteger(q.answerIndex)}).length;
+  const unscoredCount=questions.length-scoreableCount;
+  if(info)info.textContent=(isPartial?'Partial practice set ready: ':'Paper checked: ')+questions.length+' questions ('+scoreableCount+' scoreable; '+unscoredCount+' unscored). Original numbering, question order and option order are preserved. '+(isPartial?'This is not the complete 150-question paper.':'');
  }).catch(function(err){if(info)info.textContent='Cannot start this paper: '+err.message;});
 }
 function formatExactPyqTime(seconds){
@@ -517,16 +521,53 @@ function renderExactPyqRunner(){
  const runner=document.getElementById('exactPyqRunner');
  if(!runner||!EXACT_PYQ_ACTIVE)return;
  const paper=EXACT_PYQ_ACTIVE.paper;
- runner.innerHTML='<div class="card"><div class="sectionTitle"><h3>'+esc(paper.title||paper.exam)+'</h3><span class="timer" id="exactPyqClock">'+formatExactPyqTime(EXACT_PYQ_REMAINING)+'</span></div><p class="small muted">'+esc(paper.exam)+' • '+esc(String(paper.year))+' • Series '+esc(String(paper.series))+' • '+EXACT_PYQ_ACTIVE.questions.length+' available questions'+(EXACT_PYQ_ACTIVE.partial?' of '+paper.totalQuestions+' original questions':'')+'</p>'+(EXACT_PYQ_ACTIVE.partial?'<div class="note"><b>Partial PYQ practice:</b> Only transcribed questions are included. Some original questions are excluded pending source/diagram checks. This is not a complete official examination.</div>':'')+'<p id="exactPyqProgress" class="small muted">0 / '+EXACT_PYQ_ACTIVE.questions.length+' answered</p><div class="progress"><div id="exactPyqBar" style="width:0%"></div></div><div id="exactPyqQuestions"></div><button class="btn good" type="button" onclick="submitExactPyq(false)">Submit examination</button></div>';
+ const questions=EXACT_PYQ_ACTIVE.questions;
+ const scoreable=questions.filter(function(q){return Number.isInteger(q.answerIndex)}).length;
+ const unscored=questions.length-scoreable;
+ const candidateInstructions=Array.isArray(paper.candidateInstructions)&&paper.candidateInstructions.length
+  ?'<div class="note"><b>Original booklet instructions</b><ol>'+paper.candidateInstructions.map(function(item){return '<li>'+esc(item)+'</li>'}).join('')+'</ol><p class="small muted">Online practice uses on-screen options; the original OMR instructions are reproduced for reference.</p></div>'
+  :'';
+ runner.innerHTML='<div class="card"><div class="sectionTitle"><h3>'+esc(paper.title||paper.exam)+'</h3><span class="timer" id="exactPyqClock">'+formatExactPyqTime(EXACT_PYQ_REMAINING)+'</span></div><p class="small muted">'+esc(paper.exam)+' • '+esc(String(paper.year))+' • Series '+esc(String(paper.series))+' • '+questions.length+' questions • '+scoreable+' scoreable • '+unscored+' unscored • '+(Number(paper.durationMinutes)||150)+' minutes • '+(Number(paper.fullMarks)||questions.length)+' original marks'+(paper.negativeMarking===false?' • No negative marking':'')+'</p>'+candidateInstructions+(EXACT_PYQ_ACTIVE.partial?'<div class="note"><b>Partial PYQ practice:</b> Only transcribed questions are included. Some original questions are excluded pending source/diagram checks. This is not a complete official examination.</div>':'')+'<p id="exactPyqProgress" class="small muted">0 / '+questions.length+' answered</p><div class="progress"><div id="exactPyqBar" style="width:0%"></div></div><div id="exactPyqQuestions"></div><button class="btn good" type="button" onclick="submitExactPyq(false)">Submit examination</button></div>';
  const list=document.getElementById('exactPyqQuestions');
- list.innerHTML=EXACT_PYQ_ACTIVE.questions.map(function(q){
+ let previousSection='';
+ list.innerHTML=questions.map(function(q){
   var stem=esc(q.text);
   if(q.targetWord){var target=esc(q.targetWord);var at=stem.toLowerCase().indexOf(target.toLowerCase());if(at>=0)stem=stem.slice(0,at)+'<em><u>'+stem.slice(at,at+target.length)+'</u></em>'+stem.slice(at+target.length);}
-  return (q.sectionInstruction?'<div class="note"><b>'+esc(q.sectionInstruction)+'</b></div>':'')+'<div class="q" id="exactPyqQ'+q.number+'"><b>Q'+q.number+'. '+stem+'</b>'+(q.diagramDescription?'<p class="small muted">'+esc(q.diagramDescription)+'</p>':'')+(q.diagramSvg==='triangle-count-source-figure'?'<svg viewBox="0 0 300 235" role="img" aria-label="Triangle counting diagram" style="display:block;max-width:280px;width:100%;height:auto;margin:12px auto"><path d="M150 8 L12 220 L288 220 Z M81 114 L219 114 M67 159 L233 159 M81 114 L150 220 M219 114 L150 220 M67 159 L150 220 M233 159 L150 220" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linejoin="round"/></svg>':'')+q.options.map(function(option,index){
+  var sectionHeading='';
+  if(q.section&&q.section!==previousSection){sectionHeading='<div class="note"><b>'+esc(q.section)+'</b></div>';previousSection=q.section;}
+  var directions=q.sectionInstruction?'<div class="note"><p style="white-space:pre-line">'+esc(q.sectionInstruction)+'</p></div>':'';
+  var passage=q.passage?'<div class="note"><b>Passage</b><p style="white-space:pre-line">'+esc(q.passage)+'</p></div>':'';
+  var unscoredLabel=q.answerIndex===null?'<span class="badge">Unscored item</span> ':'';
+  return sectionHeading+directions+passage+'<div class="q" id="exactPyqQ'+q.number+'"><b>Q'+q.number+'. '+unscoredLabel+stem+'</b>'+(q.diagramDescription?'<p class="small muted">'+esc(q.diagramDescription)+'</p>':'')+(q.diagramSvg==='triangle-count-source-figure'?'<svg viewBox="0 0 300 235" role="img" aria-label="Triangle counting diagram" style="display:block;max-width:280px;width:100%;height:auto;margin:12px auto"><path d="M150 8 L12 220 L288 220 Z M81 114 L219 114 M67 159 L233 159 M81 114 L150 220 M219 114 L150 220 M67 159 L150 220 M233 159 L150 220" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linejoin="round"/></svg>':'')+q.options.map(function(option,index){
    const checked=EXACT_PYQ_ANSWERS[q.number]===index?' checked':'';
    return '<label class="opt"><input type="radio" name="exactPyq'+q.number+'" value="'+index+'"'+checked+' onchange="setExactPyqAnswer('+q.number+','+index+')"> '+String.fromCharCode(65+index)+'. '+esc(option)+'</label>';
   }).join('')+'</div>';
  }).join('');
+}
+function calculateExactPyqScore(questions,answers,marksPerQuestion){
+ const summary={totalQuestions:questions.length,attempted:0,scoredQuestions:0,scoredAttempted:0,unscoredQuestions:0,unscoredAttempted:0,correct:0};
+ questions.forEach(function(q){
+  const selected=answers[q.number];
+  const attempted=selected!==undefined;
+  if(attempted)summary.attempted++;
+  if(Number.isInteger(q.answerIndex)&&q.answerIndex>=0&&q.answerIndex<4){
+   summary.scoredQuestions++;
+   if(attempted){summary.scoredAttempted++;if(selected===q.answerIndex)summary.correct++;}
+  }else{
+   summary.unscoredQuestions++;
+   if(attempted)summary.unscoredAttempted++;
+  }
+ });
+ summary.incorrect=summary.scoredAttempted-summary.correct;
+ summary.unanswered=summary.totalQuestions-summary.attempted;
+ summary.accuracy=summary.scoredAttempted?Math.round(summary.correct/summary.scoredAttempted*100):0;
+ summary.scorePercent=summary.scoredQuestions?Math.round(summary.correct/summary.scoredQuestions*100):0;
+ summary.marksPerQuestion=Number(marksPerQuestion)||1;
+ summary.totalMarks=summary.scoredQuestions*summary.marksPerQuestion;
+ summary.marksObtained=summary.correct*summary.marksPerQuestion;
+ summary.originalFullMarks=summary.totalQuestions*summary.marksPerQuestion;
+ summary.excludedMarks=summary.originalFullMarks-summary.totalMarks;
+ return summary;
 }
 function submitExactPyq(){
  const autoSubmit=arguments[0]===true;
@@ -534,27 +575,22 @@ function submitExactPyq(){
  if(EXACT_PYQ_INTERVAL){clearInterval(EXACT_PYQ_INTERVAL);EXACT_PYQ_INTERVAL=null;}
  const active=EXACT_PYQ_ACTIVE;
  const questions=active.questions;
- let verified=0,correct=0,answered=0;
- questions.forEach(function(q){
-  const selected=EXACT_PYQ_ANSWERS[q.number];
-  if(selected!==undefined)answered++;
-  if(Number.isInteger(q.answerIndex)&&q.answerIndex>=0&&q.answerIndex<4){
-   verified++;
-   if(selected===q.answerIndex)correct++;
-  }
- });
+ const marksPerQuestion=Number(active.paper&&active.paper.marksPerQuestion)||(active.paper&&active.paper.id==='meghalaya-pyq-001'?2:1);
+ const summary=calculateExactPyqScore(questions,EXACT_PYQ_ANSWERS,marksPerQuestion);
  const result=document.getElementById('exactPyqResult');
  const runner=document.getElementById('exactPyqRunner');
  if(runner)runner.innerHTML='';
  if(result){
-  const incorrect=answered-correct,unanswered=questions.length-answered,percent=verified?Math.round(correct/verified*100):0;
-  const marksPerQuestion=active.paper&&active.paper.id==='meghalaya-pyq-001'?2:1;
-  const totalMarks=verified*marksPerQuestion,marksObtained=correct*marksPerQuestion;
-  const scoreText=verified?'<div class="result">Score: '+marksObtained+' / '+totalMarks+' marks ('+percent+'%)</div>':'<div class="note">No verified answer key is available for this paper, so a score cannot be calculated yet. Your responses are shown below.</div>';
-  result.innerHTML='<div class="card"><h3>Full examination score card</h3>'+scoreText+'<div class="grid two"><div class="topic"><b>Total questions</b><span>'+questions.length+'</span></div><div class="topic"><b>Attempted</b><span>'+answered+'</span></div><div class="topic"><b>Correct</b><span>'+correct+'</span></div><div class="topic"><b>Incorrect</b><span>'+incorrect+'</span></div><div class="topic"><b>Unanswered</b><span>'+unanswered+'</span></div><div class="topic"><b>Accuracy</b><span>'+percent+'%</span></div><div class="topic"><b>Marks obtained</b><span>'+marksObtained+' / '+totalMarks+'</span></div><div class="topic"><b>Result basis</b><span>Independently solved key</span></div></div><p>'+(autoSubmit?'Automatically submitted when time expired.':'Submitted by candidate.')+'</p><h3>Answer review</h3><p class="small muted">Answer key independently solved from the paper; no official answer key was supplied.</p>'+questions.map(function(q){
+  const scoreText=summary.scoredQuestions
+   ?'<div class="result">Score: '+summary.marksObtained+' / '+summary.totalMarks+' scoreable marks ('+summary.scorePercent+'%)</div>'+(summary.excludedMarks?'<p class="small muted">'+summary.excludedMarks+' marks excluded because '+summary.unscoredQuestions+' question(s) are unscored. Original paper full marks: '+summary.originalFullMarks+'.</p>':'')
+   :'<div class="note">No defensible answer key is available for scoring this paper. Your responses are shown below.</div>';
+  const accuracyText=summary.scoredAttempted?summary.accuracy+'%':'—';
+  result.innerHTML='<div class="card"><h3>Full examination score card</h3>'+scoreText+'<div class="grid two"><div class="topic"><b>Total questions</b><span>'+summary.totalQuestions+'</span></div><div class="topic"><b>Attempted</b><span>'+summary.attempted+'</span></div><div class="topic"><b>Scored attempts</b><span>'+summary.scoredAttempted+'</span></div><div class="topic"><b>Correct</b><span>'+summary.correct+'</span></div><div class="topic"><b>Incorrect</b><span>'+summary.incorrect+'</span></div><div class="topic"><b>Unanswered</b><span>'+summary.unanswered+'</span></div><div class="topic"><b>Unscored items</b><span>'+summary.unscoredQuestions+'</span></div><div class="topic"><b>Unscored attempts</b><span>'+summary.unscoredAttempted+'</span></div><div class="topic"><b>Accuracy on scored attempts</b><span>'+accuracyText+'</span></div><div class="topic"><b>Scoreable marks</b><span>'+summary.marksObtained+' / '+summary.totalMarks+'</span></div><div class="topic"><b>Original full marks</b><span>'+summary.originalFullMarks+'</span></div><div class="topic"><b>Result basis</b><span>No negative marking; unresolved items excluded</span></div></div><p>'+(autoSubmit?'Automatically submitted when time expired.':'Submitted by candidate.')+'</p><h3>Answer review</h3><p class="small muted">Independently solved answers are used for scoring. The official MPSC key is shown separately; unresolved items are not scored.</p>'+questions.map(function(q){
    const selected=EXACT_PYQ_ANSWERS[q.number];
-   const key=Number.isInteger(q.answerIndex)?String.fromCharCode(65+q.answerIndex)+'. '+esc(q.options[q.answerIndex]):'Not verified';
-   return '<div class="q review"><b>Q'+q.number+'. '+esc(q.text)+'</b><p>Your answer: '+(selected===undefined?'Not answered':String.fromCharCode(65+selected)+'. '+esc(q.options[selected]))+'</p><p>Suggested answer: '+key+'</p>'+(q.explanation?'<div class="ex" style="display:block">'+esc(q.explanation)+'</div>':'')+'</div>';
+   const independent=Number.isInteger(q.answerIndex)?'Independent answer: '+String.fromCharCode(65+q.answerIndex)+'. '+esc(q.options[q.answerIndex]):'Independent answer: Unscored — no defensible option';
+   const official=Number.isInteger(q.officialAnswerIndex)?'<p>Official MPSC key: '+String.fromCharCode(65+q.officialAnswerIndex)+(q.answerIndex===q.officialAnswerIndex?' (agrees)':' (recorded separately; not used for scoring)')+'</p>':'';
+   const unscoredNote=q.answerIndex===null?'<p class="small muted">This item is excluded from the score because the printed stem/options do not support a defensible unique answer.</p>':'';
+   return '<div class="q review"><b>Q'+q.number+'. '+esc(q.text)+'</b><p>Your answer: '+(selected===undefined?'Not answered':String.fromCharCode(65+selected)+'. '+esc(q.options[selected]))+'</p><p>'+independent+'</p>'+official+unscoredNote+(q.explanation?'<div class="ex" style="display:block">'+esc(q.explanation)+'</div>':'')+'</div>';
   }).join('')+'</div>';
  }
  EXACT_PYQ_ACTIVE=null;
