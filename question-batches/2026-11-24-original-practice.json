@@ -2,12 +2,12 @@
   "date": "2026-11-24",
   "title": "24 November 2026 — Original Practice Question Batch",
   "target": 130,
-  "candidateCount": 130,
+  "candidateCount": 131,
   "rejectedCandidateCount": 13,
-  "acceptedUniqueQuestionCount": 117,
-  "questionIdRange": "9420-9537 (one candidate ID rejected)",
+  "acceptedUniqueQuestionCount": 118,
+  "questionIdRange": "9420-9538 (one candidate ID rejected)",
   "subjects": {
-    "GST / Inspector of Taxes": 18,
+    "GST / Inspector of Taxes": 19,
     "Meghalaya GK": 6,
     "Polity": 10,
     "English": 10,
@@ -49,7 +49,8 @@
       "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf",
       "https://megipr.gov.in/pr/PR-2026-11.html",
       "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_240.pdf",
-      "https://meghalaya.gov.in/index.php/press/content/51866"
+      "https://meghalaya.gov.in/index.php/press/content/51866",
+      "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions"
     ]
   },
   "rejectedCandidates": [
@@ -4097,6 +4098,40 @@
       "sourceURL": "https://meghalaya.gov.in/index.php/press/content/51866",
       "sourceVerifiedDate": "2026-11-24",
       "verificationStatus": "Verified against the linked reference on 2026-11-24; time-sensitive fact checked against the dated official release."
+    },
+    {
+      "id": 9538,
+      "cat": "GST / Inspector of Taxes",
+      "topic": "CBIC Instruction No. 02/2026-GST — scope",
+      "q": "Instruction No. 02/2026-GST dated 30 October 2026 is addressed directly to which group of officers?",
+      "o": [
+        "All State GST officers automatically",
+        "Central Tax field formations under CBIC",
+        "Members of the GST Council only",
+        "All district police officers"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Correct answer: Central Tax field formations under CBIC. The instruction is addressed to Principal Chief Commissioners and Chief Commissioners of Central Tax and Principal Directors General or Directors General of Central Tax. It asks the GST Council Secretariat to circulate a copy to State GST formations, which may issue similar instructions if they consider it appropriate; therefore, automatic application to every State GST formation must not be assumed.",
+      "difficulty": "Moderate",
+      "exam": "MPSC Inspector of Taxes; DSC East Khasi Hills LDA-cum-Typist; MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "GST / Inspector of Taxes",
+        "CBIC Instruction No. 02/2026-GST — scope",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — independently authored from CBIC Instruction No. 02/2026-GST, dated 30 October 2026; not an official PYQ.",
+      "sourceName": "CBIC — Instruction No. 02/2026-GST",
+      "sourceURL": "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+      "sourceVerifiedDate": "2026-11-24",
+      "verificationStatus": "Verified against the official CBIC instruction dated 30 October 2026 on 2026-11-24; interim direction to Central Tax field formations, with State GST applicability not assumed."
     }
   ],
   "questionIds": [
@@ -4216,7 +4251,8 @@
     9534,
     9535,
     9536,
-    9537
+    9537,
+    9538
   ],
   "deduplication": {
     "method": "Normalized exact-stem and option-set fingerprints plus token-level Jaccard semantic screening; all accepted questions were manually reviewed against the active bank and official PYQ corpus.",
@@ -4234,7 +4270,13 @@
     "unresolvedSemanticCollisions": 0,
     "pyqNearMatchesAtJaccard040": 0,
     "activeNearMatchesAtJaccard045": 0,
-    "rejectedCandidateCount": 13
+    "rejectedCandidateCount": 13,
+    "target": 130,
+    "drafted": 131,
+    "accepted": 118,
+    "rejected": 13,
+    "candidateAcceptanceRate": 0.9007633587786259,
+    "targetAchievementRate": 0.9076923076923077
   },
   "legalVerification": {
     "asOf": "2026-11-24",
@@ -4281,6 +4323,21 @@
       "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
       "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
       "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf"
-    ]
+    ],
+    "cbicInstruction": {
+      "reference": "Instruction No. 02/2026-GST",
+      "date": "2026-10-30",
+      "officialURL": "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+      "interim": true,
+      "scope": "Central Tax field formations under CBIC",
+      "topics": [
+        "No further GST arrests by Central Tax field formations",
+        "Intelligence-based and authorised conveyance interception",
+        "Restrictions on transit-state detention and confiscation",
+        "No show-cause notices below ₹10,000 under sections 73, 74 and 74A"
+      ],
+      "stateGSTApplicability": "The instruction requests circulation to State GST formations, which may issue similar directions if they consider it appropriate; no automatic Meghalaya State GST applicability is assumed.",
+      "effectOnSection68Question": "The instruction changes conveyance interception procedures; it does not remove the prescribed document-carrying obligation tested separately under section 68."
+    }
   }
 }
