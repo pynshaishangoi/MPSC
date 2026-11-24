@@ -2,10 +2,10 @@
   "date": "2026-11-24",
   "title": "24 November 2026 — Original Practice Question Batch",
   "target": 130,
-  "candidateCount": 131,
-  "rejectedCandidateCount": 13,
+  "candidateCount": 133,
+  "rejectedCandidateCount": 15,
   "acceptedUniqueQuestionCount": 118,
-  "questionIdRange": "9420-9538 (one candidate ID rejected)",
+  "questionIdRange": "9420-9540 (candidate IDs 9465, 9475 and 9480 rejected)",
   "subjects": {
     "GST / Inspector of Taxes": 19,
     "Meghalaya GK": 6,
@@ -29,7 +29,7 @@
   "label": "Original Practice",
   "sourceReview": {
     "verifiedDate": "2026-11-24",
-    "notes": "GST questions checked against India Code CGST Act consolidated as on 11 June 2026; Constitution against Legislative Department text; Meghalaya facts against Government state/district profiles; current affairs against dated Meghalaya releases; environment laws/rules against India Code, MoEFCC and CPCB. Solid Waste Management Rules 2026 were checked and the superseded 2016 Rules were not used. CBIC Instruction No. 02/2026-GST dated 30 October 2026 was also reviewed. It is addressed to Central Tax field formations; State GST formations may issue similar instructions, and no separate Meghalaya State instruction was located in the official public sources searched. The statutory document-carrying requirement in section 68 remains distinct from the instruction's transit-interception procedures. Current-affairs items were checked against Meghalaya I&PR PR Nos. 182/26, 181/26, 180/26 and 175/26, the official NEC October fund-release PDF and the Government FOCUS Plus release. The EUFF question uses the post-screening Government release, which confirms the 31st edition and the 12–18 November Shillong run. Additional current-law review on 2026-11-24 covered Finance Act 2026 sections 153–155 effective 2026-11-01; Notification 05/2026-Central Tax (G.S.R. 919(E)) and its 2026-11-18 corrigendum; the 2026-11-20 GSTN Metro Rail mode update; and Meghalaya Taxation Department's official GST notification index. Question 9430 is CGST Act section 62, not CGST Rules rule 62(5). No 2026 Meghalaya State Tax instruction corresponding to CBIC Instruction 02/2026 was visible in the public index checked; this is recorded as an evidence limitation, not proof of absence. The Notification 05/2026 Gazette text was reviewed from a hosted copy because its direct CBIC portal record was not retrieved; the 18 November corrigendum was linked from the official CBIC tax-information portal. The Metro Rail advisory item is supporting context from a secondary tax update, not a question in this batch.",
+    "notes": "GST questions checked against India Code CGST Act consolidated as on 11 June 2026; Constitution against Legislative Department text; Meghalaya facts against Government state/district profiles; current affairs against dated Meghalaya releases; environment laws/rules against India Code, MoEFCC and CPCB. Solid Waste Management Rules 2026 were checked and the superseded 2016 Rules were not used. CBIC Instruction No. 02/2026-GST dated 30 October 2026 was also reviewed. It is addressed to Central Tax field formations; State GST formations may issue similar instructions, and no separate Meghalaya State instruction was located in the official public sources searched. The statutory document-carrying requirement in section 68 remains distinct from the instruction's transit-interception procedures. Current-affairs items were checked against Meghalaya I&PR PR Nos. 182/26, 181/26, 180/26 and 175/26, the official NEC October fund-release PDF and the Government FOCUS Plus release. The EUFF question uses the post-screening Government release, which confirms the 31st edition and the 12–18 November Shillong run. Additional current-law review on 2026-11-24 covered Finance Act 2026 sections 153–155 effective 2026-11-01; Notification 05/2026-Central Tax (G.S.R. 919(E)) and its 2026-11-18 corrigendum; the 2026-11-20 GSTN Metro Rail mode update; and Meghalaya Taxation Department's official GST notification index. Question 9430 is CGST Act section 62, not CGST Rules rule 62(5). No 2026 Meghalaya State Tax instruction corresponding to CBIC Instruction 02/2026 was visible in the public index checked; this is recorded as an evidence limitation, not proof of absence. The Notification 05/2026 Gazette text was reviewed from a hosted copy because its direct CBIC portal record was not retrieved; the 18 November corrigendum was linked from the official CBIC tax-information portal. The Metro Rail advisory item is supporting context from a secondary tax update, not a question in this batch. A fresh token-Jaccard review against actual PYQ question text found seven candidate–PYQ pairs at or above 0.40. Three pairs for Q9462 were false positives: the new semicolon rule differs from PYQ article, tense and pronoun questions. Q9465 (boats-and-streams upstream speed) and Q9475 (percentage change in square area) were rejected as near-duplicate calculation skills. Their two replacement questions test LCM of recurring inspection intervals and dependent probability without replacement.",
     "primarySources": [
       "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
       "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
@@ -126,6 +126,16 @@
       "candidateId": "9480",
       "topic": "Alphabet series — increasing odd gaps",
       "reason": "Rejected after semantic review because active question 7210 tests the same series-continuation skill; changing numbers to letters would be a superficial representation variant."
+    },
+    {
+      "candidateId": "9465",
+      "topic": "Boats and streams — upstream speed",
+      "reason": "Near-duplicate calculation of the same boats-and-streams speed relationship tested in official PYQs, including Investigator Housing 2024 Q143 and Labour Inspector 2021 Q52 (the partial Labour file repeats Q52). The calculation uses the same upstream/downstream speed relationship; rejected to avoid a superficial variant."
+    },
+    {
+      "candidateId": "9475",
+      "topic": "Mensuration — percentage change in square area",
+      "reason": "Near-duplicate of an official PYQ asking the percentage change in a cube's surface area after changing its side length. Both require the same linear-dimension-to-area scaling calculation; rejected despite different shape and numbers."
     }
   ],
   "questions": [
@@ -1624,40 +1634,6 @@
       "verificationStatus": "Verified against the linked reference on 2026-11-24; stable concept or statutory provision."
     },
     {
-      "id": 9465,
-      "cat": "Arithmetic",
-      "topic": "Boats and streams — upstream speed",
-      "q": "A boat travels at 15 km/h in still water and the stream flows at 4 km/h. What is the boat's upstream speed?",
-      "o": [
-        "9 km/h",
-        "10 km/h",
-        "11 km/h",
-        "19 km/h"
-      ],
-      "a": 2,
-      "answerIndex": 2,
-      "e": "Correct answer: 11 km/h. Upstream speed is the speed in still water minus the stream speed because the current opposes the boat. Therefore 15 − 4 = 11 km/h. The decisive step is to apply the stated definition, rule or calculation; the other options either confuse a neighbouring concept or go beyond what the source establishes.",
-      "difficulty": "Moderate",
-      "exam": "MPSC Inspector of Taxes; DSC East Khasi Hills LDA-cum-Typist; MPSC Secretariat LDA",
-      "examTags": [
-        "MPSC Inspector of Taxes",
-        "DSC East Khasi Hills LDA-cum-Typist",
-        "MPSC Secretariat LDA"
-      ],
-      "tags": [
-        "Arithmetic",
-        "Boats and streams — upstream speed",
-        "Original Practice"
-      ],
-      "label": "Original Practice",
-      "sourceType": "Original Practice",
-      "source": "Original Practice — independently authored from NCERT — Mathematics textbook portal; not an official PYQ.",
-      "sourceName": "NCERT — Mathematics textbook portal",
-      "sourceURL": "https://ncert.nic.in/textbook.php",
-      "sourceVerifiedDate": "2026-11-24",
-      "verificationStatus": "Verified against the linked reference on 2026-11-24; stable concept or statutory provision."
-    },
-    {
       "id": 9466,
       "cat": "Arithmetic",
       "topic": "Work and wages — proportional share",
@@ -1962,40 +1938,6 @@
       "sourceURL": "https://ncert.nic.in/textbook.php",
       "sourceVerifiedDate": "2026-11-24",
       "verificationStatus": "Verified against the linked reference on 2026-11-24; stable concept or statutory provision."
-    },
-    {
-      "id": 9475,
-      "cat": "Arithmetic",
-      "topic": "Mensuration — percentage change in square area",
-      "q": "The side of a square is increased by 20%. By what percentage does its area increase?",
-      "o": [
-        "20%",
-        "40%",
-        "44%",
-        "48%"
-      ],
-      "a": 2,
-      "answerIndex": 2,
-      "e": "Correct answer: 44%. If the original side is s, the new side is 1.2s. The new area is (1.2s)² = 1.44s², so the area becomes 144% of the original and increases by 44%. The decisive step is to apply the stated definition, rule or calculation; the other options either confuse a neighbouring concept or go beyond what the source establishes.",
-      "difficulty": "Moderate",
-      "exam": "MPSC Inspector of Taxes; DSC East Khasi Hills LDA-cum-Typist; MPSC Secretariat LDA",
-      "examTags": [
-        "MPSC Inspector of Taxes",
-        "DSC East Khasi Hills LDA-cum-Typist",
-        "MPSC Secretariat LDA"
-      ],
-      "tags": [
-        "Arithmetic",
-        "Mensuration — percentage change in square area",
-        "Original Practice"
-      ],
-      "label": "Original Practice",
-      "sourceType": "Original Practice",
-      "source": "Original Practice — independently authored from NCERT — Mathematics textbook portal; not an official PYQ.",
-      "sourceName": "NCERT — Mathematics textbook portal",
-      "sourceURL": "https://ncert.nic.in/textbook.php",
-      "sourceVerifiedDate": "2026-11-24",
-      "verificationStatus": "Verified against the linked NCERT mathematics reference on 2026-11-24; stable mensuration calculation."
     },
     {
       "id": 9476,
@@ -4102,6 +4044,74 @@
       "sourceURL": "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
       "sourceVerifiedDate": "2026-11-24",
       "verificationStatus": "Verified against the official CBIC instruction dated 2026-10-30; interim direction to Central Tax field formations, with State GST applicability not assumed."
+    },
+    {
+      "id": 9539,
+      "cat": "Arithmetic",
+      "topic": "LCM — recurring inspection intervals",
+      "q": "Two inspection teams revisit a tax circle at intervals of 18 days and 24 days. If both visit the circle today, after how many days will they next visit on the same day?",
+      "o": [
+        "48 days",
+        "60 days",
+        "72 days",
+        "96 days"
+      ],
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Correct answer: 72 days. The teams coincide again after the least common multiple of their intervals. Prime factorise 18 = 2 × 3² and 24 = 2³ × 3. Taking the highest power of each prime gives LCM = 2³ × 3² = 8 × 9 = 72 days.",
+      "difficulty": "Moderate",
+      "exam": "MPSC Inspector of Taxes; DSC East Khasi Hills LDA-cum-Typist; MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "LCM — recurring inspection intervals",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — independently authored from NCERT Mathematics; not an official PYQ.",
+      "sourceName": "NCERT — Mathematics textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-24",
+      "verificationStatus": "Verified against the linked NCERT mathematics reference on 2026-11-24; stable mathematical method."
+    },
+    {
+      "id": 9540,
+      "cat": "Arithmetic",
+      "topic": "Probability — two draws without replacement",
+      "q": "A box contains 4 red and 6 blue tokens. Two tokens are drawn one after another without replacement. What is the probability that both tokens are red?",
+      "o": [
+        "2/15",
+        "1/5",
+        "4/15",
+        "1/3"
+      ],
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Correct answer: 2/15. The probability that the first token is red is 4/10. Because the first token is not replaced, 3 red tokens remain among 9 total tokens, so the probability that the second is red is 3/9. Multiply the dependent probabilities: (4/10) × (3/9) = 12/90 = 2/15.",
+      "difficulty": "Moderate",
+      "exam": "MPSC Inspector of Taxes; DSC East Khasi Hills LDA-cum-Typist; MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Arithmetic",
+        "Probability — two draws without replacement",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — independently authored from NCERT Mathematics; not an official PYQ.",
+      "sourceName": "NCERT — Mathematics textbook portal",
+      "sourceURL": "https://ncert.nic.in/textbook.php",
+      "sourceVerifiedDate": "2026-11-24",
+      "verificationStatus": "Verified against the linked NCERT mathematics reference on 2026-11-24; stable mathematical method."
     }
   ],
   "questionIds": [
@@ -4150,7 +4160,6 @@
     9462,
     9463,
     9464,
-    9465,
     9466,
     9467,
     9468,
@@ -4160,7 +4169,6 @@
     9472,
     9473,
     9474,
-    9475,
     9476,
     9477,
     9478,
@@ -4222,7 +4230,9 @@
     9535,
     9536,
     9537,
-    9538
+    9538,
+    9539,
+    9540
   ],
   "deduplication": {
     "method": "Normalized exact-stem and option-set fingerprints plus token-level Jaccard semantic screening; all accepted questions were manually reviewed against the active bank and official PYQ corpus.",
@@ -4233,8 +4243,8 @@
     "exactStemCollisions": 0,
     "optionSetCollisions": 0,
     "optionOnlyFingerprintMatchesReviewed": 0,
-    "nearSemanticCandidatesRejected": 13,
-    "existingBankNearDuplicateCandidatesRejected": 13,
+    "nearSemanticCandidatesRejected": 15,
+    "existingBankNearDuplicateCandidatesRejected": 15,
     "withinBatchNearDuplicatePairs": 0,
     "finalBatchNearPairs": 0,
     "unresolvedSemanticCollisions": 0,
@@ -4242,11 +4252,15 @@
     "activeNearMatchesAtJaccard045": 0,
     "rejectedCandidateCount": 13,
     "target": 130,
-    "drafted": 131,
+    "drafted": 133,
     "accepted": 118,
-    "rejected": 13,
-    "candidateAcceptanceRate": 0.9007633587786259,
-    "targetAchievementRate": 0.9076923076923077
+    "rejected": 15,
+    "candidateAcceptanceRate": 0.8872180451127819,
+    "targetAchievementRate": 0.9076923076923077,
+    "rawPyqNearMatchPairsDetected": 7,
+    "pyqNearMatchPairsReviewed": 7,
+    "pyqNearMatchPairsRejected": 4,
+    "pyqNearMatchPairsFalsePositive": 3
   },
   "legalVerification": {
     "asOf": "2026-11-24",
