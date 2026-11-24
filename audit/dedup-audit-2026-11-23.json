@@ -1,0 +1,305 @@
+{
+  "date": "2026-11-23",
+  "target": 110,
+  "startingActiveQuestions": 1187,
+  "draftedCandidates": 110,
+  "validatedUniqueQuestions": 101,
+  "rejectedCandidates": [
+    {
+      "candidateId": 9357,
+      "topic": "SI base unit — mole",
+      "reason": "Same SI-base-unit recall skill already represented by the active-bank question on the SI unit of electric current."
+    },
+    {
+      "candidateId": 9379,
+      "topic": "IPv6 address length",
+      "reason": "Same address-length recall skill as the active-bank IPv4 address-length question; protocol and bit count would be a number-variant repeat."
+    },
+    {
+      "candidateId": 9387,
+      "topic": "UNCCD establishment year",
+      "reason": "Same treaty cluster as the accepted UNCCD-objective question; removed to avoid two recall items on the same convention."
+    },
+    {
+      "candidateId": 9416,
+      "topic": "Population standard deviation",
+      "reason": "Repeated the same population-dispersion calculation skill as the accepted population-variance question."
+    },
+    {
+      "candidateId": 9420,
+      "topic": "Two-condition schedule",
+      "reason": "Repeated scheduling and immediate-adjacency reasoning already present in the active bank."
+    },
+    {
+      "candidateId": 9421,
+      "topic": "Fixed-gap ordering",
+      "reason": "Repeated ordering-position reasoning already present in the active bank."
+    },
+    {
+      "candidateId": 9422,
+      "topic": "Conditional ordering",
+      "reason": "Repeated before/after scheduling inference already represented in the active bank."
+    },
+    {
+      "candidateId": 9423,
+      "topic": "Set inclusion relation",
+      "reason": "Repeated subset and set-membership inference already covered by active-bank set-theory questions."
+    },
+    {
+      "candidateId": 9424,
+      "topic": "Exactly-one-true statement",
+      "reason": "Repeated exactly-one-true logical deduction already represented in the active bank."
+    }
+  ],
+  "collisions": {
+    "candidateExactStemCollisions": 0,
+    "candidateOptionSetCollisions": 0,
+    "nearSemanticCandidatesRejected": 9,
+    "withinBatchNearPairsReviewed": 3,
+    "withinBatchNearPairsRejected": 2,
+    "withinBatchNearPairsResolvedByRewrite": 1,
+    "finalBatchExactStemCollisions": 0,
+    "finalBatchOptionSetCollisions": 0,
+    "finalBatchNearPairs": 0,
+    "unresolvedSemanticCollisions": 0,
+    "optionOnlyFingerprintMatchesReviewed": 4,
+    "existingBankNearDuplicateCandidatesRejected": 7
+  },
+  "comparison": {
+    "activeQuestions": 1187,
+    "officialPyqFiles": 18,
+    "officialPyqRecords": 2433,
+    "allPyqFiles": 19,
+    "allPyqRecords": 2572,
+    "partialDuplicateRecords": 139,
+    "archiveFiles": 20,
+    "archiveRecords": 595,
+    "comparisonCorpusRecords": 3759
+  },
+  "historicalDuplicates": {
+    "previousAuditCounts": {
+      "activeNormalizedStemClusters": 43,
+      "officialPyqNormalizedStemClusters": 19,
+      "officialPyqExtraCopies": 25,
+      "officialPyqExactStemAndOptionClusters": 12,
+      "officialPyqExactStemAndOptionExtraCopies": 14,
+      "activeToPyqStemMatches": 67,
+      "activeToPyqStemAndOptionMatches": 61
+    },
+    "currentNormalizedScan": {
+      "normalization": "NFKD, lowercase, punctuation-insensitive alphanumeric stems; option sets sorted order-insensitively",
+      "activeNormalizedStemClusters": 35,
+      "activeNormalizedStemExtraCopies": 44,
+      "allPyqFilesNormalizedStemClusters": 158,
+      "allPyqFilesNormalizedStemExtraCopies": 164,
+      "allPyqFilesExactStemAndOptionClusters": 151,
+      "allPyqFilesExactStemAndOptionExtraCopies": 153,
+      "activeToAllPyqExactStemClusters": 68,
+      "activeToAllPyqExactStemAndOptionClusters": 62,
+      "partialDuplicateFileExactStemAndOptionMatches": 139
+    }
+  },
+  "subjects": {
+    "GST / Inspector of Taxes": 10,
+    "Meghalaya GK": 10,
+    "Polity": 8,
+    "Science": 14,
+    "Geography": 10,
+    "Economy": 8,
+    "Computer": 9,
+    "Environment": 9,
+    "History": 8,
+    "English": 8,
+    "Arithmetic": 7
+  },
+  "examTracks": [
+    "MPSC Inspector of Taxes",
+    "DSC East Khasi Hills LDA-cum-Typist",
+    "MPSC Secretariat LDA"
+  ],
+  "sourceReview": {
+    "verifiedDate": "2026-11-23",
+    "primarySources": [
+      {
+        "name": "GSTN-authorised IRIS IRP — E-Invoice Mandate",
+        "url": "https://einvoice6.gst.gov.in/content/einvoice-mandate/"
+      },
+      {
+        "name": "GSTN-authorised IRIS IRP — IRN specifications",
+        "url": "https://einvoice6.gst.gov.in/content/irn-2/"
+      },
+      {
+        "name": "CBIC — CGST Rules, 2017, Rule 46",
+        "url": "https://taxinformation.cbic.gov.in/content-page/explore-rules/1000136/1000001"
+      },
+      {
+        "name": "CBIC — Circular 160/16/2021-GST, electronic IRN QR code",
+        "url": "https://cbic-gst.gov.in/pdf/Circular-No-160-14-2021-GST.pdf"
+      },
+      {
+        "name": "Government of Meghalaya — Nongkrem Dance Festival",
+        "url": "https://www.meghalaya.gov.in/meghalaya/index.php/nongkrem-dance"
+      },
+      {
+        "name": "Government of Meghalaya — Shillong and Khasi cultural information",
+        "url": "https://meghalaya.gov.in/node/34292"
+      },
+      {
+        "name": "Government of Meghalaya — Behdienkhlam Festival",
+        "url": "https://meghalaya.gov.in/behdienkhlam"
+      },
+      {
+        "name": "Government of Meghalaya — Wangala Festival",
+        "url": "https://www.meghalaya.gov.in/meghalaya/index.php/wangala"
+      },
+      {
+        "name": "Government of Meghalaya — Tura and Garo cultural information",
+        "url": "https://meghalaya.gov.in/index.php/node/34296"
+      },
+      {
+        "name": "Legislative Department — Constitution of India",
+        "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf"
+      },
+      {
+        "name": "NCERT — Biology Exemplar Problems, Class XI",
+        "url": "https://www.ncert.nic.in/exemplar-problems.php"
+      },
+      {
+        "name": "USGS — Glossary of Glacier Terminology",
+        "url": "https://pubs.usgs.gov/of/2004/1216/text.html"
+      },
+      {
+        "name": "USGS — Eolian sediments",
+        "url": "https://www.usgs.gov/publications/eolian-sediments-0"
+      },
+      {
+        "name": "USGS — Types of Dunes",
+        "url": "https://pubs.usgs.gov/gip/deserts/dunes/"
+      },
+      {
+        "name": "USGS — Glacial Isostatic Adjustment",
+        "url": "https://www.usgs.gov/media/images/glacial-isostatic-adjustment"
+      },
+      {
+        "name": "NOAA — Upwelling",
+        "url": "https://oceanexplorer.noaa.gov/ocean-fact/upwelling/"
+      },
+      {
+        "name": "NCERT — Geography Textbook Portal",
+        "url": "https://ncert.nic.in/textbook.php"
+      },
+      {
+        "name": "Government of India — Economic Survey, Tax Buoyancy",
+        "url": "https://www.indiabudget.gov.in/economicsurvey/doc/echapter.pdf"
+      },
+      {
+        "name": "RBI — Annual Report, Tax Buoyancy",
+        "url": "https://systemhealth.rbi.org.in/Scripts/AnnualReportPublications.aspx_Id%3D1402.html"
+      },
+      {
+        "name": "World Bank — Tax Expenditures and Revenue Foregone",
+        "url": "https://documents1.worldbank.org/curated/en/317341468335679099/pdf/588150WP0FIAS110BOX353820B01PUBLIC1.pdf"
+      },
+      {
+        "name": "IMF — Fiscal Policy Transmission and Crowding Out",
+        "url": "https://www.imf.org/_next/data/EpnxHCnVQm0tS7VzM-X4o/en/-/media/websites/imf/imported-full-text-pdf/external/pubs/ft/wp/2003/_wp03237.pdf.json"
+      },
+      {
+        "name": "NCERT — Economics Textbook Portal",
+        "url": "https://ncert.nic.in/textbook.php"
+      },
+      {
+        "name": "IETF — RFC 1918, Private IPv4 Address Ranges",
+        "url": "https://www.rfc-editor.org/rfc/rfc1918"
+      },
+      {
+        "name": "IETF — RFC 2131, DHCP",
+        "url": "https://www.rfc-editor.org/rfc/rfc2131"
+      },
+      {
+        "name": "IETF — RFC 3596, DNS Extensions for IPv6",
+        "url": "https://www.rfc-editor.org/rfc/rfc3596"
+      },
+      {
+        "name": "Cloudflare Learning Center — Data Link Layer",
+        "url": "https://www.cloudflare.com/learning/network-layer/what-is-the-data-link-layer/"
+      },
+      {
+        "name": "Microsoft Learn — Storage Spaces and Mirrored Resiliency",
+        "url": "https://learn.microsoft.com/en-us/windows-server/storage/storage-spaces/overview"
+      },
+      {
+        "name": "PostgreSQL Documentation — Transactions",
+        "url": "https://www.postgresql.org/docs/current/tutorial-transactions.html"
+      },
+      {
+        "name": "PostgreSQL Documentation — UNION and UNION ALL",
+        "url": "https://www.postgresql.org/docs/current/queries-union.html"
+      },
+      {
+        "name": "W3C — Web Accessibility Technique H44",
+        "url": "https://www.w3.org/WAI/WCAG21/Techniques/html/H44"
+      },
+      {
+        "name": "IETF — RFC 9110, HTTP Semantics",
+        "url": "https://www.rfc-editor.org/rfc/rfc9110"
+      },
+      {
+        "name": "UNCCD — Convention Overview",
+        "url": "https://www.unccd.int/convention/overview"
+      },
+      {
+        "name": "Convention on Migratory Species — Convention and Appendices",
+        "url": "https://www.cms.int/legalinstrument/cms"
+      },
+      {
+        "name": "Stockholm Convention — Overview and Objective",
+        "url": "https://chm.pops.int/TheConvention/Overview/tabid/3351/ItemId/5382/Default.aspx"
+      },
+      {
+        "name": "IMO — MARPOL Convention",
+        "url": "https://www.imo.org/en/about/conventions/pages/international-convention-for-the-prevention-of-pollution-from-ships-%28marpol%29.aspx"
+      },
+      {
+        "name": "United Nations — Rio Declaration",
+        "url": "https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_CONF.151_26_Vol.I_Declaration.pdf"
+      },
+      {
+        "name": "NCERT — Official History Textbook Portal",
+        "url": "https://ncert.nic.in/textbook.php"
+      },
+      {
+        "name": "Cambridge Dictionary — English Vocabulary",
+        "url": "https://dictionary.cambridge.org/"
+      },
+      {
+        "name": "NCERT — Mathematics Textbook Portal",
+        "url": "https://ncert.nic.in/textbook.php"
+      }
+    ],
+    "gstReview": "E-invoice applicability, IRN, 30-day reporting, Rule 138A(2) and Rule 46 checked against GSTN-authorised IRP and CBIC sources on 23 November 2026.",
+    "meghalayaReview": "Nongkrem, Shad Suk Mynsiem, Behdienkhlam, Wangala and Garo Nokpante/A'kingland checked against Government of Meghalaya pages."
+  },
+  "validation": {
+    "schema": "passed",
+    "uniqueIds": "passed",
+    "fourOptions": "passed",
+    "answerIndices": "passed",
+    "explanations": "passed",
+    "sourceUrls": "passed",
+    "originalPracticeLabels": "passed",
+    "canonicalAppendPrepared": true,
+    "archiveParity": "verified in proposed branch",
+    "serviceWorkerPrecache": "prepared",
+    "dashboardCountUsesQlength": true,
+    "offlineFirstLoaderPreserved": true,
+    "repositoryTests": "pending PR validation"
+  },
+  "mergeStatus": "pending_merge",
+  "mergedQuestions": 0,
+  "activeUniqueQuestionsAfterMerge": null,
+  "postMergeAudit": false,
+  "postMergeCommitSha": null,
+  "liveDeploymentVerified": false,
+  "liveBuildMarker": "2026-11-23-original-practice-101"
+}
