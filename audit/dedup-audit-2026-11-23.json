@@ -289,17 +289,20 @@
     "sourceUrls": "passed",
     "originalPracticeLabels": "passed",
     "canonicalAppendPrepared": true,
-    "archiveParity": "verified in proposed branch",
-    "serviceWorkerPrecache": "prepared",
+    "archiveParity": "passed",
+    "serviceWorkerPrecache": "passed",
     "dashboardCountUsesQlength": true,
     "offlineFirstLoaderPreserved": true,
-    "repositoryTests": "pending PR validation"
+    "repositoryTests": "passed",
+    "canonicalEmbeddedParity": "passed",
+    "postMergeActiveQuestionCount": 1288,
+    "postMergeMainSha": "ff4813b0109348751255f6e16d1b69311c4cd106"
   },
-  "mergeStatus": "pending_merge",
-  "mergedQuestions": 0,
-  "activeUniqueQuestionsAfterMerge": null,
-  "postMergeAudit": false,
-  "postMergeCommitSha": null,
+  "mergeStatus": "merged",
+  "mergedQuestions": 101,
+  "activeUniqueQuestionsAfterMerge": 1288,
+  "postMergeAudit": true,
+  "postMergeCommitSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
   "liveDeploymentVerified": false,
   "liveBuildMarker": "2026-11-23-original-practice-101"
 }
