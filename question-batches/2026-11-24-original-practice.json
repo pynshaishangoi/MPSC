@@ -811,17 +811,17 @@
     {
       "id": 9441,
       "cat": "Meghalaya GK",
-      "topic": "Nongkhnum Island — area",
-      "q": "The Government of Meghalaya district profile describes Nongkhnum River Island as covering approximately:",
+      "topic": "Jakrem Hot Spring — sulphur water",
+      "q": "The West Khasi Hills district profile describes Jakrem Hot Spring as having water rich in which substance?",
       "o": [
-        "5 square kilometres",
-        "25 square kilometres",
-        "75 square kilometres",
-        "125 square kilometres"
+        "Sulphur",
+        "Silica",
+        "Sodium chloride",
+        "Copper salts"
       ],
-      "a": 1,
-      "answerIndex": 1,
-      "e": "Correct answer: 25 square kilometres. The official West Khasi Hills profile describes Nongkhnum as a plateau-like river island with an area of about 25 square kilometres. This is an approximate geographical description. The decisive step is to apply the stated definition, rule or calculation; the other options either confuse a neighbouring concept or go beyond what the source establishes.",
+      "a": 0,
+      "answerIndex": 0,
+      "e": "Correct answer: Sulphur. The official district profile identifies the hot spring's water as sulphur water and notes its traditional reputation for medicinal properties. The question asks for the substance named by the source. The decisive step is to apply the stated definition, rule or calculation; the other options either confuse a neighbouring concept or go beyond what the source establishes.",
       "difficulty": "Moderate",
       "exam": "MPSC Inspector of Taxes; DSC East Khasi Hills LDA-cum-Typist; MPSC Secretariat LDA",
       "examTags": [
@@ -831,7 +831,7 @@
       ],
       "tags": [
         "Meghalaya GK",
-        "Nongkhnum Island — area",
+        "Jakrem Hot Spring — sulphur water",
         "Original Practice"
       ],
       "label": "Original Practice",
@@ -840,7 +840,7 @@
       "sourceName": "Government of Meghalaya — West Khasi Hills profile",
       "sourceURL": "https://meghalaya.gov.in/index.php/node/34297",
       "sourceVerifiedDate": "2026-11-24",
-      "verificationStatus": "Verified against the linked reference on 2026-11-24; stable concept or statutory provision."
+      "verificationStatus": "Verified against the linked Government of Meghalaya district profile on 2026-11-24; stable regional fact."
     },
     {
       "id": 9442,
@@ -1865,17 +1865,17 @@
     {
       "id": 9472,
       "cat": "Arithmetic",
-      "topic": "Geometric progression — nth term",
-      "q": "The sequence 3, 6, 12, 24, ... is a geometric progression. What is its seventh term?",
+      "topic": "Number theory — simultaneous remainders",
+      "q": "A positive integer leaves remainder 2 when divided by 5 and remainder 3 when divided by 7. What is the least positive integer satisfying both conditions?",
       "o": [
-        "96",
-        "128",
-        "192",
-        "256"
+        "12",
+        "17",
+        "22",
+        "27"
       ],
-      "a": 2,
-      "answerIndex": 2,
-      "e": "Correct answer: 192. The first term is 3 and the common ratio is 2. The seventh term is ar^(n−1) = 3×2^6 = 3×64 = 192, with six multiplications after the first term. The decisive step is to apply the stated definition, rule or calculation; the other options either confuse a neighbouring concept or go beyond what the source establishes.",
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Correct answer: 17. Numbers leaving remainder 2 on division by 5 are 2, 7, 12, 17, 22 and so on. The first of these that leaves remainder 3 on division by 7 is 17. The decisive step is to apply the stated definition, rule or calculation; the other options either confuse a neighbouring concept or go beyond what the source establishes.",
       "difficulty": "Moderate",
       "exam": "MPSC Inspector of Taxes; DSC East Khasi Hills LDA-cum-Typist; MPSC Secretariat LDA",
       "examTags": [
@@ -1885,7 +1885,7 @@
       ],
       "tags": [
         "Arithmetic",
-        "Geometric progression — nth term",
+        "Number theory — simultaneous remainders",
         "Original Practice"
       ],
       "label": "Original Practice",
@@ -1894,7 +1894,7 @@
       "sourceName": "NCERT — Mathematics textbook portal",
       "sourceURL": "https://ncert.nic.in/textbook.php",
       "sourceVerifiedDate": "2026-11-24",
-      "verificationStatus": "Verified against the linked reference on 2026-11-24; stable concept or statutory provision."
+      "verificationStatus": "Verified against the linked NCERT mathematics reference on 2026-11-24; stable number-theory method."
     },
     {
       "id": 9473,
@@ -1967,17 +1967,17 @@
     {
       "id": 9475,
       "cat": "Arithmetic",
-      "topic": "Profit margin — percentage of selling price",
-      "q": "An article bought for ₹800 is sold for ₹1,000. What is the profit as a percentage of the selling price?",
+      "topic": "Mensuration — percentage change in square area",
+      "q": "The side of a square is increased by 20%. By what percentage does its area increase?",
       "o": [
-        "17%",
         "20%",
-        "23%",
-        "26%"
+        "40%",
+        "44%",
+        "48%"
       ],
-      "a": 1,
-      "answerIndex": 1,
-      "e": "Correct answer: 20%. Profit = ₹1,000−₹800 = ₹200. The question asks for profit as a percentage of selling price, not cost price: (200/1,000)×100 = 20%. The decisive step is to apply the stated definition, rule or calculation; the other options either confuse a neighbouring concept or go beyond what the source establishes.",
+      "a": 2,
+      "answerIndex": 2,
+      "e": "Correct answer: 44%. If the original side is s, the new side is 1.2s. The new area is (1.2s)² = 1.44s², so the area becomes 144% of the original and increases by 44%. The decisive step is to apply the stated definition, rule or calculation; the other options either confuse a neighbouring concept or go beyond what the source establishes.",
       "difficulty": "Moderate",
       "exam": "MPSC Inspector of Taxes; DSC East Khasi Hills LDA-cum-Typist; MPSC Secretariat LDA",
       "examTags": [
@@ -1987,7 +1987,7 @@
       ],
       "tags": [
         "Arithmetic",
-        "Profit margin — percentage of selling price",
+        "Mensuration — percentage change in square area",
         "Original Practice"
       ],
       "label": "Original Practice",
@@ -1996,7 +1996,7 @@
       "sourceName": "NCERT — Mathematics textbook portal",
       "sourceURL": "https://ncert.nic.in/textbook.php",
       "sourceVerifiedDate": "2026-11-24",
-      "verificationStatus": "Verified against the linked reference on 2026-11-24; stable concept or statutory provision."
+      "verificationStatus": "Verified against the linked NCERT mathematics reference on 2026-11-24; stable mensuration calculation."
     },
     {
       "id": 9476,
@@ -2854,10 +2854,10 @@
       "topic": "Real interest rate — approximation",
       "q": "A deposit earns a nominal annual interest rate of 8% while inflation is 5%. Using the simple approximation, what is the real interest rate?",
       "o": [
-        "2%",
+        "2.5%",
         "3%",
-        "4%",
-        "5%"
+        "3.5%",
+        "4%"
       ],
       "a": 1,
       "answerIndex": 1,
@@ -2880,7 +2880,7 @@
       "sourceName": "Reserve Bank of India — Monetary policy framework",
       "sourceURL": "https://systemhealth.rbi.org.in/Scripts/FS_Overview2752.aspx.html",
       "sourceVerifiedDate": "2026-11-24",
-      "verificationStatus": "Verified against the linked reference on 2026-11-24; stable concept or statutory provision."
+      "verificationStatus": "Verified against the linked RBI reference on 2026-11-24; stable economic concept."
     },
     {
       "id": 9502,
