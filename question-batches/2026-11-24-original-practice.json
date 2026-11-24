@@ -2,10 +2,10 @@
   "date": "2026-11-24",
   "title": "24 November 2026 — Original Practice Question Batch",
   "target": 130,
-  "candidateCount": 134,
-  "rejectedCandidateCount": 16,
+  "candidateCount": 135,
+  "rejectedCandidateCount": 17,
   "acceptedUniqueQuestionCount": 118,
-  "questionIdRange": "9420-9541 (candidate IDs 9465, 9475, 9480 and 9540 rejected)",
+  "questionIdRange": "9420-9542 (candidate IDs 9465, 9475, 9480, 9529 and 9540 rejected)",
   "subjects": {
     "GST / Inspector of Taxes": 19,
     "Meghalaya GK": 6,
@@ -29,7 +29,7 @@
   "label": "Original Practice",
   "sourceReview": {
     "verifiedDate": "2026-11-24",
-    "notes": "GST questions checked against India Code CGST Act consolidated as on 11 June 2026; Constitution against Legislative Department text; Meghalaya facts against Government state/district profiles; current affairs against dated Meghalaya releases; environment laws/rules against India Code, MoEFCC and CPCB. Solid Waste Management Rules 2026 were checked and the superseded 2016 Rules were not used. CBIC Instruction No. 02/2026-GST dated 30 October 2026 was also reviewed. It is addressed to Central Tax field formations; State GST formations may issue similar instructions, and no separate Meghalaya State instruction was located in the official public sources searched. The statutory document-carrying requirement in section 68 remains distinct from the instruction's transit-interception procedures. Current-affairs items were checked against Meghalaya I&PR PR Nos. 182/26, 181/26, 180/26 and 175/26, the official NEC October fund-release PDF and the Government FOCUS Plus release. The EUFF question uses the post-screening Government release, which confirms the 31st edition and the 12–18 November Shillong run. Additional current-law review on 2026-11-24 covered Finance Act 2026 sections 153–155 effective 2026-11-01; Notification 05/2026-Central Tax (G.S.R. 919(E)) and its 2026-11-18 corrigendum; the 2026-11-20 GSTN Metro Rail mode update; and Meghalaya Taxation Department's official GST notification index. Question 9430 is CGST Act section 62, not CGST Rules rule 62(5). No 2026 Meghalaya State Tax instruction corresponding to CBIC Instruction 02/2026 was visible in the public index checked; this is recorded as an evidence limitation, not proof of absence. The Notification 05/2026 Gazette text was reviewed from a hosted copy because its direct CBIC portal record was not retrieved; the 18 November corrigendum was linked from the official CBIC tax-information portal. The Metro Rail advisory item is supporting context from a secondary tax update, not a question in this batch. A fresh token-Jaccard review against actual PYQ question text found seven candidate–PYQ pairs at or above 0.40. Three pairs for Q9462 were false positives: the new semicolon rule differs from PYQ article, tense and pronoun questions. Q9465 (boats-and-streams upstream speed) and Q9475 (percentage change in square area) were rejected as near-duplicate calculation skills. Their two replacement questions test LCM of recurring inspection intervals and dependent probability without replacement. The 4/6 red-blue token probability candidate was also rejected after matching Investigator Housing 2024 Q124 (same bag, draw sequence and without-replacement calculation; only the requested colour event differed). It was replaced with a distinct two-die sum probability question.",
+    "notes": "GST questions checked against India Code CGST Act consolidated as on 11 June 2026; Constitution against Legislative Department text; Meghalaya facts against Government state/district profiles; current affairs against dated Meghalaya releases; environment laws/rules against India Code, MoEFCC and CPCB. Solid Waste Management Rules 2026 were checked and the superseded 2016 Rules were not used. CBIC Instruction No. 02/2026-GST dated 30 October 2026 was also reviewed. It is addressed to Central Tax field formations; State GST formations may issue similar instructions, and no separate Meghalaya State instruction was located in the official public sources searched. The statutory document-carrying requirement in section 68 remains distinct from the instruction's transit-interception procedures. Current-affairs items were checked against Meghalaya I&PR PR Nos. 182/26, 181/26, 180/26 and 175/26, the official NEC October fund-release PDF and the Government FOCUS Plus release. The EUFF question uses the post-screening Government release, which confirms the 31st edition and the 12–18 November Shillong run. Additional current-law review on 2026-11-24 covered Finance Act 2026 sections 153–155 effective 2026-11-01; Notification 05/2026-Central Tax (G.S.R. 919(E)) and its 2026-11-18 corrigendum; the 2026-11-20 GSTN Metro Rail mode update; and Meghalaya Taxation Department's official GST notification index. Question 9430 is CGST Act section 62, not CGST Rules rule 62(5). No 2026 Meghalaya State Tax instruction corresponding to CBIC Instruction 02/2026 was visible in the public index checked; this is recorded as an evidence limitation, not proof of absence. The Notification 05/2026 Gazette text was reviewed from a hosted copy because its direct CBIC portal record was not retrieved; the 18 November corrigendum was linked from the official CBIC tax-information portal. The Metro Rail advisory item is supporting context from a secondary tax update, not a question in this batch. A fresh token-Jaccard review against actual PYQ question text found seven candidate–PYQ pairs at or above 0.40. Three pairs for Q9462 were false positives: the new semicolon rule differs from PYQ article, tense and pronoun questions. Q9465 (boats-and-streams upstream speed) and Q9475 (percentage change in square area) were rejected as near-duplicate calculation skills. Their two replacement questions test LCM of recurring inspection intervals and dependent probability without replacement. The 4/6 red-blue token probability candidate was also rejected after matching Investigator Housing 2024 Q124 (same bag, draw sequence and without-replacement calculation; only the requested colour event differed). It was replaced with a distinct two-die sum probability question. A full-bank semantic review also found two active-bank Jaccard pairs at or above 0.45 (Q9458 vocabulary and Q9461 sentence-correction template); both were false positives with different tested words/rules. Q9464 harmonic-mean average speed was retained as distinct from basic distance/time speed. Q9511 the 1858 Act was retained as distinct from the 1935 Act. Q9529 plastic EPR was rejected because it repeats the active e-waste EPR responsibility learning objective. It was replaced with a Noise Rules residential daytime standard question.",
     "primarySources": [
       "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
       "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
@@ -54,7 +54,8 @@
       "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_251.pdf",
       "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
       "https://www.meggst.gov.in/gst/gst.html",
-      "https://www.meggst.gov.in/gst/tax_notifications_2025.html"
+      "https://www.meggst.gov.in/gst/tax_notifications_2025.html",
+      "https://cpcb.nic.in/displaypdf.php?id=Tm9pc2UtU3RhbmRhcmRzL25vaXNlX3J1bGVzXzIwMDAucGRm"
     ],
     "supportingSecondarySources": [
       "https://taxguru.in/wp-content/uploads/2026/10/central-tax-notification-no-05-2026-gst-rules-amended-for-2026-27.pdf",
@@ -141,6 +142,11 @@
       "candidateId": "9540",
       "topic": "Probability — two draws without replacement",
       "reason": "Near-duplicate of official Investigator Housing 2024 Q124: same 4-red/6-blue bag, two successive draws without replacement and same conditional-probability calculation; only the colour sequence/event changed. Rejected to avoid a superficial data/context variant."
+    },
+    {
+      "candidateId": "9529",
+      "topic": "Plastic Waste Management — extended producer responsibility",
+      "reason": "Concept overlap with active question 9299 on EPR for e-waste: both ask which producer-side party bears the defined end-of-life collection/processing responsibility. The waste stream differs, but the tested learning objective and answer pattern are substantially the same; rejected."
     }
   ],
   "questions": [
@@ -3713,40 +3719,6 @@
       "verificationStatus": "Verified against the linked reference on 2026-11-24; stable concept or statutory provision."
     },
     {
-      "id": 9529,
-      "cat": "Environment",
-      "topic": "Plastic Waste Management — extended producer responsibility",
-      "q": "Under extended producer responsibility for plastic packaging, which party carries specified obligations for ensuring collection and environmentally sound processing of its packaging waste?",
-      "o": [
-        "Only the final consumer who buys the product",
-        "The producer, importer or brand owner covered by the rules",
-        "Only the municipal sanitation worker",
-        "Only the retailer who sells the product"
-      ],
-      "a": 1,
-      "answerIndex": 1,
-      "e": "Correct answer: The producer, importer or brand owner covered by the rules. EPR places defined responsibilities on producers, importers and brand owners for plastic packaging waste. The framework includes collection, recycling and end-of-life processing obligations under the notified rules and guidelines. The decisive step is to apply the stated definition, rule or calculation; the other options either confuse a neighbouring concept or go beyond what the source establishes.",
-      "difficulty": "Moderate",
-      "exam": "MPSC Inspector of Taxes; DSC East Khasi Hills LDA-cum-Typist; MPSC Secretariat LDA",
-      "examTags": [
-        "MPSC Inspector of Taxes",
-        "DSC East Khasi Hills LDA-cum-Typist",
-        "MPSC Secretariat LDA"
-      ],
-      "tags": [
-        "Environment",
-        "Plastic Waste Management — extended producer responsibility",
-        "Original Practice"
-      ],
-      "label": "Original Practice",
-      "sourceType": "Original Practice",
-      "source": "Original Practice — independently authored from CPCB — EPR guidelines for plastic packaging; not an official PYQ.",
-      "sourceName": "CPCB — EPR guidelines for plastic packaging",
-      "sourceURL": "https://cpcb.nic.in/uploads/plasticwaste/EC_Regime_PWM.pdf",
-      "sourceVerifiedDate": "2026-11-24",
-      "verificationStatus": "Verified against the linked reference on 2026-11-24; stable concept or statutory provision."
-    },
-    {
       "id": 9530,
       "cat": "Environment",
       "topic": "Wetlands Rules, 2017 — application",
@@ -4117,6 +4089,40 @@
       "sourceURL": "https://ncert.nic.in/textbook.php",
       "sourceVerifiedDate": "2026-11-24",
       "verificationStatus": "Verified against the linked NCERT mathematics reference on 2026-11-24; stable probability method."
+    },
+    {
+      "id": 9542,
+      "cat": "Environment",
+      "topic": "Noise Pollution Rules — residential daytime standard",
+      "q": "Under the Noise Pollution (Regulation and Control) Rules, 2000, what is the ambient noise limit for a residential area during daytime?",
+      "o": [
+        "50 dB(A) Leq",
+        "55 dB(A) Leq",
+        "60 dB(A) Leq",
+        "65 dB(A) Leq"
+      ],
+      "a": 1,
+      "answerIndex": 1,
+      "e": "Correct answer: 55 dB(A) Leq. The Schedule to the Noise Pollution (Regulation and Control) Rules, 2000 sets the residential-area limit at 55 dB(A) Leq during daytime and 45 dB(A) Leq at night. Daytime runs from 6 a.m. to 10 p.m. Leq is the energy-mean sound level over the specified measurement period.",
+      "difficulty": "Moderate",
+      "exam": "MPSC Inspector of Taxes; DSC East Khasi Hills LDA-cum-Typist; MPSC Secretariat LDA",
+      "examTags": [
+        "MPSC Inspector of Taxes",
+        "DSC East Khasi Hills LDA-cum-Typist",
+        "MPSC Secretariat LDA"
+      ],
+      "tags": [
+        "Environment",
+        "Noise Pollution Rules — residential daytime standard",
+        "Original Practice"
+      ],
+      "label": "Original Practice",
+      "sourceType": "Original Practice",
+      "source": "Original Practice — independently authored from the Noise Pollution (Regulation and Control) Rules, 2000; not an official PYQ.",
+      "sourceName": "Central Pollution Control Board — Noise Pollution (Regulation and Control) Rules, 2000",
+      "sourceURL": "https://cpcb.nic.in/displaypdf.php?id=Tm9pc2UtU3RhbmRhcmRzL25vaXNlX3J1bGVzXzIwMDAucGRm",
+      "sourceVerifiedDate": "2026-11-24",
+      "verificationStatus": "Verified against the CPCB-hosted rules and Schedule on 2026-11-24; residential daytime standard is 55 dB(A) Leq."
     }
   ],
   "questionIds": [
@@ -4226,7 +4232,6 @@
     9526,
     9527,
     9528,
-    9529,
     9530,
     9531,
     9532,
@@ -4237,7 +4242,8 @@
     9537,
     9538,
     9539,
-    9541
+    9541,
+    9542
   ],
   "deduplication": {
     "method": "Normalized exact-stem and option-set fingerprints plus token-level Jaccard semantic screening; all accepted questions were manually reviewed against the active bank and official PYQ corpus.",
@@ -4248,8 +4254,8 @@
     "exactStemCollisions": 0,
     "optionSetCollisions": 0,
     "optionOnlyFingerprintMatchesReviewed": 0,
-    "nearSemanticCandidatesRejected": 16,
-    "existingBankNearDuplicateCandidatesRejected": 16,
+    "nearSemanticCandidatesRejected": 17,
+    "existingBankNearDuplicateCandidatesRejected": 17,
     "withinBatchNearDuplicatePairs": 0,
     "finalBatchNearPairs": 0,
     "unresolvedSemanticCollisions": 0,
@@ -4257,15 +4263,19 @@
     "activeNearMatchesAtJaccard045": 0,
     "rejectedCandidateCount": 13,
     "target": 130,
-    "drafted": 134,
+    "drafted": 135,
     "accepted": 118,
-    "rejected": 16,
-    "candidateAcceptanceRate": 0.8805970149253731,
+    "rejected": 17,
+    "candidateAcceptanceRate": 0.8740740740740741,
     "targetAchievementRate": 0.9076923076923077,
     "rawPyqNearMatchPairsDetected": 8,
     "pyqNearMatchPairsReviewed": 8,
     "pyqNearMatchPairsRejected": 5,
-    "pyqNearMatchPairsFalsePositive": 3
+    "pyqNearMatchPairsFalsePositive": 3,
+    "rawActiveNearMatchPairsDetected": 2,
+    "activeNearMatchPairsReviewed": 2,
+    "activeNearMatchPairsFalsePositive": 2,
+    "activeConceptOverlapCandidatesRejected": 1
   },
   "legalVerification": {
     "asOf": "2026-11-24",
