@@ -450,6 +450,7 @@ if (expansionBatch24.deduplication?.target !== 130 || expansionBatch24.deduplica
 const euQuestion24 = expansionBatch24.questions.find(q=>q.id===9534);
 const gamesQuestion24 = expansionBatch24.questions.find(q=>q.id===9535);
 const cbicQuestion24 = expansionBatch24.questions.find(q=>q.id===9538);
+const noiseQuestion24 = expansionBatch24.questions.find(q=>q.id===9542);
 if (!euQuestion24 || euQuestion24.q.includes('14 November') || euQuestion24.sourceURL !== 'https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_251.pdf' || !euQuestion24.q.includes('made its Shillong debut in November 2026')) fail('EU Film Festival question must use the verified 31st-edition Shillong debut wording and official release');
 if (!gamesQuestion24 || !gamesQuestion24.sourceName.includes('PR No. 175/26') || !gamesQuestion24.sourceURL.includes('PR-2026-11.html')) fail('39th National Games question must use Meghalaya I&PR PR No. 175/26');
 if (!cbicQuestion24 || !cbicQuestion24.sourceURL.includes('taxinformation.cbic.gov.in') || !cbicQuestion24.verificationStatus.includes('State GST applicability not assumed')) fail('CBIC Instruction 02/2026-GST question is missing its official source or State GST caveat');
