@@ -27019,7 +27019,7 @@
     "activeFingerprintVersion": 2,
     "activeFingerprintAlgorithm": "fnv1a-32bit-normalized-stem-options-answer-topic-and-token-hashes-v2",
     "activeFingerprintsRefreshedOn": "2026-11-24",
-    "activeFingerprintSourceCommit": "branch:daily-2026-11-24-original-practice"
+    "activeFingerprintSourceCommit": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab"
   },
   "officialPyq": {
     "fileCount": 18,
@@ -27399,7 +27399,13 @@
         "decision": "rejected",
         "reason": "Plastic and e-waste EPR questions test the same producer-responsibility learning objective."
       }
-    ]
+    ],
+    "mergedQuestions": 118,
+    "activeUniqueAdditions": 118,
+    "activeUniqueQuestionsAfterMerge": 1406,
+    "targetGatePassed": true,
+    "cumulativeUniqueAdditionsAfterRun": 525,
+    "remainingTo10000AfterRun": 8594
   },
   "sourceInventory": {
     "activeQuestionsBeforeRun": 1288,
@@ -27422,7 +27428,9 @@
     "unlistedQuestionBatchFiles": 0,
     "comparisonCorpusRecordsBeforeRun": 3860,
     "comparisonCorpusRecordsAfterProposedMerge": 3978,
-    "allPyqFiles": 19
+    "allPyqFiles": 19,
+    "activeQuestionsAfterMerge": 1406,
+    "comparisonCorpusRecordsAfterMerge": 3978
   },
   "sourceChangesSincePriorAudit": {
     "questionStemsOptionsAnswersUnchanged": true,
@@ -27434,21 +27442,21 @@
     ],
     "dedupEffect": "All previous active and official-PYQ stems/options/answers remained unchanged; the new 90 accepted stems passed the final cross-corpus and within-batch scans."
   },
-  "mergeStatus": "pending_merge",
-  "mergedMainSha": null,
-  "postMergeAudit": false,
+  "mergeStatus": "merged",
+  "mergedMainSha": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+  "postMergeAudit": true,
   "liveDeploymentVerified": false,
-  "validationRunId": 45114258923,
-  "validationRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/45114258923",
+  "validationRunId": 45331856742,
+  "validationRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/45331856742",
   "validationConclusion": "success",
-  "pullRequest": null,
-  "pullRequestUrl": null,
-  "deploymentStatus": "GitHub Pages deployment workflow is in progress; live URL content remains unverified.",
-  "postMergeAuditRunId": 44985252764,
-  "postMergeAuditRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985252764",
+  "pullRequest": 121,
+  "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/121",
+  "deploymentStatus": "GitHub Pages build/deployment workflow completed successfully, but the verification client could not fetch the live Pages URL to confirm that it serves build marker 2026-11-24-original-practice-118; live content remains unverified.",
+  "postMergeAuditRunId": 45331856742,
+  "postMergeAuditRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/45331856742",
   "pullRequestState": "merged",
-  "postMergeCommitSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
-  "liveBuildMarker": "2026-11-23-original-practice-101",
+  "postMergeCommitSha": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+  "liveBuildMarker": "2026-11-24-original-practice-118",
   "correctionStatus": "merged",
   "correctionPullRequest": 117,
   "correctionPullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/117",
@@ -27465,15 +27473,11 @@
   "correctionMergeCommitSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
   "finalMainShaAfterCorrection": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
   "pagesBuildAndDeployment": {
-    "status": "success",
-    "runId": 44986428168,
-    "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/44986428168",
-    "headSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
+    "runId": 45331855960,
+    "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/45331855960",
     "conclusion": "success",
-    "workflowRunId": 45320729171,
-    "workflowStatus": "in_progress",
-    "liveDeploymentVerified": false,
-    "expectedBuildMarker": "2026-11-23-original-practice-101"
+    "liveMarkerVerified": false,
+    "liveMarker": "2026-11-24-original-practice-118"
   },
   "correctionMainPushValidation": {
     "status": "success",
@@ -27482,7 +27486,7 @@
     "headSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
     "conclusion": "success"
   },
-  "postMergeMainSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
+  "postMergeMainSha": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
   "branch": "daily-2026-11-24-original-practice",
   "proposedBuildMarker": "2026-11-24-original-practice-118",
   "sourceReview": {
@@ -27763,5 +27767,23 @@
     "yourself",
     "themselves"
   ],
-  "normalization": "NFKD, lowercase, retain Unicode letters/numbers, remove punctuation, collapse whitespace; semantic tokens are unique words longer than two characters after the listed function-word stop list."
+  "normalization": "NFKD, lowercase, retain Unicode letters/numbers, remove punctuation, collapse whitespace; semantic tokens are unique words longer than two characters after the listed function-word stop list.",
+  "postMergeParityVerified": true,
+  "archiveParityVerified": true,
+  "canonicalEmbeddedParityVerified": true,
+  "activeUniqueQuestionsAfterMerge": 1406,
+  "mergedQuestions": 118,
+  "activeUniqueAdditions": 118,
+  "serviceWorkerCache": "mpsc-smart-study-v5-60-20261124",
+  "currentDailyTarget": 150,
+  "nextDailyTarget": 150,
+  "cumulativeUniqueAdditionsSinceRampStart": 525,
+  "remainingTo10000": 8594,
+  "qualityGatePassed": true,
+  "dedupGatePassed": true,
+  "sourceGatePassed": true,
+  "repositoryGatePassed": true,
+  "mergeGatePassed": true,
+  "targetGatePassed": true,
+  "gatePassed": true
 }

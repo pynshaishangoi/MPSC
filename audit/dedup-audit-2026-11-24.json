@@ -92,8 +92,8 @@
       "reason": "Concept overlap with active question 9299 on EPR for e-waste: both ask which producer-side party bears the defined end-of-life collection/processing responsibility. The waste stream differs, but the tested learning objective and answer pattern are substantially the same; rejected."
     }
   ],
-  "mergedQuestions": 0,
-  "activeUniqueAdditions": 0,
+  "mergedQuestions": 118,
+  "activeUniqueAdditions": 118,
   "projectedActiveUniqueQuestions": 1406,
   "targetAchievementRate": 0.9076923076923077,
   "candidateAcceptanceRate": 0.8740740740740741,
@@ -391,30 +391,21 @@
       "https://www.caadityagoel.in/news"
     ]
   },
-  "mergeStatus": "pending_merge",
-  "postMergeAudit": false,
-  "activeUniqueQuestionsAfterMerge": null,
-  "postMergeCommitSha": null,
+  "mergeStatus": "merged",
+  "postMergeAudit": true,
+  "activeUniqueQuestionsAfterMerge": 1406,
+  "postMergeCommitSha": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
   "validation": {
-    "questionSchema": "passed",
-    "uniqueIds": "passed",
-    "fourOptions": "passed",
-    "answerIndices": "passed",
-    "explanations": "passed",
-    "sourceLinks": "passed",
-    "originalPracticeLabels": "passed",
-    "exactDedup": "passed",
-    "optionInsensitiveDedup": "passed",
-    "semanticDedup": "passed",
-    "archiveParity": "passed_in_proposed_tree",
-    "canonicalEmbeddedParity": "passed_in_proposed_tree",
-    "repositoryTests": "pending"
+    "passed": true,
+    "runId": 45331856742,
+    "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/45331856742",
+    "conclusion": "success"
   },
   "liveDeploymentVerified": false,
   "liveBuildMarker": "2026-11-24-original-practice-118",
   "serviceWorkerCache": "mpsc-smart-study-v5-60-20261124",
   "branch": "daily-2026-11-24-original-practice",
-  "pullRequest": null,
+  "pullRequest": 121,
   "baseMainSha": "5888fc51255b73e0b64c302b5f392522a1e251be",
   "semanticScanMethod": "Token Jaccard over normalized raw PYQ and active question stems after conservative function-word removal; thresholds 0.40 for 2,572 PYQ records and 0.45 for 1,288 pre-run active questions; all threshold matches manually reviewed.",
   "rawPyqNearMatchPairSummary": [
@@ -462,5 +453,32 @@
       "decision": "rejected",
       "reason": "Plastic and e-waste EPR questions test the same producer-responsibility learning objective."
     }
-  ]
+  ],
+  "postMergeMainSha": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+  "mainShaAfterMerge": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+  "postMergeComparisonCorpusRecords": 3978,
+  "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/121",
+  "pullRequestState": "merged",
+  "pagesWorkflow": {
+    "runId": 45331855960,
+    "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/45331855960",
+    "conclusion": "success",
+    "liveBuildMarkerVerified": false
+  },
+  "repositoryTestsPassed": true,
+  "archiveParityVerified": true,
+  "canonicalEmbeddedParityVerified": true,
+  "liveDeploymentNote": "GitHub Pages build/deployment workflow completed successfully, but the verification client could not fetch the live Pages URL to confirm that it serves build marker 2026-11-24-original-practice-118; live content remains unverified.",
+  "currentDailyTarget": 150,
+  "nextDailyTarget": 150,
+  "cumulativeUniqueAdditionsSinceRampStart": 525,
+  "remainingTo10000": 8594,
+  "qualityGatePassed": true,
+  "dedupGatePassed": true,
+  "sourceGatePassed": true,
+  "repositoryGatePassed": true,
+  "mergeGatePassed": true,
+  "targetGatePassed": true,
+  "gatePassed": true,
+  "comparisonCorpusRecordsAfterMerge": 3978
 }
