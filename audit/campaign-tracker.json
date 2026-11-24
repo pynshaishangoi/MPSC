@@ -4,10 +4,10 @@
   "updatedDate": "2026-11-24",
   "repository": "pynshaishangoi/MPSC",
   "repositoryVisibility": "public",
-  "mainShaAtAudit": "5888fc51255b73e0b64c302b5f392522a1e251be",
+  "mainShaAtAudit": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
   "rampPolicy": "Start at 50; normally add 10 to next day's target; add 20 only after >=90% of target and all quality, deduplication, source, repository and merge gates pass; hold target after any failed gate; cap 250.",
   "rampStartTarget": 50,
-  "currentDailyTarget": 130,
+  "currentDailyTarget": 150,
   "previousRampRun": {
     "date": "2026-11-18",
     "status": "merged",
@@ -59,20 +59,20 @@
   },
   "latestRun": {
     "date": "2026-11-24",
-    "status": "pending_merge",
+    "status": "completed",
     "target": 130,
     "startingActiveQuestions": 1288,
     "draftedCandidates": 135,
     "validatedQuestions": 118,
-    "mergedQuestions": 0,
-    "activeUniqueAdditions": 0,
+    "mergedQuestions": 118,
+    "activeUniqueAdditions": 118,
     "projectedActiveUniqueCount": 1406,
     "passRate": 0.8740740740740741,
     "targetAchievementRate": 0.9076923076923077,
     "rejectedCandidates": 17,
     "exactStemCollisions": 0,
     "optionSetCollisions": 0,
-    "nearSemanticCollisionsRejected": 13,
+    "nearSemanticCollisionsRejected": 17,
     "withinBatchNearDuplicateCandidatesRejected": 0,
     "unresolvedSemanticCollisions": 0,
     "optionOnlyFingerprintMatchesReviewed": 0,
@@ -80,13 +80,11 @@
     "dedupGatePassed": true,
     "sourceGatePassed": true,
     "repositoryGatePassed": true,
-    "mergeGatePassed": false,
-    "targetGatePassed": false,
-    "gatePassed": false,
-    "nextDailyTarget": 130,
-    "blockers": [
-      "117 validated questions are staged but not merged; no additions are counted until merge."
-    ],
+    "mergeGatePassed": true,
+    "targetGatePassed": true,
+    "gatePassed": true,
+    "nextDailyTarget": 150,
+    "blockers": [],
     "officialPyqFilesFetched": 18,
     "officialPyqFilesTotal": 18,
     "officialPyqQuestionRecords": 2433,
@@ -103,15 +101,15 @@
     "archiveRecordsBeforeRun": 696,
     "archiveFilesAfterRun": 22,
     "archiveRecordsAfterRun": 814,
-    "pullRequest": null,
-    "pullRequestUrl": null,
-    "mergeCommitSha": null,
-    "githubActionsRun": null,
-    "githubActionsConclusion": "pending",
+    "pullRequest": 121,
+    "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/121",
+    "mergeCommitSha": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+    "githubActionsRun": 45331856742,
+    "githubActionsConclusion": "success",
     "deploymentVerified": false,
-    "deploymentStatus": "not_verified",
+    "deploymentStatus": "Pages workflow succeeded; live URL content unverified.",
     "preDraftActiveQuestions": 1288,
-    "postMergeActiveQuestions": null,
+    "postMergeActiveQuestions": 1406,
     "comparedPyqFiles": 19,
     "comparedPyqRecords": 2572,
     "preDraftComparisonCorpusRecords": 3860,
@@ -317,23 +315,23 @@
     },
     "liveBuildMarker": "2026-11-24-original-practice-118",
     "serviceWorkerCache": "mpsc-smart-study-v5-60-20261124",
-    "activeUniqueQuestionsAfterMerge": null,
-    "cumulativeUniqueAdditionsSinceRampStart": 407,
+    "activeUniqueQuestionsAfterMerge": 1406,
+    "cumulativeUniqueAdditionsSinceRampStart": 525,
     "remainingTo10000": 8712,
     "candidateValidationRate": 0.8740740740740741,
-    "postMergeAudit": false,
+    "postMergeAudit": true,
     "archiveParityVerified": true,
     "canonicalEmbeddedParityVerified": true,
     "liveDeploymentVerified": false,
-    "repositoryTestsPassed": false,
+    "repositoryTestsPassed": true,
     "currentActiveQuestions": 1288,
-    "pullRequestState": "pending",
+    "pullRequestState": "merged",
     "mainShaAtStartOfRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
     "proposedMainQuestionCount": 1406,
     "exactStemCollisionCount": 0,
     "optionSetCollisionCount": 0,
-    "activeNearMatchesReviewed": 0,
-    "pyqNearMatches": 0,
+    "activeNearMatchesReviewed": 2,
+    "pyqNearMatches": 3,
     "withinBatchNearPairs": 0,
     "finalBatchNearPairs": 0,
     "rejectedCandidateDetails": [
@@ -432,7 +430,7 @@
     "activeNearMatchPairsFalsePositive": 2,
     "activeConceptOverlapCandidatesRejected": 1,
     "semanticReview": {
-      "method": "Token Jaccard over normalized raw PYQ and active question stems after conservative function-word removal; thresholds 0.40 for 2,572 PYQ records and 0.45 for 1,288 pre-run active questions; all threshold matches manually reviewed.",
+      "method": "Token Jaccard over normalized raw question stems after conservative function-word removal; threshold 0.40 against 2,572 PYQ records and 0.45 against 1,288 pre-run active questions; manual concept review of all threshold matches.",
       "pyqFiles": 19,
       "pyqRecords": 2572,
       "activeQuestions": 1288,
@@ -443,18 +441,28 @@
       "activeFalsePositives": 2,
       "activeConceptOverlapRejected": 1,
       "unresolved": 0
-    }
+    },
+    "pagesDeploymentRunId": 45331855960,
+    "pagesBuildConclusion": "success",
+    "mainShaAfterMerge": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+    "liveDeploymentNote": "GitHub Pages build/deployment workflow completed successfully, but the verification client could not fetch the live Pages URL to confirm that it serves build marker 2026-11-24-original-practice-118; live content remains unverified.",
+    "cumulativeUniqueAdditionsAfterRun": 525,
+    "remainingTo10000AfterRun": 8594,
+    "currentDailyTargetAfterRun": 150,
+    "nextDailyTargetAfterRun": 150,
+    "pagesWorkflowRunId": 45331855960,
+    "pagesWorkflowStatus": "success"
   },
-  "nextDailyTarget": 130,
-  "cumulativeUniqueAdditionsSinceRampStart": 407,
+  "nextDailyTarget": 150,
+  "cumulativeUniqueAdditionsSinceRampStart": 525,
   "targetActiveQuestions": 10000,
-  "currentActiveQuestions": 1288,
-  "remainingTo10000": 8712,
+  "currentActiveQuestions": 1406,
+  "remainingTo10000": 8594,
   "dedupRefreshRequiredBeforeDrafting": false,
   "nextRequiredActions": [
-    "Review pull request and wait for repository validation.",
-    "After merge, run a fresh full parity audit and finalize active counts, cumulative additions and the next ramp target.",
-    "Verify the live GitHub Pages build marker before reporting deployment as successful."
+    "Before the next drafting run, refresh the complete deduplication index across all 1,406 active questions, 22 question-batch archives and 19 official/partial PYQ files.",
+    "Next daily target: 150; maintain the quality and zero-repeat gates.",
+    "Recheck the live Pages URL for build marker 2026-11-24-original-practice-118; deployment workflow succeeded but the live marker is not independently verified."
   ],
   "priorPreflightRun": {
     "date": "2026-11-17",
@@ -676,7 +684,10 @@
     "otherQuestionBankFilesOutsideCanonicalArchivesAndPyq": 0,
     "unlistedQuestionBatchFiles": 0,
     "comparisonCorpusRecordsBeforeRun": 3860,
-    "comparisonCorpusRecordsAfterProposedMerge": 3978
+    "comparisonCorpusRecordsAfterProposedMerge": 3978,
+    "activeQuestionsAfterMerge": 1406,
+    "comparisonCorpusRecordsAfterMerge": 3978,
+    "questionBatchArchiveRecordsAfterMerge": 814
   },
   "mainShaAtStartOfLatestRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
   "previousRunBeforeLatest": {
@@ -756,7 +767,7 @@
       "questionStemsOrAnswersChanged": false
     }
   },
-  "latestMainShaAtAudit": "5888fc51255b73e0b64c302b5f392522a1e251be",
+  "latestMainShaAtAudit": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
   "previousRunTwoBack": {
     "date": "2026-11-19",
     "target": 50,
@@ -777,25 +788,48 @@
     "githubActionsConclusion": "success",
     "deploymentVerified": false
   },
-  "currentMainShaAtRunEnd": "5888fc51255b73e0b64c302b5f392522a1e251be",
+  "currentMainShaAtRunEnd": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
   "repositoryVisibilityVerifiedDate": "2026-11-24",
   "repositoryDefaultBranch": "main",
-  "pendingRun": {
+  "pendingRun": null,
+  "mainShaAtStartOfCurrentRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
+  "rampHistory": [
+    {
+      "date": "2026-11-23",
+      "target": 110,
+      "drafted": 110,
+      "validated": 101,
+      "merged": 101,
+      "status": "merged",
+      "nextTarget": 130
+    },
+    {
+      "date": "2026-11-24",
+      "target": 130,
+      "drafted": 135,
+      "validated": 118,
+      "merged": 118,
+      "status": "merged",
+      "nextTarget": 150
+    }
+  ],
+  "currentMainShaAtAudit": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+  "latestCompletedRun": {
     "date": "2026-11-24",
-    "status": "pending_merge",
+    "status": "completed",
     "target": 130,
     "startingActiveQuestions": 1288,
     "draftedCandidates": 135,
     "validatedQuestions": 118,
-    "mergedQuestions": 0,
-    "activeUniqueAdditions": 0,
+    "mergedQuestions": 118,
+    "activeUniqueAdditions": 118,
     "projectedActiveUniqueCount": 1406,
     "passRate": 0.8740740740740741,
     "targetAchievementRate": 0.9076923076923077,
     "rejectedCandidates": 17,
     "exactStemCollisions": 0,
     "optionSetCollisions": 0,
-    "nearSemanticCollisionsRejected": 13,
+    "nearSemanticCollisionsRejected": 17,
     "withinBatchNearDuplicateCandidatesRejected": 0,
     "unresolvedSemanticCollisions": 0,
     "optionOnlyFingerprintMatchesReviewed": 0,
@@ -803,13 +837,11 @@
     "dedupGatePassed": true,
     "sourceGatePassed": true,
     "repositoryGatePassed": true,
-    "mergeGatePassed": false,
-    "targetGatePassed": false,
-    "gatePassed": false,
-    "nextDailyTarget": 130,
-    "blockers": [
-      "117 validated questions are staged but not merged; no additions are counted until merge."
-    ],
+    "mergeGatePassed": true,
+    "targetGatePassed": true,
+    "gatePassed": true,
+    "nextDailyTarget": 150,
+    "blockers": [],
     "officialPyqFilesFetched": 18,
     "officialPyqFilesTotal": 18,
     "officialPyqQuestionRecords": 2433,
@@ -826,15 +858,15 @@
     "archiveRecordsBeforeRun": 696,
     "archiveFilesAfterRun": 22,
     "archiveRecordsAfterRun": 814,
-    "pullRequest": null,
-    "pullRequestUrl": null,
-    "mergeCommitSha": null,
-    "githubActionsRun": null,
-    "githubActionsConclusion": "pending",
+    "pullRequest": 121,
+    "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/121",
+    "mergeCommitSha": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+    "githubActionsRun": 45331856742,
+    "githubActionsConclusion": "success",
     "deploymentVerified": false,
-    "deploymentStatus": "not_verified",
+    "deploymentStatus": "Pages workflow succeeded; live URL content unverified.",
     "preDraftActiveQuestions": 1288,
-    "postMergeActiveQuestions": null,
+    "postMergeActiveQuestions": 1406,
     "comparedPyqFiles": 19,
     "comparedPyqRecords": 2572,
     "preDraftComparisonCorpusRecords": 3860,
@@ -1040,23 +1072,23 @@
     },
     "liveBuildMarker": "2026-11-24-original-practice-118",
     "serviceWorkerCache": "mpsc-smart-study-v5-60-20261124",
-    "activeUniqueQuestionsAfterMerge": null,
-    "cumulativeUniqueAdditionsSinceRampStart": 407,
+    "activeUniqueQuestionsAfterMerge": 1406,
+    "cumulativeUniqueAdditionsSinceRampStart": 525,
     "remainingTo10000": 8712,
     "candidateValidationRate": 0.8740740740740741,
-    "postMergeAudit": false,
+    "postMergeAudit": true,
     "archiveParityVerified": true,
     "canonicalEmbeddedParityVerified": true,
     "liveDeploymentVerified": false,
-    "repositoryTestsPassed": false,
+    "repositoryTestsPassed": true,
     "currentActiveQuestions": 1288,
-    "pullRequestState": "pending",
+    "pullRequestState": "merged",
     "mainShaAtStartOfRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
     "proposedMainQuestionCount": 1406,
     "exactStemCollisionCount": 0,
     "optionSetCollisionCount": 0,
-    "activeNearMatchesReviewed": 0,
-    "pyqNearMatches": 0,
+    "activeNearMatchesReviewed": 2,
+    "pyqNearMatches": 3,
     "withinBatchNearPairs": 0,
     "finalBatchNearPairs": 0,
     "rejectedCandidateDetails": [
@@ -1155,7 +1187,7 @@
     "activeNearMatchPairsFalsePositive": 2,
     "activeConceptOverlapCandidatesRejected": 1,
     "semanticReview": {
-      "method": "Token Jaccard over normalized raw PYQ and active question stems after conservative function-word removal; thresholds 0.40 for 2,572 PYQ records and 0.45 for 1,288 pre-run active questions; all threshold matches manually reviewed.",
+      "method": "Token Jaccard over normalized raw question stems after conservative function-word removal; threshold 0.40 against 2,572 PYQ records and 0.45 against 1,288 pre-run active questions; manual concept review of all threshold matches.",
       "pyqFiles": 19,
       "pyqRecords": 2572,
       "activeQuestions": 1288,
@@ -1166,289 +1198,17 @@
       "activeFalsePositives": 2,
       "activeConceptOverlapRejected": 1,
       "unresolved": 0
-    }
-  },
-  "mainShaAtStartOfCurrentRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
-  "rampHistory": [
-    {
-      "date": "2026-11-23",
-      "target": 110,
-      "drafted": 110,
-      "validated": 101,
-      "merged": 101,
-      "status": "merged",
-      "nextTarget": 130
-    }
-  ],
-  "currentMainShaAtAudit": "5888fc51255b73e0b64c302b5f392522a1e251be",
-  "latestCompletedRun": {
-    "date": "2026-11-23",
-    "status": "merged",
-    "target": 110,
-    "startingActiveQuestions": 1187,
-    "draftedCandidates": 110,
-    "validatedQuestions": 101,
-    "mergedQuestions": 101,
-    "activeUniqueAdditions": 101,
-    "projectedActiveUniqueCount": 1288,
-    "passRate": 0.9181818181818182,
-    "targetAchievementRate": 0.9181818181818182,
-    "exactCollisionChecks": 0,
-    "nearSemanticCollisionsRejected": 9,
-    "withinBatchNearDuplicateCandidatesRejected": 2,
-    "rejectedCandidates": 9,
-    "qualityGatePassed": true,
-    "dedupGatePassed": true,
-    "sourceGatePassed": true,
-    "repositoryGatePassed": true,
-    "mergeGatePassed": true,
-    "targetGatePassed": true,
-    "gatePassed": true,
-    "nextDailyTarget": 130,
-    "blockers": [
-      "GitHub Pages deployment workflow was still running at the post-merge audit; live URL content was not independently verified."
-    ],
-    "officialPyqFilesFetched": 18,
-    "officialPyqFilesTotal": 18,
-    "officialPyqQuestionRecords": 2433,
-    "partialDuplicateQuestionsVerified": 139,
-    "allPyqFilesScanned": 19,
-    "allPyqQuestionRecords": 2572,
-    "dedupNormalizationComplete": true,
-    "exactCollisionChecksCompleted": true,
-    "optionInsensitiveChecksCompleted": true,
-    "semanticCollisionChecksCompleted": true,
-    "comparisonCorpusRecords": 3759,
-    "postMergeComparisonCorpusRecords": 3860,
-    "unresolvedSemanticCollisions": 0,
-    "archiveFilesBeforeRun": 20,
-    "archiveRecordsBeforeRun": 595,
-    "archiveFilesAfterRun": 21,
-    "archiveRecordsAfterRun": 696,
-    "pullRequest": 119,
-    "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/119",
-    "mergeCommitSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
-    "githubActionsRun": 45114258923,
-    "githubActionsConclusion": "success",
-    "deploymentVerified": false,
-    "deploymentStatus": "Pages build/deployment workflow in progress; live URL content unverified.",
-    "preDraftActiveQuestions": 1187,
-    "postMergeActiveQuestions": 1288,
-    "comparedPyqFiles": 19,
-    "comparedPyqRecords": 2572,
-    "preDraftComparisonCorpusRecords": 3759,
-    "subjects": {
-      "GST / Inspector of Taxes": 10,
-      "Meghalaya GK": 10,
-      "Polity": 8,
-      "Science": 14,
-      "Geography": 10,
-      "Economy": 8,
-      "Computer": 9,
-      "Environment": 9,
-      "History": 8,
-      "English": 8,
-      "Arithmetic": 7
     },
-    "examTracks": [
-      "MPSC Inspector of Taxes",
-      "DSC East Khasi Hills LDA-cum-Typist",
-      "MPSC Secretariat LDA"
-    ],
-    "rejectedCandidateTopics": [
-      "SI base unit — mole",
-      "IPv6 address length",
-      "UNCCD establishment year",
-      "Population standard deviation",
-      "Two-condition schedule",
-      "Fixed-gap ordering",
-      "Conditional ordering",
-      "Set inclusion relation",
-      "Exactly-one-true statement"
-    ],
-    "sourceReview": {
-      "verifiedDate": "2026-11-23",
-      "primarySources": [
-        {
-          "name": "GSTN-authorised IRIS IRP — E-Invoice Mandate",
-          "url": "https://einvoice6.gst.gov.in/content/einvoice-mandate/"
-        },
-        {
-          "name": "GSTN-authorised IRIS IRP — IRN specifications",
-          "url": "https://einvoice6.gst.gov.in/content/irn-2/"
-        },
-        {
-          "name": "CBIC — CGST Rules, 2017, Rule 46",
-          "url": "https://taxinformation.cbic.gov.in/content-page/explore-rules/1000136/1000001"
-        },
-        {
-          "name": "CBIC — Circular 160/16/2021-GST, electronic IRN QR code",
-          "url": "https://cbic-gst.gov.in/pdf/Circular-No-160-14-2021-GST.pdf"
-        },
-        {
-          "name": "Government of Meghalaya — Nongkrem Dance Festival",
-          "url": "https://www.meghalaya.gov.in/meghalaya/index.php/nongkrem-dance"
-        },
-        {
-          "name": "Government of Meghalaya — Shillong and Khasi cultural information",
-          "url": "https://meghalaya.gov.in/node/34292"
-        },
-        {
-          "name": "Government of Meghalaya — Behdienkhlam Festival",
-          "url": "https://meghalaya.gov.in/behdienkhlam"
-        },
-        {
-          "name": "Government of Meghalaya — Wangala Festival",
-          "url": "https://www.meghalaya.gov.in/meghalaya/index.php/wangala"
-        },
-        {
-          "name": "Government of Meghalaya — Tura and Garo cultural information",
-          "url": "https://meghalaya.gov.in/index.php/node/34296"
-        },
-        {
-          "name": "Legislative Department — Constitution of India",
-          "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf"
-        },
-        {
-          "name": "NCERT — Biology Exemplar Problems, Class XI",
-          "url": "https://www.ncert.nic.in/exemplar-problems.php"
-        },
-        {
-          "name": "USGS — Glossary of Glacier Terminology",
-          "url": "https://pubs.usgs.gov/of/2004/1216/text.html"
-        },
-        {
-          "name": "USGS — Eolian sediments",
-          "url": "https://www.usgs.gov/publications/eolian-sediments-0"
-        },
-        {
-          "name": "USGS — Types of Dunes",
-          "url": "https://pubs.usgs.gov/gip/deserts/dunes/"
-        },
-        {
-          "name": "USGS — Glacial Isostatic Adjustment",
-          "url": "https://www.usgs.gov/media/images/glacial-isostatic-adjustment"
-        },
-        {
-          "name": "NOAA — Upwelling",
-          "url": "https://oceanexplorer.noaa.gov/ocean-fact/upwelling/"
-        },
-        {
-          "name": "NCERT — Geography Textbook Portal",
-          "url": "https://ncert.nic.in/textbook.php"
-        },
-        {
-          "name": "Government of India — Economic Survey, Tax Buoyancy",
-          "url": "https://www.indiabudget.gov.in/economicsurvey/doc/echapter.pdf"
-        },
-        {
-          "name": "RBI — Annual Report, Tax Buoyancy",
-          "url": "https://systemhealth.rbi.org.in/Scripts/AnnualReportPublications.aspx_Id%3D1402.html"
-        },
-        {
-          "name": "World Bank — Tax Expenditures and Revenue Foregone",
-          "url": "https://documents1.worldbank.org/curated/en/317341468335679099/pdf/588150WP0FIAS110BOX353820B01PUBLIC1.pdf"
-        },
-        {
-          "name": "IMF — Fiscal Policy Transmission and Crowding Out",
-          "url": "https://www.imf.org/_next/data/EpnxHCnVQm0tS7VzM-X4o/en/-/media/websites/imf/imported-full-text-pdf/external/pubs/ft/wp/2003/_wp03237.pdf.json"
-        },
-        {
-          "name": "NCERT — Economics Textbook Portal",
-          "url": "https://ncert.nic.in/textbook.php"
-        },
-        {
-          "name": "IETF — RFC 1918, Private IPv4 Address Ranges",
-          "url": "https://www.rfc-editor.org/rfc/rfc1918"
-        },
-        {
-          "name": "IETF — RFC 2131, DHCP",
-          "url": "https://www.rfc-editor.org/rfc/rfc2131"
-        },
-        {
-          "name": "IETF — RFC 3596, DNS Extensions for IPv6",
-          "url": "https://www.rfc-editor.org/rfc/rfc3596"
-        },
-        {
-          "name": "Cloudflare Learning Center — Data Link Layer",
-          "url": "https://www.cloudflare.com/learning/network-layer/what-is-the-data-link-layer/"
-        },
-        {
-          "name": "Microsoft Learn — Storage Spaces and Mirrored Resiliency",
-          "url": "https://learn.microsoft.com/en-us/windows-server/storage/storage-spaces/overview"
-        },
-        {
-          "name": "PostgreSQL Documentation — Transactions",
-          "url": "https://www.postgresql.org/docs/current/tutorial-transactions.html"
-        },
-        {
-          "name": "PostgreSQL Documentation — UNION and UNION ALL",
-          "url": "https://www.postgresql.org/docs/current/queries-union.html"
-        },
-        {
-          "name": "W3C — Web Accessibility Technique H44",
-          "url": "https://www.w3.org/WAI/WCAG21/Techniques/html/H44"
-        },
-        {
-          "name": "IETF — RFC 9110, HTTP Semantics",
-          "url": "https://www.rfc-editor.org/rfc/rfc9110"
-        },
-        {
-          "name": "UNCCD — Convention Overview",
-          "url": "https://www.unccd.int/convention/overview"
-        },
-        {
-          "name": "Convention on Migratory Species — Convention and Appendices",
-          "url": "https://www.cms.int/legalinstrument/cms"
-        },
-        {
-          "name": "Stockholm Convention — Overview and Objective",
-          "url": "https://chm.pops.int/TheConvention/Overview/tabid/3351/ItemId/5382/Default.aspx"
-        },
-        {
-          "name": "IMO — MARPOL Convention",
-          "url": "https://www.imo.org/en/about/conventions/pages/international-convention-for-the-prevention-of-pollution-from-ships-%28marpol%29.aspx"
-        },
-        {
-          "name": "United Nations — Rio Declaration",
-          "url": "https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_CONF.151_26_Vol.I_Declaration.pdf"
-        },
-        {
-          "name": "NCERT — Official History Textbook Portal",
-          "url": "https://ncert.nic.in/textbook.php"
-        },
-        {
-          "name": "Cambridge Dictionary — English Vocabulary",
-          "url": "https://dictionary.cambridge.org/"
-        },
-        {
-          "name": "NCERT — Mathematics Textbook Portal",
-          "url": "https://ncert.nic.in/textbook.php"
-        }
-      ],
-      "gstReview": "E-invoice applicability, IRN, 30-day reporting, Rule 138A(2) and Rule 46 checked against GSTN-authorised IRP and CBIC sources on 23 November 2026.",
-      "meghalayaReview": "Nongkrem, Shad Suk Mynsiem, Behdienkhlam, Wangala and Garo Nokpante/A'kingland checked against Government of Meghalaya pages."
-    },
-    "liveBuildMarker": "2026-11-23-original-practice-101",
-    "serviceWorkerCache": "mpsc-smart-study-v5-59-20261123",
-    "activeUniqueQuestionsAfterMerge": 1288,
-    "cumulativeUniqueAdditionsSinceRampStart": 407,
-    "remainingTo10000": 8712,
-    "candidateValidationRate": 0.9181818181818182,
-    "postMergeAudit": true,
-    "archiveParityVerified": true,
-    "canonicalEmbeddedParityVerified": true,
-    "liveDeploymentVerified": false,
-    "validationRunId": 45114258923,
-    "validationRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/45114258923",
-    "repositoryTestsPassed": true,
-    "currentActiveQuestions": 1288,
-    "pullRequestState": "merged",
-    "pagesDeploymentRunId": 45320729171,
-    "pagesBuildConclusion": "in_progress",
-    "postMergeCommitSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
-    "postMergeMainSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
-    "optionOnlyFingerprintMatchesReviewed": 4
+    "pagesDeploymentRunId": 45331855960,
+    "pagesBuildConclusion": "success",
+    "mainShaAfterMerge": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+    "liveDeploymentNote": "GitHub Pages build/deployment workflow completed successfully, but the verification client could not fetch the live Pages URL to confirm that it serves build marker 2026-11-24-original-practice-118; live content remains unverified.",
+    "cumulativeUniqueAdditionsAfterRun": 525,
+    "remainingTo10000AfterRun": 8594,
+    "currentDailyTargetAfterRun": 150,
+    "nextDailyTargetAfterRun": 150,
+    "pagesWorkflowRunId": 45331855960,
+    "pagesWorkflowStatus": "success"
   },
   "completedRun23": {
     "date": "2026-11-23",
@@ -1719,7 +1479,7 @@
     "postMergeMainSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
     "optionOnlyFingerprintMatchesReviewed": 4
   },
-  "latestMainShaAtCurrentAudit": "5888fc51255b73e0b64c302b5f392522a1e251be",
+  "latestMainShaAtCurrentAudit": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
   "completedRun22": {
     "date": "2026-11-22",
     "status": "merged",
