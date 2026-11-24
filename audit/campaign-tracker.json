@@ -4,7 +4,7 @@
   "updatedDate": "2026-11-24",
   "repository": "pynshaishangoi/MPSC",
   "repositoryVisibility": "public",
-  "mainShaAtAudit": "ff4813b0109348751255f6e16d1b69311c4cd106",
+  "mainShaAtAudit": "5888fc51255b73e0b64c302b5f392522a1e251be",
   "rampPolicy": "Start at 50; normally add 10 to next day's target; add 20 only after >=90% of target and all quality, deduplication, source, repository and merge gates pass; hold target after any failed gate; cap 250.",
   "rampStartTarget": 50,
   "currentDailyTarget": 130,
@@ -252,7 +252,7 @@
     "repositoryTestsPassed": false,
     "currentActiveQuestions": 1288,
     "pullRequestState": "pending",
-    "mainShaAtStartOfRun": "ff4813b0109348751255f6e16d1b69311c4cd106",
+    "mainShaAtStartOfRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
     "proposedMainQuestionCount": 1406,
     "exactStemCollisionCount": 0,
     "optionSetCollisionCount": 0,
@@ -494,7 +494,7 @@
     "comparisonCorpusRecordsBeforeRun": 3860,
     "comparisonCorpusRecordsAfterProposedMerge": 3978
   },
-  "mainShaAtStartOfLatestRun": "ff4813b0109348751255f6e16d1b69311c4cd106",
+  "mainShaAtStartOfLatestRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
   "previousRunBeforeLatest": {
     "date": "2026-11-20",
     "status": "merged",
@@ -572,7 +572,7 @@
       "questionStemsOrAnswersChanged": false
     }
   },
-  "latestMainShaAtAudit": "ff4813b0109348751255f6e16d1b69311c4cd106",
+  "latestMainShaAtAudit": "5888fc51255b73e0b64c302b5f392522a1e251be",
   "previousRunTwoBack": {
     "date": "2026-11-19",
     "target": 50,
@@ -593,7 +593,7 @@
     "githubActionsConclusion": "success",
     "deploymentVerified": false
   },
-  "currentMainShaAtRunEnd": "ff4813b0109348751255f6e16d1b69311c4cd106",
+  "currentMainShaAtRunEnd": "5888fc51255b73e0b64c302b5f392522a1e251be",
   "repositoryVisibilityVerifiedDate": "2026-11-24",
   "repositoryDefaultBranch": "main",
   "pendingRun": {
@@ -791,7 +791,7 @@
     "repositoryTestsPassed": false,
     "currentActiveQuestions": 1288,
     "pullRequestState": "pending",
-    "mainShaAtStartOfRun": "ff4813b0109348751255f6e16d1b69311c4cd106",
+    "mainShaAtStartOfRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
     "proposedMainQuestionCount": 1406,
     "exactStemCollisionCount": 0,
     "optionSetCollisionCount": 0,
@@ -800,7 +800,7 @@
     "withinBatchNearPairs": 0,
     "finalBatchNearPairs": 0
   },
-  "mainShaAtStartOfCurrentRun": "ff4813b0109348751255f6e16d1b69311c4cd106",
+  "mainShaAtStartOfCurrentRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
   "rampHistory": [
     {
       "date": "2026-11-23",
@@ -812,7 +812,7 @@
       "nextTarget": 130
     }
   ],
-  "currentMainShaAtAudit": "ff4813b0109348751255f6e16d1b69311c4cd106",
+  "currentMainShaAtAudit": "5888fc51255b73e0b64c302b5f392522a1e251be",
   "latestCompletedRun": {
     "date": "2026-11-23",
     "status": "merged",
@@ -1351,7 +1351,7 @@
     "postMergeMainSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
     "optionOnlyFingerprintMatchesReviewed": 4
   },
-  "latestMainShaAtCurrentAudit": "ff4813b0109348751255f6e16d1b69311c4cd106",
+  "latestMainShaAtCurrentAudit": "5888fc51255b73e0b64c302b5f392522a1e251be",
   "completedRun22": {
     "date": "2026-11-22",
     "status": "merged",
