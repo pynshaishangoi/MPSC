@@ -306,5 +306,6 @@
   "liveBuildMarker": "2026-11-24-original-practice-118",
   "serviceWorkerCache": "mpsc-smart-study-v5-60-20261124",
   "branch": "daily-2026-11-24-original-practice",
-  "pullRequest": null
+  "pullRequest": null,
+  "baseMainSha": "5888fc51255b73e0b64c302b5f392522a1e251be"
 }
