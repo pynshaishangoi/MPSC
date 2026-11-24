@@ -444,7 +444,14 @@
       "rawActivePairs": 2,
       "activeFalsePositives": 2,
       "activeConceptOverlapRejected": 1,
-      "unresolved": 0
+      "unresolved": 0,
+      "reviewedNearMatchPairs": 10,
+      "falsePositiveNearMatches": 5,
+      "acceptedNearMatches": 5,
+      "rejectedNearMatchPairs": 5,
+      "rejectedNearMatches": 17,
+      "conceptOverlapCandidatesRejected": 1,
+      "manualReviewNotes": "Manual review of all threshold matches: eight PYQ near-match pairs at Jaccard ≥0.40 were reviewed; five pairs were rejected across candidates 9465 (three boats-and-streams matches), 9475 (one area-percentage match) and 9540 (one two-draw probability match). Three Q9462 pairs were false positives because the semicolon punctuation skill differs from the PYQ article, tense and pronoun skills. Two active-bank near-match pairs at Jaccard ≥0.45 were false positives: Q9458 (abrogate vs meticulous) and Q9461 (whom after a preposition vs do/does agreement). Q9529 was separately rejected for the same EPR producer-responsibility learning objective as active Q9299 despite a below-threshold lexical score. Q9464 (harmonic-mean average speed) and Q9511 (Government of India Act 1858) were manually retained as materially different from their closest active questions. No unresolved semantic collisions remain."
     },
     "pagesDeploymentRunId": 45331855960,
     "pagesBuildConclusion": "success",
@@ -1211,7 +1218,14 @@
       "rawActivePairs": 2,
       "activeFalsePositives": 2,
       "activeConceptOverlapRejected": 1,
-      "unresolved": 0
+      "unresolved": 0,
+      "reviewedNearMatchPairs": 10,
+      "falsePositiveNearMatches": 5,
+      "acceptedNearMatches": 5,
+      "rejectedNearMatchPairs": 5,
+      "rejectedNearMatches": 17,
+      "conceptOverlapCandidatesRejected": 1,
+      "manualReviewNotes": "Manual review of all threshold matches: eight PYQ near-match pairs at Jaccard ≥0.40 were reviewed; five pairs were rejected across candidates 9465 (three boats-and-streams matches), 9475 (one area-percentage match) and 9540 (one two-draw probability match). Three Q9462 pairs were false positives because the semicolon punctuation skill differs from the PYQ article, tense and pronoun skills. Two active-bank near-match pairs at Jaccard ≥0.45 were false positives: Q9458 (abrogate vs meticulous) and Q9461 (whom after a preposition vs do/does agreement). Q9529 was separately rejected for the same EPR producer-responsibility learning objective as active Q9299 despite a below-threshold lexical score. Q9464 (harmonic-mean average speed) and Q9511 (Government of India Act 1858) were manually retained as materially different from their closest active questions. No unresolved semantic collisions remain."
     },
     "pagesDeploymentRunId": 45331855960,
     "pagesBuildConclusion": "success",
