@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "status": "pending_merge",
+  "status": "merged",
   "target": 110,
   "candidateCount": 110,
   "draftedCandidates": 110,
@@ -3673,5 +3673,8 @@
     ],
     "gstReview": "E-invoice applicability, IRN, 30-day reporting, Rule 138A(2) and Rule 46 checked against GSTN-authorised IRP and CBIC sources on 23 November 2026.",
     "meghalayaReview": "Nongkrem, Shad Suk Mynsiem, Behdienkhlam, Wangala and Garo Nokpante/A'kingland checked against Government of Meghalaya pages."
-  }
+  },
+  "mergeStatus": "merged",
+  "mergedQuestions": 101,
+  "mergeCommitSha": "ff4813b0109348751255f6e16d1b69311c4cd106"
 }

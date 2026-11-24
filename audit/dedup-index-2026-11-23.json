@@ -24500,8 +24500,9 @@
     "source": "index.html embedded Q array",
     "offlineFirst": true,
     "runtimeArchiveFetchRequired": false,
-    "postMergeParityVerified": false,
-    "proposedTreeParityVerified": true
+    "postMergeParityVerified": true,
+    "proposedTreeParityVerified": true,
+    "postMergeQuestionCount": 1288
   },
   "officialPyq": {
     "fileCount": 18,
@@ -24513,7 +24514,7 @@
   "archive": {
     "fileCount": 21,
     "questionCount": 696,
-    "mirrorParityVerified": false,
+    "mirrorParityVerified": true,
     "archiveRecordsAreMirrors": true,
     "excludedFromUniqueComparisonCount": true,
     "postMergeParityVerified": true,
@@ -24750,7 +24751,7 @@
     "otherQuestionBankFilesOutsideCanonicalArchivesAndPyq": 0,
     "activeQuestionsBeforeRun": 1187,
     "activeQuestionsInProposedBuild": 1288,
-    "activeQuestionsAfterMerge": null,
+    "activeQuestionsAfterMerge": 1288,
     "questionBatchArchivesBeforeRun": 20,
     "questionBatchArchiveRecordsBeforeRun": 595,
     "questionBatchArchivesInProposedBuild": 21,
@@ -24758,7 +24759,7 @@
     "comparisonCorpusRecordsBeforeRun": 3759,
     "comparisonCorpusRecordsAfterMerge": 3860,
     "questionTextChangedSincePriorAudit": true,
-    "activeQuestions": 1187
+    "activeQuestions": 1288
   },
   "sourceChangesSincePriorAudit": {
     "questionStemsOptionsAnswersUnchanged": true,
@@ -24770,20 +24771,20 @@
     ],
     "dedupEffect": "All previous active and official-PYQ stems/options/answers remained unchanged; the new 90 accepted stems passed the final cross-corpus and within-batch scans."
   },
-  "mergeStatus": "pending_merge",
-  "mergedMainSha": null,
-  "postMergeAudit": false,
+  "mergeStatus": "merged",
+  "mergedMainSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
+  "postMergeAudit": true,
   "liveDeploymentVerified": false,
-  "validationRunId": null,
-  "validationRunUrl": null,
-  "validationConclusion": "pending",
+  "validationRunId": 45114258923,
+  "validationRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/45114258923",
+  "validationConclusion": "success",
   "pullRequest": null,
   "pullRequestUrl": null,
-  "deploymentStatus": "pending_merge_live_content_unverified",
+  "deploymentStatus": "GitHub Pages deployment workflow is in progress; live URL content remains unverified.",
   "postMergeAuditRunId": 44985252764,
   "postMergeAuditRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/44985252764",
-  "pullRequestState": "pending",
-  "postMergeCommitSha": null,
+  "pullRequestState": "merged",
+  "postMergeCommitSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
   "liveBuildMarker": "2026-11-23-original-practice-101",
   "correctionStatus": "merged",
   "correctionPullRequest": 117,
@@ -24805,7 +24806,11 @@
     "runId": 44986428168,
     "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/44986428168",
     "headSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
-    "conclusion": "success"
+    "conclusion": "success",
+    "workflowRunId": 45320729171,
+    "workflowStatus": "in_progress",
+    "liveDeploymentVerified": false,
+    "expectedBuildMarker": "2026-11-23-original-practice-101"
   },
   "correctionMainPushValidation": {
     "status": "success",
@@ -24813,5 +24818,6 @@
     "url": "https://github.com/pynshaishangoi/MPSC/actions/runs/44986428297",
     "headSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
     "conclusion": "success"
-  }
+  },
+  "postMergeMainSha": "ff4813b0109348751255f6e16d1b69311c4cd106"
 }

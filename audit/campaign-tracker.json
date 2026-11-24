@@ -1,13 +1,13 @@
 {
   "schemaVersion": 2,
   "campaign": "MPSC Smart Study Hub — original practice question ramp-up",
-  "updatedDate": "2026-11-22",
+  "updatedDate": "2026-11-24",
   "repository": "pynshaishangoi/MPSC",
   "repositoryVisibility": "public",
-  "mainShaAtAudit": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
+  "mainShaAtAudit": "ff4813b0109348751255f6e16d1b69311c4cd106",
   "rampPolicy": "Start at 50; normally add 10 to next day's target; add 20 only after >=90% of target and all quality, deduplication, source, repository and merge gates pass; hold target after any failed gate; cap 250.",
   "rampStartTarget": 50,
-  "currentDailyTarget": 90,
+  "currentDailyTarget": 110,
   "previousRampRun": {
     "date": "2026-11-18",
     "status": "merged",
@@ -517,17 +517,16 @@
     },
     "postCorrectionMainSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4"
   },
-  "nextDailyTarget": 110,
-  "cumulativeUniqueAdditionsSinceRampStart": 306,
+  "nextDailyTarget": 130,
+  "cumulativeUniqueAdditionsSinceRampStart": 407,
   "targetActiveQuestions": 10000,
-  "currentActiveQuestions": 1187,
-  "remainingTo10000": 8813,
+  "currentActiveQuestions": 1288,
+  "remainingTo10000": 8712,
   "dedupRefreshRequiredBeforeDrafting": true,
   "nextRequiredActions": [
-    "Next production run starts at 110 questions; increase only if the previous run meets the 90% target and all quality, source, deduplication, repository and merge gates pass.",
-    "Refresh deduplication across 1,187 active questions, 20 archive files (595 mirrored records), all 18 official PYQ files (2,433 records) and the 139-record partial Labour Inspector duplicate file.",
-    "Verify the live GitHub Pages URL serves build marker 2026-11-22-original-practice-90; workflow success alone is not proof of live content.",
-    "Preserve the embedded offline-first Q array; do not make question visibility depend on runtime archive fetches."
+    "Start 24 November production with a target of 130 only after refreshing the complete deduplication index across all 1,288 active questions, 19 PYQ transcription files and 21 archive mirrors.",
+    "Keep original practice questions separate from official PYQ transcriptions.",
+    "Verify the live GitHub Pages build marker before claiming deployment."
   ],
   "priorPreflightRun": {
     "date": "2026-11-17",
@@ -737,12 +736,12 @@
     "partialDuplicateQuestionRecords": 139,
     "allPyqQuestionFiles": 19,
     "allPyqQuestionRecords": 2572,
-    "questionBatchArchives": 20,
-    "questionBatchArchiveRecords": 595,
-    "projectedQuestionBatchArchives": 20,
-    "projectedQuestionBatchArchiveRecords": 595,
+    "questionBatchArchives": 21,
+    "questionBatchArchiveRecords": 696,
+    "projectedQuestionBatchArchives": 21,
+    "projectedQuestionBatchArchiveRecords": 696,
     "unlistedQuestionBatchFiles": 0,
-    "comparisonCorpusRecords": 3759,
+    "comparisonCorpusRecords": 3860,
     "supportingDataFilesReviewed": 15,
     "currentAffairsFilesReviewed": 4,
     "currentAffairsSourceItemsReviewed": 19,
@@ -750,8 +749,8 @@
     "pyqTranscriptionAuditFilesReviewed": 3,
     "officialSourcesIndexReviewed": true,
     "otherQuestionBankFilesOutsideCanonicalArchivesAndPyq": 0,
-    "activeQuestions": 1187,
-    "projectedActiveQuestions": 1187
+    "activeQuestions": 1288,
+    "projectedActiveQuestions": 1288
   },
   "mainShaAtStartOfLatestRun": "bebb1b5ce4cdf346861d009ca834c7a2d9036943",
   "previousRunBeforeLatest": {
@@ -852,36 +851,79 @@
     "githubActionsConclusion": "success",
     "deploymentVerified": false
   },
-  "currentMainShaAtRunEnd": "2347226f2f5e91ec481ae05a95ebc3b8d9140893",
-  "repositoryVisibilityVerifiedDate": "2026-11-22",
+  "currentMainShaAtRunEnd": "ff4813b0109348751255f6e16d1b69311c4cd106",
+  "repositoryVisibilityVerifiedDate": "2026-11-24",
   "repositoryDefaultBranch": "main",
-  "pendingRun": {
+  "pendingRun": null,
+  "mainShaAtStartOfCurrentRun": "ff4813b0109348751255f6e16d1b69311c4cd106",
+  "rampHistory": [
+    {
+      "date": "2026-11-23",
+      "target": 110,
+      "drafted": 110,
+      "validated": 101,
+      "merged": 101,
+      "status": "merged",
+      "nextTarget": 130
+    }
+  ],
+  "currentMainShaAtAudit": "ff4813b0109348751255f6e16d1b69311c4cd106",
+  "latestCompletedRun": {
     "date": "2026-11-23",
-    "status": "pending_merge",
+    "status": "merged",
     "target": 110,
     "startingActiveQuestions": 1187,
     "draftedCandidates": 110,
     "validatedQuestions": 101,
-    "rejectedCandidates": 9,
-    "mergedQuestions": 0,
-    "activeUniqueAdditions": 0,
+    "mergedQuestions": 101,
+    "activeUniqueAdditions": 101,
     "projectedActiveUniqueCount": 1288,
+    "passRate": 0.9181818181818182,
     "targetAchievementRate": 0.9181818181818182,
+    "exactCollisionChecks": 0,
+    "nearSemanticCollisionsRejected": 9,
+    "withinBatchNearDuplicateCandidatesRejected": 2,
+    "rejectedCandidates": 9,
     "qualityGatePassed": true,
     "dedupGatePassed": true,
     "sourceGatePassed": true,
-    "repositoryGatePassed": false,
-    "mergeGatePassed": false,
-    "targetGatePassed": false,
-    "gatePassed": false,
-    "nextDailyTarget": 110,
+    "repositoryGatePassed": true,
+    "mergeGatePassed": true,
+    "targetGatePassed": true,
+    "gatePassed": true,
+    "nextDailyTarget": 130,
     "blockers": [
-      "Batch is validated but not yet merged; unmerged questions are not counted.",
-      "Live website deployment has not been independently verified."
+      "GitHub Pages deployment workflow was still running at the post-merge audit; live URL content was not independently verified."
     ],
-    "pullRequest": null,
-    "pullRequestUrl": null,
-    "liveBuildMarker": "2026-11-23-original-practice-101",
+    "officialPyqFilesFetched": 18,
+    "officialPyqFilesTotal": 18,
+    "officialPyqQuestionRecords": 2433,
+    "partialDuplicateQuestionsVerified": 139,
+    "allPyqFilesScanned": 19,
+    "allPyqQuestionRecords": 2572,
+    "dedupNormalizationComplete": true,
+    "exactCollisionChecksCompleted": true,
+    "optionInsensitiveChecksCompleted": true,
+    "semanticCollisionChecksCompleted": true,
+    "comparisonCorpusRecords": 3759,
+    "postMergeComparisonCorpusRecords": 3860,
+    "unresolvedSemanticCollisions": 0,
+    "archiveFilesBeforeRun": 20,
+    "archiveRecordsBeforeRun": 595,
+    "archiveFilesAfterRun": 21,
+    "archiveRecordsAfterRun": 696,
+    "pullRequest": 119,
+    "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/119",
+    "mergeCommitSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
+    "githubActionsRun": 45114258923,
+    "githubActionsConclusion": "success",
+    "deploymentVerified": false,
+    "deploymentStatus": "Pages build/deployment workflow in progress; live URL content unverified.",
+    "preDraftActiveQuestions": 1187,
+    "postMergeActiveQuestions": 1288,
+    "comparedPyqFiles": 19,
+    "comparedPyqRecords": 2572,
+    "preDraftComparisonCorpusRecords": 3759,
     "subjects": {
       "GST / Inspector of Taxes": 10,
       "Meghalaya GK": 10,
@@ -899,6 +941,17 @@
       "MPSC Inspector of Taxes",
       "DSC East Khasi Hills LDA-cum-Typist",
       "MPSC Secretariat LDA"
+    ],
+    "rejectedCandidateTopics": [
+      "SI base unit — mole",
+      "IPv6 address length",
+      "UNCCD establishment year",
+      "Population standard deviation",
+      "Two-condition schedule",
+      "Fixed-gap ordering",
+      "Conditional ordering",
+      "Set inclusion relation",
+      "Exactly-one-true statement"
     ],
     "sourceReview": {
       "verifiedDate": "2026-11-23",
@@ -1063,21 +1116,295 @@
       "gstReview": "E-invoice applicability, IRN, 30-day reporting, Rule 138A(2) and Rule 46 checked against GSTN-authorised IRP and CBIC sources on 23 November 2026.",
       "meghalayaReview": "Nongkrem, Shad Suk Mynsiem, Behdienkhlam, Wangala and Garo Nokpante/A'kingland checked against Government of Meghalaya pages."
     },
+    "liveBuildMarker": "2026-11-23-original-practice-101",
+    "serviceWorkerCache": "mpsc-smart-study-v5-59-20261123",
+    "activeUniqueQuestionsAfterMerge": 1288,
+    "cumulativeUniqueAdditionsSinceRampStart": 407,
+    "remainingTo10000": 8712,
+    "candidateValidationRate": 0.9181818181818182,
+    "postMergeAudit": true,
+    "archiveParityVerified": true,
+    "canonicalEmbeddedParityVerified": true,
+    "liveDeploymentVerified": false,
+    "validationRunId": 45114258923,
+    "validationRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/45114258923",
+    "repositoryTestsPassed": true,
+    "currentActiveQuestions": 1288,
+    "pullRequestState": "merged",
+    "pagesDeploymentRunId": 45320729171,
+    "pagesBuildConclusion": "in_progress",
+    "postMergeCommitSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
+    "postMergeMainSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
+    "optionOnlyFingerprintMatchesReviewed": 4
+  },
+  "completedRun23": {
+    "date": "2026-11-23",
+    "status": "merged",
+    "target": 110,
+    "startingActiveQuestions": 1187,
+    "draftedCandidates": 110,
+    "validatedQuestions": 101,
+    "mergedQuestions": 101,
+    "activeUniqueAdditions": 101,
+    "projectedActiveUniqueCount": 1288,
+    "passRate": 0.9181818181818182,
+    "targetAchievementRate": 0.9181818181818182,
+    "exactCollisionChecks": 0,
+    "nearSemanticCollisionsRejected": 9,
+    "withinBatchNearDuplicateCandidatesRejected": 2,
+    "rejectedCandidates": 9,
+    "qualityGatePassed": true,
+    "dedupGatePassed": true,
+    "sourceGatePassed": true,
+    "repositoryGatePassed": true,
+    "mergeGatePassed": true,
+    "targetGatePassed": true,
+    "gatePassed": true,
+    "nextDailyTarget": 130,
+    "blockers": [
+      "GitHub Pages deployment workflow was still running at the post-merge audit; live URL content was not independently verified."
+    ],
+    "officialPyqFilesFetched": 18,
+    "officialPyqFilesTotal": 18,
+    "officialPyqQuestionRecords": 2433,
+    "partialDuplicateQuestionsVerified": 139,
+    "allPyqFilesScanned": 19,
+    "allPyqQuestionRecords": 2572,
+    "dedupNormalizationComplete": true,
+    "exactCollisionChecksCompleted": true,
+    "optionInsensitiveChecksCompleted": true,
+    "semanticCollisionChecksCompleted": true,
     "comparisonCorpusRecords": 3759,
     "postMergeComparisonCorpusRecords": 3860,
     "unresolvedSemanticCollisions": 0,
+    "archiveFilesBeforeRun": 20,
+    "archiveRecordsBeforeRun": 595,
+    "archiveFilesAfterRun": 21,
+    "archiveRecordsAfterRun": 696,
+    "pullRequest": 119,
+    "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/119",
+    "mergeCommitSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
+    "githubActionsRun": 45114258923,
+    "githubActionsConclusion": "success",
+    "deploymentVerified": false,
+    "deploymentStatus": "Pages build/deployment workflow in progress; live URL content unverified.",
+    "preDraftActiveQuestions": 1187,
+    "postMergeActiveQuestions": 1288,
+    "comparedPyqFiles": 19,
+    "comparedPyqRecords": 2572,
+    "preDraftComparisonCorpusRecords": 3759,
+    "subjects": {
+      "GST / Inspector of Taxes": 10,
+      "Meghalaya GK": 10,
+      "Polity": 8,
+      "Science": 14,
+      "Geography": 10,
+      "Economy": 8,
+      "Computer": 9,
+      "Environment": 9,
+      "History": 8,
+      "English": 8,
+      "Arithmetic": 7
+    },
+    "examTracks": [
+      "MPSC Inspector of Taxes",
+      "DSC East Khasi Hills LDA-cum-Typist",
+      "MPSC Secretariat LDA"
+    ],
+    "rejectedCandidateTopics": [
+      "SI base unit — mole",
+      "IPv6 address length",
+      "UNCCD establishment year",
+      "Population standard deviation",
+      "Two-condition schedule",
+      "Fixed-gap ordering",
+      "Conditional ordering",
+      "Set inclusion relation",
+      "Exactly-one-true statement"
+    ],
+    "sourceReview": {
+      "verifiedDate": "2026-11-23",
+      "primarySources": [
+        {
+          "name": "GSTN-authorised IRIS IRP — E-Invoice Mandate",
+          "url": "https://einvoice6.gst.gov.in/content/einvoice-mandate/"
+        },
+        {
+          "name": "GSTN-authorised IRIS IRP — IRN specifications",
+          "url": "https://einvoice6.gst.gov.in/content/irn-2/"
+        },
+        {
+          "name": "CBIC — CGST Rules, 2017, Rule 46",
+          "url": "https://taxinformation.cbic.gov.in/content-page/explore-rules/1000136/1000001"
+        },
+        {
+          "name": "CBIC — Circular 160/16/2021-GST, electronic IRN QR code",
+          "url": "https://cbic-gst.gov.in/pdf/Circular-No-160-14-2021-GST.pdf"
+        },
+        {
+          "name": "Government of Meghalaya — Nongkrem Dance Festival",
+          "url": "https://www.meghalaya.gov.in/meghalaya/index.php/nongkrem-dance"
+        },
+        {
+          "name": "Government of Meghalaya — Shillong and Khasi cultural information",
+          "url": "https://meghalaya.gov.in/node/34292"
+        },
+        {
+          "name": "Government of Meghalaya — Behdienkhlam Festival",
+          "url": "https://meghalaya.gov.in/behdienkhlam"
+        },
+        {
+          "name": "Government of Meghalaya — Wangala Festival",
+          "url": "https://www.meghalaya.gov.in/meghalaya/index.php/wangala"
+        },
+        {
+          "name": "Government of Meghalaya — Tura and Garo cultural information",
+          "url": "https://meghalaya.gov.in/index.php/node/34296"
+        },
+        {
+          "name": "Legislative Department — Constitution of India",
+          "url": "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf"
+        },
+        {
+          "name": "NCERT — Biology Exemplar Problems, Class XI",
+          "url": "https://www.ncert.nic.in/exemplar-problems.php"
+        },
+        {
+          "name": "USGS — Glossary of Glacier Terminology",
+          "url": "https://pubs.usgs.gov/of/2004/1216/text.html"
+        },
+        {
+          "name": "USGS — Eolian sediments",
+          "url": "https://www.usgs.gov/publications/eolian-sediments-0"
+        },
+        {
+          "name": "USGS — Types of Dunes",
+          "url": "https://pubs.usgs.gov/gip/deserts/dunes/"
+        },
+        {
+          "name": "USGS — Glacial Isostatic Adjustment",
+          "url": "https://www.usgs.gov/media/images/glacial-isostatic-adjustment"
+        },
+        {
+          "name": "NOAA — Upwelling",
+          "url": "https://oceanexplorer.noaa.gov/ocean-fact/upwelling/"
+        },
+        {
+          "name": "NCERT — Geography Textbook Portal",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "name": "Government of India — Economic Survey, Tax Buoyancy",
+          "url": "https://www.indiabudget.gov.in/economicsurvey/doc/echapter.pdf"
+        },
+        {
+          "name": "RBI — Annual Report, Tax Buoyancy",
+          "url": "https://systemhealth.rbi.org.in/Scripts/AnnualReportPublications.aspx_Id%3D1402.html"
+        },
+        {
+          "name": "World Bank — Tax Expenditures and Revenue Foregone",
+          "url": "https://documents1.worldbank.org/curated/en/317341468335679099/pdf/588150WP0FIAS110BOX353820B01PUBLIC1.pdf"
+        },
+        {
+          "name": "IMF — Fiscal Policy Transmission and Crowding Out",
+          "url": "https://www.imf.org/_next/data/EpnxHCnVQm0tS7VzM-X4o/en/-/media/websites/imf/imported-full-text-pdf/external/pubs/ft/wp/2003/_wp03237.pdf.json"
+        },
+        {
+          "name": "NCERT — Economics Textbook Portal",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "name": "IETF — RFC 1918, Private IPv4 Address Ranges",
+          "url": "https://www.rfc-editor.org/rfc/rfc1918"
+        },
+        {
+          "name": "IETF — RFC 2131, DHCP",
+          "url": "https://www.rfc-editor.org/rfc/rfc2131"
+        },
+        {
+          "name": "IETF — RFC 3596, DNS Extensions for IPv6",
+          "url": "https://www.rfc-editor.org/rfc/rfc3596"
+        },
+        {
+          "name": "Cloudflare Learning Center — Data Link Layer",
+          "url": "https://www.cloudflare.com/learning/network-layer/what-is-the-data-link-layer/"
+        },
+        {
+          "name": "Microsoft Learn — Storage Spaces and Mirrored Resiliency",
+          "url": "https://learn.microsoft.com/en-us/windows-server/storage/storage-spaces/overview"
+        },
+        {
+          "name": "PostgreSQL Documentation — Transactions",
+          "url": "https://www.postgresql.org/docs/current/tutorial-transactions.html"
+        },
+        {
+          "name": "PostgreSQL Documentation — UNION and UNION ALL",
+          "url": "https://www.postgresql.org/docs/current/queries-union.html"
+        },
+        {
+          "name": "W3C — Web Accessibility Technique H44",
+          "url": "https://www.w3.org/WAI/WCAG21/Techniques/html/H44"
+        },
+        {
+          "name": "IETF — RFC 9110, HTTP Semantics",
+          "url": "https://www.rfc-editor.org/rfc/rfc9110"
+        },
+        {
+          "name": "UNCCD — Convention Overview",
+          "url": "https://www.unccd.int/convention/overview"
+        },
+        {
+          "name": "Convention on Migratory Species — Convention and Appendices",
+          "url": "https://www.cms.int/legalinstrument/cms"
+        },
+        {
+          "name": "Stockholm Convention — Overview and Objective",
+          "url": "https://chm.pops.int/TheConvention/Overview/tabid/3351/ItemId/5382/Default.aspx"
+        },
+        {
+          "name": "IMO — MARPOL Convention",
+          "url": "https://www.imo.org/en/about/conventions/pages/international-convention-for-the-prevention-of-pollution-from-ships-%28marpol%29.aspx"
+        },
+        {
+          "name": "United Nations — Rio Declaration",
+          "url": "https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_CONF.151_26_Vol.I_Declaration.pdf"
+        },
+        {
+          "name": "NCERT — Official History Textbook Portal",
+          "url": "https://ncert.nic.in/textbook.php"
+        },
+        {
+          "name": "Cambridge Dictionary — English Vocabulary",
+          "url": "https://dictionary.cambridge.org/"
+        },
+        {
+          "name": "NCERT — Mathematics Textbook Portal",
+          "url": "https://ncert.nic.in/textbook.php"
+        }
+      ],
+      "gstReview": "E-invoice applicability, IRN, 30-day reporting, Rule 138A(2) and Rule 46 checked against GSTN-authorised IRP and CBIC sources on 23 November 2026.",
+      "meghalayaReview": "Nongkrem, Shad Suk Mynsiem, Behdienkhlam, Wangala and Garo Nokpante/A'kingland checked against Government of Meghalaya pages."
+    },
+    "liveBuildMarker": "2026-11-23-original-practice-101",
+    "serviceWorkerCache": "mpsc-smart-study-v5-59-20261123",
+    "activeUniqueQuestionsAfterMerge": 1288,
+    "cumulativeUniqueAdditionsSinceRampStart": 407,
+    "remainingTo10000": 8712,
+    "candidateValidationRate": 0.9181818181818182,
+    "postMergeAudit": true,
+    "archiveParityVerified": true,
+    "canonicalEmbeddedParityVerified": true,
+    "liveDeploymentVerified": false,
+    "validationRunId": 45114258923,
+    "validationRunUrl": "https://github.com/pynshaishangoi/MPSC/actions/runs/45114258923",
+    "repositoryTestsPassed": true,
+    "currentActiveQuestions": 1288,
+    "pullRequestState": "merged",
+    "pagesDeploymentRunId": 45320729171,
+    "pagesBuildConclusion": "in_progress",
+    "postMergeCommitSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
+    "postMergeMainSha": "ff4813b0109348751255f6e16d1b69311c4cd106",
     "optionOnlyFingerprintMatchesReviewed": 4
   },
-  "mainShaAtStartOfCurrentRun": "17ce3b89259b317a8598696e3ed2d65292d3f22a",
-  "rampHistory": [
-    {
-      "date": "2026-11-23",
-      "target": 110,
-      "drafted": 110,
-      "validated": 101,
-      "merged": 0,
-      "status": "pending_merge",
-      "nextTarget": 110
-    }
-  ]
+  "latestMainShaAtCurrentAudit": "ff4813b0109348751255f6e16d1b69311c4cd106"
 }
