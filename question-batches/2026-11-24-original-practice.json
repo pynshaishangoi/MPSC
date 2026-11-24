@@ -4261,7 +4261,7 @@
     "unresolvedSemanticCollisions": 0,
     "pyqNearMatchesAtJaccard040": 3,
     "activeNearMatchesAtJaccard045": 2,
-    "rejectedCandidateCount": 13,
+    "rejectedCandidateCount": 17,
     "target": 130,
     "drafted": 135,
     "accepted": 118,
@@ -4276,7 +4276,8 @@
     "activeNearMatchPairsReviewed": 2,
     "activeNearMatchPairsFalsePositive": 2,
     "activeConceptOverlapCandidatesRejected": 1,
-    "pyqNearMatchesUnresolved": 0
+    "pyqNearMatchesUnresolved": 0,
+    "activeNearMatchesUnresolved": 0
   },
   "legalVerification": {
     "asOf": "2026-11-24",
