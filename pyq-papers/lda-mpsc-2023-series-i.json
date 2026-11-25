@@ -9,7 +9,7 @@
   "totalQuestions": 150,
   "transcribedQuestions": 150,
   "complete": false,
-  "transcriptionNote": "Questions 1–150 are first-pass transcribed. This progress revision independently solves Q1–6, Q8, Q11–15, Q17–24, Q27–30 and supplies explanations. Q7, Q9, Q10, Q16, Q25 and Q26 remain explicitly unscored with reasons; Q25's printed stem and option A are not legible in the source scan. Remaining questions have not yet been independently solved. No official answer key has been supplied or verified. Questions 31–45 and 47–50 have now been independently solved and explained from the source pages; Q46 remains unscored because the grammatical acceptability of statement (ii) is debatable. Q51–59 and Q63–65 now have independent answers and explanations. Q60 is defective because the required adjective is absent from the options. Q61–62 remain unscored pending a clearer visual confirmation of their bold headwords.",
+  "transcriptionNote": "Questions 1–150 are first-pass transcribed. This progress revision independently solves Q1–6, Q8, Q11–15, Q17–24, Q27–30 and supplies explanations. Q7, Q9, Q10, Q16, Q25 and Q26 remain explicitly unscored with reasons; Q25's printed stem and option A are not legible in the source scan. Remaining questions have not yet been independently solved. No official answer key has been supplied or verified. Questions 31–45 and 47–50 have now been independently solved and explained from the source pages; Q46 remains unscored because the grammatical acceptability of statement (ii) is debatable. Q51–59 and Q63–65 now have independent answers and explanations. Q60 is defective because the required adjective is absent from the options. Q61–62 remain unscored pending a clearer visual confirmation of their bold headwords. Q66–75 (passage vocabulary and context) independently solved and explained. The official answer key has not been located or verified.",
   "questions": [
     {
       "number": 1,
@@ -930,8 +930,10 @@
         "kind",
         "prejudiced"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "“Selfless” is the opposite of “selfish”: it describes concern for others rather than oneself.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 67,
@@ -942,8 +944,10 @@
         "difficult",
         "easy"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "“Uncomfortable” is the direct opposite of “comfortable”.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 68,
@@ -954,8 +958,10 @@
         "trivial",
         "not needed"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "“Trivial” means insignificant, the opposite of “important” in this context.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 69,
@@ -966,8 +972,10 @@
         "overestimate",
         "appreciate"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "To “overestimate” is the opposite of to “underestimate”.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 70,
@@ -978,8 +986,10 @@
         "bad",
         "dying"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "“Thriving” means flourishing or prospering, the opposite of having decayed.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 71,
@@ -990,8 +1000,10 @@
         "a place to populate",
         "an influence"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "In the passage, the home is described as the place where children are shaped; a “formative space” best captures “breeding place” in this context.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 72,
@@ -1002,8 +1014,10 @@
         "coerce",
         "spoil"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "To “pander” to someone's whims is to give in to or indulge their demands.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 73,
@@ -1014,8 +1028,10 @@
         "effect",
         "reason"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "A “symptom” is an observable sign or indication of something.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 74,
@@ -1026,8 +1042,10 @@
         "the neighbourhood",
         "the greater community"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "“Society at large” means the wider or greater community, not only a family, home or neighbourhood.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 75,
@@ -1038,8 +1056,10 @@
         "stylish life",
         "lifetime"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "“Lifestyle” means a person's or group's way of life.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 76,
