@@ -9,7 +9,7 @@
   "totalQuestions": 150,
   "transcribedQuestions": 150,
   "complete": false,
-  "transcriptionNote": "Source transcription corrected against the original 20-page PDF. Q117 (wound watch spring) was missing; all later questions were renumbered to match the printed paper, and the duplicate erroneous final entry was removed. Q96 was corrected to the exact source wording. Independent solutions/explanations have been added through Q150 where defensible. Q7, Q9, Q10, Q16, Q25, Q26, Q46, Q60, Q61, Q62, Q108, Q133, Q138 and Q143 remain explicitly unscored with reasons. No official answer key has been supplied or verified. Q138–139 number-series explanations were checked against the printed options; Q143's degraded formula and options were recovered from the official MPSC question-paper PDF and corrected to 8 * 8 * 1 * 7 = 8 with the four printed operator sequences. Q141 remains unscored because “three times more” is ambiguous.",
+  "transcriptionNote": "Source transcription corrected against the original uploaded 20-page PDF and cross-checked against the official MPSC-hosted question booklet. Q117 (wound watch spring) was missing from the first pass; it has been restored, later questions renumbered to the printed sequence, and the duplicate final entry removed. Q25 stem/options, Q61–62 bold headwords, Q96 wording, Q117 and Q143 formula/options have been restored from the source. Independent answers and explanations are present for 141 questions. Q7, Q9, Q10, Q16, Q26, Q46, Q60, Q108 and Q141 remain explicitly unscored with reasons. No official answer key has been supplied or verified.",
   "questions": [
     {
       "number": 1,
@@ -349,17 +349,17 @@
     },
     {
       "number": 25,
-      "text": "Choose the word that best completes the source sentence: ____.",
+      "text": "Can you direct me to the Post Office?",
       "options": [
-        "[source option A unclear]",
+        "see",
         "direct",
         "wave",
         "find"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_visual_source_recovery",
-      "explanation": "The source scan at this position does not preserve a readable question stem; only options B–D (“direct”, “wave”, “find”) can be read. The stem and option A must not be reconstructed by guesswork.",
-      "answerStatus": "unresolved"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The natural construction is “direct me to the Post Office”; “direct” means show or tell someone the way to a place.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 26,
@@ -853,31 +853,31 @@
     },
     {
       "number": 61,
-      "text": "Punctilious (word appears OCR-corrupted in the source)",
+      "text": "Punctilious",
       "options": [
         "careless",
         "apathetic",
         "tardy",
         "meticulous"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_visual_check",
-      "answerStatus": "unresolved",
-      "explanation": "The source scan renders the bold headword as “hrnctilious”; although the likely intended word is “punctilious”, its exact printed spelling cannot be confirmed from the available page extraction. Keep unscored pending clearer source image."
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "answerStatus": "independently_solved",
+      "explanation": "“Punctilious” means very attentive to detail and correct behaviour; “meticulous” is the closest synonym."
     },
     {
       "number": 62,
-      "text": "Mendacious (word appears OCR-corrupted in the source)",
+      "text": "Mendacious",
       "options": [
         "broken",
         "truthful",
         "deceitful",
         "veracity"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_visual_check",
-      "answerStatus": "unresolved",
-      "explanation": "The source scan renders the bold headword as “Meadaclous”; “mendacious” is a plausible intended word given option C, but the printed headword cannot be confirmed. Keep unscored pending clearer source image."
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "answerStatus": "independently_solved",
+      "explanation": "“Mendacious” means dishonest or untruthful; “deceitful” is the matching synonym."
     },
     {
       "number": 63,
@@ -1861,17 +1861,17 @@
     },
     {
       "number": 133,
-      "text": "A tourist covers half of her journey by train at 50 km/h, half of the remainder by bus at 30 km/h and the rest by cycle at 10 km/h. The average speed of the tourist during the journey is",
+      "text": "A tourist covers half of her journey by train at 60 km/h, half of the remainder by bus at 30 km/h and the rest by cycle at 10 km/h. The average speed of the tourist during the journey is",
       "options": [
         "35 km/h",
         "33 km/h",
         "24 km/h",
         "18 km/h"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_visual_check",
-      "answerStatus": "unresolved",
-      "explanation": "For equal total distance, the travel times are d/100, d/120 and d/40 hours. The average speed is 300/13 ≈ 23.08 km/h, but none of the four options is 23.08. Option 24 is only an approximation and the paper gives no rounding instruction; leave unscored."
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "answerStatus": "independently_solved",
+      "explanation": "Let the total distance be D. The times are D/120 by train, D/120 by bus and D/40 by cycle. Total time = D/24, so average speed = D ÷ (D/24) = 24 km/h (option C)."
     },
     {
       "number": 134,
@@ -1982,7 +1982,7 @@
       ],
       "answerIndex": null,
       "transcriptionStatus": "source_checked",
-      "explanation": "The phrase “three times more than his son” is ambiguous: it can be read as three times the son's age or as four times the son's age. Those interpretations produce different results, and the wording does not clarify which is intended. No option is defensible without assuming the setter's intended meaning.",
+      "explanation": "The phrase “three times more than his son” is ambiguous: it may mean three times as old or four times as old. The follow-up timing also affects the ratio. The wording does not establish one defensible interpretation, so this item remains unscored.",
       "answerStatus": "unresolved"
     },
     {
