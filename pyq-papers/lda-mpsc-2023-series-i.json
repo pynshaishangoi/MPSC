@@ -9,7 +9,7 @@
   "totalQuestions": 150,
   "transcribedQuestions": 150,
   "complete": false,
-  "transcriptionNote": "Questions 1–150 are first-pass transcribed. This progress revision independently solves Q1–6, Q8, Q11–15, Q17–24, Q27–30 and supplies explanations. Q7, Q9, Q10, Q16, Q25 and Q26 remain explicitly unscored with reasons; Q25's printed stem and option A are not legible in the source scan. Remaining questions have not yet been independently solved. No official answer key has been supplied or verified.",
+  "transcriptionNote": "Questions 1–150 are first-pass transcribed. This progress revision independently solves Q1–6, Q8, Q11–15, Q17–24, Q27–30 and supplies explanations. Q7, Q9, Q10, Q16, Q25 and Q26 remain explicitly unscored with reasons; Q25's printed stem and option A are not legible in the source scan. Remaining questions have not yet been independently solved. No official answer key has been supplied or verified. Questions 31–45 and 47–50 have now been independently solved and explained from the source pages; Q46 remains unscored because the grammatical acceptability of statement (ii) is debatable.",
   "questions": [
     {
       "number": 1,
@@ -440,8 +440,10 @@
         "(i) and (ii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Statements (i) and (ii) are complete and sensible. Statement (iii) incorrectly says the bulldozer itself was irritated; the noise irritated people.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 32,
@@ -452,8 +454,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "All three sentences are grammatical and logically connected: the guests received a lavish meal, ate their fill, and the party was discussed later.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 33,
@@ -464,8 +468,10 @@
         "(ii) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Statements (i) and (iii) are grammatical. Statement (ii) needs “invited to give a speech” or “invited to speak at the meeting”.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 34,
@@ -476,8 +482,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Statements (ii) and (iii) are correct. In (i), “smooth” must be the adverb “smoothly” to modify “glided”.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 35,
@@ -488,8 +496,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Statements (i) and (iii) are correct. After the modal “could”, the base form “swim” is required, not “swam”.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 36,
@@ -500,8 +510,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "All three are grammatically sound: a question, a report of someone's integrity, and a description of his leadership style.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 37,
@@ -512,8 +524,10 @@
         "(i) and (ii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Statements (ii) and (iii) are correct. Statement (i) is missing the article “a” before “favor”.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 38,
@@ -524,8 +538,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Statements (i) and (iii) are correct. In (ii), people are “interested”; “interesting” describes something that causes interest.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 39,
@@ -536,8 +552,10 @@
         "(ii) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Questions (i) and (ii) have correct interrogative word order. Statement (iii) places “how many” incorrectly.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 40,
@@ -548,8 +566,10 @@
         "(i) and (ii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "All three constructions are grammatical ways of describing a five-year period as class monitor; (iii) uses the past perfect for a period viewed from a later past point.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 41,
@@ -560,8 +580,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "All three expressions—“at close range”, “this close” and “close up”—are grammatical ways to describe seeing a tiger nearby.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 42,
@@ -572,8 +594,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Statements (i) and (iii) are grammatical. Statement (ii) incorrectly uses “yesterday” as a time modifier for a present-tense claim about fame.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 43,
@@ -584,8 +608,10 @@
         "(ii) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Statements (i) and (ii) are grammatical. In (iii), “happy” is placed unnaturally after “went”; the idiomatic construction is “went to bed happy”.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 44,
@@ -596,8 +622,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Statements (i) and (iii) express that the flow is too forceful to cross. “Too wide” does not naturally describe a current; width describes the watercourse.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 45,
@@ -608,8 +636,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Statements (ii) and (iii) are correct. “Heat” in (i) is a noun; the adjective needed after “is” is “hot”.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 46,
@@ -621,7 +651,9 @@
         "(i), (ii) and (iii)"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "transcribed",
+      "answerStatus": "unresolved",
+      "explanation": "The wording of statement (ii) is awkward, but it can be read as a grammatical rhetorical question about how someone uses their time. The distinction between a stylistic preference and a grammatical error is not sufficiently clear to select a unique combination confidently."
     },
     {
       "number": 47,
@@ -632,8 +664,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Statements (i) and (iii) are correct. The imperative “stop” takes a gerund here (“wasting”), not the bare noun/verb “waste”.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 48,
@@ -644,8 +678,10 @@
         "(ii) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Statements (i) and (iii) are correct. “Exudes” requires the noun “confidence”, not the adjective “confident”.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 49,
@@ -656,8 +692,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "All three questions are grammatical: “pairs” can be plural, “pair” can refer to one pair, and “these pairs” points to a set already identified.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 50,
@@ -668,8 +706,10 @@
         "(i) and (iii)",
         "(i), (ii) and (iii)"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Statements (i) and (ii) are acceptable ways to describe a restaurant's continuous opening hours. Statement (iii) uses an unnatural progressive form for a regular schedule.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 51,
