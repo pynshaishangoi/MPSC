@@ -9,7 +9,7 @@
   "totalQuestions": 150,
   "transcribedQuestions": 150,
   "complete": false,
-  "transcriptionNote": "Questions 1–150 are first-pass transcribed. This progress revision independently solves Q1–6, Q8, Q11–15, Q17–24, Q27–30 and supplies explanations. Q7, Q9, Q10, Q16, Q25 and Q26 remain explicitly unscored with reasons; Q25's printed stem and option A are not legible in the source scan. Remaining questions have not yet been independently solved. No official answer key has been supplied or verified. Questions 31–45 and 47–50 have now been independently solved and explained from the source pages; Q46 remains unscored because the grammatical acceptability of statement (ii) is debatable. Q51–59 and Q63–65 now have independent answers and explanations. Q60 is defective because the required adjective is absent from the options. Q61–62 remain unscored pending a clearer visual confirmation of their bold headwords. Q66–75 (passage vocabulary and context) independently solved and explained. The official answer key has not been located or verified. Q76–90 independently solved and explained from the source. Q85's “Garo Hills” answer is consistent with the Government's drone-station location at Jengjal, West Garo Hills; no official answer key has been located.",
+  "transcriptionNote": "Questions 1–150 are first-pass transcribed. This progress revision independently solves Q1–6, Q8, Q11–15, Q17–24, Q27–30 and supplies explanations. Q7, Q9, Q10, Q16, Q25 and Q26 remain explicitly unscored with reasons; Q25's printed stem and option A are not legible in the source scan. Remaining questions have not yet been independently solved. No official answer key has been supplied or verified. Questions 31–45 and 47–50 have now been independently solved and explained from the source pages; Q46 remains unscored because the grammatical acceptability of statement (ii) is debatable. Q51–59 and Q63–65 now have independent answers and explanations. Q60 is defective because the required adjective is absent from the options. Q61–62 remain unscored pending a clearer visual confirmation of their bold headwords. Q66–75 (passage vocabulary and context) independently solved and explained. The official answer key has not been located or verified. Q76–90 independently solved and explained from the source. Q85's “Garo Hills” answer is consistent with the Government's drone-station location at Jengjal, West Garo Hills; no official answer key has been located. Q91–107 and Q109–115 now have independent answers and explanations. Q96's stem was corrected to the exact source wording (“Where in the world…”, not “In which year…”). Q108 remains unscored because SpaceX is a private aerospace company rather than a space agency, making the printed premise defective.",
   "questions": [
     {
       "number": 1,
@@ -1280,8 +1280,10 @@
         "hockey",
         "cricket"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The Rangaswamy Cup is associated with field hockey.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 92,
@@ -1292,8 +1294,10 @@
         "Subansiri River",
         "Manas River"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The Dhola–Sadiya (Bhupen Hazarika Setu) bridge crosses the Lohit River, a major tributary of the Brahmaputra.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 93,
@@ -1304,8 +1308,10 @@
         "South Korea",
         "China"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "South Korea launched the first nationwide commercial 5G network in April 2019.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 94,
@@ -1316,8 +1322,10 @@
         "Shri Narendra Modi",
         "Shri Amit Shah"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The Greater Sohra Water Supply Scheme was inaugurated by Union Jal Shakti Minister Gajendra Singh Shekhawat.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 95,
@@ -1328,20 +1336,24 @@
         "2017",
         "2019"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "India's Goods and Services Tax came into effect on 1 July 2017.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 96,
-      "text": "In which year did the game of lawn tennis originate?",
+      "text": "Where in the world did the game of lawn tennis originate?",
       "options": [
         "Birmingham",
         "Rome",
         "Amsterdam",
         "Berlin"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The source asks where lawn tennis originated, not in which year. Birmingham is the intended option among the listed cities.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 97,
@@ -1352,8 +1364,10 @@
         "Australia",
         "Egypt"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The Green Army environmental-conservation programme was introduced in Australia as a youth environmental work programme.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 98,
@@ -1364,8 +1378,10 @@
         "INSAT",
         "STUDSAT"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "ANUSAT, built by Anna University, is recognised as India's first university-built pico-satellite.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 99,
@@ -1376,8 +1392,10 @@
         "Big 4",
         "None of the above"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Brazil, Germany, India and Japan form the G4 grouping, which supports one another's bids for permanent UNSC seats.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 100,
@@ -1388,8 +1406,10 @@
         "creating mini forests in urban areas",
         "harvesting wind energy on coastal areas and sea surfaces"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The Miyawaki method is used to establish dense, fast-growing native mini-forests, including in urban spaces.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 101,
@@ -1400,8 +1420,10 @@
         "Gujarat",
         "West Bengal"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Gujarat has India's longest coastline among the states.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 102,
@@ -1412,8 +1434,10 @@
         "Chandra Shekhar Azad",
         "Sir Muhammad Iqbal"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The slogan “Inquilab Zindabad” was coined by Maulana Hasrat Mohani; Bhagat Singh later popularised it.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 103,
@@ -1424,8 +1448,10 @@
         "HSBC",
         "Bank of Baroda"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "HSBC introduced India's first ATM in Mumbai in 1987.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 104,
@@ -1436,8 +1462,10 @@
         "entomology",
         "epistemology"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Epistemology is the branch of philosophy that studies knowledge and the nature and justification of belief.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 105,
@@ -1448,8 +1476,10 @@
         "Smriti Mandhana",
         "Deepti Sharma"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Mithali Raj scored 214 against England in 2002, becoming the first woman to score a double century in a Test match.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 106,
@@ -1460,8 +1490,10 @@
         "Meghna Pant",
         "Chetan Bhagat"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The Little Book of Encouragement is attributed to the Dalai Lama.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 107,
@@ -1472,8 +1504,10 @@
         "Jasmine",
         "Foxtail Orchid"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Meghalaya's state flower is the Lady's Slipper Orchid.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 108,
@@ -1485,7 +1519,9 @@
         "ISRO"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "source_checked",
+      "answerStatus": "unresolved",
+      "explanation": "The stem calls the organisation a “space agency”, but SpaceX (the only option associated with the first all-civilian orbital mission, Inspiration4) is a private aerospace company, not a space agency. The question's premise and category are inconsistent, so no option can be defended as written."
     },
     {
       "number": 109,
@@ -1496,8 +1532,10 @@
         "Kathak",
         "Kuchipudi"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Birju Maharaj was a leading exponent of Kathak, the North Indian classical dance form.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 110,
@@ -1508,8 +1546,10 @@
         "Telegram",
         "Twitter"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Twitter introduced Tip Jar as a feature allowing users to send money to accounts they wished to support.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 111,
@@ -1520,8 +1560,10 @@
         "Madhya Pradesh",
         "Uttar Pradesh"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Meghalaya became the first Indian state to present a paperless budget, in 2021.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 112,
@@ -1532,8 +1574,10 @@
         "Japan",
         "India"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The United Kingdom was the first country to authorise the Oxford–AstraZeneca COVID-19 vaccine for use.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 113,
@@ -1544,8 +1588,10 @@
         "Dr. A. P. J. Abdul Kalam",
         "Subhas Chandra Bose"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Parakram Diwas is observed on 23 January, the birth anniversary of Subhas Chandra Bose.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 114,
@@ -1556,8 +1602,10 @@
         "Odisha",
         "Madhya Pradesh"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The Narmada floating-solar project referenced in the question was developed by the Madhya Pradesh government.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 115,
@@ -1568,8 +1616,10 @@
         "26th January",
         "12th January"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "National Youth Day is observed on 12 January, the birth anniversary of Swami Vivekananda.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 116,
