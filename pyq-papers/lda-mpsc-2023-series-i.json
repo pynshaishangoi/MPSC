@@ -1952,9 +1952,9 @@
         "55",
         "30"
       ],
-      "answerIndex": 1,
+      "answerIndex": 3,
       "transcriptionStatus": "source_checked",
-      "explanation": "The intended successive differences are consecutive squares: 3², 4², 5², 6², 7², 8². The series should be 21, 30, 46, 71, 107, 156, 220; the printed 37 is the first term that breaks the pattern. Option B is 37.",
+      "explanation": "If the second term 30 is replaced by 27, the differences become 6, 10, 18, 30, 46 and 66. Their successive increases are 4, 8, 12, 16 and 20, a consistent pattern. Therefore the printed 30 (option D) is the wrong number.",
       "answerStatus": "independently_solved"
     },
     {
