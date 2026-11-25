@@ -9,7 +9,7 @@
   "totalQuestions": 150,
   "transcribedQuestions": 150,
   "complete": false,
-  "transcriptionNote": "Source transcription corrected against the original 20-page PDF. Q117 (wound watch spring) was missing; all later questions were renumbered to match the printed paper, and the duplicate erroneous final entry was removed. Q96 was corrected to the exact source wording. Independent solutions/explanations have been added through Q150 where defensible. Q7, Q9, Q10, Q16, Q25, Q26, Q46, Q60, Q61, Q62, Q108, Q133, Q138 and Q143 remain explicitly unscored with reasons. No official answer key has been supplied or verified.",
+  "transcriptionNote": "Source transcription corrected against the original 20-page PDF. Q117 (wound watch spring) was missing; all later questions were renumbered to match the printed paper, and the duplicate erroneous final entry was removed. Q96 was corrected to the exact source wording. Independent solutions/explanations have been added through Q150 where defensible. Q7, Q9, Q10, Q16, Q25, Q26, Q46, Q60, Q61, Q62, Q108, Q133, Q138 and Q143 remain explicitly unscored with reasons. No official answer key has been supplied or verified. Q138–139 number-series explanations were checked against the printed options; Q143's degraded formula and options were recovered from the official MPSC question-paper PDF and corrected to 8 * 8 * 1 * 7 = 8 with the four printed operator sequences. Q141 remains unscored because “three times more” is ambiguous.",
   "questions": [
     {
       "number": 1,
@@ -1938,10 +1938,10 @@
         "192",
         "136"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_visual_check",
-      "answerStatus": "unresolved",
-      "explanation": "The sequence 21, 30, 37, 55, 85, 131, 197 does not reveal a unique consistent rule with one wrong term. The apparent differences are 9, 7, 18, 30, 46 and 66; more than one pattern could be proposed, so no option is defensible."
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "answerStatus": "independently_solved",
+      "explanation": "The successive differences should halve: 64, 32, 16, 8, 4, 2. After 192 the next term should be 196, not 194. Therefore 194 (option B) is the wrong number."
     },
     {
       "number": 139,
@@ -1952,8 +1952,10 @@
         "55",
         "30"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_visual_or_logic_review"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The intended successive differences are consecutive squares: 3², 4², 5², 6², 7², 8². The series should be 21, 30, 46, 71, 107, 156, 220; the printed 37 is the first term that breaks the pattern. Option B is 37.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 140,
@@ -1978,10 +1980,10 @@
         "2¾ times",
         "3 times"
       ],
-      "answerIndex": 0,
+      "answerIndex": null,
       "transcriptionStatus": "source_checked",
-      "explanation": "Taking the conventional intended meaning as “the father is three times as old as Ronald”, let their ages be 3x and x. From 3x+8=2.5(x+8), x=24. After another 16 years their ages are 96 and 48, a ratio of 2:1.",
-      "answerStatus": "independently_solved"
+      "explanation": "The phrase “three times more than his son” is ambiguous: it can be read as three times the son's age or as four times the son's age. Those interpretations produce different results, and the wording does not clarify which is intended. No option is defensible without assuming the setter's intended meaning.",
+      "answerStatus": "unresolved"
     },
     {
       "number": 142,
@@ -1999,17 +2001,17 @@
     },
     {
       "number": 143,
-      "text": "Select the correct combination of mathematical signs to replace the '*' signs and balance the following equation (symbols as printed in source).",
+      "text": "Select the correct combination of mathematical signs to replace the '*' signs and balance the following equation: 8 * 8 * 1 * 7 = 8",
       "options": [
-        "× + +",
-        "+ + ×",
-        "+ × +",
-        "+ × +"
+        "× ÷ +",
+        "+ ÷ ×",
+        "÷ × +",
+        "+ × ÷"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_visual_check",
-      "answerStatus": "unresolved",
-      "explanation": "The equation/symbol expression in the source scan is too degraded to transcribe reliably. The four sign-combination options are visible, but the equation itself is not sufficiently legible to test them. Leave unscored pending a clearer scan."
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "answerStatus": "independently_solved",
+      "explanation": "Using division and multiplication from left to right, 8 ÷ 8 × 1 + 7 = 1 + 7 = 8. The correct sequence is ÷, ×, + (option C)."
     },
     {
       "number": 144,
