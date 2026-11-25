@@ -9,7 +9,7 @@
   "totalQuestions": 150,
   "transcribedQuestions": 150,
   "complete": false,
-  "transcriptionNote": "Questions 1–150 are first-pass transcribed. This progress revision independently solves Q1–6, Q8, Q11–15, Q17–24, Q27–30 and supplies explanations. Q7, Q9, Q10, Q16, Q25 and Q26 remain explicitly unscored with reasons; Q25's printed stem and option A are not legible in the source scan. Remaining questions have not yet been independently solved. No official answer key has been supplied or verified. Questions 31–45 and 47–50 have now been independently solved and explained from the source pages; Q46 remains unscored because the grammatical acceptability of statement (ii) is debatable.",
+  "transcriptionNote": "Questions 1–150 are first-pass transcribed. This progress revision independently solves Q1–6, Q8, Q11–15, Q17–24, Q27–30 and supplies explanations. Q7, Q9, Q10, Q16, Q25 and Q26 remain explicitly unscored with reasons; Q25's printed stem and option A are not legible in the source scan. Remaining questions have not yet been independently solved. No official answer key has been supplied or verified. Questions 31–45 and 47–50 have now been independently solved and explained from the source pages; Q46 remains unscored because the grammatical acceptability of statement (ii) is debatable. Q51–59 and Q63–65 now have independent answers and explanations. Q60 is defective because the required adjective is absent from the options. Q61–62 remain unscored pending a clearer visual confirmation of their bold headwords.",
   "questions": [
     {
       "number": 1,
@@ -720,8 +720,10 @@
         "a coward",
         "a warmonger"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "A “snake in the grass” is a concealed enemy or treacherous person; “a hidden enemy” is the closest option.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 52,
@@ -732,8 +734,10 @@
         "enjoy without paying",
         "absolve yourself of guilt"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The idiom means one cannot enjoy two mutually incompatible advantages; in other words, one cannot “have it both ways”.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 53,
@@ -744,8 +748,10 @@
         "slapped",
         "doomed"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "To “wipe the nose” of someone in this context means to cheat or defraud that person.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 54,
@@ -756,8 +762,10 @@
         "played falsely with others",
         "spend lavishly"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "“Play ducks and drakes with” property means to squander or spend it recklessly; “spend lavishly” is the closest option.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 55,
@@ -768,8 +776,10 @@
         "starting a new business",
         "keeping himself busy"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "“Rest on one's oars” means to stop striving after previous effort or achievement; “resting after hard work” is the closest option.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 56,
@@ -780,8 +790,10 @@
         "malleable",
         "potable"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "“Malleable” means capable of being shaped or formed easily.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 57,
@@ -792,8 +804,10 @@
         "mouthful",
         "luscious"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "“Luscious” describes food that is richly pleasant or delicious to taste.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 58,
@@ -804,8 +818,10 @@
         "terrorist",
         "militant"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "An “anarchist” advocates the absence of imposed governmental control or authority.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 59,
@@ -816,8 +832,10 @@
         "imperishable",
         "omnipotent"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "“Imperishable” means not liable to perish or be destroyed by the passage of time.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 60,
@@ -829,7 +847,9 @@
         "vacillating"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "needs_visual_check",
+      "answerStatus": "unresolved",
+      "explanation": "The definition calls for the adjective “heterogeneous” (made up of diverse elements), but that word is absent. “Heterogeneity” names the condition, not the thing composed of diverse elements; the remaining options do not fit. No option is defensible."
     },
     {
       "number": 61,
@@ -841,7 +861,9 @@
         "meticulous"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "needs_visual_check"
+      "transcriptionStatus": "needs_visual_check",
+      "answerStatus": "unresolved",
+      "explanation": "The source scan renders the bold headword as “hrnctilious”; although the likely intended word is “punctilious”, its exact printed spelling cannot be confirmed from the available page extraction. Keep unscored pending clearer source image."
     },
     {
       "number": 62,
@@ -853,7 +875,9 @@
         "veracity"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "needs_visual_check"
+      "transcriptionStatus": "needs_visual_check",
+      "answerStatus": "unresolved",
+      "explanation": "The source scan renders the bold headword as “Meadaclous”; “mendacious” is a plausible intended word given option C, but the printed headword cannot be confirmed. Keep unscored pending clearer source image."
     },
     {
       "number": 63,
@@ -864,8 +888,10 @@
         "improve",
         "dissemble"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "“Ameliorate” means to make something better or improve it.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 64,
@@ -876,8 +902,10 @@
         "degrading",
         "thorough"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "“Cursory” means hasty or superficial; “casual” is the closest available synonym.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 65,
@@ -888,8 +916,10 @@
         "corrupt",
         "accuse"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "To “implicate” someone is to involve or show that person to be connected with something, often wrongdoing.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 66,
