@@ -9,7 +9,7 @@
   "totalQuestions": 150,
   "transcribedQuestions": 150,
   "complete": false,
-  "transcriptionNote": "Questions 1–150 are first-pass transcribed. This progress revision independently solves Q1–6, Q8, Q11–15, Q17–24, Q27–30 and supplies explanations. Q7, Q9, Q10, Q16, Q25 and Q26 remain explicitly unscored with reasons; Q25's printed stem and option A are not legible in the source scan. Remaining questions have not yet been independently solved. No official answer key has been supplied or verified. Questions 31–45 and 47–50 have now been independently solved and explained from the source pages; Q46 remains unscored because the grammatical acceptability of statement (ii) is debatable. Q51–59 and Q63–65 now have independent answers and explanations. Q60 is defective because the required adjective is absent from the options. Q61–62 remain unscored pending a clearer visual confirmation of their bold headwords. Q66–75 (passage vocabulary and context) independently solved and explained. The official answer key has not been located or verified.",
+  "transcriptionNote": "Questions 1–150 are first-pass transcribed. This progress revision independently solves Q1–6, Q8, Q11–15, Q17–24, Q27–30 and supplies explanations. Q7, Q9, Q10, Q16, Q25 and Q26 remain explicitly unscored with reasons; Q25's printed stem and option A are not legible in the source scan. Remaining questions have not yet been independently solved. No official answer key has been supplied or verified. Questions 31–45 and 47–50 have now been independently solved and explained from the source pages; Q46 remains unscored because the grammatical acceptability of statement (ii) is debatable. Q51–59 and Q63–65 now have independent answers and explanations. Q60 is defective because the required adjective is absent from the options. Q61–62 remain unscored pending a clearer visual confirmation of their bold headwords. Q66–75 (passage vocabulary and context) independently solved and explained. The official answer key has not been located or verified. Q76–90 independently solved and explained from the source. Q85's “Garo Hills” answer is consistent with the Government's drone-station location at Jengjal, West Garo Hills; no official answer key has been located.",
   "questions": [
     {
       "number": 1,
@@ -1070,8 +1070,10 @@
         "Iltutmish",
         "Quli Qutub Shah"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Iltutmish introduced the silver tanka and copper jital coinage; the copper jital is the coin referred to in the question.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 77,
@@ -1082,8 +1084,10 @@
         "Copper Canyon",
         "Gangani Canyon"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Gandikota Canyon in Andhra Pradesh is commonly called the Grand Canyon of India.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 78,
@@ -1094,8 +1098,10 @@
         "the total number of population above 65 years",
         "the youthful age structure of a population"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The demographic dividend refers to the economic potential associated with a youthful age structure and a relatively large working-age population.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 79,
@@ -1106,8 +1112,10 @@
         "Vitamin K",
         "Vitamin D"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "B-complex vitamins are water-soluble; vitamins A, K and D are fat-soluble.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 80,
@@ -1118,8 +1126,10 @@
         "the United Kingdom",
         "the United States"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The 2024 Summer Olympic Games were hosted by France, with Paris as the principal host city.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 81,
@@ -1130,8 +1140,10 @@
         "insects",
         "the formation of rocks"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Entomology is the branch of zoology concerned with insects.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 82,
@@ -1142,8 +1154,10 @@
         "Tehri Dam",
         "Hirakud Dam"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The Statue of Unity stands near the Sardar Sarovar Dam on the Narmada River.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 83,
@@ -1154,8 +1168,10 @@
         "largest railway station",
         "None of the above"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Grand Central Terminal in New York is widely described as the world's largest railway station by number of platforms and tracks; that is the intended sense of “largest” here.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 84,
@@ -1166,8 +1182,10 @@
         "reduction in uranium production",
         "greenhouse gases emission mitigation"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The UN Framework Convention on Climate Change addresses climate change by seeking to stabilise greenhouse-gas concentrations; the option on greenhouse-gas emission mitigation is the closest.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 85,
@@ -1178,8 +1196,10 @@
         "Jaintia Hills",
         "Garo Hills"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The State's dedicated healthcare drone station is at Jengjal Sub-divisional Hospital in West Garo Hills, so the matching option is Garo Hills.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 86,
@@ -1190,8 +1210,10 @@
         "Japan",
         "The United Kingdom"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The Quad consists of Australia, India, Japan and the United States. The United Kingdom is not a member.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 87,
@@ -1202,8 +1224,10 @@
         "23rd December, 2021",
         "25th December, 2021"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "NASA's James Webb Space Telescope launched on 25 December 2021.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 88,
@@ -1214,8 +1238,10 @@
         "ampere",
         "ohm"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Electrical resistance is measured in ohms, symbol Ω.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 89,
@@ -1226,8 +1252,10 @@
         "1962 in Jakarta",
         "1970 in New Delhi"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Men's field hockey was introduced at the 1958 Asian Games in Tokyo.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 90,
@@ -1238,8 +1266,10 @@
         "The Treaty of Lahore",
         "None of the above"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The First Anglo-Sikh War ended with the Treaty of Lahore in 1846.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 91,
