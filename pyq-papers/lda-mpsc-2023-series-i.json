@@ -9,7 +9,7 @@
   "totalQuestions": 150,
   "transcribedQuestions": 150,
   "complete": false,
-  "transcriptionNote": "Questions 1–150 are first-pass transcribed. This progress revision independently solves Q1–6, Q8, Q11–15, Q17–24, Q27–30 and supplies explanations. Q7, Q9, Q10, Q16, Q25 and Q26 remain explicitly unscored with reasons; Q25's printed stem and option A are not legible in the source scan. Remaining questions have not yet been independently solved. No official answer key has been supplied or verified. Questions 31–45 and 47–50 have now been independently solved and explained from the source pages; Q46 remains unscored because the grammatical acceptability of statement (ii) is debatable. Q51–59 and Q63–65 now have independent answers and explanations. Q60 is defective because the required adjective is absent from the options. Q61–62 remain unscored pending a clearer visual confirmation of their bold headwords. Q66–75 (passage vocabulary and context) independently solved and explained. The official answer key has not been located or verified. Q76–90 independently solved and explained from the source. Q85's “Garo Hills” answer is consistent with the Government's drone-station location at Jengjal, West Garo Hills; no official answer key has been located. Q91–107 and Q109–115 now have independent answers and explanations. Q96's stem was corrected to the exact source wording (“Where in the world…”, not “In which year…”). Q108 remains unscored because SpaceX is a private aerospace company rather than a space agency, making the printed premise defective.",
+  "transcriptionNote": "Source transcription corrected against the original 20-page PDF. Q117 (wound watch spring) was missing; all later questions were renumbered to match the printed paper, and the duplicate erroneous final entry was removed. Q96 was corrected to the exact source wording. Independent solutions/explanations have been added through Q150 where defensible. Q7, Q9, Q10, Q16, Q25, Q26, Q46, Q60, Q61, Q62, Q108, Q133, Q138 and Q143 remain explicitly unscored with reasons. No official answer key has been supplied or verified.",
   "questions": [
     {
       "number": 1,
@@ -1630,11 +1630,27 @@
         "Inauguration of Banaras Hindu University",
         "Rowlatt Satyagraha"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "transcribed",
+      "answerStatus": "independently_solved",
+      "explanation": "Gandhi's first major public appearance in India after returning from South Africa was at the inauguration of Banaras Hindu University in February 1916."
     },
     {
       "number": 117,
+      "text": "A wound watch spring has ____ energy.",
+      "options": [
+        "mechanical",
+        "kinetic",
+        "potential",
+        "light"
+      ],
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "answerStatus": "independently_solved",
+      "explanation": "A wound spring stores elastic potential energy. It releases that stored energy as it unwinds."
+    },
+    {
+      "number": 118,
       "text": "When water freezes, its density",
       "options": [
         "increases",
@@ -1642,11 +1658,13 @@
         "becomes zero",
         "remains constant"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "When water freezes, it expands; the same mass occupies more volume, so its density decreases.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 118,
+      "number": 119,
       "text": "The term URL used in internet technology stands for",
       "options": [
         "Unique Remote Locator",
@@ -1654,11 +1672,13 @@
         "Uniform Remote Locator",
         "Uniform Resource Locator"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "URL stands for Uniform Resource Locator, the address used to identify a resource on the internet.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 119,
+      "number": 120,
       "text": "India and Sri Lanka are divided by the",
       "options": [
         "Gibraltar Strait",
@@ -1666,11 +1686,13 @@
         "Palk Strait",
         "Hormuz Strait"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "India and Sri Lanka are separated by the Palk Strait.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 120,
+      "number": 121,
       "text": "Which of the following is correct regarding Gross Domestic Savings in India?",
       "options": [
         "Contribution of the Household Sector is the largest",
@@ -1678,11 +1700,13 @@
         "Contribution of the Corporate Sector is the largest",
         "Contribution of the Agricultural Sector is the largest"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The household sector is the largest contributor to gross domestic savings in India.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 121,
+      "number": 122,
       "text": "Which of the following sports involves animals?",
       "options": [
         "Jallikattu",
@@ -1690,11 +1714,13 @@
         "Lagori",
         "Vallamkali"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Jallikattu is a traditional sport involving bulls, so it is the animal-related sport among the options.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 122,
+      "number": 123,
       "text": "'Sangai' festival is celebrated in which of the following Indian States?",
       "options": [
         "Manipur",
@@ -1702,11 +1728,13 @@
         "Nagaland",
         "Tripura"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The Sangai Festival is celebrated in Manipur.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 123,
+      "number": 124,
       "text": "Avani Lekhara became the first Indian woman to win two Paralympic medals at the Tokyo Paralympics, 2020. Which of the following was her discipline?",
       "options": [
         "Badminton",
@@ -1714,11 +1742,13 @@
         "Table tennis",
         "Archery"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Avani Lekhara is a rifle-shooting athlete; she won two medals at the Tokyo 2020 Paralympics.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 124,
+      "number": 125,
       "text": "Chronologically arrange the following Indian-origin astronauts on the basis of their flying into space, starting with the first.",
       "options": [
         "Sunita Williams, Kalpana Chawla, Sirisha Bandla, Rakesh Sharma",
@@ -1726,11 +1756,13 @@
         "Rakesh Sharma, Sunita Williams, Kalpana Chawla, Sirisha Bandla",
         "Kalpana Chawla, Sirisha Bandla, Rakesh Sharma, Sunita Williams"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Rakesh Sharma flew in 1984, Kalpana Chawla in 1997, Sunita Williams in 2006 and Sirisha Bandla in 2021; option B gives this order.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 125,
+      "number": 126,
       "text": "In a line of 45 students, Amit is 10th from the left end and Mary is 15th from the right end. How many students are between Amit and Mary?",
       "options": [
         "25",
@@ -1738,11 +1770,13 @@
         "20",
         "21"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Mary is 15th from the right, or 31st from the left (45 − 15 + 1). There are 31 − 10 − 1 = 20 students between them.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 126,
+      "number": 127,
       "text": "Find the smaller angle made by an hour and minute hand at 10:20.",
       "options": [
         "170°",
@@ -1750,11 +1784,13 @@
         "120°",
         "145°"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "At 10:20, the minute hand is at 120° and the hour hand at 310°. Their smaller separation is 360° − 190° = 170°.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 127,
+      "number": 128,
       "text": "If Sunita celebrated her wedding anniversary on Tuesday, 30th September, 1997, when will she celebrate her next wedding anniversary on the same day?",
       "options": [
         "Tuesday, 2003",
@@ -1762,11 +1798,13 @@
         "Tuesday, 2001",
         "Tuesday, 2002"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The date 30 September falls on Tuesday again in 2003: the intervening common and leap-year shifts total six weekdays.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 128,
+      "number": 129,
       "text": "Four metal rods of lengths 78 cm, 104 cm, 117 cm and 169 cm are to be cut into parts of equal length. Each part must be as long as possible. The maximum number of pieces that can be obtained will be",
       "options": [
         "27",
@@ -1774,11 +1812,13 @@
         "36",
         "43"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The greatest equal segment length is HCF(78, 104, 117, 169) = 13 cm. The pieces are 6 + 8 + 9 + 13 = 36.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 129,
+      "number": 130,
       "text": "In the series given below, a number is missing. Find the missing number: 91, 73, ?, 43, 31, 21.",
       "options": [
         "65",
@@ -1786,11 +1826,13 @@
         "59",
         "45"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_visual_or_logic_review"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The missing term is 57: the sequence follows n² − (n−1), descending from 10²−9=91 to 5²−4=21.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 130,
+      "number": 131,
       "text": "If in a certain code, E = 5, HOTEL = 12, then how will the word LAMB be represented?",
       "options": [
         "28",
@@ -1798,11 +1840,13 @@
         "10",
         "26"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_visual_or_logic_review"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The code is the average of the letters' alphabetical positions: HOTEL totals 60, giving 12. LAMB totals 28; 28 ÷ 4 = 7.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 131,
+      "number": 132,
       "text": "Pointing to a man in a photograph, Nisha said, 'He is the brother of the daughter of the wife of my husband.' How is the man in the photograph related to Nisha?",
       "options": [
         "Son",
@@ -1810,11 +1854,13 @@
         "Husband",
         "Maternal uncle"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The brother of Nisha's daughter is Nisha's son, so the man is her son.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 132,
+      "number": 133,
       "text": "A tourist covers half of her journey by train at 50 km/h, half of the remainder by bus at 30 km/h and the rest by cycle at 10 km/h. The average speed of the tourist during the journey is",
       "options": [
         "35 km/h",
@@ -1823,10 +1869,12 @@
         "18 km/h"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "transcriptionStatus": "needs_visual_check",
+      "answerStatus": "unresolved",
+      "explanation": "For equal total distance, the travel times are d/100, d/120 and d/40 hours. The average speed is 300/13 ≈ 23.08 km/h, but none of the four options is 23.08. Option 24 is only an approximation and the paper gives no rounding instruction; leave unscored."
     },
     {
-      "number": 133,
+      "number": 134,
       "text": "In a certain code, '253' means 'books are old', '546' means 'man is old' and '378' means 'buy good books'. What stands for 'are' in that code?",
       "options": [
         "6",
@@ -1834,11 +1882,13 @@
         "4",
         "5"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The common digit in 253 and 546 represents “old” (5). The common digit in 253 and 378 represents “books” (3). Therefore 2 represents “are”.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 134,
+      "number": 135,
       "text": "Five friends are sitting on a bench. A is to the left of B but on the right of C. D is to the right of B but on the left of E. Who are sitting at the extremes of the bench?",
       "options": [
         "A and B",
@@ -1846,11 +1896,13 @@
         "B and D",
         "C and E"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The order from left to right is C–A–B–D–E, so C and E occupy the two extremes.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 135,
+      "number": 136,
       "text": "A and B start walking from the same point. A goes North and covers 3 km, then turns right and covers 4 km. B goes West and covers 5 km and then turns right and covers 3 km. How far apart are they from each other?",
       "options": [
         "10 km",
@@ -1858,11 +1910,13 @@
         "8 km",
         "5 km"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 1,
+      "transcriptionStatus": "source_checked",
+      "explanation": "A finishes at (4, 3). B travels west 5 km and then north 3 km, finishing at (−5, 3). Their horizontal separation is 9 km.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 136,
+      "number": 137,
       "text": "A, B, C, D, E, F, G and H are sitting around a circle facing the centre. H is fourth to the left of B and second to the right of F. A is third to the left of C, who is not an immediate neighbour of F. G is second to the left of A. D is second to the right of E. Who is on the immediate right of F?",
       "options": [
         "A",
@@ -1870,11 +1924,13 @@
         "G",
         "Cannot be determined"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_visual_or_logic_review"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The valid differences are 64, 32, 16, 8, 4 and 2. After 192 the next term should be 196, not 194; therefore 194 is the wrong number.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 137,
+      "number": 138,
       "text": "Find the wrong number in the following number series: 72, 136, 168, 184, 192, 194, 198.",
       "options": [
         "198",
@@ -1883,10 +1939,12 @@
         "136"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "needs_visual_or_logic_review"
+      "transcriptionStatus": "needs_visual_check",
+      "answerStatus": "unresolved",
+      "explanation": "The sequence 21, 30, 37, 55, 85, 131, 197 does not reveal a unique consistent rule with one wrong term. The apparent differences are 9, 7, 18, 30, 46 and 66; more than one pattern could be proposed, so no option is defensible."
     },
     {
-      "number": 138,
+      "number": 139,
       "text": "Find the wrong number in the following number series: 21, 30, 37, 55, 85, 131, 197.",
       "options": [
         "131",
@@ -1898,7 +1956,7 @@
       "transcriptionStatus": "needs_visual_or_logic_review"
     },
     {
-      "number": 139,
+      "number": 140,
       "text": "The sum of the ages of a daughter and mother is 56 years. After four years, the age of the mother will be three times the age of the daughter. What is the age of the daughter and mother respectively?",
       "options": [
         "12 years, 41 years",
@@ -1906,11 +1964,13 @@
         "12 years, 44 years",
         "21 years, 42 years"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Let the daughter's age be d and the mother's age be m. d+m=56 and m+4=3(d+4), giving d=12 and m=44.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 140,
+      "number": 141,
       "text": "Father is aged three times more than his son Ronald. After 8 years, he would be two and a half times Ronald's age. After another 16 years, how many times would he be of Ronald's age?",
       "options": [
         "2 times",
@@ -1918,11 +1978,13 @@
         "2¾ times",
         "3 times"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_visual_or_logic_review"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Taking the conventional intended meaning as “the father is three times as old as Ronald”, let their ages be 3x and x. From 3x+8=2.5(x+8), x=24. After another 16 years their ages are 96 and 48, a ratio of 2:1.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 141,
+      "number": 142,
       "text": "A total of 324 notes comprising ₹20 and ₹50 denominations make a sum of ₹12,450. The total number of ₹20 notes is",
       "options": [
         "144",
@@ -1930,11 +1992,13 @@
         "110",
         "125"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Let x be the number of ₹20 notes and y the number of ₹50 notes. x+y=324 and 20x+50y=12,450; solving gives x=125.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 142,
+      "number": 143,
       "text": "Select the correct combination of mathematical signs to replace the '*' signs and balance the following equation (symbols as printed in source).",
       "options": [
         "× + +",
@@ -1943,10 +2007,12 @@
         "+ × +"
       ],
       "answerIndex": null,
-      "transcriptionStatus": "needs_visual_or_logic_review"
+      "transcriptionStatus": "needs_visual_check",
+      "answerStatus": "unresolved",
+      "explanation": "The equation/symbol expression in the source scan is too degraded to transcribe reliably. The four sign-combination options are visible, but the equation itself is not sufficiently legible to test them. Leave unscored pending a clearer scan."
     },
     {
-      "number": 143,
+      "number": 144,
       "text": "Johnny walked 25 m towards South. Then he turned to his left and walked 20 m. He then turned to his left and walked 25 m. He again turned to his right and walked 15 m. At what distance is he from his starting point and in which direction?",
       "options": [
         "35 m, East",
@@ -1954,11 +2020,13 @@
         "40 m, East",
         "60 m, North"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "He walks 25 m south, 20 m east, 25 m north and 15 m east. The north–south movement cancels; he is 35 m east of the start.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 144,
+      "number": 145,
       "text": "Given below are two statements followed by two conclusions. Consider the statements true even if they seem to be at variance with commonly known facts. Statements: I. Health Insurance in India caters only to the rich. II. Health Insurance Sector should be regularized. Conclusions: I. Health Insurance Sector should be nationalized. II. Health Insurance is not required for the poor. Which conclusion follows?",
       "options": [
         "Neither conclusion I nor II follows",
@@ -1966,11 +2034,13 @@
         "Only conclusion II follows",
         "Either conclusion I or II follows"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Neither conclusion follows. The statements do not imply that health insurance should be nationalised or that poor people do not need it.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 145,
+      "number": 146,
       "text": "Given below are three statements followed by two conclusions. Statements: I. All shoes are pens. II. Some pens are razors. III. Some razors are desks. Conclusions: I. Some desks are shoes. II. Some razors are shoes. Which conclusion(s) follow?",
       "options": [
         "Only conclusion I follows",
@@ -1978,11 +2048,13 @@
         "Neither conclusion I nor II follows",
         "Both conclusion I and II follow"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_visual_or_logic_review"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "All shoes are pens, but the “some pens are razors” group need not contain shoes. Likewise, the “some razors are desks” group need not contain shoes. Neither conclusion is guaranteed.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 146,
+      "number": 147,
       "text": "Danny introduced Wilburn as the son of the only brother of his father's wife. How is Wilburn related to Danny?",
       "options": [
         "Cousin",
@@ -1990,11 +2062,13 @@
         "Son-in-law",
         "Uncle"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The person is the son of his father's wife's brother—his paternal uncle's son, i.e. his cousin.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 147,
+      "number": 148,
       "text": "Select the related letters from the given alternatives: Bbc : cBB :: Llm : ?",
       "options": [
         "mlM",
@@ -2002,11 +2076,13 @@
         "MLm",
         "mLL"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_visual_or_logic_review"
+      "answerIndex": 3,
+      "transcriptionStatus": "source_checked",
+      "explanation": "The pattern reverses the letter order and presents the final two letters in capitals: Bbc becomes cBB, so Llm becomes mLL.",
+      "answerStatus": "independently_solved"
     },
     {
-      "number": 148,
+      "number": 149,
       "text": "If 1st January is a Friday, then what is the first day of the month of March in a leap year?",
       "options": [
         "Tuesday",
@@ -2014,20 +2090,10 @@
         "Saturday",
         "Monday"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "transcribed"
-    },
-    {
-      "number": 149,
-      "text": "Which is the smallest in value among the following numbers? (Superscript notation in the scan is unclear.)",
-      "options": [
-        "2250",
-        "3150",
-        "5100",
-        "4200"
-      ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_visual_or_logic_review"
+      "answerIndex": 0,
+      "transcriptionStatus": "source_checked",
+      "explanation": "In a leap year, January has 31 days and February has 29. Starting with Friday on 1 January, 1 March is Tuesday.",
+      "answerStatus": "independently_solved"
     },
     {
       "number": 150,
@@ -2038,8 +2104,10 @@
         "5¹⁰⁰",
         "4²⁰⁰"
       ],
-      "answerIndex": null,
-      "transcriptionStatus": "needs_visual_check"
+      "answerIndex": 2,
+      "transcriptionStatus": "source_checked",
+      "explanation": "Comparing the powers by logarithms: 2²⁵⁰≈10⁷⁵·²⁵, 3¹⁵⁰≈10⁷¹·⁵⁶, 5¹⁰⁰≈10⁶⁹·⁹⁹ and 4²⁰⁰≈10¹²⁰·⁴; 5¹⁰⁰ is smallest.",
+      "answerStatus": "independently_solved"
     }
   ]
 }
