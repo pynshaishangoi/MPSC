@@ -9,7 +9,7 @@
   "totalQuestions": 150,
   "transcribedQuestions": 150,
   "complete": false,
-  "transcriptionNote": "Source transcription corrected against the original uploaded 20-page PDF and cross-checked against the official MPSC-hosted question booklet. Q117 (wound watch spring) was missing from the first pass; it has been restored, later questions renumbered to the printed sequence, and the duplicate final entry removed. Q25 stem/options, Q61–62 bold headwords, Q96 wording, Q117 and Q143 formula/options have been restored from the source. Independent answers and explanations are present for 141 questions. Q7, Q9, Q10, Q16, Q26, Q46, Q60, Q108 and Q141 remain explicitly unscored with reasons. No official answer key has been supplied or verified.",
+  "transcriptionNote": "Source transcription corrected against the original uploaded 20-page PDF and cross-checked against the official MPSC-hosted question booklet. Q117 (wound watch spring) was missing from the first pass; it has been restored, later questions renumbered to the printed sequence, and the duplicate final entry removed. Q25 stem/options, Q61–62 bold headwords, Q96 wording, Q117 and Q143 formula/options have been restored from the source. Independent answers and explanations are present for 141 questions. Q7, Q9, Q10, Q16, Q26, Q46, Q60, Q108 and Q141 remain explicitly unscored with reasons. No official answer key has been supplied or verified. Official MPSC Series I answer-key PDF has now been located and its document number/date/source recorded separately (19 December 2024, No.MPSC-ExC/100/AKP/2024/51). The copyrighted answer table is not copied into the repository; independently reasoned answers remain separate, and the nine flagged items remain unscored pending reconciliation.",
   "questions": [
     {
       "number": 1,
@@ -2111,5 +2111,15 @@
       "explanation": "Comparing the powers by logarithms: 2²⁵⁰≈10⁷⁵·²⁵, 3¹⁵⁰≈10⁷¹·⁵⁶, 5¹⁰⁰≈10⁶⁹·⁹⁹ and 4²⁰⁰≈10¹²⁰·⁴; 5¹⁰⁰ is smallest.",
       "answerStatus": "independently_solved"
     }
-  ]
+  ],
+  "officialAnswerKey": {
+    "status": "verified_source_reference",
+    "issuingAuthority": "Meghalaya Public Service Commission",
+    "documentNumber": "MPSC-ExC/100/AKP/2024/51",
+    "date": "2024-12-19",
+    "series": "I",
+    "title": "Answer Key for the Post of L.D.A. Meghalaya Public Service Commission (Oct. 2023)",
+    "sourceURL": "https://mpsc.meghalaya.gov.in/answerkeys/anskey%20LDA%20Oct%202023.pdf",
+    "handlingNote": "The official key is linked as an external reference and is not reproduced in this repository. The independently reasoned answerIndex values remain separate. The nine ambiguous/defective questions remain unscored pending item-by-item reconciliation; the official key alone does not override a source or reasoning defect."
+  }
 }
