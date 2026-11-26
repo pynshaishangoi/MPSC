@@ -28,9 +28,11 @@ Preparation coverage: English, arithmetic, general awareness with Meghalaya focu
 
 ### MPSC Secretariat LDA — May 2025 recruitment cycle
 
-The Series I written paper was held on 13 September 2025. Its verified structure is 150 questions, 300 marks and 150 minutes: 75 General English plus 75 General Awareness & Aptitude. The hub holds all 75 English questions and the first 16 General Awareness questions (6 Science, 5 History, 5 Geography), for 91/150 total. Questions 92–150 remain to be transcribed and checked.
+The Series I written paper was held on 13 September 2025. Its verified structure is 150 questions, 300 marks and 150 minutes: 75 General English plus 75 General Awareness & Aptitude. The hub now contains the complete 150-question transcription in `pyq-papers/lda-secretariat-2025-series-i.json`, with all printed sections, directions, passages, underlined targets and four options preserved. All 150 items have independently written explanations. Of these, 147 are scoreable; Q27, Q141 and Q148 are explicitly unscored because the printed options do not support a defensible unique answer. The official MPSC Series I key is stored separately. Q133 has an independent answer of D while the official key records C; the discrepancy is displayed and the official key is not silently substituted for the independent scoring answer.
 
-Editorial classification of the 75 English questions: 4 reading-comprehension, 6 idiom/phrase, 5 one-word substitution, 10 synonym/antonym, 5 direct/indirect speech, 10 grammar/sentence correction, 5 rearrangement, 5 cloze, 17 contextual vocabulary, 1 infinitive/purpose and 7 vocabulary/usage items. The official key does not rate difficulty; this is an editorial format count, not an official topic-weightage claim. The 16-question General Awareness sample is incomplete and must not be projected onto the remaining 59 questions.
+The paper is available as a complete timed PYQ: 150 minutes, 2 marks per question, 300 original marks and no negative marking. The score card excludes the three unscored items from scoreable marks and reports them separately. The paper is an official historical PYQ transcription; it is not part of the original-practice question count.
+
+Editorial classification of the 75 English questions remains: 4 reading-comprehension, 6 idiom/phrase, 5 one-word substitution, 10 synonym/antonym, 5 direct/indirect speech, 10 grammar/sentence correction, 5 rearrangement, 5 cloze, 17 contextual vocabulary, 1 infinitive/purpose and 7 vocabulary/usage items. The official key does not rate difficulty; this is an editorial format count, not an official topic-weightage claim.
 
 ## Question-bank composition (not exam-frequency data)
 
