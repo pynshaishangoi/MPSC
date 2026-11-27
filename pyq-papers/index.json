@@ -64,8 +64,8 @@
       "sourceFileName": "[LDA(OCT-2023].pdf",
       "sourcePageCount": 20,
       "questionsPath": "pyq-papers/lda-mpsc-2023-series-i.json",
-      "answerKeyStatus": "verified_official_key_with_unresolved_items",
-      "notes": "All 150 questions are first-pass transcribed with 141 independent answers and explanations. The official MPSC Series I answer-key PDF is now verified and referenced separately; the copyrighted answer table is not reproduced. Nine ambiguous/defective items remain explicitly unscored and require item-by-item reconciliation. Paper remains incomplete.",
+      "answerKeyStatus": "verified_official_key_with_comparison_pending_review",
+      "notes": "All 150 questions are first-pass transcribed with 141 independent answers and explanations. Official MPSC Series I key verified and referenced separately; 14 differences against independent answers are flagged for manual review. Nine ambiguous/defective questions remain unscored. Paper remains incomplete.",
       "answerKeySource": "https://mpsc.meghalaya.gov.in/answerkeys/anskey%20LDA%20Oct%202023.pdf",
       "answerKeyDate": "2024-12-19",
       "answerKeyDocumentNumber": "MPSC-ExC/100/AKP/2024/51"
