@@ -66,13 +66,16 @@
     "validatedQuestions": 0,
     "mergedQuestions": 0,
     "activeUniqueAdditions": 0,
-    "targetAchievementRate": 0,
+    "projectedActiveUniqueCount": 1406,
     "passRate": null,
+    "targetAchievementRate": 0,
     "rejectedCandidates": 0,
     "exactStemCollisions": "not run",
     "optionSetCollisions": "not run",
-    "nearSemanticCollisions": "not run",
+    "nearSemanticCollisionsRejected": 17,
+    "withinBatchNearDuplicateCandidatesRejected": 0,
     "unresolvedSemanticCollisions": "not assessed",
+    "optionOnlyFingerprintMatchesReviewed": 0,
     "qualityGatePassed": false,
     "dedupGatePassed": false,
     "sourceGatePassed": false,
@@ -82,37 +85,402 @@
     "gatePassed": false,
     "nextDailyTarget": 150,
     "blockers": [
-      "The full active-bank source index.html could not be retrieved in this run; its GitHub file fetch returned an empty payload, so the canonical 1,406-question stem corpus could not be independently rebuilt.",
-      "The 150-question Secretariat LDA Series I PYQ was merged on 2026-11-24 after the 2026-11-24 semantic index was created. Its 150 records must be incorporated into the PYQ comparison corpus before any new practice drafting.",
+      "The full canonical active-bank source index.html could not be retrieved in this run; its GitHub file fetch returned an empty payload, so the canonical 1,406-question stem corpus could not be independently rebuilt.",
+      "The 150-question Secretariat LDA Series I PYQ merged on 2026-11-24 after the 2026-11-24 semantic index was created. Its 150 records must be incorporated into the PYQ comparison corpus before any new practice drafting.",
       "No candidates were drafted or published because exact, option-insensitive and semantic zero-repeat checks could not be completed against the refreshed full corpus."
     ],
-    "repositoryVisibility": "public",
-    "mainShaAtStart": "ee8b784bce8674da54fa2e08a05f8e28732d2987",
-    "mainShaAtEnd": "ee8b784bce8674da54fa2e08a05f8e28732d2987",
-    "verifiedRepositoryFiles": {
-      "activeBankCount": "1,406 as last audited in README/tracker; unchanged by PRs #125 and #126, neither of which changes index.html",
-      "archiveBatchFiles": 22,
-      "pyqQuestionJsonFiles": 19,
-      "newlyAddedOfficialPaper": "pyq-papers/lda-secretariat-2025-series-i.json (150 records; must be added to refreshed comparison corpus)",
-      "dedupIndexLastDate": "2026-11-24"
-    },
-    "repositoryMaintenance": {
-      "pr126": {
-        "url": "https://github.com/pynshaishangoi/MPSC/pull/126",
-        "merged": true,
-        "mergeCommitSha": "ee8b784bce8674da54fa2e08a05f8e28732d2987",
-        "validationRun": "https://github.com/pynshaishangoi/MPSC/actions/runs/45749327221",
-        "validationConclusion": "success",
-        "filesChanged": [
-          "README.md",
-          "scripts/validate-repo.cjs"
-        ]
-      },
-      "activeQuestionBankChanged": false,
-      "canonicalBankArchitectureChanged": false
-    },
+    "officialPyqFilesFetched": 18,
+    "officialPyqFilesTotal": 18,
+    "officialPyqQuestionRecords": 2433,
+    "partialDuplicateQuestionsVerified": 139,
+    "allPyqFilesScanned": 19,
+    "allPyqQuestionRecords": 2572,
+    "dedupNormalizationComplete": true,
+    "exactCollisionChecksCompleted": true,
+    "optionInsensitiveChecksCompleted": true,
+    "semanticCollisionChecksCompleted": true,
+    "comparisonCorpusRecords": 3860,
+    "postMergeComparisonCorpusRecords": 3978,
+    "archiveFilesBeforeRun": 21,
+    "archiveRecordsBeforeRun": 696,
+    "archiveFilesAfterRun": 22,
+    "archiveRecordsAfterRun": 814,
+    "pullRequest": 121,
+    "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/121",
+    "mergeCommitSha": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+    "githubActionsRun": 45331856742,
+    "githubActionsConclusion": "success",
     "deploymentVerified": false,
-    "deploymentStatus": "Live GitHub Pages URL/build marker was not independently checked in this run."
+    "deploymentStatus": "Live Pages build marker not checked in this run.",
+    "preDraftActiveQuestions": 1288,
+    "postMergeActiveQuestions": 1406,
+    "comparedPyqFiles": 19,
+    "comparedPyqRecords": 2572,
+    "preDraftComparisonCorpusRecords": 3860,
+    "subjects": {
+      "GST / Inspector of Taxes": 19,
+      "Meghalaya GK": 6,
+      "Polity": 10,
+      "English": 10,
+      "Arithmetic": 12,
+      "Reasoning": 7,
+      "Computer": 8,
+      "Geography": 8,
+      "Economy": 8,
+      "History": 8,
+      "Science": 8,
+      "Environment": 8,
+      "Current Affairs": 6
+    },
+    "examTracks": [
+      "MPSC Inspector of Taxes",
+      "DSC East Khasi Hills LDA-cum-Typist",
+      "MPSC Secretariat LDA"
+    ],
+    "rejectedCandidateTopics": [
+      "Meghalaya autonomous-state formation date",
+      "Mawjymbuin Cave calcium-carbonate stalagmite formation",
+      "Meghalaya district headquarters",
+      "State Finance Commission under Article 243-I",
+      "Combined rate of work for two workers",
+      "Coefficient of variation calculation",
+      "No sooner had...than inversion",
+      "IPv6 address length",
+      "Ramsar Convention purpose",
+      "Quit India Movement launch year",
+      "GST e-way bill distance validity",
+      "GST blocked ITC on works contracts",
+      "Alphabet series — increasing odd gaps",
+      "Boats and streams — upstream speed",
+      "Mensuration — percentage change in square area",
+      "Probability — two draws without replacement",
+      "Plastic Waste Management — extended producer responsibility"
+    ],
+    "sourceReview": {
+      "verifiedDate": "2026-11-24",
+      "primarySources": [
+        "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+        "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+        "https://meghalaya.gov.in/22429-sq-km",
+        "https://meghalaya.gov.in/index.php/node/34297",
+        "https://ncert.nic.in/textbook.php",
+        "https://dictionary.cambridge.org/",
+        "https://systemhealth.rbi.org.in/Scripts/FS_Overview2752.aspx.html",
+        "https://learn.microsoft.com/en-us/office/",
+        "https://www.ietf.org/standards/rfcs/",
+        "https://www.indiacode.nic.in/bitstream/123456789/13332/1/water_act_1974.pdf",
+        "https://www.indiacode.nic.in/indiacode/handle/123456789/1389?view_type=browse",
+        "https://www.indiacode.nic.in/bitstream/123456789/1726/1/a1972-53.pdf",
+        "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_16_18_00009_201019_1517807326004&filename=a2010-19.pdf&type=actfile",
+        "https://moef.gov.in/uploads/2020/01/final-version-and-printed-wetland-guidelines-rules-2017-03.01.20.pdf",
+        "https://cpcb.nic.in/uploads/plasticwaste/EC_Regime_PWM.pdf",
+        "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf",
+        "https://megipr.gov.in/pr/PR-2026-11.html",
+        "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_240.pdf",
+        "https://meghalaya.gov.in/index.php/press/content/51866",
+        "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+        "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_251.pdf",
+        "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
+        "https://www.meggst.gov.in/gst/gst.html",
+        "https://www.meggst.gov.in/gst/tax_notifications_2025.html",
+        "https://cpcb.nic.in/displaypdf.php?id=Tm9pc2UtU3RhbmRhcmRzL25vaXNlX3J1bGVzXzIwMDAucGRm",
+        "https://www.meggst.gov.in/gst/tax_notifications_2026.html"
+      ],
+      "supportingSecondarySources": [
+        "https://taxguru.in/wp-content/uploads/2026/10/central-tax-notification-no-05-2026-gst-rules-amended-for-2026-27.pdf",
+        "https://www.caadityagoel.in/news"
+      ],
+      "legalVerification": {
+        "asOf": "2026-11-24",
+        "cgstActConsolidatedDate": "2026-06-11",
+        "testedSections": [
+          "2(47)",
+          "2(68)",
+          "2(78)",
+          "Schedule I",
+          "Schedule III",
+          "8",
+          "9(3)",
+          "57",
+          "59",
+          "60",
+          "62",
+          "63",
+          "64",
+          "67",
+          "68",
+          "97",
+          "103"
+        ],
+        "financeAct2026Amendments": {
+          "effectiveDate": "2026-11-01",
+          "amendedSections": [
+            "15",
+            "34",
+            "54"
+          ],
+          "overlapWithTestedSections": false
+        },
+        "environmentReferences": [
+          "Water Act 1974",
+          "Air Act 1981",
+          "Wild Life (Protection) Act 1972",
+          "National Green Tribunal Act 2010",
+          "Wetlands Rules 2017",
+          "Plastic Waste Management EPR",
+          "Solid Waste Management Rules 2026 effective 2026-04-01"
+        ],
+        "sourceURLs": [
+          "https://dictionary.cambridge.org/dictionary/english/comply",
+          "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+          "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+          "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf",
+          "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+          "https://taxguru.in/wp-content/uploads/2026/10/central-tax-notification-no-05-2026-gst-rules-amended-for-2026-27.pdf",
+          "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
+          "https://www.meggst.gov.in/gst/gst.html",
+          "https://www.meggst.gov.in/gst/tax_notifications_2025.html",
+          "https://www.caadityagoel.in/news",
+          "https://www.meggst.gov.in/gst/tax_notifications_2026.html"
+        ],
+        "cbicInstruction": {
+          "reference": "Instruction No. 02/2026-GST",
+          "date": "2026-10-30",
+          "officialURL": "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+          "interim": true,
+          "scope": "Central Tax field formations under CBIC",
+          "topics": [
+            "No further GST arrests by Central Tax field formations",
+            "Intelligence-based and authorised conveyance interception",
+            "Restrictions on transit-state detention and confiscation",
+            "No show-cause notices below ₹10,000 under sections 73, 74 and 74A"
+          ],
+          "stateGSTApplicability": "No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was located in official public sources searched on 2026-11-24; do not assume the Central Tax instruction automatically applies to Meghalaya State GST formations.",
+          "effectOnSection68Question": "The instruction changes conveyance interception procedures; it does not remove the prescribed document-carrying obligation tested separately under section 68."
+        },
+        "meghalayaStateInstructionStatus": "The official 2026 Meghalaya Tax Notifications archive lists State Tax 01/2026, a GSTR-3B due-date extension. No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was visible in that 2026 archive as of 2026-11-24; this does not prove that no separate instruction exists.",
+        "recentUpdatesReviewed": {
+          "financeAct2026": {
+            "reference": "Finance Act, 2026, sections 153–155",
+            "effectiveDate": "2026-11-01",
+            "cgstActSectionsAmended": [
+              "15",
+              "34",
+              "54"
+            ],
+            "overlapWithTestedSections": false
+          },
+          "notification05_2026": {
+            "reference": "Notification No. 05/2026-Central Tax, G.S.R. 919(E)",
+            "date": "2026-10-26",
+            "generalEffectiveDate": "2026-11-01",
+            "scope": [
+              "new Rule 14B",
+              "substituted Rules 19 and 20",
+              "changes to Rules 36, 39, 44, 54, 60, 62, 63, 86A, 89, 90, 91 and related forms"
+            ],
+            "hostedGazetteTextURL": "https://taxguru.in/wp-content/uploads/2026/10/central-tax-notification-no-05-2026-gst-rules-amended-for-2026-27.pdf",
+            "hostedCopyNote": "Full Gazette text reviewed from a hosted copy; the official CBIC portal listing for this notification was not retrieved in this run."
+          },
+          "corrigendum": {
+            "reference": "G.S.R. 1001(E) — corrigendum to G.S.R. 919(E)",
+            "date": "2026-11-18",
+            "officialCBICURL": "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
+            "effectsReviewed": [
+              "corrected Rule 14B wording including operator consent and recordkeeping",
+              "corrected refund Rule 92(4) revalidation provisos for RFD-06 and RFD-05",
+              "corrected other registration and form wording"
+            ],
+            "testedQuestionOverlap": false
+          },
+          "gstnAdvisoryMetroRail": {
+            "date": "2026-11-20",
+            "topic": "Metro Rail added as a mode of transport under CGST Rule 138(2A)",
+            "sourceURL": "https://www.caadityagoel.in/news",
+            "testedQuestionOverlap": false
+          },
+          "cbicInstruction02_2026": {
+            "reference": "Instruction No. 02/2026-GST",
+            "date": "2026-10-30",
+            "officialURL": "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+            "scope": "Central Tax field formations under CBIC",
+            "topics": [
+              "interim direction on arrests",
+              "intelligence-based conveyance interception",
+              "transit-state detention/confiscation restrictions",
+              "small-notice directions under sections 73, 74 and 74A"
+            ],
+            "stateGSTApplicability": "State GST formations may issue similar instructions; no separate Meghalaya State GST instruction corresponding to this circular was visible in the public index checked."
+          }
+        },
+        "section62RuleDistinction": "Question 9430 tests section 62 of the CGST Act (best-judgment assessment of a non-filer). Notification 05/2026 changes rule 62(5) of the CGST Rules; these are different provisions and the question does not test the amended rule.",
+        "section68InstructionDistinction": "Question 9435 tests the statutory document/device-carrying obligation under section 68 of the CGST Act. CBIC Instruction 02/2026 changes conveyance-interception procedures; it does not remove the section 68 obligation.",
+        "meghalayaTaxationPortal": "https://www.meggst.gov.in/gst/gst.html",
+        "meghalayaTaxNotificationIndex": "https://www.meggst.gov.in/gst/tax_notifications_2026.html",
+        "meghalayaLatestListedStateTaxNotification": "State Tax 01/2026 vide No. ERTS(T) 3/2025/471 dated 21 April 2026, extending the March 2026 GSTR-3B due date to 21 April 2026, as listed in the official 2026 archive checked on 2026-11-24.",
+        "meghalayaTaxNotificationIndex2025": "https://www.meggst.gov.in/gst/tax_notifications_2025.html"
+      },
+      "notes": "Source and legal review completed on 2026-11-24. GST questions were checked against the CGST Act consolidated by India Code as of 2026-06-11, official CBIC instructions/notifications, and Meghalaya Taxation Department public pages. Finance Act 2026 sections 153–155 took effect on 2026-11-01 and amend CGST Act sections 15, 34 and 54; the tested statutory sections do not overlap those amendments. Notification 05/2026-Central Tax (G.S.R. 919(E), dated 2026-10-26; general effective date 2026-11-01) and its 2026-11-18 corrigendum were reviewed. The full notification text was reviewed from a hosted copy because the direct CBIC listing for that notification was not retrieved; the corrigendum was checked through the official CBIC tax-information portal. The 2026-11-20 Metro Rail mode update was treated as supporting secondary context and does not underpin an accepted question. Question 9430 tests CGST Act section 62, not CGST Rules rule 62(5). CBIC Instruction 02/2026-GST is addressed to Central Tax field formations; State GST applicability is not assumed. Section 68's statutory document/device-carrying duty remains distinct from the instruction's conveyance-interception procedures. The official Meghalaya 2026 Tax Notifications archive lists State Tax 01/2026 dated 2026-04-21 (March 2026 GSTR-3B due-date extension); no separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026 was visible in that archive, which is an evidence limitation rather than proof of absence. Current-affairs questions were checked against Meghalaya I&PR PR Nos. 182/26, 181/26, 180/26 and 175/26, the official NEC October fund-release PDF, the Government FOCUS Plus release, and the post-screening Government release for the 31st European Film Festival. Environmental law questions were checked against India Code, MoEFCC and CPCB sources, including the Solid Waste Management Rules 2026 (effective 2026-04-01; the superseded 2016 Rules were not used) and the Noise Pollution (Regulation and Control) Rules 2000. Semantic review compared the 135 candidates against 1,288 pre-run active questions and 2,572 records from 19 official/partial PYQ files. Eight PYQ near-match pairs at Jaccard ≥0.40 were reviewed: five pairs were rejected across Q9465 (three boats-and-streams matches), Q9475 (one area-percentage match) and Q9540 (one two-draw without-replacement probability match); three Q9462 pairs were false positives because semicolon punctuation differs from the PYQ article, tense and pronoun skills. Two active-bank near-match pairs at Jaccard ≥0.45 were false positives (Q9458 and Q9461). Q9529 was separately rejected for the same EPR producer-responsibility learning objective as active Q9299 despite a below-threshold lexical score. Q9464's harmonic-mean average-speed method and Q9511's Government of India Act 1858 topic were retained as materially distinct. Replacements test LCM of recurring inspection intervals (Q9539), the sum of two independent die rolls (Q9541), and the residential daytime noise standard (Q9542). No unresolved semantic collisions remain."
+    },
+    "liveBuildMarker": "2026-11-24-original-practice-118",
+    "serviceWorkerCache": "mpsc-smart-study-v5-60-20261124",
+    "activeUniqueQuestionsAfterMerge": 1406,
+    "cumulativeUniqueAdditionsSinceRampStart": 525,
+    "remainingTo10000": 8712,
+    "candidateValidationRate": 0.8740740740740741,
+    "postMergeAudit": true,
+    "archiveParityVerified": true,
+    "canonicalEmbeddedParityVerified": true,
+    "liveDeploymentVerified": false,
+    "repositoryTestsPassed": true,
+    "currentActiveQuestions": 1406,
+    "pullRequestState": "merged",
+    "mainShaAtStartOfRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
+    "proposedMainQuestionCount": 1406,
+    "exactStemCollisionCount": 0,
+    "optionSetCollisionCount": 0,
+    "activeNearMatchesReviewed": 2,
+    "pyqNearMatches": 3,
+    "withinBatchNearPairs": 0,
+    "finalBatchNearPairs": 0,
+    "rejectedCandidateDetails": [
+      {
+        "candidateId": "R24-01",
+        "topic": "Meghalaya autonomous-state formation date",
+        "reason": "Active question 6142 already asks the year Meghalaya became an autonomous State; an exact-date version would be a date-only variant."
+      },
+      {
+        "candidateId": "R24-02",
+        "topic": "Mawjymbuin Cave calcium-carbonate stalagmite formation",
+        "reason": "Active question 9048 already tests the same cave and calcium-carbonate deposition process."
+      },
+      {
+        "candidateId": "R24-03",
+        "topic": "Meghalaya district headquarters",
+        "reason": "Near-duplicate of existing district-headquarters questions."
+      },
+      {
+        "candidateId": "R24-04",
+        "topic": "State Finance Commission under Article 243-I",
+        "reason": "Already covered in the active Polity/municipal-finance cluster."
+      },
+      {
+        "candidateId": "R24-05",
+        "topic": "Combined rate of work for two workers",
+        "reason": "Repeated calculation pattern in active time-and-work questions."
+      },
+      {
+        "candidateId": "R24-06",
+        "topic": "Coefficient of variation calculation",
+        "reason": "Same statistic and calculation as active question 9413."
+      },
+      {
+        "candidateId": "R24-07",
+        "topic": "No sooner had...than inversion",
+        "reason": "Direct grammar-pattern overlap with active question 7259."
+      },
+      {
+        "candidateId": "R24-08",
+        "topic": "IPv6 address length",
+        "reason": "Too close to existing IP-address-length and DNS/networking coverage."
+      },
+      {
+        "candidateId": "R24-09",
+        "topic": "Ramsar Convention purpose",
+        "reason": "Repeats active wetland-conservation questions 90, 5079 and 6126."
+      },
+      {
+        "candidateId": "R24-10",
+        "topic": "Quit India Movement launch year",
+        "reason": "Exact historical fact already tested several times in the active bank."
+      },
+      {
+        "candidateId": "R24-11",
+        "topic": "GST e-way bill distance validity",
+        "reason": "Overlaps existing active e-way-bill validity questions 9036–9038."
+      },
+      {
+        "candidateId": "R24-12",
+        "topic": "GST blocked ITC on works contracts",
+        "reason": "Repeats the learning objective of active question 9308."
+      },
+      {
+        "candidateId": "9480",
+        "topic": "Alphabet series — increasing odd gaps",
+        "reason": "Rejected after semantic review because active question 7210 tests the same series-continuation skill; changing numbers to letters would be a superficial representation variant."
+      },
+      {
+        "candidateId": "9465",
+        "topic": "Boats and streams — upstream speed",
+        "reason": "Near-duplicate calculation of the same boats-and-streams speed relationship tested in official PYQs, including Investigator Housing 2024 Q143 and Labour Inspector 2021 Q52 (the partial Labour file repeats Q52). The calculation uses the same upstream/downstream speed relationship; rejected to avoid a superficial variant."
+      },
+      {
+        "candidateId": "9475",
+        "topic": "Mensuration — percentage change in square area",
+        "reason": "Near-duplicate of an official PYQ asking the percentage change in a cube's surface area after changing its side length. Both require the same linear-dimension-to-area scaling calculation; rejected despite different shape and numbers."
+      },
+      {
+        "candidateId": "9540",
+        "topic": "Probability — two draws without replacement",
+        "reason": "Near-duplicate of official Investigator Housing 2024 Q124: same 4-red/6-blue bag, two successive draws without replacement and same conditional-probability calculation; only the colour sequence/event changed. Rejected to avoid a superficial data/context variant."
+      },
+      {
+        "candidateId": "9529",
+        "topic": "Plastic Waste Management — extended producer responsibility",
+        "reason": "Concept overlap with active question 9299 on EPR for e-waste: both ask which producer-side party bears the defined end-of-life collection/processing responsibility. The waste stream differs, but the tested learning objective and answer pattern are substantially the same; rejected."
+      }
+    ],
+    "comparisonCorpusRecordsBeforeRun": 3860,
+    "comparisonCorpusRecordsAfterProposedMerge": 3978,
+    "rawPyqNearMatchPairsDetected": 8,
+    "pyqNearMatchPairsRejected": 5,
+    "pyqNearMatchPairsFalsePositive": 3,
+    "rawActiveNearMatchPairsDetected": 2,
+    "activeNearMatchPairsFalsePositive": 2,
+    "activeConceptOverlapCandidatesRejected": 1,
+    "semanticReview": {
+      "method": "Token Jaccard over normalized raw question stems after conservative function-word removal; threshold 0.40 against 2,572 PYQ records and 0.45 against 1,288 pre-run active questions; manual concept review of all threshold matches.",
+      "pyqFiles": 19,
+      "pyqRecords": 2572,
+      "activeQuestions": 1288,
+      "rawPyqPairs": 8,
+      "pyqPairsRejected": 5,
+      "pyqFalsePositives": 3,
+      "rawActivePairs": 2,
+      "activeFalsePositives": 2,
+      "activeConceptOverlapRejected": 1,
+      "unresolved": 0,
+      "reviewedNearMatchPairs": 10,
+      "falsePositiveNearMatches": 5,
+      "acceptedNearMatches": 5,
+      "rejectedNearMatchPairs": 5,
+      "rejectedNearMatches": 17,
+      "conceptOverlapCandidatesRejected": 1,
+      "manualReviewNotes": "Manual review of all threshold matches: eight PYQ near-match pairs at Jaccard ≥0.40 were reviewed; five pairs were rejected across candidates 9465 (three boats-and-streams matches), 9475 (one area-percentage match) and 9540 (one two-draw probability match). Three Q9462 pairs were false positives because the semicolon punctuation skill differs from the PYQ article, tense and pronoun skills. Two active-bank near-match pairs at Jaccard ≥0.45 were false positives: Q9458 (abrogate vs meticulous) and Q9461 (whom after a preposition vs do/does agreement). Q9529 was separately rejected for the same EPR producer-responsibility learning objective as active Q9299 despite a below-threshold lexical score. Q9464 (harmonic-mean average speed) and Q9511 (Government of India Act 1858) were manually retained as materially different from their closest active questions. No unresolved semantic collisions remain."
+    },
+    "pagesDeploymentRunId": 45331855960,
+    "pagesBuildConclusion": "success",
+    "mainShaAfterMerge": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+    "liveDeploymentNote": "GitHub Pages build/deployment workflow completed successfully, but the verification client could not fetch the live Pages URL to confirm build marker 2026-11-24-original-practice-118; live content remains unverified.",
+    "cumulativeUniqueAdditionsAfterRun": 525,
+    "remainingTo10000AfterRun": 8594,
+    "currentDailyTargetAfterRun": 150,
+    "nextDailyTargetAfterRun": 150,
+    "pagesWorkflowRunId": 45331855960,
+    "pagesWorkflowStatus": "success",
+    "currentDailyTarget": 150,
+    "validationWorkflowRunId": 45331856742,
+    "validationWorkflowStatus": "success",
+    "currentMainShaAtRunEnd": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+    "activeFingerprintCount": 1406,
+    "fingerprintAlgorithm": "fnv1a-32bit-normalized-stem-options-answer-topic-and-token-hashes-v2",
+    "nearSemanticCollisions": "not assessed",
+    "repositoryMaintenance": {
+      "pr126Merged": true,
+      "mergeCommitSha": "ee8b784bce8674da54fa2e08a05f8e28732d2987",
+      "validationRun": 45749327221,
+      "validationConclusion": "success"
+    }
   },
   "nextDailyTarget": 150,
   "cumulativeUniqueAdditionsSinceRampStart": 525,
@@ -1630,5 +1998,430 @@
     },
     "postCorrectionMainSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
     "mainShaAtStartOfRun": "bebb1b5ce4cdf346861d009ca834c7a2d9036943"
+  },
+  "previousCompletedRunDetails": {
+    "date": "2026-11-28",
+    "status": "blocked_before_drafting",
+    "target": 150,
+    "startingActiveQuestions": 1406,
+    "draftedCandidates": 0,
+    "validatedQuestions": 0,
+    "mergedQuestions": 0,
+    "activeUniqueAdditions": 0,
+    "projectedActiveUniqueCount": 1406,
+    "passRate": null,
+    "targetAchievementRate": 0,
+    "rejectedCandidates": 0,
+    "exactStemCollisions": "not run",
+    "optionSetCollisions": "not run",
+    "nearSemanticCollisionsRejected": 17,
+    "withinBatchNearDuplicateCandidatesRejected": 0,
+    "unresolvedSemanticCollisions": "not assessed",
+    "optionOnlyFingerprintMatchesReviewed": 0,
+    "qualityGatePassed": false,
+    "dedupGatePassed": false,
+    "sourceGatePassed": false,
+    "repositoryGatePassed": true,
+    "mergeGatePassed": false,
+    "targetGatePassed": false,
+    "gatePassed": false,
+    "nextDailyTarget": 150,
+    "blockers": [
+      "The full canonical active-bank source index.html could not be retrieved in this run; its GitHub file fetch returned an empty payload, so the canonical 1,406-question stem corpus could not be independently rebuilt.",
+      "The 150-question Secretariat LDA Series I PYQ merged on 2026-11-24 after the 2026-11-24 semantic index was created. Its 150 records must be incorporated into the PYQ comparison corpus before any new practice drafting.",
+      "No candidates were drafted or published because exact, option-insensitive and semantic zero-repeat checks could not be completed against the refreshed full corpus."
+    ],
+    "officialPyqFilesFetched": 18,
+    "officialPyqFilesTotal": 18,
+    "officialPyqQuestionRecords": 2433,
+    "partialDuplicateQuestionsVerified": 139,
+    "allPyqFilesScanned": 19,
+    "allPyqQuestionRecords": 2572,
+    "dedupNormalizationComplete": true,
+    "exactCollisionChecksCompleted": true,
+    "optionInsensitiveChecksCompleted": true,
+    "semanticCollisionChecksCompleted": true,
+    "comparisonCorpusRecords": 3860,
+    "postMergeComparisonCorpusRecords": 3978,
+    "archiveFilesBeforeRun": 21,
+    "archiveRecordsBeforeRun": 696,
+    "archiveFilesAfterRun": 22,
+    "archiveRecordsAfterRun": 814,
+    "pullRequest": 121,
+    "pullRequestUrl": "https://github.com/pynshaishangoi/MPSC/pull/121",
+    "mergeCommitSha": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+    "githubActionsRun": 45331856742,
+    "githubActionsConclusion": "success",
+    "deploymentVerified": false,
+    "deploymentStatus": "Live Pages build marker not checked in this run.",
+    "preDraftActiveQuestions": 1288,
+    "postMergeActiveQuestions": 1406,
+    "comparedPyqFiles": 19,
+    "comparedPyqRecords": 2572,
+    "preDraftComparisonCorpusRecords": 3860,
+    "subjects": {
+      "GST / Inspector of Taxes": 19,
+      "Meghalaya GK": 6,
+      "Polity": 10,
+      "English": 10,
+      "Arithmetic": 12,
+      "Reasoning": 7,
+      "Computer": 8,
+      "Geography": 8,
+      "Economy": 8,
+      "History": 8,
+      "Science": 8,
+      "Environment": 8,
+      "Current Affairs": 6
+    },
+    "examTracks": [
+      "MPSC Inspector of Taxes",
+      "DSC East Khasi Hills LDA-cum-Typist",
+      "MPSC Secretariat LDA"
+    ],
+    "rejectedCandidateTopics": [
+      "Meghalaya autonomous-state formation date",
+      "Mawjymbuin Cave calcium-carbonate stalagmite formation",
+      "Meghalaya district headquarters",
+      "State Finance Commission under Article 243-I",
+      "Combined rate of work for two workers",
+      "Coefficient of variation calculation",
+      "No sooner had...than inversion",
+      "IPv6 address length",
+      "Ramsar Convention purpose",
+      "Quit India Movement launch year",
+      "GST e-way bill distance validity",
+      "GST blocked ITC on works contracts",
+      "Alphabet series — increasing odd gaps",
+      "Boats and streams — upstream speed",
+      "Mensuration — percentage change in square area",
+      "Probability — two draws without replacement",
+      "Plastic Waste Management — extended producer responsibility"
+    ],
+    "sourceReview": {
+      "verifiedDate": "2026-11-24",
+      "primarySources": [
+        "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+        "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+        "https://meghalaya.gov.in/22429-sq-km",
+        "https://meghalaya.gov.in/index.php/node/34297",
+        "https://ncert.nic.in/textbook.php",
+        "https://dictionary.cambridge.org/",
+        "https://systemhealth.rbi.org.in/Scripts/FS_Overview2752.aspx.html",
+        "https://learn.microsoft.com/en-us/office/",
+        "https://www.ietf.org/standards/rfcs/",
+        "https://www.indiacode.nic.in/bitstream/123456789/13332/1/water_act_1974.pdf",
+        "https://www.indiacode.nic.in/indiacode/handle/123456789/1389?view_type=browse",
+        "https://www.indiacode.nic.in/bitstream/123456789/1726/1/a1972-53.pdf",
+        "https://upload.indiacode.nic.in/showfile?actid=AC_CEN_16_18_00009_201019_1517807326004&filename=a2010-19.pdf&type=actfile",
+        "https://moef.gov.in/uploads/2020/01/final-version-and-printed-wetland-guidelines-rules-2017-03.01.20.pdf",
+        "https://cpcb.nic.in/uploads/plasticwaste/EC_Regime_PWM.pdf",
+        "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf",
+        "https://megipr.gov.in/pr/PR-2026-11.html",
+        "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_240.pdf",
+        "https://meghalaya.gov.in/index.php/press/content/51866",
+        "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+        "https://meghalaya.gov.in/sites/default/files/press_release/Press_Release_DIPR_251.pdf",
+        "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
+        "https://www.meggst.gov.in/gst/gst.html",
+        "https://www.meggst.gov.in/gst/tax_notifications_2025.html",
+        "https://cpcb.nic.in/displaypdf.php?id=Tm9pc2UtU3RhbmRhcmRzL25vaXNlX3J1bGVzXzIwMDAucGRm",
+        "https://www.meggst.gov.in/gst/tax_notifications_2026.html"
+      ],
+      "supportingSecondarySources": [
+        "https://taxguru.in/wp-content/uploads/2026/10/central-tax-notification-no-05-2026-gst-rules-amended-for-2026-27.pdf",
+        "https://www.caadityagoel.in/news"
+      ],
+      "legalVerification": {
+        "asOf": "2026-11-24",
+        "cgstActConsolidatedDate": "2026-06-11",
+        "testedSections": [
+          "2(47)",
+          "2(68)",
+          "2(78)",
+          "Schedule I",
+          "Schedule III",
+          "8",
+          "9(3)",
+          "57",
+          "59",
+          "60",
+          "62",
+          "63",
+          "64",
+          "67",
+          "68",
+          "97",
+          "103"
+        ],
+        "financeAct2026Amendments": {
+          "effectiveDate": "2026-11-01",
+          "amendedSections": [
+            "15",
+            "34",
+            "54"
+          ],
+          "overlapWithTestedSections": false
+        },
+        "environmentReferences": [
+          "Water Act 1974",
+          "Air Act 1981",
+          "Wild Life (Protection) Act 1972",
+          "National Green Tribunal Act 2010",
+          "Wetlands Rules 2017",
+          "Plastic Waste Management EPR",
+          "Solid Waste Management Rules 2026 effective 2026-04-01"
+        ],
+        "sourceURLs": [
+          "https://dictionary.cambridge.org/dictionary/english/comply",
+          "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15689/1/A2017-12.pdf",
+          "https://www.legislative.gov.in/static/uploads/2025/07/359f70a69695affb9d72f8393102bd2e.pdf",
+          "https://moef.gov.in/uploads/pdf-uploads/pdf_69a16e3b04c107.91022257.pdf",
+          "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+          "https://taxguru.in/wp-content/uploads/2026/10/central-tax-notification-no-05-2026-gst-rules-amended-for-2026-27.pdf",
+          "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
+          "https://www.meggst.gov.in/gst/gst.html",
+          "https://www.meggst.gov.in/gst/tax_notifications_2025.html",
+          "https://www.caadityagoel.in/news",
+          "https://www.meggst.gov.in/gst/tax_notifications_2026.html"
+        ],
+        "cbicInstruction": {
+          "reference": "Instruction No. 02/2026-GST",
+          "date": "2026-10-30",
+          "officialURL": "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+          "interim": true,
+          "scope": "Central Tax field formations under CBIC",
+          "topics": [
+            "No further GST arrests by Central Tax field formations",
+            "Intelligence-based and authorised conveyance interception",
+            "Restrictions on transit-state detention and confiscation",
+            "No show-cause notices below ₹10,000 under sections 73, 74 and 74A"
+          ],
+          "stateGSTApplicability": "No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was located in official public sources searched on 2026-11-24; do not assume the Central Tax instruction automatically applies to Meghalaya State GST formations.",
+          "effectOnSection68Question": "The instruction changes conveyance interception procedures; it does not remove the prescribed document-carrying obligation tested separately under section 68."
+        },
+        "meghalayaStateInstructionStatus": "The official 2026 Meghalaya Tax Notifications archive lists State Tax 01/2026, a GSTR-3B due-date extension. No separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026-GST was visible in that 2026 archive as of 2026-11-24; this does not prove that no separate instruction exists.",
+        "recentUpdatesReviewed": {
+          "financeAct2026": {
+            "reference": "Finance Act, 2026, sections 153–155",
+            "effectiveDate": "2026-11-01",
+            "cgstActSectionsAmended": [
+              "15",
+              "34",
+              "54"
+            ],
+            "overlapWithTestedSections": false
+          },
+          "notification05_2026": {
+            "reference": "Notification No. 05/2026-Central Tax, G.S.R. 919(E)",
+            "date": "2026-10-26",
+            "generalEffectiveDate": "2026-11-01",
+            "scope": [
+              "new Rule 14B",
+              "substituted Rules 19 and 20",
+              "changes to Rules 36, 39, 44, 54, 60, 62, 63, 86A, 89, 90, 91 and related forms"
+            ],
+            "hostedGazetteTextURL": "https://taxguru.in/wp-content/uploads/2026/10/central-tax-notification-no-05-2026-gst-rules-amended-for-2026-27.pdf",
+            "hostedCopyNote": "Full Gazette text reviewed from a hosted copy; the official CBIC portal listing for this notification was not retrieved in this run."
+          },
+          "corrigendum": {
+            "reference": "G.S.R. 1001(E) — corrigendum to G.S.R. 919(E)",
+            "date": "2026-11-18",
+            "officialCBICURL": "https://taxinformation.cbic.gov.in/view-pdf/1010830/ENG/Notifications",
+            "effectsReviewed": [
+              "corrected Rule 14B wording including operator consent and recordkeeping",
+              "corrected refund Rule 92(4) revalidation provisos for RFD-06 and RFD-05",
+              "corrected other registration and form wording"
+            ],
+            "testedQuestionOverlap": false
+          },
+          "gstnAdvisoryMetroRail": {
+            "date": "2026-11-20",
+            "topic": "Metro Rail added as a mode of transport under CGST Rule 138(2A)",
+            "sourceURL": "https://www.caadityagoel.in/news",
+            "testedQuestionOverlap": false
+          },
+          "cbicInstruction02_2026": {
+            "reference": "Instruction No. 02/2026-GST",
+            "date": "2026-10-30",
+            "officialURL": "https://taxinformation.cbic.gov.in/view-pdf/1000592/ENG/Instructions",
+            "scope": "Central Tax field formations under CBIC",
+            "topics": [
+              "interim direction on arrests",
+              "intelligence-based conveyance interception",
+              "transit-state detention/confiscation restrictions",
+              "small-notice directions under sections 73, 74 and 74A"
+            ],
+            "stateGSTApplicability": "State GST formations may issue similar instructions; no separate Meghalaya State GST instruction corresponding to this circular was visible in the public index checked."
+          }
+        },
+        "section62RuleDistinction": "Question 9430 tests section 62 of the CGST Act (best-judgment assessment of a non-filer). Notification 05/2026 changes rule 62(5) of the CGST Rules; these are different provisions and the question does not test the amended rule.",
+        "section68InstructionDistinction": "Question 9435 tests the statutory document/device-carrying obligation under section 68 of the CGST Act. CBIC Instruction 02/2026 changes conveyance-interception procedures; it does not remove the section 68 obligation.",
+        "meghalayaTaxationPortal": "https://www.meggst.gov.in/gst/gst.html",
+        "meghalayaTaxNotificationIndex": "https://www.meggst.gov.in/gst/tax_notifications_2026.html",
+        "meghalayaLatestListedStateTaxNotification": "State Tax 01/2026 vide No. ERTS(T) 3/2025/471 dated 21 April 2026, extending the March 2026 GSTR-3B due date to 21 April 2026, as listed in the official 2026 archive checked on 2026-11-24.",
+        "meghalayaTaxNotificationIndex2025": "https://www.meggst.gov.in/gst/tax_notifications_2025.html"
+      },
+      "notes": "Source and legal review completed on 2026-11-24. GST questions were checked against the CGST Act consolidated by India Code as of 2026-06-11, official CBIC instructions/notifications, and Meghalaya Taxation Department public pages. Finance Act 2026 sections 153–155 took effect on 2026-11-01 and amend CGST Act sections 15, 34 and 54; the tested statutory sections do not overlap those amendments. Notification 05/2026-Central Tax (G.S.R. 919(E), dated 2026-10-26; general effective date 2026-11-01) and its 2026-11-18 corrigendum were reviewed. The full notification text was reviewed from a hosted copy because the direct CBIC listing for that notification was not retrieved; the corrigendum was checked through the official CBIC tax-information portal. The 2026-11-20 Metro Rail mode update was treated as supporting secondary context and does not underpin an accepted question. Question 9430 tests CGST Act section 62, not CGST Rules rule 62(5). CBIC Instruction 02/2026-GST is addressed to Central Tax field formations; State GST applicability is not assumed. Section 68's statutory document/device-carrying duty remains distinct from the instruction's conveyance-interception procedures. The official Meghalaya 2026 Tax Notifications archive lists State Tax 01/2026 dated 2026-04-21 (March 2026 GSTR-3B due-date extension); no separate Meghalaya State GST instruction corresponding to CBIC Instruction 02/2026 was visible in that archive, which is an evidence limitation rather than proof of absence. Current-affairs questions were checked against Meghalaya I&PR PR Nos. 182/26, 181/26, 180/26 and 175/26, the official NEC October fund-release PDF, the Government FOCUS Plus release, and the post-screening Government release for the 31st European Film Festival. Environmental law questions were checked against India Code, MoEFCC and CPCB sources, including the Solid Waste Management Rules 2026 (effective 2026-04-01; the superseded 2016 Rules were not used) and the Noise Pollution (Regulation and Control) Rules 2000. Semantic review compared the 135 candidates against 1,288 pre-run active questions and 2,572 records from 19 official/partial PYQ files. Eight PYQ near-match pairs at Jaccard ≥0.40 were reviewed: five pairs were rejected across Q9465 (three boats-and-streams matches), Q9475 (one area-percentage match) and Q9540 (one two-draw without-replacement probability match); three Q9462 pairs were false positives because semicolon punctuation differs from the PYQ article, tense and pronoun skills. Two active-bank near-match pairs at Jaccard ≥0.45 were false positives (Q9458 and Q9461). Q9529 was separately rejected for the same EPR producer-responsibility learning objective as active Q9299 despite a below-threshold lexical score. Q9464's harmonic-mean average-speed method and Q9511's Government of India Act 1858 topic were retained as materially distinct. Replacements test LCM of recurring inspection intervals (Q9539), the sum of two independent die rolls (Q9541), and the residential daytime noise standard (Q9542). No unresolved semantic collisions remain."
+    },
+    "liveBuildMarker": "2026-11-24-original-practice-118",
+    "serviceWorkerCache": "mpsc-smart-study-v5-60-20261124",
+    "activeUniqueQuestionsAfterMerge": 1406,
+    "cumulativeUniqueAdditionsSinceRampStart": 525,
+    "remainingTo10000": 8712,
+    "candidateValidationRate": 0.8740740740740741,
+    "postMergeAudit": true,
+    "archiveParityVerified": true,
+    "canonicalEmbeddedParityVerified": true,
+    "liveDeploymentVerified": false,
+    "repositoryTestsPassed": true,
+    "currentActiveQuestions": 1406,
+    "pullRequestState": "merged",
+    "mainShaAtStartOfRun": "5888fc51255b73e0b64c302b5f392522a1e251be",
+    "proposedMainQuestionCount": 1406,
+    "exactStemCollisionCount": 0,
+    "optionSetCollisionCount": 0,
+    "activeNearMatchesReviewed": 2,
+    "pyqNearMatches": 3,
+    "withinBatchNearPairs": 0,
+    "finalBatchNearPairs": 0,
+    "rejectedCandidateDetails": [
+      {
+        "candidateId": "R24-01",
+        "topic": "Meghalaya autonomous-state formation date",
+        "reason": "Active question 6142 already asks the year Meghalaya became an autonomous State; an exact-date version would be a date-only variant."
+      },
+      {
+        "candidateId": "R24-02",
+        "topic": "Mawjymbuin Cave calcium-carbonate stalagmite formation",
+        "reason": "Active question 9048 already tests the same cave and calcium-carbonate deposition process."
+      },
+      {
+        "candidateId": "R24-03",
+        "topic": "Meghalaya district headquarters",
+        "reason": "Near-duplicate of existing district-headquarters questions."
+      },
+      {
+        "candidateId": "R24-04",
+        "topic": "State Finance Commission under Article 243-I",
+        "reason": "Already covered in the active Polity/municipal-finance cluster."
+      },
+      {
+        "candidateId": "R24-05",
+        "topic": "Combined rate of work for two workers",
+        "reason": "Repeated calculation pattern in active time-and-work questions."
+      },
+      {
+        "candidateId": "R24-06",
+        "topic": "Coefficient of variation calculation",
+        "reason": "Same statistic and calculation as active question 9413."
+      },
+      {
+        "candidateId": "R24-07",
+        "topic": "No sooner had...than inversion",
+        "reason": "Direct grammar-pattern overlap with active question 7259."
+      },
+      {
+        "candidateId": "R24-08",
+        "topic": "IPv6 address length",
+        "reason": "Too close to existing IP-address-length and DNS/networking coverage."
+      },
+      {
+        "candidateId": "R24-09",
+        "topic": "Ramsar Convention purpose",
+        "reason": "Repeats active wetland-conservation questions 90, 5079 and 6126."
+      },
+      {
+        "candidateId": "R24-10",
+        "topic": "Quit India Movement launch year",
+        "reason": "Exact historical fact already tested several times in the active bank."
+      },
+      {
+        "candidateId": "R24-11",
+        "topic": "GST e-way bill distance validity",
+        "reason": "Overlaps existing active e-way-bill validity questions 9036–9038."
+      },
+      {
+        "candidateId": "R24-12",
+        "topic": "GST blocked ITC on works contracts",
+        "reason": "Repeats the learning objective of active question 9308."
+      },
+      {
+        "candidateId": "9480",
+        "topic": "Alphabet series — increasing odd gaps",
+        "reason": "Rejected after semantic review because active question 7210 tests the same series-continuation skill; changing numbers to letters would be a superficial representation variant."
+      },
+      {
+        "candidateId": "9465",
+        "topic": "Boats and streams — upstream speed",
+        "reason": "Near-duplicate calculation of the same boats-and-streams speed relationship tested in official PYQs, including Investigator Housing 2024 Q143 and Labour Inspector 2021 Q52 (the partial Labour file repeats Q52). The calculation uses the same upstream/downstream speed relationship; rejected to avoid a superficial variant."
+      },
+      {
+        "candidateId": "9475",
+        "topic": "Mensuration — percentage change in square area",
+        "reason": "Near-duplicate of an official PYQ asking the percentage change in a cube's surface area after changing its side length. Both require the same linear-dimension-to-area scaling calculation; rejected despite different shape and numbers."
+      },
+      {
+        "candidateId": "9540",
+        "topic": "Probability — two draws without replacement",
+        "reason": "Near-duplicate of official Investigator Housing 2024 Q124: same 4-red/6-blue bag, two successive draws without replacement and same conditional-probability calculation; only the colour sequence/event changed. Rejected to avoid a superficial data/context variant."
+      },
+      {
+        "candidateId": "9529",
+        "topic": "Plastic Waste Management — extended producer responsibility",
+        "reason": "Concept overlap with active question 9299 on EPR for e-waste: both ask which producer-side party bears the defined end-of-life collection/processing responsibility. The waste stream differs, but the tested learning objective and answer pattern are substantially the same; rejected."
+      }
+    ],
+    "comparisonCorpusRecordsBeforeRun": 3860,
+    "comparisonCorpusRecordsAfterProposedMerge": 3978,
+    "rawPyqNearMatchPairsDetected": 8,
+    "pyqNearMatchPairsRejected": 5,
+    "pyqNearMatchPairsFalsePositive": 3,
+    "rawActiveNearMatchPairsDetected": 2,
+    "activeNearMatchPairsFalsePositive": 2,
+    "activeConceptOverlapCandidatesRejected": 1,
+    "semanticReview": {
+      "method": "Token Jaccard over normalized raw question stems after conservative function-word removal; threshold 0.40 against 2,572 PYQ records and 0.45 against 1,288 pre-run active questions; manual concept review of all threshold matches.",
+      "pyqFiles": 19,
+      "pyqRecords": 2572,
+      "activeQuestions": 1288,
+      "rawPyqPairs": 8,
+      "pyqPairsRejected": 5,
+      "pyqFalsePositives": 3,
+      "rawActivePairs": 2,
+      "activeFalsePositives": 2,
+      "activeConceptOverlapRejected": 1,
+      "unresolved": 0,
+      "reviewedNearMatchPairs": 10,
+      "falsePositiveNearMatches": 5,
+      "acceptedNearMatches": 5,
+      "rejectedNearMatchPairs": 5,
+      "rejectedNearMatches": 17,
+      "conceptOverlapCandidatesRejected": 1,
+      "manualReviewNotes": "Manual review of all threshold matches: eight PYQ near-match pairs at Jaccard ≥0.40 were reviewed; five pairs were rejected across candidates 9465 (three boats-and-streams matches), 9475 (one area-percentage match) and 9540 (one two-draw probability match). Three Q9462 pairs were false positives because the semicolon punctuation skill differs from the PYQ article, tense and pronoun skills. Two active-bank near-match pairs at Jaccard ≥0.45 were false positives: Q9458 (abrogate vs meticulous) and Q9461 (whom after a preposition vs do/does agreement). Q9529 was separately rejected for the same EPR producer-responsibility learning objective as active Q9299 despite a below-threshold lexical score. Q9464 (harmonic-mean average speed) and Q9511 (Government of India Act 1858) were manually retained as materially different from their closest active questions. No unresolved semantic collisions remain."
+    },
+    "pagesDeploymentRunId": 45331855960,
+    "pagesBuildConclusion": "success",
+    "mainShaAfterMerge": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+    "liveDeploymentNote": "GitHub Pages build/deployment workflow completed successfully, but the verification client could not fetch the live Pages URL to confirm build marker 2026-11-24-original-practice-118; live content remains unverified.",
+    "cumulativeUniqueAdditionsAfterRun": 525,
+    "remainingTo10000AfterRun": 8594,
+    "currentDailyTargetAfterRun": 150,
+    "nextDailyTargetAfterRun": 150,
+    "pagesWorkflowRunId": 45331855960,
+    "pagesWorkflowStatus": "success",
+    "currentDailyTarget": 150,
+    "validationWorkflowRunId": 45331856742,
+    "validationWorkflowStatus": "success",
+    "currentMainShaAtRunEnd": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
+    "activeFingerprintCount": 1406,
+    "fingerprintAlgorithm": "fnv1a-32bit-normalized-stem-options-answer-topic-and-token-hashes-v2",
+    "nearSemanticCollisions": "not assessed",
+    "repositoryMaintenance": {
+      "pr126Merged": true,
+      "mergeCommitSha": "ee8b784bce8674da54fa2e08a05f8e28732d2987",
+      "validationRun": 45749327221,
+      "validationConclusion": "success"
+    }
   }
 }
