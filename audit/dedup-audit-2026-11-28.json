@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-28",
+  "campaign": "MPSC Smart Study Hub original-practice ramp-up",
+  "repository": "pynshaishangoi/MPSC",
+  "repositoryVisibility": "public",
+  "mainSha": "ee8b784bce8674da54fa2e08a05f8e28732d2987",
+  "target": 150,
+  "nextTarget": 150,
+  "previousCompletedRun": {
+    "date": "2026-11-24",
+    "target": 130,
+    "drafted": 135,
+    "validated": 118,
+    "merged": 118,
+    "targetAchievementRate": 0.9076923077,
+    "nextTarget": 150,
+    "allRecordedGatesPassed": true
+  },
+  "startingActiveQuestionCount": 1406,
+  "endingActiveQuestionCount": 1406,
+  "production": {
+    "drafted": 0,
+    "validated": 0,
+    "merged": 0,
+    "activeUniqueAdditions": 0,
+    "rejected": 0
+  },
+  "deduplication": {
+    "complete": false,
+    "exactChecksCompleted": false,
+    "optionInsensitiveChecksCompleted": false,
+    "semanticChecksCompleted": false,
+    "scopeInventoried": {
+      "canonicalBank": "index.html exists but full contents could not be retrieved by GitHub file fetch in this run",
+      "archiveBatches": 22,
+      "pyqQuestionJsonFiles": 19,
+      "additionalOfficialPaper": "Secretariat LDA 2025 Series I: 150 questions",
+      "latestExistingDedupIndex": "2026-11-24"
+    },
+    "collisionCounts": "not assessed; no candidates drafted",
+    "blocker": "The latest dedup index predates the newly merged 150-question Secretariat PYQ, and the full canonical index.html could not be retrieved to rebuild the active corpus. No collision-free claim is made.",
+    "historicalClusters": "Not recalculated; prior 2026-11-24 audit values remain historical only."
+  },
+  "repositoryMaintenance": {
+    "pr126": {
+      "url": "https://github.com/pynshaishangoi/MPSC/pull/126",
+      "status": "merged",
+      "mergeCommitSha": "ee8b784bce8674da54fa2e08a05f8e28732d2987",
+      "validationRunUrl": "https://github.com/actions/runs/45749327221",
+      "validation": "success"
+    },
+    "filesChanged": [
+      "README.md",
+      "scripts/validate-repo.cjs"
+    ],
+    "noQuestionBankChanges": true,
+    "visibilityUnchanged": true
+  },
+  "subjectsCovered": [],
+  "examTracksCovered": [],
+  "sourceVerification": "No new practice-question sources reviewed because no candidates were drafted.",
+  "tests": "PR #126 repository validation passed; no new question-batch test was run.",
+  "liveDeployment": {
+    "verified": false,
+    "status": "not checked in this run"
+  },
+  "cumulativeUniqueAdditionsSinceRampStart": 525,
+  "remainingTo10000": 8594,
+  "decision": "Hold target at 150. Do not draft until full canonical active-bank and updated PYQ semantic corpus are rebuilt."
+}
