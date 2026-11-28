@@ -437,6 +437,14 @@ if (!html.includes('Predicted Mock — original practice questions only')) fail(
 
 
 console.log('Validation passed.');
+
+const ldaSecretariat2025 = jsonFile('pyq-papers/lda-secretariat-2025-series-i.json');
+const ldaSecretariatCatalog = jsonFile('pyq-papers/index.json').papers.find(p=>p.id==='meghalaya-pyq-002');
+const ldaScoreable = ldaSecretariat2025.questions.filter(q=>Number.isInteger(q.answerIndex));
+const ldaUnscored = ldaSecretariat2025.questions.filter(q=>q.answerIndex===null);
+if (ldaSecretariat2025.complete!==true || ldaSecretariat2025.questions.length!==150 || ldaSecretariat2025.transcribedQuestions!==150 || new Set(ldaSecretariat2025.questions.map(q=>q.id)).size!==150 || ldaScoreable.length!==147 || ldaUnscored.map(q=>q.number).sort((a,b)=>a-b).join(',')!=='27,141,148' || !ldaSecretariatCatalog || ldaSecretariatCatalog.complete!==true || ldaSecretariatCatalog.availableQuestions!==150) fail('Complete Secretariat LDA 2025 Series I PYQ transcription/catalogue is inconsistent');
+if (!readme.includes('complete 150-question transcription') || readme.includes('for 91/150 total') || readme.includes('Questions 92–150 remain to be transcribed')) fail('README Secretariat LDA 2025 coverage summary is stale');
+
 console.log('Embedded questions: ' + embedded.length);
 console.log('Archived batches: ' + batchFiles.length + ' files / ' + archiveCount + ' mirrored questions (not runtime-loaded)');
 console.log('Active unique question records: ' + active.length);
