@@ -58,37 +58,33 @@
     "notUsedForRampGate": true
   },
   "latestRun": {
-    "date": "2026-11-28",
-    "status": "blocked_before_drafting",
-    "target": 150,
-    "startingActiveQuestions": 1406,
-    "draftedCandidates": 0,
-    "validatedQuestions": 0,
-    "mergedQuestions": 0,
-    "activeUniqueAdditions": 0,
+    "date": "2026-11-24",
+    "status": "completed",
+    "target": 130,
+    "startingActiveQuestions": 1288,
+    "draftedCandidates": 135,
+    "validatedQuestions": 118,
+    "mergedQuestions": 118,
+    "activeUniqueAdditions": 118,
     "projectedActiveUniqueCount": 1406,
-    "passRate": null,
-    "targetAchievementRate": 0,
-    "rejectedCandidates": 0,
-    "exactStemCollisions": "not run",
-    "optionSetCollisions": "not run",
+    "passRate": 0.8740740740740741,
+    "targetAchievementRate": 0.9076923076923077,
+    "rejectedCandidates": 17,
+    "exactStemCollisions": 0,
+    "optionSetCollisions": 0,
     "nearSemanticCollisionsRejected": 17,
     "withinBatchNearDuplicateCandidatesRejected": 0,
-    "unresolvedSemanticCollisions": "not assessed",
+    "unresolvedSemanticCollisions": 0,
     "optionOnlyFingerprintMatchesReviewed": 0,
-    "qualityGatePassed": false,
-    "dedupGatePassed": false,
-    "sourceGatePassed": false,
+    "qualityGatePassed": true,
+    "dedupGatePassed": true,
+    "sourceGatePassed": true,
     "repositoryGatePassed": true,
-    "mergeGatePassed": false,
-    "targetGatePassed": false,
-    "gatePassed": false,
+    "mergeGatePassed": true,
+    "targetGatePassed": true,
+    "gatePassed": true,
     "nextDailyTarget": 150,
-    "blockers": [
-      "The full canonical active-bank source index.html could not be retrieved in this run; its GitHub file fetch returned an empty payload, so the canonical 1,406-question stem corpus could not be independently rebuilt.",
-      "The 150-question Secretariat LDA Series I PYQ merged on 2026-11-24 after the 2026-11-24 semantic index was created. Its 150 records must be incorporated into the PYQ comparison corpus before any new practice drafting.",
-      "No candidates were drafted or published because exact, option-insensitive and semantic zero-repeat checks could not be completed against the refreshed full corpus."
-    ],
+    "blockers": [],
     "officialPyqFilesFetched": 18,
     "officialPyqFilesTotal": 18,
     "officialPyqQuestionRecords": 2433,
@@ -111,7 +107,7 @@
     "githubActionsRun": 45331856742,
     "githubActionsConclusion": "success",
     "deploymentVerified": false,
-    "deploymentStatus": "Live Pages build marker not checked in this run.",
+    "deploymentStatus": "Pages workflow succeeded; live URL content unverified.",
     "preDraftActiveQuestions": 1288,
     "postMergeActiveQuestions": 1406,
     "comparedPyqFiles": 19,
@@ -473,14 +469,7 @@
     "validationWorkflowStatus": "success",
     "currentMainShaAtRunEnd": "b4b0f6701b5b9f8782aaa62aee8d0455b3a742ab",
     "activeFingerprintCount": 1406,
-    "fingerprintAlgorithm": "fnv1a-32bit-normalized-stem-options-answer-topic-and-token-hashes-v2",
-    "nearSemanticCollisions": "not assessed",
-    "repositoryMaintenance": {
-      "pr126Merged": true,
-      "mergeCommitSha": "ee8b784bce8674da54fa2e08a05f8e28732d2987",
-      "validationRun": 45749327221,
-      "validationConclusion": "success"
-    }
+    "fingerprintAlgorithm": "fnv1a-32bit-normalized-stem-options-answer-topic-and-token-hashes-v2"
   },
   "nextDailyTarget": 150,
   "cumulativeUniqueAdditionsSinceRampStart": 525,
@@ -849,7 +838,7 @@
       "drafted": 0,
       "validated": 0,
       "merged": 0,
-      "status": "blocked_before_drafting",
+      "status": "preflight_blocked_before_drafting",
       "nextTarget": 150
     }
   ],
@@ -1999,7 +1988,7 @@
     "postCorrectionMainSha": "745db9ff1200e788f4ef169e54e242f6b99af1c4",
     "mainShaAtStartOfRun": "bebb1b5ce4cdf346861d009ca834c7a2d9036943"
   },
-  "previousCompletedRunDetails": {
+  "latestPreflightRun": {
     "date": "2026-11-28",
     "status": "blocked_before_drafting",
     "target": 150,
@@ -2422,6 +2411,7 @@
       "mergeCommitSha": "ee8b784bce8674da54fa2e08a05f8e28732d2987",
       "validationRun": 45749327221,
       "validationConclusion": "success"
-    }
+    },
+    "previousCompletedRunDate": "2026-11-24"
   }
 }
